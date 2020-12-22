@@ -148,6 +148,7 @@ ABVC,American BriVision (Holding) Corporation Common Stock,U
 ABVG,"Affinity Beverage Group, Inc. Common Stock",U
 ABVN,ABV CONSULTING INC Common Stock,U
 ABWN,Airborne Wireless Network Common Stock,U
+ABXXF,ABAXX Technologies Inc. Common Shares (Canada),U
 ABYB,Amboy Bancorporation Common Stock,U
 ABZPF,Aboitiz Power Corp. Ordinary Shares (Phillippines),U
 ABZPY,Aboitiz Power Corp. Unsponsored ADR (Phillipines),U
@@ -224,6 +225,7 @@ ACIU,AC Immune SA Common Stock,NASDAQ
 ACIW,"ACI Worldwide, Inc. Common Stock",NASDAQ
 ACKAY,Arcelik A S Unsponsored ADR (Turkey),U
 ACKDF,Auckland International Airport Ltd Ordinary Shares (New Zealand),U
+ACKIU,Ackrell SPAC Partners I Co. Units,NASDAQ
 ACKRF,American Creek Resources Ltd Common  Shares (Canada),U
 ACLD,Acquire Ltd Common Stock,U
 ACLLF,Atco Ltd  Cl I Nv Cda Ordinary Shares,U
@@ -513,7 +515,7 @@ AFI,"Armstrong Flooring, Inc.",NYSE
 AFIB,"Acutus Medical, Inc. Common Stock",NASDAQ
 AFIF,Anfield Universal Fixed Income ETF,BATS
 AFIN,"American Finance Trust, Inc. Class A Common Stock",NASDAQ
-AFINO,AMERICAN FIN TR INC CUMULATIVE REDEEMABLE PERPETUAL PFD SER C,U
+AFINO,"American Finance Trust, Inc. 7.375% Series C Cumulative Redeemable Preferred Stock",NASDAQ
 AFINP,"American Finance Trust, Inc. 7.50% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 AFIPA,Amfi Corp Common Stock,U
 AFK,VanEck Vectors Africa Index ETF,ARCA
@@ -620,7 +622,6 @@ AGOL,Andina Gold Corp. Common Stock,U
 AGOWF,Abengoa SA Warrant Expiring 03/31/2025 (Spain),U
 AGPDF,Amer Sports Corporation Ordinary Shares (Finland),U
 AGPIF,Anglo Pacific Res Plc Ord Ordinary Shares,U
-AGPKF,Augros Cosmetics Packaging Sa Ordinary Shares France (FR),U
 AGPL,"Apple Green Holding, Inc. Common",U
 AGPPF,Anglo Platinum Ltd Ordinary Shares (South Africa),U
 AGPYF,Agile Property Holdings Limited Ordinary Shares (Cayman Islands),U
@@ -686,7 +687,7 @@ AHH,"Armada Hoffler Properties, Inc.",NYSE
 AHH PRA,"Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock",NYSE
 AHICF,"Asahi Intec Co Ltd, Nagoya Ordinary Shares (Japan)",U
 AHII,American Heritage International Inc. Common Stock,U
-AHIX,"Aluf Holdings, Inc. Common Stock",U
+AHIXD,"Aluf Holdings, Inc. Common Stock",U
 AHKSF,Asahi Kaisai Corporation Ordinary Shares,U
 AHKSY,Asahi Kaisai Corporation American Depositary Shares,U
 AHL PRC,Aspen Insurance Holdings Limited 5.95% Fixed-to-Floating Rate Perpetual Non-Cumulative Preference Sh,NYSE
@@ -1117,7 +1118,7 @@ AMLZF,African Minerals Limited Ordinary Shares (Bermuda),U
 AMMCF,Amur Minerals Corporation Ordinary shares (British Virgin Islands),U
 AMMHF,AMMB Holdings BHD Ordinary Shares (Malaysia),U
 AMMJ,"American Cannabis Company, Inc. Common Stock",U
-AMMX,AMERAMEX INTERNATIONAL INC Common Stock,U
+AMMXD,AMERAMEX INTERNATIONAL INC Common Stock,U
 AMN,AMN Healthcare Services,NYSE
 AMNA,ETRACS Alerian Midstream Energy Index ETN,ARCA
 AMNB,"American National Bankshares, Inc. Common Stock",NASDAQ
@@ -1961,6 +1962,7 @@ AVAN U,"Avanti Acquisition Corp. Units, each consisting of one Class A ordinary 
 AVAN WS,"Avanti Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinar",NYSE
 AVASF,Avast PLC Ordinary Shares (United Kingdom),U
 AVAV,"AeroVironment, Inc. Common Stock",NASDAQ
+AVAXF,Avenue Assets BHD Ordinary Shares (Malaysia),U
 AVB,"AvalonBay Communities, Inc.",NYSE
 AVBH,"Avidbank Holdings, Inc. Common Stock",U
 AVCNF,Avicanna Inc Common Shares (Canada),U
@@ -2026,7 +2028,7 @@ AVOT,American Video Teleconferencng Common Stock,U
 AVOZ,"Altavoz Entertainment, Inc. Common Stock",U
 AVPFF,Avcorp Industries Inc Ordinary Shares (Canada),U
 AVPI,"AVP, Inc. Common Stock",U
-AVPMF,"Avrupa Minerals, Ltd. Ordinary Shares (Canada)",U
+AVPMD,"Avrupa Minerals, Ltd. Common Shares",U
 AVRI,Averox Inc. Common Stock,U
 AVRN,"Avra, Inc. Common Stock",U
 AVRO,"AVROBIO, Inc. Common Stock",NASDAQ
@@ -2224,6 +2226,7 @@ BAF,BLACKROCK MUNICIPAL INCOME INVESTMENT QUALITY TRUST,NYSE
 BAFBF,Balfour Beatty Plc Ordinary Shares,U
 BAFI,BancAffiliated Inc Common Stock,U
 BAFYY,Balfour Beatty Plc Sponsored ADR (United Kingdom),U
+BAGFF,A G Barr Plc Ordinary Shares (United Kingdom),U
 BAH,Booz Allen Hamilton Holding Corporation,NYSE
 BAINF,Base Inc Ordinary Shares  (Japan),U
 BAJFF,Camrova Resources Inc Ordinary Shares,U
@@ -2335,6 +2338,7 @@ BBU,Brookfield Business Partners L.P.Limited Partnership Units,NYSE
 BBUCQ,Big Buck Brewery & Steakhouse Inc. Common Stock,U
 BBUS,JPMorgan BetaBuilders U.S. Equity ETF,BATS
 BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",NYSE
+BBVTF,BBTV Holdings Inc Com Sub Voting Shs (Canada),U
 BBVXF,Banco Bilbao Vizcaya Pfd B Ordinary Shares,U
 BBW,"Build-A-Bear Workshop, Inc.",NYSE
 BBXIA,"BBX Capital, Inc. Common Stock Class A",U
@@ -2589,7 +2593,7 @@ BGAIF,Bio Gaia Biologics AB Shs B,U
 BGAOF,Proximus SA DE Droit PUB Ordinary Shares,U
 BGAOY,Proximus Group American Depositary Receipts - Unsponsored,U
 BGAVF,Bravada Gold Corp. New Ordinary Shares,U
-BGB,BLACKSTONE / GSO STRATEGIC CREDIT FUND,NYSE
+BGB,Blackstone Strategic Credit Fund,NYSE
 BGCHY,BEGA CHEESE LTD  American Depositary Receipts - Unsponsored (Australia),U
 BGCP,"BGC Partners, Inc Class A Common Stock",NASDAQ
 BGEM,Blue Gem Enterprise Common Stock,U
@@ -2625,7 +2629,7 @@ BGSHF,Shin Nippon Plc Baille Gifford Ordinary Shares,U
 BGSWF,Bergesen Worldwide Offshore Limited  Common Shares,U
 BGT,BlackRock Floating Rate Income Trust,NYSE
 BGUUF,Benguet Corp BC Ordinary Shares (Phillippines),U
-BGX,Blackstone / GSO Long-Short Credit Income Fund,NYSE
+BGX,Blackstone Long-Short Credit Income Fund,NYSE
 BGY,BlackRock Enhanced International Dividend Trust,NYSE
 BH,Biglari Holdings Inc. Class B Common Stock,NYSE
 BH A,Biglari Holdings Inc. Class A Common Stock,NYSE
@@ -2764,7 +2768,6 @@ BJURF,Bonjour Holdings Limited Ordinary Shares (Cayman Islands),U
 BJWTF,"Beijing Enterprises Water Group, Ltd Ordinary Shares (Bermuda)",U
 BJWTY,"Beijing Enterprises Water Group, Ltd ADR (Unsponsored) (Bermuda)",U
 BK,Bank of New York Mellon Corporation,NYSE
-BK PRC,"THE BANK OF NEW YORK MELLON CORPORATION Depositary Shares each representing a 1/ 4,000th interest in",NYSE
 BKAAF,Brookfield Office Pptys Inc Class AAA Preferred Shs Series N (Canada),U
 BKAG,BNY Mellon Core Bond ETF,ARCA
 BKAHF,Bank Of Ayudhya Public Co Ltd Units Non-Voting Depository Receipt (Thailand),U
@@ -3386,7 +3389,7 @@ BSJQ,Invesco BulletShares 2026 High Yield Corporate Bond ETF,NASDAQ
 BSJR,Invesco BulletShares 2027 High Yield Corporate Bond ETF,NASDAQ
 BSJS,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco BulletShares 2028 High Yield Corporate Bond ETF,NASDAQ
 BSKZF,Bambuser AB Common Stock (Sweden),U
-BSL,Blackstone / GSO Senior Floating Rate Term Fund,NYSE
+BSL,Blackstone Senior Floating Rate Term Fund,NYSE
 BSM,"Black Stone Minerals, L.P.",NYSE
 BSML,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco BulletShares 2021 Municipal Bond ETF,NASDAQ
 BSMM,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco BulletShares 2022 Municipal Bond ETF,NASDAQ
@@ -5159,8 +5162,10 @@ CONC,ConectiSys Corporation Common Stock,U
 CONE,CyrusOne Inc Common Stock,NASDAQ
 CONIF,"Celltrion, Inc. Ordinary Shares (South Korea)",U
 CONN,"Conn's, Inc. Common Stock",NASDAQ
+CONX,CONX Corp. Class A Common Stock,NASDAQ
 CONXF,Conic Metal Corp Common Shares (Canada),U
 CONXU,CONX Corp. Unit,NASDAQ
+CONXW,CONX Corp. Warrant,NASDAQ
 COO,"The Cooper Companies, Inc.",NYSE
 COOLU,Corner Growth Acquisition Corp. Unit,NASDAQ
 COOP,Mr. Cooper Group Inc. Common Stock,NASDAQ
@@ -5221,7 +5226,3 @@ CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
-CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
-CPER,United States Copper Index Fund,ARCA
-CPEU,"Chapeau, Inc. Common Stock",U
-CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U

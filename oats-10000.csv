@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWRRF,Engold Mines Ltd Ordinary Shares,U
+GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
+GWSAF,Gowest Gold Ltd Ordinary Shares,U
+GWSN,"Gulf West Security Network, Inc. Common Stock",U
 GWSO,"Global Warming Solutions, Inc. Common Stock",U
 GWTI,"Greenway Technologies, Inc. Common Stock",U
 GWTNF,Grande West Transn Group Inc Ordinary Shares (Canada),U
@@ -381,6 +385,7 @@ HIPEF,Hibiscus Petroleum Bhd Ordinary Shares (Malaysia),U
 HIPH,American Premium Water Corporation Common Stock,U
 HIPR,Direxion High Growth ETF,ARCA
 HIPS,GraniteShares HIPS US High Income ETF,ARCA
+HIRRF,Hire Technologies Inc Common Shares (Canada),U
 HIRU,Hiru Corporation Common Stock,U
 HISEF,Hisense Kelon Electrical Holdings Co Ltd Ordinary Shares,U
 HISJF,H I S Co Ltd (Jpn) Ordinary Shares,U
@@ -953,7 +958,6 @@ HYMC,Hycroft Mining Holding Corporation Class A Common Stock,NASDAQ
 HYMCW,Hycroft Mining Holding Corporation  Warrant,NASDAQ
 HYMCZ,Hycroft Mining Holding Corporation Warrant,NASDAQ
 HYMLF,Hyundai Motor Co Ltd Ordinary Shares,U
-HYMOF,Hyundai Motor Co Ltd Pfd Shs Issued 1999 (South Korea),U
 HYMPF,Hyundai Motor Co Ltd PFD Shares Non-Voting,U
 HYMTF,Hyundai Motor Co Ltd Global Depositary Shares,U
 HYMWW,Hycroft Mining Holding Corp Warrant Pur Class A Exp 10/06/2025,U
@@ -1733,7 +1737,6 @@ IONKF,Ionic Brands Corp Ordinary Shares,U
 IONS,"Ionis Pharmaceuticals, Inc. Common Stock",NASDAQ
 IOO,iShares Global 100 ETF,ARCA
 IOOFF,Ioof Holdings Ltd Ordinary Shares (Australia),U
-IOOFY,Ioof Holdings Ltd American Depositary Shares (Sponsored) (Australia),U
 IOOXF,iShares Core Canadian Long Term Bond Index ETF (Canada),U
 IOR,"Income Opportunity Realty Investors, Inc.",AMEX
 IORG,"INTREorg Systems, Inc. Common Stock",U
@@ -1781,9 +1784,6 @@ IPMTW,IPAYMENT HLDGS INC-DEL Wt Pur Com Expiring 12/29/2022,U
 IPNFF,"ImagineAR, Inc. Common Shares",U
 IPO,Renaissance IPO ETF,ARCA
 IPOAF,Industrias Penoles Cl B Ser 2 Ordinary Shares,U
-IPOB,Social Capital Hedosophia Holdings Corp. II,NYSE
-IPOB U,"Social Capital Hedosophia Holdings Corp. II Units, each consisting of one Class A ordinary share and",NYSE
-IPOB WS,"Social Capital Hedosophia Holdings Corp. II Redeemable Warrants, each whole warrant exercisable for",NYSE
 IPOC,Social Capital Hedosophia Holdings Corp. III,NYSE
 IPOC U,"Social Capital Hedosophia Holdings Corp. III Units, each consisting of one Class A ordinary share an",NYSE
 IPOC WS,"Social Capital Hedosophia Holdings Corp. III Redeemable Warrants, each whole warrant exercisable for",NYSE
@@ -1864,8 +1864,6 @@ IREHF,Integrated Research Ltd Ordinary Shares (Australia),U
 IREMF,Ishares Msci Ordinary shares (Ireland),U
 IREP,"Interep National Radio Sales, Inc. Class A Common Stock",U
 IRESF,Ishares Plc - Ishares Core FTSE 100 Ucits ETF Usd Hedged Acc (Ireland),U
-IRET,Investors Real Estate Trust,NYSE
-IRET PRC,Investors Real Estate Trust 6.625 Percent Series C Cumulative Redeemable Preferred Shares (Liquidati,NYSE
 IRIDQ,Iridium World Communications Ltd. A Shares (United Kingdom),U
 IRIG,Integrated Drilling Equipment Holdings Corp. Common,U
 IRIX,IRIDEX Corporation Common Stock,NASDAQ
@@ -3328,6 +3326,7 @@ LBLTF,Lattice Biologics Ltd Common Shares,U
 LBRDA,Liberty Broadband Corporation Class A Common Stock,NASDAQ
 LBRDB,Liberty Broadband Corporation Common Stock Series B,U
 LBRDK,Liberty Broadband Corporation Class C Common Stock,NASDAQ
+LBRDP,Liberty Broadband Corporation Series A Cumulative Redeemable Preferred Stock,NASDAQ
 LBRG,"Ladybug Resource Group, Inc. Common Stock",U
 LBRMF,Labrador Iron Mines Holdings Ltd Ordinary Shares (Canada),U
 LBRT,Liberty Oilfield Services Inc. Class A Common Stock,NYSE
@@ -4662,7 +4661,6 @@ MKIN,MCNB Banks Inc Common Stock,U
 MKKGY,"Merck KGaA, Darmstadt, Germany American Depositary Receipts - Sponsored",U
 MKKOF,Marimekko Oy Ordinary Shares (Finland),U
 MKL,Markel Corporation,NYSE
-MKMIF,Murakami Corp Ordinary Shares (Japan),U
 MKMLF,Makino Milling Ordinary Shares,U
 MKNGF,MKANGO RES LTD Common Shares,U
 MKRIF,Melkior Resources Inc Ordinary Shares,U
@@ -4757,6 +4755,7 @@ MMCGF,MANAGEMENT CONSULTING GROUP PLC Ordinary Shares,U
 MMCOF,"Members Co Ltd, Tokyo Ordinary Shares (Japan)",U
 MMD,MainStay MacKay DefinedTerm Municipal Opportunities Fund,NYSE
 MMDDF,Mirriad Advertising Ltd Ordinary Shares (United Kingdom),U
+MMDWF,Mind Medicine Mindmed Inc Warrant Exp 05/22/2022 (Canada),U
 MMEDF,MIND MEDICINE MINDMED INC COM SUB VTG (Canada),U
 MMEX,MMEX Resources Corporation Common Stock,U
 MMHEF,Malaysia Marine & Heavy Engineering SDN BHD Ordinary Shares (Malaysia),U
@@ -5225,3 +5224,5 @@ MTLRF,Metalore Resources Ltd Ordinary Shares,U
 MTLS,Materialise NV American Depositary Shares,NASDAQ
 MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
 MTMW,"Matmown, Inc. Common",U
+MTN,"Vail Resorts, Inc.",NYSE
+MTNB,"Matinas BioPharma Holdings, Inc.",AMEX

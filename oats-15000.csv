@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTN,"Vail Resorts, Inc.",NYSE
-MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
 MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
 MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
@@ -502,7 +500,6 @@ NGL PRB,NGL Energy Partners LP 9.00% Class B Fixed-to-Floating Rate Cumulative R
 NGL PRC,NGL Energy Partners LP 9.625% Class C Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferr,NYSE
 NGLD,Nevada Canyon Gold Corp Common Stock,U
 NGLOY,Anglo American plc Sponsored ADR (United Kingdom),U
-NGLS PRA,Targa Resources Partners LP 9.00% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Pr,NYSE
 NGM,"NGM Biopharmaceuticals, Inc. Common Stock",NASDAQ
 NGMC,Next Generation Management Corp. Common Stock,U
 NGMS,NeoGames S.A. Ordinary Shares,NASDAQ
@@ -854,7 +851,7 @@ NPPMF,Nippon Light Metal Holdings Co Ltd. Ordinary Shares (Japan),U
 NPPNY,Nippon Shinyaku Co Ltd American Depositary Receipts - Unsponsored (Japan),U
 NPPRF,Nippon Ceramic Co Ltd Ordinary Shares (Japan),U
 NPPSF,Nippon Sharyo Seizo Ordinary Shares,U
-NPPTF,Neptune Dash Technologies Corp Ordinary Shares (Canada),U
+NPPTF,Neptune Digital Assets Corp Ordinary Shares,U
 NPPXF,Nippon Tel & Tel Cp Ordinary Shares,U
 NPRRF,Nipro Corp Ordinary Shares (Japan),U
 NPRTF,NIPPON REIT INVT CORP SHS (Japan),U
@@ -870,7 +867,6 @@ NPTN,NEOPHOTONICS CORP,NYSE
 NPTVF,Nippon T V Network Ordinary Shares,U
 NPTX,"Neuropathix, Inc. Common Stock",U
 NPV,Nuveen Virginia Quality Municipal Income Fund,NYSE
-NPWI,New Leap Inc Common Shares,U
 NQMIY,NQ Minerals PLC Sponsored ADR (United Kingdom),U
 NQMLF,NQ Minerals PLC Ordinary Shares (United Kingdom),U
 NQP,Nuveen Pennsylvania Quality Municipal Income Fund,NYSE
@@ -945,7 +941,6 @@ NSC,Norfolk Southern Corp.,NYSE
 NSCIF,Nanalysis Scientific Corp Common Shares (Canada),U
 NSCO,"Nesco Holdings, Inc. Common Stock",NYSE
 NSCO WS,"Nesco Holdings, Inc. Warrants, exerciseable for Common Stock",NYSE
-NSDFF,Nippon Soda Co Ltd Ordinary Shares (Japan),U
 NSEC,"National Security Group, Inc. Common Stock",NASDAQ
 NSEO,NS8 Corporation Common Stock,U
 NSFDF,NXT Energy Solutions Inc. Ordinary Shares (Canada),U
@@ -1608,6 +1603,8 @@ OPBK,OP Bancorp Common Stock,NASDAQ
 OPBXF,OPTIBIOTIX HEALTH PLC Ordinary Shares (United Kingdom),U
 OPCGF,Organic Potash Corp Common Shares (Canada),U
 OPCH,"Option Care Health, Inc. Common Stock",NASDAQ
+OPEN,Opendoor Technologies Inc Common Stock,NASDAQ
+OPENW,Opendoor Technologies Inc Warrants expiring 12/18/2025,NASDAQ
 OPER,ClearShares Ultra-Short Maturity ETF,ARCA
 OPESF,Otello Corp Asa Ordinary Shares,U
 OPGN,"OpGen, Inc. Common Stock",NASDAQ
@@ -3417,6 +3414,7 @@ QCPC,Quantex Capital Corporation Common Stock,U
 QCRH,"QCR Holdings, Inc. Common Stock",NASDAQ
 QCXGF,QCX Gold Corp.  American Depositary Receipts - Sponsored,U
 QD,"Qudian Inc. American Depositary Shares, each representing one Class A Ordinary Share",NYSE
+QDEC,FT Cboe Vest Growth-100 Buffer ETF - December,BATS
 QDEF,FlexShares Quality Dividend Defensive Index Fund,ARCA
 QDEL,Quidel Corporation Common Stock,NASDAQ
 QDF,FlexShares Quality Dividend Index Fund,ARCA
@@ -3806,6 +3804,7 @@ REFXF,Redflow ltd Ordinary Shares,U
 REG,Regency Centers Corporation Common Stock,NASDAQ
 REGI,"Renewable Energy Group, Inc. Common Stock",NASDAQ
 REGL,ProShares S&P MidCap 400 Dividend Aristocrats ETF,BATS
+REGMF,Remegen Co Ltd. Ordinary Shares (China),U
 REGN,"Regeneron Pharmaceuticals, Inc. Common Stock",NASDAQ
 REGRF,Graph Blockchain Inc Ordinary Shares,U
 REHB,"Channel Holdings, Inc. Common Stock",U
@@ -4183,6 +4182,7 @@ RNWB,Renewable Corporation (The) New Common Stock,U
 RNWEF,REC SILICON ASA Ordinary Shares (Norway),U
 RNWEY,REC Silicon ASA American Depositary Receipts - Unsponsored,U
 RNWF,"Renewal Fuels, Inc. Common Stock",U
+RNWHF,Renew Holdings PLC Ordinary Shares (United Kingdom),U
 RNWK,"RealNetworks, Inc. Common Stock",NASDAQ
 RNWR,808 Renewable Energy Corp. Common,U
 ROAD,"Construction Partners, Inc. Class A Common Stock",NASDAQ
@@ -4537,7 +4537,6 @@ SAEI,"Supatcha Resources, Inc. Common Stock",U
 SAENF,Solar Alliance Energy Inc New Common Shares,U
 SAEOF,Sanden Hldgs Corp Ordinary Shares (Japan),U
 SAEUF,Saturn Oil & Gas Inc. Common Shares,U
-SAEXQ,"SAExploration Holdings, Inc. Common Stock",U
 SAEYY,Shop Apotheke Europe NV  American Depositary Receipts - Unsponsored,U
 SAF,Saratoga Investment Corp. 6.25% Notes due 2025,NYSE
 SAFE,Safehold Inc.,NYSE
@@ -4575,9 +4574,6 @@ SALRF,Salmar ASA Ordinary Shares (Norway),U
 SALRY,Salmar ASA Unsponsored ADR (Norway),U
 SALT,Scorpio Bulkers Inc.,NYSE
 SAM,Boston Beer Company,NYSE
-SAMA,Schultze Special Purpose Acquisition Corp. Common Stock,NASDAQ
-SAMAU,Schultze Special Purpose Acquisition Corp. Unit,NASDAQ
-SAMAW,Schultze Special Purpose Acquisition Corp. Warrant,NASDAQ
 SAMG,Silvercrest Asset Management Group Inc. Class A Common Stock,NASDAQ
 SAML,"Samsara Luggage, Inc. Common Stock",U
 SAMMF,Sama Resources Inc./Ressources Sama Inc Ordinary Shares (Canada),U
@@ -4784,6 +4780,7 @@ SCIXF,Suny Cellular Communication Ltd. Ordinary Shares,U
 SCJ,iShares MSCI Japan Small-Cap ETF,ARCA
 SCKT,"Socket Mobile, Inc. Common Stock",NASDAQ
 SCL,Stepan Co.,NYSE
+SCLZF,Scales Corp TLD Ordinary Shares (New Zealand),U
 SCM,STELLUS CAPITAL INVESTMENT CORPORATION,NYSE
 SCMWY,Swisscom AG Common Stock,U
 SCNA,Smart Cannabis Corp. Common Stock,U
@@ -4873,6 +4870,7 @@ SDNSF,Sumitomo Densetsu Co Ltd Ordinary Shares (Japan),U
 SDNVY,Siderurgica Venezolana Sivensa American Depositary Receipt representing common shares,U
 SDOG,ALPS Sector Dividend Dogs ETF,ARCA
 SDON,Sandston Corporation Common Stock,U
+SDOSF,Scandidos AB Ordinary Shares (Sweden),U
 SDOW,ProShares UltraPro Short Dow 30,ARCA
 SDP,ProShares UltraShort Utilities,ARCA
 SDPI,Superior Drilling Products Inc.,AMEX
@@ -5225,3 +5223,6 @@ SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
 SHLOQ,"Shiloh Industries, Inc. Common Stock",U
 SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
 SHLX,"Shell Midstream Partners, L.P.",NYSE
+SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
+SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
+SHMCF,Renewi PLC Ordinary Shares,U

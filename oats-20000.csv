@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
-SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
-SHMCF,Renewi PLC Ordinary Shares,U
 SHMDF,Shimano Inds Ordinary Shares,U
 SHMMF,SAHAMIT MACHINERY PCL PUB CO LTD UNITS NON -VOTING DEPOSITORY RECEIPTS (Thailand),U
 SHMN,"SOHM, Inc. Common Stock",U
@@ -224,6 +221,7 @@ SKLYF,Skylark Co Ltd. Ordinary Shares (Japan),U
 SKLZ,Skillz Inc.,NYSE
 SKLZ WS,"Skillz Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exe",NYSE
 SKM,"SK Telecom Co., Ltd.",NYSE
+SKMT,"Chengda Technology Co., Ltd. Common Shares",U
 SKNVY,Skandinavisk Tobakskompagni A/S American Depositary Receipts - Unsponsored (Denmark),U
 SKOR,FlexShares Trust FlexShares Credit-Scored US Corporate Bond Index Fund,NASDAQ
 SKPBF,Sapura Kencana Pete BHD Ordinary Shares (Malaysia),U
@@ -1210,6 +1208,7 @@ STGZ,Stargaze Entertainment Group Inc. Common Stock,U
 STHC,"Southcorp Capital, Inc. Common Stock",U
 STHHF,Steinhoff Intl Hldgs NV Ordinary Shares (Netherlands),U
 STHI,SPROUT TINY HOMES Common Stock,U
+STHLW,Stearns Holdings LLC Warrant Exp 11/05/2039,U
 STIC,Northern Star Acquisition Corp.,NYSE
 STIC U,"Northern Star Acquisition Corp. Units, each consisting of one share of common stock and one-third of",NYSE
 STIC WS,"Northern Star Acquisition Corp. Redeemable warrants, each whole warrant exercisable for shares of Cl",NYSE
@@ -1539,7 +1538,6 @@ SXMVF,Societe D Expl Miniere Vior Ordinary Shares,U
 SXNTF,Sixty North Gold Mining Ltd. Ordinary Shares (Canada),U
 SXOOF,St Georges Eco Mng Corp Common Shares,U
 SXPHF,Shandong Xinhua Pharmaceutical Co Ltd Ordinary Shares (China),U
-SXPLQ,"SAExploration Holdings, Inc. Wt Exp Ser A (Exp 07/27/2021)",U
 SXRIU,Sioux River Ethanol LLC Cap Unit Class A,U
 SXRRU,Sioux River Ethanol LLC Cap Unit Class B,U
 SXT,Sensient Technology Corporation,NYSE
@@ -1698,7 +1696,6 @@ TASEF,Tasman Resources NL Ordinary Shares (Australia),U
 TAST,"Carrols Restaurant Group, Inc. Common Stock",NASDAQ
 TASY,"Tanxia System, Inc. Common Stock",U
 TASZF,TAS TECNOLOGIA AVANZATA DEI SISTEMI SPA ROMA Ordinary Shares (Italy),U
-TAT,TransAtlantic Petroleum LTD.,AMEX
 TATD,"Tatyana Designs, Inc. Common Stock",U
 TATLY,Tata Steel Ltd.,U
 TATT,TAT Technologies Ltd. Ordinary Shares,NASDAQ
@@ -2547,6 +2544,7 @@ TRAC,Track Data Corporation Common Stock,U
 TRAE,Triton Amern Energy Corp Inc Common Stock,U
 TRAGF,Terago Inc Ordinary Shares (Canada),U
 TRARF,Teras Resources Inc Ordinary Shares (Canada),U
+TRATF,Traton SE INH O N Ordinary Shares (Germany),U
 TRAUF,Transurban Group Stapled Security (Australia),U
 TRBD,"Turbodyne Technologies, Inc. Common Stock",U
 TRBMF,Torq Resources Inc. Common Shares,U
@@ -2739,6 +2737,7 @@ TSMI,"Total Sports Media, Inc. Common Stock",U
 TSMRF,Tsumura & Co Ordinary Shares,U
 TSN,"Tyson Foods, Inc.",NYSE
 TSNI,"TechniScan, Inc. Common Stock",U
+TSNLF,"Tristel PLC, Snailwell Ordinary Shares (United Kingdom)",U
 TSNP,"Tesoro Enterprises, Inc.. Common Stock",U
 TSOC,Innovator Triple Stacker ETF - October,BATS
 TSOCF,Taisei Oncho Co Ltd Ordinary Shares (Japan),U
@@ -3172,6 +3171,7 @@ ULSP,"Ultimate Sports Entertainment, Inc. Common Stock",U
 ULST,SPDR SSgA Ultra Short Term Bond ETF of SSgA Active Trust,ARCA
 ULTA,"Ulta Beauty, Inc. Common Stock",NASDAQ
 ULTHF,United Lithium Corp New Ordinary Shares,U
+ULTMF,Ultimovacs ASA Ordinary Shares (Norway),U
 ULTR,IQ Ultra Short Duration ETF,ARCA
 ULTRF,ULTRAPETROL BAHAMAS LIMITED Common Stock,U
 ULTXF,ULTRA RES INC CDA Common Shares,U
@@ -4348,7 +4348,7 @@ WINC,Legg Mason ETF Investment Trust Western Asset Short Duration Income ETF,NAS
 WING,Wingstop Inc. Common Stock,NASDAQ
 WINH,Winha International Group Ltd. Common,U
 WINKF,WINDFALL GEOTEK INC Ordinary Shares,U
-WINRD,Simplicity Esports & Gaming Co Common Stock,U
+WINR,Simplicity Esports & Gaming Co Common Stock,U
 WINRW,Simplicity Esports & Gaming Co Warrant   11/20/2023,U
 WINSF,WINS FIN HLDGS INC Ordinary Shares,U
 WINT,"Windtree Therapeutics, Inc. Common Stock",NASDAQ
@@ -4638,7 +4638,6 @@ WUGI,Esoterica NextG Economy ETF,BATS
 WUHN,"Wuhan General Group (China), Inc. Common Stock",U
 WUMSY,Wumart Stores Inc American Depository Receipt (Unsponsored),U
 WUXAY,Wuxi Apptec Co Ltd American Depositary Receipts - Unsponsored (China),U
-WUXFF,Wuxi Biologics Cayman Inc Temp Shs Trading Board Exp 12/18/2020 (Cayman Islands),U
 WUXIF,WUXI APPTEC CO LTD REGISTERED SHARES H 02359 (China),U
 WUYI,"China WuYi Mountain, Ltd. Common Stock",U
 WVAW,West Virginia Wtr Co Common Stock,U
@@ -4914,6 +4913,7 @@ YCBD,"cbdMD, Inc. Common Stock",AMEX
 YCBD PRA,"cbdMD, Inc. 8.0% Series A Cumulative Convertible Preferred Stock",AMEX
 YCL,ProShares Ultra Yen,ARCA
 YCS,ProShares UltraShort Yen,ARCA
+YDEC,FT Cboe Vest International Equity Buffer ETF - December,BATS
 YDRMF,YDX Innovation Corp Ordinary Shares,U
 YDUQY,YDUQS PARTICIPACOES S A American Depositary Receipts - Sponsored,U
 YDVL,Yadkin Valley Company New Common Stock,U
@@ -5212,6 +5212,7 @@ ZVO,Zovio Inc. Common Stock,NASDAQ
 ZVTK,"Zevotek, Inc.  Common Stock",U
 ZWBC,GoldKey Corporation Common Stock,U
 ZWPEF,ZWIPE AS Ordinary Shares (Norway),U
+ZWTYF,"Zhongde Waste Technology Ag, Hamburg Ordinary shares (Germany)",U
 ZXAIY,CHINA ZENIX AUTO INTERNATIONAL LIMITED American Depositary Shares - Sponsored,U
 ZYJT,Zhong Ya International Limited Common Stock,U
 ZYME,Zymeworks Inc.,NYSE
