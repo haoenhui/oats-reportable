@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
-MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
 MTOR,"MERITOR, Inc.",NYSE
@@ -440,6 +438,7 @@ NEXA,Nexa Resources S.A. Common Shares,NYSE
 NEXCF,Nextech AR Solutions Corp (Canada),U
 NEXD,NEXT DYNAMICS INC Common Stock,U
 NEXJF,NEXJ Sys Inc Ordinary Shares Cl A (Canada),U
+NEXNF,NEXE INNOVATIONS INC NEW COM (Canada),U
 NEXNY,Nexans Unsponsored ADR (France),U
 NEXOF,Nexon Co Ltd Ordinary Shares (Japan),U
 NEXOY,Nexon Co Ltd Unsponsored ADR (Japan),U
@@ -704,7 +703,6 @@ NMRPF,National Milk Records Plc Common Stock (United Kingdom),U
 NMS,Nuveen Minnesota Quality Municipal Income Fund,NYSE
 NMSCA,Nutrition Management Services Company Class A,U
 NMSEF,Namaste Technologies Inc Ordinary Shares (Canada) Warrant 10/23/2023,U
-NMSYF,Nishimatsuya Chain Co Ltd Himeji Hyogo Pref Ordinary Shares (Japan),U
 NMT,Nuveen Massachusetts Quality Municipal Income Fund,NYSE
 NMTC,NeuroOne Medical Technologies Corporation Common Stock,U
 NMTLF,New Age Metals Inc. Ordinary Shares,U
@@ -1682,6 +1680,7 @@ ORINY,Orion Oyj Unsponsored ADR (Finland),U
 ORIOF,"ORIOR AG, ZUERICH Ordinary Shares Switzerland(CH )",U
 ORKLF,Orkla Borregaard New B Ordinary Shares,U
 ORKLY,Orkla AS Sponsored American Depositary Shares,U
+ORLA,Orla Mining Ltd.,AMEX
 ORLY,"O'Reilly Automotive, Inc. Common Stock",NASDAQ
 ORMIF,Orminex Limited Ordinary Shares (Australia),U
 ORMNF,Orex Minerals Inc New Ordinary Shares (Canada),U
@@ -1702,7 +1701,6 @@ ORPOF,OSE Immunotherapeutics SA Ordinary Shares (France),U
 ORRAF,Orora Ltd Ordinary Shares,U
 ORRCF,Oroco Resource Corp Ordinary Shares (Canada),U
 ORRF,Orrstown Financial Services Inc - Common Stock,NASDAQ
-ORRLF,Orla Mng Ltd Ordinary Shares (Canada),U
 ORRRY,ORPEA  American Depositary Receipts - Unsponsored (France),U
 ORRYY,ORORA LTD American Depositary Receipts - Unsponsored (Australia),U
 ORSHF,Orion Sh.m Ltd Ordinary Shares (Israel),U
@@ -2416,9 +2414,6 @@ PIAI,Prime Impact Acquisition I,NYSE
 PIAI U,"Prime Impact Acquisition I Units, each consisting of one Class A ordinary share, and one-third of a",NYSE
 PIAI WS,"Prime Impact Acquisition I Warrants, each whole warrant exercisable for one Class A ordinary share a",NYSE
 PIAIF,Ping An Insurance Co Ltd Shares H (China),U
-PIC,Pivotal Investment Corporation II,NYSE
-PIC U,"Pivotal Investment Corporation II Units, each consisting of one share of Class A common stock and on",NYSE
-PIC WS,"Pivotal Investment Corporation II Redeemable Warrants, each whole warrant exercisable for shares of",NYSE
 PICB,Invesco International Corporate Bond ETF,ARCA
 PICK,iShares MSCI Global Metals & Mining Producers ETF,BATS
 PICO,"PICO Holdings, Inc. Common Stock (DE)",NASDAQ
@@ -2760,6 +2755,7 @@ PPASF,Pick n Pay Stores Ltd Ordinary Shares (South Africa),U
 PPBB,Peoples Bancorp Wash Common Stock,U
 PPBI,Pacific Premier Bancorp Inc,NASDAQ
 PPBN,Pinnacle Bankshares Corp Common Stock,U
+PPBT,Purple Biotech Ltd. American Depositary Shares,NASDAQ
 PPBV,"Purple Beverage Company, Inc. Common Stock",U
 PPC,Pilgrim's Pride Corporation Common Stock,NASDAQ
 PPCB,"Propanc Biopharma, Inc. Common Stock",U
@@ -2831,7 +2827,6 @@ PRBZF,Premium Brands Holdings Corporation (Canada),U
 PRCF,Protein Reactor Combined Fuels Inc Common Stock,U
 PRCK,Placer Creek Mining Co Common Stock,U
 PRCNF,Pure Global Cannabis Inc Common Shares,U
-PRCP,"Perceptron, Inc. Common Stock",NASDAQ
 PRCRF,PROCURRI CORP LTD Ordinary Shares,U
 PRCXF,Green Cross Health Ltd Ordinary Shares (New Zealand),U
 PRDGF,PREMIER DIVERSIFIED HLDGS INC  Ordinary Shares,U
@@ -3799,6 +3794,7 @@ REEEF,Rarex Ltd Ordinary Shares (Australia),U
 REEMF,Rare Element Resources Ltd. Common Stock,U
 REET,iShares Global REIT ETF,ARCA
 REFG,Medical Cannabis Payment Solutions. Common Stock,U
+REFHF,REF HLDGS LTD SHS (Caymen Islands),U
 REFR,Research Frontiers Incorporated Common Stock,NASDAQ
 REFXF,Redflow ltd Ordinary Shares,U
 REG,Regency Centers Corporation Common Stock,NASDAQ
@@ -3819,7 +3815,7 @@ RELL,"Richardson Electronics, Ltd. Common Stock",NASDAQ
 RELM,Relm Holdings Inc Common Stock,U
 RELOF,"Relo Holdings Inc, Tokyo Ordinary Shares (Japan)",U
 RELT,Reliant Holdings Inc Common Stock,U
-RELV,"Reliv' International, Inc. Common Stock",NASDAQ
+RELV,Reliv International Inc Common Stock,U
 RELX,RELX PLC,NYSE
 REM,iShares Mortgage Real Estate ETF,BATS
 REMI,"Remedent, Inc. Common Stock",U
@@ -4094,7 +4090,7 @@ RMBS,Rambus Inc. Common Stock,NASDAQ
 RMCF,"Rocky Mountain Chocolate Factory, Inc. Common Stock",NASDAQ
 RMD,ResMed Inc.,NYSE
 RMDFF,Richmond Minerals Inc Ordinary Shares (Canada),U
-RMED,"Ra Medical Systems, Inc",NYSE
+RMED,"Ra Medical Systems, Inc",AMEX
 RMES,Red Metal Resources Ltd. Common Stock NEW,U
 RMETF,Rackla Metals Inc Common Shares,U
 RMG,RMG Acquisition Corp. Class A Common Stock,NYSE
@@ -5226,3 +5222,7 @@ SHLX,"Shell Midstream Partners, L.P.",NYSE
 SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
 SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
 SHMCF,Renewi PLC Ordinary Shares,U
+SHMDF,Shimano Inds Ordinary Shares,U
+SHMMF,SAHAMIT MACHINERY PCL PUB CO LTD UNITS NON -VOTING DEPOSITORY RECEIPTS (Thailand),U
+SHMN,"SOHM, Inc. Common Stock",U
+SHMP,NaturalShrimp Incorporated Common Stock,U

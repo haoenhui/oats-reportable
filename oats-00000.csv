@@ -488,7 +488,6 @@ AFBOF,African Rainbow Minerals Limited Ordinary Shares (South Africa),U
 AFC,Allied Capital Corporation,NYSE
 AFCJF,AFC Ajax NV Amsterdam Ordinary Shares (Netherlands),U
 AFCL,Amcor Financial Corp Common Stock,U
-AFCSF,Vast Res Plc Ordinary Shares (United Kingdom),U
 AFDG,"African Discovery Group, Inc. Common Stock",U
 AFDVF,AFI Development PLC SHS SERIES B (Cyprus),U
 AFFG,AFF Holding Group Inc. Common Stock,U
@@ -1962,7 +1961,7 @@ AVAN U,"Avanti Acquisition Corp. Units, each consisting of one Class A ordinary 
 AVAN WS,"Avanti Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinar",NYSE
 AVASF,Avast PLC Ordinary Shares (United Kingdom),U
 AVAV,"AeroVironment, Inc. Common Stock",NASDAQ
-AVAXF,Avenue Assets BHD Ordinary Shares (Malaysia),U
+AVAXF,ECM Libra Group Berhad Ordinary Shares,U
 AVB,"AvalonBay Communities, Inc.",NYSE
 AVBH,"Avidbank Holdings, Inc. Common Stock",U
 AVCNF,Avicanna Inc Common Shares (Canada),U
@@ -2522,6 +2521,7 @@ BELP,BELPOINTE REIT INC Common Stock,U
 BELR,Bell Rose Capital Inc. Common Stock,U
 BEMG,Beta Music Group Inc. Common Stock,U
 BEN,"Franklin Resources, Inc.",NYSE
+BENEU,Benessere Capital Acquisition Corp. Unit,NASDAQ
 BENGF,Sky & Space Global Ltd Ordinary Shares,U
 BENH,Bio-En Holdings Corp. Common Stock,U
 BENZF,Benz Mng Corp Ordinary Shares (Canada),U
@@ -3225,7 +3225,6 @@ BR,Broadridge Financial Solutions Inc,NYSE
 BRAGF,Bauer Ag Ordinary Shares (Germany),U
 BRANF,"Baran Group, Ltd. Ordinary Shares",U
 BRAV,"Bravada International, Ltd. Common Stock",U
-BRBI,"Blue River Bancshares, Inc. Common Stock",U
 BRBMF,Big Rock Brewery Inc. Ordinary Shares (Canada),U
 BRBOF,Brembo Spa Curneo Ordinary Shares,U
 BRBOY,BREMBO SPA American Depositary Receipts - Unsponsored (Italy),U
@@ -4725,6 +4724,7 @@ CLLA,Clayton & Lambert Mfg Co Common Stock,U
 CLLDF,Capitaland Ltd Ordinary Shares (Singapore),U
 CLLDY,Capitaland Ltd Sponsored American Depositary Shares,U
 CLLFF,Collins Foods Ltd Newmarket Qld Ordinary Shares (Australia),U
+CLLIF,CELL IMPACT AB PUBL SHARE AK B (Sweden),U
 CLLKF,Cellink AB Shares AK B (Sweden),U
 CLLLF,Cloudcall Group PLC Ordinary Shares (United Kingdom),U
 CLLNY,Cellnex Telecom SA Unsponsored ADR (Spain),U
@@ -5226,3 +5226,4 @@ CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
+CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U

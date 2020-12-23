@@ -152,9 +152,6 @@ HBTC,"Harbourton Capital Group, Inc. Common Stock",U
 HBTPF,BetaPro Crude Oil Inverse Leveraged Daily Bear ETF  Unit,U
 HBUV,Hubilu Venture Corporation Common Shares,U
 HCA,"HCA Healthcare, Inc.",NYSE
-HCAC,Hennessy Capital Acquisition Corp. IV Class A Common Stock,NASDAQ
-HCACU,Hennessy Capital Acquisition Corp. IV Unit,NASDAQ
-HCACW,Hennessy Capital Acquisition Corp. IV Warrant,NASDAQ
 HCAEF,Holding Co Admie Ipto SA Common Stock (Greece),U
 HCAP,Harvest Capital Credit Corporation Common Stock,NASDAQ
 HCAPZ,Harvest Capital Credit Corporation 6.125% Notes due 2022,NASDAQ
@@ -1732,6 +1729,7 @@ IOIHF,Ioi Properties Group Bhd Common Stock (Malaysia),U
 IOIOF,IOI Corporation BHDIOI Ordinary Shares (Malaysia),U
 IOMT,Isomet Corporation Common Stock,U
 IONAF,"Iona Energy, Inc. Ordinary Shares (Canada)",U
+IONGF,ION ENERGY LTD COM (Canada),U
 IONI,I-ON Digital Corp. Common Stock,U
 IONKF,Ionic Brands Corp Ordinary Shares,U
 IONS,"Ionis Pharmaceuticals, Inc. Common Stock",NASDAQ
@@ -2060,7 +2058,7 @@ ITEC,"Intertech Solutions , Inc.  NEW  Common",U
 ITEGY,Hyve Group Plc American Depositary Receipts - Unsponsored,U
 ITEPF,Hyve Group Plc Ordinary Shares,U
 ITEQ,BlueStar Israel Technology ETF,ARCA
-ITEX,ITEX Corporation Common Stock,U
+ITEXD,ITEX Corporation Common Stock,U
 ITFY,"Interfoundry, Inc. New Common Stock",U
 ITGGF,ITG Holding SPA Azioni Ordinary Shares (Italy),U
 ITGMF,I.T.G.I MEDICAL LTD Common Stock,U
@@ -2155,6 +2153,7 @@ IVC,Invacare Corporation,NYSE
 IVCO,Investco Corporation Common Stock,U
 IVCTF,INVICTUS ENERGY LTD Ordinary Shares,U
 IVDA,"Iveda Solutions, Inc. Common Stock",U
+IVDG,Invesco Focused Discovery Growth ETF,BATS
 IVDN,"Innovative Designs, Inc. Common Stock",U
 IVDYF,Invesco Markets III PLC DYNAMIC UK FUND STG Exchange Traded Fund (Ireland),U
 IVE,iShares S&P 500 Value ETF,ARCA
@@ -2169,6 +2168,7 @@ IVINF,Invincible Investment Corp Ordinary Shares (Japan),U
 IVITF,Invictus MD Strategies Corp. Ordinary Shares,U
 IVIVF,IShares VI PLC Shares Exchange Traded Fund USD (Ireland),U
 IVIXF,Invion Ltd Ordinary Shares (Austrailia),U
+IVLC,Invesco US Large Cap Core ESG ETF,BATS
 IVLU,iShares MSCI Intl Value Factor ETF,ARCA
 IVME,"In Veritas Medical Diagnostics, Inc. Common Stock",U
 IVMGF,ISHARES V PLC ACCUM.PTG.SHS EXCHANGE TRADED FUND USD (Ireland),U
@@ -2182,9 +2182,11 @@ IVR,Invesco Mortgage Capital Inc.,NYSE
 IVR PRA,"INVESCO MORTGAGE CAPITAL INC. 7.75% Series A Cumulative Redeemable Preferred Stock,",NYSE
 IVR PRB,INVESCO MORTGAGE CAPITAL INC. 7.75% Fixed-To-Floating Series B Cumulative Redeemable Preferred Stock,NYSE
 IVR PRC,"Invesco Mortgage Capital Inc. 7.5% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock,",NYSE
+IVRA,Invesco Real Assets ESG ETF,BATS
 IVREF,Inovalis Real Estate Investment Trust Unit (Canada),U
 IVRO,InVitro International Common Stock,U
 IVSBF,Investor Ab Stockholm Fria B Ordinary Shares,U
+IVSG,Invesco Select Growth ETF,BATS
 IVSPF,ISHARES V PLC S&P 500COMUNICTION SCTR UCIT ETF USD ACC (Ireland),U
 IVSRF,Ishares II Plc Floating Rate Bond UCITS USD Acc Exchange Traded Fund (Ireland),U
 IVST,"Innovest Global, Inc. Common Stock",U
@@ -2817,7 +2819,6 @@ KFVG,KraneShares CICC China 5G and Semiconductor Index ETF,ARCA
 KFY,Korn Ferry,NYSE
 KFYP,KraneShares CICC China Leaders 100 Index ETF,ARCA
 KGAUF,Kongsberg Automotive Asa Ordinary Shares (Norway),U
-KGBLF,Kingboard Laminates Holdings Ltd. Ordinary Shares (Cayman Islands),U
 KGBLY,Kingboard Laminates Holdings Ltd. Unsponsored American Depository Receipt (Cayman Islands),U
 KGC,Kinross Gold Corporation,NYSE
 KGDEF,Kingdee International Software Group Company Ltd Ordinary Shares,U
@@ -3010,7 +3011,6 @@ KNOS,Kronos Advanced Technologies Inc Common Stock,U
 KNRLF,Kontrol Energy Corp Ordinary Shares,U
 KNRRY,Knorr-Bremse AG American Depositary Receipts - Unsponsored (Germany Federal Republic),U
 KNSA,"Kiniksa Pharmaceuticals, Ltd. Class A Common Stock",NASDAQ
-KNSCD,"MedSmart Group, Inc. Common Stock",U
 KNSL,"Kinsale Capital Group, Inc. Common Stock",NASDAQ
 KNTE,Kinnate Biopharma Inc. Common Stock,NASDAQ
 KNTNF,K92 Mining Inc Common Shares (Canada),U
@@ -3101,7 +3101,6 @@ KRMD,"Repro Med Systems, Inc. Common Stock",NASDAQ
 KRMDF,Korian Medica SA Ordinary Shares (France),U
 KRNGF,Karoon Gas Australia Ltd Ordinary Shares (Australia),U
 KRNGY,Karoon Gas Australia Ltd Unsponsored American Depository Receipt (Australia),U
-KRNLF,"Kernel Holding SA, Luxembourg Ordinary shares (Luxembourg)",U
 KRNNF,Krones Ag Akt. Shares (Germany),U
 KRNT,Kornit Digital Ltd. Ordinary Shares,NASDAQ
 KRNTY,Krones Ag ADR (Germany),U
@@ -3180,7 +3179,6 @@ KTN,"Structured Products CorTS Aon Capital A, 8.205% Cert.",NYSE
 KTNNF,PEAKBIRCH LOGIC INC Ordinary Shares,U
 KTNUF,Kiatnakin Phatra Bank Public Company Ltd Depositary Receipts,U
 KTOS,"Kratos Defense & Security Solutions, Inc. Common Stock",NASDAQ
-KTOV,Kitov Pharma Ltd. American Depositary Shares,NASDAQ
 KTPPF,Katipult Technology Corp Ordinary Shares (Canada),U
 KTRA,"Kintara Therapeutics, Inc. Common Stock",NASDAQ
 KTRPF,Kito Corp Ordinary shares (Japan),U
@@ -5129,6 +5127,7 @@ MSFT,Microsoft Corporation Common Stock,NASDAQ
 MSGE,Madison Square Garden Entertainment Corp.,NYSE
 MSGN,MSG Networks Inc.,NYSE
 MSGNF,Man Sang Intl Ltd Ordinary Shares (Bermuda),U
+MSGP,"MedSmart Group, Inc. Common Stock",U
 MSGS,Madison Square Garden Sports Corp.,NYSE
 MSHE,Msh Entertainment Corp Common Stock,U
 MSHXF,Mitsubishi Shokuhin Co Ltd Ordinary Shares (Japan),U
@@ -5194,7 +5193,6 @@ MTDGY,M T D Mangula Ltd          Ord American Depositary Shares,U
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
-MTELF,Mota-Engil SGPS SA Ordinary Shares (Portugal),U
 MTELY,Mota-Engil SGPS SA Unsponsored ADR (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
@@ -5226,3 +5224,5 @@ MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
 MTMW,"Matmown, Inc. Common",U
 MTN,"Vail Resorts, Inc.",NYSE
 MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
+MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
+MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U

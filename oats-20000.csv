@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHMDF,Shimano Inds Ordinary Shares,U
-SHMMF,SAHAMIT MACHINERY PCL PUB CO LTD UNITS NON -VOTING DEPOSITORY RECEIPTS (Thailand),U
-SHMN,"SOHM, Inc. Common Stock",U
-SHMP,NaturalShrimp Incorporated Common Stock,U
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
@@ -96,6 +92,7 @@ SIGY,"Sigyn Therapeutics, Inc. Common Stock",U
 SIHBY,Shenzhen Investment Holdings Bay Area Development Company Limited American Depositary Receipts - Sponsored,U
 SII,Sprott Inc.,NYSE
 SIII,"Strategic Internet Investments, Inc. Common Stock",U
+SIIXF,SIIX CORP OSAKA SHS (Japan),U
 SIJ,ProShares UltraShort Industrials,ARCA
 SIL,Global X Silver Miners ETF (NEW),ARCA
 SILC,Silicom Ltd Ordinary Shares,NASDAQ
@@ -1375,6 +1372,7 @@ SUOPY,Sumco Corp Tokyo ADR (Japan),U
 SUOXF,SUOXINDA HOLDINGS LTD HKD Ordinary Shares,U
 SUP,"Superior Industries International, Inc.",NYSE
 SUPBF,SUPERBAG CO LTD SHS (Japan),U
+SUPCF,SUPALAI PUBLIC CO LTD NVDR SHARES (Thailand),U
 SUPGF,Superior Gold Inc. Ordinary Shares (Canada),U
 SUPN,"Supernus Pharmaceuticals, Inc. Common Stock",NASDAQ
 SUPV,Grupo Supervielle S.A.,NYSE
@@ -1703,7 +1701,6 @@ TATUF,Tatung Co Ltd Ordinary Shares (Taiwan),U
 TATYF,Tate & Lyle Plc  25 P Ord Ordinary Shares,U
 TATYY,Tate & Lyle Plc  Sponsored ADR (UK),U
 TAUG,"Tauriga Sciences, Inc. Common Stock",U
-TAUKF,Taukt Ag Stuttgart Shs (Germany Federal Republic),U
 TAUX,Terre Aux Boeufs Ld Common Stock,U
 TAVHY,Tav Havalimalari Holding AS Unsponsoreed ADR (Turkey),U
 TAWNF,Thai Airways Intl- Foreign Ordinary Shares,U
@@ -2764,6 +2761,7 @@ TSTEF,LUXE HLDGS LTD Ordinary Shares,U
 TSTS,"That Marketing Solution, Inc. NEW Com",U
 TSUKF,Toyo Suisan Kaisha Ltd Ordinary Shares (Japan),U
 TSUKY,Toyo Suisan Kaisha Ltd American Depositary Shares,U
+TSURF,TSUKURUBA INC COM STK (Japan),U
 TSUSF,Tsuruha Holdings Inc Sapporo Ordinary Shares (Japan),U
 TSVNF,Team 17 Group Ltd Ordinary Shares (United Kingdom),U
 TSWT,Taste Water Inc Common Stock,U
@@ -3951,7 +3949,7 @@ VRSEF,"Verisante Technology, Inc.  Ordinary Shares (Canada)",U
 VRSK,"Verisk Analytics, Inc. Common Stock",NASDAQ
 VRSN,"VeriSign, Inc. Common Stock",NASDAQ
 VRSRF,Versarien PLC Ordinary Shares (United Kingdom),U
-VRSSD,Versus Sys Inc Common Shares,U
+VRSSD,Versus Sys Inc Common Stock,U
 VRSYF,VMS Rehab Systems Inc. Common Stock (Canada),U
 VRSZW,Verso Corp Wt Exp (07/15/2023),U
 VRT,Vertiv Holdings Co Class A Common Stock,NYSE
@@ -3995,6 +3993,7 @@ VSS,Vanguard FTSE All-World EX-US Small-Cap Index Fund,ARCA
 VSSPY,Valid Solucoes S.A American Depositary Receipts - Sponsored,U
 VSSSF,visionstate corporation Common Stock,U
 VSST,"Voice Assist, Inc. Common Stock",U
+VSSYW,Versus Systems Inc. Warrants,NASDAQ
 VST,Vistra Corp.,NYSE
 VST WSA,"Vistra Corp.Warrants to purchase Common Stock (Expiring February 2, 2024)",NYSE
 VSTA,Vasta Platform Limited Class A Ordinary Shares,NASDAQ
@@ -4753,6 +4752,8 @@ XJGTF,Xinjiang Tianye Water Saving Irrigation System Company Ltd Shares H (China
 XJH,iShares ESG Screened S&P Mid-Cap ETF,BATS
 XJNGF,Xinjiang Goldwind Science Ordinary Shares H (China),U
 XJR,iShares ESG Screened S&P Small-Cap ETF,BATS
+XL,XL Fleet Corp.,NYSE
+XL WS,"XL Fleet Corp. Redeemable Warrants, each whole warrant exercisable for shares of Class A common stoc",NYSE
 XLB,Materials Select Sector SPDR Fund,ARCA
 XLC,The Communication Services Select Sector SPDR Fund,ARCA
 XLE,Energy Select Sector SPDR Fund,ARCA

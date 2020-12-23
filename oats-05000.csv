@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
@@ -387,13 +386,13 @@ CTAM,Castle AM & Co Common Stock,U
 CTAQU,Carney Technology Acquisition Corp. II Units,NASDAQ
 CTARF,CENTAURUS ENERGY INC Common Shares,U
 CTAS,Cintas Corporation Common Stock,NASDAQ
+CTAUF,CHINA TIANRUI AUTOMOTIVE INTERIORS CO LTD HKD SHS (Caymen Islands),U
 CTB,Cooper Tire & Rubber Co.,NYSE
 CTBB,Qwest Corporation 6.5% Notes due 2056,NYSE
 CTBG,"Coil Tubing Technology, Inc. Common Stock",U
 CTBI,"Community Trust Bancorp, Inc. Common Stock",NASDAQ
 CTBK,City Bank Common Stock,U
 CTBO,Cantabio Pharmaceuticals Inc. Common Stock,U
-CTBZF,Compania de Transporte de Energia Electrica Shares B 1 Vote (Argentina),U
 CTCC,City Capital Corporation New Common Stock,U
 CTCK,"Coattec Industries, Inc. New Common Stock",U
 CTDD,Qwest Corporation 6.75% Notes due 2057,NYSE
@@ -933,6 +932,7 @@ DEI,"Douglas Emmett, Inc.",NYSE
 DEIPY,Rio Paranapanema Energia S A American Depositary Receipts - Sponsored,U
 DEITF,Devro Intl Plc Ord 10 Par Ordinary Shares,U
 DEIWY,Rio Paranapanema Energia S A American Depositary Receipts - Sponsored,U
+DELCF,DELIC HLDGS INC COM (Canada),U
 DELHF,De Longhi Spa Ordinary Shares (Italy),U
 DELL,Dell Technologies Inc.,NYSE
 DELRF,De La Rue Plc Ordinary Shares,U
@@ -1517,7 +1517,6 @@ DTSOF,DTS Corp Ordinary Shares (Japan),U
 DTSRF,Ether Cap Corp Common Shares,U
 DTSS,Datasea Inc. Common Stock,NASDAQ
 DTST,Data Storage Corporation Common Stock,U
-DTTLF,Datatec Ltd Ordinary Shares (South Africa),U
 DTTLY,Datatec Ltd (Sa) Unsponsored ADR (South Africa),U
 DTTOF,Dito CME Holdings Corp Ordinary Shares (Philippines),U
 DTTVY,Dish TV India Sponsored GDR (India),U
@@ -1624,7 +1623,7 @@ DXGE,WisdomTree Trust WisdomTree Germany Hedged Equity Fund,NASDAQ
 DXIEF,DXI Capital Corp Common Shares,U
 DXJ,WisdomTree Japan Hedged Equity Fund,ARCA
 DXJS,WisdomTree Trust WisdomTree Japan Hedged SmallCap Equity Fund,NASDAQ
-DXLG,"Destination XL Group, Inc. Common Stock",NASDAQ
+DXLG,DESTINATION XL GROUP INC Common Stock,U
 DXMEF,Xtrackers MSCI Europe UCITS ETF 1C Ordinary Shares,U
 DXPE,"DXP Enterprises, Inc. Common Stock",NASDAQ
 DXPPY,Dexus Ppty Group American Depositary Receipts - Unsponsored (Italy),U
@@ -1823,7 +1822,6 @@ EDOG,ALPS Emerging Sector Dividend Dogs ETF,ARCA
 EDONF,ENDOMINES AB Share AK (Sweden),U
 EDOW,First Trust Dow 30 Equal Weight ETF,ARCA
 EDPFY,"Energias De Portugal, S.A.",U
-EDRSF,ELDERS LTD Ordinary Shares (Australia),U
 EDRVF,"EDP Renovais, SA Ordinary Shares (Spain)",U
 EDRVY,EDP Renovaveis SA Unsponsored ADR (Spain),U
 EDRWY,Electric Pwr Dev Co Ltd ADR (Japan),U
@@ -2267,6 +2265,7 @@ ENQQF,"ENTEQ UPSTREAM PLC, ASCOT Ordinary Shares (United Kingdom)",U
 ENQUF,"Enquest Plc, London Ordinary Shares (United Kingdom)",U
 ENR,"Energizer Holdings, Inc",NYSE
 ENR PRA,"Energizer Holdings, Inc. 7.50% Series A Mandatory Convertible Preferred Stock",NYSE
+ENREF,ENERGIX RENEWABLE ENERGIES LTD SHS (Israel),U
 ENRFF,"Enerflex, Ltd. Ordinary Shares (Canada)",U
 ENRT,Enertopia Corporation Common Stock,U
 ENS,"EnerSys, Inc.",NYSE
@@ -4283,7 +4282,7 @@ GEBEY,Genting Berhad Unsponsored ADR (Malaysia),U
 GEBHF,Genting Berhad Ord Ordinary Shares,U
 GEBHY,Genting Berhad Sponsored ADR (Malaysia),U
 GEBRF,Greenbriar Capital Corporation Com (Canada),U
-GEC,"Great Elm Capital Group, Inc. NEW Common Stock",NASDAQ
+GEC,"Great Elm Capital Group, Inc. Common Stock",NASDAQ
 GECC,Great Elm Capital Corp. Common Stock,NASDAQ
 GECCL,Great Elm Capital Corp. 6.50% Notes due 2022,NASDAQ
 GECCM,Great Elm Capital Corp. 6.75% Notes Due 2025,NASDAQ
@@ -4771,6 +4770,8 @@ GOCO,"GoHealth, Inc. Class A Common Stock",NASDAQ
 GOCOF,Go Metals Corp Common Shares,U
 GODYF,"Deer Horn Capital, Inc. Ordinary Shares",U
 GOED,1847 Goedeker Inc.,AMEX
+GOEV,Canoo Inc. Class A Common Stock,NASDAQ
+GOEVW,Canoo Inc. Warrant,NASDAQ
 GOEX,Global X Gold Explorers ETF (NEW),ARCA
 GOF,Guggenheim Strategic Opportunities Fund,NYSE
 GOFF,Goff Corp  Common Stock,U
