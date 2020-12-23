@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
-SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
@@ -332,7 +330,7 @@ SLSOF,Seoul Semiconductor Co Ltd Ordinary Shares (Korea),U
 SLSR,Silver Surprize Inc Common Stock,U
 SLSSF,Solaris Res Inc. Common Shares (Canada),U
 SLT,Pacer Salt High truBeta US Market ETF,BATS
-SLTFF,"Pistol Bay Mining, Inc. Ordinary Shares",U
+SLTFF,Pegasus Resources Inc Ordinary Shares,U
 SLTN,"Silverton Energy, Inc. Common Stock",U
 SLTQY,Societatea Nationala de Gaze Naturale Romgaz SA Global Depositary Receipts - Sponsored,U
 SLTTF,Slate Office REIT Tr Unit (Canada),U
@@ -1629,7 +1627,7 @@ T,AT&T Inc.,NYSE
 T PRA,"AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual P",NYSE
 T PRC,"AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.750% Perpetual P",NYSE
 TA,TravelCenters of America Inc. Common Stock,NASDAQ
-TAAG,Trend Aggregation Aggressive Growth ETF,ARCA
+TAAG,Trend Aggregation Growth ETF,ARCA
 TAAI,Tombao Antiques and Art Group Common Stock,U
 TAALF,Taal Distributed Information Technologies Inc Common Shares,U
 TAATF,Tata Power Companies Ltd Sponsored Reg S GDR (India),U
@@ -1788,7 +1786,7 @@ TCLHF,TCL Electronics Holdings Ltd Ordinary Shares,U
 TCLIF,"THERACLION, Paris Shs Nom (France)",U
 TCLRY,Technicolor ADS,U
 TCMD,"Tactile Systems Technology, Inc. Common Stock",NASDAQ
-TCMFF,Telecom Argentina SA Ordinary Shares B 1 Vote (Argentina),U
+TCMFF,Telecom Argentina SA Ordinary Shares,U
 TCNAF,Transcanna Holdings Inc Common Shares (Canada),U
 TCNB,Town Center Bank (IL) Common Stock,U
 TCNGF,Tricon Residential Inc Common Shares,U
@@ -1861,6 +1859,7 @@ TDSD,Cabana Target Drawdown 13 ETF,ARCA
 TDSE,Cabana Target Drawdown 16 ETF,ARCA
 TDSGF,Telo Genomics Corp Ordinary Shares,U
 TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund,ARCA
+TDTRF,Trident Royalties PLC Ordinary Shares (United Kingdom),U
 TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund,ARCA
 TDV,ProShares S&P Technology Dividend Aristocrats ETF,BATS
 TDVG,T. Rowe Price Dividend Growth ETF,ARCA
@@ -3655,6 +3654,7 @@ VGT,Vanguard Information Technology ETF,ARCA
 VGTL,"VGTel, Inc. Common Stock",U
 VGUDF,Vanguard Funds Plc Vanguard FTSE Developed Asia Pacific Ex Japan Ucits Etf Exchange Traded Fund (Ireland),U
 VGZ,Vista Gold Corp.,AMEX
+VHAQ U,"Viveon Health Acquisition Corp. Units, each consisting of one share of common stock, one Warrant ent",AMEX
 VHC,VirnetX Holding Corporation,NYSE
 VHI,"Valhi, Inc.",NYSE
 VHLGF,Valuetronics Holdings Ltd Ordinary shares (Bermuda),U
@@ -3688,6 +3688,7 @@ VIH,VPC Impact Acquisition Holdings Class A Ordinary Shares,NASDAQ
 VIHAU,VPC Impact Acquisition Holdings Unit,NASDAQ
 VIHAW,VPC Impact Acquisition Holdings Warrant,NASDAQ
 VIHD,VISION HYDROGEN CORPORATION Common Stock,U
+VIIAU,7GC & Co. Holdings Inc. Unit,NASDAQ
 VIIXF,Credit Suisse AG Nassau Brh VelocityShares VIX Short Term ETN 500,U
 VILGF,Yourgene Health PLC Ordinary Shares (United Kingdom),U
 VINO,"Gaucho Group Holdings, Inc. Common Stock",U
@@ -4966,6 +4967,7 @@ YMAIF,Yoma Strategic Holdings Ltd Ordinary Shares (Singapore),U
 YMATF,AZBIL CORP SHS (Japan),U
 YMDAF,YAMADA HLDGS CO LTD Ordinary Shares,U
 YMTKF,Yamato Kogyo Co Ltd SHS (Japan),U
+YMTX,"Yumanity Therapeutics, Inc. Common Stock",NASDAQ
 YMZBY,Yamazaki Baking Ltd American Depositary Shares,U
 YMZNF,YAMAZEN CORP Ordinary Shares Japan (JP ),U
 YNAJF,Yantai North Andre Juice Co Ltd Ordinary Shs H (Hong Kong),U

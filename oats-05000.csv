@@ -1,4 +1,9 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
+CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
+CPCC,"Striper Energy, Inc. Common Stock",U
+CPE,Callon Petroleum Company,NYSE
+CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
@@ -1933,7 +1938,7 @@ EGDW,Edgewater Bancorp Inc. Common Stock,U
 EGF,"Blackrock Enhanced Government Fund, Inc.",NYSE
 EGFEF,EUROBANK ERGASIAS SVCS AND HOLDINGS SA Ordinary Shares,U
 EGFEY,EUROBANK ERGASIAS SVCS & HLDGS SA American Depositary Receipts - Unsponsored,U
-EGFHF,ECHELON FINL HLDGS INC  Common Shares,U
+EGFHF,EFH Holdings Inc Common Shares,U
 EGHSF,Enghouse Sys Ltd Ordinary Shares,U
 EGHT,"8x8, Inc. Common Stock",NYSE
 EGIEY,Engie Brasil Energia S A American Depositary Receipts - Sponsored,U
@@ -4169,6 +4174,7 @@ GBPT,"Globe Photos, Inc.   Common Stock",U
 GBR,New Concept Energy Inc,AMEX
 GBRIF,Golden Band Resources Inc (F) Ordinary Shares,U
 GBRRF,Gabriel Resources Ltd Ordinary Shares,U
+GBS,GBS Inc. Common Stock,NASDAQ
 GBT,"Global Blood Therapeutics, Inc. Common Stock",NASDAQ
 GBTC,Grayscale Bitcoin Trust (BTC) Common Stock,U
 GBTKF,Globetronics Technology Bhd Ordinary Shares (Malaysia),U
@@ -5223,7 +5229,3 @@ GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
-GWPD,"GP Solutions, Inc. Common Stock",U
-GWPH,GW Pharmaceuticals Plc American Depositary Shares,NASDAQ
-GWPRF,GW Pharmaceuticals Plc GW Pharmaceuticals Plc,U
-GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE

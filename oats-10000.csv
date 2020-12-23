@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWPD,"GP Solutions, Inc. Common Stock",U
+GWPH,GW Pharmaceuticals Plc American Depositary Shares,NASDAQ
+GWPRF,GW Pharmaceuticals Plc GW Pharmaceuticals Plc,U
+GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
 GWRRF,Engold Mines Ltd Ordinary Shares,U
 GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
 GWSAF,Gowest Gold Ltd Ordinary Shares,U
@@ -233,6 +237,7 @@ HEDJ,WisdomTree Europe Hedged Equity Fund,ARCA
 HEEM,iShares Currency Hedged MSCI Emerging Markets,BATS
 HEES,"H&E Equipment Services, Inc. Common Stock",NASDAQ
 HEFA,iShares Currency Hedged MSCI EAFE ETF,BATS
+HEGD,Swan Hedged Equity US Large Cap ETF,BATS
 HEGIF,Hengan International Ordinary Shares,U
 HEGIY,Hengan International Group Company Limited Unsponsored ADR (Hong Kong),U
 HEGLF,PEAK MINERALS LTD Ordinary Shares,U
@@ -913,9 +918,6 @@ HXPN,Harris Exploration Inc. New Common Stock,U
 HXPR,Hispanic Express Inc Common Stock,U
 HXXPY,HEXPOL AB American Depositary Receipts - Unsponsored (Sweden),U
 HY,"HYSTER-YALE MATERIALS HANDLING, INC",NYSE
-HYAC,Haymaker Acquisition Corp. II Class A Common Stock,NASDAQ
-HYACU,Haymaker Acquisition Corp. II Unit,NASDAQ
-HYACW,Haymaker Acquisition Corp. II Warrant,NASDAQ
 HYB,"New America High Income Fund, Inc.",NYSE
 HYBB,iShares BB Rated Corporate Bond ETF,ARCA
 HYBE,"Hybrid Energy Holdings, Inc. Common Stock",U
@@ -1453,6 +1455,7 @@ IJUL,Innovator MSCI EAFE Power Buffer ETF - July,ARCA
 IKHIF,Ichikoh Industries Ltd Ordinary Shares (Japan),U
 IKMA,"IntelaKare Marketing, Inc. Common Stock",U
 IKNX,Ikonics Corporation,NASDAQ
+IKT,"Inhibikase Therapeutics, Inc. Common Stock",NASDAQ
 IKTO,"iTokk, Inc. Common Stock",U
 IKTSF,Intertek Group Plc Ordinary Shares (UK),U
 IKTSY,Intertek Group Plc Unsponsored ADR (UK),U
@@ -1535,6 +1538,7 @@ IMPCF,Impact Coatings AB Ordinary Shares (Sweden),U
 IMPHO,"Impac Mortgage Holdings, Inc. Preferred Series C",U
 IMPHP,"Impac Mortgage Holdings, Inc. Preferred Series B",U
 IMPJY,Webuild SpA American Depositary Receipts - Unsponsored,U
+IMPNF,Imperial Mining Group Ordinary Shares (Canada),U
 IMPPF,INVESCO MKTS II PLC INVESCO PREFERRED SHARES UCITS ETF ACC Exchange Traded Fund,U
 IMPUF,Impala Platinum Holdings Ltd Ordinary Shares (South Africa),U
 IMPUY,Impala Platinum Holdings Ltd Sponsored ADR (South Africa),U
@@ -4817,9 +4821,6 @@ MNBEY,Minebea Mitsumi Inc American Depositary Receipts - Sponsored,U
 MNBO,MNB Holdings Corporation (CA) Common Stock,U
 MNBP,"Mars Bancorp, Inc. Common Stock",U
 MNBRF,"MINBOS RESOURCES LTD, BURSWOOD WA Ordinary Shares",U
-MNCL,Monocle Acquisition Corporation Common Stock,NASDAQ
-MNCLU,Monocle Acquisition Corporation Units,NASDAQ
-MNCLW,Monocle Acquisition Corporation Warrants,NASDAQ
 MNDJF,Mandalay Resources Corporation Common Shares,U
 MNDMF,Firefly Res Ltd Ordinary Shares,U
 MNDO,MIND C.T.I. Ltd. Ordinary Shares,NASDAQ
@@ -4935,6 +4936,7 @@ MORN,"Morningstar, Inc. Common Stock",NASDAQ
 MORT,VanEck Vectors Mortgage REIT Income ETF,ARCA
 MOS,The Mosaic Company,NYSE
 MOSAF,"Mid REIT Inc, Osaka (Japan)",U
+MOSIF,Moshi Moshi Hotline Inc Ordinary Shares (Japan),U
 MOST,"MobileSmith, Inc. Common Stock",U
 MOSY,"MoSys, Inc. Common Stock",NASDAQ
 MOTHF,MORI TR HOTEL REIT INC SHS (Japan),U
@@ -5226,3 +5228,4 @@ MTN,"Vail Resorts, Inc.",NYSE
 MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
 MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
 MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
+MTNX,"MeltroniX, Inc. Common Stock",U

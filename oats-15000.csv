@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
 MTOR,"MERITOR, Inc.",NYSE
 MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
@@ -137,7 +136,6 @@ MXMSF,"Maxim Resources, Ltd. Ordinary Shares (Canada)",U
 MXMTY,Maxcom Telecomunicaciones S.A.B. de C.V. American Depositary Receipts - Sponsored,U
 MXROF,Max Resource Corp. Common Shares,U
 MXRSF,"Coin Hodl, Inc. Common Shares",U
-MXRTF,CORPORACION MEXICANA DE RESTAURANTES SA DE CV WINGS SHS- B Mexico(MX),U
 MXSG,MEXUS GOLD US Common Stock,U
 MXTLF,Metalex Ventures Ltd New Ordinary Shares (Canada),U
 MXTOF,NELES OYJ Ordinary Shares,U
@@ -657,7 +655,6 @@ NLTBF,Nolato AB Ordinary Shares B (Sweden),U
 NLTX,"Neoleukin Therapeutics, Inc. Common Stock",NASDAQ
 NLVVF,New Leaf Ventures Common Stock Class A (Canada),U
 NLY,Annaly Capital Management. Inc.,NYSE
-NLY PRD,"Annaly Capital Management, Inc. 7.50% Series D Cumulative Redeemable Preferred Stock",NYSE
 NLY PRF,"Annaly Capital Management, Inc. 6.95% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferre",NYSE
 NLY PRG,"Annaly Capital Management, Inc. 6.50% Series G Fixed-to-Floating Rate Cumulative Redeemable Preferre",NYSE
 NLY PRI,"Annaly Capital Management, Inc. 6.750% Series I Fixed-to-Floating Rate Cumulative Redeemable Preferr",NYSE
@@ -1154,7 +1151,7 @@ NVYTF,Novacyt Shs Nom Non Liberee (France),U
 NVYYF,Navy Resources Corp Common Shares (Canada),U
 NVZMF,Novozymes A/S Ordinary Shares,U
 NVZMY,Novozymes A/S Unsponsored American Depositary Receipt,U
-NWARF,Norwegian Air Shuttle Asa Ordinary Shares (Norway),U
+NWARF,Norwegian Air Shuttle Asa Ordinary Shares,U
 NWAU,"NowAuto, Inc. Common Stock",U
 NWBD,"New World Brands, Inc. Common Stock",U
 NWBI,"Northwest Bancshares, Inc. Common Stock",NASDAQ
@@ -1225,6 +1222,7 @@ NXDCF,"NEXTDC Ltd, Brisbane QLD Ordinary Shares (Australia)",U
 NXE,NexGen Energy Ltd. Common Shares,AMEX
 NXEN,"Nexien BioPharma, Inc. Common Stock",U
 NXEOW,"Nexeo Solutions, Inc. Warrants Expiring 06/09/2021",U
+NXEPF,Nexen Tire Corp Preferred Ord Shares (Republic of South Korea),U
 NXFI,"Next Fuel, Inc. Common Stock",U
 NXFNF,NEXT FIFTEEN COMMUNICATIONS GROUP PLC Ordinary Shares,U
 NXGB,"NxGen Brands, Inc. Common Stock",U
@@ -1838,7 +1836,6 @@ OXBR,Oxbridge Re Holdings Limited Ordinary Shares,NASDAQ
 OXBRW,Oxbridge Re Holdings Limited Warrant expiring 3/26/2024,NASDAQ
 OXFCF,Velocys PLC Ordinary Shares (United Kingdom),U
 OXFD,Oxford Immunotec Global PLC Ordinary Shares,NASDAQ
-OXGGY,Oxford Instruments PLC Unsponsored American Depository Receipt (United Kingdom),U
 OXIHF,Oxford Investments Holdings Inc. Ordinary Shares (Canada),U
 OXINF,Oxford Instruments PLC Ordinary Shares (United Kingdom),U
 OXLC,Oxford Lane Capital Corp. Common Stock,NASDAQ
@@ -2347,6 +2344,7 @@ PGYC,Patriot Energy Corp. (DE) Common Stock,U
 PGYOF,PANORA GAYRIMENKUL YATIRIM ORTAKLIGI A S COMMON STOCK (Turkey),U
 PGZ,PRINCIPAL REAL ESTATE INCOME FUND,NYSE
 PH,Parker-Hannifin Corporation,NYSE
+PHAR,"Pharming Group N.V. ADS, each representing 10 ordinary shares",NASDAQ
 PHAS,"PhaseBio Pharmaceuticals, Inc. Common Stock",NASDAQ
 PHAT,"Phathom Pharmaceuticals, Inc. Common Stock",NASDAQ
 PHB,Invesco Fundamental High Yield Corporate Bond ETF,ARCA
@@ -3010,6 +3008,7 @@ PSCR,Proto Script Pharmaceutical Corp. Common Stock,U
 PSCSF,Camarico Invt Group Ltd Common Shares,U
 PSCT,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap Information Technology ETF,NASDAQ
 PSCU,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap Utilities & Communication Services ETF,NASDAQ
+PSCX,Pacer Swan SOS Conservative (December) ETF,BATS
 PSDI,Presidion Corporation Common Stock,U
 PSDMF,Gaming Realms PLC Ordinary Shares (United Kingdom),U
 PSDNF,Poseidon Nickel Ltd Ordinary Shares (Australia),U
@@ -3017,6 +3016,7 @@ PSEC,Prospect Capital Corporation Common Stock,NASDAQ
 PSEP,Innovator S&P 500 Power Buffer ETF - September,BATS
 PSET,Principal Exchange-Traded Funds Principal Quality ETF,NASDAQ
 PSF,COHEN & STEERS SELECT PREFERRED AND INCOME FUND,NYSE
+PSFD,Pacer Swan SOS Flex (December) ETF,BATS
 PSFT,Powersafe Technology Corp. New Common Stock,U
 PSGFF,Precious Shipping Plc Foreign Ordinary Shares,U
 PSGR,"Pershing Resources Company, Inc. Common Stock",U
@@ -3042,6 +3042,7 @@ PSLKF,Phoslock Environmental Technologies Ltd Ordinary Shares,U
 PSLV,Sprott Physical Silver Trust,ARCA
 PSMB,Invesco Balanced Multi-Asset Allocation ETF,BATS
 PSMC,Invesco Conservative Multi-Asset Allocation ETF,BATS
+PSMD,Pacer Swan SOS Moderate (December) ETF,BATS
 PSMG,Invesco Growth Multi-Asset Allocation ETF,BATS
 PSMM,Invesco Moderately Conservative Multi-Asset Allocation ETF,BATS
 PSMMF,Persimmon PLC Ordinary Shares,U
@@ -3141,7 +3142,6 @@ PTHIF,PT Solusi Bangun Indonesia TBK Ordinary Shares,U
 PTHIY,PT SOLUSI BANGUN INDONESIA TBK  American Depositary Receipts - Unsponsored,U
 PTHRF,"Pantheon Resources Plc, London Shs (United Kingdom)",U
 PTHXF,PT HEXINDO ADIPERKASA Ordinary Shares,U
-PTI,"Proteostasis Therapeutics, Inc. Common Stock",NASDAQ
 PTICU,PropTech Investment Corporation II Unit,NASDAQ
 PTIFF,Petroceltic International Plc Ordinary Shares (IE),U
 PTIN,Pacer Trendpilot International ETF,ARCA
@@ -5226,3 +5226,5 @@ SHMDF,Shimano Inds Ordinary Shares,U
 SHMMF,SAHAMIT MACHINERY PCL PUB CO LTD UNITS NON -VOTING DEPOSITORY RECEIPTS (Thailand),U
 SHMN,"SOHM, Inc. Common Stock",U
 SHMP,NaturalShrimp Incorporated Common Stock,U
+SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
+SHMUF,Shimizu Corp Ord Ordinary Shares,U

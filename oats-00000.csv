@@ -883,7 +883,6 @@ ALEAF,Aleafia Health Inc Ordinary Shares,U
 ALEC,"Alector, Inc. Common Stock",NASDAQ
 ALEDY,Allied Group Limited Unsponsored ADR (Hong Kong),U
 ALEGF,ALLEGRO EU SA ORD BR (Luxembourg),U
-ALEGY,Allegro.eu American Depositary Receipts - Unsponsored (Luxembourg),U
 ALEX,"Alexander & Baldwin, Inc.",NYSE
 ALFA,AlphaClone Alternative Alpha ETF,BATS
 ALFDF,Astral Foods Ltd Ordinary Shares (South Africa),U
@@ -1528,6 +1527,8 @@ ARKAY,Arkema Sponsored ADR (France),U
 ARKF,ARK Fintech Innovation ETF,ARCA
 ARKG,ARK Genomic Revolution ETF,BATS
 ARKK,ARK Innovation ETF,ARCA
+ARKO,ARKO Corp. Common Stock,NASDAQ
+ARKOW,ARKO Corp. Warrant,NASDAQ
 ARKQ,ARK Autonomous Technology & Robotics ETF,BATS
 ARKR,Ark Restaurants Corp. Common Stock,NASDAQ
 ARKTF,PREMIER VETERINARY GROUP PLC  Ordinary Shares,U
@@ -1682,7 +1683,9 @@ ASKDF,First Energy Metals Ltd Common Shares,U
 ASKE,Alaska Pacific Energy Corporation Common Stock,U
 ASKH,"Astika Holdings, Inc. Com",U
 ASKTF,Asetek A S Ordinary Shares (Denmark),U
+ASLE,AerSale Corporation Common Stock,NASDAQ
 ASLEF,Asaleo Care Ltd. Ordinary Shares (Australia),U
+ASLEW,AerSale Corporation Warrants,NASDAQ
 ASLM,American Silver Mining Co Common Stock,U
 ASLN,ASLAN Pharmaceuticals Limited American Depositary Shares,NASDAQ
 ASLRF,Alien Metals Ltd Common Shares,U
@@ -3051,6 +3054,7 @@ BNEFF,Bonterra Energy Corp. Ordinary Shares (Canada),U
 BNET,"Bion Environmental Technologies, Inc. Common Stock",U
 BNFT,"Benefitfocus, Inc. Common Stock",NASDAQ
 BNFTF,"BENEFIT ONE INC, TOKYO SHS (Japan)",U
+BNGFF,Bengo4 Com Inc Common Stock (Japan),U
 BNGI,"Bangi, Inc. Common Stock",U
 BNGLF,Bengal Energy Ltd Ordinary Shares (Canada),U
 BNGO,"Bionano Genomics, Inc. Common Stock",NASDAQ
@@ -3241,7 +3245,9 @@ BREJY,mBank SA American Depositary Receipts - Unsponsored,U
 BRENF,Brookfield Renewable Partners Preferred LP Unit Class A Series 7 (Bermuda),U
 BRER,"Bresler & Reiner, Inc. Common Stock",U
 BREUF,Bridgemarq Real Estate Svc Inc Common Shares,U
-BREZU,Breeze Holdings Acquisition Corp. Unit,NASDAQ
+BREZ,Breeze Holdings Acquisition Corp. Common Stock,NASDAQ
+BREZR,Breeze Holdings Acquisition Corp. Right,NASDAQ
+BREZW,Breeze Holdings Acquisition Corp. Warrant,NASDAQ
 BRF,VanEck Vectors Brazil Small-Cap ETF,ARCA
 BRFH,Barfresh Food Group Inc. Common,U
 BRFRY,Burford Capital Limited American Depositary Receipts - Unsponsored (Guernsey),U
@@ -4244,6 +4250,7 @@ CFII,CF Finance Acquisition Corp. II Class A Common Stock,NASDAQ
 CFIIU,CF Finance Acquisition Corp. II Unit,NASDAQ
 CFIIW,CF Finance Acquisition Corp. II Warrant,NASDAQ
 CFIN,Citizens Financial Corporation Common Stock New,U
+CFIVU,CF Acquisition Corp. IV Unit,NASDAQ
 CFLSF,"Cash Financial Services Group, Ltd. Ordinary Shares (Bermdua)",U
 CFMS,"Conformis, Inc. Common Stock",NASDAQ
 CFNB,CALIFORNIA FIRST NATL BANCORP Common Stock,U
@@ -5222,8 +5229,3 @@ CPAMF,Capitaland Mall Trust Unit,U
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
-CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
-CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
-CPCC,"Striper Energy, Inc. Common Stock",U
-CPE,Callon Petroleum Company,NYSE
-CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
