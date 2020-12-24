@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
+GWPC,"Wholehealth Products, Inc. Common Stock",U
 GWPD,"GP Solutions, Inc. Common Stock",U
 GWPH,GW Pharmaceuticals Plc American Depositary Shares,NASDAQ
 GWPRF,GW Pharmaceuticals Plc GW Pharmaceuticals Plc,U
@@ -9,7 +11,6 @@ GWSAF,Gowest Gold Ltd Ordinary Shares,U
 GWSN,"Gulf West Security Network, Inc. Common Stock",U
 GWSO,"Global Warming Solutions, Inc. Common Stock",U
 GWTI,"Greenway Technologies, Inc. Common Stock",U
-GWTNF,Grande West Transn Group Inc Ordinary Shares (Canada),U
 GWTR,"Global Water Technologies, Inc. Common Stock",U
 GWW,"W.W. Grainger, Inc.",NYSE
 GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
@@ -62,6 +63,7 @@ GZUHY,Guangzhou R & F Properties Co Ltd Unsponsored ADR representing Shares -H- 
 H,Hyatt Hotels Corporation,NYSE
 HA,"Hawaiian Holdings, Inc. Common Stock",NASDAQ
 HAACU,Health Assurance Acquisition Corp. SAIL Securities,NASDAQ
+HAATF,HAAD THIP PUBLIC CO LTD NVDR SHARES (Thailand),U
 HABC,Habersham Bancorp Common Stock,U
 HABK,"Hamilton Bancorp, Inc. FLA Common Stock",U
 HACBF,Hachijuni Bank Ltd  Ord Ordinary Shares (Japan),U
@@ -1277,7 +1279,6 @@ IFAN,"IFAN Financial, Inc . Common Stock",U
 IFBC,Italian Food & Beverage Corp Common Stock,U
 IFBH,"IFB Holdings, Inc. Common Stock",U
 IFCI,IFCI International Corporation Common Stock,U
-IFCNF,INFICON Holding AG Reg Shares (Switzerland),U
 IFCPF,Intact Financial Corp Non Cumulative Floating Rate Preference Shares Class A Series 4 (Canada),U
 IFCZF,Intact Financial Corp. Common Shares (Canada),U
 IFF,International Flavors & Fragrances Inc.,NYSE
@@ -1772,7 +1773,6 @@ IPHXF,PHOENIX HOLDINGS LTD SHARE (Israel),U
 IPHYF,"Innate Pharma, Marseille Shares Nom Cat -A- (France)",U
 IPI,"Intrepid Potash, Inc",NYSE
 IPIC,IPIC ENTMT INC Common Stock,U
-IPIIF,IPET Insurance Co Ltd Ordinary Shares (Japan),U
 IPIX,Innovation Pharmaceuticals Inc. Common Stock,U
 IPKL,"iPackets International, Inc. Common Stock",U
 IPKW,Invesco Exchange-Traded Fund Trust II Invesco International BuyBack Achievers ETF,NASDAQ
@@ -2173,6 +2173,7 @@ IVITF,Invictus MD Strategies Corp. Ordinary Shares,U
 IVIVF,IShares VI PLC Shares Exchange Traded Fund USD (Ireland),U
 IVIXF,Invion Ltd Ordinary Shares (Austrailia),U
 IVLC,Invesco US Large Cap Core ESG ETF,BATS
+IVLRF,INDORAMA VENTURES CO LTD NVDR SHARES (Thailand),U
 IVLU,iShares MSCI Intl Value Factor ETF,ARCA
 IVME,"In Veritas Medical Diagnostics, Inc. Common Stock",U
 IVMGF,ISHARES V PLC ACCUM.PTG.SHS EXCHANGE TRADED FUND USD (Ireland),U
@@ -2369,7 +2370,7 @@ JEPI,JPMorgan Equity Premium Income ETF,ARCA
 JEQ,ABERDEEN JAPAN EQUITY FUND,NYSE
 JERT,"JER Investors Trust, Inc. New Common Stock",U
 JETGF,JPMorgan Fleming Continental European Investment Trust Plc Shs-Growth-Class (United Kingdom),U
-JETMF,Global Crossing Airlines Inc.  Ordinary Shares,U
+JETMF,Global Crossing Airlines Group Inc.  Ordinary Shares,U
 JETR,"Star Jets International, Inc. Common Stock",U
 JETS,U.S. Global Jets ETF,ARCA
 JEXYF,Jiangsu Expressway Company Limited Ordinary H Shares,U
@@ -2998,6 +2999,7 @@ KNDI,"Kandi Technologies Group, Inc Common Stock",NASDAQ
 KNDYF,Kenadyr Mining Holdings Corp Ordinary Shares (Canada),U
 KNEOF,Kneomedia Limited Ordinary Shares (Australia),U
 KNFHF,Kingfish Ltd. Ordinary Shares (New Zealand),U
+KNFSF,KIATNAKIN PHATRA BK PUB CO LTD SHS FOREIGN REGISTERED (Thailand),U
 KNG,Cboe Vest S&P 500 Dividend Aristocrats Target Income ETF,BATS
 KNGPF,KNM Group Bhd Ordinary Shares (Malaysia),U
 KNIT,Kinetic Group Inc Common Stock,U
@@ -3475,6 +3477,7 @@ LFLS,"Loans4Less.com, Inc. Common Stock",U
 LFPI,Lifepoint Inc Common Stock,U
 LFSYF,Lifestyle International Holdings Limited Ordinary Shares (Hong Kong),U
 LFSYY,Lifestyle International Holdings Limited Unsponsored ADR (Cayman Islands),U
+LFTPF,LEFT FIELD PRTG GROUP LTD SHS (Bermuda),U
 LFTR,Lefteris Acquisition Corp. Class A Common Stock,NASDAQ
 LFTRU,Lefteris Acquisition Corp. Unit,NASDAQ
 LFTRW,Lefteris Acquisition Corp. Warrant,NASDAQ
@@ -3818,9 +3821,6 @@ LRSNF,Global Health Clinics Ltd Ordinary Shares,U
 LRSV,Link Reservations Inc. Common Stock,U
 LRTNF,"Pure Gold Mining, Inc. Ordinary Shares (Canada)",U
 LRTTD,Liberty One Lithium Corp. Ordinary Shares,U
-LSAC,LifeSci Acquisition Corp. Common Stock,NASDAQ
-LSACU,LifeSci Acquisition Corp. Unit 1 COM & 1 WT,NASDAQ
-LSACW,LifeSci Acquisition Corp. Warrant,NASDAQ
 LSAF,LeaderShares AlphaFactor US Core Equity ETF,ARCA
 LSANF,Los Andes Copper Limited Ordinary Shares,U
 LSAQ,LifeSci Acquisition II Corp. Common Stock,NASDAQ
@@ -5195,7 +5195,6 @@ MTDGY,M T D Mangula Ltd          Ord American Depositary Shares,U
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
-MTELY,Mota-Engil SGPS SA Unsponsored ADR (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
@@ -5229,3 +5228,5 @@ MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
 MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
 MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
+MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
+MTOR,"MERITOR, Inc.",NYSE

@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
@@ -957,6 +958,7 @@ DES,WisdomTree U.S. SmallCap Dividend Fund,ARCA
 DESP,"Despegar.com, Corp.",NYSE
 DESTQ,Destination Maternity Corp Common Stock,U
 DETNF,Aker BP Asa Ordinary Shares,U
+DETRF,DETERRA ROYALTIES LTD ORDINARY FULLY PAID (Australia),U
 DEUBF,Deutsche Beteiligungs Ag Unternehmensbeteiligungsgesell Ordinary Shares (Germany),U
 DEUIF,Deutsche Industrie Grundbesitz AG REIT Germany (DE),U
 DEUS,Xtrackers Russell 1000 Comprehensive Factor ETF,ARCA
@@ -2229,6 +2231,7 @@ ENDRF,ENDOR AG SHS (Germany Federal Republic),U
 ENDTF,Canoe EIT Income Fund Units (Canada),U
 ENDV,"Endonovo Therapeutics, Inc. Common Stock",U
 ENEAY,Enea SA Unsponsored ADR (Poland),U
+ENEKF,ENEA AKTEIEBOLAG SHARE AK NEW (Sweden),U
 ENFR,Alerian Energy Infrastructure ETF,ARCA
 ENG,ENGlobal Corporation Common Stock,NASDAQ
 ENGA,"Engage Mobility, Inc. Com",U
@@ -2663,7 +2666,7 @@ EVFM,"Evofem Biosciences, Inc. Common Stock",NASDAQ
 EVG,Eaton Vance Short Duration Diversified Income Fund,NYSE
 EVGBC,Eaton Vance NextShares Trust Eaton Vance Global Income Builder NextShares,NASDAQ
 EVGEF,Evergreen Gaming Corp Common Shares (Canada),U
-EVGGF,Evolution Gaming Group AB Ordinary Shares   (Sweden),U
+EVGGF,Evolution Gaming Ordinary Shares,U
 EVGI,Evergreen International Corp. Common Stock,U
 EVGN,Evogene Ltd Ordinary Shares,NASDAQ
 EVGRF,CHINA EVERGRANDE NEW ENERGY VEH GROUP LTD Ordinary Shares,U
@@ -3398,7 +3401,6 @@ FLQM,Franklin LibertyQ U.S. Mid Cap Equity ETF,BATS
 FLQS,Franklin LibertyQ U.S. Small Cap Equity ETF,BATS
 FLR,Fluor Corporation,NYSE
 FLRAF,Essentra PLC Ordinary Shares (UK),U
-FLRAY,Essentra plc Unsponsored ADR (United Kingdom),U
 FLRE,Flameret Inc . Common Stock,U
 FLRG,Fidelity U.S. Multifactor ETF,ARCA
 FLRN,SPDR Bloomberg Barclays Investment Grade Floating Rate ETF,ARCA
@@ -4222,6 +4224,7 @@ GCPEY,GCL Poly Energy Holdings Ltd American Depositary Receipts (Unsponsored)(Ca
 GCPL,Global Capital Partners Inc Common Stock,U
 GCPSF,GCP Student Living PLC Ordinary Shares (United Kingdom),U
 GCRIF,"Rogue Resources, Inc. Ordinary Shares",U
+GCRPF,GLOBAL CONNECTION PUBLIC CO LTD NVDR SHARES (Thailand),U
 GCTAF,Siemens Gamesa Renewable Energy Ordinary Shares,U
 GCTAY,Siemens Gamesa Renewable Energy American Depositary Receipts - Unsponsored,U
 GCTY,Gain Cities Limited Common Stock,U
@@ -4320,6 +4323,7 @@ GENE,Genetic Technologies Ltd  Sponsored ADR,NASDAQ
 GENGF,Gear Energy Ltd Common Shares (Canada),U
 GENH,"Generation Hemp, Inc. Common Stock",U
 GENMF,Generation Mining Limited  Common Shares,U
+GENPF,GENIX PHARMACEUTICALS CORP COM (Canada),U
 GENSF,Genus Plc Ordinary Shares,U
 GENSY,Genus Plc Unsponsored ADR (United Kingdom),U
 GENTF,G5 ENTERTAINMENT AB Ordinary Shares,U
@@ -5005,7 +5009,6 @@ GRWTF,Great West Lifeco Inc 1st Pfd Shs Ser I (Canada),U
 GRWWF,Great Wall Pan Asia Hldgs Ltd Ordinary Shares (Bermuda),U
 GRWXF,Draper Esprit PLC Ordinary Shares (United Kingdom),U
 GRX,The Gabelli Healthcare & Wellness Trust,NYSE
-GRX PRB,The Gabelli Healthcare & Wellness Trust 5.875% Series B Cumulative Preferred Shares,NYSE
 GRXMF,Marvel Gold Limited Ordinary Shares,U
 GRXXF,Graphite Energy Corp Common Shares,U
 GRYCF,GRAYCLIFF EXPL LTD Common Stock (Canada),U
@@ -5227,5 +5230,3 @@ GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
-GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
-GWPC,"Wholehealth Products, Inc. Common Stock",U

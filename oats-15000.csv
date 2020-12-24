@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
-MTOR,"MERITOR, Inc.",NYSE
 MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
 MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
 MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U
@@ -86,8 +84,6 @@ MUZNF,Maruzen Company Ltd Ordinary Shares (Japan),U
 MVAC,"MotorVac Technologies, Inc. Common Stock",U
 MVBF,MVB Financial Corp. Common Stock,NASDAQ
 MVBY,"My Vintage Baby, Inc. Common Stock",U
-MVC,"MVC Capital, Inc.",NYSE
-MVCD,"MVC Capital, Inc. 6.25% Senior Notes due 2022",NYSE
 MVEN,"theMaven, Inc. Common Stock",U
 MVES,"The Movie Studio, Inc. Common Stock",U
 MVF,"BlackRock MuniVest Fund, Inc",NYSE
@@ -1131,6 +1127,7 @@ NVMZ,TrueShares Structured Outcome (November) ETF,BATS
 NVNT,"Novint Technologies, Inc. Common Stock",U
 NVNXF,NOVONIX LTD Ordinary Shares Australia(AU ),U
 NVO,Novo-Nordisk A/S,NYSE
+NVOOF,Novo Resources Corp Warrant Exp 08/27/2023 (Canada),U
 NVOS,"Novo Integrated Sciences, Inc. Common Stock",U
 NVPLF,Nevaro Capital Common Stock (Canada),U
 NVPTF,NAVITAS PETE LTD PARTNERSHIP PART UNIT Other Israel(IL ),U
@@ -1166,7 +1163,6 @@ NWDVW,New Media Investment Group Inc. Warrants Expiring 11/26/2023,U
 NWE,NorthWestern Corporation Common Stock,NASDAQ
 NWEGF,Norwegian Finans Holding ASA Ordinary Shares (Norway),U
 NWFAF,New Focus Auto Tech Holdings Ltd HK Shares (Cayman Islands),U
-NWFFF,"Perimeter Medical Imaging AI, Inc.  Ordinary Shares",U
 NWFL,Norwood Financial Corp. Common Stock,NASDAQ
 NWG,"NatWest Group plc American Depositary Shares, (Each representing 2 ordinary shares)",NYSE
 NWGC,New World Gold Corporation Common Stock,U
@@ -1990,6 +1986,7 @@ PBHG,"PBS Holding, Inc. Common Stock",U
 PBI,Pitney Bowes Inc.,NYSE
 PBI PRB,"PITNEY BOWES INC .6.70% Notes Due 2043,",NYSE
 PBIGF,Paradigm Biopharmaceuticals Ltd Ordinary Shares (Australia),U
+PBIIF,PT BFI FINANCE INDONESIA TBK SHS (Indonesia),U
 PBIO,"Pressure BioSciences, Inc. Common Stock",U
 PBIP,"Prudential Bancorp, Inc. Common Stock",NASDAQ
 PBJ,Invesco Dynamic Food & Beverage ETF,ARCA
@@ -2603,6 +2600,7 @@ PMEA,P.M.& E INC Common Stock,U
 PMEDF,Predictmedix Inc.  Ordinary Shares,U
 PMEHF,Primeline Energy Holdings Inc Ordinary Shares,U
 PMF,PIMCO MUNICIPAL INCOME FUND COMMON SHARES OF BENEFICIAL INTERST,NYSE
+PMFIF,PIMCO FIXED INCOME SOURCE ETFS PLC US SHORT TERM HIGH YIELD CORPORATE BD INDEX(Ireland),U
 PMFXF,PIMCO Fixed Income Source ETFs PLC Exchange Traded Fund (Ireland),U
 PMGMF,PLAY MAGNUS AS Ordinary Shares (Norway),U
 PMGYF,Perpetual Energy Inc. Common Shares,U
@@ -2823,6 +2821,8 @@ PRBCF,Precise Biometrics AB Ordinary Shares,U
 PRBDF,Personal Group Holdings Ordinary Shares (United Kingdom),U
 PRBZF,Premium Brands Holdings Corporation (Canada),U
 PRCF,Protein Reactor Combined Fuels Inc Common Stock,U
+PRCH,"Porch Group, Inc. Common Stock",NASDAQ
+PRCHW,"Porch Group, Inc. Warrant",NASDAQ
 PRCK,Placer Creek Mining Co Common Stock,U
 PRCNF,Pure Global Cannabis Inc Common Shares,U
 PRCRF,PROCURRI CORP LTD Ordinary Shares,U
@@ -3093,9 +3093,6 @@ PSZMF,Priszm Income Fund Unit (Canada),U
 PT,Pintec Technology Holdings Limited American Depositary Shares,NASDAQ
 PTA,Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund,NYSE
 PTABF,Pt Astra Agro Lestari Tbk Ordinary Shares,U
-PTAC,PropTech Acquisition Corporation Class A Common Stock,NASDAQ
-PTACU,PropTech Acquisition Corporation Unit,NASDAQ
-PTACW,PropTech Acquisition Corporation Warrant,NASDAQ
 PTAH,PTA Holdings Inc Common Stock,U
 PTAIF,Pt Astra International TBK Ordinary Shares (Indonesia),U
 PTAIY,Pt Astra International TBK Unsponsored ADR (Indonesia),U
@@ -3352,6 +3349,7 @@ PYIYF,Property For Industry Ltd Shs (New Zealand),U
 PYIYY,Property For Industry Ltd Ord Unsponsored ADR (New Zealand),U
 PYMOF,HYDROCARBON DYNAMICS LTD Ordinary Shares,U
 PYN,PIMCO New York Municipal Income Fund III,NYSE
+PYNKF,"Perimeter Medical Imaging AI, Inc.  Ordinary Shares",U
 PYOIF,Promotora Y Operadora De Infraestructura SA Ordinary Shares (Mexico),U
 PYPD,PolyPid Ltd. Ordinary Shares,NASDAQ
 PYPE,"ETRACS NYSE Pickens Core Midstream Index ETN due August 20, 2048",ARCA
@@ -5228,3 +5226,7 @@ SHMN,"SOHM, Inc. Common Stock",U
 SHMP,NaturalShrimp Incorporated Common Stock,U
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
+SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
+SHMZF,Shimadzu Corp Ordinary Shares,U
+SHNL,"Shentang International, Inc. Common Stock",U
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
