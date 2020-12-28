@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTOR,"MERITOR, Inc.",NYSE
 MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
 MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
 MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U
@@ -2562,6 +2563,7 @@ PLTT,"Pilot Therapeutics Holdings, Inc. Common Stock",U
 PLTXF,PlantX Life Inc Common Shares (Canada),U
 PLTYF,"Plastec Technologies, Ltd Ordinary Shares (Cayman Islands)",U
 PLUG,"Plug Power, Inc. Common Stock",NASDAQ
+PLUNF,Pt Lautan Luas Tbk Ordinary Shares,U
 PLUS,ePlus inc. Common Stock,NASDAQ
 PLUUF,Plateau Energy Metals Inc Common Shares,U
 PLW,Invesco Exchange-Traded Fund Trust II Invesco 1-30 Laddered Treasury ETF,NASDAQ
@@ -3692,7 +3694,6 @@ RCKE,"Rock Energy Resources, Inc. Common Stock",U
 RCKHF,"Rockhopper Exploration Plc, Salisbury Ordinary shares (United Kingdom)",U
 RCKT,"Rocket Pharmaceuticals, Inc. Common Stock",NASDAQ
 RCKTF,Rock Tech Lithium Inc Ordinary Shares (Canada),U
-RCKXF,Rocky Mountain Dealerships Inc Ordinary Shares (Canada),U
 RCKY,"Rocky Brands, Inc. Common Stock",NASDAQ
 RCKZF,Rocket Internet AG Ordinary Shares (Germany Federal Republic),U
 RCL,Royal Caribbean Group,NYSE
@@ -4411,7 +4412,6 @@ RVNU,Xtrackers Municipal Infrastructure Revenue Bond ETF,ARCA
 RVP,"Retractable Technologies, Inc",AMEX
 RVPH,"Reviva Pharmaceuticals Holdings, Inc. Common Stock",NASDAQ
 RVPHW,"Reviva Pharmaceuticals Holdings, Inc. Warrants",NASDAQ
-RVRA,Riviera Resources Inc Common Stock,U
 RVRF,River Financial Corp. Common Stock,U
 RVRKF,RAVEN ROCK STRATEGIC INCOME FD Unit (Canada),U
 RVRS,Reverse Cap Weighted US Large Cap ETF,BATS
@@ -5209,7 +5209,7 @@ SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,Sinotruk Hong Kong Ltd Ordinary shares (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
-SHKRF,Stone Resources Australia Ltd. Ordinary Shares (Australia),U
+SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
 SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
 SHLDQ,Sears Holdings Corporation Common Stock,U

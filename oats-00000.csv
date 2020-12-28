@@ -3569,7 +3569,9 @@ BVXV,BiondVax Pharmaceuticals Ltd. American Depositary Shares,NASDAQ
 BVZHF,BVZ Holding AG Zermatt Namen AKT (Switzerland),U
 BW,"Babcock & Wilcox Enterprises, Inc.",NYSE
 BWA,BorgWarner Inc.,NYSE
+BWAC,Better World Acquisition Corp. Common Stock,NASDAQ
 BWACU,Better World Acquisition Corp. Unit,NASDAQ
+BWACW,Better World Acquisition Corp. Warrants,NASDAQ
 BWAGF,BAWAG Group AG Ordinary Shares (Austria),U
 BWAL,Beach Community Bank Fort Walton Beach Florida Common Stock,U
 BWAV,Betawave Corporation Common Stock,U
@@ -3777,7 +3779,6 @@ CAPAU,HighCape Capital Acquisition Corp. Unit,NASDAQ
 CAPAW,HighCape Capital Acquisition Corp. Warrant,NASDAQ
 CAPB,CapitalSouth Bancorp Common Stock,U
 CAPC,"Capstone Companies, Inc. Common Stock",U
-CAPD,"CannaPowder, Inc. Common Stock",U
 CAPE,iPath Shiller CAPE ETN,ARCA
 CAPL,CrossAmerica Partners LP Common units representing limited partner interests,NYSE
 CAPMF,Capgemini SE Ordinary Shares,U
@@ -4874,7 +4875,6 @@ CMLFW,"CM Life Sciences, Inc. Warrant",NASDAQ
 CMLGF,"Canickel Mining, Ltd. Ordinary Shares (Canada)",U
 CMLLF,China Maple Leaf Educational Systems Ltd.  Ordinary Shares,U
 CMLS,Cumulus Media Inc. Class A Common Stock,NASDAQ
-CMMBF,Crowd Media Hldgs Ltd Ordinary Shares,U
 CMMCF,Oxe Marine AB Ordinary Shares,U
 CMMMF,Comstock Metals Ltd Common Shares,U
 CMMXF,CEMEX HLDGS PHILIPPINES INC Ordinary Shares,U
@@ -5230,4 +5230,3 @@ CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,Capitaland Mall Trust Unit,U
 CPB,Campbell Soup Company,NYSE
-CPBLF,ALS Ltd. Ordinary Shares (Australia),U

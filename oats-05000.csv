@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
@@ -370,6 +371,7 @@ CSVI,Computer Services Inc Ky Common Stock,U
 CSWC,Capital Southwest Corporation Common Stock,NASDAQ
 CSWCL,Capital Southwest Corporation 5.95% Notes due 2022,NASDAQ
 CSWI,"CSW Industrials, Inc. Common Stock",NASDAQ
+CSWYF,China Shineway Pharmaceutical Group Limited Ordinary Shares (Cayman Islands),U
 CSWYY,China Shineway Pharmaceutical Group Limited Unsponsored ADR (Cayman Islands),U
 CSX,CSX Corporation Common Stock,NASDAQ
 CSXXY,Carsales.com Ltd Unsponsored ADR (Austrailia),U
@@ -1190,7 +1192,6 @@ DLNG PRA,"Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred
 DLNG PRB,Dynagas LNG Partners LP 8.75% Series B Fixed to Floating Rate Cumulative Redeemable Perpetual Prefer,NYSE
 DLOC,"Digital Locations, Inc. Common Stock",U
 DLPN,"Dolphin Entertainment, Inc. Common Stock",NASDAQ
-DLPNW,"Dolphin Entertainment, Inc. Warrant",NASDAQ
 DLPTF,Dalian Port PDA Company Ltd Shares -H- (China),U
 DLPX,Delphax Technologies Inc. Common Stock,U
 DLR,"Digital Realty Trust, Inc.",NYSE
@@ -2335,8 +2336,8 @@ EPD,Enterprise Products Partners L.P.,NYSE
 EPEO,E'Prime Aerospace Corporation New Common Stock,U
 EPGC,ECom Products Group Common Stock,U
 EPGG,Empire Global Gaming Inc Common Stock,U
+EPGND,Epigenomics Ag Berlin American Depositary Receipts - Sponsored,U
 EPGNF,EPIGENOMICS AG Ordinary Shares,U
-EPGNY,Epigenomics Ag Berlin Sponsored ADR (Germany),U
 EPGRQ,Environmental Power Corporation New Common Stock,U
 EPHE,iShares MSCI Philippines ETF,ARCA
 EPI,WisdomTree India Earnings Fund ETF,ARCA
@@ -2620,7 +2621,9 @@ ETX,EATON VANCE MUNICIPAL INCOME 2028 TERM TRUST,NYSE
 ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,NYSE
 EUBG,ENTREPRENEUR UNIVERSE BRIGHT GROUP Common Stock,U
 EUCMF,Eurocommercial Properties Nv Cert of Shs (Netherlands),U
+EUCR,Eucrates Biomedical Acquisition Corp. Ordinary Shares,NASDAQ
 EUCRU,Eucrates Biomedical Acquisition Corp. Unit,NASDAQ
+EUCRW,Eucrates Biomedical Acquisition Corp. Warrant,NASDAQ
 EUDG,WisdomTree Europe Quality Dividend Growth Fund,ARCA
 EUDV,ProShares MSCI Europe Dividend Growers ETF,BATS
 EUENF,"Eurasia Energy Limited (Anguilla, British West Indies)",U
@@ -3538,7 +3541,7 @@ FNDC,Schwab Fundamental International Small Company Index ETF,ARCA
 FNDE,Schwab Fundamental Emerging Markets Large Company Index ETF,ARCA
 FNDF,Schwab Fundamental International Large Company Index ETF,ARCA
 FNDM,Fund.com Inc. Class A  Common Stock,U
-FNDOY,Fvi Fondo De Valores Ser B 10p New American Depositary Shares,U
+FNDOD,Fvi Fondo De Valores Ser B 10p American Depositary Receipts - Sponsored,U
 FNDTF,FRIENDTIMES INC. HKD SHS (Cayman Islands),U
 FNDX,Schwab Fundamental U.S. Large Company Index ETF,ARCA
 FNEC,First National Energy Corporation Common Stock,U
@@ -4684,7 +4687,7 @@ GMTA,GATX Corporation 5.625% Senior Notes 5/30/2066,NYSE
 GMTU,"Green Mountain Merger, Inc. Common Stock",U
 GMUAF,Gamuda Bhd Ordinary Shares (Malaysia),U
 GMVHF,ENTAIN PLC Ordinary Shares,U
-GMVHY,GVC HLDGS PLC ADR (Isle of Man),U
+GMVHY,ENTAIN PLC American Depositary Receipts - Unsponsored,U
 GMVMF,"GMV Minerals, Inc. Ordinary Shares (Canada)",U
 GMVP,"Gridiron BioNutrients, Inc. Common Stock",U
 GMWKF,Games Workshop Grp Ord Uk Ordinary Shares,U
@@ -4969,7 +4972,7 @@ GRPN,"Groupon, Inc. Common Stock",NASDAQ
 GRPOF,GRUPO TRAXION S A B DE C V SHARES OF FINANCIAL GROUPS AND INDUSTRIAL RETAIL (Mexico),U
 GRPRF,GRUPO ROTOPLAS S A B DE C V ORDINARY SHARES (Mexico),U
 GRPS,"Gold River Productions, Inc. Common Stock",U
-GRPTF,Groupe Eurotunnel GET Shs Provenant Regroupement  (France),U
+GRPTF,GETLINK SE Ordinary Shares,U
 GRPTY,Getlink SE American Depositary Receipts - Unsponsored,U
 GRPX,"Greenplex Services, Inc Common Stock",U
 GRRB,GrandSouth Bancorporation (SC) Common Stock,U
@@ -5227,6 +5230,3 @@ GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
-GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
-GWON,Grandwon Corp. Common Stock,U

@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
+GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
+GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
 GWPD,"GP Solutions, Inc. Common Stock",U
@@ -171,7 +174,6 @@ HCCA,Healthcare Corporation of America Common Stock,U
 HCCI,"Heritage-Crystal Clean, Inc. Common Stock",NASDAQ
 HCDI,"Harbor Custom Development, Inc. Common Stock",NASDAQ
 HCEI,"Healthy Coffee International, Inc. Common Stock",U
-HCFT,"Hunt Companies Finance Trust, Inc. Common Stock",NYSE
 HCGI,Huntwicke Capital Group Inc. Common Stock,U
 HCGOF,Haichang Ocean Pk Holdings Ltd Ordinary Shares (Cayman Islands),U
 HCGS,"HighCom Global Security, Inc. Common Stock",U
@@ -218,7 +220,6 @@ HDLS,Hub Deals Corp. Common Stock,U
 HDMV,First Trust Horizon Managed Volatility Developed International ETF,ARCA
 HDRPF,THC Global Group Ltd Ordinary Shares,U
 HDRSF,"Highland Copper Co., Inc Ordinary Shares (Canada)",U
-HDS,"HD Supply Holdings, Inc. Common Stock",NASDAQ
 HDSLD,HEALTHSPACE DATA SYSTEM LTD Ordinary Shares,U
 HDSMF,Henderson Smaller Companies Investment Trust PLC Ordinary Shares (United Kingdom),U
 HDSN,"Hudson Technologies, Inc. Common Stock",NASDAQ
@@ -1160,7 +1161,6 @@ ICPBF,Inscape Corporation Ordinary Shares,U
 ICPT,"Intercept Pharmaceuticals, Inc. Common Stock",NASDAQ
 ICPVF,Incitec Pivot Ltd Ordinary Shares (Australia),U
 ICRD,"International Card Establishment, Inc. Common Stock",U
-ICRMF,Eon Nrg Ltd Ordinary Shares Australia(AU ),U
 ICSCF,Nubian Resources Ltd Class A Ordinary Shares (Canada),U
 ICSH,BlackRock Ultra Short-Term Bond ETF,BATS
 ICTAF,ROLLING OPTICS HLDG AB Ordinary Shares,U
@@ -1599,6 +1599,7 @@ INCAF,Inca One Gold Corporation Ordinary Shares,U
 INCC,"International Consolidated Companies, Inc. Common Stock",U
 INCKF,Revelo Resources Corp Ordinary Shares,U
 INCO,Columbia India Consumer ETF,ARCA
+INCPF,INNOCARE PHARMA LTD Ordinary Shares,U
 INCPY,Inchcape Plc Ord American Depositary Receipts - Sponsored,U
 INCT,"InCapta, Inc. Common Stock",U
 INCY,Incyte Corp. Common Stock,NASDAQ
@@ -2969,7 +2970,7 @@ KMMPF,Killiam Apt Real Estate Invt Tr Unit (Canada),U
 KMMWF,Kew Media Group Inc Wt Expiring 07/25/2021 (Canada),U
 KMNCF,Kingsmen Creatives LTD Ordinary Shares (Singapore),U
 KMNNF,KMN Capital Ltd. Ordinary Shares (Israel),U
-KMPH,"KemPharm, Inc. Common Stock",U
+KMPHD,KEMPHARM INC Common Stock,U
 KMPR,Kemper Corporation,NYSE
 KMRCF,Komori Corp Ordinary Shares,U
 KMRIF,KOMERI CO LTD Ordinary Shares,U
@@ -3477,6 +3478,7 @@ LFLS,"Loans4Less.com, Inc. Common Stock",U
 LFPI,Lifepoint Inc Common Stock,U
 LFSYF,Lifestyle International Holdings Limited Ordinary Shares (Hong Kong),U
 LFSYY,Lifestyle International Holdings Limited Unsponsored ADR (Cayman Islands),U
+LFT,"Lument Finance Trust, Inc.",NYSE
 LFTPF,LEFT FIELD PRTG GROUP LTD SHS (Bermuda),U
 LFTR,Lefteris Acquisition Corp. Class A Common Stock,NASDAQ
 LFTRU,Lefteris Acquisition Corp. Unit,NASDAQ
@@ -3676,7 +3678,6 @@ LMST,"Limestone Bancorp, Inc. Common Stock",NASDAQ
 LMT,Lockheed Martin Corp.,NYSE
 LMTI,"Laser Master International, Inc. Common Stock",U
 LMWW,"LMWW Holdings, Inc Common Stock",U
-LN,LINE Corporation,NYSE
 LNBY,"Landbay, Inc. Class A Common Stock",U
 LNC,Lincoln National Corp.,NYSE
 LNCLF,Lincoln Gold Mng Inc Ordinary Shares,U
@@ -5229,4 +5230,3 @@ MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
 MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
-MTOR,"MERITOR, Inc.",NYSE
