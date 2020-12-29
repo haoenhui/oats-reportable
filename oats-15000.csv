@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTOR,"MERITOR, Inc.",NYSE
-MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
-MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
 MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U
 MTPP,"Mountain Top Properties, Inc. Common Stock",U
 MTPR,Meta Power International Inc Common Stock New,U
@@ -3487,7 +3484,9 @@ QOIL,Quest Oil Corporation Common Stock,U
 QOWI,Quality One Wireless Inc,U
 QPRC,Quest Patent Research Corporation Common Stock,U
 QPSF,QPS Die Cutters Common,U
+QPT,AdvisorShares Q Portfolio Blended Allocation ETF,ARCA
 QPTFF,Quest PharmaTech Inc Ordinary Shares (Canada),U
+QPX,AdvisorShares Q Dynamic Growth ETF,ARCA
 QQC,Simplify Exchange Traded Funds Simplify Growth Equity Plus Convexity ETF,NASDAQ
 QQD,Simplify Exchange Traded Funds Simplify Growth Equity Plus Downside Convexity ETF,NASDAQ
 QQEW,First Trust NASDAQ-100 Equal Weighted Index Fund,NASDAQ
@@ -4815,6 +4814,7 @@ SCTBF,Securitas A B Ordinary Shares SHS-B-,U
 SCTBY,Securitas A B Unsponsored ADR representing B Shares (Sweden),U
 SCTC,SCOUTCAM INC Common Stock,U
 SCTN,Schimatic Technologies Inc Common Stock,U
+SCTQ,SPECTRA SYS CORP Common Stock,U
 SCTSF,SCOTTIE RES CORP Common Shares Canada(CA ),U
 SCTTF,SCOTT TECHNOLOGY LIMITED (New Zealand),U
 SCTY,Monitronics International Inc Common Stock,U
@@ -5230,3 +5230,5 @@ SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
+SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
+SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U

@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
-SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRF,"Sunstone Hotel Investors, Inc.  6.450% Series F Cumulative Redeemable Preferred Stock",NYSE
@@ -2223,7 +2221,6 @@ TLED,Light Engine Design Corp. Common Stock,U
 TLEH,FlexShares Currency Hedged Morningstar EM Factor Tilt Index Fund,ARCA
 TLFA,"Tandy Leather Factory, Inc. Common Stock",U
 TLFE,"Elfato, Inc. Common Stock",U
-TLFNF,Telefonica SA Rights Exp 12/28/2020 (Spain),U
 TLFX,"Telefix Communications Holdings, Inc. Common Stock",U
 TLGHF,Telenet Group Holding Nv Ordinary Shares (Belgium),U
 TLGHY,Telenet Group Holding Nv Unsponsored ADR (Belgium),U
@@ -2303,6 +2300,7 @@ TMKUF,"Tomoku Co Ltd, SHS (Japan)",U
 TMLVF,Tamerlane Ventures Inc Common Shares (Canada),U
 TMMFF,TMAC Res Inc Ordinary Shares (Canada),U
 TMMI,T M M Inc New Common Stock,U
+TMMTF,Tom Tailor Holding Ag Hamburg Namen -AKT (Germany),U
 TMNSF,Temenos Group AG Temenos Group AG Glarus Namen AKT,U
 TMO,"Thermo Fisher Scientific, Inc.",NYSE
 TMOAF,Tomtom NV Ordinary Shares,U
@@ -3513,6 +3511,7 @@ VBTX,"Veritex Holdings, Inc. Common Stock",NASDAQ
 VBVBF,Verbio Vereinigte Bioenergie Ag Hamburg Ordinary Shares (Germany),U
 VBVT,Viabuilt Ventures Inc. Common Stock,U
 VC,Visteon Corporation Common Stock,NASDAQ
+VCAR,Simplify Volt RoboCar Disruption and Tech ETF,ARCA
 VCBD,"Vitalibis, Inc. Common Stock",U
 VCEB,Vanguard ESG U.S. Corporate Bond ETF,BATS
 VCEL,Vericel Corporation Common Stock,NASDAQ
@@ -3528,6 +3527,7 @@ VCISY,Vinci SA ADR (France),U
 VCIT,Vanguard Intermediate-Term Corporate Bond ETF,NASDAQ
 VCKVF,VANECK VECTORS UCITS ETFS PLC Exchange Traded Fund,U
 VCLD,Verecloud Inc. Common Stock,U
+VCLO,Simplify Volt Cloud and Cybersecurity Disruption ETF,ARCA
 VCLT,Vanguard Long-Term Corporate Bond ETF,NASDAQ
 VCMMF,Vocus Communications Ltd Ordinary Shares (Australia),U
 VCMP,VCampus Corporation Common Stock,U
@@ -3612,6 +3612,7 @@ VFC,V.F. Corporation,NYSE
 VFDEF,Vanguard Funds PLC Vanguard FTSE Developed Europe UCITS ETF,U
 VFF,"Village Farms International, Inc. Common Shares",NASDAQ
 VFH,Vanguard Financials ETF,ARCA
+VFIN,Simplify Volt Fintech Disruption ETF,ARCA
 VFL,Delaware Investments National Municipal Income Fund,AMEX
 VFLQ,Vanguard U.S. Liquidity Factor ETF,BATS
 VFMF,Vanguard U.S. Multifactor ETF,BATS
@@ -3905,6 +3906,7 @@ VPL,Vanguard FTSE Pacific ETF,ARCA
 VPLCF,Vanguard Funds PLC Tresury Bond UCITS ETF (Ireland),U
 VPLM,VOIP-PAL.COM INC Common Stock,U
 VPN,Global X Funds Global X Data Center REITs & Digital Infrastructure ETF,NASDAQ
+VPOP,Simplify Volt Pop Culture Disruption ETF,ARCA
 VPOR,"Vapor Group, Inc. Common Stock (FL)",U
 VPPCF,VPC Specialty Lending Invstmnts PLC Ordinary Shares GBP0.01 (United Kingdom),U
 VPRB,"VPR Brands, LP Common Stock",U
@@ -4438,7 +4440,7 @@ WMK,"Weis Markets, Inc.",NYSE
 WMLLF,Wealth Minerals Ltd. Common Shares,U
 WMMVF,Wal-mart de Mexico S A B de C V Ordinary Shares,U
 WMMVY,Wal-mart de Mexico S A B de C V Sponsored ADR representing Series V Shares (Mexico),U
-WMNNF,European Cobalt Ltd Ordinary Shares,U
+WMNNF,ASTON MINERALS LTD Ordinary Shares,U
 WMPN,"William Penn Bancorp, Inc. Common Stock",U
 WMRSF,Westminster Res Ltd Common Shares,U
 WMS,"ADVANCED DRAINAGE SYSTEMS, INC.",NYSE

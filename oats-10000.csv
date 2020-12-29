@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
@@ -1743,7 +1742,6 @@ IOO,iShares Global 100 ETF,ARCA
 IOOFF,Ioof Holdings Ltd Ordinary Shares (Australia),U
 IOOXF,iShares Core Canadian Long Term Bond Index ETF (Canada),U
 IOR,"Income Opportunity Realty Investors, Inc.",AMEX
-IORG,"INTREorg Systems, Inc. Common Stock",U
 IOSP,Innospec Inc. Common Stock,NASDAQ
 IOTC,"Iota Communications, Inc. Common Stock",U
 IOUFF,IOU Financial Inc Ordinary Shares (Canada),U
@@ -2800,7 +2798,7 @@ KEN,KENON HOLDINGS LTD.,NYSE
 KENS,Kenilworth Systems Corp.  Common Stock,U
 KEP,Korea Electric Power Corp,NYSE
 KEQU,Kewaunee Scientific Corporation Common Stock,NASDAQ
-KERMF,Kerr Mines Inc Common Shares (Canada),U
+KERMF,Arizona Gold Corp. Ordinary Shares,U
 KERN,Akerna Corp. Common Stock,NASDAQ
 KERNW,Akerna Corp Warrant,NASDAQ
 KESG,KraneShares MSCI China ESG Leaders Index ETF,ARCA
@@ -5056,6 +5054,7 @@ MRLLF,Minera IRL Ltd Shs (Jersey),U
 MRLLY,Minera IRL Ltd Unsponsored ADR (Jersey),U
 MRLN,Marlin Business Services Corp. Common Stock,NASDAQ
 MRLWF,MARLOWE PLC ORD GBP0.5 (United Kingdom),U
+MRM,MEDIROM Healthcare Technologies Inc. American Depositary Share,NASDAQ
 MRMD,MariMed Inc. Common Stock,U
 MRMEF,Marmota Ltd.  Ordinary Shares,U
 MRNA,"Moderna, Inc. Common Stock",NASDAQ
@@ -5196,6 +5195,7 @@ MTDGY,M T D Mangula Ltd          Ord American Depositary Shares,U
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
+MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
@@ -5230,3 +5230,6 @@ MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
 MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
+MTOR,"MERITOR, Inc.",NYSE
+MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
+MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U

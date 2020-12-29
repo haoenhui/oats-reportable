@@ -687,7 +687,7 @@ AHH PRA,"Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Pe
 AHICF,"Asahi Intec Co Ltd, Nagoya Ordinary Shares (Japan)",U
 AHII,American Heritage International Inc. Common Stock,U
 AHIXD,"Aluf Holdings, Inc. Common Stock",U
-AHKSF,Asahi Kaisai Corporation Ordinary Shares,U
+AHKSF,ASAHI KASEI CORP Ordinary Shares,U
 AHKSY,Asahi Kaisai Corporation American Depositary Shares,U
 AHL PRC,Aspen Insurance Holdings Limited 5.95% Fixed-to-Floating Rate Perpetual Non-Cumulative Preference Sh,NYSE
 AHL PRD,Aspen Insurance Holdings Limited 5.625% Perpetual Non-Cumulative Preference Shares,NYSE
@@ -1194,7 +1194,6 @@ AMZA,InfraCap MLP ETF,ARCA
 AMZN,"Amazon.com, Inc. Common Stock",NASDAQ
 AN,"AutoNation, Inc.",NYSE
 ANAB,"AnaptysBio, Inc. Common Stock",NASDAQ
-ANANF,Ananda Dev Pub Co Ltd Shares Foreign Registered (Thailand),U
 ANAS,"Alternaturals, Inc Common Stock",U
 ANAT,"American National Group, Inc. Common Stock",NASDAQ
 ANAV,Alpha Network Alliance Ventures Inc. Com,U
@@ -1427,6 +1426,7 @@ APXTU,Apex Technology Acquisition Corporation Unit,NASDAQ
 APXTW,Apex Technology Acquisition Corporation Warrant,NASDAQ
 APXX,"Apex Resources, Inc. Common Stock",U
 APXYY,Appen Ltd. American Depositary Receipts - Unsponsored,U
+APXZF,Apptix ASA SHS (Norway),U
 APYI,"Aspyra, Inc. Common Stock",U
 APYP,"Appyea, Inc. Common Stock",U
 APYRF,Allied Properties Real Estate Investment Trust Unit (Canada),U
@@ -1715,6 +1715,8 @@ ASOZF,Asseco Poland S.A. Ordinary Shares (Poland),U
 ASOZY,Asseco Poland S.A. Sponsored ADR (Poland),U
 ASPCF,ACERUS PHARMACEUTICALS CORP Common Shares,U
 ASPD,"ASPEN DIGITAL, INC. DIGITAL TOKEN REPSTG COM Other",U
+ASPGF,ASPIRE GLOBAL PLC GBP 0.0025 Ordinary Shares (Malta),U
+ASPHF,ASCENTAGE PHARMA GROUP INTL HKD SHS (Cayman Islands),U
 ASPL,Aspirational Consumer Lifestyle Corp.,NYSE
 ASPL U,"Aspirational Consumer Lifestyle Corp. Units, each consisting of one Class A ordinary share and one-t",NYSE
 ASPL WS,"Aspirational Consumer Lifestyle Corp. Redeemable Warrants, each whole warrant exercisable for one Cl",NYSE
@@ -1855,6 +1857,7 @@ ATOS,"Atossa Therapeutics, Inc. Common Stock",NASDAQ
 ATOWW,"Atossa Therapeutics, Inc.  Warrant",U
 ATOXF,"Durango Resources, Inc.  Common Shares (Canada)",U
 ATPGQ,ATP Oil & Gas Corporation PERP PFD CONV 8% SER B,U
+ATPHF,AUSTRALIAN PRIM HEMP LTD Ordinary Shares,U
 ATPL,"Atlantis Plastics, Inc. Common Stock",U
 ATPTD,"Petro USA, Inc. Common Stock",U
 ATPWF,Atlantic Pwr Pfd Equity Ltd Cum Pfd Ser 3 Fltg (Canada),U
@@ -2141,6 +2144,7 @@ AYAAF,Ayala Land Inc Ordinary Shares,U
 AYAAY,Ayala Land Inc American Depositary Receipts (Unsponsored)(Phillipines),U
 AYAG,AMAYA GLOBAL HLDGS CORP Common Stock,U
 AYALY,Ayala Corp Unsponsored ADR (Philippines),U
+AYFGF,AYFIE GROUP AS Ordinary Shares (Norway),U
 AYGUY,Aygaz A S Unsponsored ADR (Turkey),U
 AYHC,Ability Holding Corporation Common Stock,U
 AYI,"Acuity Brands, Inc.",NYSE
@@ -4277,7 +4281,7 @@ CFST,Communities First Financial Corporation Common Stock,U
 CFSU,"Complete Financial Solutions, Inc. Common Stock",U
 CFTLF,Chinasoft International Ltd Ordinary Shares (Cayman Islands),U
 CFTN,Clifton Mining Co Common Stock,U
-CFWFF,Calfrac Well Services Ltd Ordinary Shares (Canada),U
+CFWFD,Calfrac Well Services Ltd Common Shares,U
 CFX,Colfax Corporation,NYSE
 CFXA,Colfax Corporation 5.75% Tangible Equity Units,NYSE
 CFXTF,Conifex Timber Inc. Com (Canada),U
@@ -5229,4 +5233,3 @@ CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,Capitaland Mall Trust Unit,U
-CPB,Campbell Soup Company,NYSE

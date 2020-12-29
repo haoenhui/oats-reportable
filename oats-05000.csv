@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
@@ -4294,7 +4295,6 @@ GEBEY,Genting Berhad Unsponsored ADR (Malaysia),U
 GEBHF,Genting Berhad Ord Ordinary Shares,U
 GEBHY,Genting Berhad Sponsored ADR (Malaysia),U
 GEBRF,Greenbriar Capital Corporation Com (Canada),U
-GEC,"Great Elm Capital Group, Inc. Common Stock",NASDAQ
 GECC,Great Elm Capital Corp. Common Stock,NASDAQ
 GECCL,Great Elm Capital Corp. 6.50% Notes due 2022,NASDAQ
 GECCM,Great Elm Capital Corp. 6.75% Notes Due 2025,NASDAQ
@@ -4306,6 +4306,7 @@ GEENQ,Global Eagle Entertainment Inc. Common Stock,U
 GEF,"Greif, Inc.",NYSE
 GEF B,"Greif, Inc. Class B",NYSE
 GEFI,Geo Finance Corp. Common Stock,U
+GEG,"Great Elm Group, Inc. Common Stock",NASDAQ
 GEGI,"Genesis Electronics Group, Inc. Common Stock",U
 GEGP,"Gold Entertainment Group, Inc. New Common Stock",U
 GEGR,"Gaensel Energy Group, Inc. Common Stock",U
@@ -4540,6 +4541,7 @@ GLCN,VanEck Vectors China Growth Leaders ETF,ARCA
 GLCNF,"Glencore Xstrata PLC, St. Helier Ordinary Shares (Jersey)",U
 GLCO,Global Links Corporation Common Stock,U
 GLD,"SPDR Gold Trust, SPDR Gold Shares",ARCA
+GLDAF,GLOBALDATA PLC SHS (United Kingdom),U
 GLDD,Great Lakes Dredge & Dock Corporation Common Stock,NASDAQ
 GLDFF,Golden Leaf Hldgs Ltd Ordinary Shares (Canada),U
 GLDG,GoldMining Inc.,AMEX
@@ -5082,6 +5084,7 @@ GSPE,"Gulfslope Energy, Inc. Common Stock",U
 GSPH,Geospatial Corporation Common Stock,U
 GSPI,Green Star Products Inc,U
 GSPT,Golden Star Enterprises Ltd. Common Stock,U
+GSPY,Gotham Enhanced 500 ETF,ARCA
 GSRCF,GSP RESOURCE CORP COM (Canada),U
 GSRX,GSRX Industries Inc. Common Stock,U
 GSS,Golden Star Resources Ltd.,AMEX
@@ -5162,7 +5165,6 @@ GTYH,"GTY Technology Holdings, Inc. Common Stock",NASDAQ
 GTYHW,"GTY Technology Holdings, Inc. Warrants",U
 GUAA,Guaranty Bancorp Inc Common Stock,U
 GUARY,Guaranty Tr Bk Plc Sponsored GDR Reg S (Nigeria),U
-GUDB,Sage ESG Intermediate Credit ETF,ARCA
 GUDDY,GUD Holdings Ltd Unsponsored American Depository Receipt (Australia),U
 GUDHF,"GUD Holdings, Ltd. Ordinary Shares (Australia)",U
 GUDNF,Guangdong Yueyun Trans Co Ltd Shares H (China),U
@@ -5230,3 +5232,4 @@ GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
