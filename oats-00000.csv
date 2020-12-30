@@ -60,7 +60,7 @@ AAUKF,Anglo American plc Ordinary Shares (United Kingdom),U
 AAVMY,Abn Amro BK N V Amsterdam Brh American Depositary Receipts - Unsponsored (Netherlands),U
 AAVVF,Advantage Oil & Gas Ltd Ordinary Shares (Canada),U
 AAVXF,Abivax SA Ordinary Shares (France),U
-AAWC,Alexandria Advantage Warranty Company Common Stock,U
+AAWCD,CANNING STR CORP Common Stock,U
 AAWW,Atlas Air Worldwide Holdings NEW Common Stock,NASDAQ
 AAXJ,iShares MSCI All Country Asia ex Japan ETF,NASDAQ
 AAXN,"Axon Enterprise, Inc. Common Stock",NASDAQ
@@ -883,6 +883,7 @@ ALEAF,Aleafia Health Inc Ordinary Shares,U
 ALEC,"Alector, Inc. Common Stock",NASDAQ
 ALEDY,Allied Group Limited Unsponsored ADR (Hong Kong),U
 ALEGF,ALLEGRO EU SA ORD BR (Luxembourg),U
+ALEQP,ALTA EQUIP GROUP INC DEP SHS REPSTG 1/1000TH PFD SER A 10%,U
 ALEX,"Alexander & Baldwin, Inc.",NYSE
 ALFA,AlphaClone Alternative Alpha ETF,BATS
 ALFDF,Astral Foods Ltd Ordinary Shares (South Africa),U
@@ -1980,7 +1981,9 @@ AVCTW,"American Virtual Cloud Technologies, Inc. Warrant expiring 4/7/2025",NASD
 AVCVF,Monitor Ventures Inc Common Shares,U
 AVD,American Vanguard Corporation,NYSE
 AVDE,Avantis International Equity ETF,ARCA
+AVDG,AVDR US LargeCap ESG ETF,BATS
 AVDL,Avadel Pharmaceuticals plc American Depositary Shares,NASDAQ
+AVDR,AVDR US LargeCap Leading ETF,BATS
 AVDV,Avantis International Small Cap Value ETF,ARCA
 AVDWF,Advent AWI Hldgs Inc Common Shares,U
 AVEFF,Avecho Biotechnology Ltd Ordinary Shares (Australia),U
@@ -2345,6 +2348,7 @@ BBU,Brookfield Business Partners L.P.Limited Partnership Units,NYSE
 BBUCQ,Big Buck Brewery & Steakhouse Inc. Common Stock,U
 BBUS,JPMorgan BetaBuilders U.S. Equity ETF,BATS
 BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",NYSE
+BBVKF,DISTIL PLC Ordinary Shares (United Kingdom),U
 BBVTF,BBTV Holdings Inc Com Sub Voting Shs (Canada),U
 BBVXF,Banco Bilbao Vizcaya Pfd B Ordinary Shares,U
 BBW,"Build-A-Bear Workshop, Inc.",NYSE
@@ -2616,7 +2620,6 @@ BGI,Birks Group Inc,AMEX
 BGII,"BGI, Inc. Common Stock",U
 BGIO,BlackRock 2022 Global Income Opportunity Trust,NYSE
 BGKKF,Bangkok Bank Public Co Ltd Bangkok Bank Public Co Ltd BBL (Hong Kong),U
-BGKYF,Pure Extracts Technologies Corp Common Shares,U
 BGLAF,Bangkok Life Assurance Ltd Units Non-Voting Depositary Receipts (Thailand),U
 BGLC,Bionexus Gene Lab Corp  Common Stock,U
 BGMD,"BG Medicine, Inc. Common Stock",U
@@ -2938,6 +2941,7 @@ BLPG,"Blue Line Protection Group, Inc. Common Stock",U
 BLPH,"Bellerophon Therapeutics, Inc. Common Stock",NASDAQ
 BLRDF,Billerud AB Shs (Sweden),U
 BLRDY,Billerud Korsnas AB American Depositary Receipts - Unsponsored,U
+BLRNF,BLADERANGER LTD Ordinary Shares,U
 BLRS,BioLife Remedies Inc Common Stock,U
 BLRX,BioLineRx Ltd. American Depositary Shares,NASDAQ
 BLRZF,Blackhawk Growth Corp. Ordinary Shares,U
@@ -3472,6 +3476,7 @@ BTEC,Principal Exchange-Traded Funds Principal Healthcare Innovators Index ETF,N
 BTEGF,Baytex Energy Corp Common Stock (Canada),U
 BTEK,BlackRock Future Tech ETF,ARCA
 BTG,B2Gold Corp.,AMEX
+BTGGF,Bitcoin Group SE O N (Germany),U
 BTGHF,BIGTINCAN HLDGS LTD Ordinary Shares  Australia(AU ),U
 BTGN,"Bitcoin Generation, Inc. Common Stock",U
 BTGOF,BT Group Plc (United Kingdom) Ordinary Shares,U
@@ -3928,6 +3933,7 @@ CBSI,"Central Bancshares, Inc. New (Texas) Common Stock",U
 CBSU,Central Bank Corporation (MI) Common Stock,U
 CBT,Cabot Corporation,NYSE
 CBTC,XTRA Bitcoin Inc. Common Stock,U
+CBTG,Cabot Growth ETF,BATS
 CBTH,"Citizens B & T Holdings, Inc. Com",U
 CBTRP,CORPORATE BACKED CALL TR CTFS J C PENNEY DEB BACKED SER 2007-1 CTF A-1 (United States)S,U
 CBTX,"CBTX, Inc. Common Stock",NASDAQ
@@ -4707,6 +4713,7 @@ CLF,Cleveland-Cliffs Inc.,NYSE
 CLFD,"Clearfield, Inc. Common Stock",NASDAQ
 CLFMF,iShares 1-5 Year Laddered Government Bond ETF (Canada),U
 CLGCF,CLARITY GOLD CORP Common Shares,U
+CLGDF,Caldas Gold Corp Warrant   07/29/2025,U
 CLGMF,Cleghorn Minerals Ordinary Shares (Canada),U
 CLGN,CollPlant Biotechnologies Ltd American Depositary Shares,NASDAQ
 CLGPF,Clean Seed Cap Group Ltd Common Shares (Canada),U
@@ -5228,8 +5235,3 @@ COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ
-CPAI,Champion Pain Care Corporation Common Stock,U
-CPAMF,Capitaland Mall Trust Unit,U

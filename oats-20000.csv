@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
+SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
+SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRF,"Sunstone Hotel Investors, Inc.  6.450% Series F Cumulative Redeemable Preferred Stock",NYSE
@@ -508,7 +511,6 @@ SNDL,Sundial Growers Inc. Common Shares,NASDAQ
 SNDR,"Schneider National, Inc.",NYSE
 SNDVF,Scandinavian Tob Group AS Ordinary Shares (Denmark),U
 SNDX,"Syndax Pharmaceuticals, Inc. Common Stock",NASDAQ
-SNDYD,"CYduct Diagnostics, Inc. Common Stock",U
 SNDZ,"Sunridge International, Inc. Common Stock",U
 SNE,Sony Corporation ADS,NYSE
 SNEGF,Sound Energy PLC Ordinary Shares (United Kingdom),U
@@ -848,6 +850,7 @@ SPQS,"SportsQuest, Inc. Common Stock",U
 SPR,"Spirit Aerosystems Holdings, Inc.",NYSE
 SPRB,"Spruce Biosciences, Inc. Common Stock",NASDAQ
 SPRBF,Sparebank 1 Ostlandet Ordinary Shares,U
+SPRE,SP Funds S&P Global REIT Sharia ETF,ARCA
 SPRL,"Strat Petroleum, Ltd. New Common Stock",U
 SPRN,SUPERNOVA ENERGY INC Common Stock,U
 SPRO,"Spero Therapeutics, Inc. Common Stock",NASDAQ
@@ -948,7 +951,7 @@ SRCE,1st Source Corporation Common Stock,NASDAQ
 SRCGF,Spruce Ridge Res Ltd CDW-Common (Canada),U
 SRCH,Searchlight Minerals Corp. Common Stock,U
 SRCL,"Stericycle, Inc. Common Stock",NASDAQ
-SRCO,"Sparta Commercial Services, Inc. Common Stock",U
+SRCOD,"Sparta Commercial Services, Inc. Common Stock",U
 SRCPF,SHERWOOD CORP THAILAND PUB CO LTD Common Stock (Thailand),U
 SRCRF,Scorpio Gold Corp Common Shares,U
 SRCSY,Summit Resources Ltd Unsponsored ADR (Australia),U
@@ -1789,9 +1792,6 @@ TCNNF,Trulieve Cannabis Corporation Common Shares (Canada),U
 TCNRF,Tokyo Century Corp Ordinary Shares (Japan),U
 TCNT,TOUCAN INTERACTIVE CORP Common Stock,U
 TCNWF,Trulieve Cannabis Corp Warrant Exp 06/13/2022 (Canada),U
-TCO,Taubman Centers Inc.,NYSE
-TCO PRJ,"TAUBMAN CENTERS, INC. 6.500% Series J Cumulative Redeemable Preferred Stock",NYSE
-TCO PRK,"TAUBMAN CENTERS, INC. 6.25%  SER K",NYSE
 TCOM,Trip.com Group Limited American Depositary Shares,NASDAQ
 TCON,"TRACON Pharmaceuticals, Inc. Common Stock",NASDAQ
 TCOR,"TreeCon Resources, Inc. Common Stock",U
@@ -2320,6 +2320,7 @@ TMRC,Texas Mineral Resources Corp. Common Stock,U
 TMRNF,Tamron Co Ltd Ordinary Shares (Japan),U
 TMRR,Temir Corp Common Stock,U
 TMSH,"TransGlobal Assets, Inc. Common Stock",U
+TMSNF,"Tomson Group, Ltd. Ordinary Shares (Cayman Islands)",U
 TMSNY,Temenos AG American Depositary Receipts - Sponsored,U
 TMSOF,"Thomson Reuters Corporation Cumulative Redeemable Floating Rate Prefernce Shares, Series II (Canada)",U
 TMSPF,TeamSpirit Inc Common Stock (Japan),U
@@ -2597,7 +2598,7 @@ TRMT,Tremont Mortgage Trust Common Shares of Beneficial Interest,NASDAQ
 TRN,"Trinity Industries, Inc.",NYSE
 TRNAF,Terra Nova Resources Inc Common Shares  (Canada),U
 TRND,Pacer Trendpilot Fund of Funds ETF,ARCA
-TRNF,TARONIS FUELS INC Common Stock,U
+TRNFD,TARONIS FUELS INC Common Stock,U
 TRNGF,Trendlines Group LTD Ordinary Shares (Israel),U
 TRNLY,The Trendlines Group Ltd. American Depositary Receipts - Sponsored (Isreal),U
 TRNO,Terreno Realty Corporation,NYSE
@@ -3646,7 +3647,6 @@ VGM,Invesco  Trust Investment Grade Municipals,NYSE
 VGMIF,Visible Gold Mines Inc Common Shares,U
 VGPBF,"VGP SA, BRUXELLES SHS (Belgium)",U
 VGR,Vector Group Ltd.,NYSE
-VGRBF,Vgrab Communications Inc Common Shares,U
 VGREF,VIASPACE Green Energy Inc. Ordinary Shares (Virgin Islands British),U
 VGRSF,VANGUARD FUNDS PLC Exchange Traded Fund  GLOBAL AGGREGATE BD UCITS ETF USD HEDGED ACCUM Ireland(IE ),U
 VGSH,Vanguard Short-Term Treasury ETF,NASDAQ
@@ -3717,6 +3717,7 @@ VIST,"Vista Oil & Gas, S.A.B. de C.V.",NYSE
 VITFF,Victoria Gold Corp Ordinary Shares,U
 VITL,"Vital Farms, Inc. Common Stock",NASDAQ
 VITOF,Vitro Sa Mexico Ordinary Shares,U
+VITX,VITANA-X INC Common Stock,U
 VITYY,Vitro SAB DE CV American Depositary Receipts - Unsponsored (Mexico),U
 VIV,"Telefonica Brasil, S.A. American Depositary Shares (Each representing One Common Share)",NYSE
 VIVC,Vivic Corp. Common Stock,U
@@ -3988,6 +3989,7 @@ VSMD,"Vasamed, Inc. Common Stock",U
 VSMR,Verify Smart Corp. Common Stock,U
 VSMV,Victory Portfolios II VictoryShares US Multi-Factor Minimum Volatility ETF,NASDAQ
 VSNDF,Vastned Retail NV Ordinary Shares (Netherlands),U
+VSOGF,"VISTA OIL & GAS SAB DE CV SHARES OF FINANCIAL GROUPS AND INDUSTRIAL, RETAIL Ordinary Shares",U
 VSPC,Viaspace Inc. Common Stock,U
 VSPR,Vesper Healthcare Acquisition Corp. Class A Common Stock,NASDAQ
 VSPRU,Vesper Healthcare Acquisition Corp. Unit,NASDAQ
@@ -4395,6 +4397,7 @@ WLAN,"Wialan Technologies, Inc. Common Stock",U
 WLBEF,WELBE INC Ordinary Shares,U
 WLBMF,Wallbridge Mining Co Ltd Ordinary Shares,U
 WLCGF,Welcia Holdings Co Ltd Ordinary Shares (Japan),U
+WLCSF,WISDOMTREE FGN EXCHANGE LTD LONG CHF SHORT GBP Foreign Exchange Traded Fund,U
 WLDBF,WILDBRAIN LTD COM VAR VTG (Canada),U
 WLDFF,Wildflower Brands Inc Ordinary Shares,U
 WLDN,"Willdan Group, Inc. Common Stock",NASDAQ

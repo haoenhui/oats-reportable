@@ -1,4 +1,10 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
@@ -543,7 +549,7 @@ HMTGF,Human Metabolome Technologies Inc Common Stock,U
 HMTLF,Hitachi Metals Ltd Ord Ordinary Shares,U
 HMTLY,Hitachi Metals Ltd Unsponsored ADR (Japan),U
 HMTV,"Hemisphere Media Group, Inc. Class A Common Stock",NASDAQ
-HMTXF,Hemostemix Inc Ordinary Shares (Canada),U
+HMTXD,Hemostemix Inc  Ordinary Shares,U
 HMY,Harmony Gold Mining Company Limited,NYSE
 HMZMF,HMZ Metals Inc Common Shares  (Canada),U
 HNCKF,Giga Metals Corp Common Shares,U
@@ -951,7 +957,6 @@ HYKUF,Hyakugo Bank Ltd Ordinary Shares (Japan),U
 HYLB,Xtrackers USD High Yield Corporate Bond ETF,ARCA
 HYLD,High Yield ETF,ARCA
 HYLN,Hyliion Holdings Corp.,NYSE
-HYLN WS,"Hyliion Holdings Corp. Warrants, each whole warrant exercisable for one share of common stock at an",NYSE
 HYLS,First Trust Exchange-Traded Fund IV First Trust Tactical High Yield ETF,NASDAQ
 HYLV,IQ S&P High Yield Low Volatility Bond ETF,ARCA
 HYMB,SPDR Nuveen Bloomberg Barclays High Yield Municipal Bond ETF,ARCA
@@ -1452,6 +1457,7 @@ IJS,iShares S&P Small-Cap 600 Value ETF,ARCA
 IJSHF,IShares PLC Ordinary Shares EUR (Ireland),U
 IJT,iShares S&P SmallCap 600 Growth ETF,NASDAQ
 IJUL,Innovator MSCI EAFE Power Buffer ETF - July,ARCA
+IKGPF,IKEGPS GROUP LTD Ordinary Shares,U
 IKHIF,Ichikoh Industries Ltd Ordinary Shares (Japan),U
 IKMA,"IntelaKare Marketing, Inc. Common Stock",U
 IKNX,Ikonics Corporation,NASDAQ
@@ -1748,10 +1754,10 @@ IOUFF,IOU Financial Inc Ordinary Shares (Canada),U
 IOVA,"Iovance Biotherapeutics, Inc. Common Stock",NASDAQ
 IOWFF,Intervest Offices & Warehouses Ordinary Shares,U
 IP,International Paper Co.,NYSE
+IPA,ImmunoPrecise Antibodies Ltd. Common Stock,NASDAQ
 IPAC,iShares Core MSCI Pacific ETF,ARCA
 IPAH,Interpharm Holdings Inc. Common Stock,U
 IPAR,"Inter Parfums, Inc. Common Stock",NASDAQ
-IPATF,Immunoprecise Antibodies Ltd. Ordinary Shares,U
 IPAY,ETFMG Prime Mobile Payments ETF,ARCA
 IPB,Merrill Lynch 6.0518% Index Plus Trust Certificates Series 2003-1,AMEX
 IPCFF,International Petroleum Corp CDA Ordinary Shares (Canada),U
@@ -2769,6 +2775,7 @@ KCLI,Kansas City Life Insurance Co Common Stock,U
 KCMH,KCM Holdings Corporation Common Stock,U
 KCNY,KraneShares E Fund China Commercial Paper ETF,ARCA
 KCPC,Key Capital Corp. New Common Stock,U
+KDCCF,KADESTONE CAP CORP Common Shares,U
 KDCE,Kid Castle Educational Corporation Common Stock,U
 KDCXF,Kudelski SA Cheseaux Sur Lausanne Common Stock,U
 KDDIF,KDDI CORP Ordinary Shares,U
@@ -3001,6 +3008,7 @@ KNFHF,Kingfish Ltd. Ordinary Shares (New Zealand),U
 KNFSF,KIATNAKIN PHATRA BK PUB CO LTD SHS FOREIGN REGISTERED (Thailand),U
 KNG,Cboe Vest S&P 500 Dividend Aristocrats Target Income ETF,BATS
 KNGPF,KNM Group Bhd Ordinary Shares (Malaysia),U
+KNGS,UPHOLDINGS Compound Kings ETF,BATS
 KNIT,Kinetic Group Inc Common Stock,U
 KNKT,Kunekt Corporation Common Stock,U
 KNKZF,Kws Kleinwanzlebener Saatzucht Ag Ordinary Shares (Germany),U
@@ -3345,9 +3353,6 @@ LBUY,"Leafbuyer Technologies, Inc. Common Shares",U
 LBWR,Labwire Inc. Common Stock,U
 LBYE,Liberty Energy Corp. Common Stock,U
 LC,LendingClub Corporation,NYSE
-LCA,"Landcadia Holdings II, Inc. Class A Common Stock",NASDAQ
-LCAHU,"Landcadia Holdings II, Inc. Unit",NASDAQ
-LCAHW,"Landcadia Holdings II, Inc. Warrant",NASDAQ
 LCAP,Lionheart Acquisition Corp. II Class A Common Stock,NASDAQ
 LCAPU,Lionheart Acquisition Corp. II Unit,NASDAQ
 LCAPW,Lionheart Acquisition Corp. II Warrant,NASDAQ
@@ -3380,6 +3385,7 @@ LCUT,"Lifetime Brands, Inc. Common Stock",NASDAQ
 LCY,"Landcadia Holdings III, Inc. Class A Common Stock",NASDAQ
 LCYAU,"Landcadia Holdings III, Inc. Unit",NASDAQ
 LCYAW,"Landcadia Holdings III, Inc. Warrant",NASDAQ
+LCYFF,Legal & Gen Ucits ETF Plc L&G CYBER SECURITY UCITS ETF USD ACCUMULATING ETF Exchange Traded Fund,U
 LD,"iPath Bloomberg Lead Subindex Total Return ETN due June 24, 2038",ARCA
 LDBTY,Lebanese Co For Dev & Recon of Beirut Cent Dist SAL American Depositary Receipts - Unsponsored (Lebanon),U
 LDDAF,Lida Resources Inc. Common Stock (Canada),U
@@ -3726,9 +3732,6 @@ LOAC,Longevity Acquisition Corporation Ordinary Shares,NASDAQ
 LOACR,Longevity Acquisition Corporation Right,NASDAQ
 LOACU,Longevity Acquisition Corporation Units,NASDAQ
 LOACW,Longevity Acquisition Corporation Warrant,NASDAQ
-LOAK,Live Oak Acquisition Corp.,NYSE
-LOAK U,"Live Oak Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half",NYSE
-LOAK WS,"Live Oak Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Clas",NYSE
 LOAN,"Manhattan Bridge Capital, Inc",NASDAQ
 LOB,"Live Oak Bancshares, Inc. Common Stock",NASDAQ
 LOCMQ,Local Corp Common Stock,U
@@ -4935,7 +4938,7 @@ MORN,"Morningstar, Inc. Common Stock",NASDAQ
 MORT,VanEck Vectors Mortgage REIT Income ETF,ARCA
 MOS,The Mosaic Company,NYSE
 MOSAF,"Mid REIT Inc, Osaka (Japan)",U
-MOSIF,Moshi Moshi Hotline Inc Ordinary Shares (Japan),U
+MOSIF,RELIA INC Ordinary Shares,U
 MOST,"MobileSmith, Inc. Common Stock",U
 MOSY,"MoSys, Inc. Common Stock",NASDAQ
 MOTHF,MORI TR HOTEL REIT INC SHS (Japan),U
@@ -5232,4 +5235,3 @@ MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
 MTOR,"MERITOR, Inc.",NYSE
 MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
-MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U

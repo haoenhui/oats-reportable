@@ -1,4 +1,9 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAH,CounterPath Corporation Common Stock,NASDAQ
+CPAI,Champion Pain Care Corporation Common Stock,U
+CPAMF,Capitaland Mall Trust Unit,U
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
@@ -391,7 +396,7 @@ CTAC WS,"Cerberus Telecom Acquisition Corp. Warrants included as part of the Uni
 CTAGF,Capita Group Plc Ordinary Shares,U
 CTAGY,Capita Plc Unsponsored ADR (UK),U
 CTAIF,CP Lotus Corporation Ordinary Shares (Cayman Islands),U
-CTAM,Castle AM & Co Common Stock,U
+CTAMD,CASTLE A M & CO Common Stock,U
 CTAQU,Carney Technology Acquisition Corp. II Units,NASDAQ
 CTARF,CENTAURUS ENERGY INC Common Shares,U
 CTAS,Cintas Corporation Common Stock,NASDAQ
@@ -700,6 +705,7 @@ CYCN,"Cyclerion Therapeutics, Inc. Common Stock",NASDAQ
 CYD,China Yuchai International Ltd.,NYSE
 CYDGF,Chiyoda Integre Co Ltd SHS (Japan),U
 CYDVF,Cypress Development Corporation Ordinary Shares,U
+CYDX,"CYduct Diagnostics, Inc. Common Stock",U
 CYDY,"CytoDyn, Inc. Common Stock",U
 CYFL,Century Financial Corporation (MI) Common Stock,U
 CYFWF,"Cyfrowy Polsat S.A., Warszawa Ordinary shares (Poland)",U
@@ -1263,9 +1269,6 @@ DMYD,"dMY Technology Group, Inc. II",NYSE
 DMYD U,"dMY Technology Group, Inc. II Units, each consisting of one share of Class A common stock and one-th",NYSE
 DMYD WS,"dMY Technology Group, Inc. II Redeemable Warrants, each whole warrant exercisable for one share of C",NYSE
 DMYI U,"dMY Technology Group, Inc. III Units, each consisting of one share of Class A common stock and one-f",NYSE
-DMYT,"dMY Technology Group, Inc.",NYSE
-DMYT U,"dMY Technology Group, Inc. Units, each consisting of one share of Class A Common Stock and one-half",NYSE
-DMYT WS,"dMY Technology Group, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Clas",NYSE
 DMZPY,DOMINOS PIZZA ENTERPRISES LTD  American Depositary Receipts - Unsponsored (Australia),U
 DNACF,Dena Co Ltd Tokyo Ordinary Shares (Japan),U
 DNAG,"DNAPrint Genomics, Inc. Common Stock",U
@@ -1295,6 +1298,8 @@ DNKLY,Danakali Ltd. American Depositary Receipts - Sponsored,U
 DNL,WisdomTree Global ex-US Quality Dividend Growth Fund,ARCA
 DNLI,Denali Therapeutics Inc. Common Stock,NASDAQ
 DNLMY,Dunelm Group PLC American Depositary Receipt (Unsponsored)(United Kingdom),U
+DNMR,"Danimer Scientific, Inc.",NYSE
+DNMR WS,"Danimer Scientific, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class",NYSE
 DNN,Denison Mines Corp,AMEX
 DNNGY,Orsted A/S American Depositary Receipts - Unsponsored,U
 DNOPF,Dino Polska SA Ordinary Shares (Poland),U
@@ -1533,10 +1538,10 @@ DTTYF,Destiny Pharma Hldgs PLC Ordinary Shares (United Kingdom),U
 DTW,DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077,NYSE
 DTXMF,Deltex Medical Group Plc Ordinary Shares,U
 DTY,DTE Energy Company 2016 Series F 6.00% Junior Subordinated Debentures due 2076,NYSE
-DUAL,North Shore Dual Share Class ETF,ARCA
 DUAVF,Dassault Aviation Ord Ordinary Shares,U
 DUBRF,DUBBER CORP LTD SHS (Australia),U
 DUC,Duff & Phelps Utility & Corporate Bond Trust,NYSE
+DUDE,Merlyn.AI SectorSurfer Momentum ETF,BATS
 DUERF,Duerr A G Ordinary Shares,U
 DUFRY,Dufry AG Unsponsored ADR (Switzerland),U
 DUG,ProShares UltraShort Oil & Gas,ARCA
@@ -1558,6 +1563,7 @@ DUSCF,Deutsche Euroshop Ag Eschborn Namen-Akt Shares (Germany Federal Republic),
 DUSL,Direxion Daily Industrials Bull 3X Shares,ARCA
 DUST,Direxion Daily Gold Miners Index Bear 2X Shares,ARCA
 DUSXF,Dustin Group AB Ordinary Shares (Sweden),U
+DUSYF,DUESENBERG TECHNOLOGIES INC Common Shares,U
 DUTV,Digital Utilities Ventures Inc Common Stock,U
 DUUO,Duo World Inc Common Stock,U
 DUVNF,Peruvian Metals Corp. Common Shares,U
@@ -2957,6 +2963,7 @@ FBRX,"Forte Biosciences, Inc. Common Stock",NASDAQ
 FBSBF,4basebio AG Ordinary Shares (Germany),U
 FBSE,Fastbase Inc. Common Stock,U
 FBSFF,Fabasoft Ag Puchenau Ordinary Shares (Austria),U
+FBSGF,FABLED SILVER GOLD CORP Common Shares,U
 FBSI,"First Bancshares, Inc. Common Stock",U
 FBSS,"Fauquier Bankshares, Inc. Common Stock",NASDAQ
 FBT,First Trust NYSE Arca Biotechnology Index Fund,ARCA
@@ -4439,7 +4446,6 @@ GHG,"GreenTree Hospitality Group Ltd. American depositary shares, each represent
 GHGH,GuanHua Corporation Common Stock,U
 GHGUF,Go-Ahead Group Plc Ordinary Shares (United Kingdom),U
 GHGUY,Go-Ahead Group Plc Unsponsored ADR (United Kingdom),U
-GHHC,GH Cap Inc Common Stock,U
 GHIFF,"Gamehost, Inc. Ordinary Shares (Canada)",U
 GHIL,"Green and Hill Industries, Inc. Common Stock",U
 GHIV,"Gores Holdings IV, Inc. Class A Common Stock",NASDAQ
@@ -4739,6 +4745,8 @@ GNMP,General Chemical Group Inc.  (The) Common Stock,U
 GNMSF,Genmab A/S Ordinary Shares,U
 GNNDY,GN Store Nord A/S ADR (Denmark),U
 GNNSF,Genscript Biotech Corp Ordinary Shares (Cayman Islands),U
+GNOG,"Golden Nugget Online Gaming, Inc. Class A Common Stock",NASDAQ
+GNOGW,"Golden Nugget Online Gaming, Inc. Warrant",NASDAQ
 GNOLF,Genoil Inc. Ordinary Shares (Canada),U
 GNOM,Global X Funds Global X Genomics & Biotechnology ETF,NASDAQ
 GNOW,"American CareSource Holdings, Inc. Common Stock",U
@@ -5227,9 +5235,3 @@ GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U

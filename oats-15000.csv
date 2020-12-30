@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
 MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U
 MTPP,"Mountain Top Properties, Inc. Common Stock",U
 MTPR,Meta Power International Inc Common Stock New,U
@@ -896,7 +897,6 @@ NRPR,"Nutri Pharmaceuticals Research, Inc. New Common Stock",U
 NRRSF,Norsemont Mining Inc Ordinary Shares,U
 NRRWF,Nuran Wireless Inc Ordinary Shares,U
 NRSCF,NOMURA HLDGS INC Ordinary Shares,U
-NRSRF,Northland Resources S.A.  Reg Shs (Luxembourg),U
 NRT,North European Oil Royalty Trust,NYSE
 NRTHF,Northern Power Systems Corp Ordinary Shares (Canada),U
 NRTSF,Nobilis Health Corporation Common Shares (Canada),U
@@ -1518,7 +1518,6 @@ OMID,OMID HLDGS INC Common Stock,U
 OMLAF,Ooh Media Ltd. Ordinary Shares (Australia),U
 OMMH,"Omnimmune Holdings, Inc. Common Stock",U
 OMMSF,Omineca Mining Ordinary Shares (Canada),U
-OMNRF,"Greenheart Group, Ltd. Ordinary Shares (Bermuda)",U
 OMP,Oasis Midstream Partners LP Common Units Representing Limited Partner Interests,NASDAQ
 OMPS,Omphalos Corp. Common Stock,U
 OMQS,OMNIQ Corp. Common Stock,U
@@ -1714,6 +1713,7 @@ ORYX,Oryx Technolgy Corp. Common Stock,U
 ORYYF,Oryx International Growth Fund Accum Prf Shs (Guernsey),U
 ORYZF,Oryzon Genomics SA Ordinary Shares (Spain),U
 ORZCF,Orezone Gold Corp Common Shares (Canada),U
+ORZWF,Orezone Gold Corp Warrant   01/29/2023,U
 OSAGF,Osram Licht AG Namens - Aktien ON (Germany),U
 OSAGY,Osram Licht AG Unsponsored ADR (Germany),U
 OSAT,Orbsat Corp Common Stock,U
@@ -1933,6 +1933,7 @@ PASTF,Plastic Omnium Ordinary Shares (France),U
 PASTY,PLASTIC OMNIUM Unsponsored American Depositary Receipts (France),U
 PATI,"Patriot Transportation Holding, Inc. Common Stock",NASDAQ
 PATK,"Patrick Industries, Inc. Common Stock",NASDAQ
+PATLF,"Patrys Limited, Melbourne Ordinary Shares",U
 PAUFF,Shine Minerals Corp Common Shares,U
 PAUG,Innovator S&P 500 Power Buffer ETF - August,BATS
 PAVE,Global X U.S. Infrastructure Development ETF,BATS
@@ -2092,6 +2093,7 @@ PCRFY,Panasonic Corporation Common Stock,U
 PCRX,"Pacira BioSciences, Inc. Common Stock",NASDAQ
 PCSA,"Processa Pharmaceuticals, Inc. Common Stock",NASDAQ
 PCSB,PCSB Financial Corporation Common Stock,NASDAQ
+PCSGF,PACIFIC SMILES GROUP LTD Ordinary Shares,U
 PCSO,Protective Capital Structures Corp. Common Stock,U
 PCSPF,Pacific Shipping Trust Units Shipping Business Trust (Singapore),U
 PCST,PURE CAP SOLUTIONS INC Common Stock,U
@@ -2209,7 +2211,7 @@ PETFF,PTT PUBLIC COMPANY LIMITED Ordinary Shares,U
 PETQ,"PetIQ, Inc. Class A Common Stock",NASDAQ
 PETRY,Petrobras Distribuidora American Depositary Receipts - Unsponsored (Brazil),U
 PETS,"PetMed Express, Inc. Common Stock",NASDAQ
-PETV,PetVivo Holdings Inc. Common Stock,U
+PETVD,PetVivo Holdings Inc. Common Stock,U
 PETZ,"TDH Holdings, Inc. Common Shares",NASDAQ
 PEUGF,Peugeot Sa Ord Ff35 Par Ordinary Shares,U
 PEX,ProShares Global Listed Private Equity ETF,BATS
@@ -2959,6 +2961,7 @@ PRWYF,Prodways Group Common Stock (France),U
 PRXG,"Pernix Group, Inc.  Common Stock",U
 PRXIQ,"Premier Exhibitions, Inc.",U
 PRXM,Proxim Wireless Corporation Common Stock,U
+PRXTF,Pure Extracts Technologies Corp Common Shares,U
 PRXXF,Paradox Interactive AB Ordinary Shares (Sweden),U
 PRYBF,PT Ramayana Lestari Sentosa TBK Ordinary Shares  Indonesia(ID ),U
 PRYMF,"Prysmian S.P.A., Milano Ordinary Shares (Italy)",U
@@ -3016,6 +3019,7 @@ PSEP,Innovator S&P 500 Power Buffer ETF - September,BATS
 PSET,Principal Exchange-Traded Funds Principal Quality ETF,NASDAQ
 PSF,COHEN & STEERS SELECT PREFERRED AND INCOME FUND,NYSE
 PSFD,Pacer Swan SOS Flex (December) ETF,BATS
+PSFF,Pacer Swan SOS Fund of Funds ETF,BATS
 PSFT,Powersafe Technology Corp. New Common Stock,U
 PSGFF,Precious Shipping Plc Foreign Ordinary Shares,U
 PSGR,"Pershing Resources Company, Inc. Common Stock",U
@@ -3443,6 +3447,7 @@ QH,Quhuo Limited American Depository Shares,NASDAQ
 QHYG,QHY Group Common Stock,U
 QID,ProShares UltraShort QQQ,ARCA
 QIFTF,Quorum Information Technologies Inc Common Shares (Canada),U
+QIHCF,QINGDAO HAIER CO LTD D SHARES OF QINGDAO HAIER REGISTERED OTHER SHARES Ordinary Shares,U
 QING,"Qingdao Footwear, Inc. Common Stock",U
 QINT,American Century Quality Diversified International ETF,ARCA
 QIWI,QIWI plc American Depositary Shares,NASDAQ
@@ -4091,9 +4096,6 @@ RMDFF,Richmond Minerals Inc Ordinary Shares (Canada),U
 RMED,"Ra Medical Systems, Inc",AMEX
 RMES,Red Metal Resources Ltd. Common Stock NEW,U
 RMETF,Rackla Metals Inc Common Shares,U
-RMG,RMG Acquisition Corp. Class A Common Stock,NYSE
-RMG U,RMG Acquisition Corp.,NYSE
-RMG WS,"RMG Acquisition Corp. Warrants, each whole warrant exercisable for one share of  Class A Common Stoc",NYSE
 RMGBU,RMG Acquisition Corp. II Unit,NASDAQ
 RMGGF,Resolute Mining Ltd Ordinary Shares,U
 RMGGY,Resolute Mining Ltd Unsponsored ADR (Austrailia),U
@@ -4114,6 +4116,8 @@ RMMRF,RMR Science Technologies Inc Ordinary Shares (Canada),U
 RMNI,"Rimini Street, Inc. (DE) Common Stock",NASDAQ
 RMNIW,"Rimini Street, Inc. Wt Warrant   05/26/2022",U
 RMNXF,Rainy Mountain Royalty Corporation Ordinary Shares,U
+RMO,"Romeo Power, Inc.",NYSE
+RMO WS,"Romeo Power, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exerc",NYSE
 RMPL PR,RiverNorth Specialty Finance Corporation 5.875%% Series A Term Preferred Stock $0.0001 par value per,NYSE
 RMR,The RMR Group Inc. Class A Common Stock,NASDAQ
 RMRDF,Ressources Mineres Radisson New Ordinary Shares,U
@@ -4311,6 +4315,8 @@ RSHN,RushNet Inc,U
 RSHPF,Irish Residential Properties REIT PLC Ordinary Shares Euro.10,U
 RSHTF,RESONANCE HEALTH LTD SHS (Australia),U
 RSHYY,RusHydro PJSC American Depositary Receipts - Sponsored,U
+RSI,"Rush Street Interactive, Inc.",NYSE
+RSI WS,"Rush Street Interactive, Inc. Redeemable Warrants, each whole warrant exercisable for one share of C",NYSE
 RSKIA,"Risk (George) Industries, Inc. Class A",U
 RSLBF,Raysearch Laboratories AB Ordinary Shares Class B (Sweden),U
 RSLS,ReShape Lifesciences Inc. Common Stock,U
@@ -5229,6 +5235,3 @@ SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
-SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
