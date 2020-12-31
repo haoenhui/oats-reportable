@@ -337,7 +337,6 @@ ADI,"Analog Devices, Inc. Common Stock",NASDAQ
 ADIA,"Adia Nutrition, Inc. Common Stock",U
 ADIL,"Adial Pharmaceuticals, Inc Common Stock",NASDAQ
 ADILW,"Adial Pharmaceuticals, Inc Warrant",NASDAQ
-ADIMF,ASAHI DIAMOND INDUSTRIAL CO LTD Ordinary Shares Japan (JP),U
 ADIWW,Adial Pharmaceuticals Inc Wt Pur Com Exp 02/28/2024,U
 ADKCF,Adeka Corp Ordinary Shares (Japan),U
 ADKIL,Adkins Energy LLC Unit Membership Int,U
@@ -946,6 +945,7 @@ ALME,Alamo Energy Corporation Common Stock,U
 ALMFF,Altium Ltd Ordinary Shares (Australia),U
 ALMMF,Aluminum Corp China Limited Aluminum Corp China Limited H Shares,U
 ALMTF,Almonty Industries Inc. Ordinary Shares (Canada),U
+ALMY,Alchemy Creative Inc COM,U
 ALNA,"Allena Pharmaceuticals, Inc. Common Stock",NASDAQ
 ALNKF,Arealink Co Ltd Tokyo Ordinary Shares,U
 ALNPF,ANA Holdings Inc. Ordinary Shares,U
@@ -1147,8 +1147,6 @@ AMRA,"American Racing Capital, Inc. Common Stock",U
 AMRB,American River Bankshares Common Stock,NASDAQ
 AMRC,"Ameresco, Inc.",NYSE
 AMRCF,AM Resources Corp. Common Shares Canada (CA),U
-AMRH,"Ameri Holdings, Inc. Common Stock",NASDAQ
-AMRHW,"Ameri Holdings, Inc. Warrant",NASDAQ
 AMRK,"A-Mark Precious Metals, Inc. Common Stock",NASDAQ
 AMRN,Amarin Corporation plc,NASDAQ
 AMRPF,AmorePacific Corporation Ordinary Shares (South Korea),U
@@ -1771,7 +1769,7 @@ ATASY,Atlantia SPA Unsponsored ADR (Italy),U
 ATAX,"America First Multifamily Investors, L.P. Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests",NASDAQ
 ATAZF,Atea ASA Ordinary Shares (Norway),U
 ATBHF,Aston Bay Holdings Ltd. Ordinary Shares (Canada),U
-ATBPD,"Antibe Therapeutics, Inc. Ordinary Shares",U
+ATBPF,"Antibe Therapeutics, Inc. Ordinary Shares",U
 ATBYF,"Abitibi Royalties, Inc Ordinary Shares (Canada)",U
 ATCC,Ameritrust Corporation Common Stock,U
 ATCD,Altair Corp Delaware Common Stock,U
@@ -3271,7 +3269,6 @@ BRGGF,Bragg Gaming Group Inc. Ordinary Shares,U
 BRGO,"Bergio International, Inc. Common Stock",U
 BRID,Bridgford Foods Corporation Common Stock,NASDAQ
 BRIOF,Magna Terra Minerals Inc Ordinary Shares,U
-BRJYF,Berjaya Media BHD Ordinary Shares (Malaysia),U
 BRK A,Berkshire Hathaway Inc.,NYSE
 BRK B,BERKSHIRE HATHAWAY Class B,NYSE
 BRKCF,BARKSDALE RES CORP Ordinary Shares,U
@@ -4041,7 +4038,6 @@ CCOZY,China Coal Energy Co LTD Unsponsored ADR (China),U
 CCPPF,"Capital & Counties Properties PLC, London Ordinary Shares (United Kingdom)",U
 CCPR,"CaseyCorp Enterprises, Inc. Common Stock",U
 CCPTF,CCP TECHNOLOGIES LTD Ordinary Shares  (Austrailia),U
-CCR,CONSOL Coal Resources LP,NYSE
 CCRC,"China Customer Relations Centers, Inc. Ordinary Shares",NASDAQ
 CCRDF,Concordia Finl Group Ltd. Ordinary Shares (Japan),U
 CCRE,"Can-Cal Resources, Ltd. Common Stock",U
@@ -4387,6 +4383,7 @@ CHCT,"Community Healthcare Trust Incorporated Common Stock, $0.01 par value per 
 CHCX,"CTGX Mining, Inc.  Common Stock",U
 CHD,"Church & Dwight Co., Inc.",NYSE
 CHDGF,Cosco Intl Hldgs Ltd Ordinary Shares,U
+CHDHF,CHINA DYNAMICS HLDGS LTD SHS (Bermuda),U
 CHDN,"Churchill Downs, Incorporated Common Stock",NASDAQ
 CHDRF,Christian Dior SA Ordinary Shares (France),U
 CHDRY,Christian Dior SE American Depositary Receipts - Unsponsored,U
@@ -4760,6 +4757,8 @@ CLNC,"Colony Credit Real Estate, Inc.",NYSE
 CLNE,Clean Energy Fuels Corp. Common Stock,NASDAQ
 CLNFF,Calian Group Ltd Ordinary Shares,U
 CLNH,"Clinigence Holdings, Inc. Common Stock",U
+CLNN,Clene Inc. Common Stock,NASDAQ
+CLNNW,Clene Inc. Warrant,NASDAQ
 CLNXF,Cellnex Telecom SA Ordinary Shares (Spain),U
 CLNY,"Colony Capital, Inc. Class A Common Stock",NYSE
 CLNY PRG,"Colony Capital, Inc.  7.50% Series G Cumulative Redeemable Perpetual Preferred Stock",NYSE
@@ -5216,6 +5215,7 @@ COSM,Cosmos Holdings Inc. Common Stock,U
 COSO,CoastalSouth Bancshares Inc Common Stock,U
 COST,Costco Wholesale Corporation Common Stock,NASDAQ
 COTQF,Cotinga Pharmaceuticals Inc. Common Shares,U
+COTR,COMPUTER RESOURCE TECHNOLOGIES INC COM,U
 COTRP,CORTS TR J C PENNEY CORPORATE-BACKED TR SECS CTF (7.625%) (United States),U
 COTY,COTY INC,NYSE
 COUP,Coupa Software Incorporated Common Stock,NASDAQ
@@ -5235,3 +5235,5 @@ COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
+CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U

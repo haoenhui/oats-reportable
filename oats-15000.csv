@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
-MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U
 MTPP,"Mountain Top Properties, Inc. Common Stock",U
 MTPR,Meta Power International Inc Common Stock New,U
 MTPTF,Motorpoint PLC Ordinary Shares (United Kingdom),U
@@ -716,6 +714,7 @@ NNDIF,Noranda Income Fund Ordinary Shares (Canada),U
 NNDM,Nano Dimension Ltd. American Depositary Shares,NASDAQ
 NNDNF,Nidec Corp. Ordinary Shares (Japan),U
 NNFC,"NANOFORCE, INC. Common Stock",U
+NNFSF,NONGFU SPRING CO LTD REGISTERED 09633 (China),U
 NNGPF,NN Group NV Ordinary Shares (Netherlands),U
 NNGRY,NN Group NV American Depositary Receipts - Unsponsored (Netherlands),U
 NNGVF,Tesoro Minerals Corp. Common Shares (Canada),U
@@ -1235,7 +1234,7 @@ NXN,NUVEEN NY SEL TAX-FREE INC,NYSE
 NXNN,Nexeon Medsystems Inc Common Stock,U
 NXOPF,Nexoptic Technology Corp Common Shares,U
 NXP,NUVEEN SELECT TAX-FREE INC,NYSE
-NXPC,Nexplore Corporation. Common Stock,U
+NXPCD,Tele Group Corp. Common Stock,U
 NXPGF,National Express Group plc Ordinary Shares (UK),U
 NXPGY,National Express Group plc Unsponsored ADR (United Kingdom),U
 NXPI,NXP Semiconductors N.V. Common Stock,NASDAQ
@@ -2133,7 +2132,6 @@ PDI,PIMCO Dynamic Income Fund,NYSE
 PDIV,"Premier Development & Investment, Inc. Class A Common Stock",U
 PDIYF,Predictive Discovery Ltd Melbourne Ordinary Shares (Australia),U
 PDLB,PDL Community Bancorp Common Stock,NASDAQ
-PDLI,"PDL BioPharma, Inc. Common Stock",NASDAQ
 PDM,"Piedmont Office Realty Trust, Inc.",NYSE
 PDMDF,Petra Diamonds Ltd Ordinary Shares (Bermuda),U
 PDMI,"Paradigm Medical Industries, Inc. Common Stock",U
@@ -3200,7 +3198,6 @@ PTRO,Petrominerals Corporation Common Stock,U
 PTRRF,Pointerra Ltd Ordinary Shares (Australia),U
 PTRS,Partners Bancorp Common Stock,NASDAQ
 PTRUF,Petrus Res Ltd Ordinary Shares (Canada),U
-PTSCD,Mosaic ImmunoEngineering Inc. Common Stock,U
 PTSH,"PTS, Inc. Common Stock",U
 PTSI,"P.A.M. Transportation Services, Inc. Common Stock",NASDAQ
 PTSRF,Partners Real Estate Investment Trust New Units (Canada),U
@@ -3325,6 +3322,7 @@ PXH,Invesco FTSE RAFI Emerging Markets ETF,ARCA
 PXHI,"PhoneX Holdings, Inc. Common Stock",U
 PXI,Invesco Exchange-Traded Fund Trust Invesco DWA Energy Momentum ETF,NASDAQ
 PXJ,Invesco Dynamic Oil & Gas Services ETF,ARCA
+PXLIF,PANAXIA LABS ISREAL LTD SHARE (Israel),U
 PXLW,"Pixelworks, Inc.  Common Stock",NASDAQ
 PXMBF,PAXMAN AB  Share AK (Sweden),U
 PXMFF,Philex Mining Corp Ordinary Shares (Phillippines),U
@@ -3627,6 +3625,7 @@ RAUMF,Rheon Automatic Machinery Co Ltd Ordinary Shares (Japan),U
 RAVE,"Rave Restaurant Group, Inc. Common Stock",NASDAQ
 RAVI,FlexShares Ready Access Variable Income Fund,ARCA
 RAVN,"Raven Industries, Inc. Common Stock",NASDAQ
+RAYC,Rayliant Quantamental China Equity ETF,ARCA
 RAYT,Rayont Inc. Common Stock,U
 RAZFF,Razer Inc Ordinary Shares,U
 RBA,Ritchie Bros. Auctioneers Incorporated,NYSE
@@ -4148,7 +4147,7 @@ RNG,"RINGCENTRAL, INC.",NYSE
 RNGG,Reno Gold Corp. NewCommon Stock,U
 RNGOF,Rengo Co Ltd Ordinary Shares (Japan),U
 RNGR,"Ranger Energy Services, Inc.",NYSE
-RNGTD,OSISKO DEV CORP Common Shares,U
+RNGTF,OSISKO DEV CORP Common Shares,U
 RNGUF,Regeneus Ltd Ordinary Shares (Australia),U
 RNHEF,China Dili Group  Ordinary Shares,U
 RNLC,First Trust Exchange-Traded Fund VI First Trust Large Cap US Equity Select ETF,NASDAQ
@@ -4852,6 +4851,8 @@ SDCVF,"Sa des Ciments Vicat Vicat, SHS (France)",U
 SDD,ProShares UltraShort SmallCap600,ARCA
 SDDFF,Siderar Sa Cl A Ord Ordinary Shares,U
 SDEC,SMART DECISION INC Common Stock Wyoming,U
+SDEF,Sound Enhanced Fixed Income ETF,ARCA
+SDEI,Sound Equity Income ETF,ARCA
 SDEM,Global X MSCI SuperDividend Emerging Markets ETF,ARCA
 SDG,iShares Trust iShares MSCI Global Impact ETF,NASDAQ
 SDGA,Impact Shares Sustainable Development Goals Global Equity ETF,ARCA
@@ -5212,6 +5213,7 @@ SHIOF,Shinohara System of Construction Co Ltd Fukuoka Ordinary Shares (Japan),U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,Sinotruk Hong Kong Ltd Ordinary shares (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U

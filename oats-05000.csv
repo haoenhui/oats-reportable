@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,Capitaland Mall Trust Unit,U
@@ -25,6 +23,7 @@ CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPGZF,CG Power & Industrial Ltd. Global Depositary Receipts - Sponsored,U
 CPHB,China PharmaHub Corp Common Stock,U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
+CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
 CPHI,"China Pharma Holdings, Inc.",AMEX
 CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
@@ -45,6 +44,7 @@ CPLP,Capital Product Partners L.P. Common Units,NASDAQ
 CPLT,"CommercePlanet, Inc. Common Stock",U
 CPMD,CANNAPHARMARX INC Common Stock,U
 CPMMF,CRYSTAL PEAK MINERALS INC Common Shares,U
+CPMV,Mosaic ImmunoEngineering Inc. Common Stock,U
 CPNBF,Cpt Telefonica Del Peru Ser A Ordinary Shares,U
 CPNFF,Euro Sun Mining Inc. Common Shares,U
 CPOIF,CAPSTONE INFRASTRUCTURE CORP (Canada),U
@@ -682,7 +682,7 @@ CXSE,WisdomTree Trust WisdomTree China ex-State-Owned Enterprises Fund,NASDAQ
 CXUS,"Celexus, Inc. Common Stock",U
 CXW,"CoreCivic, Inc.",NYSE
 CXXIF,C21 Investments Inc Ordinary Shares (Canada),U
-CYAD,Celyad SA American Depositary Shares,NASDAQ
+CYAD,Celyad Oncology SA American Depositary Shares,NASDAQ
 CYAGF,Cyber Agent Inc Ordinary Shares Japan (JP ),U
 CYAN,Cyanotech Corporation Common Stock,NASDAQ
 CYAP,Cyber Apps World Inc. Common Stock,U
@@ -1456,7 +1456,6 @@ DSGT,DSG Global Inc Common Stock,U
 DSGUF,Dogan Sirketler Grubu Holdings AS Ordinary Shares (Turkey),U
 DSGUY,Dogan Sirketler Grubu Holdings AS Unsponsored ADR (Turkey),U
 DSGX,Descartes Systems Group Inc. (The) Common Stock,NASDAQ
-DSHIF,Doshisha Co Ltd Ordinary Shares (Japan),U
 DSI,iShares MSCI KLD 400 Social ETF,ARCA
 DSITF,Dixons Carphone Plc Ordinary Shares (United Kingdom),U
 DSKE,"Daseke, Inc. Common Stock",NASDAQ
@@ -1889,7 +1888,7 @@ EESI,"Encompass Energy Services, Inc.  Common Stock",U
 EESO,"Enzyme Environmental Solutions, Inc. Common Stock (NV)",U
 EET,ProShares Ultra MSCI Emerging Markets,ARCA
 EEV,ProShares Trust UltraShort MSCI Emerging Markets,ARCA
-EEVVF,Eve & Co Inc Ordinary Shares (Canada),U
+EEVVD,Eve & Co Inc Ordinary Shares,U
 EEX,"Emerald Holding, Inc.",NYSE
 EEYMF,Firefinch Ltd Ordinary Shares,U
 EEYUF,Essential Energy Services Ltd. Common Shares (Canada),U
@@ -2300,6 +2299,7 @@ ENTX,Entera Bio Ltd. Ordinary Shares,NASDAQ
 ENTXW,Entera Bio Ltd. Warrant,NASDAQ
 ENV,"ENVESTNET, INC.",NYSE
 ENVA,"Enova International, Inc.",NYSE
+ENVB,"Enveric Biosciences, Inc. Common Stock",NASDAQ
 ENVS,Enova Systems Inc. Common Stock,U
 ENX,Eaton Vance New York Municipal Bond Fund,AMEX
 ENYNF,ENERNORTH INDUSTRIES,U
@@ -3595,7 +3595,7 @@ FNNCF,FINANCIAL FIFTEEN SPLIT CORP Ordinary Shares,U
 FNNGF,Fanlogic Interactive Inc Ordinary Shares (Canada),U
 FNNNF,Finnair OYJ AKT Ordinary Shares,U
 FNNRF,FINNAIR OYJ SUBS (Finland),U
-FNNTF,Fintech Group AG Ordinary Shares (Germany),U
+FNNTF,FLATEXDEGIRO AG Ordinary Shares,U
 FNNZF,Fincanna Capital Corp Common Stock,U
 FNOV,FT Cboe Vest U.S. Equity Buffer ETF - November,BATS
 FNQQF,Fineqia Intl Inc Common Shares,U
@@ -4259,7 +4259,7 @@ GDLC,Grayscale Digital Large Cap Fund LLC Shares USD (Cayman Islands),U
 GDLLF,Geodrill Limited Ordinary Shares (Isle of Man),U
 GDLNF,Greenland Minerals And Energy Ltd Ordinary shares (Australia),U
 GDMA,Gadsden Dynamic Multi-Asset ETF,ARCA
-GDMIF,Goldstar Minerals Inc Ordinary Shares,U
+GDMID,GOLDSTAR MINERALS INC Ordinary Shares,U
 GDMK,GLOBAL DIVERSIFIED MARKETING GROUP INC Common Stock,U
 GDMOF,Dmg Mori Aktiengesellschaft Ordinary Shares (Germany Federal Republic),U
 GDMRF,"Golden Dawn Minerals, Inc. Common Shares",U
@@ -4937,7 +4937,7 @@ GRGSF,Grieg Seafood ASA Ordinary Shares (Norway),U
 GRHI,Gold Rock Holdings Inc New Class A Common Stock,U
 GRHY,"GREEN HYGIENICS, INC. Common Stock",U
 GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,NASDAQ
-GRIF,"Griffin Industrial Realty, Inc. Common Stock",NASDAQ
+GRIF,"Griffin Industrial Realty, Inc. (MD) Common Stock",NASDAQ
 GRIL,"Muscle Maker, Inc Common Stock",NASDAQ
 GRIN,Grindrod Shipping Holdings Ltd. Ordinary Shares,NASDAQ
 GRJVF,Surge Copper Corp Ordinary Shares,U
@@ -5204,7 +5204,6 @@ GUT PRA,Gabelli Utility Trust 5.625% Ser A Cumul Pfd Shs,NYSE
 GUT PRC,Gabelli Utility Trust   5.375% Series C Cumulative Preferred Shares,NYSE
 GUYGF,G2 Goldfields Inc Common Shares,U
 GUZOF,Grupo Herdez Sab de CV Ordinary Shares (Mexico),U
-GV,Goldfield Corporation,AMEX
 GVA,Granite Construction Inc.,NYSE
 GVAL,Cambria Global Value ETF,BATS
 GVBT,Green Vision Biotechnology Corp. Common Stock,U
@@ -5235,3 +5234,6 @@ GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U

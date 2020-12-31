@@ -76,6 +76,7 @@ SIF,"SIFCO Industries, Inc.",AMEX
 SIFY,Sify Technologies Limited American Depositary Shares,NASDAQ
 SIG,Signet Jewelers Limited,NYSE
 SIGA,SIGA Technologies Inc. Common Stock,NASDAQ
+SIGCY,SIG COMBIBLOC GROUP ADR - Unsponsored (Switzerland),U
 SIGI,"Selective Insurance Group, Inc. Common Stock",NASDAQ
 SIGIP,"Selective Insurance Group, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.60% Non-Cumulative Preferred Stock, Series B",NASDAQ
 SIGL,"Signal Advance, Inc. Common Stock",U
@@ -2456,10 +2457,6 @@ TOSCF,Tosoh Corp Ordinary Shares,U
 TOSKF,Toyo Seikan Kaisha Ltd Ordinary Shares Japan (JP),U
 TOSYY,Toshiba Corp Unsponsored ADR (Japan),U
 TOT,TOTAL SE,NYSE
-TOTA,Tottenham Acquisition I Limited Ordinary Shares,NASDAQ
-TOTAR,Tottenham Acquisition I Limited Right expiring 3/6/2021,NASDAQ
-TOTAU,Tottenham Acquisition I Limited Unit,NASDAQ
-TOTAW,Tottenham Acquisition I Limited Warrant,NASDAQ
 TOTDF,Toto Ltd Ord Ordinary Shares,U
 TOTDY,Toto Ltd Ord American Depositary Shares,U
 TOTL,SSgA Active ETF Trust SPDR DoubleLine Total Return Tactical ETF,ARCA
@@ -2715,7 +2712,9 @@ TSHO,"Tradeshow Marketing Company, Ltd. (The)  Common Stock",U
 TSHTY,Toshiba Tec Corporation Unsponsored ADR (Japan),U
 TSHXY,Tosoh Corp American Depositary Share (Japan),U
 TSI,"TCW Strategic Income Fund, Inc.",NYSE
+TSIA,TS Innovation Acquisitions Corp. Class A Common Stock,NASDAQ
 TSIAU,TS Innovation Acquisitions Corp. Unit,NASDAQ
+TSIAW,TS Innovation Acquisitions Corp. Warrant,NASDAQ
 TSIHF,"TSI Holdings Co., Ltd. Shs (Japan)",U
 TSIOF,361 Degrees International Limited Ordinary Shares (Cayman Islands),U
 TSKFF,Talisker Res Ltd Ordinary Shares,U
@@ -2975,6 +2974,7 @@ TYOOF,Tae Young Engineering & Construction Preferred Shares Non-Voting,U
 TYOYF,Taiyo Yuden Co Ltd SHS (Japan),U
 TYOYY,Taiyo Yuden Ltd American Depositary Shares,U
 TYPFF,Typhoon Exploration Inc Class A Shares (Canada),U
+TYPMF,TYRO PMTS LTD ORDINARY FULLY PAID (Australia),U
 TYRRY,Toyo Tire & Rubber Co Ltd American Depositary Receipts - Unsponsored (Japan),U
 TYTMF,Tokyo Tatemono Co Ltd Ordinary Shares,U
 TYTMY,Tokyo Tatemono Co Ltd Unsponsored ADR (Japan),U
@@ -3202,6 +3202,7 @@ UNBK,United National Bank Cairo GA Common Stock,U
 UNBLF,UNIBAIL-RODAMCO SE Ordinary Shares,U
 UNCFF,Unicredito Spa Roma Ordinary Shares,U
 UNCHF,Unicharm Corp Ordinary Shares (Japan),U
+UNCP,UNIT CORP COM NEW,U
 UNCRY,Unicredito SPA American Depositary Receipts - Unsponsored (Italy),U
 UNDR,UnderSea Recovery Corporation. Common Stock,U
 UNDT,Universal Detection Technology Common Stock,U
@@ -4953,7 +4954,6 @@ YINN,Direxion Daily FTSE  China Bull 3X Shares,ARCA
 YIPCF,Yip's Chemical Holdings Ltd Ordinary Shares,U
 YIPI,"Yippy, Inc. Common Stock",U
 YITD,"Yinhang Internet Technologies Development, Inc. Common Stock",U
-YITYF,YIT OYJ Ordinary Shares (Finland),U
 YITYY,YIT OYJ Unsponsored ADR (Finland),U
 YJ,Yunji Inc. American Depository Shares,NASDAQ
 YJGJ,Yijia Group Corp. Common Stock,U
@@ -5002,6 +5002,7 @@ YQ,17 Education & Technology Group Inc. American Depositary Shares,NASDAQ
 YQUFF,Quonia Socimi SA Ordinary Shares (Spain),U
 YRAIF,Yara International ASA Ordinary Shares (Norway),U
 YRBAF,"Yorbeau Resources, Inc. Class A Ordinary Shares (Canada)",U
+YRCCF,Yurtec Corp SHS (Japan),U
 YRCW,"YRC Worldwide, Inc. Common Stock",NASDAQ
 YRD,Yiren Digital Ltd.,NYSE
 YRIV,Yangtze River Port & Logistics Ltd Common Stock,U

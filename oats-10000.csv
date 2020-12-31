@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -225,7 +222,7 @@ HDLS,Hub Deals Corp. Common Stock,U
 HDMV,First Trust Horizon Managed Volatility Developed International ETF,ARCA
 HDRPF,THC Global Group Ltd Ordinary Shares,U
 HDRSF,"Highland Copper Co., Inc Ordinary Shares (Canada)",U
-HDSLD,HEALTHSPACE DATA SYSTEM LTD Ordinary Shares,U
+HDSLF,HEALTHSPACE DATA SYSTEM LTD Ordinary Shares,U
 HDSMF,Henderson Smaller Companies Investment Trust PLC Ordinary Shares (United Kingdom),U
 HDSN,"Hudson Technologies, Inc. Common Stock",NASDAQ
 HDST,Headstrong Group Inc Common Stock,U
@@ -716,6 +713,7 @@ HRPMF,Herantis Pharma OYJ Ordinary Shares (Finland),U
 HRRB,"Horizon Bancorp, Inc. AZ Common Stock",U
 HRRS,Horsehead Hldg LLC Wt Pur Com Exp 09/30/2022,U
 HRSEF,Hirose Electric Co Ltd Ordinary Shares (Japan),U
+HRSHF,HAIER SMART HOME CO LTD BEARER 06690 (China),U
 HRSPY,HERA Spa American Depositary Receipts - Unsponsored,U
 HRSR,Horrison Resources Inc. Common Stock,U
 HRST,Harvest Oil & Gas Corporation Common Stock,U
@@ -914,7 +912,7 @@ HWSY,"Hawk Systems, Inc. Common Stock",U
 HWTFF,Huntsworth plc Ordinary Shares (United Kingdom),U
 HWTHF,Wildsky Res Inc Common Shares,U
 HWVI,"Hawaiian Vintage Chocolate Company, Inc. Common Stock",U
-HX,Hexindai Inc. ADR,NASDAQ
+HX,Xiaobai Maimai Inc. ADR,NASDAQ
 HXBM,"Helix Biomedix, Inc. Common Stock",U
 HXGBF,Hexagon AB Ordinary Shares B (Sweden),U
 HXGBY,Hexagon AB American Depositary Shares (Sweden),U
@@ -952,7 +950,6 @@ HYHG,ProShares High Yield-Interest Rate Hedged ETF,BATS
 HYHY,"Hydrogen  Hybrid Technologies, Inc. Common Stock",U
 HYI,Western Asset High Yield Defined Opportunity Fund Inc.,NYSE
 HYII,"All Grade Mining, Inc. Common Stock",U
-HYKCF,"Hyduke Energy Services, Inc. (Canada) Ordinary Shares",U
 HYKUF,Hyakugo Bank Ltd Ordinary Shares (Japan),U
 HYLB,Xtrackers USD High Yield Corporate Bond ETF,ARCA
 HYLD,High Yield ETF,ARCA
@@ -964,6 +961,7 @@ HYMC,Hycroft Mining Holding Corporation Class A Common Stock,NASDAQ
 HYMCW,Hycroft Mining Holding Corporation  Warrant,NASDAQ
 HYMCZ,Hycroft Mining Holding Corporation Warrant,NASDAQ
 HYMLF,Hyundai Motor Co Ltd Ordinary Shares,U
+HYMOF,Hyundai Motor Co Ltd Pfd Shs Issued 1999 (South Korea),U
 HYMPF,Hyundai Motor Co Ltd PFD Shares Non-Voting,U
 HYMTF,Hyundai Motor Co Ltd Global Depositary Shares,U
 HYMWW,Hycroft Mining Holding Corp Warrant Pur Class A Exp 10/06/2025,U
@@ -1198,7 +1196,7 @@ IDFB,Idaho First Bank (ID) Common Stock,U
 IDGBF,Indigo Books & Music Inc Ordinary Shares,U
 IDGC,IDGlobal Corp. Common Stock,U
 IDGGW,INTERPACE BIOSCIENCES INC Warrant,U
-IDGXF,Integrated Diagnostics Holdings PLC Ordinary Shares (Jersey),U
+IDGXF,INTEGRATED DIAGNOSTICS HLDGS Ordinary Shares,U
 IDHD,Invesco S&P International Developed High Dividend Low Volatility ETF,BATS
 IDHQ,Invesco S&P International Developed Quality ETF,ARCA
 IDIG,Intl Digital Holding Inc Common Stock,U
@@ -2374,6 +2372,7 @@ JEMTF,Barclays Bk PLC iPath GEMS Index ETN due 02/04/2038 (United Kingdom),U
 JEPI,JPMorgan Equity Premium Income ETF,ARCA
 JEQ,ABERDEEN JAPAN EQUITY FUND,NYSE
 JERT,"JER Investors Trust, Inc. New Common Stock",U
+JESCF,JP MORGAN EUROPEAN SMALLER COS TR PLC SHS (United Kingdom),U
 JETGF,JPMorgan Fleming Continental European Investment Trust Plc Shs-Growth-Class (United Kingdom),U
 JETMF,Global Crossing Airlines Group Inc.  Ordinary Shares,U
 JETR,"Star Jets International, Inc. Common Stock",U
@@ -2898,7 +2897,7 @@ KISB,"Kish Bancorp, Inc. (PA) Common Stock",U
 KISLF,King Island Scheelite Ltd Ordinary Shares (Australia),U
 KITAF,Kitanotatsujin Corporation Ordinary Shares (Japan),U
 KITL,"Kisses from Italy, Inc. Common Stock",U
-KITVF,Kitov Pharma Ltd. Ordinary Shares (Israel),U
+KITVF,PURPLE BIOTECH LTD Ordinary Shares,U
 KITZF,Kitz Corp Ordinary Shares,U
 KIWB,Kiwibox.com Inc.  Common Stock,U
 KIYOF,Kiyo Bank Ltd Ordinary Shares (Japan),U
@@ -3687,6 +3686,7 @@ LNC,Lincoln National Corp.,NYSE
 LNCLF,Lincoln Gold Mng Inc Ordinary Shares,U
 LND,BrasilAgro - Companhia Brasileira de Propriedades Agra?colas,NYSE
 LNDC,Landec Corporation Common Stock (DE),NASDAQ
+LNDLF,Landore Resources Limited Ord NPV (Guernsey),U
 LNDNF,Lundin Petroleum AB shs (Sweden),U
 LNDT,"LianDi Clean Technology, Inc. Common Stock",U
 LNDZD,SALONA GLOBAL MED DEVICE CORP Ordinary Shares,U
@@ -4314,7 +4314,6 @@ MDOUF,Maisons Du Monde SA Common Stock (France),U
 MDP,Meredith Corporation,NYSE
 MDPCF,Madison Pac Ppts- B Ordinary Shares,U
 MDPEB,Meredith Corporation Common Stock Class B,U
-MDPHF,Monadelphous Group Ordinary Shares (Australia),U
 MDRA,Medra Corporation Common Stock,U
 MDRM,"Modern Mobility Aids, Inc Common Stock",U
 MDRPF,Midas Gold Corporation Ordinary Shares (Canada),U
@@ -5013,6 +5012,7 @@ MQY,"Blackrock Muni Yield Quality Fund, Inc",NYSE
 MRAAF,Murata Manufacturing Ordinary Shares,U
 MRAAY,Murata Manufacturing Co Ltd Unsponsored ADR (Japan),U
 MRACU,Marquee Raine Acquisition Corp. Unit,NASDAQ
+MRAD,SmartETFs Advertising & Marketing Technology ETF,ARCA
 MRAIF,MRC Allied Inc. Ordinary Shares (Phillippines),U
 MRAM,"Everspin Technologies, Inc. Common Stock",NASDAQ
 MRBK,Meridian Corporation Common Stock,NASDAQ
@@ -5235,3 +5235,5 @@ MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
 MTOR,"MERITOR, Inc.",NYSE
 MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
+MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
+MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U
