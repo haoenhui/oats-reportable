@@ -1224,7 +1224,7 @@ STL PRA,Sterling Bancorp Depositary Shares each representing ownership of a 1/40
 STLB,STERLING BUSINESS SOLUTIONS INC Common Stock,U
 STLC,iShares Factors US Blend Style ETF,BATS
 STLD,"Steel Dynamics, Inc.",NASDAQ
-STLFF,STILLFRONT GROUP AB SHS (Sweden),U
+STLFF,STILLFRONT GROUP AB Ordinary Shares,U
 STLG,iShares Factors US Growth Style ETF,BATS
 STLHF,Standard Lithium Ltd Ordinary Shares (Canada),U
 STLJF,Stella Jones Inc Ordinary Shares,U
@@ -1277,7 +1277,9 @@ STRM,"Streamline Health Solutions, Inc. Common Stock",NASDAQ
 STRNY,Severn Trent Plc Sponsored ADR (UK),U
 STRO,"Sutro Biopharma, Inc. Common Stock",NASDAQ
 STRPF,STARR PEAK EXPL LTD  Ordinary Shares,U
+STRR,"Star Equity Holdings, Inc. Common Stock",NASDAQ
 STRRF,Satori Resources Inc Common Shares,U
+STRRP,"Star Equity Holdings, Inc. Series A Cumulative Perpetual Preferred Stock",NASDAQ
 STRS,Stratus Properties Inc. Common Stock,NASDAQ
 STRT,STRATTEC SECURITY CORPORATION Common Stock,NASDAQ
 STRUF,Saturn Metals Ltd Common Stock (Australia),U
@@ -1496,7 +1498,6 @@ SWMAF,Swedish Match AB Frueher Svenska Taendsticks AB Ordinary Shares,U
 SWMAY,Swedish Match AB Frueher Svenska Taendsticks AB Unsponsored ADR (Sweden),U
 SWMD,Starwin Media Holdings Inc Common Stock,U
 SWN,Southwestern Energy Company,NYSE
-SWNG,"Swan Group of Companies, Inc. Common Stock",U
 SWNLF,SCOZINC MNG LTD Common Shares,U
 SWNM,"Southwestern Medical Solutions, Inc. New Common Stock",U
 SWNNU,Southwest Minn Agrifuels Coop LLC Unit,U
@@ -1960,7 +1961,6 @@ TG,Tredegar Corporation,NYSE
 TGA,TransGlobe Energy Corporation Ordinary Shares (Canada),NASDAQ
 TGAFF,Taiga Building Products Ltd Ordinary Shares (Canada),U
 TGAN,TRANSPHORM INC Common Stock,U
-TGAPF,AltaGas Ltd Pfd Ser I Preferred Stock  (Canada),U
 TGASF,Towngas China Co Ltd Ordinary Shares (Caymen Islands) HKD,U
 TGASY,Towngas China Co Ltd Unsponsored ADR (Cayman Island),U
 TGB,Taseko Mines Limited,AMEX
@@ -2467,7 +2467,7 @@ TOWN,TowneBank Common Stock,NASDAQ
 TOWTF,Tower One Wireless Corp Ordinary Shares,U
 TOYOF,Toyota Motor Corp Ltd Ord Ordinary Shares,U
 TPAC,"Trans-Pacific Aerospace Company, Inc. Common Stock",U
-TPAY,Ecofin Digital Payments Infrastructure Fund,BATS
+TPAY,Ecofin Digital Payments Infrastructure Fund,ARCA
 TPB,"Turning Point Brands, Inc.",NYSE
 TPBTF,BETMAKERS TECHNOLOGY GROUP LTD ORDINARY FULLY PAID (Australia),U
 TPC,Tutor Perini Corporation,NYSE
@@ -2717,6 +2717,7 @@ TSIAU,TS Innovation Acquisitions Corp. Unit,NASDAQ
 TSIAW,TS Innovation Acquisitions Corp. Warrant,NASDAQ
 TSIHF,"TSI Holdings Co., Ltd. Shs (Japan)",U
 TSIOF,361 Degrees International Limited Ordinary Shares (Cayman Islands),U
+TSJA,Innovator Triple Stacker ETF - January,BATS
 TSKFF,Talisker Res Ltd Ordinary Shares,U
 TSLA,"Tesla, Inc. Common Stock",NASDAQ
 TSLLF,Tassal Group Ltd Ordinary Shares (Australia),U
@@ -3773,7 +3774,6 @@ VLOUF,VALLOUREC Ordinary Shares,U
 VLOWY,Vallourec S.A. Ord American Depositary Receipts - Sponsored,U
 VLPNF,Voestalpine AG Ordinary Shares (Austria),U
 VLPNY,Voestalpine AG Unsponsored ADR (Austria),U
-VLRDF,"Village Roadshow ""B"" Shs Ordinary Shares",U
 VLRS,"CONTROLADORA VUELA COMPAniA DE AVIACIoN, S.A.B. DE C.V.",NYSE
 VLRZF,VALOR HLDGS CO LTD Ordinary Shares,U
 VLT,Invesco  High Income Trust II,NYSE

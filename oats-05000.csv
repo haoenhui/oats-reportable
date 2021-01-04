@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,Capitaland Mall Trust Unit,U
@@ -243,6 +244,7 @@ CRTO,Criteo S.A. American Depositary Shares,NASDAQ
 CRTPF,Cardiol Therapeutics Inc Common Shares Class A Canada (CA),U
 CRTSF,Christian Hansen Holding A/S Ordinary Shares (Denmark),U
 CRTX,"Cortexyme, Inc. Common Stock",NASDAQ
+CRU U,"Crucible Acquisition Corporation Units, each consisting of one share of Class A common stock and one",NYSE
 CRUCF,Colibri Resource Corp Common Shares,U
 CRUS,"Cirrus Logic, Inc. Common Stock",NASDAQ
 CRUUF,METALLICA METALS CORP Ordinary Shares,U
@@ -572,7 +574,6 @@ CVHIF,Ventura Cannabis and Wellness Corp.  Common Shares,U
 CVHL,"CV Holdings, Inc. Common Stock",U
 CVHSY,CABLEVISION HLDGS SA Global Depositary Receipts - Sponsored,U
 CVI,"CVR ENERGY, INC.",NYSE
-CVIAQ,COVIA HLDGS CORP Common Stock,U
 CVISF,Context Vision Ab Ordinary Shares,U
 CVLB,"Conversion Labs, Inc. Common Stock",NASDAQ
 CVLG,"Covenant Logistics Group, Inc. Class A Common Stock",NASDAQ
@@ -832,6 +833,7 @@ DBGF,Panex Resources Inc. Common Stock,U
 DBGR,Xtrackers MSCI Germany Hedged Equity ETF,ARCA
 DBI,Designer Brands Inc.,NYSE
 DBIN,"Dacotah Banks, Inc. Common Stock",U
+DBJA,Innovator Double Stacker 9 Buffer ETF - January,BATS
 DBJP,Xtrackers MSCI Japan Hedged Equity ETF,ARCA
 DBL,DOUBLELINE OPPORTUNISTIC CREDIT FUND,NYSE
 DBLV,AdvisorShares DoubleLine Value Equity ETF,ARCA
@@ -1268,7 +1270,9 @@ DMXF,iShares Trust iShares ESG Advanced MSCI EAFE ETF,NASDAQ
 DMYD,"dMY Technology Group, Inc. II",NYSE
 DMYD U,"dMY Technology Group, Inc. II Units, each consisting of one share of Class A common stock and one-th",NYSE
 DMYD WS,"dMY Technology Group, Inc. II Redeemable Warrants, each whole warrant exercisable for one share of C",NYSE
+DMYI,"dMY Technology Group, Inc. III",NYSE
 DMYI U,"dMY Technology Group, Inc. III Units, each consisting of one share of Class A common stock and one-f",NYSE
+DMYI WS,"dMY Technology Group, Inc. III Redeemable warrants, each whole warrant exercisable for one share of",NYSE
 DMZPY,DOMINOS PIZZA ENTERPRISES LTD  American Depositary Receipts - Unsponsored (Australia),U
 DNACF,Dena Co Ltd Tokyo Ordinary Shares (Japan),U
 DNAG,"DNAPrint Genomics, Inc. Common Stock",U
@@ -1380,8 +1384,6 @@ DQ,Daqo New Energy Corp. American Depositary Shares (each representing 5 Ordinar
 DQJCF,Pan Pac Intl Hldgs Corp Ordinary Shares,U
 DQJCY,Pan Pac Intl Hldgs Corp American Depositary Receipts - Unsponsored,U
 DQWS,Dswiss Inc Common Stock,U
-DRAD,Digirad Corporation Common Stock,NASDAQ
-DRADP,Digirad Corporation Series A Cumulative Perpetual Preferred Stock,NASDAQ
 DRCAF,D Rotshtein Construction & Assets Co Ltd Common Stock (Israel),U
 DRCHF,Direcional Engenharia Sa Ordinary Shares (Brazil),U
 DRCMF,DORE COPPER MNG CORP Common Shares Canada(CA ),U
@@ -1458,6 +1460,7 @@ DSGUY,Dogan Sirketler Grubu Holdings AS Unsponsored ADR (Turkey),U
 DSGX,Descartes Systems Group Inc. (The) Common Stock,NASDAQ
 DSI,iShares MSCI KLD 400 Social ETF,ARCA
 DSITF,Dixons Carphone Plc Ordinary Shares (United Kingdom),U
+DSJA,Innovator Double Stacker ETF - January,BATS
 DSKE,"Daseke, Inc. Common Stock",NASDAQ
 DSKEW,"Daseke, Inc. Warrant",NASDAQ
 DSKIF,Daiseki Co Ltd Ordinary Shares (Japan),U
@@ -1718,7 +1721,7 @@ EBIZ,Global X Funds Global X E-commerce ETF,NASDAQ
 EBKDY,Erste Group Bank AG Sponsored ADR (Austria),U
 EBKOF,Erste Group Bank AG Ordinary Shares (Austria),U
 EBLMY,ETABLISSEMENTS MAUREL ET PROM American Depositary Receipts - Unsponsored (France),U
-EBLU,Ecofin Global Water ESG Fund,BATS
+EBLU,Ecofin Global Water ESG Fund,ARCA
 EBML,"eBullion, Inc. Common Stock",U
 EBMT,"Eagle Bancorp Montana, Inc. Common Stock",NASDAQ
 EBND,SPDR Bloomberg Barclays Emerging Markets Local Bond ETF,ARCA
@@ -1990,7 +1993,7 @@ EHMEF,GOEASY LTD Common Shares,U
 EHOS,"Ehouse Global, Inc. Common Stock",U
 EHPTP,Eagle Hospitality Pptys Tr Inc Preferred,U
 EHSI,"Emerging Healthcare Solutions, Inc. Common Stock",U
-EHT,Eaton Vance High Income 2021 Target Term Trust,NYSE
+EHT,Eaton Vance 2021 Target Term Trust,NYSE
 EHTH,"eHealth, Inc. Common Stock",NASDAQ
 EHVVF,Ehave Inc Ordinary Shares,U
 EHYD,"Ehydrogen Solutions, Inc. Common Stock",U
@@ -4020,6 +4023,7 @@ FVPI,FV Pharma International Corp. Common Stock,U
 FVRG,ForeverGreen Worldwide Corp. Common Stock,U
 FVRR,Fiverr International Ltd.,NYSE
 FVSTA,Far Vista Petroleum Corp. Class A Common Stock,U
+FVT U,"Fortress Value Acquisition Corp. III Units, each consisting of one share of Class A common stock and",NYSE
 FVTI,"Fortune Valley Treasures, Inc. Common Stock",U
 FVVSF,Aranjin Resources Ltd.  Ordinary Shares,U
 FWAV,FOURTH WAVE ENERGY INC Common Stock,U
@@ -4107,7 +4111,6 @@ GAMCF,"GAMMA COMMUNICATIONS PLC, SHS (United Kingdom)",U
 GAMN,"Great American Food Chain, Inc. (The) Common Stock",U
 GAMR,Wedbush ETFMG Video Game Tech ETF,ARCA
 GAN,GAN Limited Ordinary Shares,NASDAQ
-GANS,"Gainsco, Inc. New Common Stock",U
 GAPFF,"Aimia, Inc.  Common Shares (Canada)",U
 GAPJ,"Golden Apple Oil & Gas, Inc. Common Stock",U
 GARB,Garb Oil & Power Corporation Common Stock,U
@@ -4177,7 +4180,6 @@ GBLTF,GBLT Corporation Common Shares,U
 GBLX,"GB Sciences, Inc. Common Stock",U
 GBMRF,"GBM RESOURCES LTD, NEDLANDS WA Ordinary Shares",U
 GBMS,"Global Materials & Services, Inc. Common Stock",U
-GBNLF,Globe International Ltd Ordinary Shares (Australia),U
 GBNW,Global Energy Networks Corp. Common Stock,U
 GBNXF,"Gibson Energy, Inc. Common Shares (Canada)",U
 GBOKF,Greenbrook TMS Inc Ordinary Shares (Canada),U
@@ -4937,7 +4939,6 @@ GRGSF,Grieg Seafood ASA Ordinary Shares (Norway),U
 GRHI,Gold Rock Holdings Inc New Class A Common Stock,U
 GRHY,"GREEN HYGIENICS, INC. Common Stock",U
 GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,NASDAQ
-GRIF,"Griffin Industrial Realty, Inc. (MD) Common Stock",NASDAQ
 GRIL,"Muscle Maker, Inc Common Stock",NASDAQ
 GRIN,Grindrod Shipping Holdings Ltd. Ordinary Shares,NASDAQ
 GRJVF,Surge Copper Corp Ordinary Shares,U
@@ -5126,7 +5127,7 @@ GTECW,Greenland Technologies Holding Corporation Warrant Exp 04/27/2025,U
 GTEH,"GenTech Holdings, Inc. Common Stock",U
 GTES,Gates Industrial Corporation plc,NYSE
 GTGDF,GT Gold Corp. Ordinary Shares (Canada),U
-GTGEF,G2 Technologies Corp Common Shares,U
+GTGED,G2 Technologies Corp Common Shares,U
 GTGFF,Great Thunder Gold Corp. Ordinary Shares,U
 GTGP,"Global Technologies Group, Inc. Common Stock",U
 GTGT,"GTG Ventures, Inc. NewCommon Stock",U
@@ -5236,4 +5237,3 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U

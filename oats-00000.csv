@@ -79,7 +79,7 @@ ABBY,"Abby, Inc  Common Stock",U
 ABC,AmerisourceBergen Corp.,NYSE
 ABCAF,Athabasca Minerals Inc Common Shares (Canada),U
 ABCB,Ameris Bancorp Common Stock,NASDAQ
-ABCE,"ABCO Energy, Inc Common Stock",U
+ABCED,"ABCO Energy, Inc Common Stock",U
 ABCFF,Abacus Mining & Exploration Corporation Common Shares,U
 ABCL,AbCellera Biologics Inc. Common Shares,NASDAQ
 ABCM,Abcam plc American Depositary Shares,NASDAQ
@@ -464,7 +464,6 @@ AESE,"Allied Esports Entertainment, Inc. Common Stock",NASDAQ
 AESEW,"Allied Esports Entertainment, Inc. Warrant Exp 08/09/2024",U
 AESO,Atlantic Energy Solutions Inc Common Stock,U
 AESR,Anfield U.S. Equity Sector Rotation ETF,BATS
-AESTY,AES Tiete Energia SA American Depositary Shares - Sponsored (Brazil),U
 AETLF,Aeris Environmental Ltd Ordinary Shares,U
 AETUF,Arc Resources Ltd. Ordinary Shares (Canada),U
 AEVEF,Arena Events Group PLC Ordinary Shares (United Kingdom),U
@@ -1495,7 +1494,6 @@ ARES PRA,Ares Management Corporation 7.00% Series A Preferred Stock,NYSE
 ARESF,Artis Real Estate Invt Tr Trust Unit (Canada),U
 ARET,"Arete Industries, Inc. Common Stock",U
 AREVF,AREV NanoTec Brands Inc Common Shares,U
-AREXQ,APPROACH RES INC Common Stock,U
 ARFXF,PROMIS NEUROSCIENCES INC Common Shares,U
 ARGC,Arion Group Corp. Common Stock,U
 ARGD,"Argo Group US, Inc. 6.500% Senior Notes due 2042",NYSE
@@ -1578,7 +1576,6 @@ ARSEF,Altai Resources Inc Ordinary Shares,U
 ARSLF,Altima Resources Ltd Common Shares,U
 ARSMF,ARES STRATEGIC MNG INC Common Shares,U
 ARSN,AUREUS INC  Common Stock,U
-ARSP,"Andalusian Resorts and Spas, Inc. Common Stock",U
 ARSRF,Aeris Resources Ltd. Ordinary Shares (Australia),U
 ARSSF,Assura Plc REIT (United Kingdom),U
 ARST,Arista Financial Corp.  Common Stock,U
@@ -2161,11 +2158,13 @@ AYTUZ,"Aytu BioScience, Inc. Warrant Exp 11/02/2021",U
 AYX,"Alteryx, Inc.",NYSE
 AYYLF,Ayala Corp Ordinary Shares,U
 AZAA,AllianzIM U.S. Large Cap Buffer10 Apr ETF,ARCA
+AZAJ,AllianzIM U.S. Large Cap Buffer10 Jan ETF,ARCA
 AZAL,AllianzIM U.S. Large Cap Buffer10 Jul ETF,ARCA
 AZAO,AllianzIM U.S. Large Cap Buffer10 Oct ETF,ARCA
 AZASF,Arizona Silver Exploration Inc. Ordinary Shares (Canada),U
 AZBA,AllianzIM U.S. Large Cap Buffer20 Apr ETF,ARCA
 AZBCF,Azabache Energy Inc. Common (Canada),U
+AZBJ,AllianzIM U.S. Large Cap Buffer20 Jan ETF,ARCA
 AZBL,AllianzIM U.S. Large Cap Buffer20 Jul ETF,ARCA
 AZBO,AllianzIM U.S. Large Cap Buffer20 Oct ETF,ARCA
 AZDDQ,AZURE DYNAMICS CORPORATION Ordinary Shares (Canada),U
@@ -4230,7 +4229,9 @@ CEZ,VictoryShares Emerging Market Volatility Wtd ETF,NASDAQ
 CEZYY,Cez AS American Depositary Receipts - Unsponsored (Czech Republic),U
 CF,"CF Industries Holding, Inc.",NYSE
 CFA,VictoryShares US 500 Volatility Wtd ETF,NASDAQ
+CFAC,CF Finance Acquisition Corp. III Common Stock,NASDAQ
 CFACU,CF Finance Acquisition Corp. III Unit,NASDAQ
+CFACW,CF Finance Acquisition Corp. III Warrant,NASDAQ
 CFACY,Coface S.A. ADR (France),U
 CFB,"CrossFirst Bankshares, Inc. Common Stock",NASDAQ
 CFBI,"Community First Bancshares, Inc. Common Stock",NASDAQ
@@ -4540,7 +4541,7 @@ CHWTF,Coolpad Group Ltd Ordinary Shares (Cayman Islands),U
 CHWWF,Chesswood Group Ltd Ordinary Shares (Canada),U
 CHWXF,China Water Industry Group Ltd Ordinary Shares NEW (Cayman Islands),U
 CHWY,"Chewy, Inc.",NYSE
-CHX,ChampionX Corporation,NYSE
+CHX,ChampionX Corporation Common Stock,NASDAQ
 CHXMF,Troilus Gold Corp  Ordinary Shares,U
 CHY,Calamos Convertible and High Income Fund Common Stock,NASDAQ
 CHYCF,Chiyoda Corp Common Ordinary Shares,U
@@ -5236,4 +5237,3 @@ COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U

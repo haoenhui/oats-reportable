@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -320,7 +321,6 @@ HGGOF,HIGHGOLD MINING INC Common Shares (Canada),U
 HGH,"THE HARTFORD FINANCIAL SERVICES GROUP, INC.  7.875% FIXED-TO-FLOATING RATE JR SUB DEBENTURE DUE 2042",NYSE
 HGHAF,High Arctic Energy Svcs Inc Common (Canada),U
 HGHH,High Desert Hldg Corp Common Stock,U
-HGHUF,Honghua Group Limited Ordinary shares (Cayman Islands),U
 HGII,"Lansdowne Security, Inc.  Common Stock",U
 HGKGF,Power Assets Holdings Ltd. Ordinary Shares (Hong Kong),U
 HGKGY,Power Assets Holdings Ltd American Depositary Shares,U
@@ -1620,6 +1620,7 @@ INDOY,Indorama Ventures Public Company Limited Unsponsored ADR (Thailand),U
 INDPF,Innovaderma Plc Common Stock (United Kingdom),U
 INDR,Indie Ranch Media Inc Common Stock,U
 INDS,Pacer Benchmark Industrial Real Estate SCTR ETF,ARCA
+INDT,"INDUS Realty Trust, Inc. (MD) Common Stock",NASDAQ
 INDXF,Indus Holdings Inc Sub Voting Shares (Canada),U
 INDY,iShares India 50 ETF,NASDAQ
 INFFF,Intact Financial Corp Preference Shares Class A Series 5 (Canada),U
@@ -2296,6 +2297,7 @@ JAMGF,Jasper Mining Corp Ordinary Shares (Canada),U
 JAMN,Jammin Java Corp. Common Stock,U
 JAN,JanOne Inc. Common Stock (NV),NASDAQ
 JANL,JANEL CORP Common Stock,U
+JANZ,TrueShares Structured Outcome (January) ETF,BATS
 JAPAF,Japan Tobacco Ordinary Shares,U
 JAPAY,Japan Tobacco Unsponsored American Depository Receipt ( Japan),U
 JAPSY,Japan Airlines Ltd Unsponsored ADR (Japan),U
@@ -4171,7 +4173,6 @@ MCBK,"Madison County Financial, Inc. Common Stock",U
 MCBP,Michigan Community Bancorp Limited Common Stock,U
 MCBRF,Mcbride Plc Ordinary Shares,U
 MCBS,"MetroCity Bankshares, Inc. Common Stock",NASDAQ
-MCC,MEDLEY CAPITAL CORPORATION,NYSE
 MCCHF,Mcchip Resources Inc Ordinary Shares,U
 MCCI,Marketing Concepts International Common Stock,U
 MCCK,Mestek Inc Common Stock NEW,U
@@ -4247,7 +4248,6 @@ MCTZF,Mcot Public Co Ltd Units Non-Voting Depository Receipts (Thailand),U
 MCUIF,RISE Life Science Corp. Common Shares,U
 MCUJF,Medicure Inc. Ordinary Shares (Canada),U
 MCURF,Mind Cure Health Inc Common Stock (Canada),U
-MCV,MEDLEY CAPITAL CORPORATION 6.125%  SENIOR NOTES DUE 2023,NYSE
 MCVEF,Medicover AB Shares AK B (Sweden),U
 MCVEY,Medicover AB Unsponsored ADR,U
 MCVT,"Mill City Ventures III, Ltd. Common Stock",U
@@ -4754,7 +4754,6 @@ MMAYF,MSM Malaysia Holdings BHD Ordinary Shares (Malaysia),U
 MMBF,"Momentum Biofuels, Inc. Common Stock",U
 MMBMF,MASMOVIL IBERCOM S A Acciones Por Desdoblamiento (Spain),U
 MMC,"Marsh & McLennan Companies, Inc.",NYSE
-MMCGF,MANAGEMENT CONSULTING GROUP PLC Ordinary Shares,U
 MMCOF,"Members Co Ltd, Tokyo Ordinary Shares (Japan)",U
 MMD,MainStay MacKay DefinedTerm Municipal Opportunities Fund,NYSE
 MMDDF,Mirriad Advertising Ltd Ordinary Shares (United Kingdom),U
@@ -4987,7 +4986,6 @@ MPLXP,MPLX LP PFD CL A Preferred Stock,U
 MPML,"MPM Technologies, Inc. Common Stock",U
 MPNGF,Meituan Dianping Ordinary Shares Class B (Cayman Islands),U
 MPNGY,MEITUAN American Depositary Receipts - Unsponsored,U
-MPPTF,MPACT Ordinary Shares (South Africa),U
 MPRG,"Motion Picture Group, Inc. (The) Common Stock",U
 MPSFF,REVOLUGROUP CDA INC Ordinary Shares,U
 MPSYF,MorphoSys AG Ordinary Shares (Germany),U
@@ -5088,6 +5086,7 @@ MRTX,"Mirati Therapeutics, Inc. Common Stock",NASDAQ
 MRUHF,Maruha Nichiro Corporation Ordinary Shares (Japan),U
 MRUS,Merus N.V. Common Shares,NASDAQ
 MRVCF,METROVACESA SA METROVACESA S A ACCIONES CONTRASPLIT Ordinary Shares,U
+MRVFF,Nuvo Pharmaceuticals Inc Ordinary Shares,U
 MRVGF,Mirvac Group Ordinary Shares,U
 MRVI,"Maravai LifeSciences Holdings, Inc. Class A Common Stock",NASDAQ
 MRVL,Marvell Technology Group Ltd. Common Stock,NASDAQ
@@ -5203,6 +5202,7 @@ MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
+MTFC,Minster Financial Corporation,U
 MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U

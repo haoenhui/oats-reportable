@@ -672,7 +672,6 @@ NMI,Nuveen Municipal Income,NYSE
 NMIH,NMI Holdings Inc. Class A Common Stock,NASDAQ
 NMK PRB,"Niagara Mohawk Power Corporation Preferred Stock, 3.60% Series",NYSE
 NMK PRC,"Niagara Mohawk Power Corporation Preferred Stock, 3.90% Series",NYSE
-NMKEF,"Nemaska Lithium, Inc. Ordinary Shares (Canada)",U
 NML,Neuberger Berman MLP and Energy Income Fund Inc.,AMEX
 NMM,Navios Maritime Partners L.P.,NYSE
 NMMC,North Mountain Merger Corp. Class A Common Stock,NASDAQ
@@ -787,7 +786,7 @@ NOSUF,Nerds On Site Inc Common Shares (Canada),U
 NOTR,NOWTRANSIT INC Common Stock,U
 NOURF,Northern Uranium Ltd Ordinary Shares (Australia),U
 NOUV,"Nouveau Life Pharmaceuticals, Inc",U
-NOV,"National Oilwell Varco, Inc.",NYSE
+NOV,NOV Inc.,NYSE
 NOVA,Sunnova Energy International Inc.,NYSE
 NOVC,"Novation Companies, Inc. Common Stock",U
 NOVKY,Novatek JT STK Co Sponsored GDR Reg S (Russia),U
@@ -864,7 +863,6 @@ NRBO,"NeuroBo Pharmaceuticals, Inc. Common Stock",NASDAQ
 NRBT,"Novus Robotics, Inc Common Stock",U
 NRC,National Research Corporation Common Stock,NASDAQ
 NRCD,"Nashville Records, Inc. Common Stock",U
-NRDAF,NORDA ASA Shs (Norway),U
 NRDBY,Nordea Bank ABp American Depositary Shares - Sponsored (Finland),U
 NRDXF,Nordex AG Ordinary Shares,U
 NREF,"NexPoint Real Estate Finance, Inc.",NYSE
@@ -879,7 +877,6 @@ NRGSP,Narragansett Electric Company 4.50% Preferred Stock,U
 NRGT,Energy Today Inc. Common Stock,U
 NRGU,MicroSectors US Big Oil 3x Leveraged ETN,ARCA
 NRGX,PIMCO Energy and Tactical Credit Opportunities Fund,NYSE
-NRIFF,Nuvo Pharmaceuticals Inc Ordinary Shares,U
 NRILY,Nomura Resh Inst Ltd American Depositary Receipts - Unsponsored,U
 NRIM,Northrim BanCorp Inc Common Stock,NASDAQ
 NRIS,"Norris Industries, Inc. Common Stock",U
@@ -1588,7 +1585,6 @@ OOIL,Perkins Oil & Gas Inc. Common Stock,U
 OOMA,"Ooma, Inc. Common Stock",NYSE
 OONEF,01 Communique Lab Inc Common Shares (Canada),U
 OPBK,OP Bancorp Common Stock,NASDAQ
-OPBXF,OPTIBIOTIX HEALTH PLC Ordinary Shares (United Kingdom),U
 OPCGF,Organic Potash Corp Common Shares (Canada),U
 OPCH,"Option Care Health, Inc. Common Stock",NASDAQ
 OPEN,Opendoor Technologies Inc Common Stock,NASDAQ
@@ -1859,7 +1855,6 @@ PABN,"Panamerican Bancorp (DE) fka Pure Water Sciences International, Inc. Commo
 PAC,"Grupo Aeroportuario del Pacifico, S.A.B. de C.V. Amer. Dep. Shares (each rep. 10 Ser. B shares)",NYSE
 PACB,"Pacific Biosciences of California, Inc. Common Stock",NASDAQ
 PACC,Pacific CMA Inc Common Stock,U
-PACDQ,Pacific Drilling S.A. Ordinary Shares Par $0.01 (Luxembourg),U
 PACE,TPG Pace Tech Opportunities Corp.,NYSE
 PACE U,"TPG Pace Tech Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fifth",NYSE
 PACE WS,"TPG Pace Tech Opportunities Corp. Warrants, each whole warrant exercisable for one Class A ordinary",NYSE
@@ -2275,7 +2270,9 @@ PFSI,"PennyMac Financial Services, Inc. Common Stock",NYSE
 PFSW,"PFSweb, Inc. Common Stock",NASDAQ
 PFTI,Puradyn Filter Technologies Incorporated Common Stock,U
 PFWIQ,"Petrone Worldwide, Inc. Common Stock",U
+PFX,PhenixFIN Corporation Common Stock,NASDAQ
 PFXF,VanEck Vectors Preferred Securities ex Financials ETF,ARCA
+PFXNL,PhenixFIN Corporation 6.125% Senior Notes due 2023,NASDAQ
 PG,Procter & Gamble Company,NYSE
 PGAI,P G I Inc Common Stock,U
 PGAL,Global X MSCI Portugal ETF,ARCA
@@ -4338,7 +4335,9 @@ RSTGF,Restaurant Group Plc Ordinary Shares (UK),U
 RSTN,RDE INC Common Stock,U
 RSTRF,RESTAURANT BRANDS INTL LTD PARTNERSHIP Unit (Canada),U
 RSTTF,R Stahl AG Stuttgart Ordinary Shares (Germany),U
+RSVA,Rodgers Silicon Valley Acquisition Corp. Common Stock,NASDAQ
 RSVAU,Rodgers Silicon Valley Acquisition Corp. Unit,NASDAQ
+RSVAW,Rodgers Silicon Valley Acquisition Corp. Warrant,NASDAQ
 RSX,VanEck Vectors Russia ETF,BATS
 RSXJ,VanEck Vectors Russia Small-Cap ETF,BATS
 RSYC,"Real Security Company, Inc. (The) Common Stock",U
