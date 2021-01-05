@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,Capitaland Mall Trust Unit,U
 CPB,Campbell Soup Company,NYSE
@@ -119,7 +117,7 @@ CRBJY,"China Resources Land, Ltd. Unsponsored ADR (Cayman Islands)",U
 CRBKF,CAREBOOK TECHNOLOGIES INC NEW Common Shares,U
 CRBL,"Carbon Credit International, Inc Common Stock",U
 CRBN,iShares MSCI ACWI Low Carbon Target ETF,ARCA
-CRBO,Carbon Energy Corporation Common Stock,U
+CRBOD,Carbon Energy Corporation Common Stock,U
 CRBP,"Corbus Pharmaceuticals Holdings, Inc. Common Stock",NASDAQ
 CRBTF,INTELLABRIDGE TECHNOLOGY CORP Ordinary Shares,U
 CRC,California Resources Corporation,NYSE
@@ -671,6 +669,7 @@ CXDC,China XD Plastics Company Limited Common Stock,NASDAQ
 CXDO,"Crexendo, Inc. Common Stock",NASDAQ
 CXE,MFS High Income Municipal Trust,NYSE
 CXEE,"China Xuefeng Environmental Engineering, Inc. Common Stock",U
+CXGEF,Computer & Technologies Holdings Ltd Ordinary Shares (Bermuda),U
 CXH,MFS Investment Grade Municipal Trust,NYSE
 CXIA,"Commodore Applied Technologies, Inc. Common Stock",U
 CXKJ,"CX Network Group, Inc. Common Stock",U
@@ -1054,7 +1053,6 @@ DGNR,Dragoneer Growth Opportunities Corp.,NYSE
 DGNR U,"Dragoneer Growth Opportunities Corp. Units, each consisting of one Class A ordinary share, and one-f",NYSE
 DGNR WS,"Dragoneer Growth Opportunities Corp. Redeemable warrants, each whole warrant exercisable for one Cla",NYSE
 DGNS,Dragoneer Growth Opportunities Corp. II Class A Ordinary Shares,NASDAQ
-DGNTY,Dignity PLC Unsponsored American Depository Receipt (United Kingdom),U
 DGNYF,Dignity Plc Sutton Coldfield Ordinary Shares (United Kingdom),U
 DGOCF,Diversified Gas & Oil PLC Ordinary Shares (United Kingdom),U
 DGONF,Dragon Mining NL Ordinary Shares,U
@@ -2061,6 +2059,7 @@ ELCPF,EDP Energias de Portugal SA Ordinary Reg Shares (Portugal),U
 ELCR,"Electric Car Company, Inc. Common Stock",U
 ELCTF,Elmos Semiconductor Ag Dortmund Ordinary Shares (Germany),U
 ELD,WisdomTree Emerging Markets Local Debt Fund,ARCA
+ELDN,"Eledon Pharmaceuticals, Inc. Common Stock",NASDAQ
 ELEAF,EL.EN. SPA FIRENZE Ordinary Shares,U
 ELECF,Electric Royalties Ltd. Common Shares (Canada),U
 ELED,"ExeLED Holdings, Inc. Common Stock",U
@@ -2072,7 +2071,6 @@ ELF,"e.l.f. Beauty, Inc.",NYSE
 ELFIF,E L Finl Corporation Ltd Ordinary Shares,U
 ELGL,"Element Global, Inc. Common Stock",U
 ELGT,"Electric & Gas Technology, Inc. Common Stock",U
-ELHYF,Eagle Hospitality Trust Stapled Security (Singapore),U
 ELIAF,"Elia System Operator SA/NV, Bruxelles Ordinary Shares (Belgium)",U
 ELIO,Elio Motors Inc Common Stock,U
 ELIXF,Elixxer Ltd Ordinary Shares,U
@@ -2630,6 +2628,7 @@ ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund,NYSE
 ETX,EATON VANCE MUNICIPAL INCOME 2028 TERM TRUST,NYSE
 ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,NYSE
 EUBG,ENTREPRENEUR UNIVERSE BRIGHT GROUP Common Stock,U
+EUCG,Euclid Capital Growth ETF,BATS
 EUCMF,Eurocommercial Properties Nv Cert of Shs (Netherlands),U
 EUCR,Eucrates Biomedical Acquisition Corp. Ordinary Shares,NASDAQ
 EUCRU,Eucrates Biomedical Acquisition Corp. Unit,NASDAQ
@@ -5237,3 +5236,4 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U

@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -167,7 +166,9 @@ HCA,"HCA Healthcare, Inc.",NYSE
 HCAEF,Holding Co Admie Ipto SA Common Stock (Greece),U
 HCAP,Harvest Capital Credit Corporation Common Stock,NASDAQ
 HCAPZ,Harvest Capital Credit Corporation 6.125% Notes due 2022,NASDAQ
+HCAR,Healthcare Services Acquisition Corporation Class A Common Stock,NASDAQ
 HCARU,Healthcare Services Acquisition Corporation Unit,NASDAQ
+HCARW,Healthcare Services Acquisition Corporation Warrant,NASDAQ
 HCAT,"Health Catalyst, Inc Common Stock",NASDAQ
 HCBC,"High Country Bancorp, Inc. Common Stock",U
 HCBN,H.C.B. Financial Corporation Common Stock,U
@@ -1646,6 +1647,7 @@ INII,"Insight ID, Inc. NEW (WY) Common Stock",U
 INIS,International Isotopes Inc. Common Stock,U
 INITF,iShares Canadian Short Term Bond Index ETF (Canada),U
 INIX,Ifinix Corporation. Common Stock,U
+INKAU,KludeIn I Acquisition Corp. Unit,NASDAQ
 INKM,SPDR SSgA Income Allocation ETF of SSgA Active Trust,ARCA
 INKW,"Greene Concepts, Incorporated Common Stock",U
 INLAF,Interlapse Technologies Corp Common Shares,U
@@ -3078,6 +3080,7 @@ KPELF,Keppel Corp Ltd Cl A Ordinary Shares,U
 KPELY,Keppel Corp Ltd Spons ADR,U
 KPHWF,"Key Petroleum Ltd, Perth Wa Common Shares (Australia)",U
 KPIFF,"Edgewater Wireless Systems, Inc. Ordinary Shares (Canada)",U
+KPJHF,Kpj Healthcare Bhd Ordinary Shares,U
 KPLIF,Keppel Infrastructure Trust NEW Units (Singapore),U
 KPLUF,K Plus S AG Ordinary Shares,U
 KPLUY,K plus S AG Sponsored ADR (Germany),U
@@ -3919,7 +3922,6 @@ LUMO,"Lumos Pharma, Inc. Common Stock",NASDAQ
 LUNA,Luna Innovations Incorporated Common Stock,NASDAQ
 LUNG,Pulmonx Corporation Common Stock,NASDAQ
 LUNMF,Lundin Mining Corporation Common Shares (Canada),U
-LUPAQ,Lupatech S A American Depositary Receipts - Sponsored,U
 LUPGF,Loopup Group Plc Ordinary Shares 0.005 (UK),U
 LUPTF,Lupatech SA Ordinary shares (Brazil),U
 LUSI,"MMA Global, Inc. Common Stock",U
@@ -4266,6 +4268,7 @@ MDBS,"Master Distribution Systems, Inc. Common Stock",U
 MDC,"M.D.C. Holdings, Inc.",NYSE
 MDCA,MDC Partners Inc. CL A Subordinate Voting Shares,NASDAQ
 MDCE,Medical Care Technologies Inc. Common Stock,U
+MDCLF,Medincell Ordinary Shares (France),U
 MDCN,Medican Enterprises Inc Common Stock,U
 MDDCF,MEDIA DO CO LTD Ordinary Shares Japan(JP ),U
 MDDM,M D M Group Inc Common Stock,U
@@ -5234,6 +5237,3 @@ MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
 MTOR,"MERITOR, Inc.",NYSE
-MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
-MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
-MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U

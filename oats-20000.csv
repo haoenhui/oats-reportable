@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
 SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
@@ -1004,6 +1002,7 @@ SRNN,"Southern Banc Company, Inc. (The) Common Stock",U
 SRNW,Stratos Renewables Corporation Common Stock,U
 SRNXF,Sourcenext Corp Ordinary Shares,U
 SROYF,Sailfish Royalty Corp Common Stock,U
+SRPIF,"Starts Proceed Investment Corp, Tokyo Ordinary shares (Japan)",U
 SRPT,"Sarepta Therapeutics, Inc. Common Stock (DE)",NASDAQ
 SRPX,"Scorpex, Inc. Common Stock",U
 SRRA,"Sierra Oncology, Inc. Common Stock",NASDAQ
@@ -1054,7 +1053,6 @@ SSDOY,Shiseido Co Ltd Ord American Depositary Shares,U
 SSDRF,SSGA SPDR ETFS EUROPE I PLC SPDR S&P US MIDCAP 400 ETF USD (Ireland),U
 SSDT,"Shengshi Elevator International Holding Group, Inc. Common Stock",U
 SSEBF,Silver Spruce Resources Inc Ordinary Shares,U
-SSECF,SCOUT SEC LTD ORDINARY FULLY PAID (Australia),U
 SSEEF,SSGA SPDR ETFS Europe I PLC Shs Exchange Traded Fund (Ireland),U
 SSEHF,SSGA SPDR ETFS EUROPE II PLC S&P US HEALTH CARE SEL SEC USD (UCITS) Exchange Traded Fund,U
 SSEHW,Senestech Inc Warrant Exp 08/13/2023,U
@@ -1259,6 +1257,7 @@ STON,StoneMor Inc.,NYSE
 STOR,STORE Capital Corporation,NYSE
 STOSF,"Santos, Ltd. Ordinary Shares",U
 STOT,SPDR DoubleLine Short Duration Total Return Tactical ETF,BATS
+STPC U,"Star Peak Corp II Units, each consisting of one share of Class A common stock and one-fourth of one",NYSE
 STPGF,Steppe Gold Limited Common Shares,U
 STPJF,Southern Pacific Resource Corp Ordinary Shares (Canada),U
 STPK,Star Peak Energy Transition Corp.,NYSE
@@ -2073,6 +2072,7 @@ THOPF,Thai Oil Public Co Ltd NVDR Sh (Thailand),U
 THOXF,BIOPORTO A/S Ordinary Shares,U
 THPFF,Thai President Food Unit Non Voting Depository Receipt (Thailand),U
 THPHF,Thinkpath Inc. Ordinary Shares (Canada),U
+THPTF,Techpoint Inc Ordinary Shares (Japan),U
 THQ,TEKLA HEALTHCARE OPPORTUNITIES FUND,NYSE
 THQQF,Embracer Group AB Ordinary Shares,U
 THR,"THERMON GROUP HOLDINGS, INC.",NYSE
@@ -2707,6 +2707,7 @@ TSGTF,Tsingtao Brewery Ser H Ordinary Shares,U
 TSGTY,Tsingtao Brewery Ltd Sponsored ADR Representing Cl H Shs (China),U
 TSGZF,"TriStar Gold, Inc. Ordinary Shares (Canada)",U
 TSHA,"Taysha Gene Therapies, Inc. Common Stock",NASDAQ
+TSHCF,TOSHO CO LTD ANJO Ordinary Shares,U
 TSHMY,Shibaura Machine Co Ltd. American Depositary Receipts - Unsponsored,U
 TSHO,"Tradeshow Marketing Company, Ltd. (The)  Common Stock",U
 TSHTY,Toshiba Tec Corporation Unsponsored ADR (Japan),U
@@ -2839,7 +2840,6 @@ TTYP,Trinity Petroleum Trust Cbi Common Stock,U
 TU,Telus Corporation,NYSE
 TUALF,Tuas Ltd. Ordinary Shares (Australia),U
 TUERF,TRUE NORTH COMMERICAL REIT (Canada),U
-TUESQ,Tuesday Morning Corp. Common Stock,U
 TUFBY,Thai Union Group Public Company Limited American Depositary Receipts - Unsponsored,U
 TUFN,Tufin Software Technologies Ltd.,NYSE
 TUFUF,Thai Union Group PLC Ltd Depositary Receipts,U
@@ -4027,6 +4027,7 @@ VTHR,Vanguard Scottsdale Funds Vanguard Russell 3000 ETF,NASDAQ
 VTI,Vanguard Total Stock Market ETF,ARCA
 VTIAF,Vita 34 AG Namen-Akt (Germany),U
 VTIP,Vanguard Malvern Funds Vanguard Short-Term Inflation-Protected Securities Index Fund,NASDAQ
+VTIQU,VectoIQ Acquisition Corp. II Unit,NASDAQ
 VTKLF,"VTech Holdings, Ltd. (Bermuda) Ordinary Shares",U
 VTKLY,"VTech Holdings, Ltd. Unsponsored ADR (Bermuda)",U
 VTLR,Virtualarmor Intl Inc Common Stock,U
@@ -4276,7 +4277,7 @@ WFC PRW,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th 
 WFC PRX,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cu",NYSE
 WFC PRY,Wells Fargo & Company,NYSE
 WFC PRZ,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cu",NYSE
-WFCFD,"Where Food Comes From, Inc. Common Stock",U
+WFCF,"Where Food Comes From, Inc. Common Stock",U
 WFCL,1867 Westn Finl Corp Common Stock (United States),U
 WFCNP,Wells Fargo & Company Dividend Equalization Preferred Stock,U
 WFGCF,ENTHEOS CAP CORP Ordinary Shares,U

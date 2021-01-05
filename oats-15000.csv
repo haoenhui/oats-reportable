@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
+MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
+MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U
 MTPP,"Mountain Top Properties, Inc. Common Stock",U
 MTPR,Meta Power International Inc Common Stock New,U
 MTPTF,Motorpoint PLC Ordinary Shares (United Kingdom),U
@@ -436,7 +439,6 @@ NEXOY,Nexon Co Ltd Unsponsored ADR (Japan),U
 NEXPF,NEXI SPA Azione Ordinarie Senza Valore Nominale Ord Shs (Italy),U
 NEXS,"Nexus Biopharma, Inc. Common Stock",U
 NEXT,NextDecade Corporation Common Stock,NASDAQ
-NEXTW,NEXTDECADE CORP Warrant   01/01/2021,U
 NEXXY,NEXI S.P.A. Unsponsored ADR (Italy),U
 NFBK,"Northfield Bancorp, Inc. Common Stock (Delaware)",NASDAQ
 NFE,New Fortress Energy Inc. Class A Common Stock,NASDAQ
@@ -477,7 +479,6 @@ NGENF,NervGen Pharma Corp Common Stock (Canada),U
 NGEY,New Global Energy Inc Common Stock,U
 NGG,National Grid PLC,NYSE
 NGGTF,National Grid PLC Common Shares,U
-NGHC,National General Holdings Corp Common Stock,NASDAQ
 NGHCN,National General Holdings Corp Depositary Shares,NASDAQ
 NGHCO,National General Holdings Corp Depositary Shares,NASDAQ
 NGHCP,"National General Holdings Corp Preferred Stock, Series A",NASDAQ
@@ -1136,7 +1137,6 @@ NVST,"Envista Holdings Corporation Common stock, $0.01 par value per share",NYSE
 NVT,nVent Electric plc Ordinary Shares,NYSE
 NVTA,Invitae Corporation,NYSE
 NVTQF,TRENCH METALS CORP Ordinary Shares,U
-NVUS,"Novus Therapeutics, Inc. Common Stock",NASDAQ
 NVYAF,Navya Ordinary Shares  France (FR),U
 NVYTF,Novacyt Shs Nom Non Liberee (France),U
 NVYYF,Navy Resources Corp Common Shares (Canada),U
@@ -1845,7 +1845,7 @@ OZFRY,OFX Group Limited American Depositary Receipts - Unsponsored,U
 OZK,Bank OZK Common Stock,NASDAQ
 OZMLF,OZ Minerals Limited  Ordinary Shares (Australia),U
 OZON,"Ozon Holdings PLC American Depositary Shares, each ADS representing one ordinary share",NASDAQ
-OZSC,Ozop Surgical Corp. Common Stock,U
+OZSC,"Ozop Energy Solutions, Inc. Common Stock",U
 OZYMF,Orphazyme A S Almindelig Aktie Ordinary Shares (Denmark),U
 PAA,"Plains All American Pipeline, L.P. Common Units representing Limited Partner Interests",NASDAQ
 PAAFF,Pharmaust Ltd. Ordinary Shares  (Australia),U
@@ -2548,7 +2548,6 @@ PLSDF,Pulse Seismic Inc Ordinary Shares,U
 PLSE,"Pulse Biosciences, Inc Common Stock (DE)",NASDAQ
 PLSI,Phoenix Life Sciences International Ltd. Common Stock,U
 PLSQF,Plus500 Ltd. Ordinary Shares (Israel),U
-PLSVF,PSL Holdings Limited Ordinary Shares (Singapore),U
 PLT,"Plantronics, Inc.",NYSE
 PLTI,"Platcom, Inc. Common Stock",U
 PLTM,GraniteShares Platinum Shares,ARCA
@@ -3563,7 +3562,6 @@ QURT,"Quarta-Rad, Inc. Common Stock",U
 QUS,SPDR MSCI USA StrategicFactors ETF,ARCA
 QUTEF,Quantel Sa Les Ulis Ordinary Shares (France),U
 QUTIF,Questor Technology Inc Ordinary Shares,U
-QUTRD,Born Inc. Common Stock,U
 QVAL,Alpha Architect U.S. Quantitative Value ETF,BATS
 QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068",NYSE
 QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067",NYSE
@@ -4188,7 +4186,9 @@ ROBOF,"Robo Group TEK, Ltd. Ordinary Shares",U
 ROBT,First Trust Exchange-Traded Fund VI First Trust Nasdaq Artificial Intelligence and Robotics ETF,NASDAQ
 ROBXF,"Robix Environmental Technologies, Inc. Ordinary Shares (Canada)",U
 ROCAF,Roca Mines Inc Ordinary Shares (Canada),U
+ROCC,Roth CH Acquisition II Co. Common Stock,NASDAQ
 ROCCU,Roth CH Acquisition II Co. Unit,NASDAQ
+ROCCW,Roth CH Acquisition II Co. Warrant,NASDAQ
 ROCH,Roth CH Acquisition I Co. Common Stock,NASDAQ
 ROCHU,Roth CH Acquisition I Co. Unit,NASDAQ
 ROCHW,Roth CH Acquisition I Co. Warrant,NASDAQ
@@ -4264,6 +4264,7 @@ RPNMF,Rapala Normark Corp Ordinary Shares,U
 RPNRF,RAPID NUTRITION PLC Ordinary Shares (United Kingdom),U
 RPRX,Royalty Pharma plc Class A Ordinary Shares,NASDAQ
 RPSGF,Rps Group Plc Ordinary Shares,U
+RPSOF,"REPSOL SA, MADRID DERECHOS Rights 01/08/2021",U
 RPT,RPT Realty Common Shares of Beneficial Interest (MD),NYSE
 RPT PRD,RPT Realty 7.25% Series D Cumulative Convertible Perpetual Preferred Shares of Beneficial Interest,NYSE
 RPTX,Repare Therapeutics Inc. Common Shares,NASDAQ
@@ -4368,7 +4369,6 @@ RTOBF,Ratos Ab Shs-B Ordinary Shares,U
 RTOKY,Rentokil Initial Plc (Fgn) American Depositary Shares,U
 RTON,"Right On Brands, Inc. Common Stock",U
 RTOXF,Rotork Plc Ord 5p Ordinary Shares,U
-RTOXY,Rotork Plc Unsponsored ADR (United Kingdom),U
 RTP,Reinvent Technology Partners,NYSE
 RTP U,"Reinvent Technology Partners Units, each consisting of one Class A ordinary share and one-fourth of",NYSE
 RTP WS,"Reinvent Technology Partners Redeemable Warrants, each whole warrant exercisable for one Class A ord",NYSE
@@ -4382,7 +4382,6 @@ RTTGF,RTG Mng Inc Ordinary Shares (Virgin Islands British),U
 RTTNY,ROTTNEROS AB  American Depositary Receipts - Unsponsored (Sweden),U
 RTTO,Rito Group Corp Common Stock,U
 RTWFF,RTW VENTURE FD LTD Ordinary Shares Guernsey(GG ),U
-RTWIQ,RTW RETAILWINDS INC Common Stock,U
 RTWRF,"TOWER RESOURCES PLC, LONDON Ordinary Shares",U
 RTX,Raytheon Technologies Corporation,NYSE
 RUBNF,ARBORGEN HLDGS LTD Ordinary Shares,U
@@ -4732,7 +4731,7 @@ SCE PRK,SCE TRUST V,NYSE
 SCE PRL,SCE TRUST VI 5.00% Trust Preference Securities,NYSE
 SCEDF,Scholar Ed Group Ordinary Shares (Cayman Islands),U
 SCEXF,Saracen Mineral Holdings Limited Ordinary Shares (Austrailia),U
-SCEYF,Source Energy Services Ltd Ordinary Shares (Canada),U
+SCEYD,SOURCE ENERGY SERVICES LTD Ordinary Shares,U
 SCFFF,Spot Coffee Ltd Ordinary Shares (Canada),U
 SCFLF,SCHAEFFLER AG Schaeffler Ag Inh.Vzo (Germany),U
 SCFR,Security First International Holdings Inc. Common Stock,U
@@ -5236,3 +5235,5 @@ SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
+SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U

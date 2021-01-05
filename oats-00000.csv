@@ -19,6 +19,7 @@ AACTF,AURORA SOLAR TECHNOLOGIES INC  Common Shares,U
 AADR,AdvisorShares Dorsey Wright ADR ETF,ARCA
 AAEEF,Altair Res Inc Common Shares,U
 AAGC,All American Gold Corp. Common Stock,U
+AAGEF,AAG ENERGY HLDGS LTD Ordinary Shares (Cayman Islands),U
 AAGFF,Aftermath Silver Ltd Ordinary Shares,U
 AAGH,America Great Health Common Stock,U
 AAGIY,"AIA Group, Ltd. Sponsored American Depository Receipt (Hong Kong)",U
@@ -881,7 +882,6 @@ ALEAF,Aleafia Health Inc Ordinary Shares,U
 ALEC,"Alector, Inc. Common Stock",NASDAQ
 ALEDY,Allied Group Limited Unsponsored ADR (Hong Kong),U
 ALEGF,ALLEGRO EU SA ORD BR (Luxembourg),U
-ALEQP,ALTA EQUIP GROUP INC DEP SHS REPSTG 1/1000TH PFD SER A 10%,U
 ALEX,"Alexander & Baldwin, Inc.",NYSE
 ALFA,AlphaClone Alternative Alpha ETF,BATS
 ALFDF,Astral Foods Ltd Ordinary Shares (South Africa),U
@@ -988,6 +988,7 @@ ALTB,Alpine Auto Brokers Inc Common Stock,U
 ALTCY,Altice Europe N.V. American Depositary Shares - Unsponsored,U
 ALTD,"Altitude International, Inc. Common Stock",U
 ALTG,Alta Equipment Group Inc.,NYSE
+ALTG PRA,Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A C,NYSE
 ALTG WS,"Alta Equipment Group Inc. Warrants, each whole warrant exercisable for one share of Common Stock, ea",NYSE
 ALTGF,Altagas Ltd Preference Shares  Series C Canada (CA),U
 ALTHF,Altech Chemicals Ltd. Ordinary Shares (Australia),U
@@ -2977,7 +2978,6 @@ BMBYF,Bloomsbury Publishing plc Ordinary Shares (United Kingdom),U
 BMBZF,Blom Bank S.A.L Sponsored GDR Representing Cl B Reg S Shares,U
 BMCBF,BMO Short Corporate Bond Index ETF Unit (Canada),U
 BMCDF,BOLSAS Y MERCADOS ARGENTINOS Ordinary Shares Argentina (AR),U
-BMCH,"BMC Stock Holdings, Inc. Common Stock",NASDAQ
 BMCLF,Baic Mtr Corp Ltd Common Shares,U
 BMCS,BioTech Medics Inc. New Common Stock,U
 BMDLF,BMO Covered Call Canadian Banks ETF Unit (Canada),U
@@ -3036,7 +3036,6 @@ BMXI,Brookmount Explorations Inc. Common Stock,U
 BMXMF,Biomerieux 69 Marcy L'Etoile Ordinary Shares,U
 BMXXY,BIOMERIEUX S A American Depositary Receipts - Unsponsored (France),U
 BMY,Bristol-Myers Squibb Co.,NYSE
-BMY RT,Bristol-Myers Squibb Company Contingent Value Rights,NYSE
 BMYMP,Bristol-Myers Squibb Company Preferred Stock,U
 BNAUF,Battle North Gold Corporation Common Shares,U
 BNBVY,Banco Nacional De Bolivia Bs10 American Depositary Shares,U
@@ -3318,6 +3317,7 @@ BRRDF,Borregaard ASA Ordinary Shares (Norway),U
 BRRE,Blue Ridge Real Estate Co. Common Stock,U
 BRRGF,Bergenbio AS Ordinary Shares (Norway),U
 BRRLY,Barry Callebaut AG ADR Unsponsored (Switzerland),U
+BRRN,Born Inc. Common Stock,U
 BRRZY,Total Brain Ltd American Depositary Receipts - Sponsored,U
 BRSE,"Broadside Enterprises, Inc. Common Stock",U
 BRSF,"Brain Scientific, Inc. Common Stock",U
@@ -4572,7 +4572,6 @@ CICN,"Cicero, Inc. Common Stock",U
 CICOF,Cosco Shipping Holdings Co Ltd Ordinary Shares,U
 CICOY,COSCO SHIPPING Holdings Co Ltd American Depositary Receipts - Unsponsored,U
 CID,VictoryShares International High Div Volatility Wtd ETF,NASDAQ
-CIDHF,China Agri Inds Hldgs Ltd Ordinary Shares (Hong Kong),U
 CIDM,"Cinedigm Corp., Class A Common Stock",NASDAQ
 CIEN,Ciena Corporation,NYSE
 CIEZF,Corporacion Interame Ent L Ser Ordinary Shares,U
@@ -5237,3 +5236,5 @@ COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAH,CounterPath Corporation Common Stock,NASDAQ
