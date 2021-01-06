@@ -555,6 +555,7 @@ AGBAR,AGBA Acquisition Limited Right,NASDAQ
 AGBAU,AGBA Acquisition Limited Unit,NASDAQ
 AGBAW,AGBA Acquisition Limited Warrant,NASDAQ
 AGC,Altimeter Growth Corp. Class A Ordinary Shares,NASDAQ
+AGCB,Altimeter Growth Corp. 2 Class A Ordinary Shares,NYSE
 AGCBF,Amarillo Gold Corporation Ordinary Shares (Canada),U
 AGCCF,Gensource Potash Corp. Ordinary Shares (Canada),U
 AGCO,AGCO Corporation,NYSE
@@ -828,6 +829,7 @@ AKCCF,AKER CARBON CAPTURE AS Ordinary Shares,U
 AKCPF,Asustek Computer Inc Ord Ordinary Shares,U
 AKEJF,Ariake Japan Ordinary Shares,U
 AKER,Akers Biosciences Inc. Common Stock,NASDAQ
+AKICU,Sports Ventures Acquisition Corp. Unit,NASDAQ
 AKKVF,AKASTOR ASA  ASA Ordinary Shares (Norway),U
 AKO A,Embotelladora Andina S.A. Series A,NYSE
 AKO B,Embotelladora Andina S.A. Series B,NYSE
@@ -3029,6 +3031,8 @@ BMSPF,Biomass Secure Power Inc Ordinary Shares (Canada),U
 BMTC,Bryn Mawr Bank Corporation Common Stock,NASDAQ
 BMTLF,Bemetals Corp Common Shares  (Canada),U
 BMTM,"Bright Mountain Media, Inc. Common Stock",U
+BMTX,"BM Technologies, Inc.",AMEX
+BMTX WS,"BM Technologies, Inc. Warrants, each warrant exercisable for one share of Common Stock at an exercis",AMEX
 BMWLF,Bluma Wellness Inc Common Shares  (Canada),U
 BMWYY,Bayerische Motoren Werke Ag Pf American Depositary Receipts - Sponsored (Germany),U
 BMXC,BEMAX INC Common Stock,U
@@ -3171,7 +3175,7 @@ BOUT,Innovator IBD Breakout Opportunities ETF,ARCA
 BOUVF,BIO-UV GROUP SAS Ordinary Shares  France(FR ),U
 BOUYF,Bouygues SA Ordinary Shares (France),U
 BOUYY,Bouygues SA Unsponsored ADR (France),U
-BOVNF,Bioinvent AB Shs,U
+BOVNF,Bioinvent International AB Ordinary Shares,U
 BOWFF,Boardwalk Real Estate Investment Trust Unit (Canada),U
 BOWX,BowX Acquisition Corp. Class A Common Stock,NASDAQ
 BOWXU,BowX Acquisition Corp. Unit,NASDAQ
@@ -3255,6 +3259,7 @@ BREZR,Breeze Holdings Acquisition Corp. Right,NASDAQ
 BREZW,Breeze Holdings Acquisition Corp. Warrant,NASDAQ
 BRF,VanEck Vectors Brazil Small-Cap ETF,ARCA
 BRFH,Barfresh Food Group Inc. Common,U
+BRFIF,BLACKROCK FRONTIERS INVESTMENT TRUST PLC SHS 2010 (United Kingdom),U
 BRFRY,Burford Capital Limited American Depositary Receipts - Unsponsored (Guernsey),U
 BRFS,BRF - Brasil Foods S.A.,NYSE
 BRG,"Bluerock Residential Growth REIT, Inc.",AMEX
@@ -4039,7 +4044,6 @@ CCPR,"CaseyCorp Enterprises, Inc. Common Stock",U
 CCPTF,CCP TECHNOLOGIES LTD Ordinary Shares  (Austrailia),U
 CCRC,"China Customer Relations Centers, Inc. Ordinary Shares",NASDAQ
 CCRDF,Concordia Finl Group Ltd. Ordinary Shares (Japan),U
-CCRE,"Can-Cal Resources, Ltd. Common Stock",U
 CCRGF,Intu Properties PLC Ordinary Shares (United Kingdom),U
 CCRN,"Cross Country Healthcare, Inc. Common Stock $0.0001 Par Value",NASDAQ
 CCRRF,Green River Gold Corp. Common Shares (Canada),U
@@ -5195,7 +5199,7 @@ COPGF,Croplogic Ltd Ordinary Shares  (New Zealand),U
 COPHF,Creso Pharma Ltd Ordinary Shares (Australia),U
 COPJF,Cooper Energy Limited Ordinary Shares (Australia),U
 COPLF,SEAFARMS GROUP LTD  Ordinary Shares,U
-COPRF,Questcap Inc Common Shares,U
+COPRF,MEDIVOLVE INC Common Shares,U
 COPX,Global X Copper Miners ETF (NEW),ARCA
 COR,Coresite Realty Corporation,NYSE
 CORC,"Cornwall Resources, Inc. Common Stock",U
@@ -5235,6 +5239,3 @@ COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ

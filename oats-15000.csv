@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
-MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
 MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U
 MTPP,"Mountain Top Properties, Inc. Common Stock",U
 MTPR,Meta Power International Inc Common Stock New,U
@@ -127,12 +125,14 @@ MXI,iShares Global Materials ETF,ARCA
 MXIM,"Maxim Integrated Products, Inc. Common Stock",NASDAQ
 MXL,"MAXLINEAR, INC.",NYSE
 MXLGF,MX Gold Corp Ordinary Shares,U
+MXLLF,Maxell Holdings LTD SHS (Japan),U
 MXMG,"Maxima Group, Inc. Common Stock",U
 MXMSF,"Maxim Resources, Ltd. Ordinary Shares (Canada)",U
 MXMTY,Maxcom Telecomunicaciones S.A.B. de C.V. American Depositary Receipts - Sponsored,U
 MXROF,Max Resource Corp. Common Shares,U
 MXRSF,"Coin Hodl, Inc. Common Shares",U
 MXSG,MEXUS GOLD US Common Stock,U
+MXSPF,MONDO TV SPA MILANO SHS (Italy),U
 MXTLF,Metalex Ventures Ltd New Ordinary Shares (Canada),U
 MXTOF,NELES OYJ Ordinary Shares,U
 MXTRF,Montero Mining Common Shares,U
@@ -288,6 +288,7 @@ NBY,"NovaBay Pharmaceuticals, Inc.",AMEX
 NC,"NACCO Industries, Inc.",NYSE
 NCA,"Nuveen California Municipal Value Fund, Inc.",NYSE
 NCAP,"Northsight Capital, Inc. Common Stock",U
+NCAUF,Newcore Gold Ltd Ordinary Shares,U
 NCB,Nuveen California Municipal Value Fund 2,NYSE
 NCBDF,"Bandai Namco Holdings, Inc. Ordinary Shares (Korea South Republic of Korea)",U
 NCBDY,Bandai Namco Hldgs Inc American Depositary Receipts - Unsponsored,U
@@ -439,6 +440,7 @@ NEXOY,Nexon Co Ltd Unsponsored ADR (Japan),U
 NEXPF,NEXI SPA Azione Ordinarie Senza Valore Nominale Ord Shs (Italy),U
 NEXS,"Nexus Biopharma, Inc. Common Stock",U
 NEXT,NextDecade Corporation Common Stock,NASDAQ
+NEXTW,NEXTDECADE CORP Warrant Exp 07/24/2022,U
 NEXXY,NEXI S.P.A. Unsponsored ADR (Italy),U
 NFBK,"Northfield Bancorp, Inc. Common Stock (Delaware)",NASDAQ
 NFE,New Fortress Energy Inc. Class A Common Stock,NASDAQ
@@ -1338,6 +1340,7 @@ OCCI,"OFS Credit Company, Inc. Common Stock",NASDAQ
 OCCIP,"OFS Credit Company, Inc. 6.875% Series A Term Preferred Stock",NASDAQ
 OCDDY,OCADO GROUP PLC  American Depositary Receipts - Sponsored (United Kingdom),U
 OCDGF,"Ocado Group PLC, Hatfield Ordinary Shares (United Kingdom)",U
+OCEHF,Oceania Healthcare Ltd SHS (New Zealand),U
 OCESO,"Ocean Spray Cranberries, Inc. Part 2nd 4% Preferred Stock",U
 OCESP,"Ocean Spray Cranberries, Inc. 4% Preferred Stock",U
 OCFC,OceanFirst Financial Corp. Common Stock,NASDAQ
@@ -1653,6 +1656,7 @@ ORENF,"Origin Enterprises PLC, Dublin Ordinary Shares (Ireland)",U
 ORESF,Orestone Mining Corporation Common Shares (Canada),U
 ORFDF,Orefinders Res Inc Ordinary Shares,U
 ORGH,"OrgHarvest, Inc. Common Stock",U
+ORGJF,Organo Corp SHS (Japan),U
 ORGO,Organogenesis Holdings Inc. Class A Common Stock,NASDAQ
 ORGS,Orgenesis Inc. Common Stock,NASDAQ
 ORHB,"ORHUB, Inc. Common Stock",U
@@ -2419,7 +2423,6 @@ PIFMY,PT Indofood Sukses Makmur TBK Unsponsored ADR (Indonesia),U
 PIFR,Premier Information Management Inc Common Stock,U
 PIFYF,Pine Cliff Energy Limited Common Stock (Canada),U
 PIGEF,Pigeon Corp Ordinary Shares,U
-PIGUF,Greenyard NV Ordinary Shares,U
 PIHLF,PIHLAJALINNA OY Ordinary Shares (Finland),U
 PIHN,"Polaris International Holdings, Inc.  Common Stock",U
 PII,Polaris Inc.,NYSE
@@ -2643,7 +2646,6 @@ PNC,PNC Financial Services Group,NYSE
 PNC PRP,"THE PNC FINANCIAL SERVICES GROUP, INC.",NYSE
 PNCFO,"PNC Financial Services Group Inc $1.80 Cumulative Convertible Preferred Stock, Series B",U
 PNCKF,GALLEON GOLD CORP Common Shares,U
-PNCRF,Newcore Gold Ltd Ordinary Shares,U
 PNDDF,Pender Growth Fd Inc Ordinary Shares (Canada),U
 PNDFF,PT INDOFOOD CBP SUKSES MAKMUR TBK Ordinary Shares (Indonesia),U
 PNDHF,Pond Technologies Hldgs Inc Ordinary Shares,U
@@ -2760,6 +2762,7 @@ PPERF,PT Bank Mandiri Persero TBK Ordinary Shares (Indonesia),U
 PPERY,PT Bank Mandiri Persero TBK Unsponsored ADR (Indonesia),U
 PPEVF,Pacific Paradym Energy Inc Ordinary Shares,U
 PPG,"PPG Industries, Inc.",NYSE
+PPGHU,Poema Global Holdings Corp. Unit,NASDAQ
 PPH,VanEck Vectors Pharmaceutical ETF,NASDAQ
 PPHI,POSITIVE PHYSICIANS HLDGS INC Common Stock,U
 PPHOF,Polyphor AG Namen-AKT (Switzerland),U
@@ -3306,7 +3309,6 @@ PWWBF,Powerband Solutions Inc Ordinary Shares,U
 PWZ,Invesco California AMT-Free Municipal Bond ETF,ARCA
 PWZYF,POWSZECHNY ZAKLAD UBEZPIECZEN SA Ordinary Shares (Poland),U
 PXAMF,Location Sciences Group Plc Ordinary Shares,U
-PXBBF,PT Bank Permata TBK Ordinary shares Series A (Indonesia),U
 PXCE,"Pax Clean Energy, Inc. Common Stock",U
 PXCLF,Phoenix Copper Ltd.  Ordinary Shares,U
 PXD,Pioneer Natural Resource Co.,NYSE
@@ -4322,7 +4324,7 @@ RSNAY,RSA Insurance Group PLC Sponsored ADR,U
 RSNHF,Resona Holdings Inc Osaka Ordinary Shares (Japan),U
 RSNVF,Reyna Silver Corp Common Shares  (Canada),U
 RSP,Invesco S&P 500 Equal Weight ETF,ARCA
-RSPI,RespireRx Pharmaceuticals Inc. Common Stock,U
+RSPID,RespireRx Pharmaceuticals Inc. Common Stock,U
 RSRBF,Ressources Robex Inc (F) Ordinary Shares,U
 RSRL,RESOURCE REAL ESTATE OPPORTUNITY REIT INC Common,U
 RSRV,Reserve Petroleum Company (The)  Common Stock,U

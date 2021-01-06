@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -692,7 +693,6 @@ HRDDF,Hardey Res Ltd Ordinary Shares (Australia),U
 HRDI,"Here Media, Inc Common Stock",U
 HRDIL,"Here Media, Inc Spl Shares",U
 HREEF,Stans Energy Corp. Ordinary Shares (Canada),U
-HRELF,Haier Electronics Group Co Ltd. Ordinary Shares (Bermuda) HKD,U
 HRELY,Haier Electronics Group Co Ltd. Unsponsored ADR (Bermuda),U
 HRENF,"Huaneng Renewables Corporation Ltd, Beijing Registered Shares (China)",U
 HRFEF,Harfang Expl Inc Common Shares (Canada),U
@@ -747,7 +747,6 @@ HSCZ,iShares Currency Hedged MSCI EAFE Small-Cap ETF,ARCA
 HSDT,"Helius Medical Technologies, Inc. Class A Common Stock (DE)",NASDAQ
 HSEEF,Hill Street Beverage Co Inc,U
 HSEN,Honsen Energy & Resources International Limited Common Stock,U
-HSEPF,HUSKY ENERGY INC PFD SER 7%,U
 HSFI,"Homeland Safety International, Inc. Common Stock",U
 HSHIF,Hoshizaki Electric Co Ltd Ordinary Shares (Japan),U
 HSHL,"Home Solutions Health, Inc. Common Stock",U
@@ -868,9 +867,7 @@ HURN,Huron Consulting Group Inc. Common Stock,NASDAQ
 HURRY,Hurriyet Gazete Tl 1000 Par Unsponsored ADR (Turkey),U
 HUSA,Houston American Energy Corp,AMEX
 HUSIF,NICOLA MNG INC  Ordinary Shares,U
-HUSKF,Husky Energy Inc Ordinary Shares,U
 HUSN,Hudson Capital Inc. Ordinary Shares,NASDAQ
-HUSPF,HUSKY ENERGY INC CUMULATIVE REDEEMABLE PFD SHS SER 5 (Canada),U
 HUSQF,Husqvarna AB Shs -B- (Sweden),U
 HUSV,First Trust Horizon Managed Volatility Domestic ETF,ARCA
 HUTCY,Hutchison Telecommunications Hong Kong Hldgs LTD American Depositary Receipts - Unsponsored  Cayman (KY),U
@@ -1644,6 +1641,7 @@ INGVF,"ING Group, N.V. Other",U
 INGXF,Innergex Renewable Energy Inc Common shares (Canada),U
 INHC,Innolog Holdings Corp Common Stock,U
 INII,"Insight ID, Inc. NEW (WY) Common Stock",U
+ININF,INTER INDUSTRY LTD SHARE (Israel),U
 INIS,International Isotopes Inc. Common Stock,U
 INITF,iShares Canadian Short Term Bond Index ETF (Canada),U
 INIX,Ifinix Corporation. Common Stock,U
@@ -2155,6 +2153,7 @@ IUYBF,iShares US High Yield Bond Index ETF Unit (Canada),U
 IVA,Inventiva S.A. American Depository Shares,NASDAQ
 IVAC,"Intevac, Inc. Common Stock",NASDAQ
 IVAL,Alpha Architect International Quantitative Value ETF,BATS
+IVAN U,"Ivanhoe Capital Acquisition Corp. Unit, each consisting of one Class A ordinary share and one-third",NYSE
 IVATF,INVESCO MKTS II AT1 CAPITAL BOND UCITS ETF USD ACC  Exchange Traded Fund Ireland(IE ),U
 IVBIY,Innovent Biologics Inc  American Depositary Receipts - Unsponsored (Cayman Islands),U
 IVBUF,ISHARES IV PLC NASDAQ US BIOTECH UCITS ETF USD ACC (Ireland),U
@@ -2243,6 +2242,7 @@ IWV,iShares Russell 3000 ETF,ARCA
 IWX,iShares Russell Top 200 Value ETF,ARCA
 IWY,iShares Russell Top 200 Growth ETF,ARCA
 IX,ORIX Corporation,NYSE
+IXBOF,IX BIOPHARMA LTD SHS (Singapore),U
 IXC,iShares Global Energy ETF,ARCA
 IXEH,"IX Energy Holdings, Inc. Common Stock",U
 IXG,iShares Global Financials ETF,ARCA
@@ -2546,7 +2546,6 @@ JP,"Jupai Holdings Limited American depositary shares, each representing six ord
 JPAVF,Japan Aviation Electr Ltd Ordinary Shares,U
 JPC,Nuveen Preferred & Income Opportunities Fund,NYSE
 JPDYY,"Japan Display, Inc. American Depositary Receipts - Unsponsored",U
-JPELF,Jpel Private Equity Ltd Ordinary Shares (Guernsey),U
 JPEM,JPMorgan Diversified Return Emerging Markets Equity ETF,ARCA
 JPEX,"JPX Global, Inc. Common",U
 JPFEF,JPMorgan Fleming Continental European Investment Trust Plc Ordinary Shares (United Kingdom),U
@@ -2698,6 +2697,7 @@ KAEPY,Kansai Electric Power Inc Unsponsored ADR (Japan),U
 KAHL,Kahala Corporation (Florida) New Common Stock,U
 KAI,Kadant Inc.,NYSE
 KAIKY,Kawasaki Kisen Kaisha Ltd American Depositary Receipts - Unsponsored,U
+KAIRU,Kairos Acquisition Corp. Unit,NASDAQ
 KAJMF,Kajima Corp Ord Ordinary Shares,U
 KAJMY,Kajima Corp Ord American Depositary Shares,U
 KAKKF,Kawasaki Kisen Kaisha Ltd Ordinary Shares,U
@@ -2989,6 +2989,7 @@ KMSWF,Kingmaker Footwear Hldgs Ordinary Shares,U
 KMT,Kennametal Inc.,NYSE
 KMTUF,Komatsu Ltd Ord Ordinary Shares,U
 KMTUY,Komatsu Ltd Ord American Depositary Shares,U
+KMUXF,KAMUX OYJ (Finland),U
 KMWE,"KM Wedding Events Management, Inc. Common",U
 KMX,CarMax Inc.,NYSE
 KN,KNOWLES CORPORATION,NYSE
@@ -3116,6 +3117,7 @@ KRMA,Global X Funds Global X Conscious Companies ETF,NASDAQ
 KRMCF,KRM22 PLC Ord GBP0.10 (United Kingdom),U
 KRMD,"Repro Med Systems, Inc. Common Stock",NASDAQ
 KRMDF,Korian Medica SA Ordinary Shares (France),U
+KRMMF,"KINGROSE MINING LTD, APPLECROSS WA SHS (Australia)",U
 KRNGF,Karoon Gas Australia Ltd Ordinary Shares (Australia),U
 KRNGY,Karoon Gas Australia Ltd Unsponsored American Depository Receipt (Australia),U
 KRNNF,Krones Ag Akt. Shares (Germany),U
@@ -3162,6 +3164,7 @@ KSMT,Kismet Acquisition One Corp Ordinary Shares,NASDAQ
 KSMTU,Kismet Acquisition One Corp Unit,NASDAQ
 KSMTW,Kismet Acquisition One Corp Warrant,NASDAQ
 KSNIF,Kasen International Holdings Limited Ordinary Shares (Cayman Islands),U
+KSOJF,Kisoji Co Ltd SHS (Japan),U
 KSPHF,Kissei Pharmaceuticals Co Ltd Ordinary Shares (Japan),U
 KSPN,Kaspien Holdings Inc. Common Stock,NASDAQ
 KSQR,Kendall Square Research Corporation Common Stock,U
@@ -3608,6 +3611,7 @@ LIVX,"LiveXLive Media, Inc. Common Stock",NASDAQ
 LIXT,"Lixte Biotechnology Holdings, Inc. Common Stock",NASDAQ
 LIXTW,"Lixte Biotechnology Holdings, Inc. Warrants",NASDAQ
 LIZI,LIZHI INC. American Depositary Shares,NASDAQ
+LJAQU,LightJump Acquisition Corporation Unit,NASDAQ
 LJPC,La Jolla Pharmaceutical Company Common Stock,NASDAQ
 LJUIF,SSY GROUP LTD Ordinary Shares (Cayman Islands),U
 LKADF,Link Admin Hldgs LTD Ordinary Shares Australia(AU ),U
@@ -4418,9 +4422,6 @@ MEYYY,Medco Energi Internasional TBK PT Unsponsored ADR (Indonesia),U
 MFA,"MFA Financial, Inc",NYSE
 MFA PRB,"MFA Financial, Inc. 7.50% Series B Cumulative Redeemable Preferred Stock",NYSE
 MFA PRC,"MFA Financial, Inc. 6.50% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NYSE
-MFAC,Megalith Financial Acquisition Corp. Class A Common Stock,AMEX
-MFAC U,"Megalith Financial Acquisition Corp. Units, each consisting of one share of Class A Common Stock, an",AMEX
-MFAC WS,"Megalith Financial Acquisition Corp. Warrants, each warrant exercisable for one share of Class A Com",AMEX
 MFAIF,Ming Fai International Holdings Limited Ordinary Shares (Cayman Islands),U
 MFBP,"M&F Bancorp, Inc. Common Stock",U
 MFC,Manulife Financial Corp.,NYSE
@@ -4442,7 +4443,6 @@ MFM,MFS Municipal Income Trust Shares of Beneficial Interest,NYSE
 MFMLF,Marifil Mines Ltd Common Shares,U
 MFMS,MFAM Small-Cap Growth ETF,BATS
 MFNC,Mackinac Financial Corporation Common Stock,NASDAQ
-MFO,"MFA FINANCIAL, INC. 8.00% SR NTS DUE 2042",NYSE
 MFON,Mobivity Holdings Corp. Common Stock,U
 MFOYY,MegaFon PJSC Global Depositary Receipts - Sponsored,U
 MFRVF,Minera Frisco SaB CV Ordinary Shares- Class A (Mexico),U
@@ -5237,3 +5237,5 @@ MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
 MTOR,"MERITOR, Inc.",NYSE
+MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
+MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U

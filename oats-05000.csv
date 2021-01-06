@@ -1,6 +1,9 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
-CPAMF,Capitaland Mall Trust Unit,U
+CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
@@ -126,7 +129,7 @@ CRCBY,Chongqing Rural Commercial Bank Co Ltd Unsponsored ADR (China),U
 CRCCY,CRRC Corporation Ltd. American Depositary Receipts - Unsponsored (China),U
 CRCQW,CALIFORNIA RES CORP WT EXP 10/27/2024,U
 CRCRF,CAR INC Ordinary Shares (Cayman Islands),U
-CRCUD,CANAGOLD RES LTD Common Shares,U
+CRCUF,CANAGOLD RES LTD Common Shares,U
 CRCW,The Crypto Company Common Stock,U
 CRD A,Crawford & Company Class A,NYSE
 CRD B,Crawford & Company Class B,NYSE
@@ -264,7 +267,6 @@ CRWS,Crown Crafts Inc Common Stock,NASDAQ
 CRWTF,"Crow Technologies 1977, Ltd. Ordinary Shares (Israel)",U
 CRXM,"Taxus Cardium Pharmaceuticals Group, Inc. Common Stock",U
 CRXPF,VERT INFRASTRUCTURE LTD Ordinary Shares,U
-CRXXF,China Res Med Hldgs Co Ltd Ordinary Shares (Cayman Islands),U
 CRY,"CryoLife, Inc.",NYSE
 CRYBF,Extreme Vehicle Battery Technologies Corp Ordinary Shares,U
 CRYCY,China Railroad Signal & Communication Corp Ltd American Depositary Receipts - Unsponsored,U
@@ -562,6 +564,7 @@ CVCO,"Cavco Industries, Inc. Common Stock When Issued",NASDAQ
 CVCS,"Charter Corporate Services, Inc. Common Stock",U
 CVCY,Central Valley Community Bancorp Common Stock,NASDAQ
 CVE,Cenovus Energy Inc.,NYSE
+CVE WS,Cenovus Energy Inc. Warrants (each warrant entitles the holder to purchase one common share at an ex,NYSE
 CVEI,CENVEO ENTERPRISES INC Common Stock  Delaware,U
 CVEO,Civeo Corporation,NYSE
 CVET,"Covetrus, Inc. Common Stock",NASDAQ
@@ -2395,6 +2398,7 @@ EQFN,Equitable Financial Corp. Common Stock,U
 EQGPF,Equitable Group Inc Ordinary Shares (Canada),U
 EQH,"Equitable Holdings, Inc.",NYSE
 EQH PRA,"Equitable Holdings, Inc. Depositary Shares, each representing a 1/1000th interest in a share of Fixe",NYSE
+EQHIL,EQUITABLE HLDGS INC DEP SHS REPSTG 1/1000TH PERP PFD SER C Depositary Shares,U
 EQINY,Equiniti Group PLC,U
 EQIX,"Equinix, Inc. Common Stock REIT",NASDAQ
 EQKR,EQK Realty Investors I Common Stock,U
@@ -3596,7 +3600,6 @@ FNMFO,Federal National Mortgage Association Pfd Conv Ser 2004-I 5.375%,U
 FNNCF,FINANCIAL FIFTEEN SPLIT CORP Ordinary Shares,U
 FNNGF,Fanlogic Interactive Inc Ordinary Shares (Canada),U
 FNNNF,Finnair OYJ AKT Ordinary Shares,U
-FNNRF,FINNAIR OYJ SUBS (Finland),U
 FNNTF,FLATEXDEGIRO AG Ordinary Shares,U
 FNNZF,Fincanna Capital Corp Common Stock,U
 FNOV,FT Cboe Vest U.S. Equity Buffer ETF - November,BATS
@@ -4157,6 +4160,7 @@ GBEN,"Global Resource Energy, Inc. Common Stock",U
 GBERF,Geberit Ag Namen -AKT (Switzerland),U
 GBERY,Geberit Ag Jona Unsponsored ADR (Switzerland),U
 GBF,iShares Government/Credit Bond ETF,ARCA
+GBFH,GBANK FINL HLDGS INC COM,U
 GBFL,Great Basin Financial Corp. Common Stock,U
 GBGD,Global Gold Corporation Common Stock,U
 GBGPF,GB GROUP PLC SHS (United Kingdom),U
@@ -4817,7 +4821,6 @@ GOOG,Alphabet Inc. Class C Capital Stock,NASDAQ
 GOOGL,Alphabet Inc. Class A Common Stock,NASDAQ
 GOOI,"Gooi Global, Inc. Common Stock",U
 GOOLF,AQUARIUS AI INC Common Shares,U
-GOOOD,WINNERS INC Common Stock,U
 GOOS,Canada Goose Holdings Inc.,NYSE
 GOOXF,Givot Olam Oil Exploration LP 1993 Ordinary Shares,U
 GOPG,Go-Page Corporation.  Common Stock,U
@@ -5236,4 +5239,3 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
