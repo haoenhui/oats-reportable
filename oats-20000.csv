@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
 SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
@@ -1420,6 +1421,7 @@ SVCBY,Svenska Cellulosa B Shs American Depositary Shares,U
 SVCRF,Servcorp Limited Ordinary Shares (Australia),U
 SVCTF,Senvest Capital Inc Ordinary Shares,U
 SVDN,SAVDEN GROUP CORP Common Stock,U
+SVFAU,SVF Investment Corp. Unit,NASDAQ
 SVGAF,Silver Grail Resources Ltd. Ordinary Shares (Canada),U
 SVIN,"Scheid Vineyards, Inc. Class A Common Stock",U
 SVJTY,Severstal PAO Global Depositary Receipts - Sponsored,U
@@ -1470,6 +1472,7 @@ SVYSF,Solvay Et Cie Sa A Shs Ordinary Shares,U
 SWAN,Amplify BlackSwan Growth & Treasure Core ETF,ARCA
 SWAV,"ShockWave Medical, Inc. Common Stock",NASDAQ
 SWBI,"Smith & Wesson Brands, Inc. Common Stock",NASDAQ
+SWBK U,"Switchback II Corporation Units, each consisting of one Class A ordinary share and one fifth of one",NYSE
 SWCC,Southwest Casino Corporation Common Stock,U
 SWCH,"Switch, Inc. Class A Common Stock",NYSE
 SWCKF,Swick Mining Services Ltd Ordinary shares (Australia),U
@@ -2296,6 +2299,7 @@ TMICF,Trend Micro Incorporated Ordinary Shares,U
 TMICY,Trend Micro Incorporated American Depositary Shares,U
 TMIN,Trendmaker Inc Limited Common Stock,U
 TMIX,"Tarsin Mobile, Inc. Common Stock",U
+TMKRU,Tastemaker Acquisition Corp. Unit,NASDAQ
 TMKUF,"Tomoku Co Ltd, SHS (Japan)",U
 TMLVF,Tamerlane Ventures Inc Common Shares (Canada),U
 TMMFF,TMAC Res Inc Ordinary Shares (Canada),U
@@ -2584,7 +2588,7 @@ TRKR,Tracker Corporation of America (The) Common Stock,U
 TRKX,"Trek Resources, Inc. Common Stock",U
 TRKYY,Turkiye Sinai Kalkinma Bankasi As Unsponsored ADR (Turkey),U
 TRLDF,Threegold Res Inc Ordinary shares (Canada),U
-TRLFD,True Leaf Brands Inc. Ordinary Shares,U
+TRLFF,True Leaf Brands Inc. Ordinary Shares,U
 TRMB,Trimble Inc. Common Stock,NASDAQ
 TRMD,TORM plc Class A Common Stock,NASDAQ
 TRMK,Trustmark Corporation Common Stock,NASDAQ
@@ -3527,6 +3531,7 @@ VCII,ViviCells International Inc Common Stock,U
 VCISF,Vinci Sa Ordinary Shares,U
 VCISY,Vinci SA ADR (France),U
 VCIT,Vanguard Intermediate-Term Corporate Bond ETF,NASDAQ
+VCKAU,Vickers Vantage Corp. I Unit,NASDAQ
 VCKVF,VANECK VECTORS UCITS ETFS PLC Exchange Traded Fund,U
 VCLD,Verecloud Inc. Common Stock,U
 VCLO,Simplify Volt Cloud and Cybersecurity Disruption ETF,ARCA
@@ -3543,7 +3548,6 @@ VCRA,"VOCERA COMMUNICATIONS,  INC.",NYSE
 VCRPF,Vanguard Funds PLC Exchange Traded Fund USD CORPORATE BD UCITS ETF USD ACCUM Ireland(IE),U
 VCSH,Vanguard Short-Term Corporate Bond ETF,NASDAQ
 VCST,ViewCast.com Inc Common Stock,U
-VCSY,"Vertical Computer Systems, Inc. Common Stock",U
 VCTL,"Rainmaker Systems, Inc. Common Stock",U
 VCTM,VICTORY COML MGMT INC Common Stock,U
 VCTR,"Victory Capital Holdings, Inc. Class A Common Stock",NASDAQ
@@ -4080,7 +4084,6 @@ VVI,Viad Corp,NYSE
 VVIT,"Vista International Technologies, Inc. Common Stock",U
 VVIVF,EarthRenew Inc. Ordinary Shares,U
 VVNT,"Vivint Smart Home, Inc. Class A Common Stock",NYSE
-VVNT WS,"Vivint Smart Home, Inc. Warrants, each exercisable for one Class A Common Stock at an exercise price",NYSE
 VVOS,"Vivos Therapeutics, Inc. Common Stock",NASDAQ
 VVPR,VivoPower International PLC Ordinary Shares,NASDAQ
 VVR,Invesco  Senior Income Trust,NYSE
@@ -4388,7 +4391,6 @@ WKGFF,Westkam Gold Corp. Common Shares,U
 WKHS,"Workhorse Group, Inc. Common Stock",NASDAQ
 WKLN,"Walker Lane Exploration, Inc. Common Stock",U
 WKPPF,Workspace Group Plc Ordinary Shares (United Kingdom),U
-WKPYF,Waskita Karya Persero Tbk Pt Shs Series B Common Stock,U
 WKRCF,Wacker Neuson SE Namen-Akt (Germany),U
 WKSP,WORKSPORT LTD Common Stock,U
 WKSVF,WORK SVC S A Ordinary Shares,U
@@ -5177,7 +5179,9 @@ ZNOGF,ZOONO GROUP LTD Ordinary Shares Fully Paid ( Australia),U
 ZNOGW,ZION OIL & GAS INC Warrant   01/31/2021,U
 ZNRG,"Znergy, Inc. Common Stock",U
 ZNRGF,Z Energy Ltd Ordinary Shares (New Zealand),U
+ZNTE,Zanite Acquisition Corp. Class A Common Stock,NASDAQ
 ZNTEU,Zanite Acquisition Corp. Unit,NASDAQ
+ZNTEW,Zanite Acquisition Corp. Warrant,NASDAQ
 ZNTL,"Zentalis Pharmaceuticals, Inc. Common Stock",NASDAQ
 ZNXT,ZNext Mining Corporation Inc Common Stock,U
 ZNZNF,Zinzino Holding AB Ordinary Shares B (Sweden),U

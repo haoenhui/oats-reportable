@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
@@ -1285,7 +1281,6 @@ IFF,International Flavors & Fragrances Inc.,NYSE
 IFFT,International Flavors & Fragrances Inc. 6.00% Tangible Equity Units,NYSE
 IFGH,Infoserve Global Holdings Corp Common Stock,U
 IFGL,iShares International Developed Real Estate ETF,NASDAQ
-IFGNF,Infigen Energy Triple Stapled Security (Australia),U
 IFHI,INTEGRATED FINL HLDGS INC Common Stock,U
 IFHZF,Intercorp Peru LTD Sponsored ADR Reg S (Bahamas),U
 IFISF,"IFIS Japan Ltd, Tokyo Ordinary Shares (Japan)",U
@@ -3430,6 +3425,7 @@ LEAT,Leatt Corp Common Stock,U
 LECBF,Lepanto Cons Mng Co Cl A Ordinary Shares,U
 LECFF,Lignol Energy Corp Common Shares (Canada),U
 LECIY,Lecicio Egypt SAE Sponsored ADR (Egypt),U
+LECNF,Leclanche SA Yverdon Shs Nom (Switzerland),U
 LECO,"Lincoln Electric Holdings, Inc. Common Shares",NASDAQ
 LECRF,LEOCOR GOLD INC Common Shares,U
 LEDS,SemiLEDS Corporation Common Stock,NASDAQ
@@ -3701,7 +3697,9 @@ LNDT,"LianDi Clean Technology, Inc. Common Stock",U
 LNDZD,SALONA GLOBAL MED DEVICE CORP Ordinary Shares,U
 LNEGY,Lundin Energy AB American Depositary Receipts - Sponsored,U
 LNETF,LINK NET TBK PT Ordinary Shares  Indonesia(ID ),U
+LNFA,L&F Acquisition Corp.,NYSE
 LNFA U,"L&F Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one rede",NYSE
+LNFA WS,"L&F Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an",NYSE
 LNG,"Cheniere Energy, Inc.",AMEX
 LNGB,LONGBAU GROUP INC  Common Stock,U
 LNGHY,Lai Fung Hldgs Ltd American Depositary Receipts - Sponsored (Cayman Islands),U
@@ -3857,7 +3855,7 @@ LSNVY,Lai Sun Dev Co Ltd American Depositary Receipts - Sponsored (Hong Kong),U
 LSPD,Lightspeed POS Inc.,NYSE
 LSRCF,Lasertec Corp Ordinary Shares (Japan),U
 LSRCY,Lasertec Corporation American Depositary Receipts - Unsponsored,U
-LSSDF,Radius Global Infrastructure Inc Warrant,U
+LSSDF,Radius Global Infrastructure Inc Warrant Exp 2/10/2023,U
 LSST,Natixis Loomis Sayles Short Duration Income ETF,ARCA
 LSTR,"Landstar System, Inc. Common Stock",NASDAQ
 LSTYF,Lifestyle China Group Ltd Ordinary Shares (Cayman Islands),U
@@ -3957,6 +3955,8 @@ LVSDF,"Lai Sun Development Co., Ltd. Ordinary Shares",U
 LVSYF,LEVER STYLE CORP HKD SHS  Ordinary Shares,U
 LVTSF,Livetiles Ltd Ordinary Shares   (Australia),U
 LVVEF,Globalive Technology Inc Ordinary Shares,U
+LVVP,LIGHTSTONE VALUE PLUS REAL ESTATE INVT TR V INC COM,U
+LVVR,LIGHTSTONE VALUE PLUS REAL ESTATE INVT TR III INC COM,U
 LVVV,"Livewire Ergogenics, Inc.  Common Stock",U
 LVWD,"LiveWorld, Inc. Common Stock",U
 LVYN,Lvyuan Green Building Material Technology Corp. Common Stock,U
@@ -4458,7 +4458,7 @@ MGAG,Mortgage Oil Corp Common Stock,U
 MGAWF,Megaworld Corporation Ordinary Shares (Phillippines),U
 MGAWY,Megaworld Corporation Unsponsored ADR (Phillipines),U
 MGC,Vanguard Mega Cap 300 Index ETF,ARCA
-MGCCF,MG CAP CORP Common Shares   Canada(CA ),U
+MGCCF,DLP RES 2020 LTD Common Shares,U
 MGCLF,MGC Pharmaceuticals Ltd Ordinary Shares (Australia),U
 MGCV,MGC VENTURES INC Common Stock,U
 MGDDF,Michelin Cie Gen Des Estb Cl B Ordinary Shares,U
@@ -4629,6 +4629,7 @@ MITUF,Mitsui Chemicals Inc Ordinary Shares,U
 MITUY,Mitsui Chemicals Inc Unsponsored ADR (Japan),U
 MIUFF,Mitsubishi UFJ Lease & Finance Co Ltd Ordinary shares (Japan),U
 MIUFY,Mitsubishi UFJ Lease & Finance Co Ltd Unsponsored ADR (Japan),U
+MIURF,Miura Co Ltd Ordinary Shares (Japan),U
 MIXIF,"Mixi Inc., Tokyo Ordinary Shares (Japan)",U
 MIXT,MIX TELEMATICS LIMITED,NYSE
 MIXX,"MIX 1 LIFE, INC. Common Stock",U
@@ -4902,6 +4903,7 @@ MOD,Modine Manufacturing Co,NYSE
 MODC,Modern Technology Corp. Common Stock,U
 MODD,"Modular Medical, Inc. Common Stock",U
 MODN,"MODEL N, INC.",NYSE
+MODV,ModivCare Inc. Common Stock,NASDAQ
 MODVF,Melcor Development Ltd Ordinary Shares,U
 MOFG,MidWestOne Financial Gp Common Stock,NASDAQ
 MOG A,Moog Inc.,NYSE
@@ -5085,6 +5087,7 @@ MRTI,Maxus Realty Trust Inc Common Stock,U
 MRTMF,Maritime Resources Corp. Ordinary Shares (Canada),U
 MRTN,"Marten Transport, Ltd. Common Stock",NASDAQ
 MRTPY,Marston's plc Unsponsored ADR (United Kingdom),U
+MRTTF,METAL TIGER PLC ORD GBP0.001 (United Kingdom),U
 MRTX,"Mirati Therapeutics, Inc. Common Stock",NASDAQ
 MRUHF,Maruha Nichiro Corporation Ordinary Shares (Japan),U
 MRUS,Merus N.V. Common Shares,NASDAQ

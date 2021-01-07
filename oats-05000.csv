@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
@@ -869,6 +866,7 @@ DBXSF,Xtrackers II EM MKT USD Bond UCITS ETF 1C Eur Hedged Exchange Traded Fund,
 DBXTF,Xtrackers DBLCI Comm Optimum Yield Swap UCITS ETF 2C Ordinary Shares,U
 DBXVF,Xtrackers MSCI Europe Small Cap UCITS ETF 1C Exchange Traded Fund,U
 DBXXF,Xtrackers Stoxx Global Select DIV 100 Swap UCITS ETF 1D Ordinary Shares,U
+DBXYF,Xtrackers Shs MSCI EMU UCITS ETF 1D (Luxembourg),U
 DCAC,Daniels Corporate Advisory Co Inc Common Stock,U
 DCBO,Docebo Inc. Common Shares,NASDAQ
 DCCNF,Dacian Gold Ltd Ordinary Shares (Australia),U
@@ -2381,6 +2379,7 @@ EPU,iShares MSCI Peru ETF,ARCA
 EPV,ProShares UltraShort FTSE Europe,ARCA
 EPWCF,Empower Clinics Inc Ordinary Shares,U
 EPWDF,Electric Power Development Co EPDC Ordinary Shares (Japan),U
+EPWR U,"Empowerment & Inclusion Capital I Corp. Units, each consisting of one share of Class A common stock",NYSE
 EPXY,"EPOXY, INC. Common Stock",U
 EPYFF,E-Play Digital Inc Ordinary Shares,U
 EPZM,"Epizyme, Inc. Common Stock",NASDAQ
@@ -3128,7 +3127,7 @@ FEPTY,Far East Pharmaceutical Technology Company Ltd Sponsored ADR (Cayman Islan
 FEQT,First Equities Corp Common Stock,U
 FERD,Ferd Corp. Common Stock,U
 FERGY,Ferguson plc American Depositary Receipts - Sponsored,U
-FERLD,"FEARLESS FILMS, INC. Common Stock",U
+FERL,"FEARLESS FILMS, INC. Common Stock",U
 FERN,Fernhill Corp. Common Stock,U
 FESNF,First Real Estate Investment Trust Units (Singapore),U
 FESTF,Hybrid Kinetic Group Ltd Ordinary Shares (Bermuda),U
@@ -4529,7 +4528,6 @@ GKTRF,GEK Terna Holding Real Estate Construction Societe Anonyme Ordinary Regula
 GL,Globe Life Inc.,NYSE
 GL PRC,Globe Life Inc.,NYSE
 GLAD,Gladstone Capital Corporation Common Stock,NASDAQ
-GLADD,Gladstone Capital Corporation 6.125% Notes due 2023,NASDAQ
 GLADL,Gladstone Capital Corporation 5.375% Notes due 2024,NASDAQ
 GLAE,"GlassBridge Enterprises, Inc. Common Stock",U
 GLAPF,Glanbia Plc Ordinary Shares,U
@@ -4874,6 +4872,7 @@ GPLPF,Group Lease Public Co Ltd Shs Foreign Registered (Thailand),U
 GPLS,Geopulse Exploration Inc. Common Stock,U
 GPM,Guggenheim Enhanced Equity Income Fund,NYSE
 GPMCF,Grupo Modelo S A de C V Ordinary -C- Shares (Mexico),U
+GPMMF,GOLDEN PROSPECT PRECIOUS METALS LTD SHS (Guernsey),U
 GPMNF,GOLD PLUS MNG INC Common Shares,U
 GPMT,Granite Point Mortgage Trust Inc. Common Stock,NYSE
 GPMTF,GPM Metals Inc. Ordinary Shares,U
@@ -5048,6 +5047,7 @@ GSAH,GS Acquisition Holdings Corp II,NYSE
 GSAH U,"GS Acquisition Holdings Corp II Units, each consisting of one share of Class A Common Stock and one-",NYSE
 GSAH WS,"GS Acquisition Holdings Corp II Redeemable Warrants, each whole warrant exercisable for one share of",NYSE
 GSAOY,Grupo Sanborns SAB DE CV Sponsored ADR (Mexico),U
+GSAQU,Global Synergy Acquisition Corp. Units,NASDAQ
 GSAT,"Globalstar, Inc.",AMEX
 GSBC,"Great Southern Bancorp, Inc. Common Stock",NASDAQ
 GSBD,"Goldman Sachs BDC, Inc.",NYSE
@@ -5239,3 +5239,7 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U

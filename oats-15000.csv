@@ -1504,6 +1504,7 @@ OMCL,"Omnicell, Inc. Common Stock ($0.001 par value)",NASDAQ
 OMCOF,Ohmoriya Co Ltd Ordinary Shares (Japan),U
 OMDD,Ormand Inds Inc Common Stock,U
 OMDHF,ONE MEDIA IP GROUP PLC (United Kingdom),U
+OMEG,Omega Alpha SPAC Class A Ordinary Shares,NASDAQ
 OMER,Omeros Corporation Common Stock,NASDAQ
 OMEX,"Odyssey Marine Exploration, Inc. Common Stock",NASDAQ
 OMF,"OneMain Holdings, Inc.",NYSE
@@ -2443,7 +2444,9 @@ PIO,Invesco Exchange-Traded Fund Trust II Invesco Global Water ETF,NASDAQ
 PIOE,"P10 Holdings, Inc. Common Stock",U
 PIONF,ESSENTIAL METALS LTD Ordinary Shares,U
 PIPI,Premier Investment Properties Inc. Common Stock,U
+PIPP,Pine Island Acquisition Corp.,NYSE
 PIPP U,"Pine Island Acquisition Corp. Units, each consisting of one share of Class A common stock and one-th",NYSE
+PIPP WS,"Pine Island Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of C",NYSE
 PIPR,Piper Sandler Companies,NYSE
 PIRGF,Premier Gold Mines Ltd Common Shares (Canada),U
 PIRS,"Pieris Pharmaceuticals, Inc. Common Stock",NASDAQ
@@ -2927,13 +2930,13 @@ PRRVF,Providence Gold Mines Inc Ordinary Shares (Canada),U
 PRRWF,Park Lawn Corp Ordinary Shares (Canada),U
 PRRY,"Planet Resource Recovery, Inc. Common Stock",U
 PRS,"Prudential Financial, Inc. 5.625% Junior Subordinated Notes due 2058",NYSE
-PRSC,The Providence Service Corporation Common Stock,NASDAQ
 PRSEF,Prosafe SE Ordinary Shares,U
 PRSEY,Prosafe SE American Depositary Receipts - Unsponsored,U
 PRSI,Portsmouth Square Inc Common Stock,U
 PRSNF,Personas Social Inc Common Shares,U
 PRSP,Perspecta Inc. Common Stock,NYSE
 PRSRF,Soma Gold Corp Ordinary Shares,U
+PRSRU,Prospector Capital Corp. Unit,NASDAQ
 PRT,PermRock Royalty Trust Trust Unit,NYSE
 PRTA,Prothena Corporation plc Ordinary Shares,NASDAQ
 PRTC,PureTech Health plc American Depositary Shares,NASDAQ
@@ -3443,7 +3446,7 @@ QH,Quhuo Limited American Depository Shares,NASDAQ
 QHYG,QHY Group Common Stock,U
 QID,ProShares UltraShort QQQ,ARCA
 QIFTF,Quorum Information Technologies Inc Common Shares (Canada),U
-QIHCF,QINGDAO HAIER CO LTD D SHARES OF QINGDAO HAIER REGISTERED OTHER SHARES Ordinary Shares,U
+QIHCF,HAIER SMART HOME CO LTD Ordinary Shares,U
 QING,"Qingdao Footwear, Inc. Common Stock",U
 QINT,American Century Quality Diversified International ETF,ARCA
 QIWI,QIWI plc American Depositary Shares,NASDAQ
@@ -3814,7 +3817,7 @@ RELL,"Richardson Electronics, Ltd. Common Stock",NASDAQ
 RELM,Relm Holdings Inc Common Stock,U
 RELOF,"Relo Holdings Inc, Tokyo Ordinary Shares (Japan)",U
 RELT,Reliant Holdings Inc Common Stock,U
-RELV,Reliv International Inc Common Stock,U
+RELVD,RELIV INTL INC Common Stock,U
 RELX,RELX PLC,NYSE
 REM,iShares Mortgage Real Estate ETF,BATS
 REMI,"Remedent, Inc. Common Stock",U
@@ -4801,6 +4804,7 @@ SCPE U,"SC Health Corporation Units, each consisting of one Class A ordinary sha
 SCPE WS,"SC Health Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an",NYSE
 SCPH,scPharmaceuticals Inc. Common Stock,NASDAQ
 SCPJ,Scope Industries Common Stock,U
+SCPKF,7C SOLARPARKEN AG O N (Germany),U
 SCPL,SciPlay Corporation Class A Common Stock,NASDAQ
 SCPPF,S4 Capital PLC Shs (United Kingdom),U
 SCPS,Scopus BioPharma Inc. Common Stock,NASDAQ
@@ -5238,4 +5242,3 @@ SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
