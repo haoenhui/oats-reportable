@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
@@ -52,6 +55,7 @@ CPPBY,Central Pattana Public Company Ltd Unsponsored ADR (Thailand),U
 CPPCY,CP All Pub Co Ltd Unsponsored ADR (Thailand),U
 CPPKF,COPPERBANK RES CORP  Ordinary Shares,U
 CPPMF,Copper Mtn Mng Corp Common shares (Canada),U
+CPPRQ,OLD COPPER CO INC Common Stock,U
 CPPSF,Cassiopea SPA Ordinary Shares (Italy),U
 CPPTF,Circle Property Plc Shs (Jersey),U
 CPPXF,Continental Energy Corporation Ordinary Shares (Canada),U
@@ -1150,7 +1154,6 @@ DJUL,FT Cboe Vest U.S. Equity Deep Buffer ETF - July,BATS
 DJUN,FT Cboe Vest U.S. Equity Deep Buffer ETF - June,BATS
 DJXEF,"ISHARES STOXX EUR 600 HEALTH CARE DE, SHS HLDGS  (Germany)",U
 DJXMF,Dow Jones Stoxx Ish S Euro Mid 200 U Etf Exchange Traded Fund (Germany Federal Republic),U
-DJXSF,Ishares Stoxx Europe 600 Banks DE Shs Hldgs (Germany),U
 DJXXF,ISHARES STOXX EUROPE 600 UCITS ETF  Ordinary Shares,U
 DK,"Delek US Holdings, Inc.",NYSE
 DKAM,"Drinks Americas Holdings, Ltd.  Common Stock",U
@@ -1276,7 +1279,7 @@ DMZPY,DOMINOS PIZZA ENTERPRISES LTD  American Depositary Receipts - Unsponsored 
 DNACF,Dena Co Ltd Tokyo Ordinary Shares (Japan),U
 DNAG,"DNAPrint Genomics, Inc. Common Stock",U
 DNAT,Dna Medical Tecnologies Inc Common Stock,U
-DNAXD,"DNA Brands, Inc. Common Stock",U
+DNAX,"DNA Brands, Inc. Common Stock",U
 DNB,"Dun & Bradstreet Holdings, Inc.",NYSE
 DNBHF,DNB ASA Ordinary Shares,U
 DNCVF,Defiance Silver Corp. Ordinary Shares (Canada),U
@@ -1339,6 +1342,7 @@ DOLHF,Dolphin Capital Investors Ltd Reg  Shares (British Virgin Islands),U
 DOLLF,Dolly Varden Silver Corporation Common Shares,U
 DOMO,"Domo, Inc. Class B Common Stock",NASDAQ
 DOMR,Dominion Resources Black Warrior Trust Unit Ben Int,U
+DOMWF,DOMINION WTR RESVS CORP Common Shares,U
 DON,WisdomTree U.S. MidCap Dividend Fund,ARCA
 DONFF,Sphinx Resources Ltd  Common Shares,U
 DOO,WisdomTree international Dividend Ex-Financials Fund,ARCA
@@ -2258,6 +2262,7 @@ ENHD,Energroup Holdings Corporation New Common Stock,U
 ENHT,enherent Corp Common Stock,U
 ENIA,Enel Americas S.A. American Depositary Shares (Each representing 50 shares of Common Stock),NYSE
 ENIC,Enel Chile S.A. American Depositary Shares Representing Common Stock (Each representing 50 shares of,NYSE
+ENIHF,EAGLE NICE INTL HOLDINGS LTD Ordinary Shares,U
 ENJ,"Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052",NYSE
 ENJPF,En-Japan Inc Tokyo Common Stock,U
 ENJPY,EN-JAPAN INC ADR (Japan),U
@@ -2349,6 +2354,7 @@ EPGND,Epigenomics Ag Berlin American Depositary Receipts - Sponsored,U
 EPGNF,EPIGENOMICS AG Ordinary Shares,U
 EPGRQ,Environmental Power Corporation New Common Stock,U
 EPHE,iShares MSCI Philippines ETF,ARCA
+EPHYU,Epiphany Technology Acquisition Corp. Unit,NASDAQ
 EPI,WisdomTree India Earnings Fund ETF,ARCA
 EPIX,ESSA Pharma Inc. Common Stock,NASDAQ
 EPKAF,Epiroc Aktiebolag Ordinary Shares (Sweden),U
@@ -2651,7 +2657,6 @@ EUOT,Eurotech Ltd Common Stock,U
 EURI,AgriEuro Corp. Common Stock,U
 EURL,Direxion Daily FTSE Europe Bull 3x Shares,ARCA
 EURN,EURONAV NV,NYSE
-EURPF,PLANT & CO BRANDS LTD Common Shares,U
 EURZ,Xtrackers Eurozone Equity ETF,BATS
 EUSA,iShares MSCI USA Equal Weighted ETF,ARCA
 EUSB,iShares ESG Advanced Total USD Bond Market ETF,ARCA
@@ -4795,6 +4800,7 @@ GOCH,"Geeks On Call Holdings, Inc. Common Stock",U
 GOCO,"GoHealth, Inc. Class A Common Stock",NASDAQ
 GOCOF,Go Metals Corp Common Shares,U
 GODYF,"Deer Horn Capital, Inc. Ordinary Shares",U
+GODZF,GOLDHILLS HLDG LTD Ordinary Shares,U
 GOED,1847 Goedeker Inc.,AMEX
 GOEV,Canoo Inc. Class A Common Stock,NASDAQ
 GOEVW,Canoo Inc. Warrant,NASDAQ
@@ -4912,6 +4918,7 @@ GRBX,GreenBox POS Common Stock,U
 GRC,The Gorman-Rupp Company Common Shares,NYSE
 GRCAF,GOLD SPRINGS RESOURCE CORP Ordinary Shares,U
 GRCK,GREY CLOAK TECH INC Common Stock,U
+GRCL,Gracell Biotechnologies Inc. American Depositary Shares,NASDAQ
 GRCLF,Graincorp Limited Shs A Npv Ordinary Shares,U
 GRCO,Greenbelt Resources Corporation Common Stock,U
 GRCTF,GRACE TECHNOLOGY INC Ordinary Shares,U
@@ -5237,9 +5244,3 @@ GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U

@@ -1343,7 +1343,7 @@ APEX,APEX GLOBAL BRANDS INC Common Stock,U
 APG,APi Group Corporation,NYSE
 APGI,American Power Group Corp. Common Stock,U
 APGMF,Applied Graphene Matls PLC Ordinary Shares (United Kingdom),U
-APGOF,Apollo Gold Corporation Common Shares (Canada),U
+APGOF,Apollo Gold & Silver Corp Common Shares,U
 APH,Amphenol Corporation,NYSE
 APHA,Aphria Inc. Common Shares,NASDAQ
 APHE,Alpha Energy Inc  Common Stock,U
@@ -2443,6 +2443,7 @@ BCWG,BCW Group Hldg Inc Common Stock,U
 BCX,BLACKROCK RESOURCES & COMMODITIES STRATEGY TRUST,NYSE
 BCYC,Bicycle Therapeutics plc American Depositary Shares,NASDAQ
 BCYIF,Ishares Plc Ordinary Shares FTSE 100 Fund (Ireland),U
+BCYPU,Big Cypress Acquisition Corp. Unit,NASDAQ
 BDABF,Boule Diagnostics AB Ordinary Shares,U
 BDC,Belden Inc.,NYSE
 BDCM,"Broadcast Marketing Group, Inc. New Common Stock",U
@@ -2635,7 +2636,6 @@ BGRN,iShares Trust iShares Global Green Bond ETF,NASDAQ
 BGRP,Bluestem Group Inc. Common Stock,U
 BGS,"B&G Foods, Inc.",NYSE
 BGSF,BG Staffing Inc.,NYSE
-BGSHF,Shin Nippon Plc Baille Gifford Ordinary Shares,U
 BGSWF,Bergesen Worldwide Offshore Limited  Common Shares,U
 BGT,BlackRock Floating Rate Income Trust,NYSE
 BGUUF,Benguet Corp BC Ordinary Shares (Phillippines),U
@@ -2914,7 +2914,6 @@ BLJZY,Berli Jucker Pub Co Ltd Unsponsored ADR(Thailand),U
 BLK,"Blackrock, Inc.",NYSE
 BLKB,"Blackbaud, Inc. Common Stock",NASDAQ
 BLKCF,Global Gaming Technologies Corp. Ordinary Shares,U
-BLKG,Black Stallion Oil & Gas Inc. NEW Common Stock,U
 BLKIF,ISHARES IV PLC Healthcare Innovation UCITS ETF USD ACC (Ireland),U
 BLKLF,Blackline Safety Corp Ordinary Shares (Canada),U
 BLL,Ball Corporation,NYSE
@@ -3284,7 +3283,7 @@ BRKR,Bruker Corporation Common Stock,NASDAQ
 BRKS,"Brooks Automation, Inc.",NASDAQ
 BRKWF,Brickworks Ltd Ordinary Shares (Australia),U
 BRLAF,British Land Ord Gbp Ordinary Shares,U
-BRLGF,Founders Advantage Cap Corp Common Shares,U
+BRLGF,DOMINION LENDING CTRS INC Common Shares,U
 BRLI,Brilliant Acquisition Corporation Ordinary Shares,NASDAQ
 BRLIR,Brilliant Acquisition Corporation Rights,NASDAQ
 BRLIU,Brilliant Acquisition Corporation Unit,NASDAQ
@@ -3671,7 +3670,7 @@ BYSD,Bayside Corporation. Common Stock,U
 BYSI,BeyondSpring Inc. Ordinary Shares,NASDAQ
 BYYLF,Balyo SA Ordinary Shares (France),U
 BYZN,Byzen Digital Inc. Common Stock,U
-BZDLF,Kincora Copper Limited Common Shares,U
+BZDLD,Kincora Copper Limited Common Shares,U
 BZH,"Beazer Homes USA, Inc. New",NYSE
 BZIC,Beamz Interactive Inc Common Stock,U
 BZLFF,Bunzl Plc NEW Ordinary Shares (UK),U
@@ -4311,6 +4310,7 @@ CGEAF,Cogeco Communications Inc Common Shares,U
 CGECF,Cogeco Inc Sub Vtg Shs Ordinary Shares,U
 CGEGF,CGN NEW ENERGY HOLDINGS CO LTD Ord Shs (Bermuda),U
 CGEI,"CGE Energy, Inc. Common Stock",U
+CGEM,"Cullinan Management, Inc. Common Stock",NASDAQ
 CGEMY,Capgemini SE American Depositary Receipts - Unsponsored,U
 CGEN,Compugen Ltd. Ordinary Shares,NASDAQ
 CGFEF,CF Energy Corp Common Shares,U
@@ -4704,7 +4704,9 @@ CLCS,"Cell Source, Inc. Common Stock",U
 CLCT,"Collectors Universe, Inc.",NASDAQ
 CLDB,Cortland Bancorp Common Stock,NASDAQ
 CLDHF,Retail China Tr Ordinary Shares (Singapore),U
+CLDL,Direxion Daily Cloud Computing Bull 2X Shares,ARCA
 CLDR,"Cloudera, Inc.",NYSE
+CLDS,Direxion Daily Cloud Computing Bear 2X Shares,ARCA
 CLDT,CHATHAM LODGING TRUST,NYSE
 CLDX,"Celldex Therapeutics, Inc.",NASDAQ
 CLEGF,COLES GROUP LTD (Australia),U
@@ -4774,6 +4776,8 @@ CLOEF,Cloetta AB Shares -B- (Sweden),U
 CLOK,Cipherloc Corp. Common Stock,U
 CLOQ,"Cyberloq Technologies, Inc.  Common Stock",U
 CLOU,Global X Funds Global X Cloud Computing ETF,NASDAQ
+CLOV,"Clover Health Investments, Corp. Class A Common Stock",NASDAQ
+CLOVW,"Clover Health Investments, Corp. Warrants",NASDAQ
 CLOW,"Cloudweb, Inc. Common Stock",U
 CLPBF,Coloplast AS Ordinary Shares B (Denmark),U
 CLPBY,Coloplast AS American Depositary Receipts - Sponsored,U
@@ -5240,6 +5244,3 @@ COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ

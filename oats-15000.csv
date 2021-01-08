@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
+MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
 MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U
 MTPP,"Mountain Top Properties, Inc. Common Stock",U
 MTPR,Meta Power International Inc Common Stock New,U
@@ -517,6 +519,7 @@ NHCMF,Nhc Comm Ordinary Shares,U
 NHCZF,Nihon Chouzai Co Ltd Tokyo Ordinary Shares (Japan),U
 NHEL,Natural Health Farm Holdings Inc. Common Stock,U
 NHF,NexPoint Strategic Opportunities Fund,NYSE
+NHF PRA,NexPoint Strategic Opportunities Fund 5.50% Series A Cumulative Preferred Shares,NYSE
 NHFOF,Nh Food Ltd Common Shares,U
 NHGP,"New Horizon Group, Inc. Common Stock (Wyoming",U
 NHHEF,NH Hotel Group SA Ordinary Shares,U
@@ -1332,7 +1335,6 @@ OBYCF,Obayashi Corp Ordinary Shares,U
 OC,Owens Corning,NYSE
 OCA U,"Omnichannel Acquisition Corp. Units, each consisting of one share of Class A common stock and one-ha",NYSE
 OCANF,Oceanagold Corp Common (Canada),U
-OCBGD,"Revium Recovery, Inc. Common Stock",U
 OCBI,"Orange County Bancorp, Inc. Common Stock",U
 OCBM,Preferred Commerce Inc. Common Stock,U
 OCC,Optical Cable Corporation Common Stock,NASDAQ
@@ -1870,6 +1872,7 @@ PACRF,Pac Roots Cannabis Corp Common Stock (Canada),U
 PACV,Pacific Ventures Group Inc Common Stock,U
 PACW,PacWest Bancorp Common Stock,NASDAQ
 PACXF,"Pacton Gold, Inc.  Common Shares",U
+PACXU,Pioneer Merger Corp. Unit,NASDAQ
 PADEF,PT Adaro Eenrgy TBK Ordinary Shares (Indonesia),U
 PADHF,PT ADHI KARYA PERSERO TBK Ordinary Shares Indonesia(ID ),U
 PAE,PAE Incorporated Class A Common Stock,NASDAQ
@@ -1914,6 +1917,7 @@ PAOS,Amerinac Holding Corp. Common Stock,U
 PAOTF,Parrot Sa Ordinary Shares (France),U
 PAPA,"WO Group, Inc. Common Stock",U
 PAPR,Innovator S&P 500 Power Buffer ETF - April,BATS
+PAQCU,Provident Acquisition Corp. Units,NASDAQ
 PAQWF,Prime Acquisition Corp. Warrant   03/30/2021,U
 PAR,PAR Technology Corp.,NYSE
 PARD,"Poniard Pharmaceuticals, Inc. Common Stock",U
@@ -2176,7 +2180,6 @@ PEFDF,Defli Ltd. Ordinary Shares,U
 PEG,Public Service Enterprise Group Incorporated,NYSE
 PEGA,Pegasystems Inc. Common Stock,NASDAQ
 PEGHY,Pegasus Hava Tasimaciligi AS Unsponsored ADR (Turkey),U
-PEGIF,Pt Energi Mega Persada Tbk Ordinary Shares (Indonesia),U
 PEGIY,Pt Energi Mega Persada Tbk Unsponsored ADR (Indonesia),U
 PEGRF,Pennon Group plc Ordinary Shares (United Kingdom),U
 PEGRY,Pennon Group plc Unsponsored ADR (United Kingdom),U
@@ -2363,7 +2366,9 @@ PHGE WS,BiomX Inc. Warrants to purchase one-half of a share of Common Stock,AMEX
 PHGPY,Pets at Home Group PLC Unsponsored American Depository Receipt (United Kingdom),U
 PHGUF,Pharming Group Nv Leiden Ordinary Shares,U
 PHI,PLDT Inc.,NYSE
+PHIC,"Population Health Investment Co., Inc. Class A Ordinary Share",NASDAQ
 PHICU,"Population Health Investment Co., Inc. Unit",NASDAQ
+PHICW,"Population Health Investment Co., Inc. Warrant",NASDAQ
 PHIG,"PHI Group, Inc New Common Stock",U
 PHIGW,"PHI Group, Inc Creditor Warrant Exp 12/31/2044",U
 PHIL,"PHI GROUP, INC. Common Stock",U
@@ -2601,8 +2606,8 @@ PMEA,P.M.& E INC Common Stock,U
 PMEDF,Predictmedix Inc.  Ordinary Shares,U
 PMEHF,Primeline Energy Holdings Inc Ordinary Shares,U
 PMF,PIMCO MUNICIPAL INCOME FUND COMMON SHARES OF BENEFICIAL INTERST,NYSE
-PMFIF,PIMCO FIXED INCOME SOURCE ETFS PLC US SHORT TERM HIGH YIELD CORPORATE BD INDEX(Ireland),U
-PMFXF,PIMCO Fixed Income Source ETFs PLC Exchange Traded Fund (Ireland),U
+PMFIF,PIMCO ETFS PLC Exchange Traded Fund,U
+PMFXF,PIMCO ETFS PLC Exchange Traded Fund,U
 PMGMF,PLAY MAGNUS AS Ordinary Shares (Norway),U
 PMGYF,Perpetual Energy Inc. Common Shares,U
 PMHG,Prime Meridian Holding Co Common Shares,U
@@ -2612,7 +2617,7 @@ PML,PIMCO MUNICIPAL INCOME FUND II COMMON SHARES OF BENEFICIAL INT.,NYSE
 PMM,Putnam Managed Municipal Income,NYSE
 PMMAF,Puma Ag Rudolf Dassler Sport Ordinary Shares,U
 PMMBF,Pembina Pipeline Corp Cum Redeemable Minimum Rate Reset Cl A Pfd Shs Ser 21 (Canada),U
-PMMDF,Pimco Fixed Income Source ETFS Plc Part Shs Usd (Ireland),U
+PMMDF,PIMCO ETFS PLC Exchange Traded Fund,U
 PMMEF,Premium Expl Inc Common Shares (Canada),U
 PMMLY,Premium Leisure Corp Unsponsored ADR (Philippines),U
 PMMTF,Precious Metals & Mng TR TR Unit (Canada),U
@@ -2740,6 +2745,7 @@ POTTF,Buddy Technologies Ltd. Ordinary Shares,U
 POTX,Global X Funds Global X Cannabis ETF,NASDAQ
 POWI,"Power Integrations, Inc. Common Stock",NASDAQ
 POWL,"Powell Industries, Inc. Common Stock",NASDAQ
+POWRU,Powered Brands Units,NASDAQ
 POWW,"AMMO, Inc. Common Stock",NASDAQ
 POYN,"Po Yuen Cultural Holdings (Hong Kong) Co., Ltd. Common Stock",U
 POYYF,"Polymetal International PLC, St Helier Ordinary Shares (Jersey)",U
@@ -2836,7 +2842,6 @@ PRDSY,Prada Spa Unsponsored ADR (Italy),U
 PRE PRG,"PartnerRe Ltd.  6.50% Series G Cumulative Redeemable Preferred Shares, $1.00 par value",NYSE
 PRE PRH,"PartnerRe Ltd. 7.25% Series H Cumulative Redeemable Preferred Shares, $1.00 par value",NYSE
 PRE PRI,"PartnerRe Ltd.  5.875% Series I Non-Cumulative Redeemable Preferred Shares, $1.00 par value",NYSE
-PREA,"Pure Earth, Inc. Common Stock",U
 PREC,Prestige Cars International Common Stock,U
 PRED,"Predictive Technology Group, Inc. Common Stock",U
 PREF,Principal Spectrum Preferred Securities Active ETF,ARCA
@@ -3589,6 +3594,7 @@ RACMF,"Loop Insights, Inc. Common Shares",U
 RAD,Rite Aid Corporation,NYSE
 RADA,RADA Electronic Industries Ltd. Ordinary Shares,NASDAQ
 RADI,"Radius Global Infrastructure, Inc. Class A Common Stock",NASDAQ
+RADIW,Radius Global Infrastructure Inc Warrant Exp 2/10/2023,U
 RADLY,Raia Drogasil SA American Depositary Receipts - Sponsored (Brazil),U
 RADR,Radium Resources Corp Common Stock,U
 RAEWF,PIMA ZINC CORP Common Stock,U
@@ -4419,6 +4425,7 @@ RVNU,Xtrackers Municipal Infrastructure Revenue Bond ETF,ARCA
 RVP,"Retractable Technologies, Inc",AMEX
 RVPH,"Reviva Pharmaceuticals Holdings, Inc. Common Stock",NASDAQ
 RVPHW,"Reviva Pharmaceuticals Holdings, Inc. Warrants",NASDAQ
+RVRC,"Revium Recovery, Inc. Common Stock",U
 RVRF,River Financial Corp. Common Stock,U
 RVRKF,RAVEN ROCK STRATEGIC INCOME FD Unit (Canada),U
 RVRS,Reverse Cap Weighted US Large Cap ETF,BATS
@@ -5219,7 +5226,6 @@ SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
-SHKLF,Sinotruk Hong Kong Ltd Ordinary shares (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
@@ -5238,7 +5244,3 @@ SHMN,"SOHM, Inc. Common Stock",U
 SHMP,NaturalShrimp Incorporated Common Stock,U
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
-SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
-SHMZF,Shimadzu Corp Ordinary Shares,U
-SHNL,"Shentang International, Inc. Common Stock",U
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U

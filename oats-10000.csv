@@ -1,4 +1,10 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
@@ -292,7 +298,7 @@ HEWW,iShares Currency Hedged MSCI Mexico ETF,ARCA
 HEXEY,Hellenic Exchanges SA Holding Clearing Settlement and Registry Unsponsored ADR (Greece),U
 HEXO,HEXO Corp.,NYSE
 HEXPF,Huntington Exploration Inc Ordinary Shares,U
-HEYBD,FASTTASK TECHNOLOGIES INC Common Shares,U
+HEYBF,FASTTASK TECHNOLOGIES INC Common Shares,U
 HEZU,iShares Currency Hedged MSCI Eurozone ETF of ISHARES TRUST,ARCA
 HFAHF,Navigator Global Invts Ltd Ordinary Shares,U
 HFBA,HFB Financial Corporation Common Stock,U
@@ -1785,9 +1791,6 @@ IPMTW,IPAYMENT HLDGS INC-DEL Wt Pur Com Expiring 12/29/2022,U
 IPNFF,"ImagineAR, Inc. Common Shares",U
 IPO,Renaissance IPO ETF,ARCA
 IPOAF,Industrias Penoles Cl B Ser 2 Ordinary Shares,U
-IPOC,Social Capital Hedosophia Holdings Corp. III,NYSE
-IPOC U,"Social Capital Hedosophia Holdings Corp. III Units, each consisting of one Class A ordinary share an",NYSE
-IPOC WS,"Social Capital Hedosophia Holdings Corp. III Redeemable Warrants, each whole warrant exercisable for",NYSE
 IPOD,Social Capital Hedosophia Holdings Corp. IV,NYSE
 IPOD U,"Social Capital Hedosophia Holdings Corp. IV Units, each consisting of one Class A ordinary share and",NYSE
 IPOD WS,"Social Capital Hedosophia Holdings Corp. IV Redeemable Warrants, each whole warrant exercisable for",NYSE
@@ -2030,6 +2033,7 @@ ISVJF,Interserve PLC Ordinary Shares (United Kingdom),U
 ISVLF,Impact Silver Corp Ordinary Shares (Canada),U
 ISVPF,IShares VII PLC Accum Ptg Shs Exchange Traded Fund USD (Ireland),U
 ISVQF,Ishares IV Plc Short Duration Corp Bond UCITS USD Acc Exchange Traded Fund (Ireland),U
+ISVSF,ISHARES V PLC S&P 500 GBP-H Exchange Traded Fund,U
 ISVUF,ISHARES EDGE MSCI USA VALUE FACTOR UCITS Exchange Traded Fund  Ireland(IE ),U
 ISVVF,IShares V PLC MSCI ACWI UCITS ETF (Ireland),U
 ISWH,"ISW Holdings, Inc.  Common Stock",U
@@ -2317,7 +2321,6 @@ JBHT,"J.B. Hunt Transport Services, Inc. Common Stock",NASDAQ
 JBK,Lehman ABS Corp 3.50 Adj Corp Backed Tr Cert Goldman Cap I,NYSE
 JBL,Jabil Inc.,NYSE
 JBLU,JetBlue Airways Corporation Common Stock,NASDAQ
-JBPCF,Julius Baer Precious Metals Shs Holdings Klasse - A -,U
 JBSAY,JBS S.A. Sponsored ADR (Brazil),U
 JBSS,"John B. Sanfilippo & Son, Inc. Common Stock",NASDAQ
 JBT,John Bean Technologies Corporation,NYSE
@@ -2334,7 +2337,6 @@ JCICU,Jack Creek Investment Corp. Units,NASDAQ
 JCO,Nuveen Credit Opportunities 2022 Target Term Fund,NYSE
 JCOM,"j2 Global, Inc. Common Stock",NASDAQ
 JCPB,JPMorgan Core Plus Bond ETF,BATS
-JCPNQ,PENNEY J C CORP INC Common Stock,U
 JCQQ,APi Group Corporation Warrant,U
 JCRRF,JCR PHARMACEUTICALS CO LTD Ordinary Shares,U
 JCS,"Communications Systems, Inc. Common Stock",NASDAQ
@@ -2923,6 +2925,7 @@ KKUR,"Chromocure, Inc. Common Stock",U
 KKWFF,Koninklijke Boskalis Westminster N V Ordinary Shares  (Netherlands),U
 KL,Kirkland Lake Gold Ltd Ordinary,NYSE
 KLAC,KLA Corporation Common Stock,NASDAQ
+KLAQU,KL Acquisition Corp Unit,NASDAQ
 KLBAY,Klabin SA American Depositary Shares - Unsponsored,U
 KLCCY,KLOECKNER & CO SE American Depositary Receipts - Unsponsored (Germany),U
 KLCD,KFA Large Cap Quality Dividend Index ETF,ARCA
@@ -2973,7 +2976,7 @@ KMMPF,Killiam Apt Real Estate Invt Tr Unit (Canada),U
 KMMWF,Kew Media Group Inc Wt Expiring 07/25/2021 (Canada),U
 KMNCF,Kingsmen Creatives LTD Ordinary Shares (Singapore),U
 KMNNF,KMN Capital Ltd. Ordinary Shares (Israel),U
-KMPHD,KEMPHARM INC Common Stock,U
+KMPH,"KemPharm, Inc. Common Stock",NASDAQ
 KMPR,Kemper Corporation,NYSE
 KMRCF,Komori Corp Ordinary Shares,U
 KMRIF,KOMERI CO LTD Ordinary Shares,U
@@ -3464,9 +3467,6 @@ LEVI,Levi Strauss & Co. Class A Common Stock,NYSE
 LEVL,"Level One Bancorp, Inc. Common Stock",NASDAQ
 LEVLP,"Level One Bancorp, Inc. Depositary Shares, Each Representing a 1/100th Interest in a Share of 7.50% Non-Cumulative Perpetual Preferred Stock, Series B",NASDAQ
 LEYOF,Leyou Technologies Holdings Ltd Ordinary Shares (Cayman Islands),U
-LFAC,LF Capital Acquistion Corp. Class A Common Stock,NASDAQ
-LFACU,LF Capital Acquistion Corp. Unit,NASDAQ
-LFACW,LF Capital Acquistion Corp. Warrant,NASDAQ
 LFAP,"LGBTQ Loyalty Holdings, Inc. Common Stock",U
 LFBCF,Life Banc & Split Corp Common Cl A (Canada),U
 LFC,China Life Insurance Company Ltd.,NYSE
@@ -3549,6 +3549,7 @@ LGVW WS,"Longview Acquisition Corp. Redeemable Warrants, each whole warrant exer
 LGYRF,Landis & Gyr Group AG Namen AKT (Switzerland),U
 LGYV,LEGACY VENTURES INTL INC Common Stock,U
 LH,Laboratory Corporation of America Holdings,NYSE
+LHC U,"Leo Holdings Corp. II Units, each consisting of one Class A ordinary share and one-quarter of one re",NYSE
 LHCG,LHC Group Common Stock,NASDAQ
 LHGI,Lighthouse Global Holdings Inc. Common Stock,U
 LHHMQ,"Lehman Brothers Holdings, Inc. 6.00% Prefd Sec Srs M",U
@@ -3757,7 +3758,7 @@ LOMA,"Loma Negra Compania Industrial Argentina Sociedad Anonima American Deposit
 LOMLF,Lion One Metals Ltd. Ordinary Shares (Canada),U
 LONCF,Loncor Resources Inc. Ordinary Shares,U
 LONKF,Lonking Holdings Ltd Ordinary Shares (Cayman Islands),U
-LOOND,Loon Energy Corp. Common Shares,U
+LOONF,Loon Energy Corp. Common Shares,U
 LOOP,"Loop Industries, Inc. Common Stock",NASDAQ
 LOPE,"Grand Canyon Education, Inc. Common Stock",NASDAQ
 LOQPF,Accesso Technology Group Plc (United Kingdom),U
@@ -3838,6 +3839,8 @@ LSBK,"Lake Shore Bancorp, Inc. Common Stock",NASDAQ
 LSCC,Lattice Semiconductor Corporation Common Stock,NASDAQ
 LSCG,Lighting Science Group Corporation Common Stock,U
 LSDAF,Lassonde Inds Inc Cl A Ordinary Shares,U
+LSEA,Landsea Homes Corporation Common Stock,NASDAQ
+LSEAW,Landsea Homes Corporation Warrant,NASDAQ
 LSF,"Laird Superfood, Inc.",AMEX
 LSFG,"Lifestore Financial Group, Inc. Common Stock",U
 LSGOF,Land Securities Group Plc Common Shares,U
@@ -3855,7 +3858,6 @@ LSNVY,Lai Sun Dev Co Ltd American Depositary Receipts - Sponsored (Hong Kong),U
 LSPD,Lightspeed POS Inc.,NYSE
 LSRCF,Lasertec Corp Ordinary Shares (Japan),U
 LSRCY,Lasertec Corporation American Depositary Receipts - Unsponsored,U
-LSSDF,Radius Global Infrastructure Inc Warrant Exp 2/10/2023,U
 LSST,Natixis Loomis Sayles Short Duration Income ETF,ARCA
 LSTR,"Landstar System, Inc. Common Stock",NASDAQ
 LSTYF,Lifestyle China Group Ltd Ordinary Shares (Cayman Islands),U
@@ -3962,6 +3964,7 @@ LVWD,"LiveWorld, Inc. Common Stock",U
 LVYN,Lvyuan Green Building Material Technology Corp. Common Stock,U
 LVZPF,Livzon Pharmaceutical Group Inc Ordinary Shares (China),U
 LW,"Lamb Weston Holdings, Inc.",NYSE
+LWACU,Locust Walk Acquisition Corp. Unit,NASDAQ
 LWAY,"Lifeway Foods, Inc. Common Stock",NASDAQ
 LWCL,LEWIS & CLARK BANCORP Common Stock,U
 LWCTF,"LCTI Low Carbon Technologies, Inc. Shs (Canada)",U
@@ -4170,6 +4173,7 @@ MCA,"BLACKROCK MUNIYIELD CALIFORNIA QUALITY FUND, INC",NYSE
 MCAC,Mountain Crest Acquisition Corp. Common Stock,NASDAQ
 MCACR,Mountain Crest Acquisition Corp. Right,NASDAQ
 MCACU,Mountain Crest Acquisition Corp Unit,NASDAQ
+MCADU,Mountain Crest Acquisition Corp. II Unit,NASDAQ
 MCAP,"Mango Capital, Inc. Common Stock",U
 MCARY,Mercari Inc. American Depositary Receipts - Unsponsored   (Japan),U
 MCB,"Metropolitan Bank Holding Corp. Common Stock, $0.01 par value per share",NYSE
@@ -4439,6 +4443,7 @@ MFH,Mercurity Fintech Holding Inc. ADS,NASDAQ
 MFIN,Medallion Financial Corp. Common Stock,NASDAQ
 MFINL,Medallion Financial Corp. 9.000% Notes due 2021,NASDAQ
 MFL,BLACKROCK MUNIHOLDINGS INVESTMENT QUALITY FUND,NYSE
+MFLPF,MITSUI FUDOSAN LOGISTICS PK INC REIT,U
 MFM,MFS Municipal Income Trust Shares of Beneficial Interest,NYSE
 MFMLF,Marifil Mines Ltd Common Shares,U
 MFMS,MFAM Small-Cap Growth ETF,BATS
@@ -5160,7 +5165,6 @@ MSNI,"Mon Space Net, Inc. Common Stock",U
 MSNVF,Mission Ready Solutions Inc Ordinary Shares,U
 MSON,"MISONIX, Inc. Common Stock (DE)",NASDAQ
 MSOS,AdvisorShares Pure US Cannabis ETF,ARCA
-MSOVF,GOLDHILLS HLDG LTD Ordinary Shares,U
 MSP,Datto Holding Corp.,NYSE
 MSPAF,Mailup SPA Ordinary Shares (Italy),U
 MSPC,"Metrospaces, Inc. Common Stock",U
@@ -5240,5 +5244,3 @@ MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
 MTOR,"MERITOR, Inc.",NYSE
-MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
-MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U

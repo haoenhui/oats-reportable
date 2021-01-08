@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
+SHMZF,Shimadzu Corp Ordinary Shares,U
+SHNL,"Shentang International, Inc. Common Stock",U
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
 SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
@@ -864,7 +868,6 @@ SPRZ,"Spriza, Inc. Common Stock",U
 SPSAF,Sopra Sa Ordinary Shares (France),U
 SPSB,SPDR Portfolio Short Term Corporate Bond ETF,ARCA
 SPSC,"SPS Commerce, Inc. Common Stock",NASDAQ
-SPSJF,Sp Setia Berhad Ordinary Shares (Malaysia),U
 SPSK,SP Funds Dow Jones Global Sukuk ETF,ARCA
 SPSM,SPDR Portfolio S&P 600 Small Cap ETF,ARCA
 SPSO,"Spectacular Solar, Inc. Common Stock",U
@@ -1179,7 +1182,6 @@ STCO,StratoComm Corporation Common Stock,U
 STCPF,SELLA CAPITAL REAL ESTATED LTD Common Shares  Israel(IL ),U
 STCRQ,Seertech Corporation Common Stock,U
 STDAF,Stada Arzneimittel Ag Namen AKT (Germany Federal Republic),U
-STDAY,Stada Arzneimittel Ag Unsponsored ADR (Germany),U
 STDE,Standard Energy Corp Common Stock,U
 STE,STERIS plc,NYSE
 STECF,SCATEC ASA Ordinary Shares,U
@@ -1986,7 +1988,6 @@ TGILF,"Tiger International Resources, Inc. Ordinary Shares (Canada)",U
 TGKFY,Tongkah Harbour Public Co Ltd Sponsored ADR (Thailand),U
 TGLDF,TRILLIUM GOLD MINES INC Common Shares,U
 TGLO,"theglobe.com, inc. Common Stock",U
-TGLP,"Tongli Pharmaceuticals (USA), Inc. Common Stock",U
 TGLS,Tecnoglass Inc. Ordinary Shares,NASDAQ
 TGLTY,TGLT S.A. American Depositary Receipts - Sponsored,U
 TGLVY,Top Glove Corporation Berhad Sponsored ADR (Malaysia),U
@@ -2071,6 +2072,7 @@ THNVF,THANACHART CAPITAL PUBLIC CO  LTD Ordinary Shares  (Thailand),U
 THO,"Thor Industries, Inc.",NYSE
 THOGF,Toho Gas Co Ltd Ordinary Shares,U
 THOPF,Thai Oil Public Co Ltd NVDR Sh (Thailand),U
+THORF,"THOR MINING PLC, BUCKINGHAMSHIRE ORD GBP0.0001 (United Kingdom)",U
 THOXF,BIOPORTO A/S Ordinary Shares,U
 THPFF,Thai President Food Unit Non Voting Depository Receipt (Thailand),U
 THPHF,Thinkpath Inc. Ordinary Shares (Canada),U
@@ -2110,7 +2112,6 @@ TICJ,Tritent International Corp NEW Common Stock,U
 TIDE,Tidelands Oil & Gas Corporation Common Stock,U
 TIEMF,"Tiemco Co., Ltd. Ordinary Shares (Japan)",U
 TIEUF,THAI REINSURANCE PUBLIC CO LTD NVDR SHARES (Thailand0,U
-TIF,Tiffany & Co.,NYSE
 TIG,"Trean Insurance Group, Inc. Common Stock",NASDAQ
 TIGCF,Triumph Gold Corp Ordinary Shares,U
 TIGE,Tigrent Inc. Common Stock NEW,U
@@ -3438,7 +3439,7 @@ UUGWF,"United Utilities Group Plc, Warrington Ordinary Shares (UK)",U
 UUICF,United Urban Investment Corp Tokyo Ordinary Shares (Japan),U
 UUMTF,UMT UTD MOBILITY TECHNOLOGY AG UMT UTD MOB TECHN O N Ordinary Shares,U
 UUP,Invesco DB US Dollar Index Bullish Fund,ARCA
-UURAD,"Ucore Rare Metals, Inc. Common Shares",U
+UURAF,"Ucore Rare Metals, Inc. Common Shares",U
 UUU,"Universal Security Instruments, Inc.",AMEX
 UUUU,Energy Fuels Inc.,AMEX
 UUUU WS,Energy Fuels Inc.,AMEX
@@ -3633,6 +3634,7 @@ VG,Vonage Holdings Corp. Common Stock,NASDAQ
 VGAC,VG Acquisition Corp.,NYSE
 VGAC U,"VG Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redee",NYSE
 VGAC WS,"VG Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary sh",NYSE
+VGANF,PLANT & CO BRANDS LTD Common Shares,U
 VGAPF,Vanguard Australian Property Securities Index ETF Units (Australia),U
 VGDVF,VANGUARD FUNDS PLC FTSE DEVELOPED UCITS ETF USD (Ireland),U
 VGFPF,Vanguard Funds Plc S&P 500 UCITS Accum Usd Exchange Traded Fund (Ireland),U
@@ -4522,7 +4524,6 @@ WPRT,Westport Fuel Systems Inc Common Shares,NASDAQ
 WPS,iShares International Developed Property ETF,ARCA
 WPTIF,WPT Industrial Real Estate Investment Trust Ordinary Shares (Unit Trust) (Canada),U
 WPUR,"WaterPure International, Inc. Common Stock",U
-WPX,"WPX Energy, Inc.",NYSE
 WQNI,"WQN, Inc. Common Stock",U
 WQTEF,Weiqiao Textile Company Ltd Shs H (China),U
 WRAP,"Wrap Technologies, Inc. Common Stock",NASDAQ
