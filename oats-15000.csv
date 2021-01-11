@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
-MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
 MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U
 MTPP,"Mountain Top Properties, Inc. Common Stock",U
 MTPR,Meta Power International Inc Common Stock New,U
@@ -602,7 +600,6 @@ NIU,Niu Technologies American Depositary Shares,NASDAQ
 NIUWF,NSI NV  Ordinary Shares,U
 NJAN,Innovator Nasdaq-100 Power Buffer ETF - January,BATS
 NJDCY,Nidec Corporation American Depositary Receipts - Sponsored,U
-NJGPF,Nanjing Panda Electronics Company Limited Ordinary Shares (China),U
 NJMC,New Jersey Mining Company Common Stock,U
 NJMVF,NICHOLS PLC SHS (United Kingdom),U
 NJR,New Jersey Resources Corp,NYSE
@@ -4275,7 +4272,6 @@ RPNMF,Rapala Normark Corp Ordinary Shares,U
 RPNRF,RAPID NUTRITION PLC Ordinary Shares (United Kingdom),U
 RPRX,Royalty Pharma plc Class A Ordinary Shares,NASDAQ
 RPSGF,Rps Group Plc Ordinary Shares,U
-RPSOF,"REPSOL SA, MADRID DERECHOS Rights 01/08/2021",U
 RPT,RPT Realty Common Shares of Beneficial Interest (MD),NYSE
 RPT PRD,RPT Realty 7.25% Series D Cumulative Convertible Perpetual Preferred Shares of Beneficial Interest,NYSE
 RPTX,Repare Therapeutics Inc. Common Shares,NASDAQ
@@ -4384,7 +4380,9 @@ RTP,Reinvent Technology Partners,NYSE
 RTP U,"Reinvent Technology Partners Units, each consisting of one Class A ordinary share and one-fourth of",NYSE
 RTP WS,"Reinvent Technology Partners Redeemable Warrants, each whole warrant exercisable for one Class A ord",NYSE
 RTPPF,Rio Tinto Plc Ordinary Shares,U
+RTPZ,Reinvent Technology Partners Z,NYSE
 RTPZ U,"Reinvent Technology Partners Z Units, each consisting of one Class A ordinary share and one-fifth o",NYSE
+RTPZ WS,"Reinvent Technology Partners Z Redeemable warrants, each whole warrant exercisable for one Class A o",NYSE
 RTRK,Red Truck Entertainment Inc. Common Stock,U
 RTRZY,Rieter Holding AG Unsponsored ADR (Switzerland),U
 RTSL,"Rapid Therapeutic Science Laboratories, Inc. Common Stock",U
@@ -4559,7 +4557,6 @@ SAFT,"Safety Insurance Group, Inc. Common Stock",NASDAQ
 SAGD,South American Gold Corp. Common Stock,U
 SAGE,"Sage Therapeutics, Inc. Common Stock",NASDAQ
 SAGKF,Stagecoach Group Plc Ords Ordinary Shares (UK),U
-SAGN,Sagoon Inc. Class C Common Stock,U
 SAH,"Sonic Automotive, Inc.",NYSE
 SAHAF,SAHA PATHANAPIBUL PUBLIC CO LTD UNITS NON -VOTING DEPOSITORY RECEIPT (Thailand),U
 SAHN,"Saudi American Holdings, Corp. Common Stock",U
@@ -5244,3 +5241,5 @@ SHMN,"SOHM, Inc. Common Stock",U
 SHMP,NaturalShrimp Incorporated Common Stock,U
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
+SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
+SHMZF,Shimadzu Corp Ordinary Shares,U

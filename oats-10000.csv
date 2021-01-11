@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
@@ -467,7 +463,7 @@ HLHLY,Holmen AB American Depositary Receipts - Unsponsored Class B (Sweden),U
 HLI,"Houlihan Lokey, Inc.",NYSE
 HLIO,"Helios Technologies, Inc. Common Stock",NASDAQ
 HLIT,Harmonic Inc. Common Stock,NASDAQ
-HLIX,"Helix TCS, Inc. Common Stock",U
+HLIX,HELIX TECHNOLOGIES INC Common Stock,U
 HLKHF,Hella KGAA Hueck & Co Inhaber-Aktien O.N.,U
 HLLF,"Halal Financial Services, Inc. Common Stock",U
 HLLGY,Hella Gmbh & Co Kgaa American Depositary Receipts - Unsponsored,U
@@ -827,7 +823,7 @@ HTSF,"Heartsoft, Inc. Common Stock",U
 HTSLF,Hitachi Transport System Ltd. Ordinary Shares (Japan),U
 HTSUF,Hisamitsu Pharmaceutical Co Ltd Ordinary Shares (Japan),U
 HTSUY,Hisamitsu Pharmaceutical Co Inc American Depositary Receipts - Unsponsored (Japan),U
-HTTI,"Han Tang Technology, Inc. Common Stock",U
+HTTI,UAV CORP Common Stock,U
 HTTTF,HIT TECHNOLOGIES INC Ordinary Shares,U
 HTUS,Hull Tactical US ETF,ARCA
 HTWSF,Helios Towers PLC Ordinary Shares (United Kingdom),U
@@ -1183,7 +1179,6 @@ IDCBF,Industrial and Commercial Bank of China Ltd Hkd Shs -H- (China),U
 IDCBY,Industrial & Commercial Bank of China Ltd representing H shares Unsponsored ADR (China),U
 IDCC,"InterDigital, Inc. Common Stock",NASDAQ
 IDCN,Indocan Resources Inc Common Stock,U
-IDDR,"IDDriven, Inc. Common Stock",U
 IDDTF,Industrivarden Ab Ordinary Shares C (Sweden),U
 IDDWF,Indutrade AB Ordinary Shares (Sweden),U
 IDE,"VOYA INFRASTRUCTURE, INDUSTRIALS AND MATERIALS FUND",NYSE
@@ -1413,10 +1408,12 @@ IHTI,"Integrative Health Technologies, Inc. Common Stock",U
 IHVPF,Ishares VII Plc Treasury Bd 1-3yr Ucits Etf Fd B Usd Exchange Traded Fund (Ireland),U
 IHY,VanEck Vectors International High Yield Bond ETF,ARCA
 IHYF,Invesco Actively Managed Exchange-Traded Fund Trus Invesco High Yield Bond Factor ETF,NASDAQ
+IIAC,Investindustrial Acquisition Corp.,NYSE
 IIAC U,"Investindustrial Acquisition Corp. Units, each consisting of one Class A ordinary share and one-thir",NYSE
+IIAC WS,"Investindustrial Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class",NYSE
 IICN,"China Intelligence Information Systems, Inc. Common Stock",U
 IID,VOYA INTERNATIONAL HIGH DIVIDEND EQUITY INCOME FUND,NYSE
-IIDDY,Independence Group NL American Depositary Receipts - Sponsored (Australia),U
+IIDDY,IGO LTD American Depositary Receipts - Sponsored,U
 IIF,"Morgan Stanley India Investment Fund, Inc.",NYSE
 IIFIF,"Industrial & Infrastructure Fund Investment Corp., Tokyo Ordinary Shares (Japan)",U
 IIGD,Invesco Investment Grade Defensive ETF,ARCA
@@ -3209,6 +3206,7 @@ KUBTY,Kubota Corporation,U
 KUCPF,KURA CORPLTD SAKAI SHS (Japan),U
 KUKAF,Kuka Aktiensesellschaft Ordinary Shares (Germany),U
 KUKAY,Kuka Aktiengesellschaft Unsponsored ADR (Germany),U
+KUKE,"Kuke Music Holding Limited American Depositary Shares, each representing one Ordinary Share",NYSE
 KULR,"KULR Technology Group, Inc. Common Stock",U
 KUMBF,Kumba Iron Ore Ltd Ordinary Shares (South Africa),U
 KUNUF,Kunlun Energy Company Ltd Ordinary Shares (Bermuda),U
@@ -3830,7 +3828,7 @@ LRNZ,"TrueShares Technology, AI & Deep Learning ETF",ARCA
 LRSNF,Global Health Clinics Ltd Ordinary Shares,U
 LRSV,Link Reservations Inc. Common Stock,U
 LRTNF,"Pure Gold Mining, Inc. Ordinary Shares (Canada)",U
-LRTTD,Liberty One Lithium Corp. Ordinary Shares,U
+LRTTF,Liberty One Lithium Corp. Ordinary Shares,U
 LSAF,LeaderShares AlphaFactor US Core Equity ETF,ARCA
 LSANF,Los Andes Copper Limited Ordinary Shares,U
 LSAQ,LifeSci Acquisition II Corp. Common Stock,NASDAQ
@@ -4570,7 +4568,7 @@ MICFF,Mint Income Fund Tr Unit (Canada),U
 MICLF,Mycronic AB Ordinary Shares,U
 MICR,MICRON SOLUTIONS INC DEL Common Stock,U
 MICT,"MICT, Inc. Common Stock",NASDAQ
-MICWF,MICRON WASTE TECHNOLOGIES INC Common Stock,U
+MICWF,Micron Waste Technologies Inc. Common Stock (Canada),U
 MID,American Century Mid Cap Growth Impact ETF,ARCA
 MIDD,Middleby Corporation (The) Common Stock,NASDAQ
 MIDF,iShares MSCI USA Mid-Cap Multifactor ETF,ARCA
@@ -5244,3 +5242,5 @@ MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
 MTOR,"MERITOR, Inc.",NYSE
+MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
+MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U

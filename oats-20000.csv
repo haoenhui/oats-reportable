@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
-SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
@@ -914,6 +912,7 @@ SPYG,SPDR Portfolio S&P 500 Growth ETF,ARCA
 SPYR,"SPYR, Inc Common Stock",U
 SPYV,SPDR Portfolio S&P 500 Value ETF,ARCA
 SPYX,SPDR S&P 500 Fossil Fuel Free ETF,ARCA
+SPZI,Spooz Inc Common Stock,U
 SQ,"Square, Inc.",NYSE
 SQBG,"Sequential Brands Group, Inc. Common Stock",NASDAQ
 SQCC,Square Chain Corp. Common Stock,U
@@ -2110,6 +2109,7 @@ TIANF,Tianneng Power Internatioanl Limited Ordinary Shares (Cayman Islands),U
 TIAOF,Telecom Italia S.P.A. New Common Stock (Italy),U
 TICJ,Tritent International Corp NEW Common Stock,U
 TIDE,Tidelands Oil & Gas Corporation Common Stock,U
+TIEKF,TIE KINETIX N V (Netherlands),U
 TIEMF,"Tiemco Co., Ltd. Ordinary Shares (Japan)",U
 TIEUF,THAI REINSURANCE PUBLIC CO LTD NVDR SHARES (Thailand0,U
 TIG,"Trean Insurance Group, Inc. Common Stock",NASDAQ
@@ -2497,7 +2497,7 @@ TPIC,"TPI Composites, Inc. Common Stock",NASDAQ
 TPIF,Timothy Plan International ETF,ARCA
 TPII,"Triad Pro Innovators, Inc. Common Stock",U
 TPIL,"TPI International, Inc. Common Stock",U
-TPL,Texas Pacific Land Trust,NYSE
+TPL,Texas Pacific Land Corporation,NYSE
 TPLC,Timothy Plan US Large/Mid Cap Core ETF,ARCA
 TPLKF,Tepla AG Kirchheim Ordinary Shares (Germany),U
 TPLWF,Temple & Webster Group Ltd. Ordinary Shares (Australia),U
@@ -3698,7 +3698,7 @@ VIHD,VISION HYDROGEN CORPORATION Common Stock,U
 VIIAU,7GC & Co. Holdings Inc. Unit,NASDAQ
 VIIXF,Credit Suisse AG Nassau Brh VelocityShares VIX Short Term ETN 500,U
 VILGF,Yourgene Health PLC Ordinary Shares (United Kingdom),U
-VINC,"Vincera Pharma, Inc. Common Stock",NASDAQ
+VINC,"Vincerx Pharma, Inc. Common Stock",NASDAQ
 VINCU,"Vincera Pharma, Inc. Unit",NASDAQ
 VINCW,"Vincera Pharma, Inc. Warrant",NASDAQ
 VINO,"Gaucho Group Holdings, Inc. Common Stock",U
@@ -5177,7 +5177,7 @@ ZNNGY,Zhongyuan Bk Co Ltd American Depositary Receipts - Unsponsored,U
 ZNNMF,EEStor Corporation Common Shares,U
 ZNOG,ZION OIL & GAS INC Common Stock,U
 ZNOGF,ZOONO GROUP LTD Ordinary Shares Fully Paid ( Australia),U
-ZNOGW,ZION OIL & GAS INC Warrant   01/31/2021,U
+ZNOGW,ZION OIL & GAS INC Warrant Exp 01/21/2023,U
 ZNRG,"Znergy, Inc. Common Stock",U
 ZNRGF,Z Energy Ltd Ordinary Shares (New Zealand),U
 ZNTE,Zanite Acquisition Corp. Class A Common Stock,NASDAQ

@@ -127,7 +127,6 @@ CRBTF,INTELLABRIDGE TECHNOLOGY CORP Ordinary Shares,U
 CRC,California Resources Corporation,NYSE
 CRCA,Connecticut River Community Bank (CT) Common Stock,U
 CRCBY,Chongqing Rural Commercial Bank Co Ltd Unsponsored ADR (China),U
-CRCCY,CRRC Corporation Ltd. American Depositary Receipts - Unsponsored (China),U
 CRCQW,CALIFORNIA RES CORP WT EXP 10/27/2024,U
 CRCRF,CAR INC Ordinary Shares (Cayman Islands),U
 CRCUF,CANAGOLD RES LTD Common Shares,U
@@ -217,7 +216,6 @@ CRQZF,Crooz Inc Common Shares (Japan),U
 CRRDF,Cheetah Canyon Res Corp Ordinary Shares,U
 CRRFY,Carrefour S A (F) Sponsored ADR (France),U
 CRRLF,New Chorus Ordinary Shares (New Zealand),U
-CRRRF,CRRC CORP LTD Ordinary Shares (H) China,U
 CRRSQ,CORP RES SVCS INC Common Stock,U
 CRRTF,Crescita Therapeutics Inc Ordinary Shares (Canada),U
 CRRVF,CVR Med Corp Ordinary Shares (Canada),U
@@ -661,8 +659,6 @@ CWVWF,Lithoquest Resources Inc.  Ordinary Shares,U
 CWWBF,Cannabis Growth Opportunity Corp Ordinary Shares (Canada),U
 CWWGF,"Chaowei Power Holdings, Ltd Ordinary Shares (Cayman Islands)",U
 CWXZF,CanWel Building Materials Group Ltd Ordinary Shares (Canada),U
-CWYCF,China Railway Construction Corporation Ltd Shs H (China),U
-CWYCY,China Railway Construction Corporation Ltd Unsponsored ADR representing H Shares (China),U
 CWYUF,SmartCentres Real Estate Investment Trust Unit,U
 CX,Cemex S.A.B. de C.V.,NYSE
 CXBMF,Calibre Mining Corp Ordinary Shares,U
@@ -1631,7 +1627,7 @@ DWX,SPDR S&P International Dividend ETF,ARCA
 DX,"Dynex Capital, Inc.",NYSE
 DX PRB,"Dynex Capital, Inc. 7.625% Series B Cumulative Redeemable Preferred Stock",NYSE
 DX PRC,"Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NYSE
-DXAEF,Doxa Energy Ltd. Ordinary Shares (Canada),U
+DXAED,PROSTAR HLDGS INC CDA Common Shares,U
 DXBGY,Dexia SA Belgium American Depositary Receipts - Unsponsored,U
 DXBRF,BellRock Brands Inc Common Shares,U
 DXC,DXC Technology Company,NYSE
@@ -1786,7 +1782,6 @@ ECOL,"US Ecology, Inc Common Stock",NASDAQ
 ECOLW,"US Ecology, Inc. Warrant",NASDAQ
 ECOM,CHANNELADVISOR CORPORATION,NYSE
 ECON,Columbia Emerging Markets Consumer ETF,ARCA
-ECOP,Eco-Shift Power Corp. Common Stock,U
 ECOR,"electroCore, Inc. Common Stock",NASDAQ
 ECORF,Elcora Advanced Materials Corp. Ordinary Shares,U
 ECOS,ECOLOCAP SOLUTIONS INC Common Stock,U
@@ -2568,6 +2563,7 @@ ESTWF,"Estre Ambiental, Inc. Warrants",U
 ESVIF,Ensign Energy Services Inc. Ordinary Shares (Canada),U
 ESWW,"Environmental Solutions Worldwide, Inc. (NEW) Common Stock",U
 ESXB,Community Bankers Trust Corporation Common Stock (VA),NASDAQ
+ESXMF,ESSEX MINERALS INC COM NEW (Canada),U
 ESYJY,easyJet PLC Sponsored ADR (United Kingdom),U
 ESYL,Easylink Solutions Corp. Common Stock,U
 ESYYF,EASY SOFTWARE Ordinary Shares,U
@@ -3602,7 +3598,7 @@ FNMFM,Federal National Mortgage Association Preferred Series E,U
 FNMFN,Federal National Mortgage Association Pfd Ser O Var Rate,U
 FNMFO,Federal National Mortgage Association Pfd Conv Ser 2004-I 5.375%,U
 FNNCF,FINANCIAL FIFTEEN SPLIT CORP Ordinary Shares,U
-FNNGF,Fanlogic Interactive Inc Ordinary Shares (Canada),U
+FNNGD,HEALTH LOGIC INTERACTIVE INC Ordinary Shares,U
 FNNNF,Finnair OYJ AKT Ordinary Shares,U
 FNNTF,FLATEXDEGIRO AG Ordinary Shares,U
 FNNZF,Fincanna Capital Corp Common Stock,U
@@ -4130,7 +4126,7 @@ GASNF,NATURGY ENERGY GROUP S A Ordinary Shares,U
 GASNY,Naturgy Energy Group SA American Depositary Receipts - Unsponsored,U
 GASS,"StealthGas, Inc. Common Stock",NASDAQ
 GASXF,NG ENERGY INTL CORP Common Shares,U
-GATGD,Gatling expl inc Common Shares,U
+GATGF,Gatling expl inc Common Shares,U
 GATO,"Gatos Silver, Inc.",NYSE
 GATX,GATX Corporation,NYSE
 GAU,Galiano Gold Inc.,AMEX
@@ -5244,3 +5240,7 @@ GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
