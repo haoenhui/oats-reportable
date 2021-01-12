@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U
-MTPP,"Mountain Top Properties, Inc. Common Stock",U
 MTPR,Meta Power International Inc Common Stock New,U
 MTPTF,Motorpoint PLC Ordinary Shares (United Kingdom),U
 MTPVY,Metropole Television Unsponsored ADR (France),U
@@ -467,6 +465,7 @@ NG,NovaGold Resources Inc.,AMEX
 NGA,Northern Genesis Acquisition Corp.,NYSE
 NGA U,"Northern Genesis Acquisition Corp. Units, each consisting of one share of common stock and one-half",NYSE
 NGA WS,"Northern Genesis Acquisition Corp. Redeemable Warrants, each warrant exercisable for shares of commo",NYSE
+NGAB U,"Northern Genesis Acquisition Corp. II Units, each consisting of one share of common stock and one-th",NYSE
 NGAC,NextGen Acquisition Corporation Class A Ordinary Shares,NASDAQ
 NGACU,NextGen Acquisition Corporation Units,NASDAQ
 NGACW,NextGen Acquisition Corporation Warrants,NASDAQ
@@ -970,6 +969,7 @@ NSS,"NUSTAR LOGISTICS, L.P. 7.625% Fixed-to-Floating Rate Subordinated Notes due
 NSSC,"NAPCO Security Technologies, Inc. Common Stock",NASDAQ
 NSSXF,NS Solutions Corp Tokyo Ordinary Shares (Japan),U
 NSTG,"NanoString Technologies, Inc. Common Stock",NASDAQ
+NSTKF,Novatek Joint Stock Company Ordinary Shares (Russia),U
 NSTM,NovelStem International Corp. Common Stock,U
 NSTRY,Nostrum Oil & Gas PLC American Depositary Receipts - Unsponsored (United Kingdom),U
 NSTYY,NORTHERN STAR RES LTD  Sponsored ADR (Australia),U
@@ -1330,7 +1330,9 @@ OBTEF,Orbital Corporation Ltd  Ordinary Shares (Australia),U
 OBTX,Obitx Inc Common Stock,U
 OBYCF,Obayashi Corp Ordinary Shares,U
 OC,Owens Corning,NYSE
+OCA,Omnichannel Acquisition Corp.,NYSE
 OCA U,"Omnichannel Acquisition Corp. Units, each consisting of one share of Class A common stock and one-ha",NYSE
+OCA WS,"Omnichannel Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A comm",NYSE
 OCANF,Oceanagold Corp Common (Canada),U
 OCBI,"Orange County Bancorp, Inc. Common Stock",U
 OCBM,Preferred Commerce Inc. Common Stock,U
@@ -1871,7 +1873,6 @@ PACW,PacWest Bancorp Common Stock,NASDAQ
 PACXF,"Pacton Gold, Inc.  Common Shares",U
 PACXU,Pioneer Merger Corp. Unit,NASDAQ
 PADEF,PT Adaro Eenrgy TBK Ordinary Shares (Indonesia),U
-PADHF,PT ADHI KARYA PERSERO TBK Ordinary Shares Indonesia(ID ),U
 PAE,PAE Incorporated Class A Common Stock,NASDAQ
 PAEGF,"Peace Arch Entertainment Group Inc. Sub Voting Shares, Without Par Value",U
 PAEKY,Pt Aneka Tambang Unsponsored ADR (Indonesia),U
@@ -2034,7 +2035,6 @@ PCCOF,Paltac Corporation Osaka Shs (Japan),U
 PCCWY,PCCW Limited American Depositary Shares New,U
 PCCYF,Petrochina Company Limited Ordinary Shares,U
 PCDAF,Postmedia Network CDA Corp Common Shares,U
-PCDCF,PC Depot Corporation Yokohama Ordinary Shares (Japan),U
 PCDVF,Pacific Century Regional Developments Ltd Ordinary Shares,U
 PCEF,Invesco CEF Income Composite ETF,ARCA
 PCELF,Powercell Sweden AB Ordinary Shares (Sweden),U
@@ -2692,6 +2692,7 @@ PNRLY,PARINGA RES LTD American Depositary Receipts - Sponsored,U
 PNRXF,Porto Energy Corp. Ordinary Shares (Canada),U
 PNSAF,Pensana Rare Earths PLC Chess Depositary Interests (United Kingdom),U
 PNTG,"The Pennant Group, Inc. Common Stock",NASDAQ
+PNTM U,"Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeem",NYSE
 PNTOF,Pantoro Ltd. Ordinary Shares (Australia),U
 PNTZF,Trigon Metals Inc. Ordinary Shares,U
 PNW,Pinnacle West Capital Corporation,NYSE
@@ -2819,7 +2820,6 @@ PRA,ProAssurance Corporation,NYSE
 PRAA,"PRA Group, Inc. Common Stock",NASDAQ
 PRAC,Productivity Technologies Corp. Common Stock,U
 PRAH,"PRA Health Sciences, Inc. Common Stock",NASDAQ
-PRAKF,Perak Corp Bhd Ordinary Shares Malaysia(MY ),U
 PRAX,"Praxis Precision Medicines, Inc. Common Stock",NASDAQ
 PRBCF,Precise Biometrics AB Ordinary Shares,U
 PRBDF,Personal Group Holdings Ordinary Shares (United Kingdom),U
@@ -3458,6 +3458,7 @@ QKLS,"QKL Stores, Inc.",U
 QLC,FlexShares US Quality Large Cap Index Fund,BATS
 QLD,ProShares Ultra QQQ,ARCA
 QLGN,"Qualigen Therapeutics, Inc. Common Stock",NASDAQ
+QLI,Qilian International Holding Group Ltd. Ordinary Shares,NASDAQ
 QLIS,"Qualis Innovations, Inc. Common Stock",U
 QLS,IQ Hedge Long/Short Tracker ETF,ARCA
 QLTA,iShares Aaa - A Rated Corporate Bond ETF,ARCA
@@ -3844,7 +3845,6 @@ RES,"RPC, Inc.",NYSE
 RESCU,Rescap Liquidating Trust Units,U
 RESD,WisdomTree International ESG Fund,BATS
 RESE,WisdomTree Emerging Markets ESG Fund,BATS
-RESI,Front Yard Residential Corporation Common Stock,NYSE
 RESN,Resonant Inc. Common Stock,NASDAQ
 RESP,WisdomTree U.S. ESG Fund,ARCA
 RESS,"Renewable Energy Solution Systems, Inc. Common Stock",U
@@ -5243,3 +5243,6 @@ SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
+SHNL,"Shentang International, Inc. Common Stock",U
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
+SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U

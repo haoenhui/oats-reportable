@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
-GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
-GWON,Grandwon Corp. Common Stock,U
-GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
 GWPD,"GP Solutions, Inc. Common Stock",U
 GWPH,GW Pharmaceuticals Plc American Depositary Shares,NASDAQ
@@ -622,7 +617,6 @@ HOMZ,Hoya Capital Housing ETF,ARCA
 HON,"Honeywell International, Inc.",NYSE
 HONE,"HarborOne Bancorp, Inc. Common Stock",NASDAQ
 HONT,"Honat Bancorp, Inc. Common Stock",U
-HONYF,"Honyaku Center Inc, Osaka Ordinary Shares (Japan)",U
 HOOB,"Holobeam, Inc. Common Stock",U
 HOOK,HOOKIPA Pharma Inc. Common Stock,NASDAQ
 HOPE,"Hope Bancorp, Inc. Common Stock",NASDAQ
@@ -1619,9 +1613,11 @@ INDS,Pacer Benchmark Industrial Real Estate SCTR ETF,ARCA
 INDT,"INDUS Realty Trust, Inc. (MD) Common Stock",NASDAQ
 INDXF,Indus Holdings Inc Sub Voting Shares (Canada),U
 INDY,iShares India 50 ETF,NASDAQ
+INEOF,INEO Tech Corp Common Shares (Canada),U
 INFFF,Intact Financial Corp Preference Shares Class A Series 5 (Canada),U
 INFG,"Infinite Graphics, Inc. Common Stock",U
 INFI,"Infinity Pharmaceuticals, Inc. Common Stock",NASDAQ
+INFL,Horizon Kinetics Inflation Beneficiaries ETF,ARCA
 INFN,Infinera Corporation Common Stock,NASDAQ
 INFO,IHS Markit Ltd. Common Shares,NYSE
 INFR,Legg Mason ETF Investment Trust Legg Mason Global Infrastructure ETF,NASDAQ
@@ -2866,6 +2862,7 @@ KHOLY,Koc Holdings AS Unsponsored ADR (Turkey),U
 KHOTF,KAHOOT AS SHS (Norway),U
 KHRIF,Cypherpunk Hldgs Inc Common Shares,U
 KHRNF,Khiron Life Sciences Corp Common Stock,U
+KHRWF,Khiron Life Sciences Corp Warrant Exp 11/26/2025,U
 KHTRF,Knight Therapeutics Inc Common Shares (Canada),U
 KHZM,"Madison Ave Media, Inc.  Common Stock",U
 KIADF,KIADIS PHARMA N V Ordinary Shares (Netherlands),U
@@ -3464,6 +3461,8 @@ LEU,Centrus Energy Corp.,AMEX
 LEVI,Levi Strauss & Co. Class A Common Stock,NYSE
 LEVL,"Level One Bancorp, Inc. Common Stock",NASDAQ
 LEVLP,"Level One Bancorp, Inc. Depositary Shares, Each Representing a 1/100th Interest in a Share of 7.50% Non-Cumulative Perpetual Preferred Stock, Series B",NASDAQ
+LEXX,Lexaria Bioscience Corp. Common Stock,NASDAQ
+LEXXW,Lexaria Bioscience Corp. Warrant,NASDAQ
 LEYOF,Leyou Technologies Holdings Ltd Ordinary Shares (Cayman Islands),U
 LFAP,"LGBTQ Loyalty Holdings, Inc. Common Stock",U
 LFBCF,Life Banc & Split Corp Common Cl A (Canada),U
@@ -3983,7 +3982,6 @@ LXLLF,Eureka 93 Inc Ordinary Shares,U
 LXP,Lexington Realty Trust,NYSE
 LXP PRC,Lxngtn.Realty Trust 6.5% Ser. C Cum. Cnvrtbl.,NYSE
 LXRAW,Lxrandco Inc Warrant  06/09/2022 (Canada CA),U
-LXRP,Lexaria Bioscience Corp. Common Stock,U
 LXRRF,Luxor Industrial Corp Ordinary Shares,U
 LXRX,"Lexicon Pharmaceuticals, Inc. Common Stock",NASDAQ
 LXU,LSB INDUSTRIES INC,NYSE
@@ -4518,6 +4516,7 @@ MGRUF,Moreguard Real Estate Invt Trust Trust Unit,U
 MGTA,"Magenta Therapeutics, Inc. Common Stock",NASDAQ
 MGTC,Megatech Corporation Common Stock,U
 MGTI,MGT CAP INVTS INC Common Stock,U
+MGTTF,Megureit Israel Ltd Ordinary Shares (Israel),U
 MGTX,MeiraGTx Holdings plc Ordinary Shares,NASDAQ
 MGU,"Macquarie Global Infrastructure Total Return Fund, Inc.",NYSE
 MGUY,"Mogul Energy International, Inc. Common Stock",U
@@ -5138,6 +5137,7 @@ MSFKW,Morgan Stanley Fin LLC Call Warrants Based on Euro Stoxx 50 Index Expiring
 MSFN,Mainstreet Financial Corp. Common Stock,U
 MSFT,Microsoft Corporation Common Stock,NASDAQ
 MSGE,Madison Square Garden Entertainment Corp.,NYSE
+MSGM,Motorsport Games Inc. Class A Common Stock,NASDAQ
 MSGN,MSG Networks Inc.,NYSE
 MSGNF,Man Sang Intl Ltd Ordinary Shares (Bermuda),U
 MSGP,"MedSmart Group, Inc. Common Stock",U
@@ -5244,3 +5244,5 @@ MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
 MTOR,"MERITOR, Inc.",NYSE
 MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
 MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
+MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U
+MTPP,"Mountain Top Properties, Inc. Common Stock",U

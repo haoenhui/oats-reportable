@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ
-CPAI,Champion Pain Care Corporation Common Stock,U
-CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
@@ -500,7 +495,6 @@ CTXRW,"Citius Pharmaceuticals, Inc. Warrant",NASDAQ
 CTXS,"Citrix Systems, Inc. Common Stock",NASDAQ
 CTXV,"CTX Virtual Technologies, Inc. Common Stock",U
 CTXXF,Cematrix Corp Ordinary Shares (Canada),U
-CTYI,Centenary International Corp New Common Stock,U
 CTYO,CathayOnline Inc. Common Stock,U
 CTYP,"Community Bankers Corporation (Marion, PA) Common Stock",U
 CTYWY,Countrywide PLC American Depositary Receipts (Unsponsored)(United Kingdom),U
@@ -1175,6 +1169,7 @@ DLAD,"DealerAdvance, Inc. Common Stock New",U
 DLAKF,Deutsche Lufthansa A G Ord Ordinary Shares,U
 DLAKY,Deutsche Lufthansa A G Sponsored ADR (Germany),U
 DLB,"Dolby Laboratories, Inc.Class A",NYSE
+DLCAU,Deep Lake Capital Acquisition Corp. Unit,NASDAQ
 DLCR,Kibush Capital Corporation Common Stock,U
 DLDG,DLD Group Inc. Common Stock,U
 DLEGF,Delta Electronics Thailand Public Co Ltd Shares Foreign Registered (Thailand),U
@@ -1494,6 +1489,7 @@ DSX,"Diana Shipping, Inc.",NYSE
 DSX PRB,"DIANA SHIPPING INC 8.875% Series B Cumulative Redeemable Perpetual Preferred Shares, $0.01 par value",NYSE
 DSYOF,Daisyo Corp Ordinary Shares (Japan),U
 DT,"Dynatrace, Inc.",NYSE
+DTARF,Delta Res Ltd. Ordinary Shares,U
 DTATF,DATA 3 LTD ORDINARY FULLY PAID (Australia),U
 DTB,DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080,NYSE
 DTCGF,Dometic Group AB Ordinary Shares (Sweden),U
@@ -2147,7 +2143,6 @@ EMDF,"E Med Future, Inc. Common Stock",U
 EMDV,ProShares MSCI Emerging Markets Dividend Growers ETF,BATS
 EME,"EMCOR Group, Inc.",NYSE
 EMED,"Electromedical Technologies, Inc. Common Stock",U
-EMEPF,Empyrean Energy Plc Ordinary Shares (United Kingdom),U
 EMEXF,Emerald Plantation Holdings Ltd Ordinary Shares (Cayman Islands),U
 EMF,Templeton Emerging Markets Fund,NYSE
 EMFGF,Fluence Corp Ltd. Ordinary Shares,U
@@ -2240,6 +2235,7 @@ ENDTF,Canoe EIT Income Fund Units (Canada),U
 ENDV,"Endonovo Therapeutics, Inc. Common Stock",U
 ENEAY,Enea SA Unsponsored ADR (Poland),U
 ENEKF,ENEA AKTEIEBOLAG SHARE AK NEW (Sweden),U
+ENFAU,"890 5th Avenue Partners, Inc. Unit",NASDAQ
 ENFR,Alerian Energy Infrastructure ETF,ARCA
 ENG,ENGlobal Corporation Common Stock,NASDAQ
 ENGA,"Engage Mobility, Inc. Com",U
@@ -2987,6 +2983,7 @@ FCAFF,Firm Cap Apt REIT Unit (Canada),U
 FCAL,First Trust Exchange-Traded Fund III First Trust California Municipal High Income ETF,NASDAQ
 FCAP,"First Capital, Inc. Common Stock",NASDAQ
 FCAU,FIAT CHRYSLER AUTOMOBILES N.V.,NYSE
+FCAX U,"Fortress Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-fift",NYSE
 FCBBF,FINECOBANK BANCA FINECO SPA Ordinary Shares (Italy),U
 FCBC,"First Community Bankshares, Inc. (VA) Common Stock",NASDAQ
 FCBP,First Choice Bancorp Common Stock,NASDAQ
@@ -3212,7 +3209,7 @@ FGNV,Forge Innovation Dev Corp Common Stock,U
 FGOVF,"Freegold Ventures, Ltd. Ordinary Shares (Canada)",U
 FGPHF,First Graphene Ltd Ordinary Shares,U
 FGPPF,Frontier IP Group Plc Common Shares (United Kingdom),U
-FGPR,FERRELLGAS PARTNERS LP Unit,U
+FGPRQ,FERRELLGAS PARTNERS LP Unit,U
 FGRBF,Sa Fromageries Bel La Vache Qui Rit  Ordinary Shares (France),U
 FGROF,Firstgroup Plc Ordinary Shares,U
 FGROY,Firstgroup Plc Unsponsored ADR (UK),U
@@ -4701,7 +4698,7 @@ GMUAF,Gamuda Bhd Ordinary Shares (Malaysia),U
 GMVHF,ENTAIN PLC Ordinary Shares,U
 GMVHY,ENTAIN PLC American Depositary Receipts - Unsponsored,U
 GMVMF,"GMV Minerals, Inc. Ordinary Shares (Canada)",U
-GMVP,"Gridiron BioNutrients, Inc. Common Stock",U
+GMVPD,"Gridiron BioNutrients, Inc. Common Stock",U
 GMWKF,Games Workshop Grp Ord Uk Ordinary Shares,U
 GMXDF,Grupo Mexica Common Shares,U
 GMXTF,GMexico Transportes SAB de CV SHS of Financial Groups and Industrial Retail (Mexico),U
@@ -4811,7 +4808,6 @@ GOGY,Golden Grail Technology Corp Common Stock,U
 GOL,Gol Linhas Aereas Inteligentes S.A. American Depositary Shares (Each representing Ten Preferred Shar,NYSE
 GOLD,Barrick Gold Corp.,NYSE
 GOLF,Acushnet Holdings Corp.,NYSE
-GOLHF,Delta Res Ltd. Ordinary Shares,U
 GOLXF,GOLDEN LAKE EXPL INC Common Shares,U
 GOMRF,"Geomega Resources, Inc. Ordinary Shares (Canada)",U
 GOOD,Gladstone Commercial Corporation Real Estate Investment Trust,NASDAQ
@@ -4840,6 +4836,7 @@ GOVXW,"GeoVax Labs, Inc. Warrants",NASDAQ
 GOVZ,iShares 25+ Year Treasury STRIPS Bond ETF,BATS
 GP,GreenPower Motor Company Inc. Common Shares,NASDAQ
 GPACF,Geopacific Resources NL Ordinary Shares (Austrailia),U
+GPACU,Global Partner Acquisition Corp II Unit,NASDAQ
 GPAEF,Grupo Aeropuerto del Pacifico Sa De Cv Shares -B- (Mexico),U
 GPAGF,Gruma SAB de CV Gruma Shares -B- (Mexico),U
 GPBI,"Golden Pacific Bancorp, Inc. Common Stock",U
@@ -5244,3 +5241,8 @@ GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
+GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
+GWON,Grandwon Corp. Common Stock,U
+GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U

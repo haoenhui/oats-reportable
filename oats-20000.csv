@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHNL,"Shentang International, Inc. Common Stock",U
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
 SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
@@ -1264,6 +1261,7 @@ STPJF,Southern Pacific Resource Corp Ordinary Shares (Canada),U
 STPK,Star Peak Energy Transition Corp.,NYSE
 STPK U,"Star Peak Energy Transition Corp. Units, each consisting of one share of Class A common stock, and o",NYSE
 STPK WS,"Star Peak Energy Transition Corp. Warrants, each whole warrant exercisable for one share of Class A",NYSE
+STPRF,Stenprop Ltd Ordinary Shares (United Kingdom),U
 STPZ,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund,ARCA
 STQN,"Strategic Acquisitions, Inc. Common Stock",U
 STQNF,Strandline Res Ltd. Ordinary Shares (Australia),U
@@ -1483,6 +1481,7 @@ SWDBY,Swedbank AB Sponsored ADR (Sweden),U
 SWDHF,Skyworth Group Ltd Ordinary Shares,U
 SWDHY,Skyworth Group Limited American Depositary Receipts - Unsponsored,U
 SWEE,"SweeGen, Inc. Common Stock",U
+SWETU,Athlon Acquisition Corp. Unit,NASDAQ
 SWGAF,Swatch Group Ag (The) AKT (Switzerland) Ordinary Shares,U
 SWGAY,Swatch Group Ag (The) Unsponsored ADR (Switzerland),U
 SWGI,Star Wealth Group Inc. Common Stock,U
@@ -2843,6 +2842,7 @@ TTXTF,TEXHONG TEXTILE GROUP LIMITED Ordinary Shares,U
 TTYP,Trinity Petroleum Trust Cbi Common Stock,U
 TU,Telus Corporation,NYSE
 TUALF,Tuas Ltd. Ordinary Shares (Australia),U
+TUEM,Tuesday Morning Corp New Common Stock,U
 TUERF,TRUE NORTH COMMERICAL REIT (Canada),U
 TUFBY,Thai Union Group Public Company Limited American Depositary Receipts - Unsponsored,U
 TUFN,Tufin Software Technologies Ltd.,NYSE
@@ -3554,7 +3554,9 @@ VCTM,VICTORY COML MGMT INC Common Stock,U
 VCTR,"Victory Capital Holdings, Inc. Class A Common Stock",NASDAQ
 VCTY,"Videolocity International, Inc. Common Stock",U
 VCV,INVESCO  CALIFORNIA VALUE MUNI INCOME TRUST,NYSE
+VCVC,10X Capital Venture Acquisition Corp Class A Common Stock,NASDAQ
 VCVCU,10X Capital Venture Acquisition Corp Unit,NASDAQ
+VCVCW,10X Capital Venture Acquisition Corp Warrant,NASDAQ
 VCVOF,Vinacapital Vietnam Opportnty Fd Ltd Ordinary Shares,U
 VCYE,Velocity Energy Inc. Common Stock,U
 VCYT,"Veracyte, Inc. Common Stock",NASDAQ
@@ -3699,8 +3701,8 @@ VIIAU,7GC & Co. Holdings Inc. Unit,NASDAQ
 VIIXF,Credit Suisse AG Nassau Brh VelocityShares VIX Short Term ETN 500,U
 VILGF,Yourgene Health PLC Ordinary Shares (United Kingdom),U
 VINC,"Vincerx Pharma, Inc. Common Stock",NASDAQ
-VINCU,"Vincera Pharma, Inc. Unit",NASDAQ
-VINCW,"Vincera Pharma, Inc. Warrant",NASDAQ
+VINCU,"Vincerx Pharma, Inc. Unit",NASDAQ
+VINCW,"Vincerx Pharma, Inc. Warrant",NASDAQ
 VINO,"Gaucho Group Holdings, Inc. Common Stock",U
 VINS,Vindicator Silver-Lead Mng Common Stock,U
 VIOG,Vanguard S&P Small-Cap 600 Growth ETF,ARCA
@@ -3961,7 +3963,7 @@ VRSEF,"Verisante Technology, Inc.  Ordinary Shares (Canada)",U
 VRSK,"Verisk Analytics, Inc. Common Stock",NASDAQ
 VRSN,"VeriSign, Inc. Common Stock",NASDAQ
 VRSRF,Versarien PLC Ordinary Shares (United Kingdom),U
-VRSSD,Versus Sys Inc Common Stock,U
+VRSSF,Versus Sys Inc Common Stock,U
 VRSYF,VMS Rehab Systems Inc. Common Stock (Canada),U
 VRSZW,Verso Corp Wt Exp (07/15/2023),U
 VRT,Vertiv Holdings Co Class A Common Stock,NYSE

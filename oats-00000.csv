@@ -778,7 +778,7 @@ AIRR,First Trust Exchange-Traded Fund VI First Trust RBA American Industrial Ren
 AIRRF,"Aurion Resources, Ltd. Ordinary Shares (Canada)",U
 AIRT,"Air T, Inc. Common Stock",NASDAQ
 AIRTP,"Air T, Inc. Air T Funding Alpha Income Trust Preferred Securities",NASDAQ
-AIRTW,"Air T, Inc. Air T Funding Warrants to Purchase Alpha Income Trust Preferred Expiring 01/15/2021",NASDAQ
+AIRTW,"Air T, Inc. Air T Funding Warrants to Purchase Alpha Income Trust Preferred Expiring 08/30/2021",NASDAQ
 AIRYY,Air China Limited Sponsored ADR (China),U
 AISSF,AIS Res Ltd Ordinary Shares (Bahamas),U
 AIT,"Applied Industrial Technologies, Inc.",NYSE
@@ -1835,7 +1835,6 @@ ATLKF,Atlas Copco Aktiebolag Ordinary Shares,U
 ATLKY,Atlas Copco Ab Sponsored ADR repstg Class A,U
 ATLO,Ames National Corporation Common Stock,NASDAQ
 ATLS,"Atlas Energy Group, LLC",U
-ATLT,Atlas Technology International Inc Common Stock,U
 ATMH,ALL THINGS MOBILE ANALYTIC INC Common Stock,U
 ATMO,"AmericaTowne Holdings, Inc. Common Stock",U
 ATMP,iPath Select MLP ETN,BATS
@@ -2247,7 +2246,6 @@ BAK,Braskem S.A. American Depositary Shares (Each representing Two Class A  Pref
 BAKBF,Barkby Group Plc Ord GBP0.00860675675675676 (United Kingdom),U
 BAKPF,Global Oil & Gas Ltd. Ordinary Shares,U
 BAL,iPath Series B Bloomberg Cotton Subindex Total ReturnSM ETN,ARCA
-BALOF,Clere AG Ordinary Shares (Germany) Common Shares,U
 BALTF,Barclays Bk PLC iPath Bloomberg Cotton Subindex Total Return ETN due 06/24/2038 (United Kingdom),U
 BALY,Bally's Corporation,NYSE
 BAM,Brookfield Asset Management Inc,NYSE
@@ -4191,6 +4189,7 @@ CEPU,Central Puerto S.A. American Depositary Shares (each represents ten Common 
 CEQP,Crestwood Equity Partners LP,NYSE
 CEQP PR,Crestwood Equity Partners LP Preferred Units representing limited partner interests,NYSE
 CEQXF,Cequence Energy Ltd. Common Shares,U
+CERAF,Ceres Acquisition Corp Com Class A Shares (Canada),U
 CERC,Cerecor Inc. Common Stock,NASDAQ
 CERE,"Cerevel Therapeutics Holdings, Inc. Common Stock",NASDAQ
 CEREW,"Cerevel Therapeutics Holdings, Inc. Warrant",NASDAQ
@@ -4199,6 +4198,7 @@ CERN,Cerner Corporation Common Stock,NASDAQ
 CERPQ,"Cereplast, Inc. Common Stock",U
 CERS,Cerus Corporation Common Stock,NASDAQ
 CERT,"Certara, Inc. Common Stock",NASDAQ
+CERWF,Ceres Acquisition Corp Warrant Exp 03/03/2028 (Canada),U
 CERX,"Colombia Energy Resources, Inc. Common Stock",U
 CESDF,CES Energy Solutions Corp. Common Shares,U
 CESF,"CE Software, Inc. Common Stock",U
@@ -4363,7 +4363,6 @@ CGXEF,Cgx Energy Inc Ordinary Shares,U
 CGXYY,China Galaxy Securities Co Ltd Unsponsored ADR (China),U
 CGYG,China Longyi Group International Holdings Limited Common Stock,U
 CGYV,"China Energy Recovery, Inc. New Common Stock",U
-CHA,"China Telecom Corporation, LTD",NYSE
 CHAD,Direxion Daily CSI 300 China A Share Bear 1X Shares,ARCA
 CHAEF,CHINA AEROSPACE INTERNATIONAL HOLDINGS LTD SHS (Hong Kong),U
 CHAG,"Chancellor Group, Inc. Common Stock",U
@@ -4459,7 +4458,6 @@ CHKPQ,Chesapeake Energy Corporation 5.75% Preferred Shares,U
 CHKR,CHESAPEAKE GRANITE WASH TR Common Stock,U
 CHKVQ,Chesapeake Energy Corporation Cumulative Preferred 5.75% Convertible Series A,U
 CHKZQ,Chesapeake Energy Corporation 5.75% Convertible Preferred Shares- Series A,U
-CHL,China Mobile Limited,NYSE
 CHLE,Centennial Specialty Foods Corporation Common Stock,U
 CHLFF,Capital Holdings Fds PLC Accum Ptg Shs Class A USD (Ireland),U
 CHLLF,China Literature Ltd Ordinary Shares (Cayman Islands),U
@@ -4531,7 +4529,6 @@ CHTEF,CRCC High Tech Equipment Corp Ltd. Registered/Shares H (China),U
 CHTH,Cnl Healthcare Pptys Inc Common Stock,U
 CHTM,Chatham Corp Common Stock,U
 CHTR,"Charter Communications, Inc. Class A Common Stock New",NASDAQ
-CHU,China Unicom (HONG KONG) Limited,NYSE
 CHUAF,China Huarong Asset Management Co Ltd Ordinary Shares (China),U
 CHUC,"Charlie's Holdings, Inc. Common Stock",U
 CHUEF,Chubu Electric Power Ordinary Shares,U
@@ -5244,3 +5241,8 @@ COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
+CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAH,CounterPath Corporation Common Stock,NASDAQ
+CPAI,Champion Pain Care Corporation Common Stock,U
+CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
