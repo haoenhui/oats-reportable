@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
+GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
+GWON,Grandwon Corp. Common Stock,U
+GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
 GWPD,"GP Solutions, Inc. Common Stock",U
 GWPH,GW Pharmaceuticals Plc American Depositary Shares,NASDAQ
@@ -436,6 +440,7 @@ HKXCY,Hong Kong Exchanges & Clearing Ltd Unsponsored ADR (Hong Kong),U
 HL,Hecla Mining Company,NYSE
 HL PRB,Hecla Mining Company Series B Cumulative Convertible Preferred,NYSE
 HLAGF,Hapag-Lloyd Aktien Ordinary Shares,U
+HLAHU,"Hamilton Lane Alliance Holdings I, Inc. Unit",NASDAQ
 HLAL,Listed Funds Trust Wahed FTSE USA Shariah ETF,NASDAQ
 HLAN,Heartland Banccorp Common Stock,U
 HLBYL,Heron Lake Bioenergy LLC UNIT,U
@@ -693,7 +698,6 @@ HRGLF,"Hargreaves Lansdown PLC, Bristol Ordinary Shares (United Kingdom)",U
 HRGLY,"Hargreaves Lansdown PLC, Bristol Unsponsored American Depository Receipt (United Kingdom)",U
 HRI,Herc Holdings Inc.,NYSE
 HRIBF,Horiba Ltd Ordinary Shares (Japan),U
-HRKIF,HKR International Limited Ordinary Shares (Cayman Islands),U
 HRL,Hormel Foods Corporation,NYSE
 HRLDF,Heron Resources Limited HRR Ordinary Shares,U
 HRMY,"Harmony Biosciences Holdings, Inc. Common Stock",NASDAQ
@@ -727,7 +731,6 @@ HRZYF,Horizons Nat Gas Yield ETF Unit (Canada),U
 HRZZF,Horizons Active Global Divid ETF (Canada),U
 HSAQ,Health Sciences Acquisitions Corporation 2 Ordinary Shares,NASDAQ
 HSBC,HSBC Holdings PLC,NYSE
-HSBC PRA,"HSBC Holdings PLC, Inc. ADS(1/40 shr. 6.2% Non-Cum. Dlr. Pref. Shrs., Ser.A)",NYSE
 HSBI,"Heritage Southeast Bancorporation, Inc. Common Stock",U
 HSC,Harsco Corporation,NYSE
 HSCC,Homeland Security Corporation Common Stock,U
@@ -1135,7 +1138,7 @@ ICLD,INTERCLOUD SYS INC Common Stock,U
 ICLK,iClick Interactive Asia Group Limited American Depositary Shares,NASDAQ
 ICLN,iShares Global Clean Energy ETF,NASDAQ
 ICLR,ICON plc Ordinary Shares,NASDAQ
-ICLTF,Itasca Cap Ltd Ordinary Shares,U
+ICLTF,GreenFirst Forest Products Inc Ordinary Shares,U
 ICMB,"Investcorp Credit Management BDC, Inc. Common Stock",NASDAQ
 ICMNF,INVESCO MKTS PLC INVESCO COMMUNICATIONS S&P US SELECT SECTOR UCITS ETF ACC Exchange Traded Fund,U
 ICNAF,ICANIC BRANDS CO INC Ordinary Shares,U
@@ -2779,6 +2782,7 @@ KDIXF,Kenedix Residential Investment Corporation Ordinary Shares (Japan),U
 KDKCF,KODIAK COPPER CORP Ordinary Shares,U
 KDKGF,Klondike Gold Cp Ordinary Shares,U
 KDKN,"Kodiak Energy, Inc. Common Stock",U
+KDKWF,Kadokawa Dwanago Corp Ordinary Shares (Japan),U
 KDMN,"Kadmon Holdings, Inc. Common Stock",NASDAQ
 KDNY,"Chinook Therapeutics, Inc. Common Stock",NASDAQ
 KDOZF,Kidoz Inc Common Shares,U
@@ -3112,6 +3116,7 @@ KRMDF,Korian Medica SA Ordinary Shares (France),U
 KRMMF,"KINGROSE MINING LTD, APPLECROSS WA SHS (Australia)",U
 KRNGF,Karoon Gas Australia Ltd Ordinary Shares (Australia),U
 KRNGY,Karoon Gas Australia Ltd Unsponsored American Depository Receipt (Australia),U
+KRNIF,KRANESHARES ICAV KRANESHARES MSCI CHINA A SHARE UCITS ETF CLASS USD Exchange Traded Fund,U
 KRNNF,Krones Ag Akt. Shares (Germany),U
 KRNT,Kornit Digital Ltd. Ordinary Shares,NASDAQ
 KRNTY,Krones Ag ADR (Germany),U
@@ -3181,6 +3186,7 @@ KTEL,"KonaTel, Inc. Common Stock",U
 KTERF,Keio Corp Ordinary Shares Japan (JP),U
 KTF,DWS Municipal Income Trust,NYSE
 KTGDF,K2 Gold Corp Ordinary Shares (Canada),U
+KTGGF,K TIG LTD Ordinary Shares (Australia),U
 KTH,"Structured Products CorTS PECO Energy Cap Trust III, 8% Cert.",NYSE
 KTHAF,Krung Thai Bank Public Company Limited Units Non-Voting Depository Receipt (Thailand),U
 KTHGF,Kantone Holdings Ltd Ordinary Shares,U
@@ -3295,6 +3301,7 @@ LANC,Lancaster Colony Corporation Common Stock,NASDAQ
 LAND,Gladstone Land Corporation Common Stock,NASDAQ
 LANDO,Gladstone Land Corporation 6.00% Series B Cumulative Redeemable Preferred Stock,NASDAQ
 LANDP,Gladstone Land Corporation 6.375% Series A Cumulative Term Preferred Stock,NASDAQ
+LANPP,GLADSTONE LD CORP TERM PFD SER D % Preferred Stock,U
 LANZ,"Lancer Orthodontics, Inc. Common Stock",U
 LARAF,Laura Ashley Hldgs Plc Ord Ordinary Shares,U
 LAREF,LAR Espana Real Estate S A Ordinary Shares (Spain),U
@@ -4567,7 +4574,7 @@ MICFF,Mint Income Fund Tr Unit (Canada),U
 MICLF,Mycronic AB Ordinary Shares,U
 MICR,MICRON SOLUTIONS INC DEL Common Stock,U
 MICT,"MICT, Inc. Common Stock",NASDAQ
-MICWF,Micron Waste Technologies Inc. Common Stock (Canada),U
+MICWF,BEYOND MED TECHNOLOGIES INC Common Stock,U
 MID,American Century Mid Cap Growth Impact ETF,ARCA
 MIDD,Middleby Corporation (The) Common Stock,NASDAQ
 MIDF,iShares MSCI USA Mid-Cap Multifactor ETF,ARCA
@@ -5241,8 +5248,3 @@ MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
 MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
-MTOR,"MERITOR, Inc.",NYSE
-MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
-MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
-MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U
-MTPP,"Mountain Top Properties, Inc. Common Stock",U

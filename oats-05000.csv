@@ -1,4 +1,9 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAH,CounterPath Corporation Common Stock,NASDAQ
+CPAI,Champion Pain Care Corporation Common Stock,U
+CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
@@ -489,7 +494,6 @@ CTVZ,"China Travel Resort Holdings, Inc. Common Stock",U
 CTXAF,AMPOL LTD Ordinary Shares,U
 CTXAY,Ampol Ltd American Depositary Receipts - Unsponsored,U
 CTXDF,Cantex Mine Development Corp Ordinary Shares,U
-CTXIF,"China Linen Textile Industry, Ltd. Common Shares (Cayman Islands)",U
 CTXR,"Citius Pharmaceuticals, Inc. Common Stock",NASDAQ
 CTXRW,"Citius Pharmaceuticals, Inc. Warrant",NASDAQ
 CTXS,"Citrix Systems, Inc. Common Stock",NASDAQ
@@ -609,7 +613,7 @@ CWAFF,China Water Affairs Group Ltd Ordinary Shares (Bermuda),U
 CWB,SPDR Bloomberg Barclays Convertible Securities ETF,ARCA
 CWBC,Community West Bancshares Common Stock,NASDAQ
 CWBHF,Charlottes Web Hldgs Inc  (Canada) Common Shares,U
-CWBK,CommerceWest Bank Common Stock,U
+CWBK,CW Bancorp Common Stock,U
 CWBR,"CohBar, Inc. Common Stock",NASDAQ
 CWCHF,Cawachi Ltd Ordinary Shares (Japan),U
 CWCO,Consolidated Water Co. Ltd. Ordinary Shares,NASDAQ
@@ -1354,7 +1358,6 @@ DPDW,"Deep Down, Inc. Common Stock",U
 DPER,"Deep Earth Resources, Inc. Common Stock",U
 DPFD,"Deep Field Technologies, Inc. Class A Common Stock",U
 DPG,Duff & Phelps Utility and Infrastructure Fund Inc.,NYSE
-DPGYF,Delphi Energy Corp Common Shares,U
 DPHAY,Dechra Pharmaceuticals PLC ADR (United Kingdom),U
 DPLS,"DarkPulse, Inc. Common Stock",U
 DPMAY,Diploma Plc Unsponsored ADR (United Kingdom),U
@@ -1669,6 +1672,7 @@ EAATF,Earthworks Industries Inc Ordinary Shares,U
 EABPF,Energy Absolute Pub Co Ltd. Units Non-Voting Depositary Receipt (Thailand),U
 EACC,"eAutoclaims, Inc. Common Stock",U
 EACO,EACO Corporation Common Stock,U
+EACPU,Edify Acquisition Corp. Units,NASDAQ
 EACTF,Earth Alive Clean Technologies Inc Ordinary Shares (Canada),U
 EAD,Wells Fargo Income Opportunities Fund,AMEX
 EADSF,Airbus SE Ordinary Shares,U
@@ -2203,6 +2207,7 @@ EMSHF,Ems Chemie Holding AG Domat EMS Ordinary Shares (Switzerland),U
 EMSNF,EMMERSON PLC ORD NPV (Isle of Man),U
 EMSQF,Ishares IV PLC Edge MSCI USA Multifactor UCITS ETF (Ireland),U
 EMSWF,Ishares IV Plc Edge MSCI World Multifactor UCTIS Exchange Traded Fund (Ireland),U
+EMTKF,PT ELANG MAHKOTA TEKNOLOGI TBK Ordinary Shares (Indonesia),U
 EMTL,SPDR DoubleLine Emerging Markets Fixed Income ETF,BATS
 EMTY,ProShares Decline of the Retail Store ETF,ARCA
 EMX,EMX Royalty Corporation,AMEX
@@ -2394,7 +2399,7 @@ EQFN,Equitable Financial Corp. Common Stock,U
 EQGPF,Equitable Group Inc Ordinary Shares (Canada),U
 EQH,"Equitable Holdings, Inc.",NYSE
 EQH PRA,"Equitable Holdings, Inc. Depositary Shares, each representing a 1/1000th interest in a share of Fixe",NYSE
-EQHIL,EQUITABLE HLDGS INC DEP SHS REPSTG 1/1000TH PERP PFD SER C Depositary Shares,U
+EQH PRC,"Equitable Holdings, Inc. Depositary Shares, each representing a 1/1, 000th interest in a share of Fi",NYSE
 EQINY,Equiniti Group PLC,U
 EQIX,"Equinix, Inc. Common Stock REIT",NASDAQ
 EQKR,EQK Realty Investors I Common Stock,U
@@ -3264,6 +3269,7 @@ FILL,iShares MSCI Global Energy Producers ETF,ARCA
 FIND,"FindEx.com, Inc. Common Stock",U
 FINGF,Finning Intl Inc Ordinary Shares,U
 FINMF,Leonardo SPA Ordinary Shares,U
+FINMU,Marlin Technology Corporation Unit,NASDAQ
 FINMY,Leonardo S.P.A. American Depositary Receipts - Unsponsored,U
 FINN,"First National of Nebraska, Inc. Common Stock",U
 FINS,Angel Oak Financial Strategies Income Term Trust,NYSE
@@ -4182,6 +4188,7 @@ GBMRF,"GBM RESOURCES LTD, NEDLANDS WA Ordinary Shares",U
 GBMS,"Global Materials & Services, Inc. Common Stock",U
 GBNW,Global Energy Networks Corp. Common Stock,U
 GBNXF,"Gibson Energy, Inc. Common Shares (Canada)",U
+GBNY,"Generations Bancorp NY, Inc. Common Stock",NASDAQ
 GBOKF,Greenbrook TMS Inc Ordinary Shares (Canada),U
 GBOOF,Grupo Fin Banorte Ordinary Shares,U
 GBOOY,"Grupo Financiero Banorte, S.A.B. De C.V Sponsored ADR (Mexico)",U
@@ -5110,7 +5117,6 @@ GSUS,Goldman Sachs MarketBeta U.S. Equity ETF,BATS
 GSUXF,Golden Sun Mining Corp. Ordinary Shares (Canada),U
 GSV,Gold Standard Ventures Corp.,AMEX
 GSVI,"GSV, Inc. Common Stock",U
-GSWTF,Getswift Ltd. Ordinary Shares (Australia),U
 GSX,GSX Techedu Inc.,NYSE
 GSY,Invesco Ultra Short Duration ETF,ARCA
 GT,The Goodyear Tire & Rubber Company Common Stock,NASDAQ
@@ -5242,7 +5248,3 @@ GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
-GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
-GWON,Grandwon Corp. Common Stock,U
-GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U

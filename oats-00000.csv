@@ -310,7 +310,7 @@ ADBRF,ALDEBARAN RES INC Ordinary Shares (Canada),U
 ADC,Agree Realty Corporation,NYSE
 ADCOF,Adcore Inc Common Shares (Canada),U
 ADCT,ADC Therapeutics SA,NYSE
-ADCUF,ADS CRUDE CARRIERS LTD Ordinary Shares  Cyprus(CY ),U
+ADCUF,ADS CRUDE CARRIERS PLC Ordinary Shares  Cyprus(CY ),U
 ADCV,AD Capital U.S. Inc. New Common Stock,U
 ADDC,Addmaster Corp Common Stock,U
 ADDDF,adidas AG Ordinary Shares (Germany),U
@@ -530,6 +530,7 @@ AFOM,All For One Media Corp. Common Stock,U
 AFOVF,Australian Foundation Investment Co Ordinary Shares (Australia),U
 AFPW,Alumifuel Power Corp. Common Stock,U
 AFRAF,Air France KLM Ordinary Shares (France),U
+AFRM,"Affirm Holdings, Inc. Class A Common Stock",NASDAQ
 AFRMF,Alphaform Ag Ordinary Shares,U
 AFSIA,"Amtrust Financial Services, Inc. 6.75% Non-Cumulative Preferred Stock, Series A",U
 AFSIB,"AmTrust Financial Services, Inc. Depositary Shares, each Representing 1/40th of a Share of 7.25% Non Cumulative Preferred Stock, Series B",U
@@ -2531,6 +2532,7 @@ BELFA,Bel Fuse Inc. Class A Common Stock,NASDAQ
 BELFB,Bel Fuse Inc. Class B Common Stock,NASDAQ
 BELGF,"Bellevue Gold, Ltd Ordinary Shares  (Australia)",U
 BELLF,Belle International Holdings Limited Limited Ordinary shares (Cayman Islands),U
+BELMF,Belmont Resources Inc Common Shares (Canada),U
 BELP,BELPOINTE REIT INC Common Stock,U
 BELR,Bell Rose Capital Inc. Common Stock,U
 BEMG,Beta Music Group Inc. Common Stock,U
@@ -2620,6 +2622,7 @@ BGH,Barings Global Short Duration High Yield Fund,NYSE
 BGI,Birks Group Inc,AMEX
 BGII,"BGI, Inc. Common Stock",U
 BGIO,BlackRock 2022 Global Income Opportunity Trust,NYSE
+BGJTF,Baillie Gifford Japan Trust plc Ordinary Shares (United Kingdom),U
 BGKKF,Bangkok Bank Public Co Ltd Bangkok Bank Public Co Ltd BBL (Hong Kong),U
 BGLAF,Bangkok Life Assurance Ltd Units Non-Voting Depositary Receipts (Thailand),U
 BGLC,Bionexus Gene Lab Corp  Common Stock,U
@@ -2738,6 +2741,7 @@ BIP,Brookfield Infrastructure Partners L.P. Limited Partnership Units,NYSE
 BIP PRA,"Brookfield Infrastructure Partners L.P. 5.125% Class A Preferred Limited Partnership Units, Series 1",NYSE
 BIPAF,Brookfield Infrastructure Partners LP Pref Cum Ltd Partnership Unit Class A Ser (Bermuda),U
 BIPC,Brookfield Infrastructure Corporation Class A Subordinate Voting Shares,NYSE
+BIPFF,Brookfield Infrastructure Partners LP PFD LTD PARTNERSHIP UNIT CL A SER 14 Unit,U
 BIQIF,BIQI Intl Hldgs Cp Shs Common Shares,U
 BIRDF,Bird Construction Inc. Common Shares (Canada),U
 BIREF,Birchcliff Energy Ltd. New Ordinary Shares (Canada),U
@@ -3118,6 +3122,7 @@ BOAC WS,"Bluescape Opportunities Acquisition Corp. Redeemable warrants, each who
 BOALF,Boral Ltd  Ord Ordinary Shares,U
 BOALY,Boral Ltd  Ord American Depositary Shares,U
 BOARF,"Boart Longyear Ltd, Sydney NSW Ordinary Shares",U
+BOB,Merlyn.AI Best-of-Breed Core Momentum ETF,BATS
 BOCH,Bank of Commerce Holdings (CA) Common Stock,NASDAQ
 BOCOF,Bougainville Copper Ltd Ord Ordinary Shares,U
 BOCT,Innovator S&P 500 Buffer ETF - October,BATS
@@ -3199,7 +3204,7 @@ BPHLF,Bank of the Philippine Islands BPI Ordinary Shares,U
 BPHLY,Bank of the Philippine Islands BPI Unsponsored ADR (Philippines),U
 BPHMF,BIOFERMIN PHARMACEUTICAL CO LTD SHS,U
 BPIGF,"BPI Energy Holdings, Inc. Ordinary Shares (Canada)",U
-BPIRF,Piraeus Bank SA Ordinary Shares,U
+BPIRF,PIRAEUS FINL HLDGS S A Ordinary Shares,U
 BPIRY,Piraeus Bank SA American Depositary Receipts - Sponsored,U
 BPLNF,AMERICAN RARE EARTHS LTD Ordinary Shares,U
 BPMC,Blueprint Medicines Corporation Common Stock,NASDAQ
@@ -3501,6 +3506,8 @@ BTOOY,B2W - Companhia Digital Sponsored GDR Reg S (Brazil),U
 BTOW,Belltower Entertainment Corp.  Common Stock,U
 BTPNF,BANK BTPN TBK PT Ordinary Shares  Indonesia(ID ),U
 BTQNF,"BQE Water, Inc. Common Shares",U
+BTRS,BTRS Holdings Inc. Class 1 Common Stock,NASDAQ
+BTRSW,BTRS Holdings Inc. Warrants,NASDAQ
 BTRYF,BATTERY MINERALS LTD SHS (Australia),U
 BTSC,"Bitcoin Services, Inc. Common Stock",U
 BTSDF,Health & Happiness International Holdings Ltd.  Ordinary Shares,U
@@ -4745,6 +4752,7 @@ CLKXF,TWC Enterprises Ltd.  Ordinary Shares (Canada),U
 CLLA,Clayton & Lambert Mfg Co Common Stock,U
 CLLDF,Capitaland Ltd Ordinary Shares (Singapore),U
 CLLDY,Capitaland Ltd Sponsored American Depositary Shares,U
+CLLEF,CHALLENGER ENERGY LTD Ordinary Shares,U
 CLLFF,Collins Foods Ltd Newmarket Qld Ordinary Shares (Australia),U
 CLLIF,CELL IMPACT AB PUBL SHARE AK B (Sweden),U
 CLLKF,Cellink AB Shares AK B (Sweden),U
@@ -5241,8 +5249,3 @@ COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ
-CPAI,Champion Pain Care Corporation Common Stock,U
-CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U

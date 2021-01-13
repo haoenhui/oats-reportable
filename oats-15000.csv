@@ -1,4 +1,9 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTOR,"MERITOR, Inc.",NYSE
+MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
+MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
+MTPOY,Metropolitan Bank & Trust Co MBTC Unsponsored ADR (Philippines),U
+MTPP,"Mountain Top Properties, Inc. Common Stock",U
 MTPR,Meta Power International Inc Common Stock New,U
 MTPTF,Motorpoint PLC Ordinary Shares (United Kingdom),U
 MTPVY,Metropole Television Unsponsored ADR (France),U
@@ -794,6 +799,7 @@ NOVC,"Novation Companies, Inc. Common Stock",U
 NOVKY,Novatek JT STK Co Sponsored GDR Reg S (Russia),U
 NOVN,"Novan, Inc. Common Stock",NASDAQ
 NOVNW,"Novan, Inc  Warrant 01/09/2022",U
+NOVRF,NOVA RTY CORP Common Shares,U
 NOVS,Novus Capital Corporation Common Stock,NASDAQ
 NOVSU,Novus Capital Corporation Units,NASDAQ
 NOVSW,Novus Capital Corporation Warrants,NASDAQ
@@ -1098,7 +1104,6 @@ NUVSF,Nuvista Energy Ltd Ordinary Shares (Canada),U
 NUW,Nuveen AMT-Free Municipal Value Fund,NYSE
 NUZE,"NuZee, Inc. Common Stock",NASDAQ
 NVAAF,Nova Minerals Ltd. Ordinary Shares,U
-NVARF,NOVA RTY CORP Common Shares,U
 NVAX,"Novavax, Inc. Common Stock",NASDAQ
 NVCN,Neovasc Inc. Common Shares,NASDAQ
 NVCP,NVCN Corporation Common Stock,U
@@ -1185,7 +1190,7 @@ NWPN,Now Corporation (The) Common Stock,U
 NWPP,"New Peoples Bankshares, Inc Common Stock",U
 NWPX,Northwest Pipe Company Common Stock,NASDAQ
 NWQZF,BEST PAC INTL HLDGS LTD Ordinary Shares (Cayman Islands),U
-NWRCF,NORTHWAY RES CORP Common Stock,U
+NWRCD,KENORLAND MINERALS LTD NEW Common Stock,U
 NWRLY,New World Department Store China Ltd. Unsponsored ADR (Cayman Islands),U
 NWS,News Corporation Class B Common Stock,NASDAQ
 NWSA,News Corporation Class A Common Stock,NASDAQ
@@ -1447,6 +1452,7 @@ OIEXF,Oilex Ltd Ordinary Shares (Australia),U
 OIGLF,"Chariot Oil & Gas Limited, St. Peter Port SHS (Guernsey)",U
 OIH,VanEck Vectors Oil Services ETF,ARCA
 OII,Oceaneering International Inc.,NYSE
+OIIIF,O3 Mining Inc Common Shares (Canada),U
 OIIM,O2Micro International Limited American Depositary Shares,NASDAQ
 OIL,iPath Pure Beta Crude Oil ETN,ARCA
 OILCF,Permex Petroleum Corporation Common Shares (Canada),U
@@ -1513,6 +1519,7 @@ OMFL,Invesco Russell 1000 Dynamic Multifactor ETF,BATS
 OMFS,Invesco Russell 2000 Dynamic Multifactor ETF,BATS
 OMGGF,OMAI GOLD MINES CORP Common Shares (Canada),U
 OMHE,Omni Health Inc Common Stock,U
+OMHI,"OM HOLDINGS INTERNATIONAL, INC. Common Stock",U
 OMHLF,OM Holdings Limited Ordinary Shares (Bermuda),U
 OMI,"Owens & Minor, Inc.",NYSE
 OMID,OMID HLDGS INC Common Stock,U
@@ -1563,6 +1570,7 @@ ONLN,ProShares Online Retail ETF,ARCA
 ONLPF,ON-LINE PLC Ordinary Shares,U
 ONMBF,Onamba Co Ltd Ordinary Shares (Japan),U
 ONMKF,Onemarket Ltd Common Stock,U
+ONOF,Global X Adaptive U.S. Risk Management ETF,ARCA
 ONOV,CASTELLUM INC Common Stock,U
 ONPH,"Oncology Pharma, Inc. Common Stock",U
 ONPPF,ONCOPEPTIDES AB Ordinary Shares,U
@@ -1641,7 +1649,6 @@ OPXXW,Optex Sys Hldgs Warrants Expiring 08/26/2021,U
 OPY,"Oppenheimer Holdings, Inc.",NYSE
 OPYGY,PJSC Polyus American Depositary Receipts - Sponsored,U
 OQLGF,"Olympique Lyonnais Groupe, Lyon Shs Nom (France)",U
-OQMGF,O3 Mining Inc Common Shares (Canada),U
 OR,Osisko Gold Royalties Ltd,NYSE
 ORA,"Ormat Technologies, Inc.",NYSE
 ORAGF,Monarca Minerals Inc Common Shares,U
@@ -2154,7 +2161,6 @@ PDTTF,Preferred Dental Technologies Inc Ordinary Shares (Canada),U
 PDXP,"PDX Partners, Inc. Common Stock",U
 PDYPF,Flutter Entertainment PLC Ordinary Shares,U
 PDYPY,Flutter Entmt Plc American Depositary Receipts - Unsponsored,U
-PE,PARSLEY ENERGY INC,NYSE
 PEAK,"Healthpeak Properties, Inc.",NYSE
 PEB,Pebblebrook Hotel Trust,NYSE
 PEB PRC,Pebblebrook Hotel Trust 6.50% Series C,NYSE
@@ -2735,7 +2741,6 @@ PORSY,Porto Seguro SA American Depositary Receipts - Unsponsored,U
 POSAF,Posabit Systems Corporation Common Shares (Canada),U
 POSC,POSITRON CORP Common Stock,U
 POST,"POST HOLDINGS, INC.",NYSE
-POTGD,"OM HOLDINGS INTERNATIONAL, INC. Common Stock",U
 POTMF,PORTMEIRION POTTERIES HOLDINGS PLC Shs (United Kingdom),U
 POTN,"Potnetwork Holdings, Inc. Common Stock",U
 POTRF,SOPerior Fertilizer Corp Common Shares,U
@@ -3720,7 +3725,7 @@ RCRUY,Recruit Holdings Co. Ltd. American Depositary Receipts - Unsponsored,U
 RCS,"PIMCO STRATEGIC INCOME FUND, INC.",NYSE
 RCTC,Ready Credit Corporation Common Stock,U
 RCTFF,Rochester Resources Ltd Ordinary Shares,U
-RCTRF,"Arctic Hunter Energy, Inc. Ordinary Shares",U
+RCTRF,Trans Canada Gold Corp.  Ordinary Shares,U
 RCTUF,Reef Casino Trust Units (Australia),U
 RCTY,"Rocket City Enterprises, Inc.  Common Stock",U
 RCUS,"Arcus Biosciences, Inc.",NYSE
@@ -4716,7 +4721,6 @@ SC,SANTANDER CONSUMER USA HOLDINGS INC,NYSE
 SCA,Stellus Capital Investment Corporation 5.75% Notes due 2022,NYSE
 SCAL,Stem Cell Authority Ltd. Common Stock,U
 SCANF,Scandi STD AB Ordinary Shares (Sweden),U
-SCAY,Seneca-Cayuga Bancorp Inc Common Stock (New York),U
 SCBFF,Standard Chartered Plc Ordinary Shares,U
 SCBFY,Standard Chartered PLC Unsponsored ADR (United Kingdom),U
 SCBGF,SIG COMBIBLOC GROUP AG NAMEN AKT (Switzerland),U
@@ -5213,7 +5217,7 @@ SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
-SHGY,SearchGuy.com Inc. Common Stock,U
+SHGYD,SearchGuy.com Inc. Common Stock,U
 SHHPF,Ship Healthcare Holdings Inc Ordinary Shares (Japan),U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
@@ -5244,5 +5248,3 @@ SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
