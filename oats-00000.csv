@@ -89,7 +89,6 @@ ABCZF,Abcam PLC Ordinary Shares (United Kingdom),U
 ABDBY,ALM BRAND A/S ADR (Denmark),U
 ABDDF,Ab Dynamics PLC Ordinary Shares (United Kingdom),U
 ABDR,Ambassador Food Services Corporation New Common Stock,U
-ABEC,Analytica Bio-Energy Corp. Common Stock,U
 ABENU,Advanced Bioenergy LLC Membership Unit,U
 ABEO,Abeona Therapeutics Inc. Common Stock,NASDAQ
 ABEPF,Vision Lithium Inc Ordinary Shares,U
@@ -398,6 +397,7 @@ ADVOF,Adva Optical Networking SE Ordinary Shares (Germany),U
 ADVT,Advantis Corporation Common Stock,U
 ADVV,Adveco Group Inc Common Stock,U
 ADVWW,Advantage Solutions Inc. Warrant,NASDAQ
+ADVYF,ADVERTY AB SHARE AK (Sweden),U
 ADVZF,Adventus Mng Corp Common Shares,U
 ADWPF,Andrew Peller Ltd Class A Ordinary Shares (Canada),U
 ADX,"Adams Diversified Equity Fund, Inc",NYSE
@@ -411,6 +411,7 @@ ADYYF,Adyen N.V. Ordinary Shares (Netherlands),U
 ADZCF,DB AGRIC SHORT EXCHANGE TRADED NT due 04/01/2038,U
 ADZZF,"Advance Residence Investment Corporation New, Tokyo Ordinary Shares (Japan)",U
 AE,Adams Resources & Energy Inc.,AMEX
+AEACU,Authentic Equity Acquisition Corp. Unit,NASDAQ
 AEB,AEGON N.V. 5.29964% Floating Rate Perpetual Capital Securities,NYSE
 AEBZY,Anadolu Efes Biracilik Ve Malt Sanayi AS Sponsored ADR Reg S (Turkey),U
 AECFF,Action Energy Inc Ordinary Shares (Canada),U
@@ -489,7 +490,6 @@ AFC,Allied Capital Corporation,NYSE
 AFCJF,AFC Ajax NV Amsterdam Ordinary Shares (Netherlands),U
 AFCL,Amcor Financial Corp Common Stock,U
 AFDG,"African Discovery Group, Inc. Common Stock",U
-AFDVF,AFI Development PLC SHS SERIES B (Cyprus),U
 AFFG,AFF Holding Group Inc. Common Stock,U
 AFFHW,AFFINION GROUP HLDGS INC Warrant,U
 AFFL,Affiliated Resources Corporation Common Stock,U
@@ -729,7 +729,6 @@ AIFM,"AIFarm, Ltd. Common Stock",U
 AIFS,"Agent Information Software, Inc. Common Stock",U
 AIG,"American International Group, Inc.",NYSE
 AIG PRA,"American International Group, Inc. Depositary Shares Each Representing a 1/1,000th Interest in a Sha",NYSE
-AIG WS,"American International Group, Inc.",NYSE
 AIGI,"Artistmss International Group, Inc. Common Stock",U
 AIH,Aesthetic Medical International Holdings Group Ltd. American Depositary Shares,NASDAQ
 AIHLF,Adcock Ingram Holdings Limited Ordinary shares (South Africa),U
@@ -2001,6 +2000,7 @@ AVGG,"Advanced Technologies Group, Ltd. Common Stock",U
 AVGO,Broadcom Inc. Common Stock,NASDAQ
 AVGOP,"Broadcom Inc. 8.00% Mandatory Convertible Preferred Stock, Series A",NASDAQ
 AVGR,"Avinger, Inc. Common Stock",NASDAQ
+AVGTF,AVI GLOBAL TR PLC Ordinary Shares,U
 AVHHL,Avita Therapeutics Inc Chess Depositary Interests,U
 AVHNF,Ackermans & Van Haaren Sa Ordinary shares (Belgium),U
 AVHNY,Ackermans & Van Haaren Sa Unsponsored ADR (Belgium),U
@@ -4690,6 +4690,7 @@ CLAD,"China Liaoning Dingxu Ecological Agriculture Development, Inc. Common Stoc
 CLALF,Clal Insurance CO Ltd. Ordinary Shares (Israel),U
 CLAM,Classic Mining Corp Utah Common Stock,U
 CLAR,Clarus Corporation Common Stock,NASDAQ
+CLAS U,"Class Acceleration Corp. Units, each consisting of one share of Class A common stock and one-half of",NYSE
 CLASF,Questex Gold & Copper Ltd Common Shares,U
 CLAVF,Camellia Investments Plc Ordinary Shares,U
 CLAYF,iShares 1-5 Year Laddered Corporate Bond Index ETF (Canada),U
@@ -5249,3 +5250,6 @@ COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
+CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAH,CounterPath Corporation Common Stock,NASDAQ

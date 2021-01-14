@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
 SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
@@ -262,6 +260,7 @@ SLCH,"Spotlight Capital Holdings, Inc Common Stock",U
 SLCJF,SLC Agricola Sa Ordinary shares (Brazil),U
 SLCJY,SLC Agricola Sa Sponsored American Depository Receipt (Brazil),U
 SLCO,"Sovereign Lithium, Inc. Common Stock",U
+SLCRU,Silver Crest Acquisition Corporation Unit,NASDAQ
 SLCT,"Select Bancorp, Inc. Common Stock",NASDAQ
 SLDB,Solid Biosciences Inc. Common Stock,NASDAQ
 SLDGF,Solidusgold Inc. Ordinary Shares (Canada),U
@@ -1707,6 +1706,7 @@ TAXF,American Century Diversified Municipal Bond ETF,ARCA
 TAYD,"Taylor Devices, Inc. Common Stock",NASDAQ
 TAYL,Taylor S Cos Inc,U
 TAYO,Taylor Consulting Inc Common Stock,U
+TBA,Thoma Bravo Advantage,NYSE
 TBABF,Trelleborg Ab B Fria (F) Ordinary Shares,U
 TBABY,Trelleborg AB Unsponsored American Depositary Receipts Representing B Shares (Sweden),U
 TBACQ,"Tandy Brands Accessories, Inc. Common Stock",U
@@ -2130,7 +2130,9 @@ TIMNF,Timminco Ltd Ordinary Shares,U
 TINLF,Teijin Ltd Ordinary Shares (Japan),U
 TINLY,Teijin Ltd Ord American Depositary Shares,U
 TINO,Tamino Minerals Inc. Common Stock,U
+TINV,Tiga Acquisition Corp.,NYSE
 TINV U,"Tiga Acquisition Corp. Units, each consisting of one Class A ordinary share and one half of one warr",NYSE
+TINV WS,"Tiga Acquisition Corp. Warrants, each warrant exercisable for one Class A ordinary share at an exerc",NYSE
 TIOIF,Cholamandalam Financial Holdings Limited Global Depositary Shares - Sponsored,U
 TIP,iShares TIPS Bond ETF,ARCA
 TIPGF,TITAN PETROCHEMICALS GROUP LTD Common Stock,U
@@ -2366,7 +2368,6 @@ TNISY,Tecnicas Reunidas Sa Madrid Unsponsored ADR (Spain),U
 TNJIF,Tianjin Capital Environmental Protection Group Co Ltd Ordinary shares - H- (China),U
 TNK,Teekay Tankers Ltd.,NYSE
 TNKE,Tanke Incorporated Common Stock,U
-TNKY,"TN-K Energy Group, Inc. Common Stock",U
 TNLIF,Trainline Plc Common Stock (United Kingdom),U
 TNLIY,Trainline PLC UNsponsored ADR (United Kingdom),U
 TNLX,Trans-Lux Corporation Common Stock,U
@@ -2730,7 +2731,6 @@ TSLRF,TESCO LOTUS RETAIL GROWTH FREEHOLD & LEASEHOLD PPTY FD Unit,U
 TSLTF,Transalta Corp 1st Pfd Ser E (Canada),U
 TSLX,"Sixth Street Specialty Lending, Inc.",NYSE
 TSM,Taiwan Semiconductor Manufacturing Company Ltd.,NYSE
-TSMI,"Total Sports Media, Inc. Common Stock",U
 TSMRF,Tsumura & Co Ordinary Shares,U
 TSN,"Tyson Foods, Inc.",NYSE
 TSNI,"TechniScan, Inc. Common Stock",U
@@ -3250,6 +3250,7 @@ UNPLF,UNIPOLSAI S P A Ordinary Shares (Italy),U
 UNPPY,Uniper SE American Depositary Receipts - Unsponsored (Germany),U
 UNPRF,Uniper SE Ordinary Shares (Germany),U
 UNPSF,Uni-President China Holdings Ltd. Ordinary Shares (Cayman Islands),U
+UNQL,"Unique Logistics International, Inc. Common Stock",U
 UNRG,United Energy Corporation Common Stock,U
 UNRIF,UNITED CO RUSAL INTL PUB JT STK CO Ordinary Shares (Russia),U
 UNSS,"Universal Solar Technology, Inc. Common Stock",U
@@ -3434,7 +3435,6 @@ UTSI,UTStarcom Holdings Corp.,NASDAQ
 UTSL,Direxion Daily Utilities Bull 3X Shares,ARCA
 UTWTF,Ucapital24 SPA Azioni Ordinary Shares (Italy),U
 UTZ,"Utz Brands, Inc.",NYSE
-UTZ WS,"Utz Brands, Inc. Warrants, each whole warrant exercisable for one Class A common stock at an exercis",NYSE
 UUCC,UCI Intl Hldgs Inc Common Stock,U
 UUGRY,United Utilities Group Plc Sponsored ADR (UK),U
 UUGWF,"United Utilities Group Plc, Warrington Ordinary Shares (UK)",U
@@ -3744,7 +3744,7 @@ VIZC,"VizConnect, Inc. Common Stock",U
 VIZG,VisionGlobal Corp Common Stock,U
 VIZSF,VIZSLA RES CORP COM (Canada),U
 VJET,voxeljet AG American Depositary Shares,NASDAQ
-VKEMF,Vostok Emerging Finance Ltd. Swedish Depositary Receipts (Bermuda),U
+VKEMF,VEF LTD - SDR Depositary Receipts,U
 VKGLF,VIKING LINE AB SHS (Finland),U
 VKI,Invesco Advantage Municipal Income Trust II,AMEX
 VKIN,"Viking Energy Group, Inc. Common Stock",U
@@ -4237,6 +4237,7 @@ WEBNF,Westpac Banking Corp Nz (Clob) Ordinary Shares,U
 WEBS,Direxion Daily Dow Jones Internet Bear 3X Shares,ARCA
 WEC,"WEC Energy Group, Inc.",NYSE
 WECFF,White Energy Co Ltd Ordinary Shares (Australia),U
+WECMF,WECOMMERCE HLDGS LTD NEW CL A (Canada),U
 WECT,WECONNECT TECH INTERNATIONAL INC. Common Stock,U
 WEDG,"Weed Growth Fund, Inc. Common Stock",U
 WEDXF,Westaim Corporation (The) Common Stock,U
@@ -4492,6 +4493,7 @@ WOLWF,Woolworths Ltd Ord Ordinary Shares,U
 WOMN,Impact Shares YWCA Women's Empowerment ETF,ARCA
 WONEF,WEQ Hldgs Inc Common Shares,U
 WOOD,iShares Global Timber & Forestry ETF,NASDAQ
+WOOF,"Petco Health and Wellness Company, Inc. Class A Common Stock",NASDAQ
 WOPEF,Woodside Pete Ltd Ordinary Shares,U
 WOPEY,Woodside Petroleum Ltd American Depositary Shares,U
 WOR,"WORTHINGTON INDUSTRIES, INC. COMMON SHARES",NYSE
@@ -4725,6 +4727,7 @@ XCPL,XCPCNL Business Services Corporation Common Stock,U
 XCPT,"XCana Petroleum, Corp. Common Stock",U
 XCRP,"Xcorporeal, Inc. Common Stock",U
 XCUR,"Exicure, Inc. Common Stock",NASDAQ
+XDAT,Franklin Exponential Data ETF,BATS
 XDIV,U.S. Equity Ex-Dividends Fund - Series 2027,ARCA
 XDNCF,XD INC USD ORD SHS (Cayman Islands),U
 XDSL,"mPhase Technologies, Inc. Common Stock",U
@@ -4842,6 +4845,7 @@ XREG,XR Energy Inc Common Stock,U
 XRESF,Xtierra Inc. Ordinary Shares (Canada),U
 XRLV,Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF,ARCA
 XROLF,Xero Ltd. Ordinary Shares (New Zealand),U
+XRSMF,XTRACKERS IE PLC RUSSELL MIDCAP UCITS ETF 1C (Ireland),U
 XRT,SPDR S&P Retail ETF,ARCA
 XRTEF,XEROS TECH GROUP PLC Common Shares,U
 XRTXF,Xortx Therapeutics Inc Ordinary Shares (Canada),U

@@ -485,7 +485,6 @@ NGENF,NervGen Pharma Corp Common Stock (Canada),U
 NGEY,New Global Energy Inc Common Stock,U
 NGG,National Grid PLC,NYSE
 NGGTF,National Grid PLC Common Shares,U
-NGHCN,National General Holdings Corp Depositary Shares,NASDAQ
 NGHCO,National General Holdings Corp Depositary Shares,NASDAQ
 NGHCP,"National General Holdings Corp Preferred Stock, Series A",NASDAQ
 NGHCZ,National General Holdings Corp 7.625% Subordinated Notes due 2055,NASDAQ
@@ -1120,7 +1119,6 @@ NVGLF,NV GOLD CORP Ordinary Shares,U
 NVGNF,Kazia Therapeutics Ltd Ordinary Shares,U
 NVGS,NAVIGATOR HOLDINGS LTD.,NYSE
 NVGT,Novagant Corp. Common Stock,U
-NVIC,N-Viro International Corporation Common Stock,U
 NVIV,InVivo Therapeutics Holdings Corp Common Stock,NASDAQ
 NVLPF,NOVA LEAP HEALTH CORP Common Stock (Canada),U
 NVMI,Nova Measuring Instruments Ltd. Ordinary Shares,NASDAQ
@@ -1309,7 +1307,7 @@ OAK PRB,"Oaktree Capital Group, LLC 6.550% Series B Preferred Units",NYSE
 OAKV,Oak View National Bank Warrenton VA Common,U
 OAOFY,PJSC Tatneft American Depositary Receipts - Sponsored,U
 OARFF,Fort St. James Nickel Corp. Ordinary Shares,U
-OARRF,Oakdale Resources Ltd Ordinary Shares (Australia),U
+OARRF,OAR RES LTD Ordinary Shares,U
 OART,Ohio Art Company (The) Common Stock,U
 OAS,Oasis Petroleum Inc. Common Stock,NASDAQ
 OASMY,Oasmia Pharmaceutical AB American Depositary Shares,U
@@ -1331,6 +1329,7 @@ OBNNF,Osisko Mng Inc Ordinary Shares,U
 OBOR,Kraneshares MSCI One Belt One Road Index ETF,ARCA
 OBSJF,Obrascon Huarte Lain Sa Ordinary Shares,U
 OBSV,ObsEva SA Ordinary Shares,NASDAQ
+OBTC,OSPREY BITCOIN TR UNIT BEN INT,U
 OBTEF,Orbital Corporation Ltd  Ordinary Shares (Australia),U
 OBTX,Obitx Inc Common Stock,U
 OBYCF,Obayashi Corp Ordinary Shares,U
@@ -2075,6 +2074,7 @@ PCLOF,PHARMACIELO LTD  Common Stock (Canada),U
 PCM,"PCM Fund, Inc.",NYSE
 PCMC,Public Company Management Corporation Common Stock,U
 PCN,PIMCO Corporate & Income Strategy Fund,NYSE
+PCNEF,PRECISION SYSTEM SCIENCE CO LTD INAGI SHS (Japan),U
 PCNT,"Point of Care Nano-Technology, Inc. Common Stock",U
 PCOA,PENDRELL CORP Common Stock,U
 PCOFF,Pico Far East Hldgs Ltd Ordinary Shares (Cayman Islands),U
@@ -2192,7 +2192,7 @@ PEI PRB,PENNSYLVANIA REAL ESTATE INVESTMENT TRUST 7.375% Series B Cumulative Red
 PEI PRC,Pennsylvania Real Estate Investment Trust 7.20% Series C Cumulative Redeemable Perpetual Preferred S,NYSE
 PEI PRD,Pennsylvania Real Estate Investment Trust 6.875% Series D Cumulative Redeemable Perpetual Preferred,NYSE
 PEIMF,Pepinnini Minerals Ltd Ordinary Shares (Australia),U
-PEIX,"Pacific Ethanol, Inc. Common Stock",NASDAQ
+PEIX,"Alto Ingredients, Inc. Common Stock",NASDAQ
 PEJ,Invesco Dynamic Leisure and Entertainment ETF,ARCA
 PEMC,Pacific Energy & Mining Co New Common Stock,U
 PEMIF,Pure Energy Minerals Ltd. Ordinary Shares,U
@@ -2740,6 +2740,7 @@ POROF,Panoro Minerals Ltd Ordinary Shares (Canada),U
 PORSY,Porto Seguro SA American Depositary Receipts - Unsponsored,U
 POSAF,Posabit Systems Corporation Common Shares (Canada),U
 POSC,POSITRON CORP Common Stock,U
+POSH,"Poshmark, Inc. Class A Common Stock",NASDAQ
 POST,"POST HOLDINGS, INC.",NYSE
 POTMF,PORTMEIRION POTTERIES HOLDINGS PLC Shs (United Kingdom),U
 POTN,"Potnetwork Holdings, Inc. Common Stock",U
@@ -4240,6 +4241,7 @@ ROSN,Rosinbomb Common Stock,U
 ROSSF,Ross Group PLC Ordinary Shares (United Kingdom),U
 ROST,"Ross Stores, Inc. Common Stock",NASDAQ
 ROSYY,PJSC Rostelecom American Depositary Receipts - Sponsored,U
+ROT U,"Rotor Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of",NYSE
 ROTH,"PharmaRoth Labs, Inc. Common Shares",U
 ROUS,Hartford Multifactor US Equity ETF,ARCA
 ROVMF,Rover Metals Corp. Ordinary Shares,U
@@ -5248,3 +5250,5 @@ SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
+SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U

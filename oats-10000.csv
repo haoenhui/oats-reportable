@@ -65,7 +65,9 @@ GZUHF,Guangzhou R & F Properties Co Ltd Shares H (China),U
 GZUHY,Guangzhou R & F Properties Co Ltd Unsponsored ADR representing Shares -H- (China),U
 H,Hyatt Hotels Corporation,NYSE
 HA,"Hawaiian Holdings, Inc. Common Stock",NASDAQ
+HAAC,Health Assurance Acquisition Corp. Class A Common Stock,NASDAQ
 HAACU,Health Assurance Acquisition Corp. SAIL Securities,NASDAQ
+HAACW,Health Assurance Acquisition Corp. Warrants,NASDAQ
 HAATF,HAAD THIP PUBLIC CO LTD NVDR SHARES (Thailand),U
 HABC,Habersham Bancorp Common Stock,U
 HABK,"Hamilton Bancorp, Inc. FLA Common Stock",U
@@ -101,6 +103,7 @@ HAPBF,HAPBEE TECHNOLOGIES INC COM SUB VTG SHS (Canada),U
 HAPP,Happiness Biotech Group Limited Ordinary Shares,NASDAQ
 HARL,Harleysville Financial Corp. Common Stock,U
 HARP,"Harpoon Therapeutics, Inc. Common Stock",NASDAQ
+HART,IQ Healthy Hearts ETF,ARCA
 HAS,"Hasbro, Inc. Common Stock",NASDAQ
 HASGF,Thasegawa Co Ltd Ordinary Shares (Japan),U
 HASI,HANNON ARMSTRONG SUSTAINABLE INFRASTRUCTURE CAPITAL INC,NYSE
@@ -486,6 +489,7 @@ HLRD,Hilliard Corp Common Stock,U
 HLRTF,HILLCREST PETROLEUM LTD. Ordinary Shares,U
 HLSPF,HELIOSPECTRA AB  Ordinary Shares (Sweden),U
 HLSPY,Heliospectra AB Sponsored American Depository Receipt (Sweden),U
+HLSTF,HALLENSTEIN GLASSONS HOLDINGS LTD Ordinary Shares (New Zealand),U
 HLT,Hilton Worldwide Holdings Inc.,NYSE
 HLTC,HEALTHCARE TR INC Common Stock,U
 HLTEF,Hilan Tech Ltd Ordinary Shares,U
@@ -517,7 +521,6 @@ HMGN,"Hemagen Diagnostics, Inc. Common Stock",U
 HMGP,"Hemi Energy Group, Inc. Common Stock",U
 HMHC,Houghton Mifflin Harcourt Company Common Stock,NASDAQ
 HMI,Huami Corporation,NYSE
-HMICF,Hana Microelectronics Public Co Ltd Ordinary Shares Foreign Registered NEW (Thailand),U
 HMLA,Homeland Resources Ltd. NEW Common Stock,U
 HMLN,"Hamlin Bank & Trust Company (Smethport, PA) Common Stock",U
 HMLP,HOEGH LNG PARTNERS LP,NYSE
@@ -1661,7 +1664,6 @@ INNCF,INNOTECH CORP Ordinary Shares,U
 INND,"Innerscope Hearing Technologies, Inc. Common Stock",U
 INNI,Innovaro Inc Common Stock,U
 INNMF,Amplia Therapeutics Ltd Ordinary Shares,U
-INNO,Innocap Inc Common Stock,U
 INNPF,Innocan Pharma Corp Common Stock (Canada),U
 INNTW,9 METERS BIOPHARMA INC Warrant,U
 INNX,Infinite Networks Corporation Common Stock,U
@@ -1836,7 +1838,6 @@ IQI,INVESCO QUALITY MUNICIPAL SECURITIES,NYSE
 IQIN,IQ 500 International ETF,ARCA
 IQLT,iShares MSCI Intl Quality Factor ETF,ARCA
 IQM,Franklin Intelligent Machines ETF,BATS
-IQNDY,The iQ Group Global Ltd. American Depositary Receipts - Sponsored,U
 IQSHF,Ishares Plc Corp Bond Interest Rate Hedged UCITS USD ETF (Ireland),U
 IQSI,IQ Candriam ESG International Equity ETF,ARCA
 IQST,iQSTEL Inc. Common Stock,U
@@ -2313,6 +2314,7 @@ JBFCF,Jollibee Foods Corporation Ordinary Shares,U
 JBFCY,Jollibee Foods Corporation Unsponsored ADR (Philippines),U
 JBGS,JBG SMITH Properties Common Shares,NYSE
 JBHHY,JB HI-FI LTD American Depositary Receipts - Unsponsored (Australia),U
+JBHIF,JB Hi-Fi Limited Ordinary Shares (Australlia),U
 JBHT,"J.B. Hunt Transport Services, Inc. Common Stock",NASDAQ
 JBK,Lehman ABS Corp 3.50 Adj Corp Backed Tr Cert Goldman Cap I,NYSE
 JBL,Jabil Inc.,NYSE
@@ -3953,6 +3955,7 @@ LVLV,"Level Vision Electronics, Ltd. Common Stock",U
 LVMHF,LVMH Moet Hennessy Louis Vuitton Ordinary Shares,U
 LVMUY,LVMH Moet Hennessy Louis Vuitton Unsponsored American Depositary Receipt (France),U
 LVNSF,"Leonovus, Inc. Common Shares",U
+LVOL,American Century Low Volatility ETF,ARCA
 LVPR,LIGHTSTONE VALUE PLUS REAL ESTATE INVT TR II INC Common Stock,U
 LVRLF,CordovaCann Corp. Common Shares,U
 LVRP,Liverpool Group Inc Common Stock,U
@@ -4930,6 +4933,7 @@ MOJO,"Mojo Organics, Inc.  Common Stock",U
 MOM,AGFiQ U.S. Market Neutral Momentum Fund,ARCA
 MOMO,Momo Inc. American Depositary Shares,NASDAQ
 MOMT,"MoneyOnMobile, Inc Common Stock",U
+MONCU,Monument Circle Acquisition Corp. Unit,NASDAQ
 MONDF,Mondi Plc Ordinary shares (United Kingdom),U
 MONDY,Mondi Plc Unsponsored ADR (UK),U
 MONGF,Montego Resources Inc Common Stock,U

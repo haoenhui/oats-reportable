@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
@@ -196,13 +193,14 @@ CRNHY,Crest Nicholson Holdings PLC Unsponsored ADR (United Kingdom),U
 CRNT,Ceragon Networks Ltd. Ordinary Shares,NASDAQ
 CRNX,"Crinetics Pharmaceuticals, Inc. Common Stock",NASDAQ
 CRNY,"China Renyuan International, Inc. Common Stock",U
-CRNZF,Cairn Energy Plc New Ordinary Shares (United Kingdom),U
+CRNZF,Cairn Energy Plc Ordinary Shares,U
 CROC,ProShares UltraShort Australian Dollar,ARCA
 CROJF,Marimaca Copper Corp Common Shares,U
 CROMF,Crombie Real Estate Invt. Tr UNIT (Canada),U
 CRON,Cronos Group Inc. Common Share,NASDAQ
 CROOF,Cariboo Rose Res Ltd Common shares (Canada),U
 CRORF,Croesus Retail Units (Singapore),U
+CROTF,CIRRALTO LTD Ordinary Fully Paid (Australia),U
 CROX,"Crocs, Inc. Common Stock",NASDAQ
 CRPE,Columbian Rope Co  (Del) Common Stock,U
 CRPFY,Corporacion Financiera Colombiana SA Sponsored ADR representing Class B Non Voting Shs (Colombia),U
@@ -2193,6 +2191,7 @@ EMPS,EMP Solutions Inc. Common Stock,U
 EMPW,Empower Ltd.,NYSE
 EMPW U,"Empower Ltd. Units, each consisting of one Class A ordinary share and one-third of one redeemable wa",NYSE
 EMPW WS,"Empower Ltd. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at a",NYSE
+EMPYF,EMPRESS RTY CORP COM (Canada),U
 EMQQ,EMQQ The Emerging Markets Internet & Ecommerce ETF,ARCA
 EMQU,EM Quantum Technologies Inc. Common Stock,U
 EMR,Emerson Electric Co.,NYSE
@@ -2303,6 +2302,7 @@ ENTXW,Entera Bio Ltd. Warrant,NASDAQ
 ENV,"ENVESTNET, INC.",NYSE
 ENVA,"Enova International, Inc.",NYSE
 ENVB,"Enveric Biosciences, Inc. Common Stock",NASDAQ
+ENVIU,Environmental Impact Acquisition Corp. Unit,NASDAQ
 ENVS,Enova Systems Inc. Common Stock,U
 ENX,Eaton Vance New York Municipal Bond Fund,AMEX
 ENYNF,ENERNORTH INDUSTRIES,U
@@ -2689,6 +2689,7 @@ EVGN,Evogene Ltd Ordinary Shares,NASDAQ
 EVGRF,CHINA EVERGRANDE NEW ENERGY VEH GROUP LTD Ordinary Shares,U
 EVGUF,EVERGOLD CORP COM (Canada),U
 EVH,"Evolent Health, Inc Class A Common Stock",NYSE
+EVHEF,EVENT HOSPITALITY & ENTMT LTD SHS (Australia),U
 EVI,"EVI Industries, Inc.",AMEX
 EVIO,"EVIO, Inc. Common Stock",U
 EVK,"Ever-Glory International Group, Inc. Common Stock",NASDAQ
@@ -4150,6 +4151,7 @@ GBBLF,Global Energy Ventures Ltd Ordinary Shares (Australia),U
 GBBT,Global Boatworks Hldgs Inc Common Stock,U
 GBBYF,Goodbaby International Holdings Limited Ordinary Shares (Cayman Islands),U
 GBCEY,Globe Trade Centre Sa Unsponsored ADR (Poland),U
+GBCHF,Metaverse Cap Corp COM (Canada),U
 GBCI,"Glacier Bancorp, Inc. Common Stock",NASDAQ
 GBCMF,Global Bio Chem Technology Group Company Ltd Ordinary Shares (Cayman Islands),U
 GBCMY,Global Bio Chem Technology Group Company Ltd Unsponsored ADR (Cayman Islands),U
@@ -4759,7 +4761,9 @@ GNOLF,Genoil Inc. Ordinary Shares (Canada),U
 GNOM,Global X Funds Global X Genomics & Biotechnology ETF,NASDAQ
 GNOW,"American CareSource Holdings, Inc. Common Stock",U
 GNPG,"Green Planet Group, Inc. Common Stock",U
+GNPK,Genesis Park Acquisition Corp.,NYSE
 GNPK U,"Genesis Park Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of",NYSE
+GNPK WS,"Genesis Park Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A o",NYSE
 GNPR,Genius Products Inc Common Stock New,U
 GNPT,"Green Parts International, Inc. Common Stock",U
 GNPX,"Genprex, Inc. Common Stock",NASDAQ
@@ -5153,6 +5157,7 @@ GTKP,Gatekeeper USA Inc New Common Shares,U
 GTLA,GT Legend Automotive Holdings Inc  Common Stock,U
 GTLL,"Global Technologies, Ltd. Global Technologies Ltd",U
 GTLS,"Chart Industries, Inc. Common Stock",NASDAQ
+GTMAF,GRUPO TMM SA SHS -A- (Mexico),U
 GTMAY,Grupo TMM S.A. American Depositary Shares,U
 GTMEF,Globe Telecom Inc Ordinary Shares (Phillippines),U
 GTMEY,Globe Telecom Inc Unsponsored ADR (Philippines),U
