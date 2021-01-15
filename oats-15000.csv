@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTNX,"MeltroniX, Inc. Common Stock",U
+MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
 MTOR,"MERITOR, Inc.",NYSE
 MTP,Midatech Pharma PLC American Depositary Shs,NASDAQ
 MTPOF,Metropolitan Bank & Trust Co MBTC Ordinary Shares,U
@@ -757,7 +759,6 @@ NOBGY,Noble Group Ltd American Depositary Receipts - Unsponsored,U
 NOBH,"Nobility Homes, Inc. Common Stock",U
 NOBL,ProShares S&P 500 Dividend Aristocrats ETF,BATS
 NOC,Northrop Grumman Corp.,NYSE
-NOCEF,NewOcean Energy Holdings Limited Ordinary Shares (Bermuda),U
 NOCSF,NORSEMAN SILVER INC Common Stock (Canada),U
 NOCT,Innovator Nasdaq-100 Power Buffer ETF- October,BATS
 NODAF,Noda Corporation Ordinary Shares (Japan),U
@@ -1338,6 +1339,7 @@ OCA,Omnichannel Acquisition Corp.,NYSE
 OCA U,"Omnichannel Acquisition Corp. Units, each consisting of one share of Class A common stock and one-ha",NYSE
 OCA WS,"Omnichannel Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A comm",NYSE
 OCANF,Oceanagold Corp Common (Canada),U
+OCAXU,OCA Acquisition Corp. Unit,NASDAQ
 OCBI,"Orange County Bancorp, Inc. Common Stock",U
 OCBM,Preferred Commerce Inc. Common Stock,U
 OCC,Optical Cable Corporation Common Stock,NASDAQ
@@ -1816,10 +1818,12 @@ OVF,Overlay Shares Foreign Equity ETF,ARCA
 OVID,Ovid Therapeutics Inc. Common Stock,NASDAQ
 OVIT,"OncoVista Innovative Therapies, Inc. Common Stock",U
 OVL,Overlay Shares Large Cap Equity ETF,ARCA
+OVLH,Overlay Shares Hedged Large Cap Equity ETF,ARCA
 OVLY,Oak Valley Bancorp (CA) Common Stock,NASDAQ
 OVM,Overlay Shares Municipal Bond ETF,ARCA
 OVRFF,OLIVER S REAL FOOD LTD ORDINARY FULLY PAID (Australia),U
 OVS,Overlay Shares Small Cap Equity ETF,ARCA
+OVT,Overlay Shares Short Term Bond ETF,ARCA
 OVTZ,"Oculus Visiontech, Inc. Common Stock",U
 OVV,Ovintiv Inc.,NYSE
 OVWRF,OVER THE WIRE HOLDINGS LTD Ordinary Fully Paid (Australia),U
@@ -2564,6 +2568,7 @@ PLSI,Phoenix Life Sciences International Ltd. Common Stock,U
 PLSQF,Plus500 Ltd. Ordinary Shares (Israel),U
 PLT,"Plantronics, Inc.",NYSE
 PLTI,"Platcom, Inc. Common Stock",U
+PLTK,Playtika Holding Corp. Common Stock,NASDAQ
 PLTM,GraniteShares Platinum Shares,ARCA
 PLTR,Palantir Technologies Inc. Class A Common Stock,NYSE
 PLTT,"Pilot Therapeutics Holdings, Inc. Common Stock",U
@@ -2646,7 +2651,7 @@ PMVP,"PMV Pharmaceuticals, Inc. Common Stock",NASDAQ
 PMX,PIMCO Municipal Income Fund III,NYSE
 PMXSF,Pharmaxis Ltd Ordinary Shares (Australia),U
 PMXX,Primix Corp Common Stock,U
-PMYLF,Pacifico Minerals Ltd. Ordinary Shares (Australia),U
+PMYLF,Boab Metals Ltd Ordinary Shares,U
 PNADF,Petronas Dagangan Ordinary Shares,U
 PNAGF,PETRONAS GAS BHD,U
 PNAT,"Pura Naturals, Inc. Common Stock",U
@@ -3096,6 +3101,7 @@ PSX,PHILLIPS 66,NYSE
 PSXP,PHILLIPS 66 PARTNERS LP,NYSE
 PSXRF,Pasinex Res Ltd. Ordinary Shares (Canada),U
 PSYC,"Global Trac Solutions, Inc. Common Stock",U
+PSYCF,Psyched Wellness Ltd. Common Shares,U
 PSYS,"Paradigm System Solutions, Inc. Common Stock",U
 PSYTF,Pason Systems Inc Ordinary Shares,U
 PSZKF,Powszechna Kasa Oszczednosci Bank Polski SA Ordinary Shares (Poland),U
@@ -3344,7 +3350,7 @@ PXS,Pyxis Tankers Inc. Common Stock,NASDAQ
 PXSAP,Pyxis Tankers Inc. 7.75% Series A Cumulative Convertible Preferred Shares,NASDAQ
 PXSAW,Pyxis Tankers Inc. Warrant,NASDAQ
 PXSLY,Pharmaxis Limited ADR,U
-PXSTF,Phoenix Satellite Television Holdings Ltd Ordinary Shares,U
+PXSTF,PHOENIX MEDIA INVT (HOLDINGS) LTD Ordinary Shares,U
 PXXLF,Poxel SA Ordinary Shares (France),U
 PXXXF,POLARX LTD Ordinary Shares,U
 PXYN,Praxsyn Corporation Common Stock,U
@@ -4897,7 +4903,7 @@ SDRWW,Sandridge Energy Inc. Warrant Series A Exp 10/04/2022,U
 SDS,ProShares UltraShort S&P500,ARCA
 SDSS,Suspect Detection Systems Inc. Common Stock,U
 SDSYA,"South Dakota Soybean Processors, LLC CAP UNIT CL A",U
-SDTC,Sentaida Tire Company Limited Common Stock,U
+SDTCD,GIVBUX INC Common Stock,U
 SDTTU,SANDRIDGE MISSISSIPPIAN TR I Unit,U
 SDURF,Stroud Resources Ltd Ordinary Shares,U
 SDVI,"Signature Devices, Inc. Common Stock",U
@@ -5063,7 +5069,6 @@ SFST,"Southern First Bancshares, Inc. Common Stock",NASDAQ
 SFT,"Shift Technologies, Inc. Class A Common Stock",NASDAQ
 SFTBF,SOFTBANK GROUP CORP Ordinary Shares,U
 SFTBY,Softbank Group American Depositary Receipts - Unsponsored,U
-SFTTW,"Shift Technologies, Inc. Warrant",NASDAQ
 SFTW,Osprey Technology Acquisition Corp.,NYSE
 SFTW U,"Osprey Technology Acquisition Corp. Units, each consisting of one share of Class A Common Stock and",NYSE
 SFTW WS,"Osprey Technology Acquisition Corp. Redeemable Warrants, each whole Warrant exercisable for one shar",NYSE
@@ -5249,6 +5254,3 @@ SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
-SHNL,"Shentang International, Inc. Common Stock",U
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U

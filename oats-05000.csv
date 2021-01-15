@@ -179,6 +179,7 @@ CRLBF,Cresco Labs Inc Common Shares (Canada),U
 CRLFF,Cardinal Energy Ltd. Ordinary Shares (Canada),U
 CRLI,"Circuit Research Labs, Inc. Common Stock",U
 CRLKP,Central Parking Financial Trust 5.25% Convertible Preferred Stock,U
+CRLWF,Cresco Labs Inc Warrant Pur Com Sub Vtg Exp 09/24/2022 (Canada),U
 CRM,"salesforce.com, inc.",NYSE
 CRMBQ,"Crumbs Bake Shop, Inc. Common Stock",U
 CRMD,CorMedix Inc.,AMEX
@@ -878,7 +879,6 @@ DCLT,"Data Call Technologies, Inc. Common Stock",U
 DCMJF,DCM Japan Holdings Co Ltd Ordinary Shares (Japan),U
 DCMYY,"NTT DOCOMO, Inc. American Depositary Receipts - Sponsored (Japan)",U
 DCNNF,CANADIAN PALLADIUM RES INC Ordinary Shares,U
-DCNPF,Psyched Wellness Ltd. Common Shares,U
 DCNSF,"Dai-Ichi Life Insurance Co., Ltd Ordinary Shares (Japan)",U
 DCO,Ducommun Incorporated,NYSE
 DCOHF,Dickson Concepts Intl Ltd Hk.3 Ordinary Shares,U
@@ -1423,6 +1423,7 @@ DRUA,"Dominion Energy, Inc 2016 Series A 5.25% Enhanced Junior Subordinated Note
 DRUNF,Dream Unlimited Corp Common Shares,U
 DRV,Direxion Daily Real Estate Bear 3X Shares,ARCA
 DRVD,"Driven Deliveries, Inc. Common Stock",U
+DRVN,Driven Brands Holdings Inc. Common Stock,NASDAQ
 DRVYF,DISCOVERY AFRICA LTD Ordinary Shares,U
 DRW,WisdomTree Global ex-US Real Estate Fund,ARCA
 DRWB,Darien Rowayton BK Conn Common Stock,U
@@ -3288,7 +3289,6 @@ FISK,"Empire State Realty OP, L.P. Series 250",ARCA
 FISOF,Fission 3.0 Corp Common Shares,U
 FISR,SPDR SSGA Fixed Income Sector Rotation ETF,ARCA
 FISV,"Fiserv, Inc. Common Stock",NASDAQ
-FIT,"Fitbit, Inc. Class A common stock",NYSE
 FITB,Fifth Third Bancorp Common Stock,NASDAQ
 FITBI,Fifth Third Bancorp Depositary Shares,NASDAQ
 FITBO,"Fifth Third Bancorp Depositary Shares each representing a 1/1000th ownership interest in a share of Non-Cumulative Perpetual Preferred Stock, Series K",NASDAQ
@@ -3657,6 +3657,7 @@ FOVSY,Ford Otomotiv Sanayi As Unsponsored ADR,U
 FOX,Fox Corporation Class B Common Stock,NASDAQ
 FOXA,Fox Corporation Class A Common Stock,NASDAQ
 FOXF,Fox Factory Holding Corp. Common Stock,NASDAQ
+FOXWU,FoxWayne Enterprises Acquisition Corp. Unit,NASDAQ
 FOYJ,Foy Johnston Inc Common Stock,U
 FPA,First Trust Asia Pacific ex-Japan AlphaDEX Fund,NASDAQ
 FPAC U,"Far Peak Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third",NYSE
@@ -3808,7 +3809,9 @@ FRTN,Fortran Corporation Common Stock,U
 FRTXF,Fortnox AB Ordinary Shares (Sweden),U
 FRUTF,Frutarom Industries 1995 Ltd Ordinary Shares,U
 FRWDF,Fairwood Holdings Ltd Ordinary Shares (Bermuda),U
+FRX,Forest Road Acquisition Corp.,NYSE
 FRX U,"Forest Road Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-th",NYSE
+FRX WS,"Forest Road Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of C",NYSE
 FRXX,Forecross Corporation Common Stock,U
 FRZCF,Frasers Centrepoint Trust UNITS REAL ESTATE INVESTMENT TRUST (Singapore),U
 FRZT,"Freeze Tag, Inc. Common Stock",U
@@ -4395,7 +4398,6 @@ GFLU,GFL Environmental Inc. Tangible Equity Units,NYSE
 GFMH,Goliath Film & Media Holdings Common Stock,U
 GFN,General Finance Corporation General Finance Corporation Common Stock,NASDAQ
 GFNCP,General Finance Corporation Cumulative Redeemable Perpetual Preferred Series C,NASDAQ
-GFNSL,General Finance Corporation Senior Notes due 2021,NASDAQ
 GFNSZ,General Finance Corporation 7.875% Senior Notes due 2025,NASDAQ
 GFOO,Genufood Energy Enzymes Corporation Common Stock,U
 GFPTF,Gfpt Public Co Ltd (F) Units Non-Voting Depository Receipt (Thailand),U
@@ -4714,6 +4716,7 @@ GMXTF,GMexico Transportes SAB de CV SHS of Financial Groups and Industrial Retai
 GMYOY,GMO Internet Inc Unsponsored American Depository Receipt (Japan),U
 GMYTF,"GMO Payment Gateway, Inc. Ordinary Shares (Japan)",U
 GMZP,GEMZ Corporation Common Stock,U
+GNACU,Group Nine Acquisition Corp. Unit,NASDAQ
 GNAF,"MicroSectors FANG+ Index Inverse ETNs due January 8, 2038",ARCA
 GNAL,"Generation Alpha, Inc. Common Stock",U
 GNBF,"GNB Financial Services, Inc. Common Stock",U
@@ -5252,4 +5255,3 @@ GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U

@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
@@ -93,6 +94,7 @@ HALL,"Hallmark Financial Services, Inc. Common Stock",NASDAQ
 HALMY,Halma PLC American Depositary Shares - Unsponsored (United Kingdom),U
 HALN,"Halo Companies, Inc. Common Stock",U
 HALO,"Halozyme Therapeutics, Inc. Common Stock",NASDAQ
+HALXF,Hextar Global BHD Ordinary Shares (Malaysia),U
 HAMBF,Horizons Active CDN Municipal Bond ETF Unit Advisor CL (Canada),U
 HANBF,Hamborner REIT AG Ordinary Shares (Germany),U
 HANNF,"Hannan Metals, Ltd.  Common Shares",U
@@ -176,6 +178,7 @@ HCBN,H.C.B. Financial Corporation Common Stock,U
 HCBP,"Harvest Community Bank (Pennsville Township, NJ) Common Stock",U
 HCC,"Warrior Met Coal, Inc.",NYSE
 HCCA,Healthcare Corporation of America Common Stock,U
+HCCCU,Healthcare Capital Corp. Unit,NASDAQ
 HCCI,"Heritage-Crystal Clean, Inc. Common Stock",NASDAQ
 HCDI,"Harbor Custom Development, Inc. Common Stock",NASDAQ
 HCEI,"Healthy Coffee International, Inc. Common Stock",U
@@ -187,6 +190,7 @@ HCHDF,"Hochschild Mining PLC, London Ordinary Shares (United Kingdom)",U
 HCHDY,"Hochschild Mining PLC, London Unsponsored ADR (UK)",U
 HCHOF,Hotel Chocolat Group Ltd. Ordinary Shares (United Kingdom),U
 HCI,"HCI Group, Inc.",NYSE
+HCICU,Hennessy Capital Investment Corp. V Units,NASDAQ
 HCIIP,"HCI Group, Inc. 7% Series A Cumulative Redeemable Preferred Stock",U
 HCKG,"Hocking Valley Bancshares, Inc (OH) Common Shares",U
 HCKT,Hackett Group Inc (The). Common Stock,NASDAQ
@@ -410,6 +414,7 @@ HJLI,"Hancock Jaffe Laboratories, Inc. Common Stock",NASDAQ
 HJLIW,"Hancock Jaffe Laboratories, Inc. Warrants",NASDAQ
 HJMNF,Heijmans Nv Ordinary Shares (Netherlands),U
 HJPX,iShares Currency Hedged JPX-Nikkei 400 ETF,ARCA
+HJVDF,Fontak Funds Feier Deutsche Aktien Shs Hldgs Class A (Germany),U
 HKBNF,HKBN Ltd Ordinary Shares (Cayman Islands),U
 HKBNY,HKBN Ltd Unsponsored ADR (Hong Kong),U
 HKBT,HK Battery Technology Inc. Common Stock,U
@@ -2724,7 +2729,7 @@ KATOF,Kato Sangyo Co Ltd Ordinary Shares (Japan),U
 KATSF,Katsuragawa Electric Co Ltd Ordinary Shares (Japan),U
 KATX,KAT Exploration Inc.  Common Stock,U
 KAVL,"Kaival Brands Innovations Group, Inc. Common Stock",U
-KAYSD,"Kaya Holdings, Inc. Common Stock",U
+KAYS,"Kaya Holdings, Inc. Common Stock",U
 KB,KB Financial Group Inc,NYSE
 KBA,KraneShares Bosera MSCI China A ETF,ARCA
 KBAGF,Koninklijke BAM Groep NV Ordinary Shares (Netherlands),U
@@ -3549,6 +3554,7 @@ LGSXY,Light S.A. Sponsored ADR (Brazil),U
 LGTHF,Cimic Group LTD Ordinary Shares,U
 LGTS,Lightspace Corporation Common Stock,U
 LGTT,"LIGATT Security International, Inc. Common Stock",U
+LGUPF,LG Uplus Corp Ordinary Shares (South Korea),U
 LGVW,Longview Acquisition Corp.,NYSE
 LGVW U,"Longview Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-thir",NYSE
 LGVW WS,"Longview Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Clas",NYSE
@@ -3780,9 +3786,9 @@ LOVFF,Cannara Biotech Inc Common Shares   Canada (CA),U
 LOVV,"Love International Group, Inc.  Common Stock",U
 LOW,Lowe's Companies Inc.,NYSE
 LOWC,SPDR MSCI ACWI Low Carbon Target ETF,ARCA
-LOWRF,Low & Bonar Plc Ordinary Shares,U
 LPBC,Lincoln Park Bancorp Common Stock,U
 LPCN,Lipocine Inc. Common Stock,NASDAQ
+LPDNF,Lepidico Ltd Ordinary Shares (Australia),U
 LPG,DORIAN LPG LTD,NYSE
 LPHHF,Logan Property Holdings Company Limited Ordinary Shares (Cayman Islands),U
 LPHM,Lee Pharmaceuticals Common Stock,U
@@ -4416,7 +4422,6 @@ MERR,"Merriman Holdings, Inc Common Stock",U
 MERT,Metropolitan Rty Corp Common Stock,U
 MERVF,Manila Electric Co Ordinary Shares Philippines (PH),U
 MESA,"Mesa Air Group, Inc. Common Stock",NASDAQ
-MESNF,Marauder Resources East Coast Inc Ordinary Shares (Canada),U
 MESO,Mesoblast Limited American Depositary Shares,NASDAQ
 MET,"MetLife, Inc.",NYSE
 MET PRA,"Metlife, Inc. Floating Rate Non Cuml Series A",NYSE
@@ -5250,5 +5255,3 @@ MTN,"Vail Resorts, Inc.",NYSE
 MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
 MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
 MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
-MTNX,"MeltroniX, Inc. Common Stock",U
-MTOMF,"First Growth Funds, Ltd Ordinary Shares",U

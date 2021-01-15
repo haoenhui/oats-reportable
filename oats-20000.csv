@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHNL,"Shentang International, Inc. Common Stock",U
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
+SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
 SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
@@ -6,7 +9,6 @@ SHO PRF,"Sunstone Hotel Investors, Inc.  6.450% Series F Cumulative Redeemable P
 SHOFF,Shoei Co Ltd Ordinary Shares (Japan),U
 SHOLF,Stadio Holdings Ltd Ordinary Shares (South Africa),U
 SHOM,"Southern Home Medical, Inc. Common Stock",U
-SHONF,Socam Development Ltd. Ordinary Shares (Bermuda),U
 SHOO,"Steven Madden, Ltd. Common Stock",NASDAQ
 SHOP,Shopify Inc. Class A subordinate voting shares,NYSE
 SHOUY,Shougang Fushan Resources Group Limited Unsponsored ADR (Hong Kong),U
@@ -852,7 +854,9 @@ SPRE,SP Funds S&P Global REIT Sharia ETF,ARCA
 SPRL,"Strat Petroleum, Ltd. New Common Stock",U
 SPRN,SUPERNOVA ENERGY INC Common Stock,U
 SPRO,"Spero Therapeutics, Inc. Common Stock",NASDAQ
+SPRQ,Spartan Acquisition Corp. II,NYSE
 SPRQ U,"Spartan Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-ha",NYSE
+SPRQ WS,"Spartan Acquisition Corp. II Warrants, exercisable for one share of Class A Common Stock",NYSE
 SPRRY,SUPER RETAIL GROUP LTD  American Depositary Receipts - Unsponsored (Australia),U
 SPRS,"Surge Components, Inc. Common Stock",U
 SPRT,"Support.com, Inc. Common Stock",NASDAQ
@@ -957,7 +961,6 @@ SRCX,Stonebridge Resources Explorations Ltd New Common Stock,U
 SRDAF,Schroder Asia Pacific Fund Ordinary Shares (United Kingdom),U
 SRDX,"Surmodics, Inc. Common Stock",NASDAQ
 SRE,Sempra Energy,NYSE
-SRE PRA,"Sempra Energy 6% Mandatory Convertible Preferred Stock, Series A",NYSE
 SRE PRB,"Sempra Energy 6.75% Mandatory Convertible Preferred Stock, Series B",NYSE
 SREA,Sempra Energy 5.750% Junior Subordinated Notes due 2079,NYSE
 SREDF,Storebrand (F) Ordinary Shares,U
@@ -2107,6 +2110,7 @@ TIAJF,Telecom Italia S.P.A. AZ.DI RISP. Non Conv. (Italy),U
 TIANF,Tianneng Power Internatioanl Limited Ordinary Shares (Cayman Islands),U
 TIAOF,Telecom Italia S.P.A. New Common Stock (Italy),U
 TICJ,Tritent International Corp NEW Common Stock,U
+TICSF,Tisco Finanacial Group Pub Co Ltd. NVDR Shs (Thailand),U
 TIDE,Tidelands Oil & Gas Corporation Common Stock,U
 TIEKF,TIE KINETIX N V (Netherlands),U
 TIEMF,"Tiemco Co., Ltd. Ordinary Shares (Japan)",U
@@ -2850,6 +2854,7 @@ TUFUF,Thai Union Group PLC Ltd Depositary Receipts,U
 TUGHF,Tungtex Holding Ordinary Shares,U
 TUIFF,TUI AG Namen AKT (Germany) EUR,U
 TUIFY,TUI AG Unsponsored ADR representing Namen AKT (Germany),U
+TUIIF,Tui AG BZR Exp 01/26/2021 (Germany),U
 TULLF,TP Icap PLC Ordinary Shares,U
 TUMIF,KINGSMEN RES LTD  Common Shares,U
 TUOAF,TUFTON OCEANIC ASSETS LTD Ordinary Shares (Guernsey),U
@@ -3212,7 +3217,6 @@ UNCHF,Unicharm Corp Ordinary Shares (Japan),U
 UNCP,UNIT CORP COM NEW,U
 UNCRY,Unicredito SPA American Depositary Receipts - Unsponsored (Italy),U
 UNDR,UnderSea Recovery Corporation. Common Stock,U
-UNDT,Universal Detection Technology Common Stock,U
 UNEGF,United Energy Group Ltd Ordinary Shares (Bermuda),U
 UNEQ,"Uneeqo, Inc. Common Stock",U
 UNEX,UNEX HLDGS INC Common Stock,U
@@ -3238,7 +3242,6 @@ UNL,"United States 12 Month Natural Gas Fund, LP",ARCA
 UNLA,Unilava Corporation. Common Stock,U
 UNLRF,Unilever Indonesia Tbk PT Ordinary Shares (Indonesia),U
 UNLRY,PT Unilever Indonesia Tbk Unsponsored ADR (Indonesia),U
-UNLVF,Unilever NV Ordinary Shares (Netherlands),U
 UNLYF,Unilever Plc Ordinary Shares,U
 UNM,Unum Group,NYSE
 UNMA,Unum Group 6.250% Junior Subordinated Notes due 2058,NYSE
@@ -3340,7 +3343,6 @@ USB,U.S. Bancorp,NYSE
 USB PRA,U.S. Bancorp Depositary Shares (each representing a 1/100th interest in a share of Series A Non-Cumu,NYSE
 USB PRH,"US Bancorp Depositary Shares (1/1,000 Interest in Ser. B Non-Cum. Prptl. Prfrd. Stock)",NYSE
 USB PRM,"U.S. Bancorp Depositary Shares, each representing 1/1000th interest in a share of Series F Non-Cumul",NYSE
-USB PRO,"U.S. BANCORP Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series H Non-Cum",NYSE
 USB PRP,"U.S. Bancorp Depositary Shares each representing a 1/1,000th interest in a share of Series K Non-Cum",NYSE
 USB PRQ,"U.S. Bancorp Depositary Shares, Each Representing a 1/1, 000th Interest in a Share of Series L Non-",NYSE
 USBBU,U S Prem Beef LLC Unit Cl B,U
@@ -3545,7 +3547,6 @@ VCNX,"Vaccinex, Inc. Common Stock",NASDAQ
 VCOGF,Vicotoria Oil & Gas Plc London Ordinary Shares,U
 VCON,VICON INDS INC Common Stock,U
 VCOR,VISIBER57 CORP. Common Stock,U
-VCPS,VinCompass Corp. Common Stock,U
 VCR,Vanguard Consumer Discretionary ETF,ARCA
 VCRA,"VOCERA COMMUNICATIONS,  INC.",NYSE
 VCRPF,Vanguard Funds PLC Exchange Traded Fund USD CORPORATE BD UCITS ETF USD ACCUM Ireland(IE),U
@@ -3895,6 +3896,7 @@ VOOV,Vanguard S&P 500 Value ETF,ARCA
 VOPKF,Koninklijke Vopak NV Rotterdam (Netherlands) EUR Ordinary Shares,U
 VOPKY,Koninklijke Vopak NV Rotterdam Unsponsored ADR (Netherlands),U
 VOQP,"VioQuest Pharmaceuticals, Inc. Common Stock",U
+VOSOU,Virtuoso Acquisition Corp. Unit,NASDAQ
 VOSSF,Vossloh Ordinary Shares,U
 VOSSY,Vossloh AG Unsponsored ADR (Germany),U
 VOT,Vanguard Mid-Cap Growth ETF,ARCA
@@ -3965,7 +3967,6 @@ VRSEF,"Verisante Technology, Inc.  Ordinary Shares (Canada)",U
 VRSK,"Verisk Analytics, Inc. Common Stock",NASDAQ
 VRSN,"VeriSign, Inc. Common Stock",NASDAQ
 VRSRF,Versarien PLC Ordinary Shares (United Kingdom),U
-VRSSF,Versus Sys Inc Common Stock,U
 VRSYF,VMS Rehab Systems Inc. Common Stock (Canada),U
 VRSZW,Verso Corp Wt Exp (07/15/2023),U
 VRT,Vertiv Holdings Co Class A Common Stock,NYSE
@@ -3985,6 +3986,7 @@ VRUSD,"Verus International, Inc. Common Stock",U
 VRVR,Virtual Interactive Technologies Corp. Common Stock,U
 VRXWF,"Mediavalet, Inc. Ordinary Shares",U
 VRYYF,The Very Good Food Co Inc Common Shares (Canada),U
+VS,Versus Sys Inc Common Stock,NASDAQ
 VSAT,"ViaSat, Inc. Common Stock",NASDAQ
 VSBC,VitaSpring Biomedical Co. Ltd.  Common Stock,U
 VSBGF,VSBLTY GROUPE TECHNOLOGIES CORP COM (Canada),U
@@ -4010,7 +4012,7 @@ VSS,Vanguard FTSE All-World EX-US Small-Cap Index Fund,ARCA
 VSSPY,Valid Solucoes S.A American Depositary Receipts - Sponsored,U
 VSSSF,visionstate corporation Common Stock,U
 VSST,"Voice Assist, Inc. Common Stock",U
-VSSYW,Versus Systems Inc. Warrants,NASDAQ
+VSSYW,Versus Systems Inc. Class A Warrants,NASDAQ
 VST,Vistra Corp.,NYSE
 VST WSA,"Vistra Corp.Warrants to purchase Common Stock (Expiring February 2, 2024)",NYSE
 VSTA,Vasta Platform Limited Class A Ordinary Shares,NASDAQ
@@ -5102,7 +5104,7 @@ ZENYF,Zen Graphene Solutions Ltd Common Shares,U
 ZEON,Zeons Corporation. Common Stock,U
 ZEOOF,Zeon Corp. Tokyo Ordinary Shares (Japan),U
 ZEOOY,ZEON CORP ADR (Japan),U
-ZESTD,"Ecoark Holdings, Inc. Common Stock",U
+ZEST,"Ecoark Holdings, Inc. Common Stock",U
 ZEUCF,ZEU TECHNOLOGIES INC Common Shares,U
 ZEUS,"Olympic Steel, Inc. Common Stock",NASDAQ
 ZFPPF,Zambeef Product Plc Ordinary Shares (Zambia),U
