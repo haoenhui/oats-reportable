@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
@@ -671,7 +672,6 @@ CXH,MFS Investment Grade Municipal Trust,NYSE
 CXIA,"Commodore Applied Technologies, Inc. Common Stock",U
 CXKJ,"CX Network Group, Inc. Common Stock",U
 CXMSF,Cemex S.A.B. de C.V. Cert Part Ord Repr 2 shs A & 1 sh B (Mexico),U
-CXO,CONCHO RESOURCES INC.,NYSE
 CXOXF,Core Lithium Ltd Ordinary Shares,U
 CXP,"COLUMBIA PROPERTY TRUST, INC.",NYSE
 CXRXF,ADVANZ PHARMA CORP LTD Common Stock,U
@@ -1136,6 +1136,7 @@ DIVB,iShares U.S. Dividend and Buyback ETF,BATS
 DIVO,Amplify CWP Enhanced Dividend Income ETF,ARCA
 DIZNF,Maitri Health Technologies Corp Common Shares,U
 DIZTF,"Dignitana AB, MALMO Ordinary Shares (Sweden)",U
+DJAN,FT Cboe Vest U.S. Equity Deep Buffer ETF - January,BATS
 DJCB,"ETRACS Bloomberg Commodity Index Total Return ETN Series B due October 31, 2039",ARCA
 DJCO,Daily Journal Corp. (S.C.) Common Stock,NASDAQ
 DJD,Invesco Dow Jones Industrial Average Dividend ETF,ARCA
@@ -1370,7 +1371,7 @@ DPST,Direxion Daily Regional Banks Bull 3X Shares,ARCA
 DPSTF,Deutsche Post Ag Ordinary Shares,U
 DPUI,DISCOUNT PRINT USA INC Common Stock,U
 DPUKY,Dominos Pizza UK and IRL Plc Unsponsored American Depository Receipt (United Kingdom),U
-DPW,"DPW Holdings, Inc.",AMEX
+DPW,"Ault Global Holdings, Inc.",AMEX
 DPWW,"Diego Pellicer Worldwide, Inc. Common Stock",U
 DPXCF,Delphx Cap Mkts Inc Common Stock,U
 DPZ,Domino's Pizza Inc.,NYSE
@@ -1859,7 +1860,6 @@ EDZ,Direxion Daily Emerging Markets Bear 3x Shares,ARCA
 EDZR,E-Direct Inc Common Stock,U
 EEA,"The European Equity Fund, Inc.",NYSE
 EEENF,88 Energy Ltd Ordinary Shares (Australia),U
-EEEXF,Wisdomtree Commodity Sec Ltd Industrial Metals Other,U
 EEFT,"Euronet Worldwide, Inc. Common Stock",NASDAQ
 EEGI,"Eline Entertainment Group, Inc. Common Stock",U
 EEGUF,Empire Energy Group Ltd Ordinary Shares (Australia),U
@@ -2133,7 +2133,6 @@ EMB,"iShares J,P. Morgan USD Emerging Markets Bond ETF",NASDAQ
 EMBA,eMamba International Corp. Common Stock,U
 EMBD,Global X Emerging Markets Bond ETF,ARCA
 EMBH,iShares Interest Rate Hedged Emerging Markets Bond ETF,ARCA
-EMBI,"Emerald Bioscience, Inc. Common Stock",U
 EMBR,"Embarr Downs, Inc. Common Stock",U
 EMBT,"Ember Therapeutics, Inc. Common Stock",U
 EMBVF,Arca Continental SAB de CV Ordinary Shares (Mexico),U
@@ -2989,7 +2988,6 @@ FCACW,Falcon Capital Acquisition Corp. Warrant,NASDAQ
 FCAFF,Firm Cap Apt REIT Unit (Canada),U
 FCAL,First Trust Exchange-Traded Fund III First Trust California Municipal High Income ETF,NASDAQ
 FCAP,"First Capital, Inc. Common Stock",NASDAQ
-FCAU,FIAT CHRYSLER AUTOMOBILES N.V.,NYSE
 FCAX U,"Fortress Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-fift",NYSE
 FCBBF,FINECOBANK BANCA FINECO SPA Ordinary Shares (Italy),U
 FCBC,"First Community Bankshares, Inc. (VA) Common Stock",NASDAQ
@@ -3307,6 +3305,7 @@ FIXD,First Trust Exchange-Traded Fund VIII First Trust TCW Opportunistic Fixed I
 FIXX,"Homology Medicines, Inc. Common Stock",NASDAQ
 FIZN,First Citizens Bancshares Inc Common Stock,U
 FIZZ,National Beverage Corp. Common Stock,NASDAQ
+FJAN,FT Cboe Vest U.S. Equity Buffer ETF - January,BATS
 FJHL,"Fovea Jewelry Holdings, Ltd. Common Stock",U
 FJIOF,"Fujicco Co., Ltd. Ordinary Shares (Japan)",U
 FJJKF,Fuji Kyuko Co Ltd Ordinary Shares (Japan),U
@@ -3660,7 +3659,9 @@ FOXF,Fox Factory Holding Corp. Common Stock,NASDAQ
 FOXWU,FoxWayne Enterprises Acquisition Corp. Unit,NASDAQ
 FOYJ,Foy Johnston Inc Common Stock,U
 FPA,First Trust Asia Pacific ex-Japan AlphaDEX Fund,NASDAQ
+FPAC,Far Peak Acquisition Corporation,NYSE
 FPAC U,"Far Peak Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third",NYSE
+FPAC WS,"Far Peak Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A",NYSE
 FPAFF,First Pacific Co Ord Ordinary Shares,U
 FPAFY,First Pacific Co Ord American Depositary Shares,U
 FPAY,"FlexShopper, Inc. Common Stock",NASDAQ
@@ -4917,6 +4918,7 @@ GPXM,"Golden Phoenix Minerals, Inc. Common Stock",U
 GQRE,FlexShares Global Quality Real Estate Index Fund,ARCA
 GRA,W.R. Grace & Co.,NYSE
 GRAH,GRIFFIN-AMERICAN HEALTHCARE REIT III INC Common Stock,U
+GRAMF,TPCO HLDG CORP Ordinary Shares,U
 GRAY,"Graybug Vision, Inc. Common Stock",NASDAQ
 GRBG,"Green Bridge Industries, Inc. Common Stock",U
 GRBK,"Green Brick Partners, Inc. Common Stock",NASDAQ
@@ -5252,6 +5254,3 @@ GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U

@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
+MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
 MTOR,"MERITOR, Inc.",NYSE
@@ -654,6 +656,7 @@ NLSPW,NLS Pharmaceutics Ltd. Warrant,NASDAQ
 NLST,"Netlist, Inc. Common Stock",U
 NLTBF,Nolato AB Ordinary Shares B (Sweden),U
 NLTX,"Neoleukin Therapeutics, Inc. Common Stock",NASDAQ
+NLVGF,NEW LOOK VISION GROUP INC Ordinary Shares,U
 NLVVF,New Leaf Ventures Common Stock Class A (Canada),U
 NLY,Annaly Capital Management. Inc.,NYSE
 NLY PRF,"Annaly Capital Management, Inc. 6.95% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferre",NYSE
@@ -1558,7 +1561,6 @@ ONE,OneSmart International Education Group Limited,NYSE
 ONEM,"1Life Healthcare, Inc. Common Stock",NASDAQ
 ONEO,SPDR Russell 1000 Momentum Focus ETF,ARCA
 ONEQ,Fidelity Nasdaq Composite Index Tracking Stock,NASDAQ
-ONETY,O Net Technologies Group Ltd. American Depositary Receipts - Unsponsored,U
 ONEV,SPDR Russell 1000 Low Volatility ETF,ARCA
 ONEW,OneWater Marine Inc. Class A Common Stock,NASDAQ
 ONEXF,Onex Corp Sub Voting Shares (Canada),U
@@ -2312,7 +2314,6 @@ PGIE,"PGI Energy, Inc. Common Stock",U
 PGINF,Prestige International Inc Tokyo Ordinary Shares (Japan),U
 PGJ,Invesco Exchange-Traded Fund Trust Invesco Golden Dragon China ETF,NASDAQ
 PGLO,"Pan Global, Corp. Common Stock",U
-PGLTF,Phumelela Gaming & Leisure Ltd Common Shares   South Africa (ZA),U
 PGM,iPath Series B Bloomberg Platinum Subindex Total ReturnSM ETN,ARCA
 PGMFF,"Barclays Bk PLC iPath Dow Jones-UBS Platinum Subindex Total Return ETN due June 24, 2038 (United Kingdom)",U
 PGNE,Primegen Energy Corporation Common Stock,U
@@ -2933,6 +2934,7 @@ PRPM,"ProTek Capital, Inc.  Common Stock",U
 PRPO,"Precipio, Inc.  Common Stock",NASDAQ
 PRPPF,Purplebricks Group PLC Ordinary Shares (United Kingdom),U
 PRPRF,Prairie Provident Res Inc Ordinary Shares (Canada),U
+PRPS,PROPELLUS INC Common Stock,U
 PRQR,ProQR Therapeutics N.V. Ordinary Shares,NASDAQ
 PRRCF,Procredit Holding Ag Ordinary Shares (Germany),U
 PRRE,"Praetorian Property, Inc. Common Stock",U
@@ -3995,7 +3997,6 @@ RICK,"RCI Hospitality Holdings, Inc. Common Stock",NASDAQ
 RICOF,Ricoh Co Ltd Ordinary Shares,U
 RICOY,"Ricoh Company, Ltd. Sponsored American Depositary Receipt",U
 RIDE,Lordstown Motors Corp. Class A Common Stock,NASDAQ
-RIDEW,Lordstown Motors Corp. Warrant,NASDAQ
 RIDYF,Ridley Corp Ordinary Shares,U
 RIG,Transocean LTD.,NYSE
 RIGG,"Richland Resources International Group, Inc. Common Stock",U
@@ -4720,8 +4721,7 @@ SBTX,"Silverback Therapeutics, Inc. Common Stock",NASDAQ
 SBUG,iPath Silver ETN,ARCA
 SBUM,Silver Buckle Mines Inc Common Stock,U
 SBUX,Starbucks Corporation Common Stock,NASDAQ
-SBVCF,Subversive Capital Acquisition Corp Class A Restricted Voting Shares (Canada),U
-SBVQF,SUBVERSIVE CAP ACQUISITION CORP Warrant   07/16/2024,U
+SBVQF,TPCO HLDG CORP WT EXP 01/15/2026 Warrant,U
 SBVRF,Subversive Real Estate Acquisition REIT LP Restricted Voting Units (Canada),U
 SBWFF,CORNISH METALS INC Ordinary Shares,U
 SBYSF,SIBANYE STILLWATER LTD Ordinary Shares,U

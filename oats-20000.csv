@@ -245,6 +245,7 @@ SKVY,Sentry Technology Corporation Common Stock,U
 SKX,"Skechers U.S.A., Inc.",NYSE
 SKXJF,Sankyo Co Ltd Gunma Ordinary Shares (Japan),U
 SKY,Skyline Champion Corporation Common Stock,NYSE
+SKYE,"Skye Bioscience, Inc. Common Stock",U
 SKYF,SKY440 Inc Common Stock,U
 SKYI,"Sky Century Investment, Inc. Common Stock",U
 SKYL,Sky Resort International Ltd. Common Stock,U
@@ -860,7 +861,7 @@ SPRQ WS,"Spartan Acquisition Corp. II Warrants, exercisable for one share of Cla
 SPRRY,SUPER RETAIL GROUP LTD  American Depositary Receipts - Unsponsored (Australia),U
 SPRS,"Surge Components, Inc. Common Stock",U
 SPRT,"Support.com, Inc. Common Stock",NASDAQ
-SPRVD,"Supurva Healthcare Group, Inc. Common Stock",U
+SPRV,"Supurva Healthcare Group, Inc. Common Stock",U
 SPRWF,The Supreme Cannabis Co Inc. Ordinary Shares,U
 SPRZ,"Spriza, Inc. Common Stock",U
 SPSAF,Sopra Sa Ordinary Shares (France),U
@@ -1102,7 +1103,6 @@ SSNT,"SilverSun Technologies, Inc. Common Stock",NASDAQ
 SSO,ProShares Ultra S&P500,ARCA
 SSOF,"Sixty Six Oilfield Services, Inc. Common Stock",U
 SSOK,Sunstock Inc  Common Stock,U
-SSOLD,PROPELLUS INC Common Stock,U
 SSP,E.W. Scripps Company (The) Class A Common Stock,NASDAQ
 SSPK,Silver Spike Acquisition Corp. Class A Ordinary Shares,NASDAQ
 SSPKU,Silver Spike Acquisition Corp. Units,NASDAQ
@@ -1219,6 +1219,7 @@ STKS,"The ONE Group Hospitality, Inc. Common Stock",NASDAQ
 STKXF,"StrikePoint Gold, Inc. Ordinary Shares",U
 STL,Sterling Bancorp,NYSE
 STL PRA,Sterling Bancorp Depositary Shares each representing ownership of a 1/40th interest in a share of 6.,NYSE
+STLA,Stellantis N.V.,NYSE
 STLB,STERLING BUSINESS SOLUTIONS INC Common Stock,U
 STLC,iShares Factors US Blend Style ETF,BATS
 STLD,"Steel Dynamics, Inc.",NASDAQ
@@ -1889,6 +1890,7 @@ TEGS,Trend Aggregation ESG ETF,BATS
 TEGY,Transact Energy Corporation Common Stock,U
 TEHG,"Technovative Group, Inc. Common Stock",U
 TEI,Templeton Emerging Markets Income Fund,NYSE
+TEKCF,TEKCAPITAL PLC Ordinary Shares,U
 TEKI,TEK DigiTel Corporation TEK DigiTel Corporation,U
 TEKK,Tekkorp Digital Acquisition Corp. Class A Ordinary Shares,NASDAQ
 TEKKU,Tekkorp Digital Acquisition Corp. Unit,NASDAQ
@@ -2224,10 +2226,8 @@ TLC,"Taiwan Liposome Company, Ltd. American Depository Shares",NASDAQ
 TLCC,"Twinlab Consolidated Holdings, Inc. Common",U
 TLCO,Teleconnect Inc. Common Stock,U
 TLDE,"TLD3 Entertainment Group, Inc. Common Stock",U
-TLDH,FlexShares Currency Hedged Morningstar DM ex US Factor Tilt Index Fund,ARCA
 TLDN,Telidyne Inc. Common Stock,U
 TLED,Light Engine Design Corp. Common Stock,U
-TLEH,FlexShares Currency Hedged Morningstar EM Factor Tilt Index Fund,ARCA
 TLFA,"Tandy Leather Factory, Inc. Common Stock",U
 TLFE,"Elfato, Inc. Common Stock",U
 TLFX,"Telefix Communications Holdings, Inc. Common Stock",U
@@ -2479,6 +2479,7 @@ TPAY,Ecofin Digital Payments Infrastructure Fund,ARCA
 TPB,"Turning Point Brands, Inc.",NYSE
 TPBTF,BETMAKERS TECHNOLOGY GROUP LTD ORDINARY FULLY PAID (Australia),U
 TPC,Tutor Perini Corporation,NYSE
+TPCAF,TIPCO ASPHALT PUB CO LTD Ordinary Shares,U
 TPCFF,Titan Logix Corporation Ordinary Shares (Canada),U
 TPCO,Tribune Publishing Company Common Stock,NASDAQ
 TPCS,Techprecision Corporation Common Stock,U
@@ -2493,7 +2494,7 @@ TPGVF,Top Glove Corporation BHD Ordinary Shares (Malaysia),U
 TPGY,TPG Pace Beneficial Finance Corp.,NYSE
 TPGY U,"TPG Pace Beneficial Finance Corp. Units, each consisting of one Class A ordinary share and one-fifth",NYSE
 TPGY WS,"TPG Pace Beneficial Finance Corp. Warrants, each whole warrant exercisable for one Class A ordinary",NYSE
-TPH,"TRI Pointe Group, Inc",NYSE
+TPH,"Tri Pointe Homes, Inc.",NYSE
 TPHD,Timothy Plan High Dividend Stock ETF,ARCA
 TPHIF,Top Frontier Investment Holdings Inc Ordinary Shares (Phillipines),U
 TPHS,Trinity Place Holdings Inc.com,AMEX
@@ -3607,7 +3608,6 @@ VERF,Versailles Financial Corporation Common Stock,U
 VERI,"Veritone, Inc. Common Stock",NASDAQ
 VERKF,Verkkokauppa.com OYJ Common Shares (Finland),U
 VERO,Venus Concept Inc. Common Stock,NASDAQ
-VERT U,"Vertiv Holdings Co Units, each consisting of one share of Class A common stock and one-third of one",NYSE
 VERU,Veru Inc. Common Stock,NASDAQ
 VERX,"Vertex, Inc. Class A Common Stock",NASDAQ
 VERY,"Vericity, Inc. Common Stock",NASDAQ
@@ -3970,7 +3970,6 @@ VRSRF,Versarien PLC Ordinary Shares (United Kingdom),U
 VRSYF,VMS Rehab Systems Inc. Common Stock (Canada),U
 VRSZW,Verso Corp Wt Exp (07/15/2023),U
 VRT,Vertiv Holdings Co Class A Common Stock,NYSE
-VRT WS,"Vertiv Holdings Co Warrants, each whole warrant exercisable for one share of Class A Common Stock at",NYSE
 VRTA,"Vestin Realty Mortgage I, Inc. Common Stock",U
 VRTB,"Vestin Realty Mortgage II, Inc.",U
 VRTC,"Veritec, Inc. Common Stock",U
@@ -3986,7 +3985,7 @@ VRUSD,"Verus International, Inc. Common Stock",U
 VRVR,Virtual Interactive Technologies Corp. Common Stock,U
 VRXWF,"Mediavalet, Inc. Ordinary Shares",U
 VRYYF,The Very Good Food Co Inc Common Shares (Canada),U
-VS,Versus Sys Inc Common Stock,NASDAQ
+VS,Versus Systems Inc. Common Shares,NASDAQ
 VSAT,"ViaSat, Inc. Common Stock",NASDAQ
 VSBC,VitaSpring Biomedical Co. Ltd.  Common Stock,U
 VSBGF,VSBLTY GROUPE TECHNOLOGIES CORP COM (Canada),U
@@ -4821,6 +4820,7 @@ XNJJY,Xinjiang Goldwind Science & Technology Co Ltd American Depositary Receipts
 XNNHQ,"Xenonics Holdings, Inc. Common Stock",U
 XNTK,SPDR NYSE Technology ETF,ARCA
 XNYIF,Xinyi Solar Holdings Limited Ordinary Shares (Cayman Islands),U
+XOG,"Extraction Oil & Gas, Inc. Common Stock",NASDAQ
 XOGAQ,EXTRACTION OIL & GAS INC Common Stock,U
 XOGPQ,Extraction Oil & Gas Inc Preferred Stock,U
 XOM,Exxon Mobil Corporation,NYSE

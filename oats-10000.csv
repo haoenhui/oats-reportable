@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
@@ -414,7 +417,7 @@ HJLI,"Hancock Jaffe Laboratories, Inc. Common Stock",NASDAQ
 HJLIW,"Hancock Jaffe Laboratories, Inc. Warrants",NASDAQ
 HJMNF,Heijmans Nv Ordinary Shares (Netherlands),U
 HJPX,iShares Currency Hedged JPX-Nikkei 400 ETF,ARCA
-HJVDF,Fontak Funds Feier Deutsche Aktien Shs Hldgs Class A (Germany),U
+HJVDF,FONDAK FONDS FUER DEUTSCHE AKTIEN Shs Hldgs Class A (Germany),U
 HKBNF,HKBN Ltd Ordinary Shares (Cayman Islands),U
 HKBNY,HKBN Ltd Unsponsored ADR (Hong Kong),U
 HKBT,HK Battery Technology Inc. Common Stock,U
@@ -698,7 +701,6 @@ HRDDF,Hardey Res Ltd Ordinary Shares (Australia),U
 HRDI,"Here Media, Inc Common Stock",U
 HRDIL,"Here Media, Inc Spl Shares",U
 HREEF,Stans Energy Corp. Ordinary Shares (Canada),U
-HRELY,Haier Electronics Group Co Ltd. Unsponsored ADR (Bermuda),U
 HRENF,"Huaneng Renewables Corporation Ltd, Beijing Registered Shares (China)",U
 HRFEF,Harfang Expl Inc Common Shares (Canada),U
 HRGG,Heritage Nola Bancorp Inc Common Stock,U
@@ -1342,7 +1344,7 @@ IGIC,International General Insurance Holdings Ltd. Ordinary Share,NASDAQ
 IGICW,International General Insurance Holdings Ltd. Warrants expiring 03/17/2025,NASDAQ
 IGIFF,IGM Financial Inc. Ordinary Shares (Canada),U
 IGLB,iShares 10+ Year Investment Grade Corporate Bond ETF,ARCA
-IGLDF,Internet Gold Golden Lines Ltd. Ordinary Shares (Israel),U
+IGLDD,INTERNET GOLD-GOLDEN LINES LTD Ordinary Shares,U
 IGM,iShares Expanded Tech Sector ETF,ARCA
 IGMS,"IGM Biosciences, Inc. Common Stock",NASDAQ
 IGN,iShares North American Tech-Multimedia Networking ETF,ARCA
@@ -2644,7 +2646,7 @@ JTEKY,JTEKT Corporation Unsponsored ADR (Japan),U
 JTNB,"JTNB Bancorp, Inc. Common Stock",U
 JTTRY,Japan Arpt Term Co Ltd American Depositary Receipts - Unsponsored (Japan),U
 JUBPF,Jubilee Metals Group PLC Ordinary Shares,U
-JUDO,Judo Capital Corp. Common Stock,U
+JUDOD,NEWPOINT FINL CORP DEL Common Stock,U
 JUGRF,Juggernaut Expl Ltd Ordinary Shares,U
 JUHDY,JANUS HENDERSON GROUP PLC Chess Depositary Interests (Jersey),U
 JUHL,"Juhl Energy, Inc. Common Stock",U
@@ -4852,7 +4854,6 @@ MNFSF,Manifestseven Holdings Common Shares,U
 MNGG,"Mining Global, Inc. Common Stock",U
 MNGGF,Mongolia Growth Group Ltd. Ordinary Shares (Canada),U
 MNGPF,Man Group PLC Ordinary Shares,U
-MNHD,"Mongolia Holdings, Inc.  Common Stock",U
 MNHFF,Mayr-Melnhof Karton Ag Ordinary Shares (Austria),U
 MNHVF,MOWI Asa Ordinary Shares,U
 MNIA,"Cannis, Inc. Common Stock",U
@@ -5253,5 +5254,3 @@ MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
 MTMW,"Matmown, Inc. Common",U
 MTN,"Vail Resorts, Inc.",NYSE
 MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
-MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
-MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
