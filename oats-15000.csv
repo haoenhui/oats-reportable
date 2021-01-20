@@ -187,6 +187,7 @@ MYSRF,"Moneysupermarket.com Group PLC, Chester Ordinary Shares (United Kingdom)"
 MYSZ,"My Size, Inc. Common Stock",NASDAQ
 MYT,"Urban Tea, Inc. Ordinary Shares",NASDAQ
 MYTAY,Magyar Telekom Telecommunications PLC. American Depositary Shares (Each Representing five Ordinary Shares),U
+MYTE,"MYT Netherlands Parent B.V. American Depositary Shares, each representing one Ordinary Share",NYSE
 MYTEF,Telekom Malaysian Bhd Ordinary Shares,U
 MYTHF,Mytilineos Hldgs Sa Ordinary Shares,U
 MYTHY,Mytilineos S.A. American Depositary Receipts - Unsponsored,U
@@ -203,6 +204,7 @@ MZTFF,Mizrahi Tefahot Bank Ltd Ordinary Shares (Israel),U
 MZTLF,John Menzies Plc Ordinary Shares (United Kingdom),U
 MZZ,ProShares UltraShort MidCap400,ARCA
 MZZMF,Matador Mining Ltd. Ordinary Shares (Australia),U
+NAACU,North Atlantic Acquisition Corporation Unit,NASDAQ
 NABA,National Bancshares Inc (IA) Common Shares,U
 NABIF,Nabis Holdings Inc. Common Shares,U
 NABXF,Nabaltec AG Ordinary Shares (Germany),U
@@ -1766,6 +1768,7 @@ OSTIY,Osterreichische Post AG Sponsored ADR (Austria),U
 OSTK,"Overstock.com, Inc. Common Stock",NASDAQ
 OSTKO,Overstock.Com Inc Preferred Digital Voting Series A-1,U
 OSTO,Original Sixteen To One Mine Common Stock,U
+OSTRU,Oyster Enterprises Acquisition Corp. Unit,NASDAQ
 OSUKF,Otsuka Corp Ordinary Shares (Japan),U
 OSUR,"OraSure Technologies, Inc. Common Stock",NASDAQ
 OSVBF,"OneSavings Bank PLC, Chatham Ordinary Shares (United Kingdom)",U
@@ -1965,6 +1968,7 @@ PAYX,"Paychex, Inc. Common Stock",NASDAQ
 PAZRF,Plaza Retail Reit Trust Units (Canada),U
 PB,Prosperity Bancshares Inc,NYSE
 PBA,PEMBINA PIPELINE CORPORATION,NYSE
+PBAJ,"Petro USA, Inc. Common Stock",U
 PBAM,"Private Bancorp of America, Inc. Common Stock",U
 PBATF,PT Tambang Batubara Bukit ASAM TBK SHS SERIES -B -Ordinary Shares (Indonesia),U
 PBB,Prospect Capital Corporation 6.25% Notes due 2024,NYSE
@@ -2223,7 +2227,6 @@ PETRY,Petrobras Distribuidora American Depositary Receipts - Unsponsored (Brazil
 PETS,"PetMed Express, Inc. Common Stock",NASDAQ
 PETVD,PetVivo Holdings Inc. Common Stock,U
 PETZ,"TDH Holdings, Inc. Common Shares",NASDAQ
-PEUGF,Peugeot Sa Ord Ff35 Par Ordinary Shares,U
 PEX,ProShares Global Listed Private Equity ETF,BATS
 PEXL,Pacer US Export Leaders ETF,ARCA
 PEXNY,Ptt Exploration & Prod (Local) American Depositary Shares,U
@@ -2635,7 +2638,6 @@ PMO,Putnam Municipal Opportunities Trust,NYSE
 PMOIF,Premier Oil plc New Ordinary Shares (United Kingdom),U
 PMOIY,Premier Oil plc American Depositary Shares,U
 PMOZ,"PrismOne Group, Inc. Common Stock",U
-PMPAF,PAMPA ENERGIA SA Common Stock  Argentina(AR ),U
 PMPG,"Premier Products Group, Inc. Common Stock",U
 PMSNF,Proteome Sciences Plc Ordinary Shares,U
 PMSO,Primal Solutions Inc New Common Stock,U
@@ -2708,6 +2710,7 @@ PNTM U,"Pontem Corporation Units, each consisting of one Class A ordinary share,
 PNTOF,Pantoro Ltd. Ordinary Shares (Australia),U
 PNTZF,Trigon Metals Inc. Ordinary Shares,U
 PNW,Pinnacle West Capital Corporation,NYSE
+PNWDF,PNE WIND AG Ordinary Shares (Germany),U
 PNWRF,Valeura Energy Inc. Common Shares (Canada),U
 PNXGF,Phoenix Group Hldgs Plc Ordinary Shares GBP0.10 (United Kingdom),U
 PNXLF,Argentina Lithium & Energy Corp Common Shares,U
@@ -2986,7 +2989,6 @@ PRZFF,BOUNDARY GOLD & COPPER MNG LTD Ordinary Shares,U
 PRZM,PRISM TECHNOLOGIES GROUP INC Common Stock,U
 PS,"Pluralsight, Inc. Class A Common Stock",NASDAQ
 PSA,Public Storage,NYSE
-PSA PRB,"Public Storage Depositary Shares Each Representing 1/1,000 of a 5.40% Cumulative Preferred Share of",NYSE
 PSA PRC,Public Storage  Depositary Shares Each Representing 1/1000 of a 5.125% Cumulative Preferred Share of,NYSE
 PSA PRD,Public Storage,NYSE
 PSA PRE,Public Storage Depositary Shares Each Representing 1/1000 of a 4.90% Cumulative Preferred Share of B,NYSE
@@ -5253,4 +5255,3 @@ SHMP,NaturalShrimp Incorporated Common Stock,U
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
-SHMZF,Shimadzu Corp Ordinary Shares,U

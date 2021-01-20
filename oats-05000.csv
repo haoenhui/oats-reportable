@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPA,"Copa Holdings, S.A.",NYSE
+CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
@@ -654,7 +657,7 @@ CWT,California Water Service,NYSE
 CWTC,"Clearwave Telecommunications, Inc. Common Stock",U
 CWVLF,Crown Point Energy Inc. Common Shares,U
 CWVWF,Lithoquest Resources Inc.  Ordinary Shares,U
-CWWBF,Cannabis Growth Opportunity Corp Ordinary Shares (Canada),U
+CWWBF,PLANT-BASED INVT CORP Ordinary Shares,U
 CWWGF,"Chaowei Power Holdings, Ltd Ordinary Shares (Cayman Islands)",U
 CWXZF,CanWel Building Materials Group Ltd Ordinary Shares (Canada),U
 CWYUF,SmartCentres Real Estate Investment Trust Unit,U
@@ -757,6 +760,7 @@ CZBC,"Citizens Bancorp (Corvallis, OR) Common Stock",U
 CZBS,Citizens Bancshares Corporation (GA) Common Stock,U
 CZBT,"Citizens Bancorp of Virginia, Inc. Common Stock",U
 CZFS,"Citizens Financial Services, Inc. Common Stock",U
+CZGZF,EHC CZUB SE Ordinary Shares (Czech Republic),U
 CZMWF,Carl Zeiss Meditec AG AKT (Germany),U
 CZMWY,Carl Zeiss Meditec AG Unsponsored ADR (Germany),U
 CZNB,Citizens Bancorp (CA) Common Stock,U
@@ -989,6 +993,7 @@ DFEB,FT Cboe Vest U.S. Equity Deep Buffer ETF - February,BATS
 DFEL,"China TMK Battery Systems, Inc. Common Stock",U
 DFEN,Direxion Daily Aerospace & Defense Bull 3X Shares,ARCA
 DFFN,Diffusion Pharmaceuticals Inc. Common Stock,NASDAQ
+DFH,"Dream Finders Homes, Inc. Class A Common Stock",NASDAQ
 DFHL,Dong Fang Hui Le Inc. Common Stock,U
 DFHT,Deerfield Healthcare Technology Acquisitions Corp. Class A Common Stock,NASDAQ
 DFHTU,Deerfield Healthcare Technology Acquisitions Corp. Unit,NASDAQ
@@ -1637,6 +1642,7 @@ DXF,Dunxin Financial Holdings Limited,AMEX
 DXGE,WisdomTree Trust WisdomTree Germany Hedged Equity Fund,NASDAQ
 DXIEF,DXI Capital Corp Common Shares,U
 DXJ,WisdomTree Japan Hedged Equity Fund,ARCA
+DXJJF,WISDOMTREE ISSUER ICAV JAPAN EQUITY UCITS ETF USD (Ireland),U
 DXJS,WisdomTree Trust WisdomTree Japan Hedged SmallCap Equity Fund,NASDAQ
 DXLG,DESTINATION XL GROUP INC Common Stock,U
 DXMEF,Xtrackers MSCI Europe UCITS ETF 1C Ordinary Shares,U
@@ -1806,6 +1812,7 @@ ECUI,"Ecuity, Inc. Common Stock",U
 ECVTF,Economic Investment Trust Ltd. Ordinary Shares (Canada),U
 ECWDF,EC World REIT (Singapore),U
 ECXJ,"CXJ Group Co., Limited Common Stock",U
+ECXRF,EPIGENOMICS AG BZR Rights Mat 01/27/2021 (Germany),U
 ECXXF,Eclipx Group Ltd (Australia),U
 ECYAF,Wisdomtree Commodity Sec Ltd Agriculture Other,U
 ECYCF,Wisdomtree Commodity Sec Ltd Soybeans Common Shares,U
@@ -2731,7 +2738,7 @@ EVT,Eaton Vance Tax-Advantaged Dividend Income Fund,NYSE
 EVTC,"EVERTEC, INC.",NYSE
 EVTCY,Evotec SE American Depositary Receipts - Sponsored,U
 EVTI,"Eventure Interactive, Inc. Common Stock",U
-EVTN,"Enviro Technologies, Inc. Common Stock",U
+EVTN,"Enviro Technologies U.S., Inc. Common Stock",U
 EVTNF,Eviation Aircraft Ltd. Ordinary Shares,U
 EVTP,"EV Transportation, Inc. Common Stock",U
 EVTZF,Evertz Technologies Ltd Common Shares (Canada),U
@@ -3238,6 +3245,7 @@ FHN PRC,"First Horizon Corporation Depositary Shares, each representing a 1/400t
 FHN PRD,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-",NYSE
 FHN PRE,"First Horizon Corporation Depositary Shares, Each Representing a 1/ 4000th Interest in a Share of No",NYSE
 FHRT,First Hartford Corp Unclassified,U
+FHTF,FHT FUTURE TECHNOLOGY LTD Common Stock,U
 FHTX,Foghorn Therapeutics Inc. Common Stock,NASDAQ
 FI,FRANK'S INTERNATIONAL N.V.,NYSE
 FIBH,First Bancshares Inc Ohio,U
@@ -4295,7 +4303,6 @@ GDSKF,NEVADA ZINC CORP  Ordinary Shares,U
 GDV,The Gabelli Dividend & Income Trust,NYSE
 GDV PRG,"The Gabelli Dividend & Income Trust 5.25% Series G Cumulative Preferred Shares, par value $0.001 per",NYSE
 GDV PRH,The Gabelli Dividend & Income Trust 5.375% Series H Cumulative Preferred Shares,NYSE
-GDVD,Principal Active Global Dividend Income ETF,BATS
 GDVE,"Global Development & Environmental Resources, Inc. Common Stock",U
 GDVM,Global Developments Inc. Common Stock,U
 GDVTZ,Gould Investors Lp Units Unit,U
@@ -4451,7 +4458,6 @@ GGXXF,GGX Gold Corp. Ordinary Shares,U
 GGZ,The Gabelli Global Small and Mid Cap Value Trust,NYSE
 GGZ PRA,The Gabelli Global Small and Mid Cap Value Trust 5.450% Series A Cumulative Preferred Shares (Liquid,NYSE
 GH,"Guardant Health, Inc. Common Stock",NASDAQ
-GHAR,Ghar Inc Common Stock,U
 GHAV,"Grand Havana, Inc. Common Stock",U
 GHC,GRAHAM HOLDINGS COMPANY,NYSE
 GHCGF,GEORGIA HEALTHCARE GROUP PLC ORD GBP0.01 (United Kingdom),U
@@ -4659,6 +4665,7 @@ GMALY,Genting Malaysia Berhad Sponsored ADR,U
 GMBKF,Gunma Bank Ltd Ordinary Shares (Japan),U
 GMBL,Esports Entertainment Group Inc. Common Stock,NASDAQ
 GMBLW,Esports Entertainment Group Inc. Warrant,NASDAQ
+GMBTU,Queen's Gambit Growth Capital Unit,NASDAQ
 GMBXF,Grupo Mexico SA De CV Ordinary Shares,U
 GMDA,Gamida Cell Ltd. Ordinary Shares,NASDAQ
 GMDMF,Gem Diamonds Ltd. Ordinary Shares (British Virgin Islands),U
@@ -4679,6 +4686,7 @@ GMGSF,Goodman Group Sydney NSW Stapled Security (Australia),U
 GMHLF,Gam Holding Ag Ordinary Shares Namen AKT (Switzerland),U
 GMHLY,"Gam Holding Ag, Zuerich Unsponsored ADR (Switzerland)",U
 GMICF,Genworth MI Canada Inc. Ordinary Shares (Canada),U
+GMIIU,"Gores Metropoulos II, Inc. Unit",NASDAQ
 GMJOF,"Gamecard-Joyco Holdings Inc, Tokyo Ordinary Shares  (Japan)",U
 GMKKY,Gruma SAB DE C V American Depositary Receipts - Unsponsored (Mexico),U
 GMLP,Golar LNG Partners LP Common Units Representing Limited Partnership,NASDAQ
@@ -4726,6 +4734,7 @@ GNCA,"Genocea Biosciences, Inc. Common Stock",NASDAQ
 GNCC,Genco Corporation Common Stock,U
 GNCGF,Greencore Group Plc Ordinary Shares,U
 GNCGY,Greencore Group Plc American Depositary Shares,U
+GNCLF,GENCELL LTD SHARE (Israel),U
 GNCNF,GENCAN CAP INC  Ordinary Shares (Canada),U
 GNCP,"GNCC Capital, Inc. Common Stock (DE)",U
 GNE,GENIE ENERGY LTD,NYSE
@@ -4873,7 +4882,6 @@ GPHBF,G6 Materials Corp Ordinary Shares,U
 GPHG,"Global Pharm Holdings Group, Inc. Common Stock",U
 GPHOF,Graphite One Inc Common Shares,U
 GPI,"Group 1 Automotive, Inc.",NYSE
-GPIIF,GP Investments Ltd Shares -A- Cert Deposito Representing 1 Share -A- (Bermuda),U
 GPIW,"Grand Perfecta, Inc. Common Stock",U
 GPJA,"Georgia Power Company Series 2017A 5.00 Percent Junior Subordinated Notes due October 1, 2077",NYSE
 GPK,Graphic Packaging Holding Company,NYSE
@@ -5248,9 +5256,3 @@ GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
-GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U

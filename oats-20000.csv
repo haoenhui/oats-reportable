@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
@@ -1656,7 +1657,6 @@ TAHKF,Tracker Fund Of Hong Kong Units (Hong Kong),U
 TAICF,TAI CHEUNG HOLDINGS LTD SHS (Bermuda),U
 TAIL,Cambria Tail Risk ETF,BATS
 TAIPY,Taisho Pharmaceutical Holdings Co Ltd. American Depositary Receipts - Unsponsored (Japan),U
-TAIRF,Tiger Airways Holdings Ltd. Foreign Ordinary Shares,U
 TAISF,"Taisho Pharmaceutical Holdings Co Ltd, Tokyo Ordinary Shares (Japan)",U
 TAIT,Taitron Components Incorporated Class A Common Stock,NASDAQ
 TAJIF,Tajiri Resources Corporation Common Shares (Canada),U
@@ -2446,7 +2446,6 @@ TOMDF,Todos Med Ltd Ordinary Shares (Israel),U
 TOMYF,Tomy Co Ltd Ordinary Shares (Japan),U
 TOMYY,Tomy Co Ltd American Depositary Receipts - Unsponsored,U
 TOMZ,"TOMI Environmental Solutions, Inc. Common Stock",NASDAQ
-TONJ,"Tongji Healthcare Group, Inc. Common Stock",U
 TONPF,Toppan Printing Ltd Ord Ordinary Shares,U
 TONR,"Tonner-One World Holdings, Inc Common Stock",U
 TOOD,Thermwood Corporation Common Stock,U
@@ -2593,6 +2592,7 @@ TRKNY,Turk Telekomunikasyon Unsponsored American Depository Receipt (Turkey),U
 TRKR,Tracker Corporation of America (The) Common Stock,U
 TRKX,"Trek Resources, Inc. Common Stock",U
 TRKYY,Turkiye Sinai Kalkinma Bankasi As Unsponsored ADR (Turkey),U
+TRLC,TRILINC Global Impact Fund LLC Unit Class A,U
 TRLDF,Threegold Res Inc Ordinary shares (Canada),U
 TRLFF,True Leaf Brands Inc. Ordinary Shares,U
 TRMB,Trimble Inc. Common Stock,NASDAQ
@@ -3183,6 +3183,7 @@ ULTR,IQ Ultra Short Duration ETF,ARCA
 ULTRF,ULTRAPETROL BAHAMAS LIMITED Common Stock,U
 ULTXF,ULTRA RES INC CDA Common Shares,U
 ULUR,Uluru Inc. Common Stock,U
+ULVAF,Ulvac Inc SHS (Japan),U
 ULVM,VictoryShares USAA MSCI USA Value Momentum ETF,ARCA
 UMAM,Umami Sustainable Seafood Inc. Common Stock,U
 UMAR,Innovator S&P 500 Ultra Buffer ETF - March,BATS
@@ -3757,7 +3758,6 @@ VKSKF,VITAL KSK HLDGS INC Common Shares,U
 VKTX,"Viking Therapeutics, Inc. Common Stock",NASDAQ
 VKTXW,"Viking Therapeutics, Inc. Warrants",NASDAQ
 VKVEF,Vaneck Vectors Wells Fargo Pfd A Usd Exchange Traded Fund (Bermuda),U
-VLANF,VISTA LAND & LIFESCAPES INC SHS (Phillipines),U
 VLBI,"Valentine Beauty, Inc. NEW Common Stock",U
 VLCJF,VELOCITY MINERALS LTD Common Shares,U
 VLDI,Validian Corporation Common Stock,U
@@ -3941,6 +3941,7 @@ VRCFF,Victory Resources Corporation Ordinary Shares,U
 VRCI,"Verde Science, Inc. Common Stock",U
 VRCM,VersaCOM International Inc Common Stock,U
 VRCV,"Varca Ventures, Inc. Common",U
+VRDN,"Viridian Therapeutics, Inc. Common Stock",NASDAQ
 VRDR,"Verde Resources, Inc. Com",U
 VRDSF,Viridis Hldgs Corp Ordinary Shares,U
 VRED,Virtual Ed Link Inc Common Stock,U

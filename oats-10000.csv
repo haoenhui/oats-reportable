@@ -1,4 +1,10 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWB,"Great Western Bancorp, Inc.",NYSE
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
+GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
+GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
@@ -1179,7 +1185,6 @@ ICUSF,"Icecure Medical Ltd, Caesarea Ordinary Shares (Israel)",U
 ICVT,iShares Convertible Bond ETF,BATS
 ID,"PARTS iD, Inc.",AMEX
 IDA,"IDACORP, Inc.",NYSE
-IDAD,"International Display Advertising, Inc. Common Stock",U
 IDAM,Idarado Mining Co Common Stock,U
 IDBHF,INDUSTRIAS BACHOCO SAB DE CV Ordinary Shares B (Mexico),U
 IDCBF,Industrial and Commercial Bank of China Ltd Hkd Shs -H- (China),U
@@ -1882,6 +1887,7 @@ IRLTF,Intralot SA - Integrated IT Systems and Lottery Services Ordinary Shares,U
 IRLTY,Intralot Sa Unsponsored ADR (Greece),U
 IRM,Iron Mountain Inc.,NYSE
 IRMD,iRadimed Corporation Common Stock,NASDAQ
+IRME,IR-Med Inc Common Stock,U
 IRMTF,Information Svcs Corp Ordinary Shares (Canada),U
 IRNC,Ironclad Encryption Corporation Common Stock,U
 IRNG,International Ranger Corp. Common Stock,U
@@ -2295,6 +2301,7 @@ JAGR,Green Street Capital Corporation. Common Stock,U
 JAGX,"Jaguar Health, Inc. Common Stock",NASDAQ
 JAIRF,Japan Airport Terminal Co Ordinary Shares,U
 JAKK,"JAKKS Pacific, Inc. Common Stock",NASDAQ
+JAKP,JAKKS PAC INC 6% SR PFD SER A,U
 JALA,"Be Active Holdings, Inc. Common Stock",U
 JALC,John Adams Life Corporation Common Stock,U
 JAMF,Jamf Holding Corp. Common Stock,NASDAQ
@@ -2791,7 +2798,7 @@ KDIXF,Kenedix Residential Investment Corporation Ordinary Shares (Japan),U
 KDKCF,KODIAK COPPER CORP Ordinary Shares,U
 KDKGF,Klondike Gold Cp Ordinary Shares,U
 KDKN,"Kodiak Energy, Inc. Common Stock",U
-KDKWF,Kadokawa Dwanago Corp Ordinary Shares (Japan),U
+KDKWF,KADOKAWA CORP Ordinary Shares,U
 KDMN,"Kadmon Holdings, Inc. Common Stock",NASDAQ
 KDNY,"Chinook Therapeutics, Inc. Common Stock",NASDAQ
 KDOZF,Kidoz Inc Common Shares,U
@@ -2811,7 +2818,6 @@ KEN,KENON HOLDINGS LTD.,NYSE
 KENS,Kenilworth Systems Corp.  Common Stock,U
 KEP,Korea Electric Power Corp,NYSE
 KEQU,Kewaunee Scientific Corporation Common Stock,NASDAQ
-KERMF,Arizona Gold Corp. Ordinary Shares,U
 KERN,Akerna Corp. Common Stock,NASDAQ
 KERNW,Akerna Corp Warrant,NASDAQ
 KESG,KraneShares MSCI China ESG Leaders Index ETF,ARCA
@@ -4198,7 +4204,6 @@ MCBP,Michigan Community Bancorp Limited Common Stock,U
 MCBRF,Mcbride Plc Ordinary Shares,U
 MCBS,"MetroCity Bankshares, Inc. Common Stock",NASDAQ
 MCCHF,Mcchip Resources Inc Ordinary Shares,U
-MCCI,Marketing Concepts International Common Stock,U
 MCCK,Mestek Inc Common Stock NEW,U
 MCCLF,Macromill Inc Ordinary Shares (Japan),U
 MCCRF,"McCoy Global, Inc. Ordinary Shares (Canada)",U
@@ -4283,7 +4288,6 @@ MDAW,Media Way Corporation Common Stock,U
 MDB,"MongoDB, Inc. Class A Common Stock",NASDAQ
 MDBBF,Medlab Clinical Ltd Ordinary Shares (Australia),U
 MDBIF,Medibio Ltd Ordinary Shares (Australia),U
-MDBJF,MEDICAL & BIOLOGICAL LABORATORIES CO LTD Ordinary Shares,U
 MDBKY,MEDIBANK PRIVATE LTD American Depositary Receipts - Unsponsored (Australia),U
 MDBPF,Medibank Private LTD Common Stock,U
 MDBS,"Master Distribution Systems, Inc. Common Stock",U
@@ -4308,7 +4312,6 @@ MDGL,"Madrigal Pharmaceuticals, Inc. Common Stock",NASDAQ
 MDGP,Medgroup Inc Common Stock,U
 MDGS,Medigus Ltd. American Depositary Shares,NASDAQ
 MDGSW,Medigus Ltd. Series C Warrant,NASDAQ
-MDHTF,Mandarin Hotel Ltd Fgn Ordinary Shares (Thailand),U
 MDIA,Mediaco Holding Inc. Class A Common Stock,NASDAQ
 MDIBF,Mediobanca - Banca Di Credito Finanziario SPA Ordinary Shares,U
 MDIBY,Mediobanca - Banca Di Credito Finanziario SPA Unsponsored ADR (Italy),U
@@ -4483,7 +4486,6 @@ MGDDF,Michelin Cie Gen Des Estb Cl B Ordinary Shares,U
 MGDDY,Michelin Compagnie Generale des Etablissements Michelin Unsponsored ADR representing Nom Shares (France),U
 MGDPF,Marathon Gold Corp Common Shares (Canada),U
 MGEE,"MGE Energy, Inc",NASDAQ
-MGEN,"Miragen Therapeutics, Inc. Common Stock",NASDAQ
 MGF,MFS Government Markets Income Trust Common Shares of Beneficial Interest,NYSE
 MGFRF,"Magforce AG, Berlin Ordinary Shares (Germany)",U
 MGFX,"Monarch Gulf Exploration, Inc. New Common",U
@@ -5100,7 +5102,7 @@ MRRDF,Meridian Mng S E  Ordinary Shares (Netherlands),U
 MRRHF,Marret High Yield Strategies Fund Class A Unit (Canada),U
 MRRTY,Marfrig Global Foods SA Sponsored ADR (Brazil),U
 MRSK,Agility Shares Managed Risk ETF,BATS
-MRSKF,Mori Seiki Co Ltd Ordinary Shares (Japan),U
+MRSKF,DMG MORI CO LTD Ordinary Shares,U
 MRSN,"Mersana Therapeutics, Inc. Common Stock",NASDAQ
 MRTI,Maxus Realty Trust Inc Common Stock,U
 MRTMF,Maritime Resources Corp. Ordinary Shares (Canada),U

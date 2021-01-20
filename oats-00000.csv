@@ -553,6 +553,7 @@ AFYA,Afya Limited Class A Common Shares,NASDAQ
 AFYG,Affinity Gold Corp. Common Stocks,U
 AG,FIRST MAJESTIC SILVER CORP,NYSE
 AGATF,Deutsche Bank Agriculture Double Short ETN due 4/1/2038,U
+AGAUF,Arizona Gold Corp. Ordinary Shares,U
 AGBA,AGBA Acquisition Limited Ordinary Share,NASDAQ
 AGBAR,AGBA Acquisition Limited Right,NASDAQ
 AGBAU,AGBA Acquisition Limited Unit,NASDAQ
@@ -1225,7 +1226,6 @@ ANF,Abercrombie & Fitch Co.,NYSE
 ANFC,"Black Ridge Oil & Gas, Inc. Common Stock",U
 ANFGF,Antofagasta Holdings Plc Ordinary Shares,U
 ANFIF,Amira Nature Foods Ltd Ordinary Shares,U
-ANGBF,Anglo Bomarc Mines Ltd Ordinary Shares,U
 ANGCF,Angel Gold Corp. Ordinary Shares (Canada),U
 ANGGF,Angang Steel Co Ltd  Ordinary Shares H (China),U
 ANGI,ANGI Homeservices Inc. Class A Common Stock,NASDAQ
@@ -1861,7 +1861,6 @@ ATOXF,"Durango Resources, Inc.  Common Shares (Canada)",U
 ATPGQ,ATP Oil & Gas Corporation PERP PFD CONV 8% SER B,U
 ATPHF,AUSTRALIAN PRIM HEMP LTD Ordinary Shares,U
 ATPL,"Atlantis Plastics, Inc. Common Stock",U
-ATPTD,"Petro USA, Inc. Common Stock",U
 ATPWF,Atlantic Pwr Pfd Equity Ltd Cum Pfd Ser 3 Fltg (Canada),U
 ATR,"AptarGroup, Inc.",NYSE
 ATRA,"Atara Biotherapeutics, Inc. Common Stock",NASDAQ
@@ -1994,6 +1993,7 @@ AVEO,"AVEO Pharmaceuticals, Inc. Common Stock",NASDAQ
 AVEPY,Aveng Ltd Unsponsored ADR (South Africa),U
 AVEVF,Aveva Group plc Ordinary Shares,U
 AVEW,"AVEW Holdings, Inc. Common Stock",U
+AVFCF,ADVFN Plc Ordinary Shares (United Kingdom),U
 AVFL,Availent Financial Inc. Common Stock,U
 AVFP,Avis Financial Corporation Common Stock,U
 AVGC,"Avangard Capital Group, Inc. Common Stock",U
@@ -2040,7 +2040,7 @@ AVOT,American Video Teleconferencng Common Stock,U
 AVOZ,"Altavoz Entertainment, Inc. Common Stock",U
 AVPFF,Avcorp Industries Inc Ordinary Shares (Canada),U
 AVPI,"AVP, Inc. Common Stock",U
-AVPMD,"Avrupa Minerals, Ltd. Common Shares",U
+AVPMF,"Avrupa Minerals, Ltd. Common Shares",U
 AVRI,Averox Inc. Common Stock,U
 AVRN,"Avra, Inc. Common Stock",U
 AVRO,"AVROBIO, Inc. Common Stock",NASDAQ
@@ -2348,19 +2348,19 @@ BBSCF,BBI Life Sciences Corp HKD Ordinary Shares (Cayman Islands),U
 BBSEY,BB Seguridade Participacoes SA Sponsored ADR (Brazil),U
 BBSI,"Barrett Business Services, Inc. Common Stock",NASDAQ
 BBSRF,"Bluestone Resources, Inc. Common Shares",U
+BBTOF,BBTV Holdings Inc Com Sub Voting Shs (Canada),U
 BBU,Brookfield Business Partners L.P.Limited Partnership Units,NYSE
 BBUCQ,Big Buck Brewery & Steakhouse Inc. Common Stock,U
 BBUS,JPMorgan BetaBuilders U.S. Equity ETF,BATS
 BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",NYSE
 BBVKF,DISTIL PLC Ordinary Shares (United Kingdom),U
-BBVTF,BBTV Holdings Inc Com Sub Voting Shs (Canada),U
 BBVXF,Banco Bilbao Vizcaya Pfd B Ordinary Shares,U
 BBW,"Build-A-Bear Workshop, Inc.",NYSE
 BBXIA,"BBX Capital, Inc. Common Stock Class A",U
 BBXIB,"BBX Capital, Inc. Common Stock Class B",U
 BBXMF,BBX MINERALS LTD ORDINARY FULLY PAID (Australia),U
 BBY,"Best Buy Company, Inc.",NYSE
-BBYLF,Babylon Ltd. Ordinary Shares (Israel),U
+BBYLF,ABRA INFORMATION TECHNOLOGIES LTD Ordinary Shares,U
 BBYTF,BABYTREE GROUP Ordinary Shares,U
 BC,Brunswick Corporation,NYSE
 BC PRA,Brunswick Corporation 6.500% Senior Notes due 2048,NYSE
@@ -3677,6 +3677,7 @@ BYROF,Byron Energy Ltd Ordinary Shares (Austrailia),U
 BYRSF,PT Bayan Resources Tbk Ordinary Shares (Indonesia),U
 BYSD,Bayside Corporation. Common Stock,U
 BYSI,BeyondSpring Inc. Ordinary Shares,NASDAQ
+BYWLF,"BAYWA BAYERISCHE WARENVERMITTLUNG LANDWIRTSCHAFTLICHER (GENOSSENSCHAFTEN AG, MUENCHEN) (Germany)",U
 BYYLF,Balyo SA Ordinary Shares (France),U
 BYZN,Byzen Digital Inc. Common Stock,U
 BZDLD,Kincora Copper Limited Common Shares,U
@@ -3955,6 +3956,7 @@ CBUIF,Commodore International Ltd Ordinary Shares,U
 CBULF,Gratomic Inc Common Shares,U
 CBUMF,China National Buildings Material Shares -H- (China),U
 CBUMY,China National Buildings Material Unsponsored ADR representing Shares -H- (China),U
+CBUTF,CLEAR BLUE TECHNOLOGIES INTL INC COM (Canada),U
 CBVTF,Cobra Venture Corporation Common Stock,U
 CBWA,"Commencement Bancorp, Inc. Common Stock",U
 CBWBF,"Canadian Western Bank (Edmonton, Alberta) Ordinary Shares (Canada)",U
@@ -4886,6 +4888,7 @@ CMGLF,"Changan Minsheng Apll Logistics Co., Ltd. Ordinary Shares (China)",U
 CMGMF,Chemring Group plc Ordinary Shares (United Kingdom),U
 CMGMY,Chemring Group plc Unsponsored American Depository Receipt (United Kingdom),U
 CMGO,"CMG Holdings Group, Inc. Common Stock",U
+CMGR,CLUBHOUSE MEDIA GROUP INC Common Stock,U
 CMHF,"Community Heritage Financial, Inc. Common Stock",U
 CMHFF,Companhia Minera Autlan Shs B Ordinary Shares,U
 CMHHF,China Merchants Holdings International Co Ltd. Ordinary Shares,U
@@ -5021,6 +5024,7 @@ CNHC,China Health Management Corp. New Common Stock,U
 CNHHY,Cairn Homes PLC American Depositary Receipts - Unsponsored (Ireland),U
 CNHI,CNH INDUSTRIAL N.V.,NYSE
 CNI,Canadian National Railway,NYSE
+CNIC,CION INVT CORP Common Stock,U
 CNICF,China International Capital Corp LTD Ordinary Shares (China),U
 CNIEF,Centuria Indl Reit Ordinary Units Fully Paid (Australia),U
 CNIG,Corning Natural Gas Holding Corporation Common Stock,U
@@ -5252,6 +5256,3 @@ COWZ,Pacer US Cash Cows 100 ETF,BATS
 COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
-CPA,"Copa Holdings, S.A.",NYSE
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
