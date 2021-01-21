@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
+CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
@@ -379,7 +381,6 @@ CSV,"Carriage Services, Inc.",NYSE
 CSVGF,China Overseas Grand Oceans Group Ltd. Ordinary Shares (Hong Kong),U
 CSVI,Computer Services Inc Ky Common Stock,U
 CSWC,Capital Southwest Corporation Common Stock,NASDAQ
-CSWCL,Capital Southwest Corporation 5.95% Notes due 2022,NASDAQ
 CSWI,"CSW Industrials, Inc. Common Stock",NASDAQ
 CSWYF,China Shineway Pharmaceutical Group Limited Ordinary Shares (Cayman Islands),U
 CSWYY,China Shineway Pharmaceutical Group Limited Unsponsored ADR (Cayman Islands),U
@@ -835,6 +836,7 @@ DBI,Designer Brands Inc.,NYSE
 DBIN,"Dacotah Banks, Inc. Common Stock",U
 DBJA,Innovator Double Stacker 9 Buffer ETF - January,BATS
 DBJP,Xtrackers MSCI Japan Hedged Equity ETF,ARCA
+DBKSF,Digicrypts Blockchain Solutions Inc. Ordinary Shares (Canada),U
 DBL,DOUBLELINE OPPORTUNISTIC CREDIT FUND,NYSE
 DBLV,AdvisorShares DoubleLine Value Equity ETF,ARCA
 DBLVF,Doubleview Gold Corp. Ordinary Shares,U
@@ -2554,6 +2556,7 @@ ESPO,VanEck Vectors Video Gaming and eSports ETF,NASDAQ
 ESPR,"Esperion Therapeutics, Inc. Common Stock",NASDAQ
 ESQ,"Esquire Financial Holdings, Inc. Common Stock",NASDAQ
 ESQF,Esecuresoft Co. Common Stock,U
+ESRCF,ESR Cayman Ltd. Ordinary Shares (Cayman Islands),U
 ESRT,"EMPIRE STATE REALTY TRUST, INC.",NYSE
 ESS,"Essex Property Trust, Inc",NYSE
 ESSA,"ESSA Bancorp, Inc. Common Stock",NASDAQ
@@ -2569,6 +2572,7 @@ ESTE,Earthstone Energy Inc. Class A Common Stock,NYSE
 ESTRF,"Estre Ambiental, Inc. Ordinary Shares",U
 ESTWF,"Estre Ambiental, Inc. Warrants",U
 ESVIF,Ensign Energy Services Inc. Ordinary Shares (Canada),U
+ESVNF,E79 Resources Corp. Common Stock (Canada),U
 ESWW,"Environmental Solutions Worldwide, Inc. (NEW) Common Stock",U
 ESXB,Community Bankers Trust Corporation Common Stock (VA),NASDAQ
 ESXMF,ESSEX MINERALS INC COM NEW (Canada),U
@@ -3095,7 +3099,6 @@ FDTC,FNDS3000 Corp. Common Stock,U
 FDTS,First Trust Developed Markets ex-US Small Cap AlphaDex Fund,NASDAQ
 FDUS,Fidus Investment Corporation Common Stock,NASDAQ
 FDUSG,Fidus Investment Corporation 5.375% Notes Due 2024,NASDAQ
-FDUSL,Fidus Investment Corporation 5.875% Notes due 2023,NASDAQ
 FDUSZ,Fidus Investment Corporation 6% Notes due 2024,NASDAQ
 FDVA,Freedom Bank of Virginia Common Stock,U
 FDVRF,Facedrive Inc. Common Shares (Canada),U
@@ -4129,7 +4132,6 @@ GAMCF,"GAMMA COMMUNICATIONS PLC, SHS (United Kingdom)",U
 GAMN,"Great American Food Chain, Inc. (The) Common Stock",U
 GAMR,Wedbush ETFMG Video Game Tech ETF,ARCA
 GAN,GAN Limited Ordinary Shares,NASDAQ
-GAPFF,"Aimia, Inc.  Common Shares (Canada)",U
 GAPJ,"Golden Apple Oil & Gas, Inc. Common Stock",U
 GARB,Garb Oil & Power Corporation Common Stock,U
 GARLF,Netcoins Hldgs Inc Ordinary Shares,U
@@ -4961,6 +4963,7 @@ GRGCF,GEORGIA CAPITAL PLC Ord GBP0.0001 (United Kingdom),U
 GRGG,"Green For Energy, Inc. Common Stock",U
 GRGR,"Green Energy Resources, Inc. Common Stock",U
 GRGSF,Grieg Seafood ASA Ordinary Shares (Norway),U
+GRGTF,Grainger PLC Ordinary Shares (United Kingdom),U
 GRHI,Gold Rock Holdings Inc New Class A Common Stock,U
 GRHY,"GREEN HYGIENICS, INC. Common Stock",U
 GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,NASDAQ
@@ -5255,4 +5258,3 @@ GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
 GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
-GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U

@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
@@ -397,6 +398,8 @@ HII,"Huntington Ingalls Industries, Inc.",NYSE
 HIIDY,Hidili Industry International Development Ltd. Unsponsored ADR (Cayman Islands),U
 HIL,"Hill International, Inc. Common Stock",NYSE
 HIMR,Hollund Industrial Marine Inc. Common Stock,U
+HIMS,"Hims & Hers Health, Inc.",NYSE
+HIMS WS,"Hims & Hers Health, Inc. Warrants, each whole warrant exercisable for one Class A Common Stock at an",NYSE
 HIMX,"Himax Technologies, Inc. American Depositary Shares",NASDAQ
 HINKF,Heineken NV Ordinary Shares (Netherlands) EUR 2.5,U
 HINOF,Hino Moters Ltd Ord Ordinary Shares,U
@@ -2031,6 +2034,7 @@ ISTC,Instructivision Inc Common Stock,U
 ISTR,Investar Holding Corporation Common Stock,NASDAQ
 ISTXF,Ishares PLC Treasury Bond 1 3 Year UCITS ETF (Ireland),U
 ISUDF,Ishares IV Plc Ishares Ultrashort Bond Ucits Etf Usd Acc Exchange Traded Fund (Ireland),U
+ISUN,"iSun, Inc. Common Stock",NASDAQ
 ISUPF,iShares II PLC FTSE EPRA/ NAREIT US Property Fund US Prop Yield Shs (Ireland),U
 ISUUF,IShares IV PLC USD Ultrashort BD UCITS ETF (Ireland),U
 ISUZF,Isuzu Motors Ltd Ord Ordinary Shares,U
@@ -3024,6 +3028,7 @@ KNFSF,KIATNAKIN PHATRA BK PUB CO LTD SHS FOREIGN REGISTERED (Thailand),U
 KNG,Cboe Vest S&P 500 Dividend Aristocrats Target Income ETF,BATS
 KNGPF,KNM Group Bhd Ordinary Shares (Malaysia),U
 KNGS,UPHOLDINGS Compound Kings ETF,BATS
+KNGW,"Kenongwo Group US, Inc. Common Stock",U
 KNIT,Kinetic Group Inc Common Stock,U
 KNKT,Kunekt Corporation Common Stock,U
 KNKZF,Kws Kleinwanzlebener Saatzucht Ag Ordinary Shares (Germany),U
@@ -3033,7 +3038,6 @@ KNMOF,Kanamoto Co Ltd Ordinary Shares (Japan),U
 KNNCF,KH NEOCHEM CO LTD COM STK (Japan),U
 KNNGF,Kion Group AG Ordinary Shares (Germany),U
 KNNNF,Kainos Group PLC Ordinary Shares (United Kingdom),U
-KNOFF,Cellstop Systems Inc Common Shares,U
 KNOP,KNOT OFFSHORE PARTNERS LP,NYSE
 KNOS,Kronos Advanced Technologies Inc Common Stock,U
 KNRLF,Kontrol Energy Corp Ordinary Shares,U
@@ -3715,7 +3719,7 @@ LNDC,Landec Corporation Common Stock (DE),NASDAQ
 LNDLF,Landore Resources Limited Ord NPV (Guernsey),U
 LNDNF,Lundin Petroleum AB shs (Sweden),U
 LNDT,"LianDi Clean Technology, Inc. Common Stock",U
-LNDZD,SALONA GLOBAL MED DEVICE CORP Ordinary Shares,U
+LNDZF,SALONA GLOBAL MED DEVICE CORP Ordinary Shares,U
 LNEGY,Lundin Energy AB American Depositary Receipts - Sponsored,U
 LNETF,LINK NET TBK PT Ordinary Shares  Indonesia(ID ),U
 LNFA,L&F Acquisition Corp.,NYSE
@@ -3777,6 +3781,7 @@ LOKB U,"Live Oak Acquisition Corp. II Units, each consisting of one share of Cla
 LOMA,"Loma Negra Compania Industrial Argentina Sociedad Anonima American Depositary Shares (ADSs), each re",NYSE
 LOMLF,Lion One Metals Ltd. Ordinary Shares (Canada),U
 LONCF,Loncor Resources Inc. Ordinary Shares,U
+LONE,Lonestar Resources US Inc. Common Stock,U
 LONKF,Lonking Holdings Ltd Ordinary Shares (Cayman Islands),U
 LOONF,Loon Energy Corp. Common Shares,U
 LOOP,"Loop Industries, Inc. Common Stock",NASDAQ
@@ -5252,7 +5257,3 @@ MTLK,"Metalink, Ltd. Ordinary Shares",U
 MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U
 MTLRF,Metalore Resources Ltd Ordinary Shares,U
 MTLS,Materialise NV American Depositary Shares,NASDAQ
-MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
-MTMW,"Matmown, Inc. Common",U
-MTN,"Vail Resorts, Inc.",NYSE
-MTNB,"Matinas BioPharma Holdings, Inc.",AMEX

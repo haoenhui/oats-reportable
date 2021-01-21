@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
+MTMW,"Matmown, Inc. Common",U
+MTN,"Vail Resorts, Inc.",NYSE
+MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
 MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
 MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
@@ -176,7 +180,7 @@ MYPHY,Mayne Pharma Group Limited American Depositary Receipts - Unsponsored (Aus
 MYPRF,Malaysia Airports Holdings BHD (Malaysia),U
 MYRBY,MEYER BURGER TECHNOLOGY AG  American Depositary Receipts - Unsponsored (Switzerland),U
 MYRG,"MYR Group, Inc. Common Stock",NASDAQ
-MYRLD,Meryllion Resources Corp. Ordinary Shares,U
+MYRLF,Meryllion Resources Corp. Ordinary Shares,U
 MYRPF,Mysale Group Plc Ordinary Shares (Jersey),U
 MYRSY,Myer Holdings Ltd Sponsored ADR (Austrailia),U
 MYRX,"Myrexis, Inc. Common Stock",U
@@ -1302,9 +1306,6 @@ NZSTF,NZX Ordinary shares (New Zealand),U
 NZSTY,NZX Unsponsored American Depository Receipt (New Zealand),U
 NZTCF,Spark New Zealand Ltd. Ordinary Shares (New Zealand),U
 O,Realty Income Corporation,NYSE
-OAC,Oaktree Acquisition Corp.,NYSE
-OAC U,Oaktree Acquisition Corp.,NYSE
-OAC WS,"Oaktree Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at",NYSE
 OACB,Oaktree Acquisition Corp. II,NYSE
 OACB U,"Oaktree Acquisition Corp. II Units, each consisting of one Class A ordinary share, and one-fourth of",NYSE
 OACB WS,"Oaktree Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary share",NYSE
@@ -1958,6 +1959,7 @@ PAVMW,PAVmed Inc. Warrant,NASDAQ
 PAVMZ,PAVmed Inc. Series Z Warrant,NASDAQ
 PAWH,Penn Warehouse & Safe Deposit Common Stock,U
 PAWZ,ProShares Pet Care ETF,BATS
+PAX,Patria Investments Limited Class A Common Shares,NASDAQ
 PAXH,PreAxia Health Care Payment Systems Inc. Common Stock,U
 PAYA,Paya Holdings Inc. Class A Common Stock,NASDAQ
 PAYAW,Paya Holdings Inc. Warrant,NASDAQ
@@ -2184,7 +2186,6 @@ PEBN,Pacific Enterprise Bancorp Irvine California Common Stock,U
 PEBO,Peoples Bancorp Inc. Common Stock,NASDAQ
 PECD,"Pet Ecology Brands, Inc. Common Stock",U
 PECGF,Petronas Chemicals Group Bhd Ordinary Shares (Malaysia),U
-PECK,"The Peck Company Holdings, Inc. Common Stock",NASDAQ
 PECKW,"The Peck Company, Inc. Cmn Warrant   06/20/2024",U
 PECN,Photoelectron Corporation Common Stock,U
 PED,PEDEVCO Corp.,AMEX
@@ -3012,6 +3013,7 @@ PSB PRX,"PS Business Parks, Inc. Depositary Shares Each Representing 1/1,000 of 
 PSB PRY,"PS Business Parks, Inc. 5.20% Cumulative Preferred Stock, Series Y",NYSE
 PSB PRZ,"PS Business Parks, Inc. Depositary Shares Each Representing 1/1000 of a Share of 4.875% Cumulative P",NYSE
 PSBC,"Pacific State Bancorp (Stockton, CA) Common Stock",U
+PSBKF,Postal Savings Bank of China Corp Ltd. Registered Ordinary Shares (China),U
 PSBP,PSB Holding Corp. Common Stock,U
 PSBQ,"PSB Holdings, Inc. (Wisconsin) Common Stock",U
 PSC,Principal Exchange-Traded Funds Principal U.S. Small-Cap Multi-Factor ETF,NASDAQ
@@ -3277,6 +3279,7 @@ PUTRY,PTT Public Company Ltd Unsponsored ADR (Thailand),U
 PUTW,WisdomTree CBOE S&P 500 PutWrite Strategy Fund,ARCA
 PUXPF,Puma Exploration Inc Common Shares,U
 PUYI,Puyi Inc. American Depository Shares,NASDAQ
+PV U,"Primavera Capital Acquisition Corporation Units, each consisting of one Class A ordinary share and o",NYSE
 PVAC,Penn Virginia Corporation Common Stock,NASDAQ
 PVARF,Porvair Plc Ord Common Stock,U
 PVBC,"Provident Bancorp, Inc. (MD) Common Stock",NASDAQ
@@ -4097,6 +4100,7 @@ RLNTF,Resilient Reit Ltd Ordinary Shares,U
 RLPHQ,RAILPOWER TECHNOLOGIES CORP Ordinary Shares,U
 RLTOF,Calima Energy Ltd. Ordinary Shares,U
 RLTR,Reeltime Rentals Inc Common Stock,U
+RLX,"RLX Technology Inc. American Depositary Shares, each representing the right to receive one (1) Class",NYSE
 RLXXF,RELX PLC Ordinary Shares (United Kingdom),U
 RLY,SPDR SSgA Multi-Asset Real Return ETF of SSgA Active Trust,ARCA
 RLYNF,Rallye SA Neuilly-Sur-Seine Ordinary Shares (France),U
@@ -5253,5 +5257,3 @@ SHMMF,SAHAMIT MACHINERY PCL PUB CO LTD UNITS NON -VOTING DEPOSITORY RECEIPTS (Th
 SHMN,"SOHM, Inc. Common Stock",U
 SHMP,NaturalShrimp Incorporated Common Stock,U
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
-SHMUF,Shimizu Corp Ord Ordinary Shares,U
-SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U

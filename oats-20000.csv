@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHMUF,Shimizu Corp Ord Ordinary Shares,U
+SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
@@ -251,6 +253,7 @@ SKYF,SKY440 Inc Common Stock,U
 SKYI,"Sky Century Investment, Inc. Common Stock",U
 SKYL,Sky Resort International Ltd. Common Stock,U
 SKYTY,"SkyCity Entertainment Group, Ltd. Sponsored ADR (New Zealand)",U
+SKYU,ProShares Trust ProShares Ultra Nasdaq Cloud Computing ETF,NASDAQ
 SKYW,"SkyWest, Inc. Common Stock",NASDAQ
 SKYY,First Trust Cloud Computing ETF,NASDAQ
 SKYZF,"Sky City Entertainment Group, Ltd. Ordinary Shares (New Zealand)",U
@@ -3081,6 +3084,7 @@ UCPLF,United Corps Ltd Ordinary Shares,U
 UCSO,United Consortium Ltd Common Stock New,U
 UCTN,CTN Media Group Inc Common Stock,U
 UCTT,"Ultra Clean Holdings, Inc. Common Stock",NASDAQ
+UCYB,ProShares Trust ProShares Ultra Nasdaq Cybersecurity ETF,NASDAQ
 UDEC,Innovator S&P 500 Ultra Buffer ETF - December,BATS
 UDHCF,UDG Healthcare PLC Ordinary Shares (Ireland),U
 UDHI,"Union Dental Holdings, Inc. Common Stock",U
@@ -4822,8 +4826,6 @@ XNNHQ,"Xenonics Holdings, Inc. Common Stock",U
 XNTK,SPDR NYSE Technology ETF,ARCA
 XNYIF,Xinyi Solar Holdings Limited Ordinary Shares (Cayman Islands),U
 XOG,"Extraction Oil & Gas, Inc. Common Stock",NASDAQ
-XOGAQ,EXTRACTION OIL & GAS INC Common Stock,U
-XOGPQ,Extraction Oil & Gas Inc Preferred Stock,U
 XOM,Exxon Mobil Corporation,NYSE
 XOMA,XOMA Corporation Common Stock,NASDAQ
 XOMAP,XOMA Corporation 8.625% Series A Cumulative Perpetual Preferred Stock,NASDAQ

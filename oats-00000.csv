@@ -486,6 +486,7 @@ AFAP,AFA Protective Systems Inc. Common Stock,U
 AFB,"Alliance National Municipal Income Fund, Inc.",NYSE
 AFBA,"Allied First Bancorp, Inc. (Maryland) Common Stock",U
 AFBG,"American Fiber Green Products, Inc. Common Stock",U
+AFBI,"Affinity Bancshares, Inc. Common Stock (MD)",NASDAQ
 AFBOF,African Rainbow Minerals Limited Ordinary Shares (South Africa),U
 AFC,Allied Capital Corporation,NYSE
 AFCJF,AFC Ajax NV Amsterdam Ordinary Shares (Netherlands),U
@@ -690,7 +691,7 @@ AHH,"Armada Hoffler Properties, Inc.",NYSE
 AHH PRA,"Armada Hoffler Properties, Inc. 6.75% Series A Cumulative Redeemable Perpetual Preferred Stock",NYSE
 AHICF,"Asahi Intec Co Ltd, Nagoya Ordinary Shares (Japan)",U
 AHII,American Heritage International Inc. Common Stock,U
-AHIXD,"Aluf Holdings, Inc. Common Stock",U
+AHIX,"Aluf Holdings, Inc. Common Stock",U
 AHKSF,ASAHI KASEI CORP Ordinary Shares,U
 AHKSY,Asahi Kaisai Corporation American Depositary Shares,U
 AHL PRC,Aspen Insurance Holdings Limited 5.95% Fixed-to-Floating Rate Perpetual Non-Cumulative Preference Sh,NYSE
@@ -755,6 +756,7 @@ AILQF,"AirlQ, Inc. Ordinary Shares (Canada)",U
 AILTF,ARGENT INDUSTRIAL LIMITED Ordinary Shares,U
 AIM,AIM ImmunoTech Inc.,AMEX
 AIMC,Altra Industrial Motion Corp. Common Stock,NASDAQ
+AIMFF,"Aimia, Inc.  Common Shares (Canada)",U
 AIMH,Aimrite Holdings Corp Common Stock,U
 AIN,Albany International Corp Class A,NYSE
 AINC,Ashford Inc.,AMEX
@@ -1122,7 +1124,7 @@ AMLZF,African Minerals Limited Ordinary Shares (Bermuda),U
 AMMCF,Amur Minerals Corporation Ordinary shares (British Virgin Islands),U
 AMMHF,AMMB Holdings BHD Ordinary Shares (Malaysia),U
 AMMJ,"American Cannabis Company, Inc. Common Stock",U
-AMMXD,AMERAMEX INTERNATIONAL INC Common Stock,U
+AMMX,AMERAMEX INTERNATIONAL INC Common Stock,U
 AMN,AMN Healthcare Services,NYSE
 AMNA,ETRACS Alerian Midstream Energy Index ETN,ARCA
 AMNB,"American National Bankshares, Inc. Common Stock",NASDAQ
@@ -2628,6 +2630,7 @@ BGJTF,Baillie Gifford Japan Trust plc Ordinary Shares (United Kingdom),U
 BGKKF,Bangkok Bank Public Co Ltd Bangkok Bank Public Co Ltd BBL (Hong Kong),U
 BGLAF,Bangkok Life Assurance Ltd Units Non-Voting Depositary Receipts (Thailand),U
 BGLC,Bionexus Gene Lab Corp  Common Stock,U
+BGLD,FT Cboe Vest Gold Strategy Quarterly Buffer ETF,BATS
 BGMD,"BG Medicine, Inc. Common Stock",U
 BGMO,Bergamo Acquisition Corporation Common Stock,U
 BGNE,"BeiGene, Ltd. American Depositary Shares",NASDAQ
@@ -3123,6 +3126,7 @@ BOAC U,"Bluescape Opportunities Acquisition Corp. Units, each consisting of one 
 BOAC WS,"Bluescape Opportunities Acquisition Corp. Redeemable warrants, each whole warrant exercisable for on",NYSE
 BOALF,Boral Ltd  Ord Ordinary Shares,U
 BOALY,Boral Ltd  Ord American Depositary Shares,U
+BOAPL,Bank of America Corp Depositary Shares Rep 1/1000 Pfd Ser PP,U
 BOARF,"Boart Longyear Ltd, Sydney NSW Ordinary Shares",U
 BOB,Merlyn.AI Best-of-Breed Core Momentum ETF,BATS
 BOCH,Bank of Commerce Holdings (CA) Common Stock,NASDAQ
@@ -3207,7 +3211,7 @@ BPHLY,Bank of the Philippine Islands BPI Unsponsored ADR (Philippines),U
 BPHMF,BIOFERMIN PHARMACEUTICAL CO LTD SHS,U
 BPIGF,"BPI Energy Holdings, Inc. Ordinary Shares (Canada)",U
 BPIRF,PIRAEUS FINL HLDGS S A Ordinary Shares,U
-BPIRY,Piraeus Bank SA American Depositary Receipts - Sponsored,U
+BPIRY,Piraeus Financial Holdings S.A. American Depositary Receipts - Sponsored,U
 BPLNF,AMERICAN RARE EARTHS LTD Ordinary Shares,U
 BPMC,Blueprint Medicines Corporation Common Stock,NASDAQ
 BPMI,"Badger Paper Mills, Inc. Common Stock",U
@@ -3536,6 +3540,7 @@ BUD,Anheuser-Busch INBEV SA/NV,NYSE
 BUDFF,Anheuser Busch Inbev SA NV Ordinary Shares,U
 BUDZ,"WEED, Inc. Common Stock",U
 BUENF,BLUE ENERGY LTD Ordinary Shares Australia(AU ),U
+BUFD,FT Cboe Vest Fund of Deep Buffer ETFs,BATS
 BUFF,Innovator Laddered Fund of S&P 500 Power Buffer ETFs,BATS
 BUFR,FT Cboe Vest Fund of Buffer ETFs,BATS
 BUG,Global X Funds Global X Cybersecurity ETF,NASDAQ
@@ -4251,7 +4256,6 @@ CFACU,CF Finance Acquisition Corp. III Unit,NASDAQ
 CFACW,CF Finance Acquisition Corp. III Warrant,NASDAQ
 CFACY,Coface S.A. ADR (France),U
 CFB,"CrossFirst Bankshares, Inc. Common Stock",NASDAQ
-CFBI,"Community First Bancshares, Inc. Common Stock",NASDAQ
 CFBK,CF Bankshares Inc. Common Stock,NASDAQ
 CFCC,Corfacts Inc Common Stock,U
 CFCGF,Cafe De Coral Hldgs Ltd Ordinary Shares (Bermuda),U
@@ -5254,5 +5258,3 @@ COWPP,Canal Capital Corporation $1.30 Exchangeable Preferred Stock,U
 COWTF,Barclays Bk PLC iPath Bloomberg Livestock Subindex Total Return ETN due 10/22/2037 (United Kingdom),U
 COWZ,Pacer US Cash Cows 100 ETF,BATS
 COYJF,Citycon OYJ Ordinary Shares (Finland),U
-COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
-CP,Canadian Pacific Railway,NYSE
