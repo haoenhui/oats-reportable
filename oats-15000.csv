@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
-MTMW,"Matmown, Inc. Common",U
-MTN,"Vail Resorts, Inc.",NYSE
-MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
 MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
 MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
@@ -907,6 +903,7 @@ NROM,Noble Romans Inc Common Stock,U
 NRP,Natural Resource Partners L.P.,NYSE
 NRPI,"NRP Stone, Inc. New Common Stock",U
 NRPR,"Nutri Pharmaceuticals Research, Inc. New Common Stock",U
+NRRMF,NORRA METALS CORP Common Shares,U
 NRRSF,Norsemont Mining Inc Ordinary Shares,U
 NRRWF,Nuran Wireless Inc Ordinary Shares,U
 NRSCF,NOMURA HLDGS INC Ordinary Shares,U
@@ -1238,7 +1235,6 @@ NXGPF,Next Group Plc Ordinary Shares (UK),U
 NXGPY,Next Group Plc Unsponsored ADR (UK),U
 NXGT,"Nexteligent Holdings, Inc. Common Stock",U
 NXGWF,Next Green Wave Common Shares (Canada),U
-NXIFF,ELLIPSIZ COMMUNICATIONS LTD Ordinary Shares,U
 NXJ,Nuveen New Jersey Quality Municipal Income Fund,NYSE
 NXLLF,NUIX LTD Ordinary Shares,U
 NXMR,"NextMart, Inc. Common Stock",U
@@ -1403,6 +1399,7 @@ OECCF,Oracle Energy Corp Ordinary Shares No Par (Canada),U
 OEDVQ,"Osage Exploration and Development, Inc. Common Stock (DE)",U
 OEF,iShares S&P 100 ETF,ARCA
 OEG,"Orbital Energy Group, Inc. Common Stock",NASDAQ
+OEPWU,One Equity Partners Open Water I Corp. Unit,NASDAQ
 OERCF,Oesterreichische Post Ag Wien Ordinary Shares (Austria),U
 OERLF,Oc Oerlikon Corporation Inc Namen-Akt Shares (Switzerland),U
 OERLY,Oc Oerlikon Corporation Inc Unsponsored ADR (Switzerland),U
@@ -2186,7 +2183,6 @@ PEBN,Pacific Enterprise Bancorp Irvine California Common Stock,U
 PEBO,Peoples Bancorp Inc. Common Stock,NASDAQ
 PECD,"Pet Ecology Brands, Inc. Common Stock",U
 PECGF,Petronas Chemicals Group Bhd Ordinary Shares (Malaysia),U
-PECKW,"The Peck Company, Inc. Cmn Warrant   06/20/2024",U
 PECN,Photoelectron Corporation Common Stock,U
 PED,PEDEVCO Corp.,AMEX
 PEDH,"Peoples Educational Holdings, Inc. Common Stock",U
@@ -2336,7 +2332,6 @@ PGPM,Pilgrim Petroleum Corporation Common Stock,U
 PGPXF,Petrocorp Group Inc Common (Canada),U
 PGQWF,1-PAGE LTD Ordinary Shares (Australia),U
 PGR,Progressive Corporation,NYSE
-PGRCF,PHOENIX GOLD RESOURCES  Common Shares,U
 PGRE,"PARAMOUNT GROUP, INC.",NYSE
 PGSC,"Progressive Green Solutions, Inc. NEW Common Stock",U
 PGSVY,PGS ASA American Depositary Receipts - Sponsored,U
@@ -2543,6 +2538,7 @@ PLHNF,Paul Hartmann AG Heidenheim An Der Brenz Ordinary Shares (Germany),U
 PLIN,"China Xiangtai Food Co., Ltd. Ordinary Shares",NASDAQ
 PLKT,Solar Gold Ltd. Common Stock,U
 PLL,Piedmont Lithium Limited American Depositary Receipts,NASDAQ
+PLLDF,The Philodrill Corporation Ov Ordinary Shares,U
 PLLHF,Gemfields Group Ltd Ordinary Shares,U
 PLLIF,Pirelli & Co SPA Ordinary Shares (Italy),U
 PLLMF,Plata Latina Minerals Corp Com (Canada),U
@@ -2691,7 +2687,7 @@ PNNB,Pinnacle Bank of Oregon (OR) Common Stock,U
 PNNCU,Pinnacle Ethanol LLC Cap Unit Cl A,U
 PNNEF,Pennine Pete Corp Ordinary Shares (Canada),U
 PNNLF,Perennial International Ltd Ordinary Shares (Bermuda),U
-PNNRF,Redfund Cap Corp Ordinary Shares,U
+PNNRD,GLOBAL WELLNESS STRATEGIES INC Ordinary Shares,U
 PNNT,PennantPark Investment Corporation Common Stock,NASDAQ
 PNNTG,PennantPark Investment Corporation 5.50% Notes Due 2024,NASDAQ
 PNNX,"Pennexx Foods, Inc. Common Stock",U
@@ -5195,6 +5191,7 @@ SGXXF,Sound Global Limited Ordinary Shares (Singapore),U
 SGYI,"Strategy International Insurance Group, Inc. Common Stock",U
 SH,ProShares Short S&P500,ARCA
 SHABF,Shaftesbury Plc Ordinary Shares (United Kingdom),U
+SHACU,SCP & CO Healthcare Acquisition Company Unit,NASDAQ
 SHAG,WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund,BATS
 SHAK,Shake Shack Inc.,NYSE
 SHALF,Shangri-La Asia Ltd Ord Ordinary Shares,U
@@ -5257,3 +5254,9 @@ SHMMF,SAHAMIT MACHINERY PCL PUB CO LTD UNITS NON -VOTING DEPOSITORY RECEIPTS (Th
 SHMN,"SOHM, Inc. Common Stock",U
 SHMP,NaturalShrimp Incorporated Common Stock,U
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
+SHMUF,Shimizu Corp Ord Ordinary Shares,U
+SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
+SHMZF,Shimadzu Corp Ordinary Shares,U
+SHNL,"Shentang International, Inc. Common Stock",U
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
+SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U

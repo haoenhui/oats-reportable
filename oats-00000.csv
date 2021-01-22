@@ -161,9 +161,6 @@ ACACU,Acies Acquisition Corp. Unit,NASDAQ
 ACACW,Acies Acquisition Corp. Warrant,NASDAQ
 ACAD,ACADIA Pharmaceuticals Inc. Common Stock,NASDAQ
 ACAI,Safeplus International Holdings Limited Common Stock,U
-ACAM,Acamar Partners Acquisition Corp. Class A Common Stock,NASDAQ
-ACAMU,Acamar Partners Acquisition Corp. Units,NASDAQ
-ACAMW,Acamar Partners Acquisition Corp. Warrant,NASDAQ
 ACAN,"Americann, Inc. Common Stock",U
 ACAVF,ACE Aviation Holdings Inc Common Shares (Canada),U
 ACAZF,Acadian Timber Corporation Ordinary Shares (Canada),U
@@ -257,7 +254,7 @@ ACOR,"Acorda Therapeutics, Inc. Common Stock",NASDAQ
 ACOSF,Archos ACT.NOM,U
 ACP,Aberdeen Income Credit Strategies Fund,NYSE
 ACPGF,ACACIA PHARMA GROUP PLC ORD GBP0.02 (United Kingdom),U
-ACPIF,AC ENERGY PHILIPPINES INC Shs (Philippines),U
+ACPIF,AC ENERGY CORP Common Stock,U
 ACPRF,ARCPACIFIC RES CORP Common Shares (Canada),U
 ACPS,AC Partners Inc. Common Stock,U
 ACRB,"Asia Carbon Industries, Inc. Common",U
@@ -1225,7 +1222,6 @@ ANET,Arista Networks,NYSE
 ANEW,ProShares MSCI Transformational Changes ETF,ARCA
 ANEWF,Australia & N Z Bkg Grp Ord Ordinary Shares,U
 ANF,Abercrombie & Fitch Co.,NYSE
-ANFC,"Black Ridge Oil & Gas, Inc. Common Stock",U
 ANFGF,Antofagasta Holdings Plc Ordinary Shares,U
 ANFIF,Amira Nature Foods Ltd Ordinary Shares,U
 ANGCF,Angel Gold Corp. Ordinary Shares (Canada),U
@@ -2739,6 +2735,7 @@ BIOIF,"Biome Grow, Inc.  Ordinary Shares",U
 BIOL,"Biolase, Inc. Common Stock",NASDAQ
 BIONQ,BioNitrogen Holdings Corp. Common Stock,U
 BIOQ,"BIOQUAL, Inc. Common Stock",U
+BIOTU,Biotech Acquisition Company Unit,NASDAQ
 BIOVF,Swedish Orphan Biovitrum AB Ordinary Shares (Sweden),U
 BIOX,Bioceres Crop Solutions Corp. Ordinary Shares,AMEX
 BIOYF,BioSyent Inc Ordinary Shares (Canada),U
@@ -3259,6 +3256,7 @@ BRBW,Brunswick Bancorp Common Stock,U
 BRBYF,"Bronco Billy o Ltd, Nagoya Ordinary shares (Japan)",U
 BRC,Brady Corporation,NYSE
 BRCOQ,Beard Company (The) Common Stock,U
+BRDBF,Bredband2 I Skandinavien AB Common Stock (Sweden),U
 BRDCF,Bridgestone Corp  Ord Ordinary Shares,U
 BRDCY,Bridgestone Corp  Ord (Unsponsored)  American Depositary Shares,U
 BRDYF,Brady PLC Cambridge Ordinary Shares (United Kingdom),U
@@ -3505,6 +3503,7 @@ BTLLF,North Peak Resources Ltd.  Ordinary Shares,U
 BTLN,Brightlane Corp. Common Stock,U
 BTLR,Battlers Corp Common Stock,U
 BTN,"Ballantyne Strong, Inc",AMEX
+BTNB,Bridgetown 2 Holdings Limited Class A Ordinary Shares,NASDAQ
 BTO,John Hancock Financial Opportunities Fund,NYSE
 BTOF,Benton Financial Corp Common Stock,U
 BTOOY,B2W - Companhia Digital Sponsored GDR Reg S (Brazil),U
@@ -3798,7 +3797,9 @@ CAOLF,China Aviation Oil Singapore Corp Ltd Ordinary Shares (Singapore),U
 CAOVF,China Overseas Land&Invt Ltd Ordinary Shares,U
 CAOVY,China Overseas Land&Invt Ltd Unsponsored ADR (Hong Kong),U
 CAOX,California Orchards Co Common Stock,U
+CAP,Capitol Investment Corp. V,NYSE
 CAP U,"Capitol Investment Corp. V Units, each consisting of one share of Class A common stock, and one-thir",NYSE
+CAP WS,"Capitol Investment Corp. V Warrants, each whole warrant exercisable for one share of Class A common",NYSE
 CAPA,HighCape Capital Acquisition Corp. Class A Common Stock,NASDAQ
 CAPAU,HighCape Capital Acquisition Corp. Unit,NASDAQ
 CAPAW,HighCape Capital Acquisition Corp. Warrant,NASDAQ
@@ -5201,7 +5202,7 @@ COMB,GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF,ARCA
 COMHF,COMMERCE ONE HLDGS INC Common Stock,U
 COMM,"CommScope Holding Company, Inc. Common Stock",NASDAQ
 COMRF,Comet Ridge Ltd Ordinary Shares (Australia),U
-COMS,ComSovereign Holding Corp. Common Stock,U
+COMS,ComSovereign Holding Corp. Common Stock,NASDAQ
 COMSW,ComSovereign Holding Corp. Warrants,NASDAQ
 COMT,iShares U.S. ETF Trust iShares Commodities Select Strategy ETF,NASDAQ
 CONC,ConectiSys Corporation Common Stock,U
@@ -5258,3 +5259,5 @@ COWPP,Canal Capital Corporation $1.30 Exchangeable Preferred Stock,U
 COWTF,Barclays Bk PLC iPath Bloomberg Livestock Subindex Total Return ETN due 10/22/2037 (United Kingdom),U
 COWZ,Pacer US Cash Cows 100 ETF,BATS
 COYJF,Citycon OYJ Ordinary Shares (Finland),U
+COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
+CP,Canadian Pacific Railway,NYSE

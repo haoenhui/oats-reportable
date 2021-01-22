@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
-CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
@@ -1141,7 +1139,6 @@ DIV,Global X SuperDividend U.S. ETF,ARCA
 DIVA,AGFiQ Hedged Dividend Income Fund,ARCA
 DIVB,iShares U.S. Dividend and Buyback ETF,BATS
 DIVO,Amplify CWP Enhanced Dividend Income ETF,ARCA
-DIZNF,Maitri Health Technologies Corp Common Shares,U
 DIZTF,"Dignitana AB, MALMO Ordinary Shares (Sweden)",U
 DJAN,FT Cboe Vest U.S. Equity Deep Buffer ETF - January,BATS
 DJCB,"ETRACS Bloomberg Commodity Index Total Return ETN Series B due October 31, 2039",ARCA
@@ -2669,6 +2666,7 @@ EURZ,Xtrackers Eurozone Equity ETF,BATS
 EUSA,iShares MSCI USA Equal Weighted ETF,ARCA
 EUSB,iShares ESG Advanced Total USD Bond Market ETF,ARCA
 EUSC,WisdomTree Europe Hedged SmallCap Equity Fund,ARCA
+EUSGU,European Sustainable Growth Acquisition Corp. Unit,NASDAQ
 EUSHF,Eurocash SA SHS (Poland),U
 EUSHY,Eurocash SA Unsponsored ADR (Poland),U
 EUSP,Eurosite Power Inc. COMMON,U
@@ -4470,9 +4468,6 @@ GHGUF,Go-Ahead Group Plc Ordinary Shares (United Kingdom),U
 GHGUY,Go-Ahead Group Plc Unsponsored ADR (United Kingdom),U
 GHIFF,"Gamehost, Inc. Ordinary Shares (Canada)",U
 GHIL,"Green and Hill Industries, Inc. Common Stock",U
-GHIV,"Gores Holdings IV, Inc. Class A Common Stock",NASDAQ
-GHIVU,"Gores Holdings IV, Inc. Unit",NASDAQ
-GHIVW,"Gores Holdings IV, Inc. Warrant",NASDAQ
 GHL,"Greenhill & Co., Inc.",NYSE
 GHLD,Guild Holdings Company,NYSE
 GHM,Graham Corporation,NYSE
@@ -5258,3 +5253,11 @@ GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
 GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
+GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
+GWB,"Great Western Bancorp, Inc.",NYSE
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
+GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
+GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U

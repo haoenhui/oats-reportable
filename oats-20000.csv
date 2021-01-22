@@ -1,10 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHMUF,Shimizu Corp Ord Ordinary Shares,U
-SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
-SHMZF,Shimadzu Corp Ordinary Shares,U
-SHNL,"Shentang International, Inc. Common Stock",U
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
 SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
@@ -20,6 +14,7 @@ SHPHY,Sihuan Pharmaceutical Holdings Group Ltd. Unsponsored ADR (Bermuda),U
 SHPMF,"Shanghai Pharmaceuticals Holdings Co., Ltd. Ordinary Shares H (China)",U
 SHPMY,"Shanghai Pharmaceuticals Holdings Co., Ltd. Unsponsored ADR (China)",U
 SHPNF,Shoal Point Energy Ltd. Common Shares,U
+SHPOF,Shin Poong Pharmaceutical Co Ltd. Ordinary Shares (South Korea),U
 SHPPF,SHOP APOTHEKE EUROPE NV Ordinary Shares,U
 SHPPY,Sophos Group PLC American Depositary Receipts - Unsponsored (United Kingdom),U
 SHRG,Sharing Services Global Corp. Common Stock,U
@@ -729,6 +724,7 @@ SOUHY,South32 Ltd American Depositary Receipts - Sponsored (Australia),U
 SOUPQ,Soupman Inc. Common Stock,U
 SOVB,Cambria Sovereign Bond ETF,BATS
 SOVTF,Sonaecom SGPS SA Reg Shares (Portugal),U
+SOWG,SOW GOOD INC Common Stock,U
 SOXL,Direxion Daily Semiconductor Bull 3X Shares,ARCA
 SOXS,Direxion Daily Semiconductor Bear 3X Shares,ARCA
 SOXX,iShares PHLX Semiconductor ETF,NASDAQ
@@ -1640,7 +1636,9 @@ TAALF,Taal Distributed Information Technologies Inc Common Shares,U
 TAATF,Tata Power Companies Ltd Sponsored Reg S GDR (India),U
 TABCF,Tabcorp Holdings Ltd Ordinary Shares,U
 TAC,TransAlta Corporation,NYSE
+TACA,Trepont Acquisition Corp I,NYSE
 TACA U,"Trepont Acquisition Corp I Units, each consisting of one Class A ordinary share and one-half of one",NYSE
+TACA WS,"Trepont Acquisition Corp I Redeemable Warrants, each whole warrant exercisable for one Class A ordin",NYSE
 TACBY,Tabcorp Holdings Ltd Unsponsored ADR (Australia),U
 TACE,Trend Aggregation Conservative ETF,ARCA
 TACI,TransAtlantic Capital Inc. NEW Common Stock,U
@@ -2106,6 +2104,7 @@ THVB,Thomasville Bancshares Inc Ga Common Stock,U
 THVUF,Thai Vegetable oil Public Co Ltd Units Non Voting Depository Receipt (Thailand),U
 THW,Tekla World Healthcare Fund,NYSE
 THWWW,Target Hospitality Corp. Warrant expiring 3/15/2024,NASDAQ
+THXPF,THOR EXPLORATION LTD  Common Shares,U
 THY,Agility Shares Dynamic Tactical Income ETF,BATS
 THYCF,Taiheiyo Cement Corporation Ordinary Shares,U
 THYCY,Taiheiyo Cement Corporation American Depositary Shares,U
@@ -2939,6 +2938,7 @@ TWOH,Two Hands Corporation Common Stock,U
 TWOS,Teledata World Services Inc Common Stock,U
 TWOU,"2U, Inc. Common Stock",NASDAQ
 TWRFF,Tower Resources Ltd. Ordinary Shares (Canada),U
+TWRKF,THEWORKS CO UK PLC Ordinary Shares,U
 TWSI,Tristar Wellness Solutions Inc. Common Stock,U
 TWST,Twist Bioscience Corporation Common Stock,NASDAQ
 TWTR,"Twitter, Inc.",NYSE
@@ -3470,6 +3470,8 @@ UWHGF,United World Holding Group Ltd Ordinary Shares,U
 UWHR,Uwharrie Capital Corp Common Stock,U
 UWKI,"uWink, Inc. (Del) Common Stock",U
 UWM,ProShares Ultra Russell2000,ARCA
+UWMC,UWM Holdings Corporation,NYSE
+UWMC WS,"UWM Holdings Corporation Warrants, each exercisable for one share of Class A Common Stock at an exer",NYSE
 UXI,ProShares Ultra Industrials,ARCA
 UXIN,Uxin Limited ADS,NASDAQ
 UYG,ProShares Ultra Financials,ARCA
@@ -5200,6 +5202,7 @@ ZNTEW,Zanite Acquisition Corp. Warrant,NASDAQ
 ZNTL,"Zentalis Pharmaceuticals, Inc. Common Stock",NASDAQ
 ZNXT,ZNext Mining Corporation Inc Common Stock,U
 ZNZNF,Zinzino Holding AB Ordinary Shares B (Sweden),U
+ZOEFF,Zeotech Ltd Ordinary Shares (Australia),U
 ZOEIF,Zoetic International PLC Ordinary Shares,U
 ZOJIF,Zojirushi Corp Ordinary Shares (Japan),U
 ZOM,Zomedica Corp.,AMEX

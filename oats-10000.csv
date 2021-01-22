@@ -1,12 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
-GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
@@ -202,6 +194,7 @@ HCHOF,Hotel Chocolat Group Ltd. Ordinary Shares (United Kingdom),U
 HCI,"HCI Group, Inc.",NYSE
 HCICU,Hennessy Capital Investment Corp. V Units,NASDAQ
 HCIIP,"HCI Group, Inc. 7% Series A Cumulative Redeemable Preferred Stock",U
+HCIIU,Hudson Executive Investment Corp. II Unit,NASDAQ
 HCKG,"Hocking Valley Bancshares, Inc (OH) Common Shares",U
 HCKT,Hackett Group Inc (The). Common Stock,NASDAQ
 HCLC,Health Chemical Corporation Common Stock,U
@@ -852,6 +845,7 @@ HUBB,Hubbell Incorporated,NYSE
 HUBG,"Hub Group, Inc. Class A Common Stock",NASDAQ
 HUBS,"HUBSPOT, INC.",NYSE
 HUBV,"Hubb Ventures, Inc. Common Stock",U
+HUDI,"Huadi International Group Co., Ltd. Ordinary Shares",NASDAQ
 HUDLF,Huddly AS Ordinary Shares (Norway),U
 HUDRF,Hudson Resources Inc Ordinary Shares (Canada),U
 HUFAF,Hufvudstaden Ab Shs A Ordinary Shares,U
@@ -2035,6 +2029,7 @@ ISTR,Investar Holding Corporation Common Stock,NASDAQ
 ISTXF,Ishares PLC Treasury Bond 1 3 Year UCITS ETF (Ireland),U
 ISUDF,Ishares IV Plc Ishares Ultrashort Bond Ucits Etf Usd Acc Exchange Traded Fund (Ireland),U
 ISUN,"iSun, Inc. Common Stock",NASDAQ
+ISUNW,ISUN INC Warrant,U
 ISUPF,iShares II PLC FTSE EPRA/ NAREIT US Property Fund US Prop Yield Shs (Ireland),U
 ISUUF,IShares IV PLC USD Ultrashort BD UCITS ETF (Ireland),U
 ISUZF,Isuzu Motors Ltd Ord Ordinary Shares,U
@@ -2079,7 +2074,7 @@ ITEC,"Intertech Solutions , Inc.  NEW  Common",U
 ITEGY,Hyve Group Plc American Depositary Receipts - Unsponsored,U
 ITEPF,Hyve Group Plc Ordinary Shares,U
 ITEQ,BlueStar Israel Technology ETF,ARCA
-ITEXD,ITEX Corporation Common Stock,U
+ITEX,ITEX Corporation Common Stock,U
 ITFY,"Interfoundry, Inc. New Common Stock",U
 ITGGF,ITG Holding SPA Azioni Ordinary Shares (Italy),U
 ITGMF,I.T.G.I MEDICAL LTD Common Stock,U
@@ -2756,7 +2751,7 @@ KBDCY,Kingboard Hldgs Ltd Cayman Is American Depositary Receipts - Unsponsored,U
 KBDHF,Kabel Deutschland Holding AG Ordinary Shares (Germany),U
 KBE,SPDR S&P Bank ETF,ARCA
 KBEVF,Koios Beverage Corp Ordinary Shares,U
-KBGCF,Kings Bay Res Corp Ordinary Shares,U
+KBGCD,Kings Bay Res Corp Ordinary Shares,U
 KBH,KB Home,NYSE
 KBKCP,KBK Capital Corporation 9.50% Trust Preferred Securities due 11/30/2028,U
 KBLB,"Kraig Biocraft Laboratories, Inc. Common Stock",U
@@ -3672,6 +3667,7 @@ LLNXF,Link Linux Inc Ordinary Shares (Canada),U
 LLOBF,Lloyds Banking Group Plc Pref Shs Non Cum 9.25% (United Kingdom),U
 LLXXF,Multi Units Luxembourg Sicav Shs Mullyfaugo 5Y ETF D GBP (Luxembourg),U
 LLY,Eli Lilly & Co.,NYSE
+LMACU,Liberty Media Acquisition Corporation Unit,NASDAQ
 LMAT,"LeMaitre Vascular, Inc. Common Stock",NASDAQ
 LMB,"Limbach Holdings, Inc. Common Stock",NASDAQ
 LMBHW,"Limbach Holdings, Inc Warrant 07/20/2021",U
@@ -3790,6 +3786,8 @@ LOQPF,Accesso Technology Group Plc (United Kingdom),U
 LORL,"Loral Space and Communications, Inc. Common Stock",NASDAQ
 LOTBY,Lotus Bakeries NV Unsponsored American Depository Receipt (Germany Federal Republic),U
 LOTE,"Lot78, Inc Common Stock",U
+LOTZ,"CarLotz, Inc. Class A Common Stock",NASDAQ
+LOTZW,"CarLotz, Inc. Warrant",NASDAQ
 LOUIF,"13 Holdings, Ltd. Ordinary Shares",U
 LOUP,Innovator Loup Frontier Tech ETF,ARCA
 LOV,Spark Networks SE American Depositary Shares (each representing one-tenth of an Ordinary Share),AMEX
@@ -4222,7 +4220,6 @@ MCDTF,McDermott International LTD Warrant Pur Com Tranche A Exp 06/30/2027 (Berm
 MCEF,First Trust Exchange-Traded Fund VIII First Trust Municipal CEF Income Opportunity ETF,NASDAQ
 MCELQ,Millennium Cell Inc. Common Stock,U
 MCEM,Monarch Cement Co Common Stock,U
-MCEP,"Mid-Con Energy Partners, LP Common Units",NASDAQ
 MCESF,Macro Enterprises Inc. Com (Canada),U
 MCET,"MultiCell Technologies, Inc. Common Stock",U
 MCF,Contango Oil & Gas Co.,AMEX
@@ -4580,6 +4577,7 @@ MHPSY,MHP S A GDR Reg S,U
 MHRTF,Pt Matahari Dept Store Tbk Ordinary Shares (Indonesia),U
 MHSDF,Megacable Holdings SAB DE CV Cert Par Ord Cons of 2 Shares A (Mexico),U
 MHSMF,MUSASHI SEIMITSU INDUSTRY CO LTD TOYOHASHI Ordinary Shares Japan(JP ),U
+MHTCF,Maitri Health Technologies Corp Common Shares,U
 MHTX,"Manhattan Scientifics, Inc. Common Stock",U
 MHTZF,Manhattan Corporation Ordinary Shares (Austrailia),U
 MHVYF,Mitsubishi Heavy Inds Ltd Ord Ordinary Shares,U
@@ -4900,6 +4898,7 @@ MNSO,"MINISO Group Holding Limited American Depositary Shares, each representing
 MNST,Monster Beverage Corporation,NASDAQ
 MNTHF,Minth Group Ltd Ordinary Shares (Cayman Islands),U
 MNTHY,Minth Group Ltd Unsponsored ADR (Cayman Islands),U
+MNTK,"Montauk Renewables, Inc. Common Stock",NASDAQ
 MNTR,"Mentor Capital, Inc. Common Stock",U
 MNTTF,Multi Units Luxembourg SICAV Ord Shs Lyxor EU High Rat M W G BD 3Yr (Luxembourg),U
 MNTUF,"Manitou Gold, Inc Ordinary Shares (Canada)",U
@@ -5257,3 +5256,7 @@ MTLK,"Metalink, Ltd. Ordinary Shares",U
 MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U
 MTLRF,Metalore Resources Ltd Ordinary Shares,U
 MTLS,Materialise NV American Depositary Shares,NASDAQ
+MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
+MTMW,"Matmown, Inc. Common",U
+MTN,"Vail Resorts, Inc.",NYSE
+MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
