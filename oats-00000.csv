@@ -229,7 +229,7 @@ ACLLF,Atco Ltd  Cl I Nv Cda Ordinary Shares,U
 ACLS,"Axcelis Technologies, Inc. Common Stock",NASDAQ
 ACLTF,Atco Ltd Cl Ii Vtg Cda Ordinary Shares,U
 ACM,Aecom,NYSE
-ACMB,Agro Capital Management Corp Common Stock,U
+ACMBD,Agro Capital Management Corp Common Stock,U
 ACMC,American Church Mortgage Co Common Stock,U
 ACMDY,Atlas Consolidated Mining & Development Corp American Depositary Share (Unsponsored) (Phillippines),U
 ACMLF,Ascom Holdings A G Bearer Shs Ordinary Shares (Switzerland),U
@@ -2211,7 +2211,7 @@ AZZVF,AVZ Minerals Ltd Ordinary Shares (Australia),U
 B,Barnes Group Inc.,NYSE
 BA,Boeing Company,NYSE
 BAB,Invesco Taxable Municipal Bond ETF,ARCA
-BABA,"American Depositary Shares, each represents eight Ordinary Shares",NYSE
+BABA,"Alibaba Group Holding Limited American Depositary Shares, each represents eight Ordinary Shares",NYSE
 BABAF,Alibaba Group Holding Ltd Ordinary Shares  NEW (Cayman Islands),U
 BABB,"BAB, Inc. Common Stock",U
 BABL,Buildablock Corp. Common Stock,U
@@ -2573,7 +2573,7 @@ BFEHF,"Bachem Holding, Ltd. Namen AKT B (Switzerland)",U
 BFFAF,BASF SE Ordinary Shares (Germany),U
 BFFBF,Biffa PLC Ordinary Shares (United Kingdom),U
 BFFTF,Biofrontera AG Ordinary Shares (Germany),U
-BFGC,Bullfrog Gold Corp. Common Stock,U
+BFGCD,Augusta Gold Corp. Common Stock,U
 BFGX,"Bangfu Technology Group Co., Ltd. Common Stock",U
 BFHJ,"Beneficial Holdings, Inc. Common Stock",U
 BFI,"BurgerFi International, Inc. Common Stock",NASDAQ
@@ -5036,6 +5036,7 @@ CNIG,Corning Natural Gas Holding Corporation Common Stock,U
 CNIGO,Corning Natural Gas Holding Corporation 6% Pfd Ser A,U
 CNIGP,Corning Natural Gas Holding Corporation 4.8% Pfd Conv Ser B,U
 CNIKF,Canada Nickel Co Inc Common Shares (Canada),U
+CNINF,China International Marine Containers Group Ltd H Ordinary Shares (China),U
 CNJG,Jufeel International Group Common Stock,U
 CNK,"Cinemark Holdings, Inc.",NYSE
 CNLFF,Canlan Ice Sports Corporation Ordinary Shares (Canada),U
@@ -5261,3 +5262,5 @@ COWZ,Pacer US Cash Cows 100 ETF,BATS
 COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
+CPA,"Copa Holdings, S.A.",NYSE
+CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE

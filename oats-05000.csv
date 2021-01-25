@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPA,"Copa Holdings, S.A.",NYSE
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
@@ -193,7 +191,7 @@ CRMT,America's Car-Mart Inc Common Stock,NASDAQ
 CRMWF,CROMWELL EUROPEAN REAL ESTATE INVT TR Ordinary Shares,U
 CRMZ,"CreditRiskMonitor.com, Inc. Common Stock",U
 CRNC,Cerence Inc. Common Stock,NASDAQ
-CRNCY,Cairn Energy Plc Unsponsored ADR (UK),U
+CRNCD,Cairn Energy Plc American Depositary Receipts - Unsponsored,U
 CRNHY,Crest Nicholson Holdings PLC Unsponsored ADR (United Kingdom),U
 CRNT,Ceragon Networks Ltd. Ordinary Shares,NASDAQ
 CRNX,"Crinetics Pharmaceuticals, Inc. Common Stock",NASDAQ
@@ -1346,6 +1344,7 @@ DONFF,Sphinx Resources Ltd  Common Shares,U
 DOO,WisdomTree international Dividend Ex-Financials Fund,ARCA
 DOOO,BRP Inc. Common Subordinate Voting Shares,NASDAQ
 DOOR,MASONITE INTERNATIONAL CORP,NYSE
+DOOSF,Doosan Fuel Cell Co Ltd. Common Shares (South Korea),U
 DORM,"Dorman Products, Inc. Common Stock",NASDAQ
 DOTDF,DotDigital Group PLC Ordinary Shares (United Kingdom),U
 DOV,Dover Corporation,NYSE
@@ -2352,8 +2351,8 @@ EPD,Enterprise Products Partners L.P.,NYSE
 EPEO,E'Prime Aerospace Corporation New Common Stock,U
 EPGC,ECom Products Group Common Stock,U
 EPGG,Empire Global Gaming Inc Common Stock,U
-EPGND,Epigenomics Ag Berlin American Depositary Receipts - Sponsored,U
 EPGNF,EPIGENOMICS AG Ordinary Shares,U
+EPGNY,Epigenomics Ag Berlin American Depositary Receipts - Sponsored,U
 EPGRQ,Environmental Power Corporation New Common Stock,U
 EPHE,iShares MSCI Philippines ETF,ARCA
 EPHYU,Epiphany Technology Acquisition Corp. Unit,NASDAQ
@@ -3544,7 +3543,6 @@ FNAM,"Evolutionary Genomics, Inc. Common Stock",U
 FNAUF,FOUR NINES GOLD INC Common Stock,U
 FNB,F.N.B. Corp,NYSE
 FNB PRE,F.N.B. CORPORATION Representing a 1/40th Interest in a Share of Fixed-to-Floating Rate Non-Cumulativ,NYSE
-FNBCQ,First NBC Bank Holding Co Common Stock,U
 FNBE,First Natl Bk Mercersburg Pa Common Stock,U
 FNBKY,Finecobank SPA American Depositary Receipts - Unsponsored (Italy),U
 FNBLF,FINABLR PLC Ord GBP0.01 (United Kingdom),U
@@ -3567,7 +3565,7 @@ FNDC,Schwab Fundamental International Small Company Index ETF,ARCA
 FNDE,Schwab Fundamental Emerging Markets Large Company Index ETF,ARCA
 FNDF,Schwab Fundamental International Large Company Index ETF,ARCA
 FNDM,Fund.com Inc. Class A  Common Stock,U
-FNDOD,Fvi Fondo De Valores Ser B 10p American Depositary Receipts - Sponsored,U
+FNDOY,Fvi Fondo De Valores Ser B 10p American Depositary Receipts - Sponsored,U
 FNDTF,FRIENDTIMES INC. HKD SHS (Cayman Islands),U
 FNDX,Schwab Fundamental U.S. Large Company Index ETF,ARCA
 FNEC,First National Energy Corporation Common Stock,U
@@ -3764,6 +3762,7 @@ FRG,"Franchise Group, Inc. Common Stock",NASDAQ
 FRGAP,"Franchise Group, Inc. 7.50% Series A Cumulative Perpetual Preferred Stock",NASDAQ
 FRGHY,FORGAME HLDGS LTD  American Depositary Receipts - Unsponsored (Cayman Islands),U
 FRGI,"Fiesta Restaurant Group, Inc. Common Stock",NASDAQ
+FRGOL,Wells Fargo & Co New Depositary Shares Rep 1/1000th Int Non Cum Perp Pfd Class A Ser CC,U
 FRGY,Frontier Energy Corporation,U
 FRHC,Freedom Holding Corp. Common Stock,NASDAQ
 FRHHF,"Freshii, Inc. Class A Sub Vtg Ordinary Shares (Canada)",U
@@ -3909,7 +3908,9 @@ FTCGF,FST TR GBL FDS PLC Cloud Computing UCITS ETF Class A Shs (Ireland),U
 FTCH,Farfetch Limited Class A Ordinary Shares,NYSE
 FTCPF,FIRST TR GLOBAL FDS PLC FIRST TRUST CAPITAL STRENGTH UCITS ETFCLASS A Exchange Traded Fund,U
 FTCS,First Trust Capital Strength ETF,NASDAQ
+FTCV,FinTech Acquisition Corp. V Class A Common Stock,NASDAQ
 FTCVU,FinTech Acquisition Corp. V Unit,NASDAQ
+FTCVW,FinTech Acquisition Corp. V Warrant,NASDAQ
 FTDL,FirsTime Design Limited Common Stock,U
 FTDPF,First Trust Global Funds Plc Exchange Traded Fund (Ireland),U
 FTDR,"frontdoor, inc. Common Stock",NASDAQ
@@ -4237,6 +4238,7 @@ GCFFF,Goldcliff Resource Corp Ordinary Shares,U
 GCGMF,Great Canadian Gaming Corp Ordinary Shares,U
 GCGX,"Global Consortium, Inc. Common Stock",U
 GCHEF,Grupo Comercial Chedrui SAB CV Ordinary Shares Series -B- (Mexico),U
+GCHHF,Gooch & Housego PLC Ordinary Shares (United Kingdom),U
 GCHK,Greenchek Technology Inc,U
 GCHOY,Grupo Nutresa SA Sponsored American Depository Receipt (Columbia),U
 GCHT,GC China Turbine Corp. Common Stock,U
@@ -5261,3 +5263,4 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U

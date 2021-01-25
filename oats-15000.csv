@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
 MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
 MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
@@ -101,6 +102,7 @@ MVO,MV Oil Trust,NYSE
 MVPT,MVP Holdings Inc. Common Stock,U
 MVRBF,Medivir Ordinary Shares,U
 MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,ARCA
+MVRRF,Medivir Aktiebolag Sub Rights Tr B Exp 02/03/2021 (Sweden),U
 MVT,Blackrock Munivest Fund II,NYSE
 MVV,ProShares Ultra MidCap400,ARCA
 MVVYF,Moovly Media Inc Ordinary Shares (Canada),U
@@ -436,6 +438,7 @@ NEWRF,Newmac Resources Inc Common Shares (Canada),U
 NEWT,Newtek Business Services Corp. Common Stock (Maryland),NASDAQ
 NEWTI,Newtek Business Services Corp. 6.25% Notes Due 2023,NASDAQ
 NEWTL,Newtek Business Services Corp. 5.75% Notes due 2024,NASDAQ
+NEWTZ,Newtek Business Services Corp. 5.50% Notes Due 2026,NASDAQ
 NEWUF,Newtopia Inc Common Shares (Canada),U
 NEX,NexTier Oilfield Solutions Inc.,NYSE
 NEXA,Nexa Resources S.A. Common Shares,NYSE
@@ -980,6 +983,7 @@ NSRXF,NOMAD RTY CO LTD Common Shares,U
 NSS,"NUSTAR LOGISTICS, L.P. 7.625% Fixed-to-Floating Rate Subordinated Notes due 2043",NYSE
 NSSC,"NAPCO Security Technologies, Inc. Common Stock",NASDAQ
 NSSXF,NS Solutions Corp Tokyo Ordinary Shares (Japan),U
+NSTB U,"Northern Star Investment Corp. II Units, each consisting of one share of Class A common stock and on",NYSE
 NSTG,"NanoString Technologies, Inc. Common Stock",NASDAQ
 NSTKF,Novatek Joint Stock Company Ordinary Shares (Russia),U
 NSTM,NovelStem International Corp. Common Stock,U
@@ -1137,7 +1141,6 @@ NVO,Novo-Nordisk A/S,NYSE
 NVOOF,Novo Resources Corp Warrant Exp 08/27/2023 (Canada),U
 NVOS,"Novo Integrated Sciences, Inc. Common Stock",U
 NVPLF,Nevaro Capital Common Stock (Canada),U
-NVPTF,NAVITAS PETE LTD PARTNERSHIP PART UNIT Other Israel(IL ),U
 NVQ,Qraft AI-Enhanced US Next Value ETF,ARCA
 NVR,"NVR, Inc.",NYSE
 NVRO,NEVRO CORP.,NYSE
@@ -2636,6 +2639,7 @@ PMOIF,Premier Oil plc New Ordinary Shares (United Kingdom),U
 PMOIY,Premier Oil plc American Depositary Shares,U
 PMOZ,"PrismOne Group, Inc. Common Stock",U
 PMPG,"Premier Products Group, Inc. Common Stock",U
+PMRTY,Pop Mart International Group Limited American Depositary Receipts - Unsponsored (Cayman Islands),U
 PMSNF,Proteome Sciences Plc Ordinary Shares,U
 PMSO,Primal Solutions Inc New Common Stock,U
 PMT,PennyMac Mortgage Investment Trust,NYSE
@@ -2969,7 +2973,6 @@ PRTY,Party City Holdco Inc.,NYSE
 PRU,"Prudential Financial, Inc.",NYSE
 PRVB,"Provention Bio, Inc. Common Stock",NASDAQ
 PRVCF,PreveCeutical Medical Inc. Ordinary Shares (Canada),U
-PRVL,Prevail Therapeutics Inc. Common Stock,NASDAQ
 PRVU,"PreVu, Incorporated Common Stock",U
 PRWWW,PRWireless PR Inc Wt Expiring 06/27/2024,U
 PRWYF,Prodways Group Common Stock (France),U
@@ -3158,7 +3161,9 @@ PTHIF,PT Solusi Bangun Indonesia TBK Ordinary Shares,U
 PTHIY,PT SOLUSI BANGUN INDONESIA TBK  American Depositary Receipts - Unsponsored,U
 PTHRF,"Pantheon Resources Plc, London Shs (United Kingdom)",U
 PTHXF,PT HEXINDO ADIPERKASA Ordinary Shares,U
+PTIC,PropTech Investment Corporation II Class A Common Stock,NASDAQ
 PTICU,PropTech Investment Corporation II Unit,NASDAQ
+PTICW,PropTech Investment Corporation II Warrant,NASDAQ
 PTIFF,Petroceltic International Plc Ordinary Shares (IE),U
 PTIN,Pacer Trendpilot International ETF,ARCA
 PTITF,PT Indosat Tbk Ordinary Shares (Indonesia),U
@@ -4924,7 +4929,7 @@ SEAC,"SeaChange International, Inc. Common Stock",NASDAQ
 SEAH,Sports Entertainment Acquisition Corp.,NYSE
 SEAH U,"Sports Entertainment Acquisition Corp. Units, each consisting of one share of Class A Common Stock,",NYSE
 SEAH WS,"Sports Entertainment Acquisition Corp. Redeemable Warrants, each whole Warrant exercisable for one s",NYSE
-SEAMF,Seamico Securities Public Co Ltd Ordinary Shares (Thailand),U
+SEAMF,SEAMICO CAP PUB CO LTD Ordinary Shares,U
 SEAOF,Seaco Ltd Ordinary Shares (Bermuda),U
 SEAS,SEAWORLD ENTERTAINMENT INC,NYSE
 SEAV,SEATECH VENTURES CORP Common Stock,U
@@ -5259,4 +5264,3 @@ SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U

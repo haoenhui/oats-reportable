@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -820,7 +819,9 @@ HTLZF,Hamilton Thorne Ltd. Common shares (Canada),U
 HTNGF,HAITONG SECS CO LTD Ordinary Shares,U
 HTOO,Fusion Fuel Green PLC Class A Ordinary Shares,NASDAQ
 HTOOW,Fusion Fuel Green PLC Warrant,NASDAQ
+HTPA,Highland Transcend Partners I Corp.,NYSE
 HTPA U,"Highland Transcend Partners I Corp. Units, each consisting of one Class A ordinary share and one-thi",NYSE
+HTPA WS,"Highland Transcend Partners I Corp. Redeemable warrants, each whole warrant exercisable for one Clas",NYSE
 HTPIF,HOTEL PPTY INVTS Stapled Security (Austrailia),U
 HTPRF,HTC Purenergy Inc Ordinary Shares (Canada),U
 HTRB,Hartford Total Return Bond ETF,ARCA
@@ -964,13 +965,13 @@ HYLS,First Trust Exchange-Traded Fund IV First Trust Tactical High Yield ETF,NAS
 HYLV,IQ S&P High Yield Low Volatility Bond ETF,ARCA
 HYMB,SPDR Nuveen Bloomberg Barclays High Yield Municipal Bond ETF,ARCA
 HYMC,Hycroft Mining Holding Corporation Class A Common Stock,NASDAQ
+HYMCL,Hycroft Mining Holding Corporation Warrants,NASDAQ
 HYMCW,Hycroft Mining Holding Corporation  Warrant,NASDAQ
 HYMCZ,Hycroft Mining Holding Corporation Warrant,NASDAQ
 HYMLF,Hyundai Motor Co Ltd Ordinary Shares,U
 HYMOF,Hyundai Motor Co Ltd Pfd Shs Issued 1999 (South Korea),U
 HYMPF,Hyundai Motor Co Ltd PFD Shares Non-Voting,U
 HYMTF,Hyundai Motor Co Ltd Global Depositary Shares,U
-HYMWW,Hycroft Mining Holding Corp Warrant Pur Class A Exp 10/06/2025,U
 HYPF,"Hypower Fuel, Inc. New Common Stock",U
 HYPLF,Hyundai Mobis Co Ltd  Ordinary Shares (South Korea),U
 HYPMY,Hypera SA American Depositary Receipts - Sponsored,U
@@ -1288,6 +1289,7 @@ IFCI,IFCI International Corporation Common Stock,U
 IFCPF,Intact Financial Corp Non Cumulative Floating Rate Preference Shares Class A Series 4 (Canada),U
 IFCZF,Intact Financial Corp. Common Shares (Canada),U
 IFF,International Flavors & Fragrances Inc.,NYSE
+IFF WI,International Flavors & Fragrances Inc.,NYSE
 IFFT,International Flavors & Fragrances Inc. 6.00% Tangible Equity Units,NYSE
 IFGH,Infoserve Global Holdings Corp Common Stock,U
 IFGL,iShares International Developed Real Estate ETF,NASDAQ
@@ -2363,6 +2365,7 @@ JDDSF,John David Sports PLC Ordinary Shares (United Kingdom),U
 JDEPF,JDE Peet's NV Ordinary Shares (Netherlands),U
 JDEPY,JDE Peets NV American Depositary Receipts - Unsponsored (Netherlands),U
 JDHIF,JD HEALTH INTL INC Ordinary Shares,U
+JDHIY,JD Health International Inc. American Depositary Receipts - Unsponsored (Cayman Islands),U
 JDIV,JPMorgan U.S. Dividend ETF,ARCA
 JDQTF,"Jasdaq-Top20 ETF, Tokyo UNITS 2010 -without fixed maturity (Japan)",U
 JDSHF,Jardine Strategic Hldgs Ordinary Shares,U
@@ -3313,9 +3316,9 @@ LAKF,"Lake Forest Minerals, Inc. Common Stock",U
 LAMR,Lamar Advertising Company Class A Common Stock,NASDAQ
 LANC,Lancaster Colony Corporation Common Stock,NASDAQ
 LAND,Gladstone Land Corporation Common Stock,NASDAQ
+LANDM,Gladstone Land Corporation 5.00% Series D Cumulative Term Preferred Stock,NASDAQ
 LANDO,Gladstone Land Corporation 6.00% Series B Cumulative Redeemable Preferred Stock,NASDAQ
 LANDP,Gladstone Land Corporation 6.375% Series A Cumulative Term Preferred Stock,NASDAQ
-LANPP,GLADSTONE LD CORP TERM PFD SER D % Preferred Stock,U
 LANZ,"Lancer Orthodontics, Inc. Common Stock",U
 LARAF,Laura Ashley Hldgs Plc Ord Ordinary Shares,U
 LAREF,LAR Espana Real Estate S A Ordinary Shares (Spain),U
@@ -3773,7 +3776,9 @@ LOGQ,"Logicquest Technology, Inc. Common Stock",U
 LOGX,"PeerLogix, Inc. Common Stock",U
 LOIMF,LOOMIS AB Ordinary Shares,U
 LOIMY,"Loomis AB, Solna Unsponsored ADR (Sweden)",U
+LOKB,Live Oak Acquisition Corp. II,NYSE
 LOKB U,"Live Oak Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-th",NYSE
+LOKB WS,"Live Oak Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one share of C",NYSE
 LOMA,"Loma Negra Compania Industrial Argentina Sociedad Anonima American Depositary Shares (ADSs), each re",NYSE
 LOMLF,Lion One Metals Ltd. Ordinary Shares (Canada),U
 LONCF,Loncor Resources Inc. Ordinary Shares,U
@@ -5259,4 +5264,3 @@ MTLS,Materialise NV American Depositary Shares,NASDAQ
 MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
 MTMW,"Matmown, Inc. Common",U
 MTN,"Vail Resorts, Inc.",NYSE
-MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
