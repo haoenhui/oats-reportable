@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
 SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
@@ -188,6 +189,7 @@ SKCZF,Selcuk Ecza Deposu Ticaret Ve Sanayi As Ordinary Shares (Turkey),U
 SKDI,"Sun Kissed Industries, Inc. Common Stock",U
 SKENF,Sasakura Engineering Co Ltd Ordinary Shares (Japan),U
 SKF,ProShares UltraShort Financials,ARCA
+SKFGF,STARK FOCUS GROUP INC Common Shares,U
 SKFOF,Sika AG Ordinary Shares,U
 SKFRY,SKF AB American Depositary Shares,U
 SKGO,"SkyBridge Technology Group, Inc. Common Stock",U
@@ -909,6 +911,7 @@ SPXU,ProShares UltraPro Short S&P 500,ARCA
 SPXV,ProShares S&P 500 Ex-Health Care ETF,ARCA
 SPXX,NUVEEN S&P 500 DYNAMIC OVERWRITE FUND,NYSE
 SPXXF,Sparebanken 1 Nord Norge Primary Cap Cert (Norway),U
+SPXZ,Morgan Creek - Exos SPAC Originated ETF,ARCA
 SPY,SPDR S&P 500 ETF Trust,ARCA
 SPYC,Simplify US Equity PLUS Convexity ETF,ARCA
 SPYD,SPDR Portfolio S&P 500 High Dividend ETF,ARCA
@@ -962,7 +965,6 @@ SRCPF,SHERWOOD CORP THAILAND PUB CO LTD Common Stock (Thailand),U
 SRCRF,Scorpio Gold Corp Common Shares,U
 SRCSY,Summit Resources Ltd Unsponsored ADR (Australia),U
 SRCX,Stonebridge Resources Explorations Ltd New Common Stock,U
-SRDAF,Schroder Asia Pacific Fund Ordinary Shares (United Kingdom),U
 SRDX,"Surmodics, Inc. Common Stock",NASDAQ
 SRE,Sempra Energy,NYSE
 SRE PRB,"Sempra Energy 6.75% Mandatory Convertible Preferred Stock, Series B",NYSE
@@ -1045,6 +1047,7 @@ SRWRF,Solarworld Ag Ordinary Shares,U
 SRXXF,Sparx Asset Management Co Ltd Sparx Asset Management Co Ltd (Japan),U
 SRYB,Surrey Bancorp (NC) Common Stock,U
 SSAAF,Ssab Swedish Steel A Sh Sk25 P Ordinary Shares,U
+SSAAU,Science Strategic Acquisition Corp. Alpha Unit,NASDAQ
 SSAAY,Ssab Swedish Steel A Sh Sk25 P Unsponsored ADR (Sweden),U
 SSB,South State Corporation Common Stock,NASDAQ
 SSBI,Summit State Bank Common Stock,NASDAQ
@@ -1380,7 +1383,7 @@ SUPN,"Supernus Pharmaceuticals, Inc. Common Stock",NASDAQ
 SUPV,Grupo Supervielle S.A.,NYSE
 SURDF,Sumitomo Realty & Development Co Ltd Ordinary Shares (Japan),U
 SURF,"Surface Oncology, Inc. Common Stock",NASDAQ
-SURG,"Surge Holdings, Inc. Common Stock",U
+SURG,SURGEPAYS INC Common Stock,U
 SURJF,Surge Exploration Inc Ordinary Shares,U
 SURRF,Sun Art Retail GP Ltd. Ordinary Shares (Hong Kong),U
 SURRY,Sun Art Retail GP Ltd. Unsponsored ADR (Honk Kong),U
@@ -1894,6 +1897,7 @@ TEGS,Trend Aggregation ESG ETF,BATS
 TEGY,Transact Energy Corporation Common Stock,U
 TEHG,"Technovative Group, Inc. Common Stock",U
 TEI,Templeton Emerging Markets Income Fund,NYSE
+TEIHF,TIANLI ED INTL HLDGS LTD Common Stock,U
 TEKCF,TEKCAPITAL PLC Ordinary Shares,U
 TEKI,TEK DigiTel Corporation TEK DigiTel Corporation,U
 TEKK,Tekkorp Digital Acquisition Corp. Class A Ordinary Shares,NASDAQ
@@ -2216,7 +2220,6 @@ TKPTF,Takara Printing Co Ltd Ordinary Shares (Japan),U
 TKR,The Timken Company,NYSE
 TKRFF,Tinka Resources Ltd Ordinary Shares (Canada),U
 TKSHF,Takashimaya Co Ltd Ordinary Shares (Japan),U
-TKSI,TURNKEY SOLUTIONS INC Common Stock,U
 TKSNF,Takasago Thermal Eng Co Ltd Ordinary Shares (Japan),U
 TKSTF,Tinkerine Studios Ltd. Ordinary Shares (Canada),U
 TKTCY,"Talktalk Telecom Group, PLC Unsponsored American Depository Shares (United Kingdom)",U
@@ -2434,7 +2437,6 @@ TOGOF,Tomagold Corporation Common Shares Class A (Canada),U
 TOILF,"3D Oil Ltd, Melbourne Ordinary Shares (Australia)",U
 TOIPF,Thai Oil Public Co Ltd Shares Foreign Registered (Thailand),U
 TOIPY,Thai Oil Public Co Ltd Unsponsored American Depository Receipt (Thailand),U
-TOISF,Toshiba Plant Systems & Services Corp Ordinary Shares (Japan),U
 TOK,iShares MSCI Kokusai Fund,ARCA
 TOKCF,Tokyo Ohka Kogyo Co Ltd Ordinary Shares,U
 TOKE,Cambria Cannabis ETF,BATS
@@ -3023,6 +3025,7 @@ UAVS,"AgEagle Aerial Systems, Inc.",AMEX
 UBA,Urstadt Biddle Properties Inc. Class A,NYSE
 UBAAF,Urbana Corp Common Stock Class A Non-Voting,U
 UBAB,"United Bancorporation of Alabama, Inc. Class A Common Stock",U
+UBANF,UBS ETF CH ANTEILE USD A DIS Exchange Traded Fund,U
 UBAXF,UBS ETFs PLC Accum Part Shares Class A ETF (Ireland),U
 UBAZF,Uzabase Inc Common Shares   Japan (JP),U
 UBBSF,UBS ETFS Plc Accum Part Shs Cl A Exchange Traded Fund USD (Ireland),U
@@ -3779,7 +3782,7 @@ VLGDF,VALUE GOLD ETF UNITS EXCHANGE -TRADED FUND (Hong Kong),U
 VLGEA,"Village Super Market, Inc. Class A Common Stock",NASDAQ
 VLKAF,Volkswagen A G Ord Ordinary Shares,U
 VLKPF,Volkswagen A G Ord Ordinary Shares,U
-VLLTF,Velocity Data Inc Ordinary Shares (Canada),U
+VLLTF,EMERGENCE GLOBAL ENTERPRISES INC Ordinary Shares,U
 VLLX,Valley Republic Bancorp Common Stock,U
 VLMGF,Viscount Mining Corp Common Shares  (Canada),U
 VLMRY,Vilmorin & Cie SA American Depositary Receipts - Unsponsored (France),U
@@ -3966,6 +3969,7 @@ VRNA,Verona Pharma plc American Depositary Share,NASDAQ
 VRNDF,Delta 9 Cannabis Inc Ordinary Shares,U
 VRNS,"Varonis Systems, Inc. Common Stock",NASDAQ
 VRNT,Verint Systems Inc. Common Stock,NASDAQ
+VRNTV,Verint Systems Inc. Ex-Distribution When-Issued,NASDAQ
 VRP,Invesco Variable Rate Preferred ETF,ARCA
 VRRCF,VR RESOURCES LTD Ordinary Shares,U
 VRRKF,Versabank Ordinary Shares (Canada),U

@@ -1187,6 +1187,7 @@ NWKHY,Netcare Ltd Unsponsored ADR  (South Africa),U
 NWKLF,Network Int'l Holdings Ltd Ord Gbp 0.10 (United Kingdom),U
 NWL,Newell Brands Inc. Common Stock,NASDAQ
 NWLI,"National Western Life Group, Inc. Class A Common Stock",NASDAQ
+NWLXF,NEWLOX GOLD VENTURES Common Shares,U
 NWMH,"National Waste Management Holdings, Inc.  Common Stock",U
 NWN,Northwest Natural Holding Company,NYSE
 NWNNF,New Century Resources Ltd Ordinary Shares (Australia),U
@@ -1240,6 +1241,7 @@ NXGT,"Nexteligent Holdings, Inc. Common Stock",U
 NXGWF,Next Green Wave Common Shares (Canada),U
 NXJ,Nuveen New Jersey Quality Municipal Income Fund,NYSE
 NXLLF,NUIX LTD Ordinary Shares,U
+NXMH,NEXT MEATS HLDGS INC Common Stock,U
 NXMR,"NextMart, Inc. Common Stock",U
 NXN,NUVEEN NY SEL TAX-FREE INC,NYSE
 NXNN,Nexeon Medsystems Inc Common Stock,U
@@ -2046,7 +2048,6 @@ PBYI,Puma Biotechnology Inc Common Stock,NASDAQ
 PBYYF,Publity AG Ordinary Shares (Germany),U
 PCAEF,"PT Cardig Aero Services TBK, Jakarta Shs (Indonesia)",U
 PCAR,PACCAR Inc. Common Stock,NASDAQ
-PCASF,PACIFIC ASSETS TRUST PLC SHS (United Kingdom),U
 PCB,PCB Bancorp Common Stock,NASDAQ
 PCBN,"Piedmont Community Bank Group, Inc. (GA) Common Stock",U
 PCCOF,Paltac Corporation Osaka Shs (Japan),U
@@ -2158,6 +2159,7 @@ PDMI,"Paradigm Medical Industries, Inc. Common Stock",U
 PDN,Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF,ARCA
 PDNLA,Presidential Realty Corporation Class A Common Stock,U
 PDNLB,Presidential Realty Corporation Class B Common Stock,U
+PDO,PIMCO Dynamic Income Opportunities Fund,NYSE
 PDOS,"Platinum Studios, Inc. Common Stock",U
 PDP,Invesco Exchange-Traded Fund Trust Invesco DWA Momentum ETF,NASDAQ
 PDPR,Marathon Group Corporation.  Common Stock,U
@@ -2335,6 +2337,7 @@ PGPM,Pilgrim Petroleum Corporation Common Stock,U
 PGPXF,Petrocorp Group Inc Common (Canada),U
 PGQWF,1-PAGE LTD Ordinary Shares (Australia),U
 PGR,Progressive Corporation,NYSE
+PGRCF,PHOENIX GOLD RESOURCES  Common Shares,U
 PGRE,"PARAMOUNT GROUP, INC.",NYSE
 PGSC,"Progressive Green Solutions, Inc. NEW Common Stock",U
 PGSVY,PGS ASA American Depositary Receipts - Sponsored,U
@@ -2981,7 +2984,6 @@ PRXIQ,"Premier Exhibitions, Inc.",U
 PRXM,Proxim Wireless Corporation Common Stock,U
 PRXTF,Pure Extracts Technologies Corp Common Shares,U
 PRXXF,Paradox Interactive AB Ordinary Shares (Sweden),U
-PRYBF,PT Ramayana Lestari Sentosa TBK Ordinary Shares  Indonesia(ID ),U
 PRYMF,"Prysmian S.P.A., Milano Ordinary Shares (Italy)",U
 PRYMY,"Prysmian S.P.A., Milano Unsponsored ADR (Italy)",U
 PRYNF,Backstageplay Inc Common Shares,U
@@ -3181,6 +3183,7 @@ PTKHF,Petkim Petrokimya Hldgs AS Ordinary Shares (Turkey),U
 PTLC,Pacer Trendpilot US Large Cap ETF,BATS
 PTLF,"Petlife Pharmaceuticals, Inc Common Stock",U
 PTLKF,PT Lippo Karawaci TBK Ordinary Shares (Indonesia),U
+PTLPF,PT LIPPO CIKARANG TBK Ordinary Shares,U
 PTMC,Pacer Trendpilot US Mid Cap ETF,BATS
 PTMEF,PT MEDIA NUSANTARA CITRA TBK Ordinary Shares (Indonesia),U
 PTMEY,PT Media Nusantara Citra TBK Unsponsored ADR (Indonesia),U
@@ -4023,6 +4026,7 @@ RILYM,"B. Riley Financial, Inc. 6.375% Senior Notes due 2025",NASDAQ
 RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",NASDAQ
 RILYO,"B. Riley Financial, Inc. 6.75% Senior Notes due 2024",NASDAQ
 RILYP,"B. Riley Financial, Inc. Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock",NASDAQ
+RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",NASDAQ
 RILYZ,"B. Riley Financial, Inc. 7.50% Senior Notes Due 2027",NASDAQ
 RINF,ProShares Inflation Expectations ETF,ARCA
 RING,iShares MSCI Global Gold Miners Fund,NASDAQ
@@ -4327,6 +4331,7 @@ RSAIF,RSA Insurance Group PLC  Ordinary Shares,U
 RSAM,"Rising Sun Bancorp (Rising Sun, MD) Common Stock",U
 RSASF,"Resaas Services, Inc. Ordinary Shares (Canada)",U
 RSAU,Rooshine Inc. Common Stock,U
+RSBSF,REACH SUBSEA ASA Ordinary Shares,U
 RSCF,"Reflect Scientific, Inc. Common Stock",U
 RSCI,"Redwood Scientific Technologies, Inc. Common Stock",U
 RSCZF,Global Care Capital Inc.  Common Shares,U
@@ -4373,7 +4378,7 @@ RSYC,"Real Security Company, Inc. (The) Common Stock",U
 RTAI,Rareview Tax Advantaged Income ETF,BATS
 RTAS,"REDtone Asia, Inc.  Common Stock",U
 RTBBF,Rathbone Bros Plc Ordinary Shares (United Kingdom),U
-RTBRF,Restaurant Brands Nz Ltd Ordinary Shares,U
+RTBRF,RESTAURANT BRANDS NEW ZEALAND LTD Ordinary Shares,U
 RTERF,Rottneros AB Ordinary Shares (Cayman Islands),U
 RTEXF,Ratio Oil Exploration 1992 Ltd Part Units (Israel),U
 RTGGF,RTG Mining Inc. Shares Chess Dep Int Repr 1 Share (Virgin Islands British) Depository Shares,U
@@ -5178,7 +5183,6 @@ SGSI,"Spectrum Global Solutions, Inc. Common Stock",U
 SGSOF,SGS Ltd Ordinary Shares (Switzerland),U
 SGSOY,SGS SA ADR (Switzerland),U
 SGSPF,SSGA SPDR ETFS EUROPE I PLC SHS EXCHANGE TRADED FUND USD (Ireland),U
-SGSRF,SSGA SPDR ETFS EUROPE I PLC Exchange Traded Fund SSGA SPDR I/SHS USD Ireland(IE ),U
 SGSSF,SSGA SPDR ETFS EUROPE I PLC BARCLAYS 0-5 YR US HIGH YLD BD UCITS USD  Exchange Traded Fund  Ireland(IE),U
 SGSUF,SANGETSU CORP Ordinary Shares,U
 SGSVF,Sabina Gold & Silver Corporation Ordinary Shares (Canada),U
@@ -5263,4 +5267,3 @@ SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U

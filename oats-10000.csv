@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -489,6 +490,7 @@ HLMNY,Holmen AB Unsponsored ADR representing Shs A (Sweden),U
 HLNE,Hamilton Lane Incorporated Class A Common Stock,NASDAQ
 HLNFF,High Liner Foods Inc Ordinary Shares,U
 HLOC,Helo Corp. Common Stock,U
+HLOGF,HELIUM ONE GLOBAL LTD Ordinary Shares,U
 HLOI,"Previsto International Holdings, Inc. Common Stock",U
 HLOSF,HEALIOS K K COM STK (Japan),U
 HLPPF,Hang Lung Properties Ltd Ordinary Shares,U
@@ -1369,7 +1371,6 @@ IGRW,Interactive Health Network Common Stock,U
 IGRXF,Intega Group Limited Ordinary Shares (Australia),U
 IGSB,iShares Trust iShares 1-5 Year Investment Grade Corporate Bond ETF,NASDAQ
 IGSC,IGS Capital Group Ltd. Common Stock,U
-IGSTF,INSURAGUEST TECHNOLOGIES INC COM (Canada),U
 IGT,International Game Technology PLC,NYSE
 IGUEF,"Iguatemi Empresa Shopping Centers SA, Sao Paulo Ordinary Shares (Brazil)",U
 IGV,iShares Expanded Tech-Software Sector ETF,BATS
@@ -1949,6 +1950,7 @@ ISEYF,WI2WI Corp Ordinary Shares,U
 ISFFF,ISS Ordinary Shares (Denmark),U
 ISFLF,IShares II PLC Floating Rate Bond UCITS ETF (Ireland),U
 ISGAF,ISHARES III PLC ISHARES GLOBAL AGGREGATE BOND UCITS ETF USD HEDGED ACC Exchange Traded Fund,U
+ISGIF,INSURAGUEST TECHNOLOGIES INC COM (Canada),U
 ISGN,iSign Solutions Inc. Common Stock,U
 ISGNW,iSign Solutions Inc. Warrant Expiring 02/11/2021,U
 ISGPF,IShares V PLC Gold Producers UCITS ETF (Ireland),U
@@ -2048,6 +2050,7 @@ ISVSF,ISHARES V PLC S&P 500 GBP-H Exchange Traded Fund,U
 ISVUF,ISHARES EDGE MSCI USA VALUE FACTOR UCITS Exchange Traded Fund  Ireland(IE ),U
 ISVVF,IShares V PLC MSCI ACWI UCITS ETF (Ireland),U
 ISWH,"ISW Holdings, Inc.  Common Stock",U
+ISWN,Amplify BlackSwan ISWN ETF,ARCA
 ISXAF,IShares ETF (Switzerland),U
 ISXIF,Ishares BSE Sensex India Tracker Ordinary Shares,U
 ISXPF,Ishares PLC Ptg Shs Exchange Traded Fund USD (Ireland),U
@@ -2083,6 +2086,7 @@ ITGMF,I.T.G.I MEDICAL LTD Common Stock,U
 ITGR,Integer Holdings Corporation,NYSE
 ITHDF,Italian Thai Development Public Co Ltd Ordinary Shares Foreign Registered (Thailand),U
 ITHUF,"Ianthus Capital Holdings, Inc. Ordinary Shares (Canada)",U
+ITHXU,ITHAX Acquisition Corp. Unit,NASDAQ
 ITI,"Iteris, Inc. Common Stock",NASDAQ
 ITIC,Investors Title Company Common Stock,NASDAQ
 ITJTY,Intrum AB American Depositary Receipts - Unsponsored,U
@@ -3070,7 +3074,7 @@ KOOYF,"Kootenay Silver, Inc. Common Shares (Canada)",U
 KOP,"Koppers Holdings, Inc.",NYSE
 KOPN,Kopin Corporation Common Stock,NASDAQ
 KOR,Corvus Gold Inc. Common Shares,NASDAQ
-KOREF,Kore Mng Ltd Ordinary Shares,U
+KOREF,KORE MNG LTD NEW Ordinary Shares,U
 KORP,American Century Diversified Corporate Bond ETF,ARCA
 KORU,Direxion Daily South Korea Bull 3X Shares,ARCA
 KOS,Kosmos Energy Ltd.,NYSE
@@ -3671,6 +3675,7 @@ LLOBF,Lloyds Banking Group Plc Pref Shs Non Cum 9.25% (United Kingdom),U
 LLXXF,Multi Units Luxembourg Sicav Shs Mullyfaugo 5Y ETF D GBP (Luxembourg),U
 LLY,Eli Lilly & Co.,NYSE
 LMACU,Liberty Media Acquisition Corporation Unit,NASDAQ
+LMAOU,LMF Acquisition Opportunities Inc. Unit,NASDAQ
 LMAT,"LeMaitre Vascular, Inc. Common Stock",NASDAQ
 LMB,"Limbach Holdings, Inc. Common Stock",NASDAQ
 LMBHW,"Limbach Holdings, Inc Warrant 07/20/2021",U
@@ -3814,7 +3819,6 @@ LPKGF,Lupaka Gold Corp Ordinary Shares (Canada),U
 LPL,LG Display Co. Ltd.,NYSE
 LPLA,LPL Financial Holdings Inc. Common Stock,NASDAQ
 LPMDF,Lippo Malls Indonesia Tr Units (Singapore),U
-LPPCF,Lippo China Resources Ltd Ordinary Shares (Hong Kong),U
 LPPI,"LEEP, Inc. Common Stock",U
 LPPPF,LOOPSHARE LTD Ordinary Shares,U
 LPPSY,LPP SA Unsponsored ADR (Poland),U
@@ -4486,7 +4490,7 @@ MGAG,Mortgage Oil Corp Common Stock,U
 MGAWF,Megaworld Corporation Ordinary Shares (Phillippines),U
 MGAWY,Megaworld Corporation Unsponsored ADR (Phillipines),U
 MGC,Vanguard Mega Cap 300 Index ETF,ARCA
-MGCCF,DLP RES 2020 LTD Common Shares,U
+MGCCF,DLP RES INC NEW Common Shares,U
 MGCLF,MGC Pharmaceuticals Ltd Ordinary Shares (Australia),U
 MGCV,MGC VENTURES INC Common Stock,U
 MGDDF,Michelin Cie Gen Des Estb Cl B Ordinary Shares,U
@@ -5105,7 +5109,6 @@ MRPRF,Merlin Properties Socimi SA Ordinary Shares (Spain),U
 MRPS,Microphonics Inc Common Stock,U
 MRPT,"MacReport.net, Inc. (The) Common Stock",U
 MRPZF,MR. PRICE GRP LTD Ordinary Shares,U
-MRQRF,Monarch Gold Corporation Common Shares,U
 MRRCF,Wayland Group Corp Ordinary Shares,U
 MRRDF,Meridian Mng S E  Ordinary Shares (Netherlands),U
 MRRHF,Marret High Yield Strategies Fund Class A Unit (Canada),U

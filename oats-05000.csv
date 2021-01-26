@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
@@ -173,7 +171,7 @@ CRJI,China Runji Cement Inc. Common Stock,U
 CRJTF,Crossject Ordinary Shares (France),U
 CRK,"Comstock Resources, Inc.",NYSE
 CRKHF,Cartrack Holdings Ltd Common Stock (South Africa),U
-CRKN,Crown Electrokinetics Corp Common Stock,U
+CRKN,Crown Electrokinetics Corp. Common Stock,NASDAQ
 CRKT,Cirmaker Technology Corporation Common Stock,U
 CRKZY,PJSC Cherkizovo Group Global Depositary Receipts - Unsponsored,U
 CRL,"Charles River Laboratories International, Inc.",NYSE
@@ -361,6 +359,7 @@ CSSPF,Circassia Pharmaceutical Plc Ordinary Shares (United Kingdom),U
 CSSSF,Carsales.com Ltd Ordinary Shares (Australia),U
 CSSV,"Caspian Services, Inc. Common Stock",U
 CSSXF,China Shuifa Singyes Energy Holdings Limited Ordinary Shares,U
+CSTA U,"Constellation Acquisition Corp I Units, each consisting of one Class A ordinary share and one-third",NYSE
 CSTE,Caesarstone Ltd. Ordinary Shares,NASDAQ
 CSTI,"Costar Technologies, Inc. Common Stock",U
 CSTJ,"Creston Resources, Ltd. Common Stock",U
@@ -893,6 +892,7 @@ DCPH,"Deciphera Pharmaceuticals, Inc. Common Stock",NASDAQ
 DCRB,Decarbonization Plus Acquisition Corporation Class A Common Stock,NASDAQ
 DCRBU,Decarbonization Plus Acquisition Corporation Unit,NASDAQ
 DCRBW,Decarbonization Plus Acquisition Corporation Warrant,NASDAQ
+DCRNU,Decarbonization Plus Acquisition Corporation II Unit,NASDAQ
 DCSX,DIRECT COMMUNICATION SOLUTIONS INC Common Stock,U
 DCT,"Duck Creek Technologies, Inc. Common Stock",NASDAQ
 DCTH,"Delcath Systems, Inc. Common Stock",NASDAQ
@@ -1078,6 +1078,7 @@ DHCC,Diamondhead Casino Corporation Common Stock,U
 DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,NASDAQ
 DHCNL,Diversified Healthcare Trust 6.25% Senior Notes Due 2046,NASDAQ
 DHF,BNY Mellon High Yield Strategies Fund,NYSE
+DHHCU,DiamondHead Holdings Corp. Unit,NASDAQ
 DHHXF,Desarrolladora Homex SA de CV Ordinary Shares (Mexico),U
 DHI,D.R. Horton Inc.,NYSE
 DHIL,"Diamond Hill Investment Group, Inc. Class A Common Stock",NASDAQ
@@ -1320,6 +1321,7 @@ DNTUF,Dentsu Group Inc Common Shares,U
 DNTUY,Dentsu Group Inc. American Depositary Receipts - Unsponsored,U
 DNVB,Denver Bankshares Inc Common Stock,U
 DNXG,DONGXING INTL INC Common Stock,U
+DNZ U,"D and Z Media Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-",NYSE
 DNZOF,Denso Corp Ltd Ord Ordinary Shares,U
 DNZOY,Denso Corp Ltd Ord American Depositary Shares,U
 DOC,PHYSICIANS REALTY TRUST,NYSE
@@ -1482,7 +1484,6 @@ DSSMY,DS Smith plc Unpsonsored ADR (United Kingdom),U
 DSSPF,"Deep Sea Supply Plc, Cyprus Reg Shares (Finland)",U
 DSTFF,Distinct Infrastructure Group Inc Ordinary Shares (Canada),U
 DSTL,Distillate U.S. Fundamental Stability & Value ETF,ARCA
-DSTR,DualStar Technologies Corporation Common Stock,U
 DSTX,Distillate International Fundamental Stability & Value ETF,ARCA
 DSTZF,Distell Group Holdings (South Africa),U
 DSU,"Blackrock Debt Strategies Fund, Inc.",NYSE
@@ -1854,6 +1855,7 @@ EDTXF,SPECTRAL MED INC  Ordinary Shares,U
 EDTXU,EdtechX Holdings Acquisition Corp. II Unit,NASDAQ
 EDU,"New Oriental Education and Technology Group, Inc.",NYSE
 EDUC,Educational Development Corporation Common Stock,NASDAQ
+EDULF,EDULAB INC Common Stock,U
 EDUT,Global X Funds Global X Education ETF,NASDAQ
 EDV,Vanguard World Funds Extended Duration ETF,ARCA
 EDVMF,Endeavour Mining Corporation Ordinary Shares,U
@@ -2871,6 +2873,7 @@ EYUUF,Electricity Generating Public Co Ltd Unit Non-Voting Depository Receipt (T
 EZA,iShares MSCI South Africa ETF,ARCA
 EZCL,Ezy Cloud Holding Inc. Common Stock,U
 EZEN,Ezenia! Incorporated Common Stock,U
+EZGO,EZGO Technologies Ltd. Ordinary Shares,NASDAQ
 EZIDF,Ezion Holdings Limited Ordinary Shares (Singapore),U
 EZJ,ProShares Ultra MSCI Japan,ARCA
 EZM,WisdomTree U.S. MidCap Fund,ARCA
@@ -3875,6 +3878,7 @@ FSRV,FinServ Acquisition Corp. Class A Common Stock,NASDAQ
 FSRVU,FinServ Acquisition Corp. Unit,NASDAQ
 FSRVW,FinServ Acquisition Corp. Warrant,NASDAQ
 FSS,Federal Signal Corp.,NYSE
+FSSIU,Fortistar Sustainable Solutions Corp. Unit,NASDAQ
 FSSLY,Fossal SAA American Depositary Receipts - Sponsored (Peru),U
 FSSN,Fision Corp Common Stock,U
 FSSTF,CI First Asset Morningstar CDA Momentum Index ETF Unit,U
@@ -4259,6 +4263,7 @@ GCPEF,GCL Poly Energy Holdings Ltd Ordinary Shares (Cayman Islands),U
 GCPEY,GCL Poly Energy Holdings Ltd American Depositary Receipts (Unsponsored)(Cayman Islands),U
 GCPL,Global Capital Partners Inc Common Stock,U
 GCPSF,GCP Student Living PLC Ordinary Shares (United Kingdom),U
+GCRCF,GOLCAP RES CORP Common Shares,U
 GCRIF,"Rogue Resources, Inc. Ordinary Shares",U
 GCRPF,GLOBAL CONNECTION PUBLIC CO LTD NVDR SHARES (Thailand),U
 GCTAF,Siemens Gamesa Renewable Energy Ordinary Shares,U
@@ -5202,7 +5207,6 @@ GUAA,Guaranty Bancorp Inc Common Stock,U
 GUARY,Guaranty Tr Bk Plc Sponsored GDR Reg S (Nigeria),U
 GUDDY,GUD Holdings Ltd Unsponsored American Depository Receipt (Australia),U
 GUDHF,"GUD Holdings, Ltd. Ordinary Shares (Australia)",U
-GUDNF,Guangdong Yueyun Trans Co Ltd Shares H (China),U
 GUERF,Guerbet SA Ordinary Shares (France),U
 GUESF,Guestlogix Inc Common (Canada),U
 GUFAF,Grupo Famsa Sa De Cv Shares -A- (Mexico),U
@@ -5263,4 +5267,3 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U

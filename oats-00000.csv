@@ -64,7 +64,6 @@ AAVXF,Abivax SA Ordinary Shares (France),U
 AAWCD,CANNING STR CORP Common Stock,U
 AAWW,Atlas Air Worldwide Holdings NEW Common Stock,NASDAQ
 AAXJ,iShares MSCI All Country Asia ex Japan ETF,NASDAQ
-AAXN,"Axon Enterprise, Inc. Common Stock",NASDAQ
 AAXT,"Aamaxan Transport Group, Inc. Common Stock",U
 AAYYY,Austrailian Agricultural Company Ltd Unsponsored ADR (Austrailia),U
 AAZZF,A2Z Smart Technologies Corp Common Stock,U
@@ -300,6 +299,7 @@ ADAD,"Adaiah Distribution, Inc. Common Stock",U
 ADAP,Adaptimmune Therapeutics plc American Depositary Shares,NASDAQ
 ADBCF,ADBRI Limited Ordinary Shares,U
 ADBE,Adobe Inc. Common Stock,NASDAQ
+ADBGF,ADORE BEAUTY GROUP LTD Ordinary Shares,U
 ADBKF,ADDIKO BK AG Common Shares  Austria(AT ),U
 ADBN,"Americana Distribution, Inc. Common Stock",U
 ADBRF,ALDEBARAN RES INC Ordinary Shares (Canada),U
@@ -576,6 +576,7 @@ AGFAF,Agraflora Organics Intl Inc Ordinary Shares,U
 AGFMF,A G F Mgmt Ltd Cl B Non Vtg Ordinary Shares,U
 AGFS,"AgroFresh Solutions, Inc. Common Stock",NASDAQ
 AGFXF,"DB Agriculture Long ETN due April 1, 2038 (Germany)",U
+AGFY,Agrify Corporation Common Stock,NASDAQ
 AGG,iShares Core U.S. Aggregate Bond ETF,ARCA
 AGGFF,African Gold Group Inc Ordinary Shares,U
 AGGG,Antilia Group Corp Common Shares,U
@@ -1453,7 +1454,6 @@ AQUA,Evoqua Water Technologies Corp. Common Stock,NYSE
 AQUI,"Aquagold International, Inc. Common Stock",U
 AQXNF,Alice Queen Ltd. Ordinary Shares (Australia),U
 AR,ANTERO RESOURCES CORPORATION,NYSE
-ARA,"American Renal Associates Holdings, Inc",NYSE
 ARAFF,Arafura Resources NL Ordinary Shares (Australia),U
 ARAO,"AuraSource, Inc. Common Stock",U
 ARAT,Arax Hldgs Corp Common Stock,U
@@ -2122,6 +2122,7 @@ AXMP,"AXM Pharma, Inc. Common Stock",U
 AXNVF,Axion Ventures Inc. Ordinary Shares (Canada),U
 AXNX,"Axonics Modulation Technologies, Inc. Common Stock",NASDAQ
 AXO,"Axos Financial, Inc. 6.25% Subordinated Notes Due 2026",NYSE
+AXON,"Axon Enterprise, Inc. Common Stock",NASDAQ
 AXP,American Express Company,NYSE
 AXPRF,Amseco Expl Ltd Ordinary Shares,U
 AXPT,Axis Pete Co Common Stock,U
@@ -2346,7 +2347,7 @@ BBSCF,BBI Life Sciences Corp HKD Ordinary Shares (Cayman Islands),U
 BBSEY,BB Seguridade Participacoes SA Sponsored ADR (Brazil),U
 BBSI,"Barrett Business Services, Inc. Common Stock",NASDAQ
 BBSRF,"Bluestone Resources, Inc. Common Shares",U
-BBTOF,BBTV Holdings Inc Com Sub Voting Shs (Canada),U
+BBTVF,BBTV Holdings Inc Com Sub Voting Shs (Canada),U
 BBU,Brookfield Business Partners L.P.Limited Partnership Units,NYSE
 BBUCQ,Big Buck Brewery & Steakhouse Inc. Common Stock,U
 BBUS,JPMorgan BetaBuilders U.S. Equity ETF,BATS
@@ -2741,9 +2742,9 @@ BIOX,Bioceres Crop Solutions Corp. Ordinary Shares,AMEX
 BIOYF,BioSyent Inc Ordinary Shares (Canada),U
 BIP,Brookfield Infrastructure Partners L.P. Limited Partnership Units,NYSE
 BIP PRA,"Brookfield Infrastructure Partners L.P. 5.125% Class A Preferred Limited Partnership Units, Series 1",NYSE
+BIP PRB,"Brookfield Infrastructure Partners L.P. 5.000% Class A Preferred Limited Partnership Units, Series 1",NYSE
 BIPAF,Brookfield Infrastructure Partners LP Pref Cum Ltd Partnership Unit Class A Ser (Bermuda),U
 BIPC,Brookfield Infrastructure Corporation Class A Subordinate Voting Shares,NYSE
-BIPFF,Brookfield Infrastructure Partners LP PFD LTD PARTNERSHIP UNIT CL A SER 14 Unit,U
 BIQIF,BIQI Intl Hldgs Cp Shs Common Shares,U
 BIRDF,Bird Construction Inc. Common Shares (Canada),U
 BIREF,Birchcliff Energy Ltd. New Ordinary Shares (Canada),U
@@ -3701,7 +3702,6 @@ BZTG,"Buzz Technologies, Inc. Common Stock",U
 BZUN,Baozun Inc. American Depositary Shares,NASDAQ
 BZWR,Business Warrior Corporation Common Stock,U
 BZYR,Burzynski Research Institute Inc Common Stock,U
-BZZFF,Buzzi Unicem SPA Shs Di Svgs Non Conv (Italy),U
 BZZUF,Buzzi Unicem Spa Ordinary Shares (Italy),U
 BZZUY,Buzzi Unicem Spa Unsponsored ADR (Italy),U
 C,Citigroup Inc.,NYSE
@@ -4118,7 +4118,6 @@ CDIX,Cardiff Lexington Corporation Common Stock,U
 CDJM,CARNEGIE DEV INC Common Stock,U
 CDK,"CDK Global, Inc. Common Stock",NASDAQ
 CDL,VictoryShares US Large Cap High Div Volatility Wtd ETF,NASDAQ
-CDLBF,Cloudbuy PLC Ordinary Shares (United Kingdom),U
 CDLDY,Companhia de Locacao Das Americas American Depositary Receipts - Sponsored (Brazil),U
 CDLX,"Cardlytics, Inc. Common Stock",NASDAQ
 CDMGF,Icade SA Ordinary Shares (France),U
@@ -4269,6 +4268,7 @@ CFFHF,Cifi Hldgs Group Co Ltd Ordinary Shares (Cayman Islands),U
 CFFI,C&F Financial Corporation Common Stock,NASDAQ
 CFFMF,Cfoam Ltd Ordinary Shares (Australia),U
 CFFN,"Capitol Federal Financial, Inc. Common Stock",NASDAQ
+CFFVU,CF Acquisition Corp. V Unit,NASDAQ
 CFG,"Citizens Financial Group, Inc.",NYSE
 CFG PRD,"Citizens Financial Group, Inc. Depositary Shares, each representing a 1/40th Interest in a Share of",NYSE
 CFG PRE,"Citizens Financial Group, Inc.Depositary Shares Each Representing 1/40th Interest in a Share of 5.00",NYSE
@@ -4355,6 +4355,7 @@ CGMLF,Chalice Mining Ltd. Ordinary Shares,U
 CGNGY,Clinigen Group PLC American Depositary Receipts - Unsponsored (United Kingdom),U
 CGNH,CardioGenics Holdings Inc. Common Stock,U
 CGNSF,Cognetivity Neurosciences Ltd Common Stock,U
+CGNTV,Cognyte Software Ltd. Ordinary Shares When-Issued,NASDAQ
 CGNWF,CGN PWR CO LTD Shs Unitary 144A/Reg S (China),U
 CGNX,Cognex Corporation Common Stock,NASDAQ
 CGO,Calamos Global Total Return Fund Common Stock,NASDAQ
@@ -4751,6 +4752,7 @@ CLIHF,CLS Holdings PLC Ordinary Shares (United Kingdom),U
 CLII,Climate Change Crisis Real Impact I Acquisition Corporation,NYSE
 CLII U,"Climate Change Crisis Real Impact I Acquisition Corporation Units, each consisting of one share of C",NYSE
 CLII WS,"Climate Change Crisis Real Impact I Acquisition Corporation Warrants, each whole warrant exercisable",NYSE
+CLIM U,"Climate Real Impact Solutions II Acquisition Corporation Units, each consisting of one share of Clas",NYSE
 CLIR,ClearSign Technologies Corporation Common Stock,NASDAQ
 CLIRF,"Clearford Water Systems, Inc. Ordinary Shares (Canada)",U
 CLIS,ClickStream Corporation. NEW Common Stock,U
@@ -5264,3 +5266,5 @@ COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAH,CounterPath Corporation Common Stock,NASDAQ
