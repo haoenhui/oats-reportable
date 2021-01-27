@@ -191,7 +191,7 @@ ACEV,ACE Convergence Acquisition Corp. Class A Ordinary Shares,NASDAQ
 ACEVU,ACE Convergence Acquisition Corp. Unit,NASDAQ
 ACEVW,ACE Convergence Acquisition Corp. Warrant,NASDAQ
 ACEYY,"Acer, Inc. (New) Sponsored Global Depository Receipt Reg S (Taiwan)",U
-ACEZ,"Ariel Clean Energy, Inc. Common Stock",U
+ACEZD,Qiansui International Group Co. Ltd. Common Stock,U
 ACFFF,Accordia Golf Tr Unit (Singapore),U
 ACFL,"AMC Financial Holdings, Inc. Common Stock",U
 ACFN,"Acorn Energy, Inc.",U
@@ -568,7 +568,7 @@ AGD,Aberdeen Global Dynamic Dividend Fund,NYSE
 AGDXF,Antioquia Gold Inc Ordinary Shares (Canada),U
 AGDY,Agri-Dynamics Inc Common Stock,U
 AGE,"AgeX Therapeutics, Inc.",AMEX
-AGEEF,Halo Labs Inc Ordinary Shares,U
+AGEEF,HALO COLLECTIVE INC Ordinary Shares,U
 AGEN,Agenus Inc. Common Stock,NASDAQ
 AGESF,Ageas NV Ordinary Shares (Belgium),U
 AGESY,Ageas Sponsored ADR (Belgium),U
@@ -3700,6 +3700,7 @@ BZRT,BizRocket.com Inc. Common Stock,U
 BZTAF,BOOZT AB Ordinary Shares,U
 BZTG,"Buzz Technologies, Inc. Common Stock",U
 BZUN,Baozun Inc. American Depositary Shares,NASDAQ
+BZWHF,B2W Companhia Global Do Varejo Ordinary shares (Brazil),U
 BZWR,Business Warrior Corporation Common Stock,U
 BZYR,Burzynski Research Institute Inc Common Stock,U
 BZZUF,Buzzi Unicem Spa Ordinary Shares (Italy),U
@@ -3746,6 +3747,7 @@ CAGPF,CRYPTOLOGY ASSET GROUP PLC Ordinary Shares,U
 CAGR,"California Grapes International, Inc. NEW Common Stock",U
 CAGU,"The Castle Group, Inc. Common Stock",U
 CAH,"Cardinal Health, Inc.",NYSE
+CAHCU,CA Healthcare Acquisition Corp. Unit,NASDAQ
 CAHI,"Carrier Alliance Holdings, Inc. Common Stock",U
 CAHO,Caro Holdings Inc Common Stock,U
 CAHPF,Evolution Mining Ltd. Ordinary Shares (Australia),U
@@ -4306,7 +4308,7 @@ CFST,Communities First Financial Corporation Common Stock,U
 CFSU,"Complete Financial Solutions, Inc. Common Stock",U
 CFTLF,Chinasoft International Ltd Ordinary Shares (Cayman Islands),U
 CFTN,Clifton Mining Co Common Stock,U
-CFWFD,Calfrac Well Services Ltd Common Shares,U
+CFWFF,Calfrac Well Services Ltd Common Shares,U
 CFX,Colfax Corporation,NYSE
 CFXA,Colfax Corporation 5.75% Tangible Equity Units,NYSE
 CFXTF,Conifex Timber Inc. Com (Canada),U
@@ -5268,3 +5270,7 @@ CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAH,CounterPath Corporation Common Stock,NASDAQ
+CPAI,Champion Pain Care Corporation Common Stock,U
+CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
+CPB,Campbell Soup Company,NYSE
+CPBLF,ALS Ltd. Ordinary Shares (Australia),U

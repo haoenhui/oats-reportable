@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
@@ -171,6 +167,7 @@ HCA,"HCA Healthcare, Inc.",NYSE
 HCAEF,Holding Co Admie Ipto SA Common Stock (Greece),U
 HCAP,Harvest Capital Credit Corporation Common Stock,NASDAQ
 HCAPZ,Harvest Capital Credit Corporation 6.125% Notes due 2022,NASDAQ
+HCAQ,HealthCor Catalio Acquisition Corp. Class A Ordinary Shares,NASDAQ
 HCAR,Healthcare Services Acquisition Corporation Class A Common Stock,NASDAQ
 HCARU,Healthcare Services Acquisition Corporation Unit,NASDAQ
 HCARW,Healthcare Services Acquisition Corporation Warrant,NASDAQ
@@ -560,7 +557,7 @@ HMTGF,Human Metabolome Technologies Inc Common Stock,U
 HMTLF,Hitachi Metals Ltd Ord Ordinary Shares,U
 HMTLY,Hitachi Metals Ltd Unsponsored ADR (Japan),U
 HMTV,"Hemisphere Media Group, Inc. Class A Common Stock",NASDAQ
-HMTXD,Hemostemix Inc  Ordinary Shares,U
+HMTXF,Hemostemix Inc  Ordinary Shares,U
 HMY,Harmony Gold Mining Company Limited,NYSE
 HMZMF,HMZ Metals Inc Common Shares  (Canada),U
 HNCKF,Giga Metals Corp Common Shares,U
@@ -1185,6 +1182,7 @@ ICUSF,"Icecure Medical Ltd, Caesarea Ordinary Shares (Israel)",U
 ICVT,iShares Convertible Bond ETF,BATS
 ID,"PARTS iD, Inc.",AMEX
 IDA,"IDACORP, Inc.",NYSE
+IDAI,T STAMP INC COM CL A Common Stock,U
 IDAM,Idarado Mining Co Common Stock,U
 IDBHF,INDUSTRIAS BACHOCO SAB DE CV Ordinary Shares B (Mexico),U
 IDCBF,Industrial and Commercial Bank of China Ltd Hkd Shs -H- (China),U
@@ -1356,6 +1354,7 @@ IGMS,"IGM Biosciences, Inc. Common Stock",NASDAQ
 IGN,iShares North American Tech-Multimedia Networking ETF,ARCA
 IGNE,"IGENE Biotechnology, Inc. Common Stock",U
 IGNT,Ingen Technologies Inc  Common Stock New,U
+IGNYU,Ignyte Acquisition Corp. Unit,NASDAQ
 IGOI,"iGo, Inc Common Stock",U
 IGOV,iShares Trust iShares International Treasury Bond ETF,NASDAQ
 IGPFF,"Imperial Ginseng Products, Ltd. Ordinary Shares (Canada)",U
@@ -3002,6 +3001,7 @@ KMRIF,KOMERI CO LTD Ordinary Shares,U
 KMRPF,Kenmare Resources Ltd Plc Ord Ordinary Shares,U
 KMRSF,Kemira Oyj Sponsored Reg S GDR (Finland),U
 KMSHF,Kamakura Shinsho Ltd Ordinary Shares  (Japan),U
+KMSTF,KADIMASTEM LTD Ordinary Shares,U
 KMSWF,Kingmaker Footwear Hldgs Ordinary Shares,U
 KMT,Kennametal Inc.,NYSE
 KMTUF,Komatsu Ltd Ord Ordinary Shares,U
@@ -3117,6 +3117,7 @@ KRBF,"Kreido BioFuels, Inc. Common Stock",U
 KRBN,KFA Global Carbon ETF,ARCA
 KRBP,"Kiromic BioPharma, Inc. Common Stock",NASDAQ
 KRC,Kilroy Realty Corp.,NYSE
+KRCLF,King Riv Res Ltd Ordinary Fully Paid (Australia),U
 KRDXF,Kardex Ag Zuerich Ordinary Shares,U
 KRE,SPDR S&P Regional Banking ETF,ARCA
 KRED,KonaRed Corporation. NEW Common Stock,U
@@ -3192,6 +3193,7 @@ KSS,Kohl's Corporation,NYSE
 KSSH,Kesselring Holding Corporation Common Stock,U
 KSSRF,Kesselrun Resources Ltd. Ordinary Shares (Canada),U
 KSTBF,KESTREL GOLD INC Common Shares (Canada),U
+KSTR,KraneShares SSE STAR Market 50 Index ETF,ARCA
 KSTUF,Kanematsu Corp Ord Ordinary Shares,U
 KSU,Kansas City Southern,NYSE
 KSU PR,Kansas City Southern Non-Cumulative Preferred Stock,NYSE
@@ -4035,6 +4037,7 @@ LYNS,"Lightyear Network Solutions, Inc.  Common Stock",U
 LYOPF,Lycopodium LTD Ordinary Shares (Austrailia),U
 LYPHF,Luye Pharma Group LTD Common Shares  Bermuda (BM),U
 LYRA,"Lyra Therapeutics, Inc. Common Stock",NASDAQ
+LYRTF,CIRRUS NETWORKS HLDGS LTD SHS (Australia),U
 LYSCF,Lynas Corporation Ltd Ordinary Shares,U
 LYSDY,Lynas Rare Earths Limited American Depositary Receipts - Sponsored,U
 LYSFF,Leroy Seafood Group Asa Ordinary Shares (Norway),U
@@ -5267,3 +5270,6 @@ MTLS,Materialise NV American Depositary Shares,NASDAQ
 MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
 MTMW,"Matmown, Inc. Common",U
 MTN,"Vail Resorts, Inc.",NYSE
+MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
+MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
+MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U

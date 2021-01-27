@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
-SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRF,"Sunstone Hotel Investors, Inc.  6.450% Series F Cumulative Redeemable Preferred Stock",NYSE
@@ -111,6 +108,7 @@ SIMO,Silicon Motion Technology Corporation American Depositary Shares,NASDAQ
 SIMP,"Simply, Inc. Common Stock",U
 SIMS,SPDR S&P Kensho Intelligent Structures ETF,ARCA
 SIMTF,Sim Technology Group Limited Ordinary Shares (Bermuda),U
+SIMYF,Singapore Myanmar Investco LTD SHS (Singapore),U
 SINA,SINA Corporation Ordinary Shares,NASDAQ
 SINC,Sincerity Applied Materials Holdings Corp. Common Stock,U
 SING,Singlepoint Inc. Common Stock,U
@@ -1429,7 +1427,9 @@ SVCBY,Svenska Cellulosa B Shs American Depositary Shares,U
 SVCRF,Servcorp Limited Ordinary Shares (Australia),U
 SVCTF,Senvest Capital Inc Ordinary Shares,U
 SVDN,SAVDEN GROUP CORP Common Stock,U
+SVFA,SVF Investment Corp. Class A Ordinary Shares,NASDAQ
 SVFAU,SVF Investment Corp. Unit,NASDAQ
+SVFAW,SVF Investment Corp. Warrant,NASDAQ
 SVGAF,Silver Grail Resources Ltd. Ordinary Shares (Canada),U
 SVIN,"Scheid Vineyards, Inc. Class A Common Stock",U
 SVJTY,Severstal PAO Global Depositary Receipts - Sponsored,U
@@ -1813,6 +1813,7 @@ TCP,TC Pipelines LP,NYSE
 TCPC,BlackRock TCP Capital Corp. Common Stock,NASDAQ
 TCPDF,TRUE CORPORATION PUBLIC COMPANY LIMITED NVDR SHARES Depositary Receipts,U
 TCPFF,True Corporation Public Co Ltd Ordinary Shares,U
+TCPHF,THANACHART CAPITAL PUBLIC CO LTD LOCAL SHARES (Thailand),U
 TCPP,"Trinity Capital Partners, Inc. Common Stock",U
 TCPYF,Ticon Property Fund Units (Thailand),U
 TCRI,TECHCOM INC Common Stock,U
@@ -2087,6 +2088,7 @@ THORF,"THOR MINING PLC, BUCKINGHAMSHIRE ORD GBP0.0001 (United Kingdom)",U
 THOXF,BIOPORTO A/S Ordinary Shares,U
 THPFF,Thai President Food Unit Non Voting Depository Receipt (Thailand),U
 THPHF,Thinkpath Inc. Ordinary Shares (Canada),U
+THPMF,TOHO HLDGS CO LTD Ordinary Shares,U
 THPTF,Techpoint Inc Ordinary Shares (Japan),U
 THQ,TEKLA HEALTHCARE OPPORTUNITIES FUND,NYSE
 THQQF,Embracer Group AB Ordinary Shares,U
@@ -2158,6 +2160,7 @@ TIPUF,Multi Units Luxembourg SICAV Shs MUL LY US TIPS DR UCITS ETF ACC USD (Luxe
 TIPX,SPDR Bloomberg Barclays 1-10 Year TIPS ETF,ARCA
 TIPZ,PIMCO Broad U.S. TIPS Index Exchange-Traded Fund,ARCA
 TIRTZ,"Tidelands Royalty Trust ""B"" Units of Benificial Interest",U
+TIRX,TIAN RUIXIANG Holdings Ltd Class A Ordinary Shares,NASDAQ
 TISCF,Taisei Corp Ltd Ord Ordinary Shares,U
 TISCY,Taisei Corp Ltd Ord American Depositary Shares,U
 TISDZ,Treasure Island Royalty Trust Trust Units,U
@@ -2239,6 +2242,7 @@ TLED,Light Engine Design Corp. Common Stock,U
 TLFA,"Tandy Leather Factory, Inc. Common Stock",U
 TLFE,"Elfato, Inc. Common Stock",U
 TLFX,"Telefix Communications Holdings, Inc. Common Stock",U
+TLGA U,"TLG Acquisition One Corp. Units, each consisting of one share of Class A common stock and one-third",NYSE
 TLGHF,Telenet Group Holding Nv Ordinary Shares (Belgium),U
 TLGHY,Telenet Group Holding Nv Unsponsored ADR (Belgium),U
 TLGN,"Totally Green, Inc. Common Stock",U
@@ -2862,7 +2866,6 @@ TUFUF,Thai Union Group PLC Ltd Depositary Receipts,U
 TUGHF,Tungtex Holding Ordinary Shares,U
 TUIFF,TUI AG Namen AKT (Germany) EUR,U
 TUIFY,TUI AG Unsponsored ADR representing Namen AKT (Germany),U
-TUIIF,Tui AG BZR Exp 01/26/2021 (Germany),U
 TULLF,TP Icap PLC Ordinary Shares,U
 TUMIF,KINGSMEN RES LTD  Common Shares,U
 TUOAF,TUFTON OCEANIC ASSETS LTD Ordinary Shares (Guernsey),U
@@ -3362,6 +3365,7 @@ USBC,US BioTec Inc New Common Shares (NV),U
 USBFU,U S Prem Beef LLC Unit Cl A,U
 USBK,USA Bank (NY) Common Stock,U
 USBL,"United States Basketball League, Inc. Common Stock",U
+USBML,US BANCORP DEL DEPOSITARY SHS REPSTG 1/1000TH INT PFD SER M 4% Depositary Shares,U
 USCI,US Commodity Index,ARCA
 USCR,"U.S. Concrete, Inc. Common Stock",NASDAQ
 USCS,USCorp Common Stock,U
@@ -3720,6 +3724,7 @@ VINC,"Vincerx Pharma, Inc. Common Stock",NASDAQ
 VINCU,"Vincerx Pharma, Inc. Unit",NASDAQ
 VINCW,"Vincerx Pharma, Inc. Warrant",NASDAQ
 VINO,"Gaucho Group Holdings, Inc. Common Stock",U
+VINP,Vinci Partners Investments Ltd. Class A Common Shares,NASDAQ
 VINS,Vindicator Silver-Lead Mng Common Stock,U
 VIOG,Vanguard S&P Small-Cap 600 Growth ETF,ARCA
 VIOO,Vanguard S&P Small-Cap 600 ETF,ARCA
@@ -3831,6 +3836,7 @@ VMRSF,VIMY RES LTD Ordinary Shares   (Austrailia),U
 VMSI,"Vita Mobile Systems, Inc. Common Stock",U
 VMTF,"VMT Scientific, Inc. Common Stock",U
 VMTG,Victor Mining Industry Group Inc. Common Stock,U
+VMTHF,VENUS MEDTECH HANGZHOU INC B REGISTERED 02500 (China),U
 VMW,"VMware, Inc",NYSE
 VNAPF,"Verona Pharam plc, Adderbury Common Shares",U
 VNBFF,VANGUARD AUS GOVT BD ETF UNITS EXCHANGE TRADED FUND Australia(AU ),U

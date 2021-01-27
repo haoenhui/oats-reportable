@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
-MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
-MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
 MTOR,"MERITOR, Inc.",NYSE
@@ -155,6 +152,7 @@ MYBUF,"Meyer Burger Technology AG, Baar Namen -AKT (Switzerland)",U
 MYC,"Blackrock Muni Yield California Fund, Inc.",NYSE
 MYCOF,MYDECINE INNOVATIONS GROUP INC Ordinary Shares,U
 MYD,"Blackrock Muniyield Fund, Inc.",NYSE
+MYDIF,MYCONIC CAP CORP COM (Canada),U
 MYDP,"Dougherty?s Pharmacy, Inc. Common Stock",U
 MYDX,"MyDx, Inc. Common Stock",U
 MYE,"Myers Industries, Inc.",NYSE
@@ -208,7 +206,6 @@ MZZ,ProShares UltraShort MidCap400,ARCA
 MZZMF,Matador Mining Ltd. Ordinary Shares (Australia),U
 NAACU,North Atlantic Acquisition Corporation Unit,NASDAQ
 NABA,National Bancshares Inc (IA) Common Shares,U
-NABIF,Nabis Holdings Inc. Common Shares,U
 NABXF,Nabaltec AG Ordinary Shares (Germany),U
 NABZY,National Australia Bank Limited Common Stock,U
 NAC,Nuveen California Quality Municipal Income Fund,NYSE
@@ -252,6 +249,7 @@ NAV,Navistar International,NYSE
 NAV PRD,"Navistar International Corporation Cumulative Convertible Junior Preference Stock, Series D",NYSE
 NAVB,Navidea Biopharmaceuticals Inc.,AMEX
 NAVI,Navient Corporation Common Stock,NASDAQ
+NAVVF,NAVF PLC ORD GBP0.01 (United Kingdom),U
 NAZ,Nuveen Arizona Quality Municipal Income Fund,NYSE
 NBA,New Beginnings Acquisition Corp.,AMEX
 NBA U,"New Beginnings Acquisition Corp. Units, each consisting of one share of common stock and one redeema",AMEX
@@ -613,6 +611,7 @@ NIUWF,NSI NV  Ordinary Shares,U
 NJAN,Innovator Nasdaq-100 Power Buffer ETF - January,BATS
 NJDCY,Nidec Corporation American Depositary Receipts - Sponsored,U
 NJMC,New Jersey Mining Company Common Stock,U
+NJMLF,Nojima Co Ltd Ordinary Shares,U
 NJMVF,NICHOLS PLC SHS (United Kingdom),U
 NJR,New Jersey Resources Corp,NYSE
 NJUL,Innovator Nasdaq-100 Power Buffer ETF - July,BATS
@@ -1860,6 +1859,7 @@ OXNXF,Onxeo SA Ordinary Shares Cat P (France),U
 OXSQ,Oxford Square Capital Corp. Common Stock,NASDAQ
 OXSQL,Oxford Square Capital Corp. 6.50% Notes due 2024,NASDAQ
 OXSQZ,Oxford Square Capital Corp. 6.25% Notes due 2026,NASDAQ
+OXXTF,OCTANEX LTD SHS (Australia),U
 OXY,Occidental Petroleum Corporation,NYSE
 OXY WS,Occidental Petroleum Corporation Warrants to Purchase Common Stock,NYSE
 OYIEF,Ocean Yield ASA Ordinary Shares,U
@@ -2048,6 +2048,7 @@ PBYI,Puma Biotechnology Inc Common Stock,NASDAQ
 PBYYF,Publity AG Ordinary Shares (Germany),U
 PCAEF,"PT Cardig Aero Services TBK, Jakarta Shs (Indonesia)",U
 PCAR,PACCAR Inc. Common Stock,NASDAQ
+PCASF,PACIFIC ASSETS TRUST PLC SHS (United Kingdom),U
 PCB,PCB Bancorp Common Stock,NASDAQ
 PCBN,"Piedmont Community Bank Group, Inc. (GA) Common Stock",U
 PCCOF,Paltac Corporation Osaka Shs (Japan),U
@@ -4255,6 +4256,7 @@ ROP,"Roper Technologies, Inc",NYSE
 RORO,ATAC US Rotation ETF,ARCA
 ROSC,Hartford Multifactor Small Cap ETF,ARCA
 ROSGQ,Rosetta Genomics Ltd. Ordinary Shares,U
+ROSMF,PJSC LONG DISTANCE & INTL TELECOMMUNICATIONS ROSTELECOM Ordinary Shares (Russia),U
 ROSN,Rosinbomb Common Stock,U
 ROSSF,Ross Group PLC Ordinary Shares (United Kingdom),U
 ROST,"Ross Stores, Inc. Common Stock",NASDAQ
@@ -4733,7 +4735,6 @@ SBTX,"Silverback Therapeutics, Inc. Common Stock",NASDAQ
 SBUG,iPath Silver ETN,ARCA
 SBUM,Silver Buckle Mines Inc Common Stock,U
 SBUX,Starbucks Corporation Common Stock,NASDAQ
-SBVQF,TPCO HLDG CORP WT EXP 01/15/2026 Warrant,U
 SBVRF,Subversive Real Estate Acquisition REIT LP Restricted Voting Units (Canada),U
 SBWFF,CORNISH METALS INC Ordinary Shares,U
 SBYSF,SIBANYE STILLWATER LTD Ordinary Shares,U
@@ -4963,6 +4964,7 @@ SEEMF,Seeing Machines Ltd Ordinary Shares (Australia),U
 SEER,"Seer, Inc. Class A Common Stock",NASDAQ
 SEF,ProShares Short Financials,ARCA
 SEGI,"Sycamore Entertainment Group, Inc. Common Stock",U
+SEGR,"Southeastern Grocers, Inc.",NYSE
 SEGSF,Sia Engineering Company Ltd Ordinary Shares,U
 SEGSY,Sia Engineering Company Ltd Unsponsored ADR (Singapore),U
 SEGXF,Segro PLC REIT Ordinary Shares,U
@@ -5254,6 +5256,7 @@ SHLDQ,Sears Holdings Corporation Common Stock,U
 SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
 SHLOQ,"Shiloh Industries, Inc. Common Stock",U
 SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
+SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
 SHLX,"Shell Midstream Partners, L.P.",NYSE
 SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
 SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
@@ -5267,3 +5270,6 @@ SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
+SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
+SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U

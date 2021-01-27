@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPAI,Champion Pain Care Corporation Common Stock,U
-CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
-CPB,Campbell Soup Company,NYSE
-CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
@@ -291,12 +287,11 @@ CSCGY,China Shanshui Cem Group Ltd Unsponsored ADR (Cayman Island),U
 CSCHF,CHINA RENAISSANCE Hldgs Ltd USD Shs (Cayman Islands),U
 CSCMY,"COSCO Shipping International (Singapore) Co., Ltd. American Depositary Receipts - Sponsored",U
 CSCNF,China Sce Grp Hldgs Ltd Ordinary Shares (Cayman Islands),U
-CSCO,"Cisco Systems, Inc. Common Stock",NASDAQ
+CSCO,"Cisco Systems, Inc. Common Stock (DE)",NASDAQ
 CSCPF,Crown Seal Public Co Ltd. NVDR Shares (Thailand),U
 CSCW,Color Star Technology Co. Ltd. Ordinary Shares,NASDAQ
 CSD,Invesco S&P Spin-Off ETF,ARCA
 CSDXF,Cosco Shipping Energy Transn Co Ltd. Ordinary Shares,U
-CSEAF,Clearwater Seafoods Inc Common Shares (Canada),U
 CSETF,CS ETF  IShares MSCI Mexico Capped UCITS ETF (Ireland),U
 CSF,VictoryShares US Discovery Enhanced Volatility Wtd ETF,NASDAQ
 CSFFF,Capstone Mining Corp Ordinary Shares (Canada),U
@@ -354,6 +349,8 @@ CSSDF,CROSSRIDER LTD Ordinary Shares USD0.001 (Isle of Man),U
 CSSE,"Chicken Soup for the Soul Entertainment, Inc. Class A Common Stock",NASDAQ
 CSSEN,"Chicken Soup for the Soul Entertainment, Inc. 9.50% Notes due 2025",NASDAQ
 CSSEP,"Chicken Soup for the Soul Entertainment, Inc. 9.75% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
+CSSEW,CHICKEN SOUP FOR THE SOUL ENTMT INC Warrant   06/30/2021,U
+CSSEZ,CHICKEN SOUP FOR THE SOUL ENTMT INC WT CL Z EXP 06/30/2022,U
 CSSI,"Costas, Inc. Common Stock",U
 CSSPF,Circassia Pharmaceutical Plc Ordinary Shares (United Kingdom),U
 CSSSF,Carsales.com Ltd Ordinary Shares (Australia),U
@@ -916,7 +913,9 @@ DDLS,WisdomTree Dynamic Currency Hedged International SmallCap Equity Fund,BATS
 DDLX,"DD's Deluxe Rod Holder, Inc. Common Stock",U
 DDM,ProShares Ultra Dow30,ARCA
 DDMGF,Daihatsu Diesel Manufacturing Co Ltd Osaka,U
+DDMX,DD3 Acquisition Corp. II Class A Common Stock,NASDAQ
 DDMXU,DD3 Acquisition Corp. II Unit,NASDAQ
+DDMXW,DD3 Acquisition Corp. II Warrant,NASDAQ
 DDNFF,ADAMERA MINERALS CORP Ordinary Shares (Canada),U
 DDOG,"Datadog, Inc. Class A Common Stock",NASDAQ
 DDPXF,"DB Commodity Short ETN due April 1, 2038 (Germany)",U
@@ -2005,7 +2004,6 @@ EIC,Eagle Point Income Company Inc.,NYSE
 EICAF,Enegrica Mtr Co SPA Ordinary Shares (Italy),U
 EICSF,Electricite de Strasbourg Ordinary Shares (France),U
 EIDO,iShares MSCI Indonesia ETF,ARCA
-EIDX,"Eidos Therapeutics, Inc. Common Stock",NASDAQ
 EIDXF,Eid Parry India Ltd Reg S GDR (India),U
 EIFZF,Exchange Income Corp. Ordinary Shares (Canada),U
 EIG,"Employers Holdings, Inc.",NYSE
@@ -2092,6 +2090,7 @@ ELLXF,Elixinol Global Ltd Ordinary Shares (Australia),U
 ELMA,Elmer Bancorp Inc Common Stock,U
 ELMD,"Electromed, Inc.",AMEX
 ELMFF,Elmo Software Ltd. Ordinary Shares Fully Paid (Australia),U
+ELMTF,ELEMENT 25 LTD ORD (Australia),U
 ELMTY,Elementis Plc Unsponsored ADR Level 1,U
 ELMUF,Elisa Corporation Ordinary Shares A (Finland),U
 ELMUY,Elisa OYJ Unsponsored ADR representing A shares (Finland),U
@@ -2264,6 +2263,7 @@ ENHD,Energroup Holdings Corporation New Common Stock,U
 ENHT,enherent Corp Common Stock,U
 ENIA,Enel Americas S.A. American Depositary Shares (Each representing 50 shares of Common Stock),NYSE
 ENIC,Enel Chile S.A. American Depositary Shares Representing Common Stock (Each representing 50 shares of,NYSE
+ENIGF,ENIGMO INC Common Stock,U
 ENIHF,EAGLE NICE INTL HOLDINGS LTD Ordinary Shares,U
 ENJ,"Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052",NYSE
 ENJPF,En-Japan Inc Tokyo Common Stock,U
@@ -3645,6 +3645,7 @@ FONR,Fonar Corporation Common Stock,NASDAQ
 FONU,FONU2 Inc. Common Stock,U
 FOR,Forestar Group Inc.,NYSE
 FORD,"Forward Industries, Inc. Common Stock",NASDAQ
+FOREU,Foresight Acquisition Corp. Units,NASDAQ
 FORFF,Fortis Inc Ist Preferred Shares Series F (Canada),U
 FORM,"FormFactor, Inc. FormFactor, Inc. Common Stock",NASDAQ
 FORNY,Forsayth N L Ord American Depositary Shares,U
@@ -4981,6 +4982,7 @@ GRLVF,Group Eleven Res Corp Ordinary Shares (Canada),U
 GRMC,Goldrich Mining Company Common Stock,U
 GRMM,"Grom Social Enterprises, Inc. Common Stock",U
 GRMN,Garmin Ltd. Common Stock (Switzerland),NASDAQ
+GRMWF,TPCO HLDG CORP WT EXP 01/15/2026 Warrant,U
 GRN,iPath Series B Carbon Exchange-Traded Notes,ARCA
 GRNB,VanEck Vectors Green Bond ETF,ARCA
 GRNBF,Greenbank Cap Inc Common Shares (Canada),U
@@ -5267,3 +5269,7 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
