@@ -1,4 +1,9 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPAH,CounterPath Corporation Common Stock,NASDAQ
+CPAI,Champion Pain Care Corporation Common Stock,U
+CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
+CPB,Campbell Soup Company,NYSE
+CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
@@ -149,6 +154,7 @@ CRFQF,Zedcor Inc. Ordinary Shares,U
 CRFTF,BC CRAFT SUPPLY CO LTD Common Shares,U
 CRFU,"Carefree Group, Inc. Common Stock New",U
 CRGBF,"CAREPLUS GROUP BHD, SELANGOR DARUL EHSAN Ordinary Shares",U
+CRGE,"Charge Enterprises, Inc. Common Stock",U
 CRGGF,China Resources Gas Group Ltd Ordinary Shares (Bermuda),U
 CRGP,"Calissio Resources Group, Inc. Common Stock",U
 CRGS,"CurAegis Technologies, Inc. Common Stock",U
@@ -932,7 +938,7 @@ DECN,Decision Diagnostics Corp. Common Stock,U
 DECXF,Decade Resources Ltd Ordinary Shares (Canada),U
 DECZ,TrueShares Structured Outcome (December) ETF,BATS
 DEED,First Trust TCW Securitized Plus ETF,ARCA
-DEEF,Xtrackers FTSE Developed ex US Comprehensive Factor ETF,ARCA
+DEEF,Xtrackers FTSE Developed ex US Multifactor ETF,ARCA
 DEENF,DEUTSCHE BK AG LONDON BRH ETN,U
 DEEP,Roundhill Acquirers Deep Value ETF,ARCA
 DEER,"Deer Consumer Products, Inc. Common Stock",U
@@ -969,7 +975,7 @@ DETNF,Aker BP Asa Ordinary Shares,U
 DETRF,DETERRA ROYALTIES LTD ORDINARY FULLY PAID (Australia),U
 DEUBF,Deutsche Beteiligungs Ag Unternehmensbeteiligungsgesell Ordinary Shares (Germany),U
 DEUIF,Deutsche Industrie Grundbesitz AG REIT Germany (DE),U
-DEUS,Xtrackers Russell 1000 Comprehensive Factor ETF,ARCA
+DEUS,Xtrackers Russell US Multifactor ETF,ARCA
 DEUZF,Deutz Ag Ordinary Shares (Germany),U
 DEVM,"DevMar Equities, Inc. Common Stock",U
 DEVOY,Devro PLC Unsponsored ADR (United Kingdom),U
@@ -1137,6 +1143,7 @@ DIV,Global X SuperDividend U.S. ETF,ARCA
 DIVA,AGFiQ Hedged Dividend Income Fund,ARCA
 DIVB,iShares U.S. Dividend and Buyback ETF,BATS
 DIVO,Amplify CWP Enhanced Dividend Income ETF,ARCA
+DIVZ,TrueShares Low Volatility Equity Income ETF,ARCA
 DIZTF,"Dignitana AB, MALMO Ordinary Shares (Sweden)",U
 DJAN,FT Cboe Vest U.S. Equity Deep Buffer ETF - January,BATS
 DJCB,"ETRACS Bloomberg Commodity Index Total Return ETN Series B due October 31, 2039",ARCA
@@ -1810,7 +1817,6 @@ ECUI,"Ecuity, Inc. Common Stock",U
 ECVTF,Economic Investment Trust Ltd. Ordinary Shares (Canada),U
 ECWDF,EC World REIT (Singapore),U
 ECXJ,"CXJ Group Co., Limited Common Stock",U
-ECXRF,EPIGENOMICS AG BZR Rights Mat 01/27/2021 (Germany),U
 ECXXF,Eclipx Group Ltd (Australia),U
 ECYAF,Wisdomtree Commodity Sec Ltd Agriculture Other,U
 ECYCF,Wisdomtree Commodity Sec Ltd Soybeans Common Shares,U
@@ -1894,7 +1900,7 @@ EESI,"Encompass Energy Services, Inc.  Common Stock",U
 EESO,"Enzyme Environmental Solutions, Inc. Common Stock (NV)",U
 EET,ProShares Ultra MSCI Emerging Markets,ARCA
 EEV,ProShares Trust UltraShort MSCI Emerging Markets,ARCA
-EEVVD,Eve & Co Inc Ordinary Shares,U
+EEVVF,Eve & Co Inc Ordinary Shares,U
 EEX,"Emerald Holding, Inc.",NYSE
 EEYMF,Firefinch Ltd Ordinary Shares,U
 EEYUF,Essential Energy Services Ltd. Common Shares (Canada),U
@@ -2696,6 +2702,7 @@ EVGEF,Evergreen Gaming Corp Common Shares (Canada),U
 EVGGF,Evolution Gaming Ordinary Shares,U
 EVGI,Evergreen International Corp. Common Stock,U
 EVGN,Evogene Ltd Ordinary Shares,NASDAQ
+EVGPY,Evergrande Property Services Group Limited American Depositary Receipts - Unsponsored (Cayman Islands),U
 EVGRF,CHINA EVERGRANDE NEW ENERGY VEH GROUP LTD Ordinary Shares,U
 EVGUF,EVERGOLD CORP COM (Canada),U
 EVH,"Evolent Health, Inc Class A Common Stock",NYSE
@@ -3358,7 +3365,7 @@ FLCA,Franklin FTSE Canada ETF,ARCA
 FLCB,Franklin Liberty U.S. Core Bond ETF,ARCA
 FLCH,Franklin FTSE China ETF,ARCA
 FLCO,Franklin Liberty Investment Grade Corporate ETF,ARCA
-FLCX,flooidCX Corp. Common Shares,U
+FLCXD,flooidCX Corp. Common Shares,U
 FLDI,Folkup Dev Inc Common Stock,U
 FLDM,Fluidigm Corporation Common Stock,NASDAQ
 FLDPF,Frontline Gold Corp Common Shares (Canada),U
@@ -4290,7 +4297,7 @@ GDLC,Grayscale Digital Large Cap Fund LLC Shares USD (Cayman Islands),U
 GDLLF,Geodrill Limited Ordinary Shares (Isle of Man),U
 GDLNF,Greenland Minerals And Energy Ltd Ordinary shares (Australia),U
 GDMA,Gadsden Dynamic Multi-Asset ETF,ARCA
-GDMID,GOLDSTAR MINERALS INC Ordinary Shares,U
+GDMIF,GOLDSTAR MINERALS INC Ordinary Shares,U
 GDMK,GLOBAL DIVERSIFIED MARKETING GROUP INC Common Stock,U
 GDMOF,Dmg Mori Aktiengesellschaft Ordinary Shares (Germany Federal Republic),U
 GDMRF,"Golden Dawn Minerals, Inc. Common Shares",U
@@ -5270,6 +5277,3 @@ GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U

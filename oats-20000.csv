@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRF,"Sunstone Hotel Investors, Inc.  6.450% Series F Cumulative Redeemable Preferred Stock",NYSE
@@ -1085,6 +1086,7 @@ SSGXF,SSGA SPDR ETFs Europe II PLC S&P US Industrials ETF SEL SEC (UCITS) (Irela
 SSHC,Southshore Community Bank Apollo Beach Common Stock (Florida),U
 SSHKF,Senshukai Co Ltd Ordinary Shares (Japan),U
 SSHLF,SUNAC SVCS HLDGS LTD Common Stock,U
+SSHLY,Sunac Services Holdings Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
 SSHPF,Vow ASA Ordinary Shares,U
 SSHXF,SSGA SPDR ETFs Europe II PLC MSCI Europe Health Care UCITs,U
 SSILF,Sa Sa International Holdings Ltd Ordinary Shares  Cayman Islands(KY ),U
@@ -2684,7 +2686,6 @@ TRVN,"Trevena, Inc. Common Stock",NASDAQ
 TRVR,"Two Rivers Financial Group, Inc. Common Stock",U
 TRWKF,Truworths International Ltd Ordinary Shares South Africa(ZA ),U
 TRWLY,TRAWELL CO S P A American Depositary Receipts - Sponsored  Italy(IT ),U
-TRWO,"TransWorld Holdings, Inc. Common Stock",U
 TRWRF,KABN SYS NA HLDGS CORP Ordinary Shares,U
 TRX,Tanzanian Gold Corporation,AMEX
 TRXA,Trex Acquisition Corp. Common Stock,U
@@ -4208,6 +4209,7 @@ WBWB,WU BA Superior Products Holding Group Inc. Common Stock,U
 WBZB,Washington Bbusiness Bk Common Shares,U
 WCAGY,"Wirecard Ag, Berlin Unsponsored ADR (Germany)",U
 WCBH,"WCB Holdings, Inc. Common Stock",U
+WCBR,WisdomTree Trust WisdomTree Cybersecurity Fund,NASDAQ
 WCC,Wesco International Inc.,NYSE
 WCC PRA,"WESCO International, Inc. Depositary Shares each representing 1/1,000th interest in a share of Serie",NYSE
 WCCP,"Wealthcraft Capital, Inc. Common Stock",U
@@ -4818,6 +4820,7 @@ XLU,Utilities Select Sector SPDR Fund,ARCA
 XLV,Health Care Select Sector SPDR Fund,ARCA
 XLWH,Xinliwang International Holdings Company Ltd. Common Stock,U
 XLY,Consumer Discretionary Select Sector SPDR Fund,ARCA
+XM,Qualtrics International Inc. Class A Common Stock,NASDAQ
 XME,SPDR S&P Metals & Mining ETF,ARCA
 XMET,Xxstream Entertainment Inc Common Stock,U
 XMEX,Xemex Group Inc. Common stock,U
@@ -5156,6 +5159,7 @@ ZICX,Zicix Corporation Common Stock,U
 ZIG,The Acquirers Fund,ARCA
 ZIJMF,Zijin Mining Group Co Ltd Ordinary Shares H (China),U
 ZIJMY,Zijin Mining Group Co Ltd Unsponsored ADR Representing Class H Shs (China),U
+ZIM,ZIM Integrated Shipping Services Ltd.,NYSE
 ZIMCF,ZIM Corporation Common Shares,U
 ZION,Zions Bancorporation N.A. Common Stock,NASDAQ
 ZIONL,Zions Bancorporation 6.95% Fixed-to-Floating Rate Subordinated Notes,NASDAQ

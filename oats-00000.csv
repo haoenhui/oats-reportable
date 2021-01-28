@@ -1758,7 +1758,9 @@ ASXSF,Elysee Development Corp. Common Shares,U
 ASYS,"Amtech Systems, Inc. Common Stock",NASDAQ
 ASZP,"JV Group, Inc. Common Stock",U
 AT,Atlantic Power Corporation,NYSE
+ATA,Americas Technology Acquisition Corp.,NYSE
 ATA U,"Americas Technology Acquisition Corp. Units, each consisting of one Ordinary Share and one half of R",NYSE
+ATA WS,"Americas Technology Acquisition Corp.Redeemable Warrants, each whole warrant exercisable for one Ord",NYSE
 ATAAY,Atacadao SA American Depositary Receipts - Unsponsored,U
 ATAC,Altimar Acquisition Corporation,NYSE
 ATAC U,"Altimar Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third o",NYSE
@@ -2538,7 +2540,10 @@ BELP,BELPOINTE REIT INC Common Stock,U
 BELR,Bell Rose Capital Inc. Common Stock,U
 BEMG,Beta Music Group Inc. Common Stock,U
 BEN,"Franklin Resources, Inc.",NYSE
+BENE,Benessere Capital Acquisition Corp. Class A Common Stock,NASDAQ
+BENER,Benessere Capital Acquisition Corp. Right,NASDAQ
 BENEU,Benessere Capital Acquisition Corp. Unit,NASDAQ
+BENEW,Benessere Capital Acquisition Corp. Warrant,NASDAQ
 BENGF,Sky & Space Global Ltd Ordinary Shares,U
 BENH,Bio-En Holdings Corp. Common Stock,U
 BENZF,Benz Mng Corp Ordinary Shares (Canada),U
@@ -2963,8 +2968,10 @@ BLTHF,Blis Technologies Ltd Ordinary Shares (New Zealand),U
 BLTMF,BLUE THUNDER MNG INC Common Shares,U
 BLTSU,Bright Lights Acquisition Corp. Unit,NASDAQ
 BLU,BELLUS Health Inc. Common Shares,NASDAQ
+BLUA U,"BlueRiver Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-third of a",NYSE
 BLUBF,Blue Ribbon Income Fund Units (Canada),U
 BLUE,"bluebird bio, Inc. Common Stock",NASDAQ
+BLUMY,Blue Moon Group Holdings Limited American Depositary Receipts - Unsponsored (Cayman Islands),U
 BLUU,"Blue Water Global Group, Inc. Common Stock",U
 BLUWU,Blue Water Acquisition Corp. Unit,NASDAQ
 BLV,Vanguard Long-Term Bond ETF,ARCA
@@ -5004,7 +5011,9 @@ CNCPF,Conduit Capital Ltd. Ordinary Shares (South Africa),U
 CNCR,ETF Series Solutions Trust Loncar Cancer Immunotherapy ETF,NASDAQ
 CNCT,"China Teletech Holding, Inc.  Common Stock",U
 CNCZF,Conico Ltd Common Stock,U
+CND,Concord Acquisition Corp.,NYSE
 CND U,"Concord Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half o",NYSE
+CND WS,"Concord Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common S",NYSE
 CNDCF,Canadian Banc Corp Common Shares (Canada),U
 CNDD,"Concorde America, Inc. Common Stock",U
 CNDGF,Condor Gold PLC Ordinary Shares (United Kingdom),U
@@ -5269,8 +5278,3 @@ CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ
-CPAI,Champion Pain Care Corporation Common Stock,U
-CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
-CPB,Campbell Soup Company,NYSE
-CPBLF,ALS Ltd. Ordinary Shares (Australia),U

@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
+MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
 MTOR,"MERITOR, Inc.",NYSE
@@ -1353,6 +1355,7 @@ OCCI,"OFS Credit Company, Inc. Common Stock",NASDAQ
 OCCIP,"OFS Credit Company, Inc. 6.875% Series A Term Preferred Stock",NASDAQ
 OCDDY,OCADO GROUP PLC  American Depositary Receipts - Sponsored (United Kingdom),U
 OCDGF,"Ocado Group PLC, Hatfield Ordinary Shares (United Kingdom)",U
+OCDX,Ortho Clinical Diagnostics plc Ordinary Shares,NASDAQ
 OCEHF,Oceania Healthcare Ltd SHS (New Zealand),U
 OCESO,"Ocean Spray Cranberries, Inc. Part 2nd 4% Preferred Stock",U
 OCESP,"Ocean Spray Cranberries, Inc. 4% Preferred Stock",U
@@ -3831,6 +3834,7 @@ REG,Regency Centers Corporation Common Stock,NASDAQ
 REGI,"Renewable Energy Group, Inc. Common Stock",NASDAQ
 REGL,ProShares S&P MidCap 400 Dividend Aristocrats ETF,BATS
 REGMF,Remegen Co Ltd. Ordinary Shares (China),U
+REGMY,Remegen Co Ltd. American Depositary Receipts - Unsponsored (China),U
 REGN,"Regeneron Pharmaceuticals, Inc. Common Stock",NASDAQ
 REGRF,Graph Blockchain Inc Ordinary Shares,U
 REHB,"Channel Holdings, Inc. Common Stock",U
@@ -5265,6 +5269,7 @@ SHMDF,Shimano Inds Ordinary Shares,U
 SHMMF,SAHAMIT MACHINERY PCL PUB CO LTD UNITS NON -VOTING DEPOSITORY RECEIPTS (Thailand),U
 SHMN,"SOHM, Inc. Common Stock",U
 SHMP,NaturalShrimp Incorporated Common Stock,U
+SHMSY,Shimao Services Holdings Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
@@ -5272,4 +5277,3 @@ SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
-SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U

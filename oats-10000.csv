@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
@@ -519,7 +522,9 @@ HMBG,Hamburg Industries Inc Common Stock,U
 HMC,"Honda Motor Co., Ltd.",NYSE
 HMCBF,Home Capital Group Inc. Ordinary Shares (Canada),U
 HMCHF,HSBC ETFS PLC SHS EXCHANGE TRADED FUND USD (Ireland),U
+HMCO,HumanCo Acquisition Corp. Class A Common Stock,NASDAQ
 HMCOU,HumanCo Acquisition Corp. Unit,NASDAQ
+HMCOW,HumanCo Acquisition Corp. Warrant,NASDAQ
 HMCTF,HNA INFRASTRUCTURE CO LTD  Ordinary Shares,U
 HMDPF,Hammond Power Solutions Inc Ordinary Shares,U
 HMENF,Hemisphere Energy Corp. Ordinary Shares (Canada),U
@@ -542,7 +547,6 @@ HMNKF,HMS Networks AB Ordinary Shares,U
 HMNU,"Human Unitec International, Inc. Common Stock",U
 HMNY,Helios and Matheson Analytics Inc. Common Stock,U
 HMOP,Hartford Municipal Opportunities ETF,ARCA
-HMPMF,Hamlet Pharma AB Common Stock (Sweden),U
 HMPQ,"HempAmericana, Inc.  Common Stock",U
 HMRRF,Hammer Metal Ltd Ordinary Shares (Australia),U
 HMRZF,Hennes & Mauritz B Free Shs Ordinary Shares,U
@@ -2495,6 +2499,7 @@ JKPTF,Gamesys Group PLC Ordinary Shares,U
 JKRO,Jakroo Inc Common Stock,U
 JKS,JINKOSOLAR HOLDINGS CO,NYSE
 JKSM,Jacksam Corporation Common Stock,U
+JKSSY,Jinke Smart Services Group Company Limited American Depositary Receipts - Unsponsored (China),U
 JLFNF,Japan Lifeline Co Ltd Ordinary Shares (Japan),U
 JLGFF,"Japan Logistics Fund Inc, Tokyo Ordinary Shares (Japan)",U
 JLL,"Jones Lang LaSalle, Inc.",NYSE
@@ -4645,6 +4650,7 @@ MIRM,"Mirum Pharmaceuticals, Inc. Common Stock",NASDAQ
 MIRXF,SERRANO RES LTD  Common Shares,U
 MIST,Milestone Pharmaceuticals Inc. Common Shares,NASDAQ
 MISVF,Minco Silver Corp Common Shares (Canada),U
+MIT U,"Mason Industrial Technology, Inc. Units, each consisting of one share of Class A common stock and on",NYSE
 MITCF,Mitani Corp Ordinary Shares (Japan),U
 MITEF,Mitsubishi Estate Co Ltd Ordinary Shares (Japan),U
 MITEY,Mitsubishi Estate Co Ltd American Depositary Shares,U
@@ -5271,5 +5277,3 @@ MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
 MTMW,"Matmown, Inc. Common",U
 MTN,"Vail Resorts, Inc.",NYSE
 MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
-MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
-MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
