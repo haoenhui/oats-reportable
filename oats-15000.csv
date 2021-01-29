@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
 MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
@@ -55,7 +54,9 @@ MU,"Micron Technology, Inc. Common Stock",NASDAQ
 MUA,"Blackrock Muni Assets Fund, Inc.",NYSE
 MUB,iShares National Muni Bond ETF,ARCA
 MUC,"BLACKROCK MUNIHOLDINGS CALIFORNIA QUALITY FUND, INC",NYSE
+MUDS,Mudrick Capital Acquisition Corporation II Class A Common Stock,NASDAQ
 MUDSU,Mudrick Capital Acquisition Corporation II Unit,NASDAQ
+MUDSW,Mudrick Capital Acquisition Corporation II Warrant,NASDAQ
 MUE,"BLACKROCK MUNIHOLDINGS QUALITY FUND II, INC",NYSE
 MUEL,Paul Mueller Company Common Stock,U
 MUFG,"Mitsubishi UFJ Financial Group, Inc.",NYSE
@@ -375,7 +376,9 @@ NDYN,"Vinings Holdings, Inc. Common Stock",U
 NEA,Nuveen AMT-Free Quality Municipal Income Fund,NYSE
 NEAPF,Nearmap Ltd Ordinary Shares (Australia),U
 NEAR,BlackRock Short Maturity Bond ETF,BATS
+NEBC,Nebula Caravel Acquisition Corp. Class A Common Stock,NASDAQ
 NEBCU,Nebula Caravel Acquisition Corp. Unit,NASDAQ
+NEBCW,Nebula Caravel Acquisition Corp. Warrant,NASDAQ
 NEBLQ,NOBLE CORP PLC Common Stock,U
 NECA,New America Energy Corp. Common Stock,U
 NECB,"Northeast Community Bancorp, Inc. Common Stock",U
@@ -760,7 +763,9 @@ NNY,Nuveen NY Municipal Value,NYSE
 NNYAF,Nanya Technology Corp Ordinary Shares (Taiwan),U
 NNYR,Northamerican Energy Group Corporation New Common Stock,U
 NOA,North American Construction Group Ltd.,NYSE
+NOAC,Natural Order Acquisition Corp. Common Stock,NASDAQ
 NOACU,Natural Order Acquisition Corp. Unit,NASDAQ
+NOACW,Natural Order Acquisition Corp. Warrant,NASDAQ
 NOAH,Noah Holdings Limited,NYSE
 NOBDF,North Bud Farms Inc Comn Npv Common Shares (Canada),U
 NOBGF,Noble Group Ltd Ordinary Shares,U
@@ -876,6 +881,7 @@ NQMIY,NQ Minerals PLC Sponsored ADR (United Kingdom),U
 NQMLF,NQ Minerals PLC Ordinary Shares (United Kingdom),U
 NQP,Nuveen Pennsylvania Quality Municipal Income Fund,NYSE
 NR,"Newpark Resources, Inc.",NYSE
+NRACU,Noble Rock Acquisition Corporation Unit,NASDAQ
 NRBO,"NeuroBo Pharmaceuticals, Inc. Common Stock",NASDAQ
 NRBT,"Novus Robotics, Inc Common Stock",U
 NRC,National Research Corporation Common Stock,NASDAQ
@@ -1055,6 +1061,7 @@ NTTCF,Netcents Technology Inc Ordinary Shares (Canada),U
 NTTDF,NTT Data Corporation Ordinary Shares (Japan),U
 NTTHF,Neo Lithium Corp  Ordinary Shares (Canada),U
 NTTIF,Novatti Group Ltd Ordinary Shares (Australia),U
+NTTNP,National Gen Hldgs Corp Depository Sh Repstg 1/40th Pfd Ser C 7.50%,U
 NTTYY,Nippon Telegraph and Telephone Corporation American Depositary Shares - Sponsored,U
 NTUR,"Natural Blue Resources, Inc. Common Stock",U
 NTUS,Natus Medical Incorporated Common Stock,NASDAQ
@@ -1445,7 +1452,6 @@ OGS,"ONE GAS, INC.",NYSE
 OGSM,"Organic Sales and Marketing, Inc. Common Stock",U
 OGSRW,"Overseas Shipholding Group, Inc. WT CL A EXP 08/05/2039",U
 OGZPY,PJSC Gazprom American Depositary Receipts - Sponsored,U
-OGZSY,Organizacion Soriana SAB DE CV Unsponsored American Depository Receipt (Mexico),U
 OHAQ,Oracle Healthcare Acquisition Corp. Common Stock,U
 OHBK,Old Harbor Bank (FL) Common Stock,U
 OHBTF,OHB SE Ordinary Shares,U
@@ -1567,7 +1573,7 @@ ONDS,Ondas Holdings Inc. Common Stock,NASDAQ
 ONE,OneSmart International Education Group Limited,NYSE
 ONEM,"1Life Healthcare, Inc. Common Stock",NASDAQ
 ONEO,SPDR Russell 1000 Momentum Focus ETF,ARCA
-ONEQ,Fidelity Nasdaq Composite Index Tracking Stock,NASDAQ
+ONEQ,Fidelity Nasdaq Composite Index ETF,NASDAQ
 ONEV,SPDR Russell 1000 Low Volatility ETF,ARCA
 ONEW,OneWater Marine Inc. Class A Common Stock,NASDAQ
 ONEXF,Onex Corp Sub Voting Shares (Canada),U
@@ -2436,7 +2442,6 @@ PICK,iShares MSCI Global Metals & Mining Producers ETF,BATS
 PICO,"PICO Holdings, Inc. Common Stock (DE)",NASDAQ
 PID,Invesco Exchange-Traded Fund Trust Invesco International Dividend Achievers ETF,NASDAQ
 PIE,Invesco Exchange-Traded Fund Trust II Invesco DWA Emerging Markets Momentum ETF,NASDAQ
-PIED,"Piedmont Mining Company, Inc. Common Stock",U
 PIEJF,ROTHSCHILD & CO SCA Ordinary Shares,U
 PIFFY,PT Indofood CBP Sukses Makmur TBK Unsponsored ADR (Indonesia),U
 PIFI,ClearShares Piton Intermediate Fixed Income ETF,ARCA
@@ -2636,6 +2641,7 @@ PML,PIMCO MUNICIPAL INCOME FUND II COMMON SHARES OF BENEFICIAL INT.,NYSE
 PMM,Putnam Managed Municipal Income,NYSE
 PMMAF,Puma Ag Rudolf Dassler Sport Ordinary Shares,U
 PMMBF,Pembina Pipeline Corp Cum Redeemable Minimum Rate Reset Cl A Pfd Shs Ser 21 (Canada),U
+PMMCF,PAMPA METALS CORP Common Shares,U
 PMMDF,PIMCO ETFS PLC Exchange Traded Fund,U
 PMMEF,Premium Expl Inc Common Shares (Canada),U
 PMMLY,Premium Leisure Corp Unsponsored ADR (Philippines),U
@@ -2715,7 +2721,6 @@ PNRXF,Porto Energy Corp. Ordinary Shares (Canada),U
 PNSAF,Pensana Rare Earths PLC Chess Depositary Interests (United Kingdom),U
 PNTG,"The Pennant Group, Inc. Common Stock",NASDAQ
 PNTM U,"Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeem",NYSE
-PNTOF,Pantoro Ltd. Ordinary Shares (Australia),U
 PNTZF,Trigon Metals Inc. Ordinary Shares,U
 PNW,Pinnacle West Capital Corporation,NYSE
 PNWDF,PNE WIND AG Ordinary Shares (Germany),U
@@ -3668,7 +3673,6 @@ RBB,RBB Bancorp Common Stock,NASDAQ
 RBBN,Ribbon Communications Inc. Common Stock,NASDAQ
 RBC,Regal Beloit Corporation,NYSE
 RBCAA,"Republic Bancorp, Inc. Class A Common Stock",NASDAQ
-RBCC,Rainbow Coral Corp. Common Stock,U
 RBCI,"RBC, Inc. Common Stock",U
 RBCL,"RBC Life Sciences, Inc. Common Stock",U
 RBCN,"Rubicon Technology, Inc. Common Stock",NASDAQ
@@ -4127,7 +4131,9 @@ RMDFF,Richmond Minerals Inc Ordinary Shares (Canada),U
 RMED,"Ra Medical Systems, Inc",AMEX
 RMES,Red Metal Resources Ltd. Common Stock NEW,U
 RMETF,Rackla Metals Inc Common Shares,U
+RMGB,RMG Acquisition Corp. II Class A Ordinary Shares,NASDAQ
 RMGBU,RMG Acquisition Corp. II Unit,NASDAQ
+RMGBW,RMG Acquisition Corp. II Warrant,NASDAQ
 RMGGF,Resolute Mining Ltd Ordinary Shares,U
 RMGGY,Resolute Mining Ltd Unsponsored ADR (Austrailia),U
 RMGNF,RHI Magnesita NV Ordinary Shares (Netherlands),U
@@ -5276,4 +5282,3 @@ SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U

@@ -61,7 +61,6 @@ AAUKF,Anglo American plc Ordinary Shares (United Kingdom),U
 AAVMY,Abn Amro BK N V Amsterdam Brh American Depositary Receipts - Unsponsored (Netherlands),U
 AAVVF,Advantage Oil & Gas Ltd Ordinary Shares (Canada),U
 AAVXF,Abivax SA Ordinary Shares (France),U
-AAWCD,CANNING STR CORP Common Stock,U
 AAWW,Atlas Air Worldwide Holdings NEW Common Stock,NASDAQ
 AAXJ,iShares MSCI All Country Asia ex Japan ETF,NASDAQ
 AAXT,"Aamaxan Transport Group, Inc. Common Stock",U
@@ -1004,8 +1003,10 @@ ALTPF,Altiplano Metals Inc Ordinary Shares,U
 ALTR,Altair Engineering Inc. Class A Common Stock,NASDAQ
 ALTS,ProShares Morningstar Alternatives Solution ETF,BATS
 ALTSF,Alturas Minerals Corp Ordinary shares (Canada),U
+ALTU,Altitude Acquisition Corp. Class A Common Stock,NASDAQ
 ALTUF,ALTUS STRATEGIES PLC Ordinary Shares,U
 ALTUU,Altitude Acquisition Corp. Unit,NASDAQ
+ALTUW,Altitude Acquisition Corp. Warrant,NASDAQ
 ALTX,Altex Industries Inc Common Stock,U
 ALTY,Global X Funds Global X SuperDividend Alternatives ETF,NASDAQ
 ALUS,Alussa Energy Acquisition Corp.,NYSE
@@ -1180,6 +1181,7 @@ AMTCQ,Ameritrans Capital Corporation Common Stock,U
 AMTI,Applied Molecular Transport Inc. Common Stock,NASDAQ
 AMTPQ,Ameritrans Capital Corporation 9.375% Participating Preferred Stock,U
 AMTR,ETRACS Alerian Midstream Energy Total Return Index ETN,ARCA
+AMTTF,Amot Investments Ltd. Ordinary Shares (Israel),U
 AMTX,"Aemetis, Inc. Common Stock",NASDAQ
 AMTY,Amerityre Corporation Common Stock,U
 AMUB,"ETRACS Alerian MLP Index ETN Series B due July 18, 2042",ARCA
@@ -2223,13 +2225,13 @@ BABYF,"Else Nutrition Holdings, Inc. Common Stock",U
 BAC,Bank of America Corporation,NYSE
 BAC PRA,"Bank of America Corporation Depositary Shares, each representing a 1/1,000 th interest in a share of",NYSE
 BAC PRB,"Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of",NYSE
-BAC PRC,"Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of",NYSE
 BAC PRE,"Bank of America Corporation Depositary Shares (representing 1/1,000th of a share of Floating Rate No",NYSE
 BAC PRK,"Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of",NYSE
 BAC PRL,"Bank Of America Corporation 7.25% Non-Cumulative Perpetual Convertible Preferred Stock, Series L",NYSE
 BAC PRM,"Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of",NYSE
 BAC PRN,"Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 5.",NYSE
 BAC PRO,"Bank of America Corporation Depositary shares, each representing 1/1,000th interest in a share of 4.",NYSE
+BAC PRP,"Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of",NYSE
 BACHF,Bank of China Ltd Beijing Shares -H- (China),U
 BACHY,Bank of China Ltd Beijing Unsponsored ADR representing H shares (China),U
 BACRP,Bank of America Corp 7% Cumulative Redeemable Preferred Stock,U
@@ -3131,7 +3133,6 @@ BOAC U,"Bluescape Opportunities Acquisition Corp. Units, each consisting of one 
 BOAC WS,"Bluescape Opportunities Acquisition Corp. Redeemable warrants, each whole warrant exercisable for on",NYSE
 BOALF,Boral Ltd  Ord Ordinary Shares,U
 BOALY,Boral Ltd  Ord American Depositary Shares,U
-BOAPL,Bank of America Corp Depositary Shares Rep 1/1000 Pfd Ser PP,U
 BOARF,"Boart Longyear Ltd, Sydney NSW Ordinary Shares",U
 BOB,Merlyn.AI Best-of-Breed Core Momentum ETF,BATS
 BOCH,Bank of Commerce Holdings (CA) Common Stock,NASDAQ
@@ -3684,6 +3685,7 @@ BYOC,"Beyond Commerce, Inc. Common Stock",U
 BYOGF,Bounty Oil Ordinary Shares (Australia),U
 BYPLF,"Bodycote Plc, Macclesfield, Cheshire Ordinary Shares (United Kingdom)",U
 BYRG,Buyer Group International Inc. Common Stock,U
+BYRLF,BII Railway Transportation Technology Holdings Co Ltd. Ordinary Shares (Cayman Islands),U
 BYRN,BYRNA TECHNOLOGIES INC Common Stock,U
 BYROF,Byron Energy Ltd Ordinary Shares (Austrailia),U
 BYRSF,PT Bayan Resources Tbk Ordinary Shares (Indonesia),U
@@ -4824,6 +4826,7 @@ CLRBZ,"Cellectar Biosciences, Inc. Series A Warrants",NASDAQ
 CLRG,IndexIQ ETF Trust IQ Chaikin U.S. Large Cap ETF,NASDAQ
 CLRI,"Cleartronic, Inc. Common Stock",U
 CLRMF,"Clean Air Metals Inc, COM (Canada)",U
+CLRMU,Clarim Acquisition Corp. Unit,NASDAQ
 CLRN,Clarent Corporation Common Stock,U
 CLRO,"ClearOne, Inc. (DE) Common Stock",NASDAQ
 CLRSF,CASTILE RES LTD Ordinary Shares (Australia),U
@@ -5278,3 +5281,4 @@ CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAH,CounterPath Corporation Common Stock,NASDAQ

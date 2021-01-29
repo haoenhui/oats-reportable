@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
@@ -187,6 +186,7 @@ CRMBQ,"Crumbs Bake Shop, Inc. Common Stock",U
 CRMD,CorMedix Inc.,AMEX
 CRMK,Cermetek Microelectronics Inc Unclassified,U
 CRMLF,Clear Media Limited Ordinary Shares (Bermuda),U
+CRMLY,CHINA RES MIXC LIFESTYLE SVCS LTD American Depositary Receipts - Unsponsored,U
 CRMT,America's Car-Mart Inc Common Stock,NASDAQ
 CRMWF,CROMWELL EUROPEAN REAL ESTATE INVT TR Ordinary Shares,U
 CRMZ,"CreditRiskMonitor.com, Inc. Common Stock",U
@@ -363,6 +363,7 @@ CSSSF,Carsales.com Ltd Ordinary Shares (Australia),U
 CSSV,"Caspian Services, Inc. Common Stock",U
 CSSXF,China Shuifa Singyes Energy Holdings Limited Ordinary Shares,U
 CSTA U,"Constellation Acquisition Corp I Units, each consisting of one Class A ordinary share and one-third",NYSE
+CSTC,CANNING STR CORP Common Stock,U
 CSTE,Caesarstone Ltd. Ordinary Shares,NASDAQ
 CSTI,"Costar Technologies, Inc. Common Stock",U
 CSTJ,"Creston Resources, Ltd. Common Stock",U
@@ -399,7 +400,7 @@ CTAC WS,"Cerberus Telecom Acquisition Corp. Warrants included as part of the Uni
 CTAGF,Capita Group Plc Ordinary Shares,U
 CTAGY,Capita Plc Unsponsored ADR (UK),U
 CTAIF,CP Lotus Corporation Ordinary Shares (Cayman Islands),U
-CTAMD,CASTLE A M & CO Common Stock,U
+CTAM,CASTLE A M & CO Common Stock,U
 CTAQU,Carney Technology Acquisition Corp. II Units,NASDAQ
 CTARF,CENTAURUS ENERGY INC Common Shares,U
 CTAS,Cintas Corporation Common Stock,NASDAQ
@@ -1438,7 +1439,6 @@ DRVD,"Driven Deliveries, Inc. Common Stock",U
 DRVN,Driven Brands Holdings Inc. Common Stock,NASDAQ
 DRVYF,DISCOVERY AFRICA LTD Ordinary Shares,U
 DRW,WisdomTree Global ex-US Real Estate Fund,ARCA
-DRWB,Darien Rowayton BK Conn Common Stock,U
 DRWKF,Dragerwerk AG & Co. KGAA PREF SHS NO VTG RTS,U
 DRWN,"A Clean Slate, Inc.  Common Stock",U
 DRXGF,Drax Group PLC Ordinary Shares (United Kingdom),U
@@ -1615,7 +1615,9 @@ DWDZF,Jeotex Inc Ordinary Shares,U
 DWEQ,AdvisorShares Trust AdvisorShares Dorsey Wright Alpha Equal Weight ETF,NASDAQ
 DWFI,SPDR Series Trust SPDR Dorsey Wright Fixed Income Allocation ETF,NASDAQ
 DWHHF,Deutsche Wohnen AG Ordinary Shares (Germany),U
+DWIN,Delwinds Insurance Acquisition Corp.,NYSE
 DWIN U,"Delwinds Insurance Acquisition Corp. Units, each consisting of one share of Class A common stock, an",NYSE
+DWIN WS,"Delwinds Insurance Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one sha",NYSE
 DWIS,"Dinewise, Inc. Common Stock",U
 DWLD,Davis Fundamental ETF Trust Davis Select Worldwide ETF,NASDAQ
 DWM,WisdomTree International Equity Fund,ARCA
@@ -2413,6 +2415,7 @@ EQGPF,Equitable Group Inc Ordinary Shares (Canada),U
 EQH,"Equitable Holdings, Inc.",NYSE
 EQH PRA,"Equitable Holdings, Inc. Depositary Shares, each representing a 1/1000th interest in a share of Fixe",NYSE
 EQH PRC,"Equitable Holdings, Inc. Depositary Shares, each representing a 1/1, 000th interest in a share of Fi",NYSE
+EQHA U,"EQ Health Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half",NYSE
 EQINY,Equiniti Group PLC,U
 EQIX,"Equinix, Inc. Common Stock REIT",NASDAQ
 EQKR,EQK Realty Investors I Common Stock,U
@@ -2702,6 +2705,7 @@ EVGEF,Evergreen Gaming Corp Common Shares (Canada),U
 EVGGF,Evolution Gaming Ordinary Shares,U
 EVGI,Evergreen International Corp. Common Stock,U
 EVGN,Evogene Ltd Ordinary Shares,NASDAQ
+EVGPF,EVERGRANDE PPTY SVCS GROUP LTD Ordinary Shares,U
 EVGPY,Evergrande Property Services Group Limited American Depositary Receipts - Unsponsored (Cayman Islands),U
 EVGRF,CHINA EVERGRANDE NEW ENERGY VEH GROUP LTD Ordinary Shares,U
 EVGUF,EVERGOLD CORP COM (Canada),U
@@ -3046,6 +3050,7 @@ FCPI,Fidelity Stocks for Inflation ETF,BATS
 FCPT,"Four Corners Property Trust, Inc.",NYSE
 FCRD,"First Eagle Alternative Capital BDC, Inc. Common Stock",NASDAQ
 FCREY,Fletcher Building Ltd Sponsored American Depository Receipt (New Zealand),U
+FCRIF,FCR IMMOBILIEN AG NA O N Ordinary Shares,U
 FCRM,Franklin Credit Mgmt Corp New Common Stock,U
 FCRQF,Ichigo Office Reit Invt Corp Ordinary Shares (Japan),U
 FCRW,"First Eagle Alternative Capital BDC, Inc. 6.125% Notes due 2023",NYSE
@@ -3740,6 +3745,7 @@ FRC PRK,"First Republic Bank Depositary Shares, Each Representing a 1/40th Inter
 FRCEF,Fletcher Building Ltd Ordinary Shares (New Zealand),U
 FRCGF,Faircourt Gold Income Corp. Class A Ordinary Shares (Canada),U
 FRCH,"Frenchtex, Inc. Frenchtex Inc",U
+FRCLP,FIRST REP BK SAN FRANCISCO CALIF NEW DEP SHS REPSTG 1/40th INT NONCUMULATIVE PERP PFD SER L,U
 FRCN,"Firemans Contractors, Inc. Common",U
 FRCOF,Fast Retailing Co Ltd Ordinary Shares,U
 FRCOY,Fast Retailing Co Ltd Unsponsored ADR (Japan),U
@@ -4236,6 +4242,7 @@ GBXPF,VIA VAREJO SA REGISTERED SHARES ORDINARY COMMON SHARES (Brazil),U
 GBXPY,Via Varejo S.A.  American Depositary Shares,U
 GBXXY,Grand Baoxin Auto Group Ltd American Depositary Receipts - Unsponsored (Cayman Islands),U
 GCAAF,Guardian Cap Grp Ltd Cl-A Ordinary Shares,U
+GCACU,Growth Capital Acquisition Corp. Unit,NASDAQ
 GCAN,Greater Cannabis Co Inc Common Stock,U
 GCBC,"Greene County Bancorp, Inc. Common Stock",NASDAQ
 GCC,WisdomTree Enhanced Commodity Strategy Fund,ARCA
@@ -5275,5 +5282,3 @@ GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U

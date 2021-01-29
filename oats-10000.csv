@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -113,6 +115,7 @@ HASI,HANNON ARMSTRONG SUSTAINABLE INFRASTRUCTURE CAPITAL INC,NYSE
 HAUP,"Hauppauge Digital, Inc. Common Stock",U
 HAUZ,Xtrackers International Real Estate ETF,ARCA
 HAVLF,HAVN LIFE SCIENCES INC Common Shares (Canada),U
+HAVRF,Havilah Resources Ltd. Ordinary Shares (Australia),U
 HAVSF,Havas Ordinary Shares,U
 HAWEL,Hawaiian Electric Inc 5.00% Preferred Stock Ser. E,U
 HAWEM,Hawaiian Electric Inc 5% Preferred Stock Ser. D,U
@@ -548,6 +551,7 @@ HMNU,"Human Unitec International, Inc. Common Stock",U
 HMNY,Helios and Matheson Analytics Inc. Common Stock,U
 HMOP,Hartford Municipal Opportunities ETF,ARCA
 HMPQ,"HempAmericana, Inc.  Common Stock",U
+HMPT,"Home Point Capital, Inc Common Stock",NASDAQ
 HMRRF,Hammer Metal Ltd Ordinary Shares (Australia),U
 HMRZF,Hennes & Mauritz B Free Shs Ordinary Shares,U
 HMSI,HMS INCOME FD INC Common Stock,U
@@ -754,6 +758,7 @@ HSCNF,House of Control Group AS Ord Shs (Norway),U
 HSCO,Hi Score Corporation Common Stock,U
 HSCZ,iShares Currency Hedged MSCI EAFE Small-Cap ETF,ARCA
 HSDT,"Helius Medical Technologies, Inc. Class A Common Stock (DE)",NASDAQ
+HSDTW,HELIUS MED TECHNOLOGIES INC Warrant  02/02/2026,U
 HSEEF,Hill Street Beverage Co Inc,U
 HSEN,Honsen Energy & Resources International Limited Common Stock,U
 HSFI,"Homeland Safety International, Inc. Common Stock",U
@@ -1946,7 +1951,6 @@ ISEJF,ISHARES III PLC Exchange Traded Fund ISHARES J P MORGAN EM LOCAL GOVT BOND
 ISELF,Ishares IV PLC Electric Vehicles and Driving Technology UCITS ETF (Ireland),U
 ISEM,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco RAFI Strategic Emerging Markets ETF,NASDAQ
 ISENF,Isoenergy Ltd. Ordinary Shares (Canada),U
-ISERF,ISHARES PLC SHS EUR (Ireland),U
 ISESF,iShares S&P/TSX Capped Materials Index ETF (Canada),U
 ISEXF,IShares MSCI AC Far East Ex-Japan Ordinary Shares (Ireland),U
 ISEYF,WI2WI Corp Ordinary Shares,U
@@ -3040,7 +3044,6 @@ KNIT,Kinetic Group Inc Common Stock,U
 KNKT,Kunekt Corporation Common Stock,U
 KNKZF,Kws Kleinwanzlebener Saatzucht Ag Ordinary Shares (Germany),U
 KNL,"Knoll, Inc.",NYSE
-KNMCY,Konami Holdings Corporation American Depositary Receipts - Sponsored,U
 KNMOF,Kanamoto Co Ltd Ordinary Shares (Japan),U
 KNNCF,KH NEOCHEM CO LTD COM STK (Japan),U
 KNNGF,Kion Group AG Ordinary Shares (Germany),U
@@ -3331,7 +3334,6 @@ LANDM,Gladstone Land Corporation 5.00% Series D Cumulative Term Preferred Stock,
 LANDO,Gladstone Land Corporation 6.00% Series B Cumulative Redeemable Preferred Stock,NASDAQ
 LANDP,Gladstone Land Corporation 6.375% Series A Cumulative Term Preferred Stock,NASDAQ
 LANZ,"Lancer Orthodontics, Inc. Common Stock",U
-LARAF,Laura Ashley Hldgs Plc Ord Ordinary Shares,U
 LAREF,LAR Espana Real Estate S A Ordinary Shares (Spain),U
 LARK,Landmark Bancorp Inc. Common Stock,NASDAQ
 LARRF,Laird Group PLC Ordinary Shares (United Kingdom),U
@@ -3764,6 +3766,7 @@ LNSTY,LONDON STK EXCHANGE GROUP American Depositary Receipts - Unsponsored (Unit
 LNT,Alliant Energy Corporation Common Stock,NASDAQ
 LNTEF,Lintec Corp Ordinary Shares (Japan),U
 LNTH,"Lantheus Holdings, Inc. Common Stock",NASDAQ
+LNTQF,LEONTEQ AG Ordinary Shares,U
 LNVGF,Lenovo Group Ltd  Ordinary Shares (Hong Kong),U
 LNVGY,Lenovo Group Ltd Sponsored ADR (Hong Kong),U
 LNXGF,Linux Gold Corporation Ordinary Shares (Canada),U
@@ -4363,7 +4366,7 @@ MDPCF,Madison Pac Ppts- B Ordinary Shares,U
 MDPEB,Meredith Corporation Common Stock Class B,U
 MDRA,Medra Corporation Common Stock,U
 MDRM,"Modern Mobility Aids, Inc Common Stock",U
-MDRPF,Midas Gold Corporation Ordinary Shares (Canada),U
+MDRPD,Midas Gold Corporation Common Shares,U
 MDRR,"Medalist Diversified REIT, Inc. Common Stock",NASDAQ
 MDRRP,"Medalist Diversified REIT, Inc. Series A Cumulative Redeemable Preferred Stock",NASDAQ
 MDRSF,MEDARTIS HOLDING AG Namen AKT (Switzerland),U
@@ -5174,6 +5177,7 @@ MSFDW,Morgan Stanley Fin LLC Call Warrants Based On Euro Stoxx 50 Index Expiring
 MSFHW,Morgan Stanley Fin LLC Call Warrant Based On Euro Stoxx 50 Index Expiring 05/06/2021,U
 MSFIW,Morgan Stanley Fin LLC Call Warrants Based On Euro Stoxx 50 Index Expiring 04/26/2021,U
 MSFKW,Morgan Stanley Fin LLC Call Warrants Based on Euro Stoxx 50 Index Expiring 04/29/2021,U
+MSFLW,MORGAN STANLEY FIN LLC PUT WT BASED ON INVERSE PERFORMANCE SPDR S&P 500 ETF (TR) Warrant 03/19/2021,U
 MSFN,Mainstreet Financial Corp. Common Stock,U
 MSFT,Microsoft Corporation Common Stock,NASDAQ
 MSGE,Madison Square Garden Entertainment Corp.,NYSE
@@ -5277,3 +5281,4 @@ MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
 MTMW,"Matmown, Inc. Common",U
 MTN,"Vail Resorts, Inc.",NYSE
 MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
+MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
