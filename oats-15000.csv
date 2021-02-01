@@ -1,4 +1,10 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTLS,Materialise NV American Depositary Shares,NASDAQ
+MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
+MTMW,"Matmown, Inc. Common",U
+MTN,"Vail Resorts, Inc.",NYSE
+MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
+MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
 MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
 MTNX,"MeltroniX, Inc. Common Stock",U
 MTOMF,"First Growth Funds, Ltd Ordinary Shares",U
@@ -336,12 +342,12 @@ NCTKF,Nabtesco Corp Tokyo Ordinary Shares (Japan),U
 NCTKY,Nabtesco Corp American Depositary Shares (Unsponsored) (Japan),U
 NCTW,"Nascent Wine Company, Inc. Common Stock",U
 NCTY,The9 Limited American Depository Shares,NASDAQ
-NCV,AllianzGI Convertible & Income Fund,NYSE
-NCV PRA,AllianzGI Convertible & Income Fund 5.625% Series A Cumulative Preferred Shares (Liquidation Prefere,NYSE
+NCV,Virtus AllianzGI Convertible & Income Fund,NYSE
+NCV PRA,Virtus AllianzGI Convertible & Income Fund 5.625% Series A Cumulative Preferred Shares,NYSE
 NCWAF,Nichiwa Sangyo Co Ltd Ordinary Shares,U
 NCXS,"NBC Bancorp, Inc. Common Stock",U
-NCZ,AllianzGI Convertible & Income Fund II,NYSE
-NCZ PRA,AllianzGI Convertible & Income Fund II 5.50% Series A Cumulative Preferred Shares (Liquidation Prefe,NYSE
+NCZ,Virtus AllianzGI Convertible & Income Fund II,NYSE
+NCZ PRA,Virtus AllianzGI Convertible & Income Fund II 5.50% Series A Cumulative Preferred Shares,NYSE
 NDAQ,"Nasdaq, Inc. Common Stock",NASDAQ
 NDBKF,Nedbank Group Limited Ordinary Shares (South Africa),U
 NDBKY,Nedbank Group Limited Sponsored ADR (South Africa),U
@@ -414,6 +420,7 @@ NERD,Roundhill BITKRAFT Esports & Digital Entertainment ETF,ARCA
 NERG,"NuTech Energy Resources, Inc. Common Stock",U
 NERV,"Minerva Neurosciences, Inc Common Stock",NASDAQ
 NES,"Nuverra Environmental Solutions, Inc. Common Stock",AMEX
+NESLF,NELSON RES LTD Ordinary Fully Paid (Australia),U
 NESR,National Energy Services Reunited Corp. Ordinary Shares,NASDAQ
 NESRF,Northern Star Resources Ltd Ordinary Shares (Australia),U
 NESRW,National Energy Services Reunited Corp. Warrant,NASDAQ
@@ -465,7 +472,7 @@ NFGFF,New Found Gold Corp Common Shares (Canada),U
 NFGRF,Beijingwest Inds International Ltd (Cayman Islands) Ordinary Shares,U
 NFH,New Frontier Health Corporation Ordinary Shares,NYSE
 NFH WS,"New Frontier Health Corporation Warrants, each whole warrant exercisable for one Ordinary Share at a",NYSE
-NFJ,"AllianzGI Dividend, Interest & Premium Strategy Fund",NYSE
+NFJ,"Virtus Dividend, Interest & Premium Strategy Fund",NYSE
 NFLT,Virtus Newfleet Multi-Sector Bond ETF,ARCA
 NFLX,"Netflix, Inc. Common Stock",NASDAQ
 NFONF,NFON AG NFON AG INH O N (Germany Federal Republic),U
@@ -579,7 +586,7 @@ NICRL,Nicor Inc. 5.00% Convertible Preferred Stock,U
 NICXF,Nicox Sa Eur Ord Common Shares,U
 NID,NUVEEN INTERMEDIATE DURATION MUNICIPAL TERM FUND,NYSE
 NIDB,"Northeast Indiana Bancorp, Inc. Common Stock",U
-NIE,AllianzGI Equity & Convertible Income Fund,NYSE
+NIE,Virtus AllianzGI Equity & Convertible Income Fund,NYSE
 NIFCY,Nifco Inc Ord American Depositary Shares,U
 NIFE,Direxion Fallen Knives ETF,ARCA
 NIHK,"Video River Networks, Inc. Common Stock",U
@@ -814,9 +821,6 @@ NOVKY,Novatek JT STK Co Sponsored GDR Reg S (Russia),U
 NOVN,"Novan, Inc. Common Stock",NASDAQ
 NOVNW,"Novan, Inc  Warrant 01/09/2022",U
 NOVRF,NOVA RTY CORP Common Shares,U
-NOVS,Novus Capital Corporation Common Stock,NASDAQ
-NOVSU,Novus Capital Corporation Units,NASDAQ
-NOVSW,Novus Capital Corporation Warrants,NASDAQ
 NOVT,Novanta Inc. Common Stock,NASDAQ
 NOW,"SERVICENOW, INC.",NYSE
 NOXL,Noxel Corp Common Stock,U
@@ -1147,7 +1151,7 @@ NVNT,"Novint Technologies, Inc. Common Stock",U
 NVNXF,NOVONIX LTD Ordinary Shares Australia(AU ),U
 NVO,Novo-Nordisk A/S,NYSE
 NVOOF,Novo Resources Corp Warrant Exp 08/27/2023 (Canada),U
-NVOS,"Novo Integrated Sciences, Inc. Common Stock",U
+NVOSD,"Novo Integrated Sciences, Inc. Common Stock",U
 NVPLF,Nevaro Capital Common Stock (Canada),U
 NVQ,Qraft AI-Enhanced US Next Value ETF,ARCA
 NVR,"NVR, Inc.",NYSE
@@ -1255,7 +1259,6 @@ NXN,NUVEEN NY SEL TAX-FREE INC,NYSE
 NXNN,Nexeon Medsystems Inc Common Stock,U
 NXOPF,Nexoptic Technology Corp Common Shares,U
 NXP,NUVEEN SELECT TAX-FREE INC,NYSE
-NXPCD,Tele Group Corp. Common Stock,U
 NXPGF,National Express Group plc Ordinary Shares (UK),U
 NXPGY,National Express Group plc Unsponsored ADR (United Kingdom),U
 NXPI,NXP Semiconductors N.V. Common Stock,NASDAQ
@@ -1278,6 +1281,7 @@ NXTH,"NXT Nutritionals Holdings, Inc. Common Stock",U
 NXTN,"Next10, Inc. Common Stock",U
 NXTTF,Namaste Technologies Inc Ordinary Shares (Canada) Common Shares,U
 NXTYQ,Nexity Financial Corporation Common Stock,U
+NXU U,"Novus Capital Corporation II Units, each consisting of one share of Class A common stock and one thi",NYSE
 NXXGF,Nexus Gold Corp Ordinary Shares,U
 NXXTF,Next Games Oyj Ordinary Shares (Finland),U
 NXYAF,Nexity Shs Cat -A- (France),U
@@ -2105,7 +2109,9 @@ PCOGF,Pancontinental Oil and Gas NL Ordinary Shares (Australia),U
 PCOK,"Pacific Oak Strategic Opportunity REIT, Inc. Common Shares",U
 PCOLF,Pacific Online Limited Ordinary shares (Cayman Islands),U
 PCOM,Points International Ltd. Common Shares,NASDAQ
+PCPC,Periphas Capital Partnering Corporation,NYSE
 PCPC U,"Periphas Capital Partnering Corporation CAPS, each consisting of one share of Class A common stock a",NYSE
+PCPC WS,"Periphas Capital Partnering Corporation Warrants, each whole warrant exercisable for one share of Cl",NYSE
 PCPDF,PACIFIC CENTURY PREMIUM DEVELOPMENTS LIMITED Ordinary Shares,U
 PCPJ,"PaperClip, Inc. Common Stock",U
 PCPL,CC Neuberger Principal Holdings I,NYSE
@@ -2214,7 +2220,6 @@ PEI PRB,PENNSYLVANIA REAL ESTATE INVESTMENT TRUST 7.375% Series B Cumulative Red
 PEI PRC,Pennsylvania Real Estate Investment Trust 7.20% Series C Cumulative Redeemable Perpetual Preferred S,NYSE
 PEI PRD,Pennsylvania Real Estate Investment Trust 6.875% Series D Cumulative Redeemable Perpetual Preferred,NYSE
 PEIMF,Pepinnini Minerals Ltd Ordinary Shares (Australia),U
-PEIX,"Alto Ingredients, Inc. Common Stock",NASDAQ
 PEJ,Invesco Dynamic Leisure and Entertainment ETF,ARCA
 PEMC,Pacific Energy & Mining Co New Common Stock,U
 PEMIF,Pure Energy Minerals Ltd. Ordinary Shares,U
@@ -2237,7 +2242,7 @@ PETFF,PTT PUBLIC COMPANY LIMITED Ordinary Shares,U
 PETQ,"PetIQ, Inc. Class A Common Stock",NASDAQ
 PETRY,Petrobras Distribuidora American Depositary Receipts - Unsponsored (Brazil),U
 PETS,"PetMed Express, Inc. Common Stock",NASDAQ
-PETVD,PetVivo Holdings Inc. Common Stock,U
+PETV,PetVivo Holdings Inc. Common Stock,U
 PETZ,"TDH Holdings, Inc. Common Shares",NASDAQ
 PEX,ProShares Global Listed Private Equity ETF,BATS
 PEXL,Pacer US Export Leaders ETF,ARCA
@@ -3701,6 +3706,7 @@ RBTI,"Red Branch Technologies, Inc. Common Stock",U
 RBTK,Zhen Ding Resources Inc.  Common Stock,U
 RBUS,Nationwide Risk-Based U.S. Equity ETF,ARCA
 RBWNY,Royal Boskalis Westminster NV American Depositary Share (Unsponsored)(Netherlands),U
+RBWRF,RAINBOW RARE EARTHS LTD SHS (Guernsey),U
 RBYC,Ruby Creek Resources Inc. (NV) Common Stock,U
 RBZHF,Reebonz Holding Limited Ordinary Shares,U
 RBZWF,Reebonz Hldg Ltd Warrant   12/19/2023,U
@@ -4200,6 +4206,7 @@ RNP,"Cohen & Steers REIT and Preferred and Income Fund, Inc.",NYSE
 RNR,RenaissanceRe Holdings Ltd.,NYSE
 RNR PRE,RENAISSANCERE HOLDINGS LTD 5.375% SER E,NYSE
 RNR PRF,"RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Se",NYSE
+RNRG,Global X Funds Global X Renewable Energy Producers ETF,NASDAQ
 RNRRF,Exploits Discovery Corp. Ordinary Shares,U
 RNRTF,Reunert Ltd Ordinary Shares (South Africa),U
 RNRTY,Reunert Ltd Unsponsored ADR (South Africa),U
@@ -4858,6 +4865,7 @@ SCSC,"ScanSource, Inc. Common Stock",NASDAQ
 SCSG,"SouthCrest Financial Group, Inc. Common Stock",U
 SCSHF,Scottish Oriental Smaller Companies Trust Plc Shs (United Kingdom),U
 SCSKF,SCSK Corp Ordinary Shares (Japan),U
+SCSYF,SSH Communications Security OYJ SHS (Finland),U
 SCTBF,Securitas A B Ordinary Shares SHS-B-,U
 SCTBY,Securitas A B Unsponsored ADR representing B Shares (Sweden),U
 SCTC,SCOUTCAM INC Common Stock,U
@@ -4974,7 +4982,6 @@ SEEMF,Seeing Machines Ltd Ordinary Shares (Australia),U
 SEER,"Seer, Inc. Class A Common Stock",NASDAQ
 SEF,ProShares Short Financials,ARCA
 SEGI,"Sycamore Entertainment Group, Inc. Common Stock",U
-SEGR,"Southeastern Grocers, Inc.",NYSE
 SEGSF,Sia Engineering Company Ltd Ordinary Shares,U
 SEGSY,Sia Engineering Company Ltd Unsponsored ADR (Singapore),U
 SEGXF,Segro PLC REIT Ordinary Shares,U
@@ -5278,7 +5285,3 @@ SHMP,NaturalShrimp Incorporated Common Stock,U
 SHMSY,Shimao Services Holdings Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
-SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
-SHMZF,Shimadzu Corp Ordinary Shares,U
-SHNL,"Shentang International, Inc. Common Stock",U
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U

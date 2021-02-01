@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
+SHMZF,Shimadzu Corp Ordinary Shares,U
+SHNL,"Shentang International, Inc. Common Stock",U
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
 SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
@@ -147,7 +151,6 @@ SITOQ,SITO MOBILE LTD Common Stock,U
 SITS,Southern ITS International Inc. Common Stock,U
 SIUAF,Stabilus SA Shs (Luxembourg LU),U
 SIUDF,Shanghai Industrial Urban Development Group Ltd. Ordinary Shares (Bermuda),U
-SIUIF,Semiconductor  Manufacturing International Corporation Common Shares,U
 SIVB,SVB Financial Group Common Stock,NASDAQ
 SIVBP,"SVB Financial Group Depositary Shs each representing a 1/40th interest in a share of 5.25% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ
 SIVE,Silver Verde May Mng Co Unclassified,U
@@ -410,7 +413,6 @@ SMHB,ETRACS 2xMonthly Pay Leveraged US Small Cap High Dividend ETN Series B,ARCA
 SMHGF,SIMCERE PHARMACEUTICAL GROUP LTD Ordinary Shares Public Company Limited by Shares 2313239 (Hong Kong),U
 SMHI,SEACOR Marine Holdings Inc. Common Stock,NYSE
 SMHRY,Smoore Intl Hldgs Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
-SMICY,Semiconductor Manufacturing International Corporation American Depositary Receipts - Sponsored (Cayman Islands),U
 SMID,Smith-Midland Corporation Common Stock,NASDAQ
 SMIN,iShares MSCI India Small-Cap ETF,BATS
 SMIRF,SEMIRARA MINING & POWER CORP Ordinary Shares Philippines(PH ),U
@@ -593,7 +595,9 @@ SNPXF,SNP Schneider Neureither & Partner AG Ordinary Shares (Germany),U
 SNR,NEW SENIOR INVESTMENT GROUP INC.,NYSE
 SNRAF,Tisdale Resources Corp Ordinary Shares,U
 SNRG,Susglobal Energy Corp Common Stock,U
+SNRH,Senior Connect Acquisition Corp. I Class A Common Stock,NASDAQ
 SNRHU,Senior Connect Acquisition Corp. I Unit,NASDAQ
+SNRHW,Senior Connect Acquisition Corp. I Warrant,NASDAQ
 SNROF,Sanrio Co Ltd Ordinary Shares,U
 SNRR,Super Nova Resources Inc  Common Stock,U
 SNRS,Sunrise Consulting Group Inc Common Stock,U
@@ -2323,6 +2327,7 @@ TMIN,Trendmaker Inc Limited Common Stock,U
 TMIX,"Tarsin Mobile, Inc. Common Stock",U
 TMKRU,Tastemaker Acquisition Corp. Unit,NASDAQ
 TMKUF,"Tomoku Co Ltd, SHS (Japan)",U
+TMLL,Tele Group Corp. Common Stock,U
 TMLVF,Tamerlane Ventures Inc Common Shares (Canada),U
 TMMFF,TMAC Res Inc Ordinary Shares (Canada),U
 TMMI,T M M Inc New Common Stock,U
@@ -4316,6 +4321,7 @@ WFC PRZ,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th 
 WFCF,"Where Food Comes From, Inc. Common Stock",U
 WFCL,1867 Westn Finl Corp Common Stock (United States),U
 WFCNP,Wells Fargo & Company Dividend Equalization Preferred Stock,U
+WFG,West Fraser Timber Co. Ltd,NYSE
 WFGCF,ENTHEOS CAP CORP Ordinary Shares,U
 WFH,Direxion Work From Home ETF,ARCA
 WFHG,World Financial Holding Group Common Stock,U
@@ -4325,7 +4331,6 @@ WFIG,WisdomTree U.S. Corporate Bond Fund,BATS
 WFPCF,Schroder UK Pub Private Tr PLC Ordinary Shares,U
 WFRSF,West African Resources Limited,U
 WFSTF,Western Forest Products Inc Common Shares (Canada),U
-WFTBF,West Fraser Timber Ltd Ordinary Shares,U
 WFTLF,Weatherford International PLC Ordinary Shares New (Ireland),U
 WFTSF,"Wavefront Technology Solutions, Inc.  Ordinary Shares (Canada)",U
 WFTUF,Weatherford International PLC Warrants Expiring 12/13/2023,U
@@ -4605,8 +4610,8 @@ WSFGQ,"WSB Financial Group, Inc. Common Stock",U
 WSFL,"Woodstock Holdings, Inc. Common Stock",U
 WSFS,WSFS Financial Corporation Common Stock,NASDAQ
 WSFT,Wikisoft Corp. Common Stock,U
-WSG,Wanda Sports Group Company Limited American Depositary Shares,NASDAQ
 WSGF,"World Series of Golf, Inc. Common Stock",U
+WSHAP,WASHINGTON FED INC DEPOSITARY SHS REPSTG 1/40th PERP PFD SER A,U
 WSHE,GreenLink International Inc. Common Stock,U
 WSIOF,Wasion Holdings Ltd Ordinary Shares (Cayman Islands),U
 WSKEF,Wisekey International Holdings Ltd. Ordinary Shares (Switzerland),U
@@ -5000,7 +5005,6 @@ YJGJ,Yijia Group Corp. Common Stock,U
 YKLTF,Yakult Honsha Co Ltd Ordinary Shares (Japan),U
 YKLTY,Yakult Honsha Co Ltd American Depositary Shares (Japan),U
 YKYOF,Yorkey Optical International Cayman Ltd Ordinary Shares (Cayman Islands),U
-YLCO,Global X Funds Global X YieldCo & Renewable Energy Income ETF,NASDAQ
 YLD,Principal Active Income ETF,ARCA
 YLDE,Legg Mason ETF Investment Trust ClearBridge Dividend Strategy ESG ETF,NASDAQ
 YLDGF,Yanlord Land Group Ltd Ordinary Shares (Singapore),U

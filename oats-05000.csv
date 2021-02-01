@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
@@ -401,7 +404,9 @@ CTAGF,Capita Group Plc Ordinary Shares,U
 CTAGY,Capita Plc Unsponsored ADR (UK),U
 CTAIF,CP Lotus Corporation Ordinary Shares (Cayman Islands),U
 CTAM,CASTLE A M & CO Common Stock,U
+CTAQ,Carney Technology Acquisition Corp. II Class A Common Stock,NASDAQ
 CTAQU,Carney Technology Acquisition Corp. II Units,NASDAQ
+CTAQW,Carney Technology Acquisition Corp. II Warrant,NASDAQ
 CTARF,CENTAURUS ENERGY INC Common Shares,U
 CTAS,Cintas Corporation Common Stock,NASDAQ
 CTAUF,CHINA TIANRUI AUTOMOTIVE INTERIORS CO LTD HKD SHS (Caymen Islands),U
@@ -449,7 +454,7 @@ CTNGY,Costain Group PLC American Depositary Receipts - Unsponsored (United Kingd
 CTNI,Citron Inc Common Stock,U
 CTNR,Central Natural Resources Inc Common Stock,U
 CTNXF,Cornerstone Cap Res Inc (Canada) Common Shares,U
-CTO,"CTO Realty Growth, Inc.",AMEX
+CTO,"CTO Realty Growth, Inc.",NYSE
 CTOBF,China Tob Intl Hk Co Ltd Ordinary Shares  (Hong Kong),U
 CTOHF,Citigold Corp Ltd Ordinary Shares (Australia),U
 CTON,"Second Street Capital, Inc. Common Stock",U
@@ -618,7 +623,6 @@ CWBC,Community West Bancshares Common Stock,NASDAQ
 CWBHF,Charlottes Web Hldgs Inc  (Canada) Common Shares,U
 CWBK,CW Bancorp Common Stock,U
 CWBR,"CohBar, Inc. Common Stock",NASDAQ
-CWCHF,Cawachi Ltd Ordinary Shares (Japan),U
 CWCO,Consolidated Water Co. Ltd. Ordinary Shares,NASDAQ
 CWEB,Direxion Daily CSI China Internet Index Bull 2X Shares,ARCA
 CWEGF,Crew Energy Inc Common Shares (Canada),U
@@ -888,7 +892,7 @@ DCNSF,"Dai-Ichi Life Insurance Co., Ltd Ordinary Shares (Japan)",U
 DCO,Ducommun Incorporated,NYSE
 DCOHF,Dickson Concepts Intl Ltd Hk.3 Ordinary Shares,U
 DCOM,"Dime Community Bancshares, Inc. Common Stock",NASDAQ
-DCOMP,"Dime Community Bancshares, Inc. 5.50% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ
+DCOMP,"Dime Community Bancshares, Inc. Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ
 DCP,"DCP Midstream, LP",NYSE
 DCP PRB,"DCP Midstream, LP 7.875% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred U",NYSE
 DCP PRC,"DCP Midstream, LP 7.95% Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Un",NYSE
@@ -961,6 +965,7 @@ DELTF,Delta Galil Industries Ltd. Ordinary Shares,U
 DEM,WisdomTree Emerging Markets High Dividend Fund,ARCA
 DEMEF,De Mem Limited Ordinary Shares (Australia),U
 DEMO,"Democrasoft, Holdings Inc. Common Stock",U
+DEMWF,WISDOMTREE ISSUER ICAV PTG.SHS ETF (Ireland),U
 DEMZ,The Advisors' Inner Circle Fund III DEMZ Political Contributions ETF,NASDAQ
 DEN,Denbury Inc.,NYSE
 DENI,Denali Bancorp Inc Common Stock,U
@@ -1084,6 +1089,7 @@ DHCC,Diamondhead Casino Corporation Common Stock,U
 DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,NASDAQ
 DHCNL,Diversified Healthcare Trust 6.25% Senior Notes Due 2046,NASDAQ
 DHF,BNY Mellon High Yield Strategies Fund,NYSE
+DHGAF,DOMAIN HLDGS AUSTRALIA LTD Ordinary Fully Paid (Australia),U
 DHHCU,DiamondHead Holdings Corp. Unit,NASDAQ
 DHHXF,Desarrolladora Homex SA de CV Ordinary Shares (Mexico),U
 DHI,D.R. Horton Inc.,NYSE
@@ -2971,7 +2977,6 @@ FBIZ,"First Business Financial Services, Inc. Common Stock",NASDAQ
 FBK,FB Financial Corporation,NYSE
 FBLQ,"Football Equities, Inc. Common Stock",U
 FBLV,First Bancorp Inc Lebanon VA CDT-CAP STK,U
-FBM,"Foundation Building Materials, Inc. Common Stock",NYSE
 FBMCF,Buffalo Coal Corp. Ordinary Shares (Canada),U
 FBMS,"First Bancshares, Inc.",NASDAQ
 FBNC,First Bancorp Common Stock,NASDAQ
@@ -3118,6 +3123,7 @@ FDVV,Fidelity High Dividend ETF,ARCA
 FDVXF,FENIXORO GOLD CORP Common Shares,U
 FDX,FedEx Corporation,NYSE
 FE,FirstEnergy Corp.,NYSE
+FEBZ,TrueShares Structured Outcome (February) ETF,BATS
 FECCF,Frontera Energy Corp Ordinary Shares,U
 FECHF,Fidelity China Special Situations PLC Ordinary Shares (United Kingdom),U
 FECOF,FEC Resources Inc. Ordinary Shares (Canada),U
@@ -4498,7 +4504,9 @@ GHRI,"Goliath Resources, Inc. Common Stock",U
 GHSI,"Guardion Health Sciences, Inc. Common Stock",NASDAQ
 GHST,"Ghost Technology, Inc. Common Stock",U
 GHTI,"G-H-3 International, Inc. Common Stock",U
+GHVI,"Gores Holdings VI, Inc. Class A Common Stock",NASDAQ
 GHVIU,"Gores Holdings VI, Inc. Unit",NASDAQ
+GHVIW,"Gores Holdings VI, Inc. Warrant",NASDAQ
 GHVNF,GoldHaven Resources Corp Common Shares,U
 GHY,"PGIM Global High Yield Fund, Inc.",NYSE
 GHYB,Goldman Sachs Access High Yield Corporate Bond ETF,ARCA
@@ -5190,7 +5198,7 @@ GTIP,Goldman Sachs Access Inflation Protected USD Bond ETF,BATS
 GTKP,Gatekeeper USA Inc New Common Shares,U
 GTLA,GT Legend Automotive Holdings Inc  Common Stock,U
 GTLL,"Global Technologies, Ltd. Global Technologies Ltd",U
-GTLS,"Chart Industries, Inc. Common Stock",NASDAQ
+GTLS,"Chart Industries, Inc.",NYSE
 GTMAF,GRUPO TMM SA SHS -A- (Mexico),U
 GTMAY,Grupo TMM S.A. American Depositary Shares,U
 GTMEF,Globe Telecom Inc Ordinary Shares (Phillippines),U
@@ -5278,7 +5286,3 @@ GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U

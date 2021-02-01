@@ -8,6 +8,7 @@ AAALY,Aareal Bank AG Unsponsored American Depository Receipt (Germany),U
 AAAU,Goldman Sachs Physical Gold ETF Shares,ARCA
 AABB,Asia Broadband Inc Common Stock,U
 AABVF,Aberdeen International Inc Ordinary Shares,U
+AAC U,"Ares Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-fifth of",NYSE
 AACAF,AAC Technologies Holdings Inc Ordinary Shares (Cayman Islands),U
 AACAY,AAC Technologies Holdings Inc Unsponsored ADR (Cayman Islands),U
 AACG,ATA Creativity Global American Depositary Shares,NASDAQ
@@ -284,7 +285,7 @@ ACUCF,ACUCORT AB Ordinary Shares,U
 ACUIF,AcuityAds Hldgs Inc Ordinary Shares (Canada),U
 ACUR,ACURA PHARMACEUTICALS INC Common Stock,U
 ACUS,"Acusphere, Inc. (NEW) Common Stock",U
-ACV,AllianzGI Diversified Income & Convertible Fund Common Shares of Beneficial Interest With Par Value,NYSE
+ACV,Virtus AllianzGI Diversified Income & Convertible Fund,NYSE
 ACVF,American Conservative Values ETF,ARCA
 ACWEF,SSGA SPDR ETFS EUROPE I PLC ACCUM SHS EXCHANGE TRADED FUND USD (Ireland),U
 ACWF,iShares MSCI Global Multifactor ETF,ARCA
@@ -366,6 +367,7 @@ ADPPF,ADO PPTYS S A Ordinary Shares (Luxembourg),U
 ADPT,Adaptive Biotechnologies Corporation Common Stock,NASDAQ
 ADPXF,Audio Pixels Holdings Ltd Ordinary Shares (Australia),U
 ADPXY,Audio Pixels Holdings Ltd Sponsored ADR (Australia),U
+ADRA U,"Adara Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of",AMEX
 ADRE,Invesco BLDRS Emerging Markets 50 ADR Index Fund,NASDAQ
 ADRNY,Koninklijke Ahold Delhaize N.V. American Depositary Receipts - Sponsored,U
 ADRZF,Andritz Ag Graz Ordinary Shares,U
@@ -567,7 +569,6 @@ AGD,Aberdeen Global Dynamic Dividend Fund,NYSE
 AGDXF,Antioquia Gold Inc Ordinary Shares (Canada),U
 AGDY,Agri-Dynamics Inc Common Stock,U
 AGE,"AgeX Therapeutics, Inc.",AMEX
-AGEEF,HALO COLLECTIVE INC Ordinary Shares,U
 AGEN,Agenus Inc. Common Stock,NASDAQ
 AGESF,Ageas NV Ordinary Shares (Belgium),U
 AGESY,Ageas Sponsored ADR (Belgium),U
@@ -760,7 +761,7 @@ AINC,Ashford Inc.,AMEX
 AINPF,Ain Pharmaciez Inc Sapporo Ordinary Shares (Japan),U
 AINSF,Ainsworth Game Technology Ltd Shs (Australia),U
 AINV,Apollo Investment Corporation Common Stock,NASDAQ
-AIO,AllianzGI Artificial Intelligence & Technology Opportunities Fund,NYSE
+AIO,Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund,NYSE
 AIOM,"Axiom Holdings, Inc. Common Stock",U
 AIOSF,Atresmedia Corporacion De Medios De Comunicacion SA Ordinary Shares (Spain),U
 AIPG,AI TECHNOLOGY GROUP INC Common Stock,U
@@ -999,6 +1000,7 @@ ALTHF,Altech Chemicals Ltd. Ordinary Shares (Australia),U
 ALTL,Pacer Lunt Large Cap Alternator ETF,ARCA
 ALTM,Altus Midstream Company Class A Common Stock,NASDAQ
 ALTMW,Altus Midstream Company Warrant Exp 06/30/2022,U
+ALTO,"Alto Ingredients, Inc. Common Stock",NASDAQ
 ALTPF,Altiplano Metals Inc Ordinary Shares,U
 ALTR,Altair Engineering Inc. Class A Common Stock,NASDAQ
 ALTS,ProShares Morningstar Alternatives Solution ETF,BATS
@@ -1344,6 +1346,7 @@ APEOF,Growmax Res Corp Common Shares,U
 APEUF,Atlas Engineered Products Ltd. Common Shares,U
 APEX,APEX GLOBAL BRANDS INC Common Stock,U
 APG,APi Group Corporation,NYSE
+APGEF,APPLEGREEN PLC SHS (Ireland),U
 APGI,American Power Group Corp. Common Stock,U
 APGMF,Applied Graphene Matls PLC Ordinary Shares (United Kingdom),U
 APGOF,Apollo Gold & Silver Corp Common Shares,U
@@ -1385,6 +1388,8 @@ APPCF,APAC RESOURCES LTD Ordinary Shares,U
 APPDW,APPLIED DNA SCIENCES INC WT EXP 11/15/2024,U
 APPEF,Appen Ltd Common Shares,U
 APPF,"AppFolio, Inc. Class A Common Stock",NASDAQ
+APPH,"AppHarvest, Inc. Common Stock",NASDAQ
+APPHW,"AppHarvest, Inc. Warrants",NASDAQ
 APPM,"Apparel Manufacturing Associates, Inc. Common Stock",U
 APPN,Appian Corporation Class A Common Stock,NASDAQ
 APPS,"Digital Turbine, Inc. Common Stock",NASDAQ
@@ -1892,7 +1897,6 @@ ATURF,Sixth Wave Innovations Inc Ordinary Shares,U
 ATUS,"Altice USA, Inc. Class A Common Stock",NYSE
 ATUSF,Altius Minerals Corp Ordinary Shares (Canada),U
 ATUUF,Altura Energy Inc Ordinary Shares (Canada),U
-ATV,"Acorn International, Inc",NYSE
 ATVDY,Atresmedia Corporacion De Medios De Comunicacion  American Depositary Receipts - Unsponsored,U
 ATVI,"Activision Blizzard, Inc. Common Stock",NASDAQ
 ATVK,Ameritek Ventures Common Stock,U
@@ -2289,7 +2293,6 @@ BATRK,Liberty Media Corporation Series C Liberty Braves Common Stock,NASDAQ
 BATT,Amplify Lithium & Battery Technology ETF,ARCA
 BAUG,Innovator S&P 500 Buffer ETF - August,BATS
 BAX,Baxter International Inc.,NYSE
-BAYK,Bay Banks Of Virginia Inc Common Stock,U
 BAYN,Bay National Corporation,U
 BAYPD,"Bayport International Holdings, Inc. Common Stock",U
 BAYRY,Bayer Aktiengesellschaft American Depositary Shares (Each repstg one Bayer AG ordinary share of no par value),U
@@ -2463,7 +2466,6 @@ BDDXF,"DB Base Metals Double Long Exchange Traded Notes due June 1, 2038 (German
 BDEC,Innovator S&P 500 Buffer ETF - December,BATS
 BDFH,Four G Holdings Corporation Common Stock,U
 BDGCF,Black Dragon Gold Corp Chess Depositary Interests (Canada),U
-BDGE,"Bridge Bancorp, Inc. Common Stock",NASDAQ
 BDGR,"Black Dragon Resource Companies, Inc. Common Stock",U
 BDGSF,Bank of Ga Group Plc Ordinary Shares,U
 BDGXF,Bertrandt AG (Germany),U
@@ -3362,7 +3364,7 @@ BRVDF,BRAVIDA HLDG AB Ordinary Shares,U
 BRVFY,Lastminute.com NV American Depositary Receipts - Unsponsored,U
 BRVO,Bravo Multinational Incorporated Common Stock,U
 BRVRF,"Blue River Resources, Ltd. Ordinary Shares (Canada)",U
-BRVVF,Quantum Cobalt Corp Ordinary Shares,U
+BRVVD,Quantum Cobalt Corp Ordinary Shares,U
 BRX,BRIXMOR PROPERTY GROUP INC.,NYSE
 BRY,Berry Corporation (bry) Common Stock,NASDAQ
 BRYAF,Berjaya Corporation BHD Ordinary shares (Malaysia),U
@@ -3424,6 +3426,7 @@ BSJS,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco BulletShares 2028 H
 BSKZF,Bambuser AB Common Stock (Sweden),U
 BSL,Blackstone Senior Floating Rate Term Fund,NYSE
 BSM,"Black Stone Minerals, L.P.",NYSE
+BSMAF,Bursa Malaysia BHD SHS (Malaysia),U
 BSML,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco BulletShares 2021 Municipal Bond ETF,NASDAQ
 BSMM,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco BulletShares 2022 Municipal Bond ETF,NASDAQ
 BSMN,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco BulletShares 2023 Municipal Bond ETF,NASDAQ
@@ -3871,7 +3874,9 @@ CAXPF,District Copper Corp Common Shares,U
 CAZGF,Catapult Group International Ltd Ordinary Shares (Australia),U
 CB,Chubb Limited,NYSE
 CBAF,CITBA Financial Corporation Common Stock,U
+CBAH,"CBRE Acquisition Holdings, Inc.",NYSE
 CBAH U,"CBRE Acquisition Holdings, Inc. SAIL securities, each consisting of one share of Class A common stoc",NYSE
+CBAH WS,"CBRE Acquisition Holdings, Inc. Warrants, each whole warrant exercisable for one share of Class A co",NYSE
 CBAN,"Colony Bankcorp, Inc. Common Stock",NASDAQ
 CBAOF,CIBanco SA CTF Bursatiles Fiduciarios Inmobiliario Series 13 (Mexico),U
 CBAT,"CBAK Energy Technology, Inc. Common Stock",NASDAQ
@@ -3899,6 +3904,7 @@ CBDC,"Apotheca Biosciences, Inc. Common Stock",U
 CBDD,"CBD of Denver, Inc. Common Stock",U
 CBDEF,BLUENRGY GROUP LTD Ordinary Shares,U
 CBDG,"THC Farmaceuticals, Inc Common Stock",U
+CBDHF,HEMPFUSION WELLNESS INC COM (Canada),U
 CBDL,CBD Life Sciences Inc. Common Stock,U
 CBDNF,CBD Global Sciences Inc Common Shares (Canada),U
 CBDS,"Cannabis Sativa, Inc. Common Stock",U
@@ -3916,7 +3922,7 @@ CBGL,"Cannabis Global, Inc. Common Stock",U
 CBGPF,Close Brothers Group PLC Ord Ordinary Shares (United Kingdom),U
 CBGPY,Close Brothers Group 25 P Ord Unsponsored ADR (United Kingdom),U
 CBGZF,Cabral Gold Inc. Ordinary Shares,U
-CBH,AllianzGI Convertible & Income 2024 Target Term Fund,NYSE
+CBH,Virtus AllianzGI Convertible & Income 2024 Target Term Fund,NYSE
 CBHC,CBC Holding Company Common Stock,U
 CBHR,"California Beach Restaurants, Inc. Common Stock",U
 CBIA,"Canopus Biopharma, Inc. Common Stock",U
@@ -3995,7 +4001,6 @@ CCB,Coastal Financial Corporation Common Stock,NASDAQ
 CCBC,Chino Commercial Bancorp (CA) Common Stock,U
 CCBG,Capital City Bank Group Common Stock,NASDAQ
 CCBK,Columbus Cmnty Bk GA Common Stock,U
-CCC,Clarivate Plc,NYSE
 CCCC,"C4 Therapeutics, Inc. Common Stock",NASDAQ
 CCCHF,CITY CHIC COLLECTIVE LTD Ordinary Shares  Australia(AU ),U
 CCCI,"China Cable & Communication, Inc. Common Stock",U
@@ -4853,6 +4858,7 @@ CLVR,Clever Leaves Holdings Inc. Common Shares,NASDAQ
 CLVRW,Clever Leaves Holdings Inc. Warrant,NASDAQ
 CLVS,"Clovis Oncology, Inc. Common Stock",NASDAQ
 CLVSF,Cellavision AB Foreign Ordinary Shares,U
+CLVT,Clarivate Plc,NYSE
 CLW,Clearwater Paper Corporation,NYSE
 CLWA,"CallWave, Inc. New Common Stock",U
 CLWD,"CloudCommerce, Inc. Common Stock",U
@@ -5193,6 +5199,7 @@ COGNY,COGNA EDUCACAO S A American Depositary Receipts - Sponsored,U
 COGQF,Chongqing Rural Commercial bank Co Ltd SHS -H - (China),U
 COGT,"Cogent Biosciences, Inc. Common Stock",NASDAQ
 COGV,"Cognitiv, Inc. Common Stock",U
+COGXF,COINIX GMBH & CO KGAA Common Shares (Germany Federal Republic),U
 COGZF,Cogstate Ltd. Ordinary Shares (Australia),U
 COHG,Cheetah Oil & Gas Ltd. NEW Common Stock,U
 COHN,Cohen & Company Inc,AMEX
@@ -5279,6 +5286,3 @@ COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ
