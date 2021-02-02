@@ -138,6 +138,7 @@ HAYPY,Hays Plc Ord Unsponsored ADR (United Kingdom),U
 HAZAF,Hazama Ando Corp Ordinary Shares (Japan),U
 HAZH,"Haz Holdings, Inc. Common Stock",U
 HBAN,Huntington Bancshares Incorporated Common Stock,NASDAQ
+HBANL,Huntington Bancshares Inc Depositary Shares Rep 1/40th Perp Pfd Ser H,U
 HBANN,Huntington Bancshares Incorporated Depositary Shares each representing a 1/40th interest in a share of 5.875% Series C Non-Cumulative Perpetual Preferred Stock,NASDAQ
 HBANO,Huntington Bancshares Incorporated Depositary Shares,NASDAQ
 HBAUF,Hornbach Baumarkt Ag Dm Ordinary Shares (Germany),U
@@ -523,6 +524,7 @@ HLVTY,Helvetia Holding AG American Depositary Receipts - Unsponsored (Switzerlan
 HLWD,Almost Never Films Inc. Common Stock,U
 HLX,"Helix Energy Solutions Group, Inc.",NYSE
 HLXA,Helix Acquisition Corp. Class A Ordinary Shares,NASDAQ
+HLXFF,Hi-Lex Corporation Ordinary Shares (Japan),U
 HLXW,"Helix Wind, Corp. Common Stock",U
 HLYK,HealthLynked Corp. Common Stock,U
 HMAGF,HOME24 AG Ordinary Shares  Germany Federal Republic(DE ),U
@@ -1287,7 +1289,6 @@ IESC,"IES Holdings, Inc. Common Stock",NASDAQ
 IESCF,"Intercept Energy Services, Inc. Common Shares",U
 IESFY,Interconexion Electrica SA ESP Sponsored ADR (Colombia),U
 IETC,iShares Evolved U.S. Technology ETF,BATS
-IETMF,ISHARES PLC Exchange Traded Fund,U
 IEUR,iShares Core MSCI Europe ETF,ARCA
 IEUS,iShares MSCI Europe Small-Cap ETF,NASDAQ
 IEV,iShares Europe ETF,ARCA
@@ -2705,6 +2706,7 @@ JWN,"Nordstrom, Inc.",NYSE
 JWS,Jaws Acquisition Corp.,NYSE
 JWS U,"Jaws Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one red",NYSE
 JWS WS,"Jaws Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary",NYSE
+JWSM U,"Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth",NYSE
 JXFGF,JINXIN FERTILITY GROUP LTD Ordinary Shares Cayman Islands(KY ),U
 JXHGF,"JX Holdings Inc., Tokyo Ordinary Shares (Japan)",U
 JXHLY,Eneos Holdings Inc American Depositary Receipts - Unsponsored,U
@@ -3402,7 +3404,6 @@ LCAP,Lionheart Acquisition Corp. II Class A Common Stock,NASDAQ
 LCAPU,Lionheart Acquisition Corp. II Unit,NASDAQ
 LCAPW,Lionheart Acquisition Corp. II Warrant,NASDAQ
 LCAR,"Lescarden, Inc. Common Stock",U
-LCCEF,Leaf Clean Energy Company Ordinary Shares (Cayman islands),U
 LCCTF,"L'Occitane, Luxembourg Ordinary Shares (Luxembourg)",U
 LCCTY,"L'Occitane, INTL SA American Depositary Receipt (Unsponsored)(Luxembourg)",U
 LCDX,CALIBER IMAGING & DIAGNOSTICS INC Common Stock,U
@@ -3685,7 +3686,7 @@ LLIT,Lianluo Smart Limited Class A Common Stock,NASDAQ
 LLKKF,Lake Resources N.L. Ordinary Shares (Australia),U
 LLLI,Lamperd Less Lethal Inc. Common Stock,U
 LLND,Landmark Land Co Inc Common Stock,U
-LLNKF,LiteLink Technologies Inc.  Common Shares   (Canada),U
+LLNKD,LiteLink Technologies Inc. (Canada) Common Shares,U
 LLNW,"Limelight Networks, Inc. Common Stock",NASDAQ
 LLNXF,Link Linux Inc Ordinary Shares (Canada),U
 LLOBF,Lloyds Banking Group Plc Pref Shs Non Cum 9.25% (United Kingdom),U
@@ -4541,7 +4542,6 @@ MGLQF,Magna Gold Corp Common Shares (Canada),U
 MGLUY,Magazine Luiza American Depositary Receipts - Unsponsored,U
 MGM,MGM RESORTS INTERNATIONAL,NYSE
 MGMA,"Metro Global Media, Inc. Common Stock",U
-MGMB,MGM Holdings Inc Class A Voting,U
 MGMGF,MEGA MANUNGGAL PPTY TBK PT Ordinary Shares,U
 MGMLF,Maple Gold Mines Ltd Common Shares,U
 MGMT,Ballast Small/Mid Cap ETF,ARCA
@@ -4728,7 +4728,6 @@ MKNGF,MKANGO RES LTD Common Shares,U
 MKRIF,Melkior Resources Inc Ordinary Shares,U
 MKRMF,Merkur Holding Ag Reg Ordinary Shares,U
 MKRO,"Monkey Rock Group, Inc. Common Stock",U
-MKRS,Mikros Systems Corporation Common Stock,U
 MKRYF,"Manitok Energy, Inc Ordinary Shares (Canada)",U
 MKSEF,"Marksmen Energy, Inc. Ordinary Shares (Canada)",U
 MKSI,"MKS Instruments, Inc. Common Stock",NASDAQ
@@ -5245,6 +5244,7 @@ MT,ArcelorMittal,NYSE
 MTA,Metalla Royalty & Streaming Ltd.,AMEX
 MTACU,MedTech Acquisition Corporation Unit,NASDAQ
 MTAGF,Ceconomy AG Ordinary Shares,U
+MTALF,METALLICA METALS CORP Ordinary Shares,U
 MTB,M&T Bank Corp.,NYSE
 MTBC,"MTBC, Inc. Common Stock",NASDAQ
 MTBCP,"MTBC, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
@@ -5267,6 +5267,7 @@ MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
 MTG,MGIC Investment Corp.,NYSE
+MTGBF,Modern Times Group Mtg AB Rights Exp 02/10/2021 (Sweden),U
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA

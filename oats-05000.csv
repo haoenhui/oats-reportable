@@ -55,7 +55,6 @@ CPPBY,Central Pattana Public Company Ltd Unsponsored ADR (Thailand),U
 CPPCY,CP All Pub Co Ltd Unsponsored ADR (Thailand),U
 CPPKF,COPPERBANK RES CORP  Ordinary Shares,U
 CPPMF,Copper Mtn Mng Corp Common shares (Canada),U
-CPPRQ,OLD COPPER CO INC Common Stock,U
 CPPSF,Cassiopea SPA Ordinary Shares (Italy),U
 CPPTF,Circle Property Plc Shs (Jersey),U
 CPPXF,Continental Energy Corporation Ordinary Shares (Canada),U
@@ -186,7 +185,7 @@ CRLKP,Central Parking Financial Trust 5.25% Convertible Preferred Stock,U
 CRLWF,Cresco Labs Inc Warrant Pur Com Sub Vtg Exp 09/24/2022 (Canada),U
 CRM,"salesforce.com, inc.",NYSE
 CRMBQ,"Crumbs Bake Shop, Inc. Common Stock",U
-CRMD,CorMedix Inc.,AMEX
+CRMD,CorMedix Inc. Common Stock,NASDAQ
 CRMK,Cermetek Microelectronics Inc Unclassified,U
 CRMLF,Clear Media Limited Ordinary Shares (Bermuda),U
 CRMLY,CHINA RES MIXC LIFESTYLE SVCS LTD American Depositary Receipts - Unsponsored,U
@@ -251,7 +250,6 @@ CRTX,"Cortexyme, Inc. Common Stock",NASDAQ
 CRU U,"Crucible Acquisition Corporation Units, each consisting of one share of Class A common stock and one",NYSE
 CRUCF,Colibri Resource Corp Common Shares,U
 CRUS,"Cirrus Logic, Inc. Common Stock",NASDAQ
-CRUUF,METALLICA METALS CORP Ordinary Shares,U
 CRVH,Chilco River Holdings Inc. Common Stock,U
 CRVL,CorVel Corp. Common Stock,NASDAQ
 CRVS,"Corvus Pharmaceuticals, Inc. Common Stock",NASDAQ
@@ -527,7 +525,8 @@ CUBXF,CubicFarm Systems Corporation Common Shares (Canada),U
 CUCSF,China Communications Service Ordinary Shares -H-,U
 CUCSY,China Communications Service Unsponsored ADR representing H Shares  (China),U
 CUE,"Cue Biopharma, Inc. Common Stock",NASDAQ
-CUEN,Cuentas Inc. Common Stock,U
+CUEN,"Cuentas, Inc. Common Stock",NASDAQ
+CUENW,"Cuentas, Inc. Warrant",NASDAQ
 CUEYF,Cue Energy Resources Ltd Ordinary Shares (Australia),U
 CUFHF,Crunchfish Ab Share Ak  Ordinary Shares (Sweden),U
 CUGCF,China Oriental Group Co Ltd Ordinary Shares (Bermuda),U
@@ -908,6 +907,7 @@ DCUE,"Dominion Energy, Inc. 2019 Series A Corporate Units",NYSE
 DCYHF,Discovery Ltd Ordinary Shares (South Africa),U
 DCYHY,Discovery Holdings Ltd Unsponsored ADR (South Africa),U
 DD,"DuPont de Nemours, Inc. Common Stock",NYSE
+DD WD,"DuPont de Nemours, Inc",NYSE
 DDAIF,Daimler AG Common Stock,U
 DDCCF,Dic Asset Ag Erlangen Ordinary Shares Aset Ag NA On (Germany),U
 DDD,3D Systems Corp,NYSE
@@ -3836,6 +3836,7 @@ FRTCF,Far East Con Ltd Ordinary Shares,U
 FRTD,"Fortitude Group, Inc. Common Stock",U
 FRTEU,Frontier Ethanol LLC Cap Unit Class A,U
 FRTG,FRONTERA GROUP INC Common Stock,U
+FRTHF,Fruitas Holdings Inc. Ordinary Shares (Philippines),U
 FRTIF,Fortress Income Fund Ltd Ordinary Shares (South Africa),U
 FRTN,Fortran Corporation Common Stock,U
 FRTXF,Fortnox AB Ordinary Shares (Sweden),U
@@ -4006,7 +4007,6 @@ FUBO,fuboTV Inc.,NYSE
 FUCIF,First Trust Global Funds PLC Value Line Dividend Index ETF (Ireland),U
 FUE,ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Biofuels Total Return,ARCA
 FUEG,"Face Up Entertainment Group, Inc. Common Stock",U
-FUFOF,Fresh Express Delivery Hldgs Group Co Ltd Ordinary Shares,U
 FUGI,"Fuego Enterprises, Inc. Common Stock",U
 FUIG,Fusion Interactive Corp. Common Stock,U
 FUISF,"Fubon Financial Holding Company, Ltd. Ordinary Shares",U
@@ -4486,6 +4486,7 @@ GGXXF,GGX Gold Corp. Ordinary Shares,U
 GGZ,The Gabelli Global Small and Mid Cap Value Trust,NYSE
 GGZ PRA,The Gabelli Global Small and Mid Cap Value Trust 5.450% Series A Cumulative Preferred Shares (Liquid,NYSE
 GH,"Guardant Health, Inc. Common Stock",NASDAQ
+GHACU,Gaming & Hospitality Acquisition Corp. Unit,NASDAQ
 GHAV,"Grand Havana, Inc. Common Stock",U
 GHC,GRAHAM HOLDINGS COMPANY,NYSE
 GHCGF,GEORGIA HEALTHCARE GROUP PLC ORD GBP0.01 (United Kingdom),U

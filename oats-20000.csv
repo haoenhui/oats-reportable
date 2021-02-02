@@ -2081,6 +2081,7 @@ THLM,"T.H. Lehman & Co., Inc. Common Stock",U
 THLPF,THULE GROUP AB Ordinary Shares (Sweden),U
 THLT,"TechLite, Inc. Common Stock",U
 THM,"International Tower Hill Mines, Ltd.",AMEX
+THMAU,Thimble Point Acquisition Corp. Unit,NASDAQ
 THMG,"Thunder Mountain Gold, Inc. Common Stock",U
 THMMF,Thaicom Public Company Ltd SHS (Thailand),U
 THMNF,Thaicom Public Company Ltd UNits Non-Voting Depositary Receipt (Thailand),U
@@ -2178,6 +2179,7 @@ TITMF,Titomic LTD Ordinary Shares (Australia),U
 TITN,Titan Machinery Inc. Common Stock,NASDAQ
 TITUF,Titanium Corporation Inc Titanium Corporation Inc,U
 TIXC,Tix Corporation Common Stock,U
+TIXT,TELUS International (Cda) Inc. Subordinate Voting Shares,NYSE
 TIXXF,Titan Medical Inc Warrant Expiring 02/12/2021 (Canada),U
 TIZAF,Tiziana Life Sciences PLC Shares New (United Kingdom),U
 TJBH,Tengjun Biotechnology Corp. Common Stock,U
@@ -2297,6 +2299,7 @@ TLVLF,Minds Machs Group Ltd Ordinary Shares (Virgin Islands British),U
 TLXPF,Ora Gold Ltd Ordinary Shares,U
 TLYS,Tilly's Inc.,NYSE
 TM,Toyota Motor Corporation,NYSE
+TMAC U,"The Music Acquisition Corporation Units, each consisting of one share of Class A common stock and on",NYSE
 TMAK,"Touchmark Bancshares, Inc. Common Stock",U
 TMASF,Temas Res Corp Common Stock (Canada),U
 TMAT,Main Thematic Innovation ETF,BATS
@@ -3161,7 +3164,7 @@ UGI,UGI Corporation,NYSE
 UGL,ProShares Ultra Gold,ARCA
 UGLDF,Credit Suisse AG Nassau Brh VelocityShares 3x Long Gold ETN,U
 UGP,Ultrapar Participacoes S.A.,NYSE
-UGROD,"Urban-Gro, Inc. Common Stock",U
+UGRO,"Urban-Gro, Inc. Common Stock",U
 UHAL,Amerco Common Stock,NASDAQ
 UHGSF,UNITED HUNTER OIL & GAS Ordinary Shares Canada(CA ),U
 UHID,"Universal Health Services, Inc. Common Stock",U
@@ -3282,6 +3285,7 @@ UNRG,United Energy Corporation Common Stock,U
 UNRIF,UNITED CO RUSAL INTL PUB JT STK CO Ordinary Shares (Russia),U
 UNSS,"Universal Solar Technology, Inc. Common Stock",U
 UNTN,"United Tennessee Bankshares, Inc. Common Stock",U
+UNTOF,Unitronics (1989) Ltd. Ordinary Shares (Israel),U
 UNTY,"Unity Bancorp, Inc. Common Stock",NASDAQ
 UNVC,"Univec, Inc. Common Stock",U
 UNVR,Univar Solutions Inc.,NYSE
@@ -3984,7 +3988,6 @@ VRNA,Verona Pharma plc American Depositary Share,NASDAQ
 VRNDF,Delta 9 Cannabis Inc Ordinary Shares,U
 VRNS,"Varonis Systems, Inc. Common Stock",NASDAQ
 VRNT,Verint Systems Inc. Common Stock,NASDAQ
-VRNTV,Verint Systems Inc. Ex-Distribution When-Issued,NASDAQ
 VRP,Invesco Variable Rate Preferred ETF,ARCA
 VRRCF,VR RESOURCES LTD Ordinary Shares,U
 VRRKF,Versabank Ordinary Shares (Canada),U
@@ -4593,7 +4596,6 @@ WRRNF,Westcore Energy Ltd Common Shares,U
 WRRZF,WALKER RIV RES CORP Ordinary Shares (Canada),U
 WRTBF,Wartsila Corporation Ordinary Shares (Finland),U
 WRTBY,Wartsila Corporation Unsponsored ADR (Finland),U
-WRTTF,WUSTENROT & WURTTEMBERGISCHE AG Ordinary Shares,U
 WSBC,"WesBanco, Inc. Common Stock",NASDAQ
 WSBCP,"WesBanco, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.75% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ
 WSBF,"Waterstone Financial, Inc. Common Stock (MD)",NASDAQ
