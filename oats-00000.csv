@@ -1634,6 +1634,7 @@ ASAQ U,"Atlantic Avenue Acquisition Corp. Units, each consisting of one share of
 ASAQ WS,"Atlantic Avenue Acquisition Corp Warrants, each whole warrant exercisable for one share of Class A c",NYSE
 ASASF,Asia Standard Intl Grp Ltd Ord Ordinary Shares,U
 ASAV,Asi Aviation Inc Common Stock,U
+ASAXU,Astrea Acquisition Corp. Unit,NASDAQ
 ASAZF,Assa Abloy AB Ordinary Shares (Sweden),U
 ASAZY,Assa Abloy AB Unsponsored ADR (Sweden),U
 ASB,Associated Banc-Corp,NYSE
@@ -1781,6 +1782,7 @@ ATAZF,Atea ASA Ordinary Shares (Norway),U
 ATBHF,Aston Bay Holdings Ltd. Ordinary Shares (Canada),U
 ATBPF,"Antibe Therapeutics, Inc. Ordinary Shares",U
 ATBYF,"Abitibi Royalties, Inc Ordinary Shares (Canada)",U
+ATC,Atotech Limited,NYSE
 ATCC,Ameritrust Corporation Common Stock,U
 ATCD,Altair Corp Delaware Common Stock,U
 ATCLF,Advance TC LTD Common Stock  (Australia),U
@@ -3123,6 +3125,7 @@ BNTRF,Benton Resources Inc. Com (Canada),U
 BNTT,Bnet Media Group Inc Common Stock,U
 BNTX,BioNTech SE American Depositary Share,NASDAQ
 BNVIF,Binovi Technologies Corp. Ordinary Shares,U
+BNXAF,BANXA HLDGS INC Common Shares,U
 BNXR,Brinx Resources Ltd. Common Stock,U
 BNY,BlackRock New York Municipal Income Trust,NYSE
 BNYN,Banyan Corporation (OR) Common Stock,U
@@ -3626,7 +3629,7 @@ BWMG,"Brownie's Marine Group, Inc. Common Stock",U
 BWMTF,BlackRock World Mining Trust Plc  Ordinary Shares (United Kingdom),U
 BWMX,"Betterware de Mexico, S.A.B. de C.V. Ordinary Shares",NASDAQ
 BWMY,"BORROWMONEY.COM, INC Common Shares",U
-BWNAF,Six Sigma Metals Ltd Ordinary Shares,U
+BWNAF,SI6 METALS LTD Ordinary Shares,U
 BWNGF,Bawang Intl Group Holding Ltd Common Shares (Cayman Islands),U
 BWOFY,BW Offshore American Depository Receipts (Bermuda),U
 BWOWF,Wowjoint Holdings Limited Common Shares (Cayman Islands),U
@@ -4524,7 +4527,7 @@ CHNR,"China Natural Resources, Inc. Common Stock",NASDAQ
 CHNSF,CHINA STARCH HOLDINGS LIMITED SHS (Cayman Islands),U
 CHNTF,China LNG Group Ltd Ordinary Shares (Cayman Islands),U
 CHNUF,China Education Resources Inc Ordinary Shares (Canada),U
-CHNVF,CHINA INNOVATIONPAY GROUP LTD Shs (Bermuda),U
+CHNVF,CHINA YOUZAN LTD Common Stock,U
 CHOB,Charter Oak Bank (CA) Common Stock,U
 CHOLF,China Oilfield Services Limited H Shares (China),U
 CHOOF,Choom Hldgs Inc Common Shares,U
@@ -5215,6 +5218,7 @@ COLB,"Columbia Banking System, Inc. Common Stock",NASDAQ
 COLCF,Cool Chips plc Ordinary Shares,U
 COLD,Americold Realty Trust,NYSE
 COLDF,Cardno Ltd Ordinary shares (Australia),U
+COLE,Cole Office and Industrial REIT CCIT II Inc Common Class A Shares,U
 COLFF,Colabor Group Inc Ordinary Shares(Canada),U
 COLL,"Collegium Pharmaceutical, Inc. Common Stock",NASDAQ
 COLM,Columbia Sportswear Company Common Stock,NASDAQ
@@ -5286,4 +5290,3 @@ COWZ,Pacer US Cash Cows 100 ETF,BATS
 COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
-CPA,"Copa Holdings, S.A.",NYSE

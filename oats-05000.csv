@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAH,CounterPath Corporation Common Stock,NASDAQ
@@ -120,7 +121,7 @@ CRBJY,"China Resources Land, Ltd. Unsponsored ADR (Cayman Islands)",U
 CRBKF,CAREBOOK TECHNOLOGIES INC NEW Common Shares,U
 CRBL,"Carbon Credit International, Inc Common Stock",U
 CRBN,iShares MSCI ACWI Low Carbon Target ETF,ARCA
-CRBOD,Carbon Energy Corporation Common Stock,U
+CRBO,Carbon Energy Corporation Common Stock,U
 CRBP,"Corbus Pharmaceuticals Holdings, Inc. Common Stock",NASDAQ
 CRBTF,INTELLABRIDGE TECHNOLOGY CORP Ordinary Shares,U
 CRC,California Resources Corporation,NYSE
@@ -3785,7 +3786,6 @@ FRG,"Franchise Group, Inc. Common Stock",NASDAQ
 FRGAP,"Franchise Group, Inc. 7.50% Series A Cumulative Perpetual Preferred Stock",NASDAQ
 FRGHY,FORGAME HLDGS LTD  American Depositary Receipts - Unsponsored (Cayman Islands),U
 FRGI,"Fiesta Restaurant Group, Inc. Common Stock",NASDAQ
-FRGOL,Wells Fargo & Co New Depositary Shares Rep 1/1000th Int Non Cum Perp Pfd Class A Ser CC,U
 FRGY,Frontier Energy Corporation,U
 FRHC,Freedom Holding Corp. Common Stock,NASDAQ
 FRHHF,"Freshii, Inc. Class A Sub Vtg Ordinary Shares (Canada)",U
@@ -4740,6 +4740,7 @@ GMRMF,Golden Rim Resources Ltd. West Perth WA Ordinary Shares (Australia),U
 GMRSF,GME Resources Limited Ordinary shares (Australia),U
 GMS,GMS Inc.,NYSE
 GMSC,Grand Entertainment & Music Inc. New Common Stock,U
+GMSQF,GAMESQUARE ESPORTS INC Ordinary Shares,U
 GMTA,GATX Corporation 5.625% Senior Notes 5/30/2066,NYSE
 GMTU,"Green Mountain Merger, Inc. Common Stock",U
 GMUAF,Gamuda Bhd Ordinary Shares (Malaysia),U
@@ -5287,3 +5288,5 @@ GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
+GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
+GWGH,"GWG Holdings, Inc Common Stock",NASDAQ

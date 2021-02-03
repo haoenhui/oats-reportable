@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
@@ -580,6 +578,7 @@ HNCMF,Hutchison China Meditech Limited Ordinary shares (Cayman Islands),U
 HNDAF,Honda Motor Co Ltd Ordinary Shares,U
 HNDI,Handeni Gold Inc. Common Stock,U
 HNDL,Strategy Shares Nasdaq 7HANDL Index ETF,NASDAQ
+HNFGF,Hana Financial Group Inc Ordinary Shares (South Korea),U
 HNFSA,Hanover Foods Corp Class A Common Stock,U
 HNFSB,Hanover Foods Corporation Class B Common Stock,U
 HNGKY,Hongkong Land Holdings Ltd Unsponsored ADR,U
@@ -688,6 +687,7 @@ HPNN,"Hop-On, Inc. Common Stock",U
 HPP,"Hudson Pacific Properties, Inc.",NYSE
 HPPEF,Hopefluent Group Holdings Ltd Ordinary Shares (Cayman Islands),U
 HPQ,HP Inc.,NYSE
+HPQFF,HPQ-Silicon Res Inc Common Shares,U
 HPR,HighPoint Resources Corporation,NYSE
 HPS,John Hancock Preferred Income Fund III,NYSE
 HPST,"Hempstract, Inc. Common Stock",U
@@ -868,7 +868,7 @@ HUDRF,Hudson Resources Inc Ordinary Shares (Canada),U
 HUFAF,Hufvudstaden Ab Shs A Ordinary Shares,U
 HUFUF,Huifu PMT Ltd Ordinary Shares (Cayman Islands),U
 HUGE,FSD Pharma Inc. Class B Subordinate Voting Shares,NASDAQ
-HUGPF,Hugo Boss New Ord Ordinary Shares,U
+HUGPF,Hugo Boss AG NA O N,U
 HUICF,HULIC REIT INC Shs (Japan),U
 HUIHY,Huabao International Holdings Ltd Unsponsored ADR (Bermuda),U
 HUIVF,House Of Investments Inc Shs (Philippines),U
@@ -2095,6 +2095,7 @@ ITEPF,Hyve Group Plc Ordinary Shares,U
 ITEQ,BlueStar Israel Technology ETF,ARCA
 ITEX,ITEX Corporation Common Stock,U
 ITFY,"Interfoundry, Inc. New Common Stock",U
+ITGDF,INTEGRAL DIAGNOSTICS LTD Ordinary Shares,U
 ITGGF,ITG Holding SPA Azioni Ordinary Shares (Italy),U
 ITGMF,I.T.G.I MEDICAL LTD Common Stock,U
 ITGR,Integer Holdings Corporation,NYSE
@@ -2664,6 +2665,7 @@ JSTC,Adasina Social Justice All Cap Global ETF,ARCA
 JSTS,Justiss Oil Inc Common Stock,U
 JSVGF,JOHNSON SERVICE GROUP PLC Ordinary Shares,U
 JSYSF,Justsystem Corp Tokushima City Ordinary Shares (Japan),U
+JSZWF,"JASTRZEBSKA SPOLKA WEGLOWA S.A., JASTRZEBIE-ZDROJ Ordinary Shares",U
 JT,"Jianpu Technology Inc. American Depositary Shares, each representing twenty Class A Ordinary Shares",NYSE
 JTA,Nuveen Tax-Advantaged Total Return Strategy Fund,NYSE
 JTBK,Jetblack Corp. Common Stock,U
@@ -3156,6 +3158,7 @@ KRMMF,"KINGROSE MINING LTD, APPLECROSS WA SHS (Australia)",U
 KRNGF,Karoon Gas Australia Ltd Ordinary Shares (Australia),U
 KRNGY,Karoon Gas Australia Ltd Unsponsored American Depository Receipt (Australia),U
 KRNIF,KRANESHARES ICAV KRANESHARES MSCI CHINA A SHARE UCITS ETF CLASS USD Exchange Traded Fund,U
+KRNLU,"Kernel Group Holdings, Inc. Units",NASDAQ
 KRNNF,Krones Ag Akt. Shares (Germany),U
 KRNT,Kornit Digital Ltd. Ordinary Shares,NASDAQ
 KRNTY,Krones Ag ADR (Germany),U
@@ -3440,6 +3443,7 @@ LDEM,iShares Trust iShares ESG MSCI EM Leaders ETF,NASDAQ
 LDGYY,Landis Gyr Group AG - Unsponsored ADR (Switzerland),U
 LDHOF,"Land and House Public Co., Ltd. LH Shares Foreign Registered (Thailand)",U
 LDHUF,Land and House Public Co Ltd NVDR Shares (Thailand),U
+LDI,"loanDepot, Inc.",NYSE
 LDKB,"Landmark Bancorp, Inc. Common stock (Pittston PA)",U
 LDL,"Lydall, Inc.",NYSE
 LDNXF,London Stock Exchange Group plc Ordinary Shares,U
@@ -3455,7 +3459,6 @@ LDSI,"Life Design Station International, Inc. Common Stock",U
 LDSN,Luduson G Inc. Common Stock,U
 LDSVF,Lindt & Sprungli Ag Part Cert Ordinary Shares,U
 LDUR,PIMCO Enhanced Low Duration Active Exchange-Traded Fund,ARCA
-LDVFF,Lpn Development Public Co Ltd Units Non-Voting Depository Receipts (Thailand),U
 LE,"Lands' End, Inc. Common Stock",NASDAQ
 LEA,Lear Corporation,NYSE
 LEAD,Siren DIVCON Leaders Dividend ETF,BATS
@@ -3831,6 +3834,7 @@ LPBC,Lincoln Park Bancorp Common Stock,U
 LPCN,Lipocine Inc. Common Stock,NASDAQ
 LPDNF,Lepidico Ltd Ordinary Shares (Australia),U
 LPG,DORIAN LPG LTD,NYSE
+LPGDF,LPP S.A. GDANSK Ordinary Shares (Poland),U
 LPHHF,Logan Property Holdings Company Limited Ordinary Shares (Cayman Islands),U
 LPHM,Lee Pharmaceuticals Common Stock,U
 LPI,"Laredo Petroleum, Inc.",NYSE
@@ -5286,4 +5290,3 @@ MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
 MTLI,Metaline Contact Mines Common Stock,U
 MTLK,"Metalink, Ltd. Ordinary Shares",U
 MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U
-MTLRF,Metalore Resources Ltd Ordinary Shares,U

@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTLRF,Metalore Resources Ltd Ordinary Shares,U
 MTLS,Materialise NV American Depositary Shares,NASDAQ
 MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
 MTMW,"Matmown, Inc. Common",U
@@ -506,9 +507,6 @@ NGENF,NervGen Pharma Corp Common Stock (Canada),U
 NGEY,New Global Energy Inc Common Stock,U
 NGG,National Grid PLC,NYSE
 NGGTF,National Grid PLC Common Shares,U
-NGHCO,National General Holdings Corp Depositary Shares,NASDAQ
-NGHCP,"National General Holdings Corp Preferred Stock, Series A",NASDAQ
-NGHCZ,National General Holdings Corp 7.625% Subordinated Notes due 2055,NASDAQ
 NGKIF,Ngk Insulators Ordinary Shares,U
 NGKSF,Ngk Spark Plug Co Ltd Ordinary Shares,U
 NGKSY,Ngk Spark Plug Co Ltd Unsponsored ADR (Japan),U
@@ -992,6 +990,7 @@ NSRGF,Nestle Sa Cham Et Vevey Ordinary Shares,U
 NSRGY,Nestle SA Sponsored ADR representing Registered Shares Series B (Switzerland),U
 NSRPF,Novo Res Corp Common shares (Canada),U
 NSRS,North Springs Resources Corp. Common Stock,U
+NSRWF,NOMAD RTY CO LTD Warrant   11/19/2022,U
 NSRXF,NOMAD RTY CO LTD Common Shares,U
 NSS,"NUSTAR LOGISTICS, L.P. 7.625% Fixed-to-Floating Rate Subordinated Notes due 2043",NYSE
 NSSC,"NAPCO Security Technologies, Inc. Common Stock",NASDAQ
@@ -1283,6 +1282,7 @@ NXTH,"NXT Nutritionals Holdings, Inc. Common Stock",U
 NXTN,"Next10, Inc. Common Stock",U
 NXTTF,Namaste Technologies Inc Ordinary Shares (Canada) Common Shares,U
 NXTYQ,Nexity Financial Corporation Common Stock,U
+NXU U,"Novus Capital Corporation II Units, each consisting of one share of Class A common stock and one thi",NYSE
 NXXGF,Nexus Gold Corp Ordinary Shares,U
 NXXTF,Next Games Oyj Ordinary Shares (Finland),U
 NXYAF,Nexity Shs Cat -A- (France),U
@@ -2355,6 +2355,7 @@ PGQWF,1-PAGE LTD Ordinary Shares (Australia),U
 PGR,Progressive Corporation,NYSE
 PGRCF,PHOENIX GOLD RESOURCES  Common Shares,U
 PGRE,"PARAMOUNT GROUP, INC.",NYSE
+PGRWU,Progress Acquisition Corp. Units,NASDAQ
 PGSC,"Progressive Green Solutions, Inc. NEW Common Stock",U
 PGSVY,PGS ASA American Depositary Receipts - Sponsored,U
 PGSWF,"PGS SOFTWARE SA, WROCLAW Shs (Poland)",U
@@ -4632,6 +4633,7 @@ SAMMF,Sama Resources Inc./Ressources Sama Inc Ordinary Shares (Canada),U
 SAMOF,Sangoma Technologies Corporation Ordinary Shares,U
 SAMZF,Samui Airport Property Fund Units (Thailand),U
 SAN,Banco Santander S.A.,NYSE
+SANA,"Sana Biotechnology, Inc. Common Stock",NASDAQ
 SAND,Sandstorm Gold Ltd,NYSE
 SANJF,SANKEN ELECTRIC CO LTD Ordinary Shares (Japan),U
 SANM,Sanmina Corporation Common Stock,NASDAQ
@@ -4784,7 +4786,7 @@ SCE PRK,SCE TRUST V,NYSE
 SCE PRL,SCE TRUST VI 5.00% Trust Preference Securities,NYSE
 SCEDF,Scholar Ed Group Ordinary Shares (Cayman Islands),U
 SCEXF,Saracen Mineral Holdings Limited Ordinary Shares (Austrailia),U
-SCEYD,SOURCE ENERGY SERVICES LTD Ordinary Shares,U
+SCEYF,SOURCE ENERGY SERVICES LTD Ordinary Shares,U
 SCFFF,Spot Coffee Ltd Ordinary Shares (Canada),U
 SCFLF,SCHAEFFLER AG Schaeffler Ag Inh.Vzo (Germany),U
 SCFR,Security First International Holdings Inc. Common Stock,U
@@ -5017,6 +5019,7 @@ SENFF,Sensera Ltd Ordinary Shares (Australia),U
 SENIF,Sensirion AG ZUERICH Namen AKT (Switzerland),U
 SENR,Strategic Environmental & Energy Resources Inc Common Stock,U
 SENS,"Senseonics Holdings, Inc.",AMEX
+SENT,AdvisorShares Alpha DNA Equity Sentiment ETF,ARCA
 SENY,"Sauer Energy, Inc. Common Stock",U
 SEOAY,Stora Enso Oyj Common Stock,U
 SEOJF,Stora Enso OYJ Ordinary Shares (Finland),U
