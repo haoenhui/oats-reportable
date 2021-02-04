@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
+MTLI,Metaline Contact Mines Common Stock,U
+MTLK,"Metalink, Ltd. Ordinary Shares",U
+MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U
 MTLRF,Metalore Resources Ltd Ordinary Shares,U
 MTLS,Materialise NV American Depositary Shares,NASDAQ
 MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
@@ -110,7 +114,6 @@ MVO,MV Oil Trust,NYSE
 MVPT,MVP Holdings Inc. Common Stock,U
 MVRBF,Medivir Ordinary Shares,U
 MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,ARCA
-MVRRF,Medivir Aktiebolag Sub Rights Tr B Exp 02/03/2021 (Sweden),U
 MVT,Blackrock Munivest Fund II,NYSE
 MVV,ProShares Ultra MidCap400,ARCA
 MVVYF,Moovly Media Inc Ordinary Shares (Canada),U
@@ -895,6 +898,7 @@ NRDXF,Nordex AG Ordinary Shares,U
 NREF,"NexPoint Real Estate Finance, Inc.",NYSE
 NREF PRA,"NexPoint Real Estate Finance, Inc. 8.50% Series A Cumulative Redeemable Preferred Stock",NYSE
 NRFPF,NR Instant Produce PCL Local Shares (Thailand),U
+NRFTF,THAI NVDR CO LTD NVDR SHARES (Thailand),U
 NRG,"NRG Energy, Inc.",NYSE
 NRGD,MicroSectors US Big Oil -3x Inverse Leveraged ETN,ARCA
 NRGIY,Neoenergia SA American Depositary Receipts - Unsponsored,U
@@ -1281,6 +1285,7 @@ NXTG,First Trust Indxx NextG ETF,NASDAQ
 NXTH,"NXT Nutritionals Holdings, Inc. Common Stock",U
 NXTN,"Next10, Inc. Common Stock",U
 NXTTF,Namaste Technologies Inc Ordinary Shares (Canada) Common Shares,U
+NXTUF,FIRST TR GLOBAL FDS PLC SHS CLASS -A- JPY ETF (Ireland),U
 NXTYQ,Nexity Financial Corporation Common Stock,U
 NXU U,"Novus Capital Corporation II Units, each consisting of one share of Class A common stock and one thi",NYSE
 NXXGF,Nexus Gold Corp Ordinary Shares,U
@@ -1879,6 +1884,7 @@ OXY WS,Occidental Petroleum Corporation Warrants to Purchase Common Stock,NYSE
 OYIEF,Ocean Yield ASA Ordinary Shares,U
 OYOCF,Oyo Corporation Ordinary Shares (Japan),U
 OYST,"Oyster Point Pharma, Inc. Common Stock",NASDAQ
+OZBKF,OUTBACK GOLDFIELDS CORP COM (Canada),U
 OZFRY,OFX Group Limited American Depositary Receipts - Unsponsored,U
 OZK,Bank OZK Common Stock,NASDAQ
 OZMLF,OZ Minerals Limited  Ordinary Shares (Australia),U
@@ -3477,6 +3483,7 @@ QEXXF,Quattro Exploration and Production Common Shares (Canada),U
 QFEEF,Quickfee Ltd Ordinary Shares (Australia),U
 QFIN,"360 DigiTech, Inc. American Depositary Shares",NASDAQ
 QFREF,Q Free Asa Ordinary Shares (Norway),U
+QFTA U,"Quantum FinTech Acquisition Corporation Units, each consisting of one share of Common Stock and one",NYSE
 QGEN,Qiagen NV,NYSE
 QGLDF,Q-Gold Resources Ltd Ordinary Shares,U
 QGLHF,Qingling Motors Co Ltd H Shs Ordinary Shares,U
@@ -4377,7 +4384,7 @@ RSNAY,RSA Insurance Group PLC Sponsored ADR,U
 RSNHF,Resona Holdings Inc Osaka Ordinary Shares (Japan),U
 RSNVF,Reyna Silver Corp Common Shares  (Canada),U
 RSP,Invesco S&P 500 Equal Weight ETF,ARCA
-RSPID,RespireRx Pharmaceuticals Inc. Common Stock,U
+RSPI,RespireRx Pharmaceuticals Inc. Common Stock,U
 RSRBF,Ressources Robex Inc (F) Ordinary Shares,U
 RSRL,RESOURCE REAL ESTATE OPPORTUNITY REIT INC Common,U
 RSRV,Reserve Petroleum Company (The)  Common Stock,U
@@ -5289,4 +5296,3 @@ SHMN,"SOHM, Inc. Common Stock",U
 SHMP,NaturalShrimp Incorporated Common Stock,U
 SHMSY,Shimao Services Holdings Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
-SHMUF,Shimizu Corp Ord Ordinary Shares,U

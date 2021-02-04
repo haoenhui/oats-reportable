@@ -215,13 +215,16 @@ ACIA,"Acacia Communications, Inc. Common Stock",NASDAQ
 ACIC,Atlas Crest Investment Corp.,NYSE
 ACIC U,"Atlas Crest Investment Corp. Units, each consisting of one Class A common stock, and one-third of on",NYSE
 ACIC WS,"Atlas Crest Investment Corp.Redeemable warrants included as part of the units, each whole warrant ex",NYSE
+ACII U,"Atlas Crest Investment Corp. II Units, each consisting of one Class A common stock, $.0001 par value",NYSE
 ACIO,Aptus Collared Income Opportunity ETF,BATS
 ACITF,Asian Citrus Holdings Ltd Ordinary Shares (Bermuda),U
 ACIU,AC Immune SA Common Stock,NASDAQ
 ACIW,"ACI Worldwide, Inc. Common Stock",NASDAQ
 ACKAY,Arcelik A S Unsponsored ADR (Turkey),U
 ACKDF,Auckland International Airport Ltd Ordinary Shares (New Zealand),U
+ACKIT,Ackrell SPAC Partners I Co. Subunits,NASDAQ
 ACKIU,Ackrell SPAC Partners I Co. Units,NASDAQ
+ACKIW,Ackrell SPAC Partners I Co. Warrants,NASDAQ
 ACKRF,American Creek Resources Ltd Common  Shares (Canada),U
 ACLD,Acquire Ltd Common Stock,U
 ACLLF,Atco Ltd  Cl I Nv Cda Ordinary Shares,U
@@ -1082,6 +1085,7 @@ AMFPY,Amplifon Spa Milano Unsponsored ADR (Italy),U
 AMG,Affiliated Managers Group,NYSE
 AMGDF,ASTON MARTIN LAGONDA GLOBAL HLDGS PLC Ordinary Shares,U
 AMGN,Amgen Inc. Common Stock,NASDAQ
+AMGRF,AMA GROUP LTD SHS (Australia),U
 AMGXF,Anges Inc Ordinary Shares (Japan),U
 AMGY,"American Metal & Technology, Inc. Common Stock",U
 AMH,AMERICAN HOMES 4 RENT,NYSE
@@ -1150,6 +1154,7 @@ AMPH,"Amphastar Pharmaceuticals, Inc. Common Stock",NASDAQ
 AMPO,Amperico Corp Com,U
 AMPY,Amplify Energy Corp.,NYSE
 AMPYW,Amplify Energy Corp. Warrant,U
+AMR,"Alpha Metallurgical Resources, Inc.",NYSE
 AMRA,"American Racing Capital, Inc. Common Stock",U
 AMRB,American River Bankshares Common Stock,NASDAQ
 AMRC,"Ameresco, Inc.",NYSE
@@ -1457,6 +1462,7 @@ AQSP,Acquired Sales Corp. Common Stock,U
 AQST,"Aquestive Therapeutics, Inc. Common Stock",NASDAQ
 AQSZF,AEQUUS PHARMACEUTICALS INC Common Shares (Canada),U
 AQUA,Evoqua Water Technologies Corp. Common Stock,NYSE
+AQUEF,AQUARIUS ENGINES A M LTD SHARE (Israel),U
 AQUI,"Aquagold International, Inc. Common Stock",U
 AQXNF,Alice Queen Ltd. Ordinary Shares (Australia),U
 AR,ANTERO RESOURCES CORPORATION,NYSE
@@ -3311,7 +3317,6 @@ BRLIR,Brilliant Acquisition Corporation Rights,NASDAQ
 BRLIU,Brilliant Acquisition Corporation Unit,NASDAQ
 BRLIW,Brilliant Acquisition Corporation Warrants,NASDAQ
 BRLL,Barrel Energy Inc Common Stock,U
-BRLPF,Br Malls Participacoes Sa Ordinary Shares (Brazil),U
 BRLXF,Boralex Inc Cl C Ordinary Shares,U
 BRMK,Broadmark Realty Capital Inc. Common Stock,NYSE
 BRMK WS,"Broadmark Realty Capital Inc. Warrants, each exercisable for one fourth (1/4th) share of Common Stoc",AMEX
@@ -3861,6 +3866,7 @@ CATM,Cardtronics plc Class A Ordinary Shares (UK),NASDAQ
 CATN,Cat9 Group Inc Common Stock,U
 CATO,CATO CORP,NYSE
 CATPF,Giyani Metals Corp Common Shares,U
+CATTF,CAT STRATEGIC METALS CORP COM (Canada),U
 CATV,"4Cable TV International, Inc. Common Stock",U
 CATWF,China Tontine Wines Group Ltd Ordinary Shares (Bermuda),U
 CATY,Cathay General Bancorp Common Stock,NASDAQ
@@ -4212,6 +4218,7 @@ CEMB,iShares J.P. Morgan EM Corporate Bond ETF,BATS
 CEMI,"Chembio Diagnostics, Inc. Common Stock",NASDAQ
 CEN,Center Coast Brookfield MLP & Energy Infrastructure Fund,NYSE
 CENEF,Carenet Inc Tokyo Ordinary shares (Japan),U
+CENHU,Centricus Acquisition Corp. Unit,NASDAQ
 CENT,Central Garden & Pet Company Common Stock,NASDAQ
 CENTA,Central Garden & Pet Company Class A Common Stock Nonvoting,NASDAQ
 CENX,Century Aluminum Company Common Stock,NASDAQ
@@ -5289,4 +5296,3 @@ COWTF,Barclays Bk PLC iPath Bloomberg Livestock Subindex Total Return ETN due 10
 COWZ,Pacer US Cash Cows 100 ETF,BATS
 COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
-CP,Canadian Pacific Railway,NYSE

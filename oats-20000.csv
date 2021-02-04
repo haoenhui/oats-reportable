@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
@@ -602,6 +603,7 @@ SNROF,Sanrio Co Ltd Ordinary Shares,U
 SNRR,Super Nova Resources Inc  Common Stock,U
 SNRS,Sunrise Consulting Group Inc Common Stock,U
 SNRY,"Solar Energy Initiatives, Inc. Common Stock",U
+SNSE,"Sensei Biotherapeutics, Inc. Common Stock",NASDAQ
 SNSFF,Venzee Technologies Inc. Ordinary Shares,U
 SNSGF,"Sense Technologies, Inc. Common Shares",U
 SNSKF,Sanko Sangyo Co Ltd Ordinary Shares (Japan),U
@@ -2334,7 +2336,6 @@ TMKRU,Tastemaker Acquisition Corp. Unit,NASDAQ
 TMKUF,"Tomoku Co Ltd, SHS (Japan)",U
 TMLL,Tele Group Corp. Common Stock,U
 TMLVF,Tamerlane Ventures Inc Common Shares (Canada),U
-TMMFF,TMAC Res Inc Ordinary Shares (Canada),U
 TMMI,T M M Inc New Common Stock,U
 TMMTF,Tom Tailor Holding Ag Hamburg Namen -AKT (Germany),U
 TMNSF,Temenos Group AG Temenos Group AG Glarus Namen AKT,U
@@ -2456,6 +2457,7 @@ TOGOF,Tomagold Corporation Common Shares Class A (Canada),U
 TOILF,"3D Oil Ltd, Melbourne Ordinary Shares (Australia)",U
 TOIPF,Thai Oil Public Co Ltd Shares Foreign Registered (Thailand),U
 TOIPY,Thai Oil Public Co Ltd Unsponsored American Depository Receipt (Thailand),U
+TOITF,TOPICUS COM INC SUB VTG SHS (Canada),U
 TOK,iShares MSCI Kokusai Fund,ARCA
 TOKCF,Tokyo Ohka Kogyo Co Ltd Ordinary Shares,U
 TOKE,Cambria Cannabis ETF,BATS
@@ -3698,9 +3700,13 @@ VGT,Vanguard Information Technology ETF,ARCA
 VGTL,"VGTel, Inc. Common Stock",U
 VGUDF,Vanguard Funds Plc Vanguard FTSE Developed Asia Pacific Ex Japan Ucits Etf Exchange Traded Fund (Ireland),U
 VGZ,Vista Gold Corp.,AMEX
+VHAQ,Viveon Health Acquisition Corp.,AMEX
+VHAQ RT,"Viveon Health Acquisition Corp. Rights, each exchangeable into one-twentieth of a share of Common St",AMEX
 VHAQ U,"Viveon Health Acquisition Corp. Units, each consisting of one share of common stock, one Warrant ent",AMEX
+VHAQ WS,Viveon Health Acquisition Corp. Warrants to purchase one-half of a share of common stock at a price,AMEX
 VHC,VirnetX Holding Corporation,NYSE
 VHI,"Valhi, Inc.",NYSE
+VHIBF,VITALHUB CORP COM NO PAR (Canada),U
 VHLGF,Valuetronics Holdings Ltd Ordinary shares (Bermuda),U
 VHT,Vanguard Health Care ETF,ARCA
 VHUB,Vapor Hub International Inc. Common Stock,U
@@ -4177,7 +4183,7 @@ WAKE,"Wake Forest Bancshares, Inc. Common Stock",U
 WAKHF,Wai Kee Holdings Ltd SHS,U
 WAL,Western Alliance Bancorporation,NYSE
 WALA,Western Alliance Bancorporation,NYSE
-WALRF,WALCOTT RES LTD Common Shares,U
+WALRF,MEGAWATT LITHIUM & BATTERY METALS CORP Common Shares,U
 WANHY,Seven West Media Ltd.  Unsponsored ADR (Australia),U
 WANSF,Wandisco Plc Ordinary Shares (Jersey),U
 WANT,Direxion Daily Consumer Discretionary Bull 3X Shares,ARCA

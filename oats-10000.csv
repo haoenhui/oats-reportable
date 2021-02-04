@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
@@ -366,6 +364,7 @@ HHHEF,"37 Capital, Inc. Ordinary Shares (Canada)",U
 HHILF,Hopewell Highway Infrastructure Limited Ordinary Shares (Cayman Islands),U
 HHKIY,Hochiki Corp Ord American Depositary Shares,U
 HHKSY,DFCITY Group Berhad American Depositary Receipts - Sponsored,U
+HHLA U,"HH&L Acquisition Co. Units, each consisting of one Class A ordinary share and one-half of one redeem",NYSE
 HHLKF,"HOT CHILI LTD, KALGOORLIE Ordinary Shares (Australia)",U
 HHNNF,Hannans Ltd Ordinary Shares (Australia),U
 HHOLF,Herald Holdings Limited Ordinary Shares (Bermuda),U
@@ -1305,7 +1304,6 @@ IFCI,IFCI International Corporation Common Stock,U
 IFCPF,Intact Financial Corp Non Cumulative Floating Rate Preference Shares Class A Series 4 (Canada),U
 IFCZF,Intact Financial Corp. Common Shares (Canada),U
 IFF,International Flavors & Fragrances Inc.,NYSE
-IFF WI,International Flavors & Fragrances Inc.,NYSE
 IFFT,International Flavors & Fragrances Inc. 6.00% Tangible Equity Units,NYSE
 IFGH,Infoserve Global Holdings Corp Common Stock,U
 IFGL,iShares International Developed Real Estate ETF,NASDAQ
@@ -2133,6 +2131,7 @@ ITOX,"IIOT-OXYS, Inc. Common Stock",U
 ITP,"IT Tech Packaging, Inc.",AMEX
 ITPC,Intrepid Capital Corporation New Common Stock,U
 ITPOF,Intertape Polymer Group Inc. Common Stock,U
+ITQRU,Itiquira Acquisition Corp. Unit,NASDAQ
 ITRG,Integra Resources Corp.,AMEX
 ITRI,"Itron, Inc. Common Stock",NASDAQ
 ITRM,Iterum Therapeutics plc Ordinary Share,NASDAQ
@@ -2570,6 +2569,7 @@ JOE,St. Joe Company,NYSE
 JOET,Virtus ETF Trust II Virtus Terranova U.S. Quality Momentum ETF,NASDAQ
 JOEY,"Joey New York, Inc Common Stock",U
 JOF,JAPAN SMALLER CAPITALIZATION FUND,NYSE
+JOFFU,JOFF Fintech Acquisition Corp. Unit,NASDAQ
 JOSMF,Josemaria Res Inc Ordinary Shares,U
 JOUT,Johnson Outdoors Inc. Class A Common Stock,NASDAQ
 JOYY,Infusive Compounding Global Equities ETF,ARCA
@@ -2925,7 +2925,9 @@ KIN,"Kindred Biosciences, Inc. Common Stock",NASDAQ
 KINPF,KINA PETROLEUM CORP Usd Ord Shs (Virgin Islands British),U
 KINS,"Kingstone Companies, Inc. Common Stock",NASDAQ
 KINUF,KINTETSU GROUP HLDGS CO LTD  Ordinary Shares,U
+KINZ,KINS Technology Group Inc. Class A Common Stock,NASDAQ
 KINZU,KINS Technology Group Inc. Unit,NASDAQ
+KINZW,KINS Technology Group Inc. Warrant,NASDAQ
 KIO,KKR INCOME OPPORTUNITIES FUND,NYSE
 KIQ,Kelso Technologies Inc.,AMEX
 KIRK,"Kirkland's, Inc. COMMONSTOCK",NASDAQ
@@ -2979,6 +2981,7 @@ KLIC,"Kulicke and Soffa Industries, Inc. Common Stock",NASDAQ
 KLKBF,Kuala Lumpur Kepong Berhad KLK Ordinary Shares (Malaysia),U
 KLKBY,Kuala Lumpur Kepong Berhad Ord Unsponsored American Depository Receipt,U
 KLKNF,Kloeckner & Co Ag Duisburg Namen-Akt Shares (Germany),U
+KLMAF,KLIMATOR AB SHARE AK (Sweden),U
 KLMR,KLM Royal Dutch Airlines Common Stock New York Registry,U
 KLOC,Kushner-Locke Company (The) Common Stock,U
 KLPEF,Klepierre Sa Ord Ordinary Shares,U
@@ -3327,6 +3330,7 @@ L,Loews Corporation,NYSE
 LAAB,"Startech Labs, Inc. Common Stock",U
 LABD,Direxion Daily S&P Biotech Bear 3X Shares,ARCA
 LABFF,LABORATORIOS FARMACEUTICOS ROVI SA Ordinary Shares,U
+LABP,"Landos Biopharma, Inc. Common Stock",NASDAQ
 LABU,Direxion Daily S&P Biotech Bull 3X Shares,ARCA
 LAC,Lithium Americas Corp. Common Shares,NYSE
 LACQ,Leisure Acquisition Corp. Common Stock,NASDAQ
@@ -4136,6 +4140,7 @@ MANU,MANCHESTER UNITED PLC,NYSE
 MANZF,"Manz Automation Ag, Reutlingen Ordinary shares (Germany)",U
 MAOFF,MAOYAN ENTMT Ordinary Shares,U
 MAOGY,Man SE Shs Unsponsored American Depository Receipt (Germany Federal Republic),U
+MAOIF,MANITOU BF SA SHS (France),U
 MAOMF,Maudore Minerals Ltd Ordinary Shares (Canada),U
 MAORF,Mandarin Oriental Intl Ltd Pfd Ordinary Shares,U
 MAOTF,Maroc Telecom Shares Itissalat Al-Maghrib (France),U
@@ -4206,6 +4211,7 @@ MBISF,Orange Belgium SA Ordinary Shares,U
 MBKL,"MBT Bancshares, Inc. Common Stock",U
 MBLU,Morris St Bancshares Inc Common Shares,U
 MBLV,MobiVentures Inc. Common Stock,U
+MBND,SPDR Nuveen Municipal Bond ETF,BATS
 MBNKF,Metro Bank PLC Ordinary Shares (Unoted Kingdom),U
 MBNKP,"Medallion Bank Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F",NASDAQ
 MBOF,MARINE BANCORP FLA INC Common Stock,U
@@ -4727,8 +4733,10 @@ MKIN,MCNB Banks Inc Common Stock,U
 MKKGY,"Merck KGaA, Darmstadt, Germany American Depositary Receipts - Sponsored",U
 MKKOF,Marimekko Oy Ordinary Shares (Finland),U
 MKL,Markel Corporation,NYSE
+MKLNF,M1 KLINIKEN AG O N (Germany Federal Republic),U
 MKMLF,Makino Milling Ordinary Shares,U
 MKNGF,MKANGO RES LTD Common Shares,U
+MKOEF,Meiko Electronics Co Ltd Ayase SHS (Japan),U
 MKRIF,Melkior Resources Inc Ordinary Shares,U
 MKRMF,Merkur Holding Ag Reg Ordinary Shares,U
 MKRO,"Monkey Rock Group, Inc. Common Stock",U
@@ -5074,7 +5082,9 @@ MQT,"Blackrock Muni Yield Quality Fund II, Inc.",NYSE
 MQY,"Blackrock Muni Yield Quality Fund, Inc",NYSE
 MRAAF,Murata Manufacturing Ordinary Shares,U
 MRAAY,Murata Manufacturing Co Ltd Unsponsored ADR (Japan),U
+MRAC,Marquee Raine Acquisition Corp. Class A Ordinary Shares,NASDAQ
 MRACU,Marquee Raine Acquisition Corp. Unit,NASDAQ
+MRACW,Marquee Raine Acquisition Corp. Warrant,NASDAQ
 MRAD,SmartETFs Advertising & Marketing Technology ETF,ARCA
 MRAIF,MRC Allied Inc. Ordinary Shares (Phillippines),U
 MRAM,"Everspin Technologies, Inc. Common Stock",NASDAQ
@@ -5286,7 +5296,3 @@ MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Pr
 MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U
 MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U
 MTLHF,Mitsubishi Chemical Holdings Corp Ordinary Shares (Japan),U
-MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
-MTLI,Metaline Contact Mines Common Stock,U
-MTLK,"Metalink, Ltd. Ordinary Shares",U
-MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U

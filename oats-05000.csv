@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
@@ -86,6 +87,7 @@ CPTAL,Capitala Finance Corp. 6% Notes Due 2022,NASDAQ
 CPTFF,Concept Fund Solutions PLC DBX S&P 500 EQUAL Wght (DR) ETF (Ireland),U
 CPTHF,Adams PLC Ordinary shares (Isle of Man),U
 CPTP,"Capital Properties, Inc. Class A Common Stock",U
+CPUH U,"Compute Health Acquisition Corp. Units, each consisting of one share of Class A common stock and one",NYSE
 CPVNF,CAPITAL VENTURE EUROPE PLC  Ordinary Shares (United Kingdom),U
 CPWHF,Ceres Power Holdings plc Crawley Ordinary Shares,U
 CPWIF,China Power International Development Ltd Ordinary Shares (Hong Kong),U
@@ -466,7 +468,6 @@ CTPR,CTPARTNERS EXECUTIVE SEARCH INC Common Stock,U
 CTPTY,Companhia De Transmissao Paulista Pfd American Depositary Shares,U
 CTPZY,Companhia De Transmissao Paulista Pfd American Depositary Shares,U
 CTR,ClearBridge MLP and Midstream Total Return Fund Inc.,NYSE
-CTRA,"Contura Energy, Inc. Common Stock",NYSE
 CTRE,"CareTrust REIT, Inc. Common Stock",NASDAQ
 CTRGF,Country Garden Svcs Hldgs Co Ltd Ordinary Shares  (Cayman Islands),U
 CTRM,Castor Maritime Inc. Common Shares,NASDAQ
@@ -570,7 +571,6 @@ CVCS,"Charter Corporate Services, Inc. Common Stock",U
 CVCY,Central Valley Community Bancorp Common Stock,NASDAQ
 CVE,Cenovus Energy Inc.,NYSE
 CVE WS,Cenovus Energy Inc. Warrants (each warrant entitles the holder to purchase one common share at an ex,NYSE
-CVEI,CENVEO ENTERPRISES INC Common Stock  Delaware,U
 CVEO,Civeo Corporation,NYSE
 CVET,"Covetrus, Inc. Common Stock",NASDAQ
 CVGI,"Commercial Vehicle Group, Inc. Common Stock",NASDAQ
@@ -908,7 +908,6 @@ DCUE,"Dominion Energy, Inc. 2019 Series A Corporate Units",NYSE
 DCYHF,Discovery Ltd Ordinary Shares (South Africa),U
 DCYHY,Discovery Holdings Ltd Unsponsored ADR (South Africa),U
 DD,"DuPont de Nemours, Inc. Common Stock",NYSE
-DD WD,"DuPont de Nemours, Inc",NYSE
 DDAIF,Daimler AG Common Stock,U
 DDCCF,Dic Asset Ag Erlangen Ordinary Shares Aset Ag NA On (Germany),U
 DDD,3D Systems Corp,NYSE
@@ -1339,6 +1338,7 @@ DNZ U,"D and Z Media Acquisition Corp. Units, each consisting of one share of Cl
 DNZOF,Denso Corp Ltd Ord Ordinary Shares,U
 DNZOY,Denso Corp Ltd Ord American Depositary Shares,U
 DOC,PHYSICIANS REALTY TRUST,NYSE
+DOCMF,DR. MARTENS PLC ORD GBP0.01 (United Kingdom),U
 DOCOF,Do & Co AG Ordinary Shares (Austria),U
 DOCRF,CLOUDMD SOFTWARE & SVCS INC Common Shares,U
 DOCT,FT Cboe Vest U.S. Equity Deep Buffer ETF - October,BATS
@@ -1442,7 +1442,6 @@ DRTT,DIRTT Environmental Solutions Ltd. Common Shares,NASDAQ
 DRUA,"Dominion Energy, Inc 2016 Series A 5.25% Enhanced Junior Subordinated Notes due 2076",NYSE
 DRUNF,Dream Unlimited Corp Common Shares,U
 DRV,Direxion Daily Real Estate Bear 3X Shares,ARCA
-DRVD,"Driven Deliveries, Inc. Common Stock",U
 DRVN,Driven Brands Holdings Inc. Common Stock,NASDAQ
 DRVYF,DISCOVERY AFRICA LTD Ordinary Shares,U
 DRW,WisdomTree Global ex-US Real Estate Fund,ARCA
@@ -3123,6 +3122,7 @@ FDVRF,Facedrive Inc. Common Shares (Canada),U
 FDVV,Fidelity High Dividend ETF,ARCA
 FDVXF,FENIXORO GOLD CORP Common Shares,U
 FDX,FedEx Corporation,NYSE
+FDYTF,Faraday Technology Corp SHS (Taiwan),U
 FE,FirstEnergy Corp.,NYSE
 FEBZ,TrueShares Structured Outcome (February) ETF,BATS
 FECCF,Frontera Energy Corp Ordinary Shares,U
@@ -3245,6 +3245,7 @@ FGPHF,First Graphene Ltd Ordinary Shares,U
 FGPPF,Frontier IP Group Plc Common Shares (United Kingdom),U
 FGPRQ,FERRELLGAS PARTNERS LP Unit,U
 FGRBF,Sa Fromageries Bel La Vache Qui Rit  Ordinary Shares (France),U
+FGRO,Fidelity Growth Opportunities ETF,BATS
 FGROF,Firstgroup Plc Ordinary Shares,U
 FGROY,Firstgroup Plc Unsponsored ADR (UK),U
 FGRRF,Fingerprint Cards AB Ordinary Shares AK B (Sweden),U
@@ -3489,6 +3490,7 @@ FM,iShares MSCI Frontier 100 Fund,ARCA
 FMAC,FirstMark Horizon Acquisition Corp.,NYSE
 FMAC U,"FirstMark Horizon Acquisition Corp. Units, each consisting of one share of Class A common stock and",NYSE
 FMAC WS,"FirstMark Horizon Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one shar",NYSE
+FMAG,Fidelity Magellan ETF,BATS
 FMANF,Freeman Gold Corp. Ordinary Shares (Canada),U
 FMAO,"Farmers & Merchants Bancorp, Inc. Common Stock",NASDAQ
 FMAT,Fidelity MSCI Materials Index ETF,ARCA
@@ -3718,6 +3720,7 @@ FPOCF,FPX Nickel Corp Ordinary Shares,U
 FPPP,Fieldpoint Petroleum Corp Common Stock,U
 FPRCF,"Scala, Inc. Ordinary Shares",U
 FPRGF,Falco Resources Ltd. Common Shares (Canada),U
+FPRO,Fidelity Real Estate Investment ETF,BATS
 FPRUF,Fraport AG Ordinary Shares (Germany),U
 FPRUY,Fraport AG Unsponsored ADR (Germany),U
 FPRX,"Five Prime Therapeutics, Inc. Common Stock",NASDAQ
@@ -3881,6 +3884,7 @@ FSMEM,"Fresenius Medical Care Holdings, Inc. 6% Preferred Stock",U
 FSMEN,"Fresenius Medical Care Holdings, Inc. Series B 8% Preferred Stock",U
 FSMEO,"Fresenius Medical Care Holdings, Inc. Series A 8% Preferred Stock",U
 FSMK,1st Summit Bancorp Johnstown Inc Common Stock,U
+FSMO,Fidelity Small-Mid Cap Opportunities ETF,BATS
 FSNJ,First State Bank (NJ) Common Stock,U
 FSNR,"Freestone Resources, Inc. Common Stock",U
 FSNUF,FRESENIUS SE & CO KGAA  Ordinary Shares,U
@@ -4118,6 +4122,7 @@ FYRTY,FamilyMart Co Ltd American Depositary Receipts - Unsponsored,U
 FYSSY,IFA Systems AG Sponsored American Depository Receipt (Germany Federal Republic),U
 FYT,First Trust Small Cap Value AlphaDEX Fund,NASDAQ
 FYX,First Trust Small Cap Core AlphaDEX Fund,NASDAQ
+FYXGF,FIRST TR GLOBAL FDS PLC SMALL CAP CORE ALPHADEX UCITS ETF CL A (Ireland),U
 FZMD,"Fuse Medical, Inc. Common Stock",U
 FZRO,FlashZero Corp. Common Stock,U
 G,GENPACT LIMITED,NYSE
@@ -4228,7 +4233,7 @@ GBMS,"Global Materials & Services, Inc. Common Stock",U
 GBNW,Global Energy Networks Corp. Common Stock,U
 GBNXF,"Gibson Energy, Inc. Common Shares (Canada)",U
 GBNY,"Generations Bancorp NY, Inc. Common Stock",NASDAQ
-GBOKF,Greenbrook TMS Inc Ordinary Shares (Canada),U
+GBOKD,GREENBROOK TMS INC  Ordinary Shares,U
 GBOOF,Grupo Fin Banorte Ordinary Shares,U
 GBOOY,"Grupo Financiero Banorte, S.A.B. De C.V Sponsored ADR (Mexico)",U
 GBPT,"Globe Photos, Inc.   Common Stock",U
@@ -4922,7 +4927,6 @@ GPLB,Green Planet Bioengineering Co. Ltd. Common Stock,U
 GPLPF,Group Lease Public Co Ltd Shs Foreign Registered (Thailand),U
 GPLS,Geopulse Exploration Inc. Common Stock,U
 GPM,Guggenheim Enhanced Equity Income Fund,NYSE
-GPMCF,Grupo Modelo S A de C V Ordinary -C- Shares (Mexico),U
 GPMMF,GOLDEN PROSPECT PRECIOUS METALS LTD SHS (Guernsey),U
 GPMNF,GOLD PLUS MNG INC Common Shares,U
 GPMT,Granite Point Mortgage Trust Inc. Common Stock,NYSE
@@ -5290,3 +5294,5 @@ GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
