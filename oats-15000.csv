@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
-MTLI,Metaline Contact Mines Common Stock,U
-MTLK,"Metalink, Ltd. Ordinary Shares",U
 MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U
 MTLRF,Metalore Resources Ltd Ordinary Shares,U
 MTLS,Materialise NV American Depositary Shares,NASDAQ
@@ -50,6 +47,7 @@ MTTRY,Ceconomy AG American Depositary Receipts - Unsponsored,U
 MTTWF,METRO AG Ordinary Shares,U
 MTUAF,MTU Aero Engines Holdings AG Namen Akt (Germany),U
 MTUAY,MTU Aero Engines AG Unsponsored ADR (Germany),U
+MTUL,ETRACS 2x Leveraged MSCI US Momentum Factor TR ETN,ARCA
 MTUM,iShares MSCI USA Momentum Factor ETF,BATS
 MTVAF,"METROPOLE TELEVISION SA, M6 SHS (France)",U
 MTVB,Mountain Valley Bancshares Wv Common Stock,U
@@ -783,6 +781,7 @@ NOBGY,Noble Group Ltd American Depositary Receipts - Unsponsored,U
 NOBH,"Nobility Homes, Inc. Common Stock",U
 NOBL,ProShares S&P 500 Dividend Aristocrats ETF,BATS
 NOC,Northrop Grumman Corp.,NYSE
+NOCRF,Norden Crown Metals Corp Common Shares,U
 NOCSF,NORSEMAN SILVER INC Common Stock (Canada),U
 NOCT,Innovator Nasdaq-100 Power Buffer ETF- October,BATS
 NODAF,Noda Corporation Ordinary Shares (Japan),U
@@ -2121,9 +2120,6 @@ PCPC U,"Periphas Capital Partnering Corporation CAPS, each consisting of one sha
 PCPC WS,"Periphas Capital Partnering Corporation Warrants, each whole warrant exercisable for one share of Cl",NYSE
 PCPDF,PACIFIC CENTURY PREMIUM DEVELOPMENTS LIMITED Ordinary Shares,U
 PCPJ,"PaperClip, Inc. Common Stock",U
-PCPL,CC Neuberger Principal Holdings I,NYSE
-PCPL U,"CC Neuberger Principal Holdings I Units, each consisting of one Class A ordinary share and one-third",NYSE
-PCPL WS,"CC Neuberger Principal Holdings I Warrants, each whole warrant exercisable for one Class A ordinary",NYSE
 PCPPF,PC Partner Group Ltd Ordinary Shares (Cayman Islands),U
 PCPZ,Leeward Group Holdings Inc. New Common Stock,U
 PCQ,Pimco California Municipal Income Fund,NYSE
@@ -2435,6 +2431,7 @@ PHTCF,PLDT Inc. Ordinary Shares,U
 PHUN,"Phunware, Inc. Common Stock",NASDAQ
 PHUNW,"Phunware, Inc. Warrants",NASDAQ
 PHURF,Poh Huat Resources Holdings Bhd Ordinary Shares (Malaysia),U
+PHVS,Pharvaris N.V. Ordinary Shares,NASDAQ
 PHX,PHX Minerals Inc.,NYSE
 PHXCF,Phoenix Canada Oil Co Ltd Ordinary Shares,U
 PHXHF,PHX Energy Services Corp. Ordinary Shares (Canada),U
@@ -3607,6 +3604,7 @@ QUIK,QuickLogic Corporation Common Stock,NASDAQ
 QUILF,Quilter PLC Ordinary Shares (United Kingdom),U
 QUISF,Quisitive Technology Solutions Inc Common Shares  (Canada),U
 QULHF,Quality House Property Fund Units,U
+QULL,ETRACS 2x Leveraged MSCI US Quality Factor TR ETN,ARCA
 QULLF,Mrcb Uill Reit Unit,U
 QUMU,Qumu Corporation Common Stock,NASDAQ
 QUOT,Quotient Technology Inc,NYSE
@@ -3865,11 +3863,12 @@ REKRP,"Rekor Systems, Inc. Preferred Stock",U
 REKRW,"Rekor Systems, Inc. Warrant",U
 RELFF,Reliance Infrastructure Ltd Reg S GDR (India),U
 RELI,"Reliance Global Group, Inc. Common Stock",U
+RELIW,"Reliance Global Group, Inc. Series A Warrants",NASDAQ
 RELL,"Richardson Electronics, Ltd. Common Stock",NASDAQ
 RELM,Relm Holdings Inc Common Stock,U
 RELOF,"Relo Holdings Inc, Tokyo Ordinary Shares (Japan)",U
 RELT,Reliant Holdings Inc Common Stock,U
-RELVD,RELIV INTL INC Common Stock,U
+RELV,RELIV INTL INC Common Stock,U
 RELX,RELX PLC,NYSE
 REM,iShares Mortgage Real Estate ETF,BATS
 REMI,"Remedent, Inc. Common Stock",U
@@ -4150,6 +4149,7 @@ RMETF,Rackla Metals Inc Common Shares,U
 RMGB,RMG Acquisition Corp. II Class A Ordinary Shares,NASDAQ
 RMGBU,RMG Acquisition Corp. II Unit,NASDAQ
 RMGBW,RMG Acquisition Corp. II Warrant,NASDAQ
+RMGCU,RMG Acquisition Corp. III Unit,NASDAQ
 RMGGF,Resolute Mining Ltd Ordinary Shares,U
 RMGGY,Resolute Mining Ltd Unsponsored ADR (Austrailia),U
 RMGNF,RHI Magnesita NV Ordinary Shares (Netherlands),U
@@ -4786,6 +4786,7 @@ SCCRF,Prosmart Enterprises Inc Ordinary Shares,U
 SCCTY,Scout24 American Depositary Receipts - Unsponsored (Germany),U
 SCD,"LMP Capital and Income Fund, Inc.",NYSE
 SCDA,B- Scada Inc. Common Stock,U
+SCDL,ETRACS 2x Leveraged US Dividend Factor TR ETN,ARCA
 SCE PRG,SCE TRUST II 5.10% Trust Preference Securities,NYSE
 SCE PRH,SCE TRUST III 5.75% Fixed-to-Floating Rate Trust Preference Securities of SCE Trust III,NYSE
 SCE PRJ,SCE TRUST IV 5.375% Fixed-to-Floating Rate Trust Preference Securities,NYSE
@@ -4850,7 +4851,9 @@ SCNNF,SATIVA WELLNESS GROUP INC Common Shares,U
 SCNPF,Shandong Chenming Paper Holdings Ltd SHS (China),U
 SCNTQ,"Scient, Inc. Common Stock",U
 SCO,ProShares UltraShort Bloomberg Crude Oil,ARCA
+SCOA,ScION Tech Growth I Class A Ordinary Shares,NASDAQ
 SCOAU,ScION Tech Growth I Unit,NASDAQ
+SCOAW,ScION Tech Growth I Warrant,NASDAQ
 SCON,Superconductor Technologies Inc. Common Stock,U
 SCOO,"School Specialty, Inc. Com",U
 SCOR,"comScore, Inc. Common Stock",NASDAQ
@@ -4905,6 +4908,7 @@ SCZ,iShares MSCI EAFE Small-Cap ETF,NASDAQ
 SCZC,Santa Cruz County Bank (CA) Common Stock,U
 SCZZY,SOCIETA CATTOLICA DI ASSICURAZIONI - SOCIETA COOPERATIVA American Depositary Receipts - Unsponsored  Italy(IT ),U
 SD,"SandRidge Energy, Inc.",NYSE
+SDACU,Sustainable Development Acquisition I Corp. Unit,NASDAQ
 SDAD,S H Res & Dev Corp Common Stock,U
 SDC,"SmileDirectClub, Inc. Class A Common Stock",NASDAQ
 SDCI,USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund,ARCA
@@ -4926,6 +4930,7 @@ SDHY,PGIM Short Duration High Yield Opportunities Fund,NYSE
 SDIIF,"Scientific Digital Imaging PLC, Cambridge Ordinary Shares (United Kingdom)",U
 SDIPF,FRASERS GROUP PLC Ordinary Shares,U
 SDIV,Global X SuperDividend ETF,ARCA
+SDLDF,"SDI, Ltd. Ordinary Shares (Australia)",U
 SDLPQ,Seadrill Partners LLC Unit Repstg Ltd Liability Co Int,U
 SDMHF,"Sartorius Stedim Biotech, Aubagne Ordinary Shares",U
 SDNI,Scandia Inc Common Stock NEW,U
@@ -5296,3 +5301,4 @@ SHMN,"SOHM, Inc. Common Stock",U
 SHMP,NaturalShrimp Incorporated Common Stock,U
 SHMSY,Shimao Services Holdings Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
+SHMUF,Shimizu Corp Ord Ordinary Shares,U

@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CP,Canadian Pacific Railway,NYSE
-CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAH,CounterPath Corporation Common Stock,NASDAQ
@@ -1297,6 +1295,7 @@ DNDDF,Dundee Sustainable Technologies Inc Ordinary Shares,U
 DNDEF,DUNDEE CORP CUMULATIVE 5 YR RATE RESET (1ST PREF SHS SER 2)  Preference Shares Non Voting  (Canada),U
 DNDPF,Dundee Corp Cumulative 5 Yr Rate Reset (1st Pref Shs Ser 3) Preference Shares  (Canada),U
 DNDT,DND Technologies Inc. Common Stock,U
+DNERF,Downer EDI Ltd Ordinary Shares (Australia),U
 DNERY,Downer EDI Ltd Unsponsored ADR (Australia),U
 DNFGF,Dongfeng Motor Group Company Limited Shs H (China),U
 DNFGY,Dongfeng Motor Group Co. Ltd Unsponsored ADR Representing Shs H  (China),U
@@ -2290,6 +2289,7 @@ ENLV,Enlivex Therapeutics Ltd. Ordinary Shares,NASDAQ
 ENMFF,Energem Resources Inc Ordinary Shares (Canada),U
 ENMHF,ENM Holdings Ltd Ordinary Shares (Hong Kong),U
 ENMI,"Energy Management International, Inc. Common Stock",U
+ENNVU,ECP Environmental Growth Opportunities Corp. Unit,NASDAQ
 ENO,"Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066",NYSE
 ENOB,"Enochian Biosciences, Inc. Common Stock",NASDAQ
 ENOR,iShares MSCI Norway ETF,BATS
@@ -2317,7 +2317,7 @@ ENTEF,ESE ENTMT INC Common Shares,U
 ENTG,"Entegris, Inc. Common Stock",NASDAQ
 ENTI,Encounter Technologies Inc  Common Stock,U
 ENTOF,Entra ASA Common Shares,U
-ENTR,ERShares Entrepreneur 30 ETF,ARCA
+ENTR,ERShares Entrepreneurs ETF,ARCA
 ENTX,Entera Bio Ltd. Ordinary Shares,NASDAQ
 ENTXW,Entera Bio Ltd. Warrant,NASDAQ
 ENV,"ENVESTNET, INC.",NYSE
@@ -2497,7 +2497,7 @@ ERRAF,Emera Inc Cum Pfd 5 Yr Rate Reset Series C (Canada),U
 ERRFY,Eurofins Scientific SE American Depositary Receipts - Unsponsored (Luxembourg),U
 ERRPF,Ero Copper Corp Ordinary Shares (Canada),U
 ERRSF,Euro Resources SA Ordinary Shares (France),U
-ERSX,ERShares Non-US Small Cap ETF,ARCA
+ERSX,ERShares NextGen Entrepreneurs ETF,ARCA
 ERTWF,Eurotech SPA Amaro UD Ordinary Shares (Italy),U
 ERUC,"ER Urgent Care Holdings, Inc. New Common Stock",U
 ERUS,iShares MSCI Russia ETF,ARCA
@@ -2655,6 +2655,8 @@ ETTX,Entasis Therapeutics Holdings Inc. Common Stock,NASDAQ
 ETTYF,Essity Aktiebolag Ordinary Shares (Sweden),U
 ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund,NYSE
 ETW,Eaton Vance Tax-Managed Global Buy-Write Opportunities Fund,NYSE
+ETWO,"E2open Parent Holdings, Inc.",NYSE
+ETWO WS,"E2open Parent Holdings, Inc. Warrants, each whole warrant exercisable for one Class A Common Stock a",NYSE
 ETX,EATON VANCE MUNICIPAL INCOME 2028 TERM TRUST,NYSE
 ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,NYSE
 EUBG,ENTREPRENEUR UNIVERSE BRIGHT GROUP Common Stock,U
@@ -2695,6 +2697,7 @@ EVA,"Enviva Partners, LP",NYSE
 EVAHF,EGF THERAMED HEALTH CORP Ordinary Shares,U
 EVAI,"Elva International, Inc. Common Stock",U
 EVARF,LOMBARD MEDICAL ORD Common Shares,U
+EVAX,Evaxion Biotech A/S American Depositary Share,NASDAQ
 EVBC,Evolution Blockchain Group Inc. Common Stock,U
 EVBG,"Everbridge, Inc. Common Stock",NASDAQ
 EVBN,Evans Bancorp Inc,AMEX
@@ -4074,6 +4077,7 @@ FVSTA,Far Vista Petroleum Corp. Class A Common Stock,U
 FVT U,"Fortress Value Acquisition Corp. III Units, each consisting of one share of Class A common stock and",NYSE
 FVTI,"Fortune Valley Treasures, Inc. Common Stock",U
 FVVSF,Aranjin Resources Ltd.  Ordinary Shares,U
+FWAA,Fifth Wall Acquisition Corp. I Class A Common Stock,NASDAQ
 FWAV,FOURTH WAVE ENERGY INC Common Stock,U
 FWDB,AdvisorShares FolioBeyond Smart Core Bond ETF,ARCA
 FWDEQ,"Fieldwood Energy, Inc Common Stock  Delaware",U
@@ -4581,7 +4585,9 @@ GLADL,Gladstone Capital Corporation 5.375% Notes due 2024,NASDAQ
 GLAE,"GlassBridge Enterprises, Inc. Common Stock",U
 GLAPF,Glanbia Plc Ordinary Shares,U
 GLAPY,Glanbia Plc American Depositary Shares,U
+GLAQ,Globis Acquisition Corp. common stock,NASDAQ
 GLAQU,Globis Acquisition Corp. Unit,NASDAQ
+GLAQW,Globis Acquisition Corp. Warrant,NASDAQ
 GLATF,Global Atomic Corp Ordinary Shares,U
 GLAXF,Glaxosmithkline Plc Ord 25p Ordinary Shares,U
 GLBB,Global Quest Ltd Common Stock,U
@@ -5155,6 +5161,7 @@ GSPH,Geospatial Corporation Common Stock,U
 GSPI,Green Star Products Inc,U
 GSPT,Golden Star Enterprises Ltd. Common Stock,U
 GSPY,Gotham Enhanced 500 ETF,ARCA
+GSQD U,"G Squared Ascend I Inc. Units, each consisting of one Class A ordinary share and one-fifth of one Wa",NYSE
 GSRCF,GSP RESOURCE CORP COM (Canada),U
 GSRX,GSRX Industries Inc. Common Stock,U
 GSS,Golden Star Resources Ltd.,AMEX

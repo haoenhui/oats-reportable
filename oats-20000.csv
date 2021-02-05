@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
@@ -837,7 +836,6 @@ SPNUF,Spirent plc Ordinary Shares,U
 SPNV,"Supernova Partners Acquisition Company, Inc.",NYSE
 SPNV U,"Supernova Partners Acquisition Company, Inc. Units, each consisting of one share of Class A common s",NYSE
 SPNV WS,"Supernova Partners Acquisition Company, Inc. Warrants, each whole warrant exercisable for one share",NYSE
-SPNX,SUPERIOR ENERGY SVCS INC Common Stock,U
 SPNZF,South Port New Zealand Ltd Ordinary Shares,U
 SPOC,Spectrum Oil Corp New Common Stock,U
 SPOI,"SPO Networks, Inc. Common Stock",U
@@ -988,6 +986,7 @@ SRGGF,SRG Global Ltd Ordinary Shares (Australia),U
 SRGHY,Shoprite Holdings Ltd Ord SPONSORED ADR,U
 SRGMF,SRG MNG INC Ordinary Shares (Canada),U
 SRGPF,"Sri Trang Agro Industry Public Co Ltd, NVDR Shares (Thailand)",U
+SRGRF,Sunpower Group Ltd. Ordinary Shares (Bermuda),U
 SRGZ,Star Gold Corp. Common Stock,U
 SRHBF,Starhub Ltd Ordinary Shares (Singapore),U
 SRHBY,Starhub Ltd Unsponsored ADR (Singapore),U
@@ -1934,6 +1933,7 @@ TEQI,T. Rowe Price Equity Income ETF,ARCA
 TER,"Teradyne, Inc. Common Stock",NASDAQ
 TERA,TeraForce Technology Corporation Common Stock,U
 TERM,EquityCompass Tactical Risk Manager ETF,ARCA
+TERN,"Terns Pharmaceuticals, Inc. Common Stock",NASDAQ
 TERNF,Tern PLC Ordinary Shares (United Kingdom),U
 TERRF,Trasmissione Elettricita Rete Nazionale Spa Roma Ordinary Shares (Italy),U
 TESS,TESSCO Technologies Incorporated Common Stock,NASDAQ
@@ -2229,6 +2229,7 @@ TKLS,"Trutankless, Inc. Common Stock",U
 TKMTF,TAKAMATSU MACHINERY CO LTD MATSUTOU Ordinary Shares,U
 TKOBF,Tokyo Broadcasting System Ord Ordinary Shares (Japan),U
 TKOI,"Telkonet, Inc. Common Stock",U
+TKOLF,Teikoku Elec Mfg Co Ltd Ordinary Shares (Japan),U
 TKOMF,"Tokio Marine Holdings, Inc. Ordinary Shares (Japan)",U
 TKOMY,"Tokio Marine Holdings, Inc. Sponsored ADR (Japan)",U
 TKPHF,Takeda Pharmaceutical Co Ltd Ordinary Shares (Japan),U
@@ -2819,7 +2820,7 @@ TTCFW,"Tattooed Chef, Inc. Warrant",NASDAQ
 TTCIF,TITAN CEM INTL N V REGISTERED SHS (Belgium),U
 TTCM,Tautachrome Inc. Common Stock,U
 TTCNF,"Telit Communications Plc, London Ordinary shares (United Kingdom)",U
-TTCS,TIE Technologies Inc New,U
+TTCSD,Skywealth Group Inc. Common Stock,U
 TTD,"The Trade Desk, Inc. Class A Common Stock",NASDAQ
 TTDKF,TDK Corp Ordinary Shares (Japan),U
 TTDKY,TDK Corporation Common Stock,U
@@ -3376,12 +3377,12 @@ USB PRH,"US Bancorp Depositary Shares (1/1,000 Interest in Ser. B Non-Cum. Prptl
 USB PRM,"U.S. Bancorp Depositary Shares, each representing 1/1000th interest in a share of Series F Non-Cumul",NYSE
 USB PRP,"U.S. Bancorp Depositary Shares each representing a 1/1,000th interest in a share of Series K Non-Cum",NYSE
 USB PRQ,"U.S. Bancorp Depositary Shares, Each Representing a 1/1, 000th Interest in a Share of Series L Non-",NYSE
+USB PRR,"U.S. Bancorp Depositary Shares, Each Representing a 1/1, 000th Interest in a Share of Series M Non-",NYSE
 USBBU,U S Prem Beef LLC Unit Cl B,U
 USBC,US BioTec Inc New Common Shares (NV),U
 USBFU,U S Prem Beef LLC Unit Cl A,U
 USBK,USA Bank (NY) Common Stock,U
 USBL,"United States Basketball League, Inc. Common Stock",U
-USBML,US BANCORP DEL DEPOSITARY SHS REPSTG 1/1000TH INT PFD SER M 4% Depositary Shares,U
 USCI,US Commodity Index,ARCA
 USCR,"U.S. Concrete, Inc. Common Stock",NASDAQ
 USCS,USCorp Common Stock,U
@@ -3418,6 +3419,7 @@ USMC,Principal Exchange-Traded Funds Principal U.S. Mega-Cap ETF,NASDAQ
 USMF,WisdomTree U.S. Multifactor Fund,BATS
 USMHF,UNITED SUPER MKTS HLDGS INC Common Stock,U
 USMJ,"North American Cannabis Holdings, Inc. Common Stock",U
+USML,ETRACS 2x Leveraged MSCI US Minimum Volatility Factor TR ETN,ARCA
 USMT,US METRO BANCORP Common Stock,U
 USMV,iShares MSCI USA Min Vol Factor ETF,BATS
 USNA,USANA Health Sciences Inc,NYSE
@@ -3469,7 +3471,6 @@ UTSI,UTStarcom Holdings Corp.,NASDAQ
 UTSL,Direxion Daily Utilities Bull 3X Shares,ARCA
 UTWTF,Ucapital24 SPA Azioni Ordinary Shares (Italy),U
 UTZ,"Utz Brands, Inc.",NYSE
-UUCC,UCI Intl Hldgs Inc Common Stock,U
 UUGRY,United Utilities Group Plc Sponsored ADR (UK),U
 UUGWF,"United Utilities Group Plc, Warrington Ordinary Shares (UK)",U
 UUICF,United Urban Investment Corp Tokyo Ordinary Shares (Japan),U
@@ -3818,6 +3819,7 @@ VLNCF,The Valens Company Inc Ordinary Shares,U
 VLNSF,Velan Inc Sub Voting Shares (Canada),U
 VLNVF,Van Lanschot NV Cert of Shs (Netherlands) EUR,U
 VLO,Valero Energy Corporation,NYSE
+VLON,Vallon Pharmaceuticals Inc. Common Stock,NASDAQ
 VLOUF,VALLOUREC Ordinary Shares,U
 VLOWY,Vallourec S.A. Ord American Depositary Receipts - Sponsored,U
 VLPNF,Voestalpine AG Ordinary Shares (Austria),U
@@ -3935,6 +3937,7 @@ VOOV,Vanguard S&P 500 Value ETF,ARCA
 VOPKF,Koninklijke Vopak NV Rotterdam (Netherlands) EUR Ordinary Shares,U
 VOPKY,Koninklijke Vopak NV Rotterdam Unsponsored ADR (Netherlands),U
 VOQP,"VioQuest Pharmaceuticals, Inc. Common Stock",U
+VOR,Vor Biopharma Inc. Common Stock,NASDAQ
 VOSOU,Virtuoso Acquisition Corp. Unit,NASDAQ
 VOSSF,Vossloh Ordinary Shares,U
 VOSSY,Vossloh AG Unsponsored ADR (Germany),U
@@ -4064,7 +4067,10 @@ VSYNF,VESYNC CO LTD Ordinary Shares,U
 VSYS,"Viscount Systems, Inc. Common Stock",U
 VT,Vanguard Total World Stock ETF,ARCA
 VTA,INVESCO DYNAMIC CREDIT OPPORTUNITIES FUND,NYSE
+VTAQ,Ventoux CCM Acquisition Corp. Common Stock,NASDAQ
+VTAQR,Ventoux CCM Acquisition Corp. Right,NASDAQ
 VTAQU,Ventoux CCM Acquisition Corp. Unit,NASDAQ
+VTAQW,Ventoux CCM Acquisition Corp. Warrant,NASDAQ
 VTC,Vanguard Scottsdale Funds Vanguard Total Corporate Bond ETF,NASDAQ
 VTDRF,Vantage Drilling International Ord Shs (Cayman Islands),U
 VTEB,Vanguard Tax-Exempt Bond Index Fund,ARCA

@@ -355,7 +355,9 @@ ADMQ,ADM Endeavors Inc Common Shares,U
 ADMS,"Adamas Pharmaceuticals, Inc. Common Stock",NASDAQ
 ADMT,"ADM Tronics Unlimited, Inc. Common Stock",U
 ADMV,ADAMAS VENTURES INC Common Stock,U
+ADN,"Advent Technologies Holdings, Inc. Class A Common Stock",NASDAQ
 ADNT,Adient plc Ordinary Shares,NYSE
+ADNWW,"Advent Technologies Holdings, Inc. Warrant",NASDAQ
 ADNY,Adino Energy Corporation Common Stock,U
 ADOB,Adorbs Inc Common Stock,U
 ADOC,Edoc Acquisition Corp. Class A Ordinary Share,NASDAQ
@@ -432,6 +434,7 @@ AEGXF,AECON GROUP INC Ordinary Shares,U
 AEGY,Alternative Energy Partners Inc. Common Stock,U
 AEHL,Antelope Enterprise Holdings Limited Common Stock (0.024 par),NASDAQ
 AEHR,Aehr Test Systems Common Stock,NASDAQ
+AEI,Alset EHome International Inc. Common Stock,NASDAQ
 AEICF,Aeria Inc Tokyo Ordinary Shares (Japan),U
 AEIS,"Advanced Energy Industries, Inc. Common Stock",NASDAQ
 AEL,American Equity Investment Life Holding Company,NYSE
@@ -587,7 +590,6 @@ AGGI,"Allied Energy, Inc. Common Stock",U
 AGGKY,Aggreko plc American Depositary Receipts - Unsponsored,U
 AGGL,"AgTech Global International, Inc. Common Stock",U
 AGGNY,Aegean Airls SA American Depositary Receipts - Unsponsored (Greece),U
-AGGP,IQ Enhanced Core Plus Bond U.S. ETF,ARCA
 AGGX,"AngioGenex, Inc. Common Stock",U
 AGGY,WisdomTree Yield Enhanced U.S. Aggregate Bond Fund,ARCA
 AGGZF,AG Growth International Inc. Common Shares (Canada),U
@@ -1057,9 +1059,6 @@ AMC,"AMC ENTERTAINMENT HOLDINGS, INC.",NYSE
 AMCA,iShares Trust iShares Russell 1000 Pure U.S. Revenue ETF,NASDAQ
 AMCCF,Amcor PLC CDI 1:1,U
 AMCF,Andatee China Marine Fuel Services Corporation Common Stock,U
-AMCI,AMCI Acquisition Corp. Class A Common Stock,NASDAQ
-AMCIU,AMCI Acquisition Corp. Unit,NASDAQ
-AMCIW,AMCI Acquisition Corp. Warrant,NASDAQ
 AMCR,Amcor plc Ordinary Shares,NYSE
 AMCT,American Ed Ctr Inc Common Stock,U
 AMCUF,Amata Corp Public Co Ltd Units Non-Voting Depositary Receipt (Thailand),U
@@ -1238,6 +1237,7 @@ ANGGF,Angang Steel Co Ltd  Ordinary Shares H (China),U
 ANGI,ANGI Homeservices Inc. Class A Common Stock,NASDAQ
 ANGL,VanEck Vectors Fallen Angel High Yield Bond,NASDAQ
 ANGMF,ANGLER GAMING PLC EUR0.01 ORDINARY SHARES (Malta),U
+ANGN,Angion Biomedica Corp. Common Stock,NASDAQ
 ANGO,"AngioDynamics, Inc. Common Stock",NASDAQ
 ANGPY,Anglo American Platinum Ltd American Depositary Receipts - Sponsored (South Africa),U
 ANGUF,Canada One Mng Corp Ordinary Shares,U
@@ -1541,6 +1541,7 @@ ARKAF,Arkema Ordinary Shares (France),U
 ARKAY,Arkema Sponsored ADR (France),U
 ARKF,ARK Fintech Innovation ETF,ARCA
 ARKG,ARK Genomic Revolution ETF,BATS
+ARKIU,Ark Global Acquisition Corp. Unit,NASDAQ
 ARKK,ARK Innovation ETF,ARCA
 ARKO,ARKO Corp. Common Stock,NASDAQ
 ARKOW,ARKO Corp. Warrant,NASDAQ
@@ -1663,7 +1664,7 @@ ASCK,AUSCRETE CORP Common Stock,U
 ASCLF,Ascletis Pharma Inc Ordinary Shares (Cayman Islands),U
 ASCN,Absecon Bancorp Common Stock,U
 ASCOF,Ascopiave SPA Treviso Ordinary Shares (Italy),U
-ASDN,Astro Aerospace Ltd. Common Stock,U
+ASDND,Astro Aerospace Ltd. Common Stock,U
 ASDOF,Ansaldo Sts Spa Genova Ordinary Shares (Italy),U
 ASDRF,Ascendant Res Inc Ordinary Shares,U
 ASDZF,Arctic Star Expl Corp Common Shares,U
@@ -1830,7 +1831,7 @@ ATHE,Alterity Therapeutics Limited American Depositary Shares,NASDAQ
 ATHI,"American Transportation Holdings, Inc.  Common Stock",U
 ATHJF,Antisense Therapeutics Ltd Ordinary Shares,U
 ATHJY,Antisense Therapeutics Ltd Sponsored ADR (Australia),U
-ATHM,AUTOHOME INC.,NYSE
+ATHM,"Autohome Inc. American Depositary Shares, each representing four Class A Ordinary Shares",NYSE
 ATHOF,Athabasca Oil Corporation Ordinary Shares (Canada),U
 ATHX,"Athersys, Inc. Common Stock",NASDAQ
 ATI,Allegheny Technologies,NYSE
@@ -1854,6 +1855,7 @@ ATMH,ALL THINGS MOBILE ANALYTIC INC Common Stock,U
 ATMO,"AmericaTowne Holdings, Inc. Common Stock",U
 ATMP,iPath Select MLP ETN,BATS
 ATMQF,Ateam Inc Common Stock (Japan),U
+ATMR U,"Altimar Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fourth of",NYSE
 ATMRF,Altamir Ordinary Shares (France),U
 ATMS,"Artemis Therapeutics, Inc. Common Stock",U
 ATNE,Alternative Energy Technology Inc Common Stock,U
@@ -3166,6 +3168,7 @@ BOLIF,Boliden AB Share AK (Sweden),U
 BOLL,"Bollinger Industries, Inc. Common Stock",U
 BOLSF,B3 SA Reg Shs Ord Common Shares (Brazil),U
 BOLSY,B3 SA Brasil Bolsa Balcao American Depositary Receipts - Unsponsored (Brazil),U
+BOLT,"Bolt Biotherapeutics, Inc. Common Stock",NASDAQ
 BOLV,Bolivar Mining Corp. Common Stock,U
 BOMBF,Bombardier Inc Preferred Series 3 Adjustable Rate,U
 BOMH,"Boomer Holdings, Inc. Common Stock",U
@@ -3184,7 +3187,6 @@ BOPFF,Border Petroleum Ltd. Ordinary Shares (Canada),U
 BOPO,BioPower Operations Corp Common Stock,U
 BOREF,Borealis Exploration Ltd Ordinary Shares,U
 BORK,"Bourque Industries, Inc. Common Stock",U
-BORMF,Norden Crown Metals Corp Common Shares,U
 BORNY,China New Borun Corporation ADR,U
 BORR,Borr Drilling Limited Common shares of par value $0.05 per share,NYSE
 BORT,Bank of Botetourt Buchanan Va Common Stock,U
@@ -4036,7 +4038,6 @@ CCHI,"Cambridge Capital Holdings, Inc. Common Stock",U
 CCHWF,Columbia Care Inc Common Shares (Canada),U
 CCHZ,Career College Holding Company Inc Common Stock,U
 CCI,Crown Castle Intl. Corp.,NYSE
-CCIHY,ChinaCache International Holdings Ltd. American Depositary Shares,U
 CCIV,Churchill Capital Corp IV,NYSE
 CCIV U,"Churchill Capital Corp IV Units, each consisting of one share of Class A common stock and one-fifth",NYSE
 CCIV WS,"Churchill Capital Corp IV Warrants, each exercisable for one share of Class A common stock at an exe",NYSE
@@ -4097,7 +4098,9 @@ CCTR,"China Crescent Enterprises, Inc. Common Stock",U
 CCTTF,CITIC TELECOM INTERNATIONAL HOLDINGS LTD SHS (Hong Kong),U
 CCU,Compania Cervecerias Unidas S.A.,NYSE
 CCUR,"CCUR Holdings, Inc. Common Stock",U
+CCV,Churchill Capital Corp V,NYSE
 CCV U,"Churchill Capital Corp V Units, each consisting of one share of Class A common stock, and one-fourth",NYSE
+CCV WS,"Churchill Capital Corp V Warrants, each exercisable for one share of Class A common stock at an exer",NYSE
 CCVAJ,Country Club of Virginia Inc CDT-Cap Stk,U
 CCVS,Citizens Comm Bancshares Inc Common Stock,U
 CCVTF,China Conch Venture Hldgs Ltd Ordinary Shares (Cayman Islands),U
@@ -5046,6 +5049,7 @@ CNENF,Claren Energy Corp Ordinary Shares,U
 CNER,China New Energy Group Company Common Stock,U
 CNET,ZW Data Action Technologies Inc. Common Stock,NASDAQ
 CNEWF,China New Higher Education Group Limited Ordinary Shares (Cayman Islands),U
+CNEY,CN Energy Group Inc. Ordinary Shares,NASDAQ
 CNF,"CNFinance Holdings Limited American Depositary Shares (ADSs), each representing twenty (20) Ordina",NYSE
 CNFN,CFN ENTERPRISES INC Common Stock,U
 CNFR,"Conifer Holdings, Inc. Common Stock",NASDAQ
@@ -5284,6 +5288,7 @@ COTY,COTY INC,NYSE
 COUP,Coupa Software Incorporated Common Stock,NASDAQ
 COUTF,China Outfitters Holdings Limited Ordinary Shares (Cayman Islands),U
 COUV,"Corporate Universe, Inc.",U
+COVAU,COVA Acquisition Corp. Unit,NASDAQ
 COVTY,Covestro AG ADR - Sponsored (Germany),U
 COW,iPath Series B Bloomberg Livestock Subindex Total ReturnSM ETN,ARCA
 COWI,"CoroWare, Inc. Common Stock",U
@@ -5296,3 +5301,5 @@ COWTF,Barclays Bk PLC iPath Bloomberg Livestock Subindex Total Return ETN due 10
 COWZ,Pacer US Cash Cows 100 ETF,BATS
 COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
+CP,Canadian Pacific Railway,NYSE
+CPA,"Copa Holdings, S.A.",NYSE
