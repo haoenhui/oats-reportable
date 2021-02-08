@@ -372,6 +372,7 @@ ADPPF,ADO PPTYS S A Ordinary Shares (Luxembourg),U
 ADPT,Adaptive Biotechnologies Corporation Common Stock,NASDAQ
 ADPXF,Audio Pixels Holdings Ltd Ordinary Shares (Australia),U
 ADPXY,Audio Pixels Holdings Ltd Sponsored ADR (Australia),U
+ADRA U,"Adara Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of",AMEX
 ADRE,Invesco BLDRS Emerging Markets 50 ADR Index Fund,NASDAQ
 ADRNY,Koninklijke Ahold Delhaize N.V. American Depositary Receipts - Sponsored,U
 ADRZF,Andritz Ag Graz Ordinary Shares,U
@@ -945,7 +946,7 @@ ALLQ,ALL-Q-TELL Corporation. Common Stock,U
 ALLT,Allot Ltd. Ordinary Shares,NASDAQ
 ALLVF,Altice Europe N V Ordinary Shares,U
 ALLWF,ALLIED MINDS LTD Ordinary Shares (United Kingdom),U
-ALLXF,Caldas Gold Corp.  Common Stock,U
+ALLXF,ARIS GOLD CORP Common Stock,U
 ALLY,Ally Financial Inc.,NYSE
 ALLY PRA,"GMAC Capital Trust I  8.125% Fixed Rate/Floating Rate Trust Preferred Securities, Series 2",NYSE
 ALMC,Alimco Financial Corporation Common Stock,U
@@ -2286,6 +2287,7 @@ BANR,Banner Corporation Common Stock,NASDAQ
 BANT,Bantec Inc. Common Stock,U
 BANX,StoneCastle Financial Corp Common Stock,NASDAQ
 BAOB,"Baraboo Bancorp, Inc. (Wisconsin) Common Stock",U
+BAOS,Baosheng Media Group Holdings Limited Ordinary shares,NASDAQ
 BAP,Credicorp LTD,NYSE
 BAPR,Innovator S&P 500 Buffer ETF - April,BATS
 BAR,GraniteShares Gold Shares,ARCA
@@ -2814,7 +2816,6 @@ BKBEF,Pipestone Energy Corp Common Shares,U
 BKBFF,Pipestone Energy Corp Warrant,U
 BKBLF,Magnetic North Acquisition Corp Ordinary Shares,U
 BKCC,BlackRock Capital Investment Corporation Common Stock,NASDAQ
-BKCQF,Bespoke Cap Acquisition Corp Cl A Restricted Vtg (Canada),U
 BKCYF,Bank Cyprus Hldgs Pub Ltd Co Ordinary Shares (Ireland),U
 BKD,"Brookdale Senior Living, Inc.",NYSE
 BKDKP,STANLEY BLACK & DECKER INC Preferred Stock PERP PFD CONV SER C,U
@@ -3455,6 +3456,7 @@ BSPA,"Ballston Spa Bancorp, Inc. (NY) Common Stock",U
 BSPB,BOSP Bancshares Inc Common Stock,U
 BSPDF,PT Bumi Serpong Damai Ordinary Shares (Indonesia),U
 BSPDY,PT Bumi Serpong Damai Tbk Unsponsored ADR (Indonesia),U
+BSPE,Bespoke Capital Acquisition Corp. Class A Restricted Voting Shares,NASDAQ
 BSPK,"Bespoke Extracts, Inc. Common Stock",U
 BSPM,BIOSTAR PHARMACEUTICALS INC Common Stock,U
 BSPR,Bigsupersearch.com Inc Common Stock,U
@@ -4119,7 +4121,7 @@ CD,Chindata Group Holdings Limited American Depositary Shares,NASDAQ
 CDAB,Coeur D Alene Bancorp Common Stock,U
 CDAK,"Codiak BioSciences, Inc. Common Stock",NASDAQ
 CDAY,Ceridian HCM Holding,NYSE
-CDBMF,Cordoba Minerals Corp. Common Shares (Canada),U
+CDBMF,Cordoba Minerals Corp. Common Shares,U
 CDBT,China Dasheng Biotechnology Company  Common Stock,U
 CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,NASDAQ
 CDCLF,Canada Coal Inc Ordinary Shares,U
@@ -4762,7 +4764,7 @@ CLF,Cleveland-Cliffs Inc.,NYSE
 CLFD,"Clearfield, Inc. Common Stock",NASDAQ
 CLFMF,iShares 1-5 Year Laddered Government Bond ETF (Canada),U
 CLGCF,CLARITY GOLD CORP Common Shares,U
-CLGDF,Caldas Gold Corp Warrant   07/29/2025,U
+CLGDF,ARIS GOLD CORP Warrant,U
 CLGMF,Cleghorn Minerals Ordinary Shares (Canada),U
 CLGN,CollPlant Biotechnologies Ltd American Depositary Shares,NASDAQ
 CLGPF,Clean Seed Cap Group Ltd Common Shares (Canada),U
@@ -5303,3 +5305,4 @@ COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
+CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE

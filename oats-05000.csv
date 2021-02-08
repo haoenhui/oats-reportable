@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
@@ -84,6 +83,7 @@ CPTAG,Capitala Finance Corp. 5.75% Convertible Notes Due 2022,NASDAQ
 CPTAL,Capitala Finance Corp. 6% Notes Due 2022,NASDAQ
 CPTFF,Concept Fund Solutions PLC DBX S&P 500 EQUAL Wght (DR) ETF (Ireland),U
 CPTHF,Adams PLC Ordinary shares (Isle of Man),U
+CPTK U,"Crown PropTech Acquisitions Units, each consisting of one Class A ordinary share and one-third of on",NYSE
 CPTP,"Capital Properties, Inc. Class A Common Stock",U
 CPUH U,"Compute Health Acquisition Corp. Units, each consisting of one share of Class A common stock and one",NYSE
 CPVNF,CAPITAL VENTURE EUROPE PLC  Ordinary Shares (United Kingdom),U
@@ -1337,6 +1337,7 @@ DNZ U,"D and Z Media Acquisition Corp. Units, each consisting of one share of Cl
 DNZOF,Denso Corp Ltd Ord Ordinary Shares,U
 DNZOY,Denso Corp Ltd Ord American Depositary Shares,U
 DOC,PHYSICIANS REALTY TRUST,NYSE
+DOCKF,BEYOND MED TECHNOLOGIES INC Common Stock,U
 DOCMF,DR. MARTENS PLC ORD GBP0.01 (United Kingdom),U
 DOCOF,Do & Co AG Ordinary Shares (Austria),U
 DOCRF,CLOUDMD SOFTWARE & SVCS INC Common Shares,U
@@ -3369,7 +3370,9 @@ FKU,First Trust United Kingdom AlphaDex Fund,NASDAQ
 FKWL,Franklin Wireless Corp. Common Stock,U
 FKYS,First Keystone Corp Common Stock,U
 FL,"Foot Locker, Inc.",NYSE
+FLAC,Frazier Lifesciences Acquisition Corporation Class A Ordinary Shares,NASDAQ
 FLACU,Frazier Lifesciences Acquisition Corporation Unit,NASDAQ
+FLACW,Frazier Lifesciences Acquisition Corporation Warrant,NASDAQ
 FLAF,"Farm Lands of Africa, Inc. Common stock",U
 FLAU,Franklin FTSE Australia ETF,ARCA
 FLAX,Franklin FTSE Asia ex Japan ETF,ARCA
@@ -3860,7 +3863,6 @@ FSBH,FIRST SOUTHN BK PATTERSON GA Common Stock,U
 FSBW,"FS Bancorp, Inc. Common Stock",NASDAQ
 FSCR,Federal Screw Works Common Stock,U
 FSD,FIRST TRUST HIGH INCOME LONG/SHORT FUND,NYSE
-FSDC,FS Development Corp. Class A Common Stock,NASDAQ
 FSDK,First Citizens Nat Bk Up Sndky Common Stock,U
 FSEA,First Seacoast Bancorp Common Stock,NASDAQ
 FSEI,FIRST SEISMIC Corporation Common Stock,U
@@ -4451,7 +4453,9 @@ GFSZF,G4S Plc Ordinary Shares (United Kingdom),U
 GFSZY,G4S Plc Unsponsored ADR (UK),U
 GFTRF,Gold'n Futures Mineral Corp. Common Shares,U
 GFTX,"Global Fiber Technologies, Inc. Common Stock",U
+GFX,Golden Falcon Acquisition Corp.,NYSE
 GFX U,"Golden Falcon Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-",NYSE
+GFX WS,"Golden Falcon Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Co",NYSE
 GGABF,Grupo Financiero Galicia S.A. Ordinary Shares,U
 GGAL,Grupo Financiero Galicia S.A. American Depositary Shares,NASDAQ
 GGAZF,Goldgroup Mining Inc. Ordinary Shares (Canada),U
@@ -4754,6 +4758,7 @@ GMSC,Grand Entertainment & Music Inc. New Common Stock,U
 GMSQF,GAMESQUARE ESPORTS INC Ordinary Shares,U
 GMTA,GATX Corporation 5.625% Senior Notes 5/30/2066,NYSE
 GMTU,"Green Mountain Merger, Inc. Common Stock",U
+GMTX,"Gemini Therapeutics, Inc. Common Stock",NASDAQ
 GMUAF,Gamuda Bhd Ordinary Shares (Malaysia),U
 GMVHF,ENTAIN PLC Ordinary Shares,U
 GMVHY,ENTAIN PLC American Depositary Receipts - Unsponsored,U
@@ -5301,5 +5306,3 @@ GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U

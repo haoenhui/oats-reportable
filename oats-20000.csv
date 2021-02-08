@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
-SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
@@ -25,6 +23,7 @@ SHPPY,Sophos Group PLC American Depositary Receipts - Unsponsored (United Kingdo
 SHRG,Sharing Services Global Corp. Common Stock,U
 SHRMF,CHAMPIGNON BRANDS INC  Common Shares Canada(CA ),U
 SHRRF,S HOTELS & RESORTS PUB CO LTD LOCAL SHARES (Thailand),U
+SHRSF,iShares II PLC Govt Bond 7-10yr UCITS Exchange Traded Fund EUR Dist (Ireland),U
 SHSMF,Shima Seiki Manufacturing Ltd Ordinary Shares (Japan),U
 SHSP,"SharpSpring, Inc. Common Stock",NASDAQ
 SHTDF,Sinopharm Group Co. Ltd Ordinary Shares (China),U
@@ -359,6 +358,7 @@ SLYV,SPDR S&P 600 Small Cap Value ETF (based on S&P SmallCap 600 Value Index sym
 SLZNF,SLAVE LAKE ZINC CORP Common Shares Canada(CA ),U
 SM,SM Energy Company,NYSE
 SMAA,"SMA ALLIANCE, INC. Common Stock",U
+SMAGF,Soma Gold Corp Ordinary Shares,U
 SMAL,"Summit Bancshares, Inc. (CA) Common Stock",U
 SMANP,Standard Management Corporation Capital Trust I 10.25% Cumulative Trust Preferred Securities,U
 SMAR,Smartsheet Inc.,NYSE
@@ -742,6 +742,7 @@ SOYO,"Soyo Group, Inc. Common Stock",U
 SP,SP Plus Corporation Common Stock,NASDAQ
 SPAB,SPDR Portfolio Aggregate Bond ETF,ARCA
 SPAK,Defiance Next Gen SPAC Derived ETF,ARCA
+SPAQ U,"Spartan Acquisition Corp. III Units, each consisting of one share of Class A common stock and one-fo",NYSE
 SPASF,Singapore Airport Terminal Services Ltd Ordinary Shares,U
 SPASY,SATS Ltd Unsponsored ADR (Singapore),U
 SPAZF,Spanish Mountain Gold Ltd. Common Shares (Canada),U
@@ -2620,6 +2621,7 @@ TRKCY,Trakya Cam Sanayii AS Unsponsored ADR (Turkey),U
 TRKNF,Turk Telekomunikasyon AS Ordinary Shares (Turkey),U
 TRKNY,Turk Telekomunikasyon Unsponsored American Depository Receipt (Turkey),U
 TRKR,Tracker Corporation of America (The) Common Stock,U
+TRKUF,TARKU RES LTD Common Shares,U
 TRKX,"Trek Resources, Inc. Common Stock",U
 TRKYY,Turkiye Sinai Kalkinma Bankasi As Unsponsored ADR (Turkey),U
 TRLC,TRILINC Global Impact Fund LLC Unit Class A,U
@@ -2651,7 +2653,7 @@ TRP,TC Energy Corporation,NYSE
 TRPEF,TC Energy Corp Cum Redem 1st Pfd Shs Ser 3 (Canada),U
 TRPRY,Trustpower Ltd Ord Unsponsored ADR (New Zealand),U
 TRPS,TRIP TECHNOLOGIES INC Common Stock,U
-TRPXY,Therapix Biosciences Ltd American Depositary Receipts - Sponsored,U
+TRPXY,SciSparc Ltd.  American Depositary Receipts - Sponsored,U
 TRQ,Turquoise Hill Resources Ltd,NYSE
 TRRB,Tripborn Inc Common Stock,U
 TRRE,"Terra Energy Resources, Ltd. Common Stock",U
@@ -2713,6 +2715,7 @@ TRXO,"Columbine Valley Resources, Inc. Common Stock",U
 TRXPF,Torii Pharmaceutical Co Ordinary Shares,U
 TRYIF,Toray Inds Inc Ord Ordinary Shares,U
 TRYIY,Toray Industries Inc ADR,U
+TRYPF,Tryp Thrapeutics Inc Common Stock (Canada),U
 TRYRF,Troy Resources Ltd. Ordinary Shares (Austrailia),U
 TRYXF,Bessor Minerals Inc Common Shares,U
 TRZBF,Transat A.T. Inc Ordinary Shares (Canada),U
@@ -3246,7 +3249,6 @@ UNBK,United National Bank Cairo GA Common Stock,U
 UNBLF,UNIBAIL-RODAMCO SE Ordinary Shares,U
 UNCFF,Unicredito Spa Roma Ordinary Shares,U
 UNCHF,Unicharm Corp Ordinary Shares (Japan),U
-UNCP,UNIT CORP COM NEW,U
 UNCRY,Unicredito SPA American Depositary Receipts - Unsponsored (Italy),U
 UNDR,UnderSea Recovery Corporation. Common Stock,U
 UNEGF,United Energy Group Ltd Ordinary Shares (Bermuda),U
@@ -3289,6 +3291,7 @@ UNQL,"Unique Logistics International, Inc. Common Stock",U
 UNRG,United Energy Corporation Common Stock,U
 UNRIF,UNITED CO RUSAL INTL PUB JT STK CO Ordinary Shares (Russia),U
 UNSS,"Universal Solar Technology, Inc. Common Stock",U
+UNTC,UNIT CORP COM NEW,U
 UNTN,"United Tennessee Bankshares, Inc. Common Stock",U
 UNTOF,Unitronics (1989) Ltd. Ordinary Shares (Israel),U
 UNTY,"Unity Bancorp, Inc. Common Stock",NASDAQ
@@ -4991,6 +4994,7 @@ YDUQY,YDUQS PARTICIPACOES S A American Depositary Receipts - Sponsored,U
 YDVL,Yadkin Valley Company New Common Stock,U
 YDWAF,Yodogawa Steel Works Ordinary Shares (Japan),U
 YECO,YULONG ECO-MATLS LTD Ordinary Shares,U
+YELL,Yellow Corporation Common Stock,NASDAQ
 YELP,YELP INC.,NYSE
 YETI,"YETI Holdings, Inc. Common Stock",NYSE
 YEWB,Yew Bio-Pharm Group Inc Common,U
@@ -5064,7 +5068,6 @@ YQUFF,Quonia Socimi SA Ordinary Shares (Spain),U
 YRAIF,Yara International ASA Ordinary Shares (Norway),U
 YRBAF,"Yorbeau Resources, Inc. Class A Ordinary Shares (Canada)",U
 YRCCF,Yurtec Corp SHS (Japan),U
-YRCW,"YRC Worldwide, Inc. Common Stock",NASDAQ
 YRD,Yiren Digital Ltd.,NYSE
 YRIV,Yangtze River Port & Logistics Ltd Common Stock,U
 YRKB,York Traditions Bank York County PA Common Stock,U

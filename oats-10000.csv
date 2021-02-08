@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
@@ -1442,7 +1444,9 @@ IIFIF,"Industrial & Infrastructure Fund Investment Corp., Tokyo Ordinary Shares 
 IIGD,Invesco Investment Grade Defensive ETF,ARCA
 IIGV,Invesco Investment Grade Value ETF,ARCA
 III,"Information Services Group, Inc. Information Services Group Inc. Common Stock",NASDAQ
+IIII,INSU Acquisition Corp. III Class A Common Stock,NASDAQ
 IIIIU,INSU Acquisition Corp. III Unit,NASDAQ
+IIIIW,INSU Acquisition Corp. III Warrant,NASDAQ
 IIIN,"Insteel Industries, Inc. Common Stock",NASDAQ
 IIIV,"i3 Verticals, Inc. Class A Common Stock",NASDAQ
 IIJIF,"Internet Initiative Japan, Inc. Ordinary Shares (japan)",U
@@ -4632,7 +4636,6 @@ MICFF,Mint Income Fund Tr Unit (Canada),U
 MICLF,Mycronic AB Ordinary Shares,U
 MICR,MICRON SOLUTIONS INC DEL Common Stock,U
 MICT,"MICT, Inc. Common Stock",NASDAQ
-MICWF,BEYOND MED TECHNOLOGIES INC Common Stock,U
 MID,American Century Mid Cap Growth Impact ETF,ARCA
 MIDD,Middleby Corporation (The) Common Stock,NASDAQ
 MIDF,iShares MSCI USA Mid-Cap Multifactor ETF,ARCA
@@ -5260,7 +5263,9 @@ MSWV,Main Street Financial Services Corp Common Shares,U
 MSYN,MS YOUNG ADVENTURE ENTERPRISE INC Common Stock,U
 MT,ArcelorMittal,NYSE
 MTA,Metalla Royalty & Streaming Ltd.,AMEX
+MTAC,MedTech Acquisition Corporation Class A Common Stock,NASDAQ
 MTACU,MedTech Acquisition Corporation Unit,NASDAQ
+MTACW,MedTech Acquisition Corporation Warrant,NASDAQ
 MTAGF,Ceconomy AG Ordinary Shares,U
 MTALF,METALLICA METALS CORP Ordinary Shares,U
 MTB,M&T Bank Corp.,NYSE
@@ -5301,5 +5306,3 @@ MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U
 MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U
 MTLHF,Mitsubishi Chemical Holdings Corp Ordinary Shares (Japan),U
 MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
-MTLI,Metaline Contact Mines Common Stock,U
-MTLK,"Metalink, Ltd. Ordinary Shares",U
