@@ -273,7 +273,6 @@ ACSBL,Access Bk Nigeria Plc Sponsored GDR Reg S (Nigeria),U
 ACSEF,ACS Motion Control Ltd. Common Stock,U
 ACSG,Xtrackers MSCI ACWI ex USA ESG Leaders Equity ETF,ARCA
 ACSI,American Customer Satisfaction ETF,BATS
-ACSSF,APOLLO HEALTHCARE CORP Ordinary Shares,U
 ACST,"Acasti Pharma, Inc. Class A Common Stock",NASDAQ
 ACSYF,Accsys Technologies plc Ordinary Shares (United Kingdom),U
 ACTC,ArcLight Clean Transition Corp. Class A Ordinary Shares,NASDAQ
@@ -299,6 +298,7 @@ ACWX,iShares MSCI ACWI ex US ETF,NASDAQ
 ACXIF,Acciona Sa Ordinary Shares,U
 ACY,AeroCentury Corporation,AMEX
 ADAD,"Adaiah Distribution, Inc. Common Stock",U
+ADAG,Adagene Inc. American Depositary Shares,NASDAQ
 ADAP,Adaptimmune Therapeutics plc American Depositary Shares,NASDAQ
 ADBCF,ADBRI Limited Ordinary Shares,U
 ADBE,Adobe Inc. Common Stock,NASDAQ
@@ -678,6 +678,7 @@ AHAD,"Alphacom Holdings, Inc. Common Stock",U
 AHAG,"Alpha Technologies Group, Inc. Common Stock",U
 AHAHF,DESIGN MILK CO LTD Ordinary Shares,U
 AHC,A.H. Belo Corporation,NYSE
+AHCCF,APOLLO HEALTHCARE CORP Ordinary Shares,U
 AHCD,Archivalcd Common Stock,U
 AHCHF,Anhui Conch Cement Shares -H-Ordinary Shares,U
 AHCHY,Anhui Conch Cement Unsponsored ADR representing Shares -H- (China),U
@@ -1351,6 +1352,7 @@ APEOF,Growmax Res Corp Common Shares,U
 APEUF,Atlas Engineered Products Ltd. Common Shares,U
 APEX,APEX GLOBAL BRANDS INC Common Stock,U
 APG,APi Group Corporation,NYSE
+APGB U,"Apollo Strategic Growth Capital II Units, each consisting of one Class A ordinary share, and one-fif",NYSE
 APGEF,APPLEGREEN PLC SHS (Ireland),U
 APGI,American Power Group Corp. Common Stock,U
 APGMF,Applied Graphene Matls PLC Ordinary Shares (United Kingdom),U
@@ -1570,7 +1572,6 @@ ARNGF,Argonaut Gold Inc Ordinary Shares (Canada),U
 ARNI,"Arno Therapeutics, Inc. Common Stock",U
 ARNNY,ASR Nederland NV American Depositary Receipts - Unsponsored (Netherlands),U
 AROC,Archrock Inc,NYSE
-AROSF,Aurora Spine Corp Com (Canada),U
 AROW,Arrow Financial Corporation Common Stock,NASDAQ
 AROZF,Aldoro Res Ltd Ordinary Shares (Australia),U
 ARPC,Arem Pacific Corporation. Common Stock,U
@@ -1637,6 +1638,7 @@ ASAGF,Australian Agricultural Co Ordinary Shares,U
 ASAIF,Artificial Solutions International AB Ordinary Shares (Sweden),U
 ASAM,AssuranceAmerica Corporation Common Stock,U
 ASAN,"Asana, Inc. Class A Common Stock",NYSE
+ASAPF,Aurora Spine Corp Com (Canada),U
 ASAQ,Atlantic Avenue Acquisition Corp,NYSE
 ASAQ U,"Atlantic Avenue Acquisition Corp. Units, each consisting of one share of Class A common stock and on",NYSE
 ASAQ WS,"Atlantic Avenue Acquisition Corp Warrants, each whole warrant exercisable for one share of Class A c",NYSE
@@ -1868,6 +1870,7 @@ ATNNF,"Autoneum Holding AG, Winterthur Ordinary Shares (Switzerland)",U
 ATNP,Atlantis Technology Group Common Stock,U
 ATNX,"Athenex, Inc. Common Stock",NASDAQ
 ATO,Atmos Energy Corporation,NYSE
+ATOKF,ATOK-BIG WEDGE CO INC Ordinary Shares,U
 ATOM,Atomera Incorporated Common Stock,NASDAQ
 ATONF,Anton Oilfield Services Group Ordinary shares (Cayman Islands),U
 ATONY,Anton Oilfield Services Group Unsponsored ADR (Cayman Islands),U
@@ -2305,7 +2308,7 @@ BATT,Amplify Lithium & Battery Technology ETF,ARCA
 BAUG,Innovator S&P 500 Buffer ETF - August,BATS
 BAX,Baxter International Inc.,NYSE
 BAYN,Bay National Corporation,U
-BAYPD,"Bayport International Holdings, Inc. Common Stock",U
+BAYP,"Bayport International Holdings, Inc. Common Stock",U
 BAYRY,Bayer Aktiengesellschaft American Depositary Shares (Each repstg one Bayer AG ordinary share of no par value),U
 BAYZF,Bayer AG Ordinary Shares,U
 BB,BlackBerry Limited,NYSE
@@ -2464,7 +2467,9 @@ BCWG,BCW Group Hldg Inc Common Stock,U
 BCX,BLACKROCK RESOURCES & COMMODITIES STRATEGY TRUST,NYSE
 BCYC,Bicycle Therapeutics plc American Depositary Shares,NASDAQ
 BCYIF,Ishares Plc Ordinary Shares FTSE 100 Fund (Ireland),U
+BCYP,Big Cypress Acquisition Corp. Common stock,NASDAQ
 BCYPU,Big Cypress Acquisition Corp. Unit,NASDAQ
+BCYPW,Big Cypress Acquisition Corp. Warrant,NASDAQ
 BDABF,Boule Diagnostics AB Ordinary Shares,U
 BDC,Belden Inc.,NYSE
 BDCM,"Broadcast Marketing Group, Inc. New Common Stock",U
@@ -2661,7 +2666,7 @@ BGRDF,BRAINGRID LTD Common Shares,U
 BGRN,iShares Trust iShares Global Green Bond ETF,NASDAQ
 BGRP,Bluestem Group Inc. Common Stock,U
 BGS,"B&G Foods, Inc.",NYSE
-BGSF,BG Staffing Inc.,NYSE
+BGSF,"BGSF, Inc.",NYSE
 BGSWF,Bergesen Worldwide Offshore Limited  Common Shares,U
 BGT,BlackRock Floating Rate Income Trust,NYSE
 BGUUF,Benguet Corp BC Ordinary Shares (Phillippines),U
@@ -2987,7 +2992,9 @@ BLUBF,Blue Ribbon Income Fund Units (Canada),U
 BLUE,"bluebird bio, Inc. Common Stock",NASDAQ
 BLUMY,Blue Moon Group Holdings Limited American Depositary Receipts - Unsponsored (Cayman Islands),U
 BLUU,"Blue Water Global Group, Inc. Common Stock",U
+BLUW,Blue Water Acquisition Corp. Class A Common Stock,NASDAQ
 BLUWU,Blue Water Acquisition Corp. Unit,NASDAQ
+BLUWW,Blue Water Acquisition Corp. Warrant,NASDAQ
 BLV,Vanguard Long-Term Bond ETF,ARCA
 BLVDF,Helix Applications Inc Ordinary Shares,U
 BLW,Blackrock Limited Duration Income Trust,NYSE
@@ -4121,7 +4128,7 @@ CD,Chindata Group Holdings Limited American Depositary Shares,NASDAQ
 CDAB,Coeur D Alene Bancorp Common Stock,U
 CDAK,"Codiak BioSciences, Inc. Common Stock",NASDAQ
 CDAY,Ceridian HCM Holding,NYSE
-CDBMF,Cordoba Minerals Corp. Common Shares,U
+CDBMD,Cordoba Minerals Corp. Common Shares,U
 CDBT,China Dasheng Biotechnology Company  Common Stock,U
 CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,NASDAQ
 CDCLF,Canada Coal Inc Ordinary Shares,U
@@ -4209,10 +4216,10 @@ CEHD,"China Electronics Holdings, Inc. Common Stock",U
 CEI,"Camber Energy, Inc",AMEX
 CEIX,CONSOL Energy Inc.,NYSE
 CEJOF,Cresco Ltd Ordinary Shares (Japan),U
-CEL,"Cellcom Israel, Ltd.",NYSE
 CELC,Celcuity Inc. Common Stock,NASDAQ
 CELG RT,Bristol-Myers Squibb Company Contingent Value Rights,NYSE
 CELH,"Celsius Holdings, Inc. Common Stock",NASDAQ
+CELJF,CELLCOM ISRAEL LTD Ordinary Shares,U
 CELMF,CELLMID LTD Ordinary Shares   Australia (AU),U
 CELP,"Cypress Environmental Partners, L.P.",NYSE
 CELTF,Centamin PLC Ordinary Shares (Jersey),U
@@ -4748,7 +4755,6 @@ CLCL,Calcol Inc Common Stock,U
 CLCMF,Sinch AB  Ordinary Shares,U
 CLCN,Creative Learning Corp. Common Stock,U
 CLCS,"Cell Source, Inc. Common Stock",U
-CLCT,"Collectors Universe, Inc.",NASDAQ
 CLDB,Cortland Bancorp Common Stock,NASDAQ
 CLDHF,Retail China Tr Ordinary Shares (Singapore),U
 CLDL,Direxion Daily Cloud Computing Bull 2X Shares,ARCA
@@ -4881,7 +4887,6 @@ CLWD,"CloudCommerce, Inc. Common Stock",U
 CLWT,Euro Tech Holdings Company Limited Common Stock,NASDAQ
 CLWY,"Calloway's Nursery, Inc. Common Stock",U
 CLX,Clorox Company,NYSE
-CLXLF,CALIX LTD ORDINARY FULLY PAID (Australia),U
 CLXPF,"Cybin, Inc. Common Shares",U
 CLXS,"Collexis Holdings, Inc. Common Stock",U
 CLXT,"Calyxt, Inc. Common Stock",NASDAQ
@@ -5304,5 +5309,3 @@ COWZ,Pacer US Cash Cows 100 ETF,BATS
 COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
-CPA,"Copa Holdings, S.A.",NYSE
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE

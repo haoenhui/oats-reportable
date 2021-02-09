@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
+SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
@@ -610,7 +612,6 @@ SNSR,Global X Funds Global X Internet of Things ETF,NASDAQ
 SNSS,"Sunesis Pharmaceuticals, Inc. Common Stock",NASDAQ
 SNST,"Sunset Capital Assets, Inc. Common Stock",U
 SNTE,Sante Technology Holdings Inc. Common Stock,U
-SNTLF,Sanistal A/S Ordinary Shares (Denmark),U
 SNTNF,Santana Minerals Ltd Ordinary Shares (Australia),U
 SNTW,SUMMIT NETWORKS INC  Common Stock,U
 SNTX,"Suntex Enterprises, Inc. Common Stock",U
@@ -969,6 +970,7 @@ SRCO,"Sparta Commercial Services, Inc. Common Stock",U
 SRCPF,SHERWOOD CORP THAILAND PUB CO LTD Common Stock (Thailand),U
 SRCRF,Scorpio Gold Corp Common Shares,U
 SRCSY,Summit Resources Ltd Unsponsored ADR (Australia),U
+SRCU,Spire Inc Corporate Unit Exp 03/01/2024,U
 SRCX,Stonebridge Resources Explorations Ltd New Common Stock,U
 SRDX,"Surmodics, Inc. Common Stock",NASDAQ
 SRE,Sempra Energy,NYSE
@@ -2219,7 +2221,6 @@ TKGL,"TekeGldMpire, Inc. Common Stock",U
 TKGSF,Tokyo Gas Co Ltd Ordinary Shares,U
 TKGSY,Tokyo Gas Co Ltd Unsponsored ADR (Japan),U
 TKGZY,Turkiye Garanti Bankasi A S Sponsored ADR representing 2000 Shs (Turkey),U
-TKHIF,TAKARA HOLDINGS INC SHS (Japan),U
 TKHVY,Turk Hava Yallari Ao Unsponsored ADR (Turkey),U
 TKIAF,TAIKISHA LTD SHS (Japann),U
 TKIDU,Tru Kids Parent LLC Unit,U
@@ -2891,7 +2892,6 @@ TULLF,TP Icap PLC Ordinary Shares,U
 TUMIF,KINGSMEN RES LTD  Common Shares,U
 TUOAF,TUFTON OCEANIC ASSETS LTD Ordinary Shares (Guernsey),U
 TUP,Tupperware Brands Corporation,NYSE
-TUPRF,Tupras Turkiye Petrol Rafineleri AS (Turkey),U
 TUR,iShares MSCI Turkey Investable Market Index Fund,NASDAQ
 TURA,"Turbine Aviation, Inc Common Stock",U
 TURN,180 Degree Capital Corp. Common Stock,NASDAQ
@@ -2904,7 +2904,9 @@ TUWOY,Tullow Oil Plc Unsponsored ADR (United Kingdom),U
 TUXS,Tuxis Corporation Common Stock,U
 TUYIF,TU YI HLDG CO LTD Ordinary Shares,U
 TV,Grupo Televisa S.A.,NYSE
+TVAC,Thayer Ventures Acquisition Corporation Class A Common Stock,NASDAQ
 TVACU,Thayer Ventures Acquisition Corporation Units,NASDAQ
+TVACW,Thayer Ventures Acquisition Corporation Warrant,NASDAQ
 TVAGF,TVA Group Inc Cl B Ordinary Shares (Canada),U
 TVAHF,TV Asahi Holdings Corp. Ordinary Shares (Japan),U
 TVAVF,Tel Aviv Stock Exchange Ltd Ordinary Shares (Israel),U
@@ -3781,12 +3783,13 @@ VIVEF,Vivendi Ordinary Shares (France),U
 VIVHY,Vivendi SA Unsponsored ADR (France),U
 VIVK,Vivakor Inc. Common Stock,U
 VIVO,Meridian Bioscience Inc. Common Stock,NASDAQ
+VIVRF,VIVORYON THERAPEUTICS NV Ordinary Shares,U
 VIVXF,"Avivagen, Inc. Common Shares",U
 VIXM,ProShares VIX Mid-Term Futures ETF,BATS
 VIXY,ProShares VIX Short-Term Futures ETF,BATS
 VIZC,"VizConnect, Inc. Common Stock",U
 VIZG,VisionGlobal Corp Common Stock,U
-VIZSF,VIZSLA RES CORP COM (Canada),U
+VIZSF,VIZSLA SILVER CORP Ordinary Shares,U
 VJET,voxeljet AG American Depositary Shares,NASDAQ
 VKEMF,VEF LTD - SDR Depositary Receipts,U
 VKGLF,VIKING LINE AB SHS (Finland),U
@@ -4879,6 +4882,7 @@ XONE,The ExOne Company Common Stock,NASDAQ
 XOP,SPDR S&P Oil & Gas Exploration & Production ETF,ARCA
 XOUT,GraniteShares XOUT U.S. Large Cap ETF,ARCA
 XP,XP Inc. Class A Common Stock,NASDAQ
+XPDIU,Power & Digital Infrastructure Acquisition Corp. Unit,NASDAQ
 XPEL,"XPEL, Inc. Common Stock",NASDAQ
 XPER,Xperi Holding Corporation Common Stock,NASDAQ
 XPEV,"XPeng Inc. American depositary shares, each representing two Class A ordinary shares",NYSE
@@ -5234,7 +5238,7 @@ ZNH,China Southern Airlines Company Limited,NYSE
 ZNKKY,Zenkoku Hosho Co Ltd American Depositary Receipts - Unsponsored (Japan),U
 ZNNC,Zann Corp. Common Stock,U
 ZNNGY,Zhongyuan Bk Co Ltd American Depositary Receipts - Unsponsored,U
-ZNNMF,EEStor Corporation Common Shares,U
+ZNNMF,FUELPOSITIVE CORP Common Shares,U
 ZNOG,ZION OIL & GAS INC Common Stock,U
 ZNOGF,ZOONO GROUP LTD Ordinary Shares Fully Paid ( Australia),U
 ZNOGW,ZION OIL & GAS INC Warrant Exp 01/21/2023,U

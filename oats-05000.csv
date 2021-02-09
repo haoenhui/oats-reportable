@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPA,"Copa Holdings, S.A.",NYSE
+CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
@@ -790,7 +792,7 @@ DAIPF,Daihen Corp Ordinary Shares Japan(JP ),U
 DAIUF,Daifuku Co Ltd Ordinary Shares (Japan),U
 DAKT,"Daktronics, Inc. Common Stock",NASDAQ
 DAL,"Delta Air Lines, Inc.",NYSE
-DALI,First Trust Exchange-Traded Fund VI First Trust DorseyWright DALI 1 ETF,NASDAQ
+DALI,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright DALI 1 ETF,NASDAQ
 DALQF,D & L Industries Inc Common Shares (Phillippines),U
 DALT,Anfield Capital Diversified Alternatives ETF,BATS
 DALXF,SPARTAN DELTA CORP Common Shares,U
@@ -957,6 +959,7 @@ DEITF,Devro Intl Plc Ord 10 Par Ordinary Shares,U
 DEIWY,Rio Paranapanema Energia S A American Depositary Receipts - Sponsored,U
 DELCF,DELIC HLDGS INC COM (Canada),U
 DELHF,De Longhi Spa Ordinary Shares (Italy),U
+DELKY,Delek Group Ltd American Depositary Receipts - Unsponsored (Israel),U
 DELL,Dell Technologies Inc.,NYSE
 DELRF,De La Rue Plc Ordinary Shares,U
 DELTF,Delta Galil Industries Ltd. Ordinary Shares,U
@@ -1068,7 +1071,6 @@ DGONF,Dragon Mining NL Ordinary Shares,U
 DGP,"DB Gold Double Long ETN due February 15, 2038",ARCA
 DGPIF,Data Communications Management Corp. Common Shares,U
 DGRE,WisdomTree Trust WisdomTree Emerging Markets Quality Dividend Growth Fund,NASDAQ
-DGRLY,Delek Group Ltd Sponsored ADR (Israel),U
 DGRO,iShares Core Dividend Growth ETF,ARCA
 DGRS,WisdomTree Trust WisdomTree U.S. SmallCap Quality Dividend Growth Fund,NASDAQ
 DGRW,WisdomTree Trust WisdomTree U.S. Quality Dividend Growth Fund,NASDAQ
@@ -2009,7 +2011,6 @@ EHITF,Edinburgh Investment Trust Ordinary Shares,U
 EHMEF,GOEASY LTD Common Shares,U
 EHOS,"Ehouse Global, Inc. Common Stock",U
 EHPTP,Eagle Hospitality Pptys Tr Inc Preferred,U
-EHSI,"Emerging Healthcare Solutions, Inc. Common Stock",U
 EHT,Eaton Vance 2021 Target Term Trust,NYSE
 EHTH,"eHealth, Inc. Common Stock",NASDAQ
 EHVVF,Ehave Inc Ordinary Shares,U
@@ -2738,6 +2739,7 @@ EVNNF,Eviana Health Corp Ordinary Shares (Canada),U
 EVNVY,EVN AG Sponsored ADR (Austria),U
 EVOA,"EVO Transportation & Energy Services, Inc. Common Stock",U
 EVOGF,EVOLVING GOLD CORP Common Shares,U
+EVOJU,Evo Acquisition Corp. Unit,NASDAQ
 EVOK,"Evoke Pharma, Inc. Common Stock",NASDAQ
 EVOL,"Evolving Systems, Inc. Common Stock",NASDAQ
 EVOP,"EVO Payments, Inc. Class A Common Stock",NASDAQ
@@ -3254,6 +3256,7 @@ FGROF,Firstgroup Plc Ordinary Shares,U
 FGROY,Firstgroup Plc Unsponsored ADR (UK),U
 FGRRF,Fingerprint Cards AB Ordinary Shares AK B (Sweden),U
 FGSGF,"FLAT GLASS GROUP CO LTD, Flat Glass/Bearer/Shs H/06865 (China)",U
+FGSSF,Fasadgruppen Group SB Ordinary Shares (Sweden),U
 FGWLF,FLUGHAFEN WIEN AKTIENGESELLSCHAFT Ordinary Shares,U
 FHAI,"Fountain Healthy Aging, Inc. Common Stock",U
 FHB,"First Hawaiian, Inc. Common Stock",NASDAQ
@@ -3988,7 +3991,7 @@ FTRSF,Fortis Inc Cum Redeemable 5 Yr Fixed (Rate Reset First Pfd Shs Series G) (
 FTS,Fortis Inc. Common Shares,NYSE
 FTSD,Franklin Liberty Short Duration U.S. Government ETF,ARCA
 FTSI,"FTS International, Inc. Common Stock",AMEX
-FTSL,First Trust Exchange-Traded Fund IV First Trust Senior Loan Fund,NASDAQ
+FTSL,First Trust Exchange-Traded Fund IV First Trust Senior Loan Fund ETF,NASDAQ
 FTSM,First Trust Exchange-Traded Fund IV First Trust Enhanced Short Maturity ETF,NASDAQ
 FTSSF,First Cobalt Corp Ordinary Shares (Canada),U
 FTTRF,Forterra Plc Ordinary Shares Gbp0.01 (United Kingdom),U
@@ -4191,6 +4194,7 @@ GAZZF,BARCLAYS BK PLC Exchange Traded Fund   10/22/2037,U
 GB,Global Blue Group Holding AG,NYSE
 GB WS,Global Blue Group Holding AG Warrants exercisable for one Ordinary Share of Global Blue Group Holdin,NYSE
 GBAB,Guggenheim Taxable Municipal Bond & Investment Grade Debt Trust,NYSE
+GBARF,Monarch Mining Corp Common Shares (Canada),U
 GBAXY,GB Auto SAE Sponsored ADR (Egypt),U
 GBBEF,Barclays Bk PLC iPath GBP/USD Exchange Rate ETN due 05/14/2037 (United Kingdom),U
 GBBFF,Granada Gold Mine Inc Common Shares,U
@@ -4536,6 +4540,7 @@ GIFX,"Gifa, Inc. Common Stock",U
 GIGA,GIGA TRONICS INC Common Stock,U
 GIGB,Goldman Sachs Access Investment Grade Corporate Bond ETF,ARCA
 GIGE,Tidal ETF Trust SoFi Gig Economy ETF,NASDAQ
+GIGGU,"GigCapital4, Inc. Unit",NASDAQ
 GIGI,Gaming Innovation Group Inc. Common Shares,U
 GIGL,"Giggles N' Hugs, Inc. Common Stock",U
 GIGM,GigaMedia Limited Ordinary Shares,NASDAQ
@@ -4728,7 +4733,7 @@ GMGI,"Golden Matrix Group, Inc. Common Stock",U
 GMGSF,Goodman Group Sydney NSW Stapled Security (Australia),U
 GMHLF,Gam Holding Ag Ordinary Shares Namen AKT (Switzerland),U
 GMHLY,"Gam Holding Ag, Zuerich Unsponsored ADR (Switzerland)",U
-GMICF,Genworth MI Canada Inc. Ordinary Shares (Canada),U
+GMICF,SAGEN MI CDA INC Common Shares,U
 GMIIU,"Gores Metropoulos II, Inc. Unit",NASDAQ
 GMJOF,"Gamecard-Joyco Holdings Inc, Tokyo Ordinary Shares  (Japan)",U
 GMKKY,Gruma SAB DE C V American Depositary Receipts - Unsponsored (Mexico),U
@@ -5304,5 +5309,3 @@ GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ

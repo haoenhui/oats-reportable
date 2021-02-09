@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
+GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
@@ -422,6 +424,7 @@ HIUH,Hero International USA Holding Corp Common Stock,U
 HIW,Highwoods Properties Inc.,NYSE
 HIX,"Western Asset High Income Fund II, Inc.",NYSE
 HJGP,HANJIAO GROUP INC Common Stock,U
+HJLBW,Hancock Jaffe Laboratories Inc Warrant Pur Com Exp 02/11/2026,U
 HJLI,"Hancock Jaffe Laboratories, Inc. Common Stock",NASDAQ
 HJLIW,"Hancock Jaffe Laboratories, Inc. Warrants",NASDAQ
 HJMNF,Heijmans Nv Ordinary Shares (Netherlands),U
@@ -1624,7 +1627,6 @@ INBT,Inbit Corp. Common Stock,U
 INBX,"Inhibrx, Inc. Common Stock",NASDAQ
 INCAF,Inca One Gold Corporation Ordinary Shares,U
 INCC,"International Consolidated Companies, Inc. Common Stock",U
-INCKF,Revelo Resources Corp Ordinary Shares,U
 INCO,Columbia India Consumer ETF,ARCA
 INCPF,INNOCARE PHARMA LTD Ordinary Shares,U
 INCPY,Inchcape Plc Ord American Depositary Receipts - Sponsored,U
@@ -1800,7 +1802,6 @@ IPGYY,Interpump Group Spa Unsponsored ADR (Italy),U
 IPHA,Innate Pharma S.A. ADS,NASDAQ
 IPHI,Inphi Corporation Common Stock,NASDAQ
 IPHLF,IPH LTD Ordinary Shares  Australia(AU ),U
-IPHXF,PHOENIX HOLDINGS LTD SHARE (Israel),U
 IPHYF,"Innate Pharma, Marseille Shares Nom Cat -A- (France)",U
 IPI,"Intrepid Potash, Inc",NYSE
 IPIC,IPIC ENTMT INC Common Stock,U
@@ -1965,6 +1966,7 @@ ISEYF,WI2WI Corp Ordinary Shares,U
 ISFFF,ISS Ordinary Shares (Denmark),U
 ISFLF,IShares II PLC Floating Rate Bond UCITS ETF (Ireland),U
 ISGAF,ISHARES III PLC ISHARES GLOBAL AGGREGATE BOND UCITS ETF USD HEDGED ACC Exchange Traded Fund,U
+ISGBF,Ishares PLC VI PLC GLOBAL CORP BOND EUR HEDGED UCITS ETF DIST (Ireland),U
 ISGIF,INSURAGUEST TECHNOLOGIES INC COM (Canada),U
 ISGN,iSign Solutions Inc. Common Stock,U
 ISGNW,iSign Solutions Inc. Warrant Expiring 02/11/2021,U
@@ -3175,6 +3177,7 @@ KRNTY,Krones Ag ADR (Germany),U
 KRNUF,Krungthai Card Pub Co Ltd Foreign Shares (Thailand),U
 KRNY,Kearny Financial Corp Common Stock,NASDAQ
 KRO,"Kronos Worldwide, Inc.",NYSE
+KROEF,KR1 PLC Ordinary Shares (Isle of Man),U
 KRON,"Kronos Bio, Inc. Common Stock",NASDAQ
 KROS,"Keros Therapeutics, Inc. Common Stock",NASDAQ
 KRP,"Kimbell Royalty Partners, LP Common Units representing Limited Partner Interests",NYSE
@@ -3227,7 +3230,6 @@ KSTR,KraneShares SSE STAR Market 50 Index ETF,ARCA
 KSTUF,Kanematsu Corp Ord Ordinary Shares,U
 KSU,Kansas City Southern,NYSE
 KSU PR,Kansas City Southern Non-Cumulative Preferred Stock,NYSE
-KSWJ,"KSW Industries, Inc. Common Stock",U
 KT,KT Corp.,NYSE
 KTB,"Kontoor Brands, Inc. Common Stock",NYSE
 KTBA,"Structured Products Corp. Structured Products Corp. Corporate-Backed Trust Securities (CorTS) Certificates (Relating to BellSouth Telecommunications, Inc.) One Hundred Year 7% Debentures due 12/1/2095)",U
@@ -3257,6 +3259,7 @@ KTWEF,Kintetsu World Express Inc Tokyo Ordinary Shares (Japan),U
 KTWIF,Kurita Water Inds Ltd Ordinary Shares,U
 KTWIY,Kurita Wtr Inds Ltd Unsponsored ADR (Japan),U
 KTYB,"Kentucky Bancshares, Inc. Common Stock",U
+KUASF,KUAISHOU TECHNOLOGY Ordinary Shares,U
 KUBTF,Kubota Corp Ordinary Shares,U
 KUBTY,Kubota Corporation,U
 KUCPF,KURA CORPLTD SAKAI SHS (Japan),U
@@ -3453,7 +3456,6 @@ LDEM,iShares Trust iShares ESG MSCI EM Leaders ETF,NASDAQ
 LDGYY,Landis Gyr Group AG - Unsponsored ADR (Switzerland),U
 LDHOF,"Land and House Public Co., Ltd. LH Shares Foreign Registered (Thailand)",U
 LDHUF,Land and House Public Co Ltd NVDR Shares (Thailand),U
-LDI,"loanDepot, Inc.",NYSE
 LDKB,"Landmark Bancorp, Inc. Common stock (Pittston PA)",U
 LDL,"Lydall, Inc.",NYSE
 LDNXF,London Stock Exchange Group plc Ordinary Shares,U
@@ -3625,6 +3627,7 @@ LICH,LIVECHAIN INC Common Stock,U
 LICT,LICT Corporation Common Stock,U
 LIDM,Limco Del Mar Common Stock,U
 LIFE,"aTyr Pharma, Inc. Common Stock",NASDAQ
+LIFNF,Lifenet Ins Co Ordinary Shares (Japan),U
 LIFS,Life Stem Genetics Inc. Com,U
 LIFX,Life360 Inc CHESS Depositary Interest,U
 LIFZF,Labrador Iron Ore Royalty Corp. (Canada),U
@@ -4141,6 +4144,7 @@ MALRY,Mineral Resources Ltd. Unsponsored ADR (Austrailia),U
 MAMTF,Mcan Mortgage Corp Common Shares (Canada),U
 MAN,ManpowerGroup,NYSE
 MANH,"Manhattan Associates, Inc. Common Stock",NASDAQ
+MANOF,Manolete Partners Plc Ord Shs (United Kingdom),U
 MANR,Manor Natl Bk Manor Pa Common Stock,U
 MANT,ManTech International Corporation Common Stock $0.01 Par Value,NASDAQ
 MANU,MANCHESTER UNITED PLC,NYSE
@@ -4559,6 +4563,7 @@ MGLQF,Magna Gold Corp Common Shares (Canada),U
 MGLUY,Magazine Luiza American Depositary Receipts - Unsponsored,U
 MGM,MGM RESORTS INTERNATIONAL,NYSE
 MGMA,"Metro Global Media, Inc. Common Stock",U
+MGMB,MGM Holdings Inc Class A Voting,U
 MGMGF,MEGA MANUNGGAL PPTY TBK PT Ordinary Shares,U
 MGMLF,Maple Gold Mines Ltd Common Shares,U
 MGMT,Ballast Small/Mid Cap ETF,ARCA
@@ -4781,7 +4786,6 @@ MLLGF,Mullen Group Ld. Ordinary Shares (Canada),U
 MLLLF,ENGINE MEDIA HLDGS INC Common Stock,U
 MLLNF,Malin Corp PLC Ordinary Shares (Ireland),U
 MLLOF,Medallion Resources Ltd Ordinary Shares,U
-MLLS,Miller Industries Inc Common Stock,U
 MLLUY,Metallurgical Corp China Ltd Unsponsored ADR (China),U
 MLM,Martin Marietta Materials,NYSE
 MLMN,"Millennium Prime, Inc. Common Stock",U
@@ -5285,6 +5289,7 @@ MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
@@ -5304,5 +5309,3 @@ MTL,"Mechel PAO American Depository Shares, each representing two ordinary share
 MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
 MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U
 MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U
-MTLHF,Mitsubishi Chemical Holdings Corp Ordinary Shares (Japan),U
-MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
