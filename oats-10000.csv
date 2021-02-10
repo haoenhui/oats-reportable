@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
@@ -851,7 +849,6 @@ HTSF,"Heartsoft, Inc. Common Stock",U
 HTSLF,Hitachi Transport System Ltd. Ordinary Shares (Japan),U
 HTSUF,Hisamitsu Pharmaceutical Co Ltd Ordinary Shares (Japan),U
 HTSUY,Hisamitsu Pharmaceutical Co Inc American Depositary Receipts - Unsponsored (Japan),U
-HTTI,UAV CORP Common Stock,U
 HTTTF,HIT TECHNOLOGIES INC Ordinary Shares,U
 HTUS,Hull Tactical US ETF,ARCA
 HTWSF,Helios Towers PLC Ordinary Shares (United Kingdom),U
@@ -1349,6 +1346,7 @@ IGD,VOYA GLOBAL EQUITY DIVIDEND AND PREMIUM OPPORTUNITY FUND,NYSE
 IGE,iShares North American Natural Resources ETF,BATS
 IGEB,iShares Investment Grade Bond Factor ETF,BATS
 IGEN,iGen Networks Corp. Common Stock,U
+IGEPF,IGE PLUS XAO SA COLLOMIERS SHS (France),U
 IGESF,Igas Energy PLC Ordinary Shares,U
 IGEX,Indo Global Exchange(s) Pte. Limited Common Stock,U
 IGEZF,Integrated Green Energy Solutions Ltd Ordinary Shares,U
@@ -1613,9 +1611,6 @@ IMXXF,Impax Environmental Mark PLC Ordinary Shares (UK),U
 IMYSF,Imerys SA Ordinary Shares (France),U
 IMYSY,Imerys SA Unsponsored ADR (France),U
 INAN,InterNatural Pharmaceuticals Inc Common Stock,U
-INAQ,INSU Acquisition Corp. II Class A Common Stock,NASDAQ
-INAQU,INSU Acquisition Corp. II Unit,NASDAQ
-INAQW,INSU Acquisition Corp. II Warrant,NASDAQ
 INAR,"InternetArray, Inc. Common Stock",U
 INBC,InBankShares Corporation Common Stock,U
 INBI,"Infusion Brands International, Inc. . Common Stock",U
@@ -1726,6 +1721,7 @@ INSO,"Industry Source Consulting, Inc. Common Stock",U
 INSP,"Inspire Medical Systems, Inc.",NYSE
 INSW,"International Seaways, Inc. Common Stock",NYSE
 INSW PRA,"International Seaways, Inc. 8.50% Senior Notes due June 30, 2023",NYSE
+INSXF,INSTALLUX SA SHS (France),U
 INT,World Fuel Services Corporation,NYSE
 INTAF,INTACT FINL CORP NON CUM RATE RESET PFD SHS CL A SER 3 Canada(CA ),U
 INTB,"Intelligent Buying, Inc. Common",U
@@ -2104,6 +2100,7 @@ ITGMF,I.T.G.I MEDICAL LTD Common Stock,U
 ITGR,Integer Holdings Corporation,NYSE
 ITHDF,Italian Thai Development Public Co Ltd Ordinary Shares Foreign Registered (Thailand),U
 ITHUF,"Ianthus Capital Holdings, Inc. Ordinary Shares (Canada)",U
+ITHVF,ITALIAN-THAI DEVELOPMENT PUBLIC CO LTD SHS (Thailand),U
 ITHXU,ITHAX Acquisition Corp. Unit,NASDAQ
 ITI,"Iteris, Inc. Common Stock",NASDAQ
 ITIC,Investors Title Company Common Stock,NASDAQ
@@ -3554,6 +3551,7 @@ LFUS,"Littelfuse, Inc. Common Stock",NASDAQ
 LFVN,Lifevantage Corporation Common Stock (Delaware),NASDAQ
 LFYEF,LEFROY EXPL LTD Ordinary Shares,U
 LFYPF,Sansheng Hldgs Group Co Ltd HKD Shares (Cayman Islands),U
+LGACU,Lazard Growth Acquisition Corp. I Units,NASDAQ
 LGAH,"LGA Holdings, Inc. Common Stock",U
 LGBI,"Cannabiz Mobile, Inc .Common Stock",U
 LGBS,"Legends Business Group, Inc. Common Stock",U
@@ -3835,7 +3833,7 @@ LOTBY,Lotus Bakeries NV Unsponsored American Depository Receipt (Germany Federal
 LOTE,"Lot78, Inc Common Stock",U
 LOTZ,"CarLotz, Inc. Class A Common Stock",NASDAQ
 LOTZW,"CarLotz, Inc. Warrant",NASDAQ
-LOUIF,"13 Holdings, Ltd. Ordinary Shares",U
+LOUIF,SOUTH SHORE HLDGS LTD Ordinary Shares,U
 LOUP,Innovator Loup Frontier Tech ETF,ARCA
 LOV,Spark Networks SE American Depositary Shares (each representing one-tenth of an Ordinary Share),AMEX
 LOVA,LOVARRA Common Stock,U
@@ -4660,6 +4658,8 @@ MIILF,Minor International Public Co Limited Local Warrants Expiring 09/30/2021 (
 MIK,"The Michaels Companies, Inc. Common Stock",NASDAQ
 MIKP,"Mike The Pike Productions, Inc. Common Stock",U
 MILC,Millennium Investment & Acquisition Company Inc. Common Stock,U
+MILE,"Metromile, Inc. Common Stock",NASDAQ
+MILEW,"Metromile, Inc. Warrant",NASDAQ
 MILN,Global X Funds Global X Millennials Thematic ETF,NASDAQ
 MILOF,Mobilicom Ltd Ordinary Shares (Australia),U
 MILTY,Mills Estruturas E Servicos De Engenharia SA American Depositary Receipt (Sponsored) (Brazil),U
@@ -5309,3 +5309,6 @@ MTL,"Mechel PAO American Depository Shares, each representing two ordinary share
 MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
 MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U
 MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U
+MTLHF,Mitsubishi Chemical Holdings Corp Ordinary Shares (Japan),U
+MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
+MTLI,Metaline Contact Mines Common Stock,U

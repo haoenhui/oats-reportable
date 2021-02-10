@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTLHF,Mitsubishi Chemical Holdings Corp Ordinary Shares (Japan),U
-MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
-MTLI,Metaline Contact Mines Common Stock,U
 MTLK,"Metalink, Ltd. Ordinary Shares",U
 MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U
 MTLRF,Metalore Resources Ltd Ordinary Shares,U
@@ -61,7 +58,6 @@ MTW,"The Manitowoc Company, Inc.",NYSE
 MTWD,Metwood Inc Common Stock,U
 MTWTF,Metawater Co Ltd Ordinary Shares (Japan),U
 MTX,Minerals Technologies Inc,NYSE
-MTXS,"Matches, Inc. Common Stock",U
 MTYFF,"MTY Food Group, Inc. Ordinary Shares (Canada)",U
 MTZ,"MasTec, Inc.",NYSE
 MU,"Micron Technology, Inc. Common Stock",NASDAQ
@@ -1174,7 +1170,7 @@ NVTA,Invitae Corporation,NYSE
 NVTQF,TRENCH METALS CORP Ordinary Shares,U
 NVYAF,Navya Ordinary Shares  France (FR),U
 NVYTF,Novacyt Shs Nom Non Liberee (France),U
-NVYYF,Navy Resources Corp Common Shares (Canada),U
+NVYYF,EMINENT GOLD CORP Common Shares,U
 NVZMF,Novozymes A/S Ordinary Shares,U
 NVZMY,Novozymes A/S Unsponsored American Depositary Receipt,U
 NWARF,Norwegian Air Shuttle Asa Ordinary Shares,U
@@ -2436,6 +2432,7 @@ PHUN,"Phunware, Inc. Common Stock",NASDAQ
 PHUNW,"Phunware, Inc. Warrants",NASDAQ
 PHURF,Poh Huat Resources Holdings Bhd Ordinary Shares (Malaysia),U
 PHVS,Pharvaris N.V. Ordinary Shares,NASDAQ
+PHWBF,PHILWEB CORP SHS PAR PHP/1 (Phillippines),U
 PHX,PHX Minerals Inc.,NYSE
 PHXCF,Phoenix Canada Oil Co Ltd Ordinary Shares,U
 PHXHF,PHX Energy Services Corp. Ordinary Shares (Canada),U
@@ -3347,7 +3344,6 @@ PWFL,"PowerFleet, Inc. Common Stock",NASDAQ
 PWFNF,POWER FINL CORP 1ST PFD 4.2% SER T (Canada),U
 PWLK,Powerlock International Corporation Common Stock,U
 PWLNF,Powerlong Real Estate Holdings Ltd. Common Shares (Cayman Islands),U
-PWMRF,Edison Cobalt Corp. Ordinary Shares,U
 PWNX,Powerlinx Inc. Common Stock,U
 PWOD,"Penns Woods Bancorp, Inc. Common Stock",NASDAQ
 PWON,Powin Energy Corporation Common Stock,U
@@ -4859,6 +4855,7 @@ SCO,ProShares UltraShort Bloomberg Crude Oil,ARCA
 SCOA,ScION Tech Growth I Class A Ordinary Shares,NASDAQ
 SCOAU,ScION Tech Growth I Unit,NASDAQ
 SCOAW,ScION Tech Growth I Warrant,NASDAQ
+SCOBU,ScION Tech Growth II Units,NASDAQ
 SCON,Superconductor Technologies Inc. Common Stock,U
 SCOO,"School Specialty, Inc. Com",U
 SCOR,"comScore, Inc. Common Stock",NASDAQ
@@ -5279,7 +5276,7 @@ SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
-SHGYD,SearchGuy.com Inc. Common Stock,U
+SHGY,SearchGuy.com Inc. Common Stock,U
 SHHPF,Ship Healthcare Holdings Inc Ordinary Shares (Japan),U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
@@ -5309,3 +5306,9 @@ SHMP,NaturalShrimp Incorporated Common Stock,U
 SHMSY,Shimao Services Holdings Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
+SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
+SHMZF,Shimadzu Corp Ordinary Shares,U
+SHNL,"Shentang International, Inc. Common Stock",U
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
+SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
+SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U

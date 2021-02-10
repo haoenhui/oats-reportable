@@ -1,10 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
-SHMZF,Shimadzu Corp Ordinary Shares,U
-SHNL,"Shentang International, Inc. Common Stock",U
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
-SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRF,"Sunstone Hotel Investors, Inc.  6.450% Series F Cumulative Redeemable Preferred Stock",NYSE
@@ -862,6 +856,7 @@ SPQS,"SportsQuest, Inc. Common Stock",U
 SPR,"Spirit Aerosystems Holdings, Inc.",NYSE
 SPRB,"Spruce Biosciences, Inc. Common Stock",NASDAQ
 SPRBF,Sparebank 1 Ostlandet Ordinary Shares,U
+SPRCY,SciSparc Ltd.  American Depositary Receipts - Sponsored,U
 SPRE,SP Funds S&P Global REIT Sharia ETF,ARCA
 SPRL,"Strat Petroleum, Ltd. New Common Stock",U
 SPRN,SUPERNOVA ENERGY INC Common Stock,U
@@ -1349,6 +1344,7 @@ SUAFF,GLOBAL FERRONICKEL HLDGS INC Ordinary Shares,U
 SUB,iShares Short-Term National Muni Bond ETF,ARCA
 SUBB,Suburban Minerals Corp. NEW Common Stock,U
 SUBCY,Subsea 7 S.A. American Depositary Shares,U
+SUBZ,Roundhill Streaming Services & Technology ETF,ARCA
 SUCEF,Sumitomo Osaka Cement Ordinary Shares,U
 SUDFF,Suda Ltd Common Shares (Australia),U
 SUDKY,Studsvik AB Unsponsored ADR (Sweden),U
@@ -1465,7 +1461,9 @@ SVNLY,Svenska Handelsbanken Unsponsored ADR representing A Shares (Sweden),U
 SVNNF,Savannah Energy Plc Ordinary Shares,U
 SVNTF,79North Inc. Common Stock (Canada),U
 SVNWF,Seven Group Holdings Ltd Ordinary Shares (Australia),U
+SVOK,Seven Oaks Acquisition Corp. Class A Common Stock,NASDAQ
 SVOKU,Seven Oaks Acquisition Corp. Unit,NASDAQ
+SVOKW,Seven Oaks Acquisition Corp. Warrant,NASDAQ
 SVPLF,KIN & CARTA PLC Ordinary Shares,U
 SVRA,Savara Inc. Common Stock,NASDAQ
 SVRGF,Seven Generation Energy Ltd. Ordinary Shares,U
@@ -2073,6 +2071,7 @@ THCX,The Cannabis ETF,ARCA
 THD,iShares MSCI Thailand ETF,ARCA
 THDDY,TV ASAHI HLDGS CORP American Depositary Receipts - Unsponsored (Japan),U
 THDS,3Dshopping.com Common Stock,U
+THEPF,THERMADOR GROUPE SA ORD (France),U
 THFF,First Financial Corporation Indiana Common Stock,NASDAQ
 THFRF,THAI UN GROUP PUB CO LTD SHS FOREIGN REGISTERED (Thailand),U
 THG,"The Hanover Insurance Group, Inc.",NYSE
@@ -2628,6 +2627,7 @@ TRKYY,Turkiye Sinai Kalkinma Bankasi As Unsponsored ADR (Turkey),U
 TRLC,TRILINC Global Impact Fund LLC Unit Class A,U
 TRLDF,Threegold Res Inc Ordinary shares (Canada),U
 TRLFF,True Leaf Brands Inc. Ordinary Shares,U
+TRLQF,"TRILOGIQ, ST-QUEN-LAUMONE SHS (France)",U
 TRMB,Trimble Inc. Common Stock,NASDAQ
 TRMD,TORM plc Class A Common Stock,NASDAQ
 TRMK,Trustmark Corporation Common Stock,NASDAQ
@@ -2654,7 +2654,6 @@ TRP,TC Energy Corporation,NYSE
 TRPEF,TC Energy Corp Cum Redem 1st Pfd Shs Ser 3 (Canada),U
 TRPRY,Trustpower Ltd Ord Unsponsored ADR (New Zealand),U
 TRPS,TRIP TECHNOLOGIES INC Common Stock,U
-TRPXY,SciSparc Ltd.  American Depositary Receipts - Sponsored,U
 TRQ,Turquoise Hill Resources Ltd,NYSE
 TRRB,Tripborn Inc Common Stock,U
 TRRE,"Terra Energy Resources, Ltd. Common Stock",U
@@ -3222,6 +3221,7 @@ ULVAF,Ulvac Inc SHS (Japan),U
 ULVM,VictoryShares USAA MSCI USA Value Momentum ETF,ARCA
 UMAM,Umami Sustainable Seafood Inc. Common Stock,U
 UMAR,Innovator S&P 500 Ultra Buffer ETF - March,BATS
+UMAV,UAV CORP Common Stock,U
 UMAX,Umax Group Corporation Common Stock,U
 UMAY,Innovator S&P 500 Ultra Buffer ETF - May,BATS
 UMBF,UMB Financial Corporation Common Stock,NASDAQ
@@ -3516,6 +3516,7 @@ UZD,United States Cellular Corporation 6.250% Senior Notes due 2069,NYSE
 UZE,United States Cellular Corporation 5.500% Senior Notes due 2070,NYSE
 V,VISA Inc.,NYSE
 VABK,Virginia National Bankshares Corporation. Common Stock,U
+VABS,Virtus Newfleet ABS/MBS ETF,ARCA
 VAC,MARRIOTT VACATIONS WORLDWIDE CORPORATION,NYSE
 VACNY,VAT Group AG American Depositary Receipts - Unsponsored (Switzerland),U
 VACQ,Vector Acquisition Corporation Class A Common Stock,NASDAQ
@@ -3813,6 +3814,7 @@ VLEEY,Valeo Sa Ord American Depositary Shares,U
 VLEOF,Voleo Trading Sys Inc Ordinary Shares,U
 VLGDF,VALUE GOLD ETF UNITS EXCHANGE -TRADED FUND (Hong Kong),U
 VLGEA,"Village Super Market, Inc. Class A Common Stock",NASDAQ
+VLGGF,"VOLGA GAS PLC, LONDON SHS (United Kingdom)",U
 VLKAF,Volkswagen A G Ord Ordinary Shares,U
 VLKPF,Volkswagen A G Ord Ordinary Shares,U
 VLLTF,EMERGENCE GLOBAL ENTERPRISES INC Ordinary Shares,U

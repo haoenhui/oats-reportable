@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPA,"Copa Holdings, S.A.",NYSE
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
@@ -1489,6 +1485,7 @@ DSNY,"Destiny Media Technologies, Inc. Common Stock",U
 DSOC,Innovator Double Stacker ETF - October,BATS
 DSOL,Drug Free Solution Inc. Common Stock,U
 DSOX,Triton Emission Solutions Inc. Common Stock,U
+DSP,Viant Technology Inc. Class A Common Stock,NASDAQ
 DSPA,ANKAA Corp. Common Stock,U
 DSPG,"DSP Group, Inc. Common Stock",NASDAQ
 DSRLF,Diasorin S.R.L. Shares (Italy),U
@@ -1838,6 +1835,7 @@ EDC,"Direxion Daily Emerging Markets Bull 3X Shares, Shares of beneficial intere
 EDCFF,Endesa Costanera SA Ordinary Shares B 1 Vote (Argentina),U
 EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",NYSE
 EDDRF,Edreams Odigeo SA Ordinary Shares (Luxemborg),U
+EDDYF,Edison Cobalt Corp. Ordinary Shares,U
 EDEMY,EDreams Odigeo SA American Depositary Receipts - Unsponsored (Luxembourg),U
 EDEN,iShares MSCI Denmark ETF,BATS
 EDESY,Elders Ltd American Depositary Receipts - Unsponsored,U
@@ -2681,6 +2679,7 @@ EUO,ProShares UltraShort Euro,ARCA
 EUOT,Eurotech Ltd Common Stock,U
 EURI,AgriEuro Corp. Common Stock,U
 EURL,Direxion Daily FTSE Europe Bull 3x Shares,ARCA
+EURMF,EUROPCAR GROUPE S.A. ACT (France),U
 EURN,EURONAV NV,NYSE
 EURZ,Xtrackers Eurozone Equity ETF,BATS
 EUSA,iShares MSCI USA Equal Weighted ETF,ARCA
@@ -2973,6 +2972,7 @@ FBDTF,Blackbird PLC Ordinary Shares,U
 FBEC,"FBEC Worldwide, Inc. Common Stock",U
 FBGBY,Fabege AB Unsponsored ADR (Sweden),U
 FBGGF,Fabege AB Shares AK (Sweden),U
+FBGI,"Foodbase Group, Inc. Common Stock",U
 FBGX,UBS AG FI Enhanced Large Cap Growth ETN,ARCA
 FBHS,"FORTUNE BRANDS HOME & SECURITY, INC.",NYSE
 FBIHF,Times Universal Group Holdings Ltd Ordinary Shares,U
@@ -4251,6 +4251,7 @@ GBR,New Concept Energy Inc,AMEX
 GBRIF,Golden Band Resources Inc (F) Ordinary Shares,U
 GBRRF,Gabriel Resources Ltd Ordinary Shares,U
 GBS,GBS Inc. Common Stock,NASDAQ
+GBSB,GIBSON BRANDS INC COM,U
 GBT,"Global Blood Therapeutics, Inc. Common Stock",NASDAQ
 GBTC,Grayscale Bitcoin Trust (BTC) Common Stock,U
 GBTKF,Globetronics Technology Bhd Ordinary Shares (Malaysia),U
@@ -4768,7 +4769,7 @@ GMUAF,Gamuda Bhd Ordinary Shares (Malaysia),U
 GMVHF,ENTAIN PLC Ordinary Shares,U
 GMVHY,ENTAIN PLC American Depositary Receipts - Unsponsored,U
 GMVMF,"GMV Minerals, Inc. Ordinary Shares (Canada)",U
-GMVPD,"Gridiron BioNutrients, Inc. Common Stock",U
+GMVP,"Gridiron BioNutrients, Inc. Common Stock",U
 GMWKF,Games Workshop Grp Ord Uk Ordinary Shares,U
 GMXDF,Grupo Mexica Common Shares,U
 GMXTF,GMexico Transportes SAB de CV SHS of Financial Groups and Industrial Retail (Mexico),U
@@ -5309,3 +5310,5 @@ GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
+GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
+GWGH,"GWG Holdings, Inc Common Stock",NASDAQ

@@ -493,6 +493,7 @@ AFBG,"American Fiber Green Products, Inc. Common Stock",U
 AFBI,"Affinity Bancshares, Inc. Common Stock (MD)",NASDAQ
 AFBOF,African Rainbow Minerals Limited Ordinary Shares (South Africa),U
 AFC,Allied Capital Corporation,NYSE
+AFCG,"AFC Gamma, Inc. Common Stock",NASDAQ
 AFCJF,AFC Ajax NV Amsterdam Ordinary Shares (Netherlands),U
 AFCL,Amcor Financial Corp Common Stock,U
 AFDG,"African Discovery Group, Inc. Common Stock",U
@@ -2211,7 +2212,7 @@ AZMTF,Azimut Exploration Inc Ordinary Shares,U
 AZN,AstraZeneca PLC American Depositary Shares,NASDAQ
 AZNCF,Astrazeneca Plc Ordinary Shares (UK),U
 AZNNY,Aurizon Hldgs Ltd Sponsored ADR (Australia),U
-AZNVF,LAST MILE HLDGS LTD Common Shares,U
+AZNVF,AZN CAP CORP Common Shares,U
 AZO,"AutoZone, Inc.",NYSE
 AZPN,"Aspen Technology, Inc. Common Stock",NASDAQ
 AZRE,Azure Power Global Limited,NYSE
@@ -2528,7 +2529,6 @@ BDYS,BodyScan Corporation Common Stock,U
 BE,Bloom Energy Corporation,NYSE
 BEAG,"Blue Eagle Lithium, Inc. Common Stock",U
 BEAM,Beam Therapeutics Inc. Common Stock,NASDAQ
-BEAT,"BioTelemetry, Inc. Common Stock",NASDAQ
 BEBE,BEBE STORES INC Common Stock,U
 BECBF,iShares III PLC BARCLAYS EURO CORPORATE BOND EURO SHS Exchange Traded Fund,U
 BECEF,BCE Inc 1st Pfd Shs Class AH (Canada),U
@@ -3257,6 +3257,7 @@ BPSR,"Biotech Products Services and Research, Inc. Common Stock",U
 BPT,BP Prudhoe Bay Royalty Trust,NYSE
 BPTH,"Bio-Path Holdings, Inc. Common Stock",NASDAQ
 BPTNF,PT Barito Pacific TBK Ordinary Shares (Indonesia),U
+BPTS,Biophytis SA American Depositary Share,NASDAQ
 BPUZF,Eros Resources Corp. Ordinary Shares,U
 BPXXY,BPER BANCA S.P.A American Depositary Receipts - Unsponsored,U
 BPY,Brookfield Property Partners L.P. Limited Partnership Units,NASDAQ
@@ -4501,19 +4502,16 @@ CHIU,Global X MSCI China Utilities ETF,ARCA
 CHIX,Global X MSCI China Financials ETF,ARCA
 CHJI,"China Changjiang Mining & New Energy Co., LTD. Common Stock",U
 CHJTF,"CSPC Pharmaceutical Group, Ltd. Ordinary Shares (Hong Kong)",U
-CHKAQ,CHESAPEAKE ENERGY CORP Common Stock,U
+CHK,Chesapeake Energy Corporation Common Stock,NASDAQ
+CHKEL,Chesapeake Energy Corporation Class C Warrants,NASDAQ
+CHKEW,Chesapeake Energy Corporation Class A Warrants,NASDAQ
+CHKEZ,Chesapeake Energy Corporation Class B Warrants,NASDAQ
 CHKGF,CK Asset Hldgs Ltd Ordinary Shares,U
-CHKGQ,Chesapeake Energy Corporation Cumulative Convertible Preferred Stock 2005B,U
 CHKHF,CHINA-HONGKONG PHOTO PRODUCTS HOLDINGS LTD Ordinary Shares,U
 CHKIF,China Southern Airlines Co Ltd Shares H (China),U
-CHKJQ,Chesapeake Energy Corporation 5 3/4 % WITH NON -VOTING CONV PFD SHS REG -S,U
 CHKKF,Chakana Copper Corp Ordinary Shares (Canada),U
-CHKLQ,CHESAPEAKE ENERGY CORP Preferred Stock,U
 CHKP,Check Point Software Technologies Ltd. Ordinary Shares,NASDAQ
-CHKPQ,Chesapeake Energy Corporation 5.75% Preferred Shares,U
 CHKR,CHESAPEAKE GRANITE WASH TR Common Stock,U
-CHKVQ,Chesapeake Energy Corporation Cumulative Preferred 5.75% Convertible Series A,U
-CHKZQ,Chesapeake Energy Corporation 5.75% Convertible Preferred Shares- Series A,U
 CHLE,Centennial Specialty Foods Corporation Common Stock,U
 CHLFF,Capital Holdings Fds PLC Accum Ptg Shs Class A USD (Ireland),U
 CHLLF,China Literature Ltd Ordinary Shares (Cayman Islands),U
@@ -4819,6 +4817,7 @@ CLNC,"Colony Credit Real Estate, Inc.",NYSE
 CLNE,Clean Energy Fuels Corp. Common Stock,NASDAQ
 CLNFF,Calian Group Ltd Ordinary Shares,U
 CLNH,"Clinigence Holdings, Inc. Common Stock",U
+CLNMF,CLEAN MOTION AB SHARE AK (Sweden),U
 CLNN,Clene Inc. Common Stock,NASDAQ
 CLNNW,Clene Inc. Warrant,NASDAQ
 CLNXF,Cellnex Telecom SA Ordinary Shares (Spain),U
@@ -5309,3 +5308,7 @@ COWZ,Pacer US Cash Cows 100 ETF,BATS
 COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
+CPA,"Copa Holdings, S.A.",NYSE
+CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAH,CounterPath Corporation Common Stock,NASDAQ
