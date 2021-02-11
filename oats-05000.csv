@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
@@ -261,7 +263,6 @@ CRWFF,Cinram International Income Fund Ordinary Shares (Canada),U
 CRWG,"CrowdGather, Inc. Common Stock",U
 CRWKF,CRANSWICK PLC Ordinary Shares United Kingdom(GB ),U
 CRWOF,China Railway Group Ltd Shs H (China),U
-CRWOY,China Railway Group Ltd Unsponsored ADR representing H Shares (China),U
 CRWRF,"Craneware PLC, Livingston Ordinary Shares (United Kingdom)",U
 CRWS,Crown Crafts Inc Common Stock,NASDAQ
 CRWTF,"Crow Technologies 1977, Ltd. Ordinary Shares (Israel)",U
@@ -576,6 +577,7 @@ CVHIF,Ventura Cannabis and Wellness Corp.  Common Shares,U
 CVHL,"CV Holdings, Inc. Common Stock",U
 CVHSY,CABLEVISION HLDGS SA Global Depositary Receipts - Sponsored,U
 CVI,"CVR ENERGY, INC.",NYSE
+CVII U,"Churchill Capital Corp VII Units, each consisting of one share of Class A common stock, and one-fift",NYSE
 CVISF,Context Vision Ab Ordinary Shares,U
 CVLB,"Conversion Labs, Inc. Common Stock",NASDAQ
 CVLG,"Covenant Logistics Group, Inc. Class A Common Stock",NASDAQ
@@ -2021,7 +2023,6 @@ EIDXF,Eid Parry India Ltd Reg S GDR (India),U
 EIFZF,Exchange Income Corp. Ordinary Shares (Canada),U
 EIG,"Employers Holdings, Inc.",NYSE
 EIGH,8000 Inc Common,U
-EIGI,"Endurance International Group Holdings, Inc. Common Stock",NASDAQ
 EIGR,"Eiger BioPharmaceuticals, Inc. Common Stock",NASDAQ
 EIHC,Environmental Infrastructure Holdings Corp. Common Stock,U
 EIHDF,888 Holdings plc Ordinary Shares (Gibraltar),U
@@ -2283,6 +2284,7 @@ ENJPF,En-Japan Inc Tokyo Common Stock,U
 ENJPY,EN-JAPAN INC ADR (Japan),U
 ENKS,"Enerkon Solar International, Inc. Common Stock",U
 ENLAY,Enel Societa Per Azioni Unsponsored ADR (Italy),U
+ENLBF,ENLAB AB SHARE AK (Sweden),U
 ENLC,"ENLINK MIDSTREAM, LLC",NYSE
 ENLTF,ENLIGHT RENEWABLE ENERGY LTD Shs (Israel),U
 ENLV,Enlivex Therapeutics Ltd. Ordinary Shares,NASDAQ
@@ -3425,6 +3427,7 @@ FLKI,Falken Industries Ltd Common Stock,U
 FLKR,Franklin FTSE South Korea ETF,ARCA
 FLL,"Full House Resorts, Inc. Common Stock",NASDAQ
 FLLA,Franklin FTSE Latin America,ARCA
+FLLHF,Fullshare Holdings Ltd Ordinary Shares (Cayman Islands),U
 FLLIY,Folli Follie Group Unsponsored ADR (Greece),U
 FLLV,Franklin Liberty U.S. Low Volatility ETF,ARCA
 FLLZ,Fellazo Corp Common Stock,U
@@ -3761,10 +3764,10 @@ FRC PRH,First Republic Bank,NYSE
 FRC PRI,"First Republic Bank  Depositary Shares, each representing a 1/40th interest in a share of 5.50% Nonc",NYSE
 FRC PRJ,"First Republic Bank Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.70% Noncu",NYSE
 FRC PRK,"First Republic Bank Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.125% Nonc",NYSE
+FRC PRL,"First Republic Bank Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.250% Nonc",NYSE
 FRCEF,Fletcher Building Ltd Ordinary Shares (New Zealand),U
 FRCGF,Faircourt Gold Income Corp. Class A Ordinary Shares (Canada),U
 FRCH,"Frenchtex, Inc. Frenchtex Inc",U
-FRCLP,FIRST REP BK SAN FRANCISCO CALIF NEW DEP SHS REPSTG 1/40th INT NONCUMULATIVE PERP PFD SER L,U
 FRCN,"Firemans Contractors, Inc. Common",U
 FRCOF,Fast Retailing Co Ltd Ordinary Shares,U
 FRCOY,Fast Retailing Co Ltd Unsponsored ADR (Japan),U
@@ -5122,7 +5125,6 @@ GSAC,GelStat Corporation Common Stock,U
 GSAH,GS Acquisition Holdings Corp II,NYSE
 GSAH U,"GS Acquisition Holdings Corp II Units, each consisting of one share of Class A Common Stock and one-",NYSE
 GSAH WS,"GS Acquisition Holdings Corp II Redeemable Warrants, each whole warrant exercisable for one share of",NYSE
-GSAOY,Grupo Sanborns SAB DE CV Sponsored ADR (Mexico),U
 GSAQU,Global Synergy Acquisition Corp. Units,NASDAQ
 GSAT,"Globalstar, Inc.",AMEX
 GSBC,"Great Southern Bancorp, Inc. Common Stock",NASDAQ
@@ -5195,7 +5197,7 @@ GTARF,GTA Financecorp Inc Common Shares,U
 GTAT,"GT Advanced Technologies, Inc. Common Stock NEW",U
 GTBAF,GREAT BEAR RES LTD NEW CL A (Canada),U
 GTBIF,Green Thumb Industries Inc Sub Vtg Shares (Canada),U
-GTBP,GT Biopharma Inc. Common Stock,U
+GTBP,"GT Biopharma, Inc. Common Stock",NASDAQ
 GTCDF,Getty Copper Inc Ordinary Shares (Canada),U
 GTCH,"GBT Technologies, Inc. Common Stock",U
 GTCP,Georgetown Corporation Common Stock,U
@@ -5312,3 +5314,5 @@ GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U

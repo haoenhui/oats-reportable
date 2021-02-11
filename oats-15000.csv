@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTLK,"Metalink, Ltd. Ordinary Shares",U
-MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U
-MTLRF,Metalore Resources Ltd Ordinary Shares,U
 MTLS,Materialise NV American Depositary Shares,NASDAQ
 MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
 MTMW,"Matmown, Inc. Common",U
@@ -999,7 +996,9 @@ NSRXF,NOMAD RTY CO LTD Common Shares,U
 NSS,"NUSTAR LOGISTICS, L.P. 7.625% Fixed-to-Floating Rate Subordinated Notes due 2043",NYSE
 NSSC,"NAPCO Security Technologies, Inc. Common Stock",NASDAQ
 NSSXF,NS Solutions Corp Tokyo Ordinary Shares (Japan),U
+NSTB,Northern Star Investment Corp. II,NYSE
 NSTB U,"Northern Star Investment Corp. II Units, each consisting of one share of Class A common stock and on",NYSE
+NSTB WS,"Northern Star Investment Corp. II Redeemable warrants, each whole warrant exercisable for shares of",NYSE
 NSTG,"NanoString Technologies, Inc. Common Stock",NASDAQ
 NSTKF,Novatek Joint Stock Company Ordinary Shares (Russia),U
 NSTM,NovelStem International Corp. Common Stock,U
@@ -1121,6 +1120,8 @@ NUTTQ,"Nutroganics, Inc. Common Stock",U
 NUUU,"Rejuvel Bio-Sciences, Inc. Common Stock",U
 NUV,"Nuveen Municipal Value Fund, Inc.",NYSE
 NUVA,"NuVasive, Inc. Common Stock",NASDAQ
+NUVB,Nuvation Bio Inc.,NYSE
+NUVB WS,"Nuvation Bio Inc. Redeemable warrants, each whole warrant exercisable for one share of Class A commo",NYSE
 NUVCF,NUVEI CORP Common Shares,U
 NUVG,Nuvus Gro Corp Common Stock,U
 NUVI,Emo Capital Corp. Common Stock,U
@@ -1910,6 +1911,7 @@ PACW,PacWest Bancorp Common Stock,NASDAQ
 PACXF,"Pacton Gold, Inc.  Common Shares",U
 PACXU,Pioneer Merger Corp. Unit,NASDAQ
 PADEF,PT Adaro Eenrgy TBK Ordinary Shares (Indonesia),U
+PADHF,PT Adhi Karya Persero Tbk Ordinary Shares (Indonesia),U
 PAE,PAE Incorporated Class A Common Stock,NASDAQ
 PAEGF,"Peace Arch Entertainment Group Inc. Sub Voting Shares, Without Par Value",U
 PAEKY,Pt Aneka Tambang Unsponsored ADR (Indonesia),U
@@ -1936,9 +1938,6 @@ PALS,"Mopals.com, Inc. Common Stock",U
 PALT,"Paltalk, Inc.  Common Stock",U
 PAM,PAMPA ENERGIA S.A.,NYSE
 PAMC,Pacer Lunt MidCap Multi-Factor Alternator ETF,ARCA
-PANA,Panacea Acquisition Corp.,NYSE
-PANA U,"Panacea Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third",NYSE
-PANA WS,"Panacea Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of Class",NYSE
 PANC,"Panacos Pharmaceuticals, Inc. Common Stock",U
 PAND,Pandion Therapeutics Inc. Common Stock,NASDAQ
 PANDY,Pandora A/S American Depositary Receipts - Sponsored,U
@@ -2547,6 +2546,7 @@ PLAY,"Dave & Buster's Entertainment, Inc. Common Stock",NASDAQ
 PLAZF,Platzer Fastigheter Holding AB Ordinary Shares (Sweden),U
 PLBC,Plumas Bancorp,NASDAQ
 PLBN,Pilot Bancshares Inc Common Stock,U
+PLBY,"PLBY Group, Inc. Common Stock",NASDAQ
 PLCE,"Children's Place, Inc. (The) Common Stock",NASDAQ
 PLCKF,PLURILOCK SEC INC Common Shares,U
 PLCQF,Polar Capital Technology Trust plc Ordinary Shares,U
@@ -3028,6 +3028,7 @@ PSA PRO,"Public Storage Depositary Shares Each Representing 1/1,000 of a 3.900% 
 PSAC,Property Solutions Acquisition Corp. Common Stock,NASDAQ
 PSACU,Property Solutions Acquisition Corp. Unit,NASDAQ
 PSACW,Property Solutions Acquisition Corp. Warrant,NASDAQ
+PSAHF,Pt Summarecon Agung Ordinary Shares (Indonesia),U
 PSAKF,"Plant Co Ltd, Sakai Ordinary Shares (Japan)",U
 PSB,"PS Business Parks, Inc.",NYSE
 PSB PRW,"PS Business Parks, Inc    Depositary Shares Each Representing 1/1000 of a Share of 5.20% Cumulative",NYSE
@@ -3236,6 +3237,7 @@ PTPI,"Petros Pharmaceuticals, Inc. Common Stock",NASDAQ
 PTPIF,PT Chandra Asri PetroChemical Ordinary Shares (Indonesia),U
 PTPKF,PT Pakuwon Jati TBK Ordinary Shares (Indonesia),U
 PTPLF,PT PURADELTA LESTARI TBK Ordinary Shares,U
+PTPPF,PT PP Persero TBK Ordinary Shares (Indonesia),U
 PTQQF,Protech Home Med Corp Ordinary Shares,U
 PTR,PETROCHINA COMPANY LIMITED ADS (REP 100 H SHARES),NYSE
 PTRC,Petro River Oil Corp Common Shares,U
@@ -3271,10 +3273,10 @@ PUBC,PureBase Corporation Common Stock,U
 PUBGY,Publicis Groupe S.A. Common Stock,U
 PUBM,"PubMatic, Inc. Class A Common Stock",NASDAQ
 PUCCF,Pancontinental Res Corp Common Shares,U
+PUCKU,Goal Acquisitions Corp. Unit,NASDAQ
 PUDA,"Puda Coal, Inc. New Common Stock",U
 PUFLF,Purifloh Ltd. Ordinary Shares (Australia),U
 PUGE,Puget Technologies Inc Common Stock,U
-PUGOY,Peugeot SA Unsponsored ADR (France),U
 PUI,Invesco Exchange-Traded Fund Trust Invesco DWA Utilities Momentum ETF,NASDAQ
 PUK,PRUDENTIAL PLC ADS (REP 2 ORD SHARES),NYSE
 PUK PR,Prudential Public Ltd Co. 6.75% Perp Sub Capital Sec.,NYSE
@@ -3628,7 +3630,9 @@ QYOUF,"QYou Media, Inc. Ordinary Shares (Canada)",U
 QZMRF,Quartz Mountain Resources Ltd. Ordinary Shares,U
 R,"Ryder System, Inc.",NYSE
 RA,Brookfield Real Assets Income Fund Inc.,NYSE
+RAAC,Revolution Acceleration Acquisition Corp Class A Common Stock,NASDAQ
 RAACU,Revolution Acceleration Acquisition Corp Unit,NASDAQ
+RAACW,Revolution Acceleration Acquisition Corp Warrant,NASDAQ
 RAAS,"Cloopen Group Holding Limited American Depositary Shares, each representing two Class A Ordinary Sha",NYSE
 RAAX,VanEck Vectors Real Asset Allocation ETF,ARCA
 RABSF,RREF II AL BRECK SOCIMI S A U Ordinary Shares,U
@@ -3726,7 +3730,7 @@ RCAT,"Red Cat Holdings, Inc. Common Stock",U
 RCB,Ready Capital Corporation 6.20% Senior Notes due 2026,NYSE
 RCBC,River City Bank Common Stock,U
 RCCB,Rochester Community Baseball Common Stock,U
-RCCC,RC-1 Inc Common Stock,U
+RCCCD,RC-1 Inc Common Stock,U
 RCCMF,"Nippon Dragon Resources, Inc. Common Shares (Canada)",U
 RCD,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,ARCA
 RCDOF,Ricardo Intl Plc Ord Ordinary Shares,U
@@ -3860,7 +3864,6 @@ REHB,"Channel Holdings, Inc. Common Stock",U
 REI,Ring Energy Inc.,AMEX
 REK,ProShares Short Real Estate,ARCA
 REKR,"Rekor Systems, Inc. Common Stock",NASDAQ
-REKRP,"Rekor Systems, Inc. Preferred Stock",U
 REKRW,"Rekor Systems, Inc. Warrant",U
 RELFF,Reliance Infrastructure Ltd Reg S GDR (India),U
 RELI,"Reliance Global Group, Inc. Common Stock",NASDAQ
@@ -4077,6 +4080,8 @@ RJA,AB Svensk Ekportkredit ELEMENTS Linked to the Rogers International Commodity
 RJDG,RJD Green Inc Common Stock,U
 RJF,"Raymond James Financial, Inc.",NYSE
 RJI,AB Svensk Ekportkredit ELEMENTS Linked to the Rogers International Commodity Index-Total Return,ARCA
+RJIFF,Rojana Industrial Park Public Co Ltd Shares Foreign Registered (Thailand),U
+RJIUF,Rojana Industrial Park Public Co Ltd NVDR Shares (Thailand),U
 RJKAF,Rjk Explorations Ltd Cl A Vtg Ordinary Shares,U
 RJN,AB Svensk Ekportkredit ELEMENTS Linked to the Rogers International Commodity Index-Energy Total Retu,ARCA
 RJZ,AB Svensk Ekportkredit ELEMENTS Linked to the Rogers International Commodity Index-Metals Total Retu,ARCA
@@ -4984,6 +4989,7 @@ SEBYF,Seb Sa Ordinary Shares,U
 SEBYY,SEB S.A. American Depositary Receipts - Unsponsored (France),U
 SECCF,Serco Group plc Ordinary Shares,U
 SECI,"Sector 10, Inc.  Common Stock",U
+SECNF,SEC Carbon Ltd Ordinary Shares (Japan),U
 SECO,Secoo Holding Limited ADR,NASDAQ
 SECT,Main Sector Rotation ETF,BATS
 SECTF,SSGA SPDR ETFS EUROPE II PLC Exchange Traded Fund S&P US CONSUMER STAPLS SEL SEC USD UCIT Ireland(IE),U
@@ -5310,5 +5316,3 @@ SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
-SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U

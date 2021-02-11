@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
+SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRF,"Sunstone Hotel Investors, Inc.  6.450% Series F Cumulative Redeemable Preferred Stock",NYSE
@@ -254,6 +256,7 @@ SKYW,"SkyWest, Inc. Common Stock",NASDAQ
 SKYY,First Trust Cloud Computing ETF,NASDAQ
 SKYZF,"Sky City Entertainment Group, Ltd. Ordinary Shares (New Zealand)",U
 SLAB,"Silicon Laboratories, Inc. Common Stock",NASDAQ
+SLAC U,"Social Leverage Acquisition Corp I Units, each consisting of one share of Class A common stock and o",NYSE
 SLAHF,Stella Chemifa Corp Osaka Ordinary Shares (Japan),U
 SLB,Schlumberger Limited,NYSE
 SLBG,Slinger Bag Inc. Common Stock,U
@@ -1979,6 +1982,7 @@ TFLT,Global X TargetIncome Plus 2 ETF,BATS
 TFRFF,Tefron Ltd New Common Stock,U
 TFRNF,Wisdomtree Issuer Plc USD Floating Rate Treasury Bond UCITS Exchange Traded Fund (Ireland),U
 TFRY,"Tasty Fries, Inc. Common Stock",U
+TFSA,"Terra Income Fund 6, Inc. 7.00% Notes due 2026",NYSE
 TFSHF,TAMIR FISHMAN VENTURE CAPITAL II LTD Ordinary Shares Israel(IL ),U
 TFSL,TFS Financial Corporation Common Stock,NASDAQ
 TFSVF,24SEVENOFFICE SCANDINAVIA AB SHARE AK (Sweden),U
@@ -4032,7 +4036,7 @@ VRTU,Virtusa Corporation Common Stock,NASDAQ
 VRTV,VERITIV CORPORATION,NYSE
 VRTX,Vertex Pharmaceuticals Incorporated Common Stock,NASDAQ
 VRTY,Verity Corp. Common Stock,U
-VRUSD,"Verus International, Inc. Common Stock",U
+VRUS,"Verus International, Inc. Common Stock",U
 VRVR,Virtual Interactive Technologies Corp. Common Stock,U
 VRXWF,"Mediavalet, Inc. Ordinary Shares",U
 VRYYF,The Very Good Food Co Inc Common Shares (Canada),U
@@ -4192,6 +4196,7 @@ WACLY,Wacoal Holdings Corporation American Depositary Receipts - Sponsored,U
 WACMF,Wacom Co Ltd Shs,U
 WACMY,Wacom Co Ltd Unsponsored ADR (Japan),U
 WAFD,"Washington Federal, Inc. Common Stock",NASDAQ
+WAFDP,"Washington Federal, Inc. Depositary Shares",NASDAQ
 WAFU,Wah Fu Education Group Limited Ordinary Shares,NASDAQ
 WAKE,"Wake Forest Bancshares, Inc. Common Stock",U
 WAKHF,Wai Kee Holdings Ltd SHS,U
@@ -4455,6 +4460,7 @@ WKGFF,Westkam Gold Corp. Common Shares,U
 WKHS,"Workhorse Group, Inc. Common Stock",NASDAQ
 WKLN,"Walker Lane Exploration, Inc. Common Stock",U
 WKPPF,Workspace Group Plc Ordinary Shares (United Kingdom),U
+WKPYF,PT Waskita Karya Persero Tbk Pt Shs Series B (Indonesia),U
 WKRCF,Wacker Neuson SE Namen-Akt (Germany),U
 WKSP,WORKSPORT LTD Common Stock,U
 WKSVF,WORK SVC S A Ordinary Shares,U
@@ -4636,7 +4642,6 @@ WSFL,"Woodstock Holdings, Inc. Common Stock",U
 WSFS,WSFS Financial Corporation Common Stock,NASDAQ
 WSFT,Wikisoft Corp. Common Stock,U
 WSGF,"World Series of Golf, Inc. Common Stock",U
-WSHAP,WASHINGTON FED INC DEPOSITARY SHS REPSTG 1/40th PERP PFD SER A,U
 WSHE,GreenLink International Inc. Common Stock,U
 WSIOF,Wasion Holdings Ltd Ordinary Shares (Cayman Islands),U
 WSKEF,Wisekey International Holdings Ltd. Ordinary Shares (Switzerland),U

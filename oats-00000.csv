@@ -1334,7 +1334,7 @@ AP,Ampco-Pittsburgh Corp.,NYSE
 AP WS,Ampco-Pittsburgh Corporation Series A Warrants to purchase Shares of common stock,AMEX
 APA,Apache Corporation Common Stock,NASDAQ
 APAAF,Appia Energy Corp Ordinary Shares (Canada),U
-APAFF,VanadiumCorp Resources Inc Ordinary Shares,U
+APAFF,VanadiumCorp Resource Inc Ordinary Shares,U
 APAJF,APA Group Stapled Security (Australia),U
 APAM,ARTISAN PARTNERS ASSET MANAGEMENT INC.,NYSE
 APCDF,A Cap Energy Ltd Ordinary Shares,U
@@ -1403,6 +1403,7 @@ APPN,Appian Corporation Class A Common Stock,NASDAQ
 APPS,"Digital Turbine, Inc. Common Stock",NASDAQ
 APPZ,"Monster Arts, Inc. Common Stock",U
 APQT,Appliqate Inc Common Stock,U
+APR,"Apria, Inc. Common Stock",NASDAQ
 APRAF,Goldstrike Resources Ltd Ordinary Shares,U
 APRCP,Alabama Power Company 4.52 Preferred Stock,U
 APRDM,Alabama Power Company 4.92 Preferred Stock,U
@@ -1590,7 +1591,7 @@ ARRLF,ALROSA CJSC SHS (Russia),U
 ARRPY,Aeroports de Paris SA American Depositary Receipts - Unsponsored (France),U
 ARRRF,Ardea Res Ltd Ordinary Shares (Australia),U
 ARRT,"Artisan Consumer Goods, Inc. Common Stock",U
-ARRXF,Archer Exploration Ltd Ordinary Shares (Australia),U
+ARRXF,Archer Materials Ltd Ordinary Shares,U
 ARRY,"Array Technologies, Inc. Common Stock",NASDAQ
 ARSC,American Security Resources Corporation Common Stock,U
 ARSEF,Altai Resources Inc Ordinary Shares,U
@@ -2780,6 +2781,7 @@ BISA,"Baltic International USA, Inc. Common Stock",U
 BISOY,Bio Isolates Hldgs Plc     Ord American Depositary Shares,U
 BIT,BLACKROCK MULTI-SECTOR INCOME TRUST,NYSE
 BITCF,First Bitcoin Capital Corp. Common Stock,U
+BITE U,"Bite Acquisition Corp. Units, each consisting of one share of common stock, and one-half of one rede",NYSE
 BITGF,Biotage AB Ordinary Shares A (Sweden),U
 BITGY,Biotage AB American Depositary Receipts - Unsponsored (Sweden),U
 BITKF,Biosign Technologies Inc Common Shares,U
@@ -2892,6 +2894,7 @@ BKSLF,Banks IS Gold Ltd Ordinary Shares (Canada),U
 BKT,BlackRock Income Trust Inc.,NYSE
 BKTI,BK Technologies Corporation,AMEX
 BKTPF,Cruz Cobalt Corp Common Shares,U
+BKTRF,Black Rock Mining Ltd. Ordinary Shares (Australia),U
 BKU,"Bankunited, Inc.",NYSE
 BKUCF,Blue Sky Uranium Corp Common Shares,U
 BKUH,"Bakhu Holdings, Corp. Common Stock",U
@@ -3008,6 +3011,7 @@ BLZSF,BSD Crown Ltd. Ordinary Shares (Israel),U
 BMA,Banco Macro S.A.,NYSE
 BMAR,Innovator S&P 500 Buffer ETF - March,BATS
 BMAY,Innovator S&P 500 Buffer ETF - May,BATS
+BMBL,Bumble Inc. Class A Common Stock,NASDAQ
 BMBLF,Brambles Ltd Ordinary Shares (Australia),U
 BMBN,"Benchmark Bankshares, Inc. (VA) Common Stock",U
 BMBOY,Grupo Bimbo SAB DE CV American Depositary Receipts - Sponsored (Mexico),U
@@ -3615,6 +3619,7 @@ BVNKF,Bavarian Nordic Research Institute Ordinary Shares,U
 BVNNF,Bevcanna Enterprises Inc. Common Shares (Canada),U
 BVNRY,Bavarian Nordic A/S Sponsored ADR (Denmark),U
 BVRDF,Bureau Veritas Registre International De Classification Ordinary shares (France),U
+BVS,Bioventus Inc. Class A Common Stock,NASDAQ
 BVSMF,BMO Asia USD Investment Grade Bond ETF Unit Trust Fund Mgr. BMO Global Asset Mgmt. Asia Ltd. (Hong Kong),U
 BVTEF,Iconic Minerals Ltd Ordinary Shares (Canada),U
 BVTK,"Bravatek Solutions, Inc. Common Stock",U
@@ -4112,6 +4117,7 @@ CCV,Churchill Capital Corp V,NYSE
 CCV U,"Churchill Capital Corp V Units, each consisting of one share of Class A common stock, and one-fourth",NYSE
 CCV WS,"Churchill Capital Corp V Warrants, each exercisable for one share of Class A common stock at an exer",NYSE
 CCVAJ,Country Club of Virginia Inc CDT-Cap Stk,U
+CCVI U,"Churchill Capital Corp VI Units, each consisting of one share of Class A common stock, and one-fifth",NYSE
 CCVS,Citizens Comm Bancshares Inc Common Stock,U
 CCVTF,China Conch Venture Hldgs Ltd Ordinary Shares (Cayman Islands),U
 CCWF,"Church & Crawford, Inc. Common Stock New",U
@@ -4420,6 +4426,7 @@ CGXEF,Cgx Energy Inc Ordinary Shares,U
 CGXYY,China Galaxy Securities Co Ltd Unsponsored ADR (China),U
 CGYG,China Longyi Group International Holdings Limited Common Stock,U
 CGYV,"China Energy Recovery, Inc. New Common Stock",U
+CHAA U,"Catcha Investment Corp Units, each consisting of one Class A ordinary share, and one-third of one re",NYSE
 CHAD,Direxion Daily CSI 300 China A Share Bear 1X Shares,ARCA
 CHAEF,CHINA AEROSPACE INTERNATIONAL HOLDINGS LTD SHS (Hong Kong),U
 CHAG,"Chancellor Group, Inc. Common Stock",U
@@ -5310,5 +5317,3 @@ COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ
