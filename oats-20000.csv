@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
-SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRF,"Sunstone Hotel Investors, Inc.  6.450% Series F Cumulative Redeemable Preferred Stock",NYSE
@@ -763,7 +761,6 @@ SPDW,SPDR Portfolio Developed World ex-US ETF,ARCA
 SPE,"Special Opportunities Fund, Inc.",NYSE
 SPE PRB,"Special Opportunities Fund, Inc. 3.50% Convertible Preferred Stock, Series B",NYSE
 SPEC,"SpectralCast, Inc. Common Stock",U
-SPEL,"Spinal Elements Holdings, Inc. Common Stock",NASDAQ
 SPEM,SPDR Portfolio Emerging Markets ETF,ARCA
 SPEU,SPDR Portfolio Europe ETF,ARCA
 SPEYF,Spey Resources Corp Common Shares (Canada),U
@@ -1777,6 +1774,7 @@ TBVPY,Thai Beverage Public Co Ltd Unsponsored ADR (Thailand),U
 TBX,ProShares Short 7-10 Year Treasury,ARCA
 TBXXF,TURMALINA METALS CORP Common Stock (Canada),U
 TC,TuanChe Limited American Depositary Shares,NASDAQ
+TCACU,Tuatara Capital Acquisition Corporation Unit,NASDAQ
 TCAI,"AIMTC, INC. Common Stock",U
 TCANF,TC Energy Corp Preferred Stock,U
 TCBI,"Texas Capital Bancshares, Inc. Common Stock",NASDAQ
@@ -2269,6 +2267,7 @@ TLGRF,TALGA GROUP LTD Ordinary Shares,U
 TLGT,"Teligent, Inc. Common Stock",NASDAQ
 TLH,iShares 10-20 Year Treasury Bond ETF,ARCA
 TLIF,"TOCCA Life Holdings, Inc. Common Stock",U
+TLIS,Talis Biomedical Corporation Common Stock,NASDAQ
 TLK,PT Telekomunikasi Indonesia,NYSE
 TLKGY,Telkom SA SOC Ltd,U
 TLKMF,Pt Telekomunikasi Indonesia Persero TBK Series B,U
@@ -2761,6 +2760,7 @@ TSI,"TCW Strategic Income Fund, Inc.",NYSE
 TSIA,TS Innovation Acquisitions Corp. Class A Common Stock,NASDAQ
 TSIAU,TS Innovation Acquisitions Corp. Unit,NASDAQ
 TSIAW,TS Innovation Acquisitions Corp. Warrant,NASDAQ
+TSIBU,Tishman Speyer Innovation Corp. II Unit,NASDAQ
 TSIHF,"TSI Holdings Co., Ltd. Shs (Japan)",U
 TSIOF,361 Degrees International Limited Ordinary Shares (Cayman Islands),U
 TSJA,Innovator Triple Stacker ETF - January,BATS
@@ -3177,7 +3177,7 @@ UGI,UGI Corporation,NYSE
 UGL,ProShares Ultra Gold,ARCA
 UGLDF,Credit Suisse AG Nassau Brh VelocityShares 3x Long Gold ETN,U
 UGP,Ultrapar Participacoes S.A.,NYSE
-UGRO,"Urban-Gro, Inc. Common Stock",U
+UGRO,"Urban-Gro, Inc. Common Stock",NASDAQ
 UHAL,Amerco Common Stock,NASDAQ
 UHGSF,UNITED HUNTER OIL & GAS Ordinary Shares Canada(CA ),U
 UHID,"Universal Health Services, Inc. Common Stock",U
@@ -3568,7 +3568,7 @@ VBVBF,Verbio Vereinigte Bioenergie Ag Hamburg Ordinary Shares (Germany),U
 VBVT,Viabuilt Ventures Inc. Common Stock,U
 VC,Visteon Corporation Common Stock,NASDAQ
 VCAR,Simplify Volt RoboCar Disruption and Tech ETF,ARCA
-VCBD,"Vitalibis, Inc. Common Stock",U
+VCBDQ,"Vitalibis, Inc. Common Stock",U
 VCEB,Vanguard ESG U.S. Corporate Bond ETF,BATS
 VCEL,Vericel Corporation Common Stock,NASDAQ
 VCEX,"Vaccex, Inc. Common Stock",U
@@ -3693,7 +3693,6 @@ VGGDF,Vanguard Australia Limited Units Exchange Traded Fund (Australia),U
 VGGOF,Cryptologic Corp.  Ordinary Shares,U
 VGI,VIRTUS GLOBAL MULTI-SECTOR INCOME FUND,NYSE
 VGID,V Group Inc. Common Stock,U
-VGILF,Vanguard International Semiconductor Corp Shs (Taiwan),U
 VGIT,Vanguard Intermediate-Term Treasury ETF,NASDAQ
 VGK,Vanguard FTSE Europe ETF,ARCA
 VGLDF,Vangold Mng Corp Ordinary Shares,U
@@ -3749,7 +3748,9 @@ VIH,VPC Impact Acquisition Holdings Class A Ordinary Shares,NASDAQ
 VIHAU,VPC Impact Acquisition Holdings Unit,NASDAQ
 VIHAW,VPC Impact Acquisition Holdings Warrant,NASDAQ
 VIHD,VISION HYDROGEN CORPORATION Common Stock,U
+VII,7GC & Co. Holdings Inc. Class A common stock,NASDAQ
 VIIAU,7GC & Co. Holdings Inc. Unit,NASDAQ
+VIIAW,7GC & Co. Holdings Inc. Warrant,NASDAQ
 VIIXF,Credit Suisse AG Nassau Brh VelocityShares VIX Short Term ETN 500,U
 VILGF,Yourgene Health PLC Ordinary Shares (United Kingdom),U
 VINC,"Vincerx Pharma, Inc. Common Stock",NASDAQ
@@ -3799,7 +3800,7 @@ VJET,voxeljet AG American Depositary Shares,NASDAQ
 VKEMF,VEF LTD - SDR Depositary Receipts,U
 VKGLF,VIKING LINE AB SHS (Finland),U
 VKI,Invesco Advantage Municipal Income Trust II,AMEX
-VKIN,"Viking Energy Group, Inc. Common Stock",U
+VKIND,"Viking Energy Group, Inc. Common Stock",U
 VKMTF,Victory Metals Inc Common Shares (Canada),U
 VKPPF,Vukile Property Fund Ltd Ordinary Shares (South Africa),U
 VKQ,Invesco Municipal Trust,NYSE
@@ -4032,7 +4033,6 @@ VRTHF,Veritas Pharma Inc Ordinary Shares,U
 VRTK,"VarTech Systems, Inc. Common Stock",U
 VRTS,"Virtus Investment Partners, Inc. Common Stock",NASDAQ
 VRTT,VIATAR CTC SOLUTIONS INC Common Stock,U
-VRTU,Virtusa Corporation Common Stock,NASDAQ
 VRTV,VERITIV CORPORATION,NYSE
 VRTX,Vertex Pharmaceuticals Incorporated Common Stock,NASDAQ
 VRTY,Verity Corp. Common Stock,U

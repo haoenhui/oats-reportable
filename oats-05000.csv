@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ
-CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
@@ -859,6 +856,7 @@ DBSDF,Dbs Group Holdings Ltd Ord Ordinary Shares,U
 DBSDY,Dbs Group Holdings Ltd Ord American Depositary Shares,U
 DBSHF,"DB ETC PLC, St Helier Physical Rhodium ETC on Physical Rhodium Commodity Secured (Jersey)",U
 DBTRF,Xtrackers FTSE Vietnam Swap UCITS ETF 1C Foreign Exchange Traded Fund,U
+DBTX,"Decibel Therapeutics, Inc. Common Stock",NASDAQ
 DBUB,DBUB Group Inc. Common Stock,U
 DBV,Invesco DB G10 Currency Harvest Fund,ARCA
 DBVT,DBV Technologies S.A. American Depositary Shares,NASDAQ
@@ -1866,8 +1864,10 @@ EDSA,"Edesa Biotech, Inc. Common Shares",NASDAQ
 EDSFF,Exceed Company Ltd.,U
 EDTA,E-Data Corporation Common Stock,U
 EDTK,Skillful Craftsman Education Technology Limited Ordinary Share,NASDAQ
+EDTX,EdtechX Holdings Acquisition Corp. II Class A common stock,NASDAQ
 EDTXF,SPECTRAL MED INC  Ordinary Shares,U
 EDTXU,EdtechX Holdings Acquisition Corp. II Unit,NASDAQ
+EDTXW,EdtechX Holdings Acquisition Corp. II Warrant,NASDAQ
 EDU,"New Oriental Education and Technology Group, Inc.",NYSE
 EDUC,Educational Development Corporation Common Stock,NASDAQ
 EDULF,EDULAB INC Common Stock,U
@@ -2673,7 +2673,6 @@ EUENF,"Eurasia Energy Limited (Anguilla, British West Indies)",U
 EUFN,iShares MSCI Europe Financials ETF,NASDAQ
 EUFX,ProShares Short Euro,ARCA
 EUGFF,Dundee Energy Ltd. Ordinary Shares (Canada),U
-EUITF,BAILLIE GIFFORD EUROPEAN GROWTH TR PLC Ordinary Shares,U
 EUIVF,Eurocastle Investments Ltd Hertfordshire Ordinary Shares (United Kingdom),U
 EULIF,EUROPEAN LITHIUM LTD Ordinary Shares,U
 EUM,ProShares Trust Short MSCI Emerging Markets,ARCA
@@ -5207,7 +5206,7 @@ GTECW,Greenland Technologies Holding Corporation Warrant Exp 04/27/2025,U
 GTEH,"GenTech Holdings, Inc. Common Stock",U
 GTES,Gates Industrial Corporation plc,NYSE
 GTGDF,GT Gold Corp. Ordinary Shares (Canada),U
-GTGED,G2 Technologies Corp Common Shares,U
+GTGEF,G2 Technologies Corp Common Shares,U
 GTGFF,Great Thunder Gold Corp. Ordinary Shares,U
 GTGP,"Global Technologies Group, Inc. Common Stock",U
 GTGT,"GTG Ventures, Inc. NewCommon Stock",U
@@ -5316,3 +5315,5 @@ GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U

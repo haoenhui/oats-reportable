@@ -997,7 +997,6 @@ ALT,"Altimmune, Inc. Common Stock",NASDAQ
 ALTA,Altabancorp Common Stock,NASDAQ
 ALTAF,Altura Mining Ltd Ordinary Shares (Australia),U
 ALTB,Alpine Auto Brokers Inc Common Stock,U
-ALTCY,Altice Europe N.V. American Depositary Shares - Unsponsored,U
 ALTD,"Altitude International, Inc. Common Stock",U
 ALTG,Alta Equipment Group Inc.,NYSE
 ALTG PRA,Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A C,NYSE
@@ -2179,7 +2178,7 @@ AYI,"Acuity Brands, Inc.",NYSE
 AYLA,"Ayala Pharmaceuticals, Inc. Common Stock",NASDAQ
 AYPCF,AFTER YOU PUB CO LTD NVDR Shares (Thailand),U
 AYRO,"AYRO, Inc. Common Stock",NASDAQ
-AYRWF,AYR STRATEGIES INC SUB LTD VTG SH RESTRICTED (Canada),U
+AYRWF,AYR WELLNESS INC Other,U
 AYSI,"Alloy Steel International, Inc. Common Stock",U
 AYTEF,Barclays Bk PLC iPath GEMS Asia 8 ETN due 04/08/2038 (United Kingdom),U
 AYTU,"Aytu BioScience, Inc. Common Stock",NASDAQ
@@ -3721,7 +3720,7 @@ BYSI,BeyondSpring Inc. Ordinary Shares,NASDAQ
 BYWLF,"BAYWA BAYERISCHE WARENVERMITTLUNG LANDWIRTSCHAFTLICHER (GENOSSENSCHAFTEN AG, MUENCHEN) (Germany)",U
 BYYLF,Balyo SA Ordinary Shares (France),U
 BYZN,Byzen Digital Inc. Common Stock,U
-BZDLD,Kincora Copper Limited Common Shares,U
+BZDLF,Kincora Copper Limited Common Shares,U
 BZH,"Beazer Homes USA, Inc. New",NYSE
 BZIC,Beamz Interactive Inc Common Stock,U
 BZLFF,Bunzl Plc NEW Ordinary Shares (UK),U
@@ -3745,7 +3744,6 @@ C,Citigroup Inc.,NYSE
 C PRJ,"CITIGROUP INC. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 7.125% Fixed",NYSE
 C PRK,"Citigroup Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.875% Fixed",NYSE
 C PRN,Citigroup Capital XIII 7.875% Fixed Rate/Floating Rate Trust Preferred Securities,NYSE
-C PRS,"Citigroup Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 6.300% Noncum",NYSE
 CAAFF,Celestial Asia Secs Holdings Ltd. Ordinary Shares (Bermuda),U
 CAAOF,INDVR BRANDS INC Common Stock,U
 CAAP,Corporacion America Airports S.A.,NYSE
@@ -3763,7 +3761,7 @@ CACC,Credit Acceptance Corporation Common Stock,NASDAQ
 CACG,Legg Mason ETF Investment Trust ClearBridge All Cap Growth ETF,NASDAQ
 CACH,CACHE Inc Common Stock,U
 CACI,CACI INTERNATIONAL CLA,NYSE
-CACQF,Ayr Strategies Inc Rights,U
+CACQF,AYR WELLNESS INC Rights,U
 CADE,Cadence Bancorporation,NYSE
 CADGF,Bio Papel Sab de Cv Ordinary Shares (Mexico),U
 CADIF,Cadillac Ventures Inc Common Shares,U
@@ -4786,7 +4784,6 @@ CLH,"Clean Harbors, Inc",NYSE
 CLHG,CIE Holdings LLC Common Unit Membership Int Common Stock,U
 CLHI,"CLST Holdings, Inc. Common Stock",U
 CLHLF,Coltene Holding AG Wattwil Ordinary Shares (Switzerland),U
-CLHSF,Collection House Ltd Ordinary Shares (Australia),U
 CLI,Mack-Cali Realty Corp.,NYSE
 CLIFF,Cordlife Group Ltd Ordinary Shares (Singapore),U
 CLIGF,Clinigen Group PLC Ordinary Shares (United Kingdom),U
@@ -5031,7 +5028,7 @@ CNBKB,"Century BanCorp, Inc. Common Stock Class B",U
 CNBL,Citizens National Bancshares Of Bossier Inc Common Stock,U
 CNBN,CNB Bk Shs Inc Common Stock,U
 CNBP,"Cornerstone Bancorp, Inc. Common Shares",U
-CNBQF,Ayr Strategies Inc Warrant,U
+CNBQF,AYR WELLNESS INC Warrant,U
 CNBS,Amplify Seymour Cannabis ETF,ARCA
 CNBW,CNB Corp Common Stock (SC),U
 CNBX,Cannabics Pharmaceuticals Inc. Common Stock,U
@@ -5317,3 +5314,6 @@ COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAH,CounterPath Corporation Common Stock,NASDAQ
+CPAI,Champion Pain Care Corporation Common Stock,U

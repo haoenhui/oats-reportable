@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTLS,Materialise NV American Depositary Shares,NASDAQ
-MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
-MTMW,"Matmown, Inc. Common",U
-MTN,"Vail Resorts, Inc.",NYSE
 MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
 MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
 MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
@@ -103,7 +99,6 @@ MVF,"BlackRock MuniVest Fund, Inc",NYSE
 MVIS,"MicroVision, Inc. Common Stock",NASDAQ
 MVLY,"Mission Valley Bancorp (Sun Valley, CA) Common Stock",U
 MVMDF,MOUNTAIN VY MD INC COM (Canada),U
-MVNR,Mavenir plc Class A Ordinary Shares,NASDAQ
 MVNT,MOVEMENT INDS CORP Common Stock,U
 MVO,MV Oil Trust,NYSE
 MVPT,MVP Holdings Inc. Common Stock,U
@@ -304,6 +299,7 @@ NBVB,Nationwide Beverage Bottling Corp Common Stock,U
 NBVG,Nutripure Beverages Inc New  Common Stock,U
 NBW,Neuberger Berman California Municipal Fund Inc.,AMEX
 NBY,"NovaBay Pharmaceuticals, Inc.",AMEX
+NBYCF,Niobay Metals Inc Common Shares,U
 NC,"NACCO Industries, Inc.",NYSE
 NCA,"Nuveen California Municipal Value Fund, Inc.",NYSE
 NCAP,"Northsight Capital, Inc. Common Stock",U
@@ -455,6 +451,7 @@ NEX,NexTier Oilfield Solutions Inc.,NYSE
 NEXA,Nexa Resources S.A. Common Shares,NYSE
 NEXCF,Nextech AR Solutions Corp (Canada),U
 NEXD,NEXT DYNAMICS INC Common Stock,U
+NEXI,"NexImmune, Inc. Common Stock",NASDAQ
 NEXJF,NEXJ Sys Inc Ordinary Shares Cl A (Canada),U
 NEXNF,NEXE INNOVATIONS INC NEW COM (Canada),U
 NEXNY,Nexans Unsponsored ADR (France),U
@@ -1216,7 +1213,7 @@ NWPN,Now Corporation (The) Common Stock,U
 NWPP,"New Peoples Bankshares, Inc Common Stock",U
 NWPX,Northwest Pipe Company Common Stock,NASDAQ
 NWQZF,BEST PAC INTL HLDGS LTD Ordinary Shares (Cayman Islands),U
-NWRCD,KENORLAND MINERALS LTD NEW Common Stock,U
+NWRCF,KENORLAND MINERALS LTD NEW Common Stock,U
 NWRLY,New World Department Store China Ltd. Unsponsored ADR (Cayman Islands),U
 NWS,News Corporation Class B Common Stock,NASDAQ
 NWSA,News Corporation Class A Common Stock,NASDAQ
@@ -1346,7 +1343,7 @@ OBDP,"Orbit Drop, Inc. Common Stock",U
 OBELF,Obsidian Energy Ltd.,U
 OBGRF,"Orbit Garant Drilling, Inc. Ordinary Shares (Canada)",U
 OBIIF,Obic Co Ltd Ordinary Shares,U
-OBLG,"Oblong, Inc.",AMEX
+OBLG,Oblong Inc. Common Stock,NASDAQ
 OBLN,"Obalon Therapeutics, Inc. Common Stock",NASDAQ
 OBLR,Orbital Enterprises New Common Stock,U
 OBMP,"OncBioMune Pharmaceuticals, Inc. Common Stock",U
@@ -3104,7 +3101,7 @@ PSPW,3Power Energy Group Inc. Common Stock,U
 PSQ,ProShares Short QQQ,ARCA
 PSR,Invesco Active U.S. Real Estate Fund,ARCA
 PSRU,VALIANT EAGLE INC Common Stock,U
-PSRVF,Prospero Silver Corp Common Shares,U
+PSRVD,Prospero Silver Corp Common Shares,U
 PSSGF,P S G Group Ltd Ordinary Shares,U
 PSSKF,"Pressance Corp, Osaka Common Stock (Japan)",U
 PSSR,"PASSUR Aerospace, Inc. Common Stock",U
@@ -3755,6 +3752,7 @@ RCKY,"Rocky Brands, Inc. Common Stock",NASDAQ
 RCKZF,Rocket Internet AG Ordinary Shares (Germany Federal Republic),U
 RCL,Royal Caribbean Group,NYSE
 RCLFF,RCL FOODS LTD Ordinary Shares South Africa(ZA ),U
+RCLFU,Rosecliff Acquisition Corp I Unit,NASDAQ
 RCM,R1 RCM Inc. Common Stock,NASDAQ
 RCMGF,RUICHENG CHINA MEDIA GROUP LTD Ordinary Shares,U
 RCMH,"Reach Messaging Holdings, Inc. Common Stock",U
@@ -4773,7 +4771,6 @@ SBVRF,Subversive Real Estate Acquisition REIT LP Restricted Voting Units (Canada
 SBWFF,CORNISH METALS INC Ordinary Shares,U
 SBYSF,SIBANYE STILLWATER LTD Ordinary Shares,U
 SC,SANTANDER CONSUMER USA HOLDINGS INC,NYSE
-SCA,Stellus Capital Investment Corporation 5.75% Notes due 2022,NYSE
 SCAL,Stem Cell Authority Ltd. Common Stock,U
 SCANF,Scandi STD AB Ordinary Shares (Sweden),U
 SCBFF,Standard Chartered Plc Ordinary Shares,U
@@ -4845,6 +4842,7 @@ SCIXF,Suny Cellular Communication Ltd. Ordinary Shares,U
 SCJ,iShares MSCI Japan Small-Cap ETF,ARCA
 SCKT,"Socket Mobile, Inc. Common Stock",NASDAQ
 SCL,Stepan Co.,NYSE
+SCLEU,Broadscale Acquisition Corp. Units,NASDAQ
 SCLZF,Scales Corp TLD Ordinary Shares (New Zealand),U
 SCM,STELLUS CAPITAL INVESTMENT CORPORATION,NYSE
 SCMWY,Swisscom AG Common Stock,U
@@ -5316,3 +5314,5 @@ SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
+SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
+SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
