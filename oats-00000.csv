@@ -1844,7 +1844,7 @@ ATIG,Atlantis Internet Group Corp Common Stock,U
 ATIN,ATI Nationwide Holding Corp. Common Stock,U
 ATIW,"ATI Networks, Inc./CO Common Stock",U
 ATIXF,Analytixinsight Inc Common Shares (Canada),U
-ATKR,Atkore International Group Inc.,NYSE
+ATKR,Atkore Inc.,NYSE
 ATLAF,"AltaGas Ltd, Pfd Ser K 5% (Canada)",U
 ATLC,Atlanticus Holdings Corporation Common Stock,NASDAQ
 ATLCY,Atlas Copco Ab Sponsored ADR repstg Class B,U
@@ -2610,6 +2610,8 @@ BFK,BlackRock Municipal Income Trust,NYSE
 BFLBF,Bilfinger Berger SE. Ordinary Shares (Germany),U
 BFLBY,Bilfinger SE Unsponsored ADR (Belgium),U
 BFLD,Broadcast Live Digital Corp. Common Stock,U
+BFLY,"Butterfly Network, Inc.",NYSE
+BFLY WS,"Butterfly Network, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A",NYSE
 BFMOF,Befimmo SA Ordinary Shares (Belgium),U
 BFNH,"BioForce Nanosciences Holdings, Inc. Common Stock",U
 BFOR,Barron's 400 ETF,ARCA
@@ -2643,7 +2645,7 @@ BGEPF,Bunge Limited 4.875% Perpetual Pref Shs Conv (Bermuda),U
 BGES,"Bio-Bridge Science, Inc. Common Stock",U
 BGFGF,BEAUCE GOLD FIELDS INC Common Shares (Canada),U
 BGFV,Big 5 Sporting Goods Corporation Common Stock,NASDAQ
-BGGYF,Bidenergy Ltd Ordinary Shares (Australia),U
+BGGYF,BILL IDENTITY LTD Ordinary Shares,U
 BGH,Barings Global Short Duration High Yield Fund,NYSE
 BGI,Birks Group Inc,AMEX
 BGII,"BGI, Inc. Common Stock",U
@@ -4325,7 +4327,9 @@ CFII,CF Finance Acquisition Corp. II Class A Common Stock,NASDAQ
 CFIIU,CF Finance Acquisition Corp. II Unit,NASDAQ
 CFIIW,CF Finance Acquisition Corp. II Warrant,NASDAQ
 CFIN,Citizens Financial Corporation Common Stock New,U
+CFIV,CF Acquisition Corp. IV Class A common stock,NASDAQ
 CFIVU,CF Acquisition Corp. IV Unit,NASDAQ
+CFIVW,CF Acquisition Corp. IV Warrant,NASDAQ
 CFLSF,"Cash Financial Services Group, Ltd. Ordinary Shares (Bermdua)",U
 CFMS,"Conformis, Inc. Common Stock",NASDAQ
 CFNB,CALIFORNIA FIRST NATL BANCORP Common Stock,U
@@ -4437,6 +4441,7 @@ CHAU,Direxion Daily CSI 300 China A Share Bull 2X Shares,ARCA
 CHB,Global X Funds Global X China Biotech Innovation ETF,NASDAQ
 CHBAF,Chiba Bank Ltd (The) Ordinary Shares (Japan),U
 CHBAY,Chiba Bank Ltd (The) Unsponsored ADR (Japan),U
+CHBBY,CHINA BOHAI BANK CO LIMITED  American Depositary Receipts - Unsponsored,U
 CHBH,"Croghan Bancshares, Inc. Common Stock",U
 CHBJF,China Citic Bank Corporation Ltd Shs -H- (China),U
 CHBKF,Chiba Kogyo Bank Ltd Ordinary Shares,U
@@ -5313,7 +5318,3 @@ COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ
-CPAI,Champion Pain Care Corporation Common Stock,U

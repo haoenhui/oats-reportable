@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTMW,"Matmown, Inc. Common",U
+MTN,"Vail Resorts, Inc.",NYSE
 MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
 MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
 MTNOY,"MTN Group, Ltd. Sponsored American Depositary Receipt",U
@@ -394,11 +396,11 @@ NEEB,"Nebraska Book Holdings, Inc. Common Stock",U
 NEFB,Neffs Bancorp Inc Common Stock,U
 NEFBP,Neffs Bancorp Inc PFD SER A,U
 NEGXF,"Nexgenrx, Inc. Ordinary Shares (Canada)",U
-NEGY,Nation Energy Inc. Common Stock,U
 NEIK,"Northstar Electronics, Inc. Common Stock",U
 NEM,Newmont Corporation,NYSE
 NEMCF,New Energy Metals Corp Ordinary Shares,U
 NEMD,"iNeedMD Holdings, Inc. Common Stock",U
+NEMKY,NEMETSCHEK SE American Depositary Receipts - Unsponsored,U
 NEMTF,Nemetschek Ag Ord Ordinary Shares,U
 NEN,New England Realty Associates Limited Partnership,AMEX
 NENTF,Nordic Entertainment Group AB Share AK B (Sweden) Ordinary Shares,U
@@ -553,7 +555,6 @@ NHLI,"Nouveau Holdings, Ltd. Common Stock",U
 NHLPF,NAHL GROUP PLC Ordinary Shares (United Kingdom),U
 NHMAF,"Nihon M&A Center Inc, Tokyo Ordinary Shares (Japan)",U
 NHMD,Nate's Food Co. Common Stock,U
-NHMPF,Holy Crap Brands Inc. Common Shares,U
 NHNCF,Naver Corporation Ordinary Shares (South Korea),U
 NHNKF,Nihon Kohden Corp Ordinary Shares (Japan),U
 NHNKY,Nihon Kohden Unsponsored ADR (Japan),U
@@ -737,6 +738,7 @@ NNDNF,Nidec Corp. Ordinary Shares (Japan),U
 NNFC,"NANOFORCE, INC. Common Stock",U
 NNFSF,NONGFU SPRING CO LTD REGISTERED 09633 (China),U
 NNGPF,NN Group NV Ordinary Shares (Netherlands),U
+NNGRF,NANOREPRO AG SHS (Germany Federal Republic),U
 NNGRY,NN Group NV American Depositary Receipts - Unsponsored (Netherlands),U
 NNGVF,Tesoro Minerals Corp. Common Shares (Canada),U
 NNHHF,Nhs Inds Ltd Ordinary Shares (Canada),U
@@ -836,6 +838,7 @@ NPEGF,Nippon Electric Glass Ordinary Shares,U
 NPEXF,Nippon Express (F) Ordinary Shares,U
 NPEXY,Nippon Express Co Ltd Unsponsored ADR (Japan),U
 NPEZF,BAM BAM RES INC Common Shares,U
+NPFC,NEWPOINT FINL CORP DEL Common Stock,U
 NPFUF,Nippon Flour Mills Co Ltd Ordinary Shares (Japan),U
 NPHC,NUTRA PHARMA CORP Common Stock,U
 NPIFF,"Northland Power, Inc. Ordinary Shares (Canada)",U
@@ -1990,7 +1993,6 @@ PBA,PEMBINA PIPELINE CORPORATION,NYSE
 PBAJ,"Petro USA, Inc. Common Stock",U
 PBAM,"Private Bancorp of America, Inc. Common Stock",U
 PBATF,PT Tambang Batubara Bukit ASAM TBK SHS SERIES -B -Ordinary Shares (Indonesia),U
-PBB,Prospect Capital Corporation 6.25% Notes due 2024,NYSE
 PBBGF,Deutsche Pfandbriefbank Common Stock,U
 PBBIF,Probi Ab Ordinary Shares (Sweden),U
 PBBSF,Peekaboo Beans Inc Common Shares,U
@@ -3726,6 +3728,7 @@ RCAR,"RenovaCare, Inc. Common Stock",U
 RCAT,"Red Cat Holdings, Inc. Common Stock",U
 RCB,Ready Capital Corporation 6.20% Senior Notes due 2026,NYSE
 RCBC,River City Bank Common Stock,U
+RCC,Ready Capital Corporation 5.75% Senior Notes due 2026,NYSE
 RCCB,Rochester Community Baseball Common Stock,U
 RCCCD,RC-1 Inc Common Stock,U
 RCCMF,"Nippon Dragon Resources, Inc. Common Shares (Canada)",U
@@ -3744,7 +3747,6 @@ RCI,"Rogers Communications, Inc.",NYSE
 RCIAF,Rogers Communications Cl-A (F) Ordinary Shares,U
 RCII,Rent-A-Center Inc. Common Stock,NASDAQ
 RCIT,"Reelcause, Inc. Common Stock",U
-RCKE,"Rock Energy Resources, Inc. Common Stock",U
 RCKHF,"Rockhopper Exploration Plc, Salisbury Ordinary shares (United Kingdom)",U
 RCKT,"Rocket Pharmaceuticals, Inc. Common Stock",NASDAQ
 RCKTF,Rock Tech Lithium Inc Ordinary Shares (Canada),U
@@ -3825,6 +3827,7 @@ RDVWF,"RadView Software, Ltd. Ordinary Shares (Israel)",U
 RDVY,First Trust Rising Dividend Achievers ETF,NASDAQ
 RDWD,Redwood Group International Common Stock,U
 RDWR,Radware Ltd. Ordinary Shares,NASDAQ
+RDWWF,REDROW PLC ORD GBP0.105 (United Kingdom),U
 RDY,Dr. Reddy's Laboratories Limited American Depositary Shares,NYSE
 RE,"Everest Re Group, Ltd.",NYSE
 REAC,"REAC Group, Inc. Common Stock",U
@@ -4785,7 +4788,7 @@ SCCC,Sachem Capital Corp. 7.75% Notes due 2025,AMEX
 SCCCF,Sunac China Holdings Limited Ordinary Shares (Cayman Islands),U
 SCCFF,Strategic Resources Inc Common Shares,U
 SCCO,Southern Copper Corporation,NYSE
-SCCRF,Prosmart Enterprises Inc Ordinary Shares,U
+SCCRD,ALSET CAP INC Ordinary Shares,U
 SCCTY,Scout24 American Depositary Receipts - Unsponsored (Germany),U
 SCD,"LMP Capital and Income Fund, Inc.",NYSE
 SCDA,B- Scada Inc. Common Stock,U
@@ -4956,7 +4959,6 @@ SDRWW,Sandridge Energy Inc. Warrant Series A Exp 10/04/2022,U
 SDS,ProShares UltraShort S&P500,ARCA
 SDSS,Suspect Detection Systems Inc. Common Stock,U
 SDSYA,"South Dakota Soybean Processors, LLC CAP UNIT CL A",U
-SDTCD,GIVBUX INC Common Stock,U
 SDTTU,SANDRIDGE MISSISSIPPIAN TR I Unit,U
 SDURF,Stroud Resources Ltd Ordinary Shares,U
 SDVI,"Signature Devices, Inc. Common Stock",U
@@ -5124,6 +5126,7 @@ SFST,"Southern First Bancshares, Inc. Common Stock",NASDAQ
 SFT,"Shift Technologies, Inc. Class A Common Stock",NASDAQ
 SFTBF,SOFTBANK GROUP CORP Ordinary Shares,U
 SFTBY,Softbank Group American Depositary Receipts - Unsponsored,U
+SFTKF,SAF TEHNIKA AS Ordinary Shares,U
 SFTW,Osprey Technology Acquisition Corp.,NYSE
 SFTW U,"Osprey Technology Acquisition Corp. Units, each consisting of one share of Class A Common Stock and",NYSE
 SFTW WS,"Osprey Technology Acquisition Corp. Redeemable Warrants, each whole Warrant exercisable for one shar",NYSE
@@ -5182,6 +5185,7 @@ SGIC,"Strategic Rlty Tr Inc, COM (United Stated)",U
 SGIL,Sunburst Acquisitions V Inc Common Stock,U
 SGIOF,Shionogi & Co Ltd Ordinary Shares,U
 SGIOY,Shionogi & Co Ltd Unsponsored ADR (Japan),U
+SGIPF,SUGI HLDGS CO LTD SHS (Japan),U
 SGLA,Sino Green Land Corporation Common Stock,U
 SGLB,"Sigma Labs, Inc. Common Stock",NASDAQ
 SGLBW,"Sigma Labs, Inc. Warrant",NASDAQ
@@ -5313,6 +5317,3 @@ SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
-SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
-SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U

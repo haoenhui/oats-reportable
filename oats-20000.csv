@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
+SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
+SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRF,"Sunstone Hotel Investors, Inc.  6.450% Series F Cumulative Redeemable Preferred Stock",NYSE
@@ -248,7 +251,6 @@ SKYE,"Skye Bioscience, Inc. Common Stock",U
 SKYF,SKY440 Inc Common Stock,U
 SKYI,"Sky Century Investment, Inc. Common Stock",U
 SKYL,Sky Resort International Ltd. Common Stock,U
-SKYTY,"SkyCity Entertainment Group, Ltd. Sponsored ADR (New Zealand)",U
 SKYU,ProShares Trust ProShares Ultra Nasdaq Cloud Computing ETF,NASDAQ
 SKYW,"SkyWest, Inc. Common Stock",NASDAQ
 SKYY,First Trust Cloud Computing ETF,NASDAQ
@@ -1995,7 +1997,6 @@ TGASY,Towngas China Co Ltd Unsponsored ADR (Cayman Island),U
 TGB,Taseko Mines Limited,AMEX
 TGBMF,Taiwan Cement Corp Ordinary Shares Taiwan (TW),U
 TGC,"Tengasco, Inc.",AMEX
-TGCDF,Teranga Gold Corp CDA Common Shares,U
 TGCM,"Trans-Global Capital Management, Inc. Common Stock",U
 TGDLF,TONGDAO LIEPIN GROUP Ordinary Shares,U
 TGEN,TECOGEN INC NEW Common Stock,U
@@ -2188,7 +2189,6 @@ TITN,Titan Machinery Inc. Common Stock,NASDAQ
 TITUF,Titanium Corporation Inc Titanium Corporation Inc,U
 TIXC,Tix Corporation Common Stock,U
 TIXT,TELUS International (Cda) Inc. Subordinate Voting Shares,NYSE
-TIXXF,Titan Medical Inc Warrant Expiring 02/12/2021 (Canada),U
 TIZAF,Tiziana Life Sciences PLC Shares New (United Kingdom),U
 TJBH,Tengjun Biotechnology Corp. Common Stock,U
 TJIPF,Tianjin Port Development Holdings Limited Ordinary Shares (Cayman Islands),U
@@ -2733,8 +2733,8 @@ TSCAF,Tuscany Energy Ltd Ordinary Shares (Canada),U
 TSCAP,"TriState Capital Holdings, Inc. Dep Shs Rep 1/40th Int 6.75% Srs A Non-Cum Pfd Stock",NASDAQ
 TSCBP,"TriState Capital Holdings, Inc. Depositary Share, representing a 1/40th Interest in a Share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",NASDAQ
 TSCC,Technology Solutions Company Common Stock,U
+TSCDD,TESCO PLC American Depositary Receipts - Sponsored,U
 TSCDF,Tesco Plc  Ord Ordinary Shares,U
-TSCDY,Tesco Plc  Ord American Depositary Shares,U
 TSCFY,Tisco Financial Group Public Co Ltd Unsponsored ADR (Thailand),U
 TSCHY,Trustco Group Holdings Ltd. Sponsored American Depository Receipt (Namibia),U
 TSCO,Tractor Supply Company Common Stock,NASDAQ
@@ -3177,7 +3177,7 @@ UGI,UGI Corporation,NYSE
 UGL,ProShares Ultra Gold,ARCA
 UGLDF,Credit Suisse AG Nassau Brh VelocityShares 3x Long Gold ETN,U
 UGP,Ultrapar Participacoes S.A.,NYSE
-UGRO,"Urban-Gro, Inc. Common Stock",NASDAQ
+UGRO,"urban-gro, Inc. Common Stock",NASDAQ
 UHAL,Amerco Common Stock,NASDAQ
 UHGSF,UNITED HUNTER OIL & GAS Ordinary Shares Canada(CA ),U
 UHID,"Universal Health Services, Inc. Common Stock",U
@@ -3249,6 +3249,7 @@ UMSBF,UEM SUNRISE BHD Ordinary Shares (Malaysia),U
 UMSSF,UMS Holdings Ltd Ordinary Shares (Singapore),U
 UMTAF,Genertec Unvl Med Group Co Ltd Ordinary Shares,U
 UMYC,"Universal Money Centers, Inc. Common Stock",U
+UNADF,UNION ANDINA DE CEMENTOS SAA Ordinary Shares,U
 UNAM,Unico American Corporation Common Stock,NASDAQ
 UNB,"Union Bankshares, Inc. Common Stock",NASDAQ
 UNBK,United National Bank Cairo GA Common Stock,U

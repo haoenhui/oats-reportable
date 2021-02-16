@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -688,6 +692,7 @@ HPQFF,HPQ-Silicon Res Inc Common Shares,U
 HPR,HighPoint Resources Corporation,NYSE
 HPS,John Hancock Preferred Income Fund III,NYSE
 HPST,"Hempstract, Inc. Common Stock",U
+HPSYF,HORIZONS PSYCHEDELIC STK INDEX ETF Exchange Traded Fund,U
 HPTN,"Happy Town Holdings, Inc. Common Stock",U
 HPTO,hopTo Inc. New Common Stock,U
 HPTY,HEMP TECHNOLOGY INC Common Stock,U
@@ -984,6 +989,7 @@ HYMLF,Hyundai Motor Co Ltd Ordinary Shares,U
 HYMOF,Hyundai Motor Co Ltd Pfd Shs Issued 1999 (South Korea),U
 HYMPF,Hyundai Motor Co Ltd PFD Shares Non-Voting,U
 HYMTF,Hyundai Motor Co Ltd Global Depositary Shares,U
+HYPBY,Hypebeast Limited American Depositary Receipts - Sponsored,U
 HYPF,"Hypower Fuel, Inc. New Common Stock",U
 HYPLF,Hyundai Mobis Co Ltd  Ordinary Shares (South Korea),U
 HYPMY,Hypera SA American Depositary Receipts - Sponsored,U
@@ -1339,7 +1345,7 @@ IGACW,IG Acquisition Corp. Warrant,NASDAQ
 IGAP,Integrity Applications Incorporation Com,U
 IGBH,iShares Interest Rate Hedged Long-Term Corporate Bond ETF,ARCA
 IGC,"India Globalization Capital, Inc.",AMEX
-IGCIW,India Globalization Capital Inc. Warrant Exp 03/08/2021,U
+IGCIW,India Globalization Capital Inc. Warrant   03/09/2023,U
 IGD,VOYA GLOBAL EQUITY DIVIDEND AND PREMIUM OPPORTUNITY FUND,NYSE
 IGE,iShares North American Natural Resources ETF,BATS
 IGEB,iShares Investment Grade Bond Factor ETF,BATS
@@ -1361,7 +1367,7 @@ IGIC,International General Insurance Holdings Ltd. Ordinary Share,NASDAQ
 IGICW,International General Insurance Holdings Ltd. Warrants expiring 03/17/2025,NASDAQ
 IGIFF,IGM Financial Inc. Ordinary Shares (Canada),U
 IGLB,iShares 10+ Year Investment Grade Corporate Bond ETF,ARCA
-IGLDD,INTERNET GOLD-GOLDEN LINES LTD Ordinary Shares,U
+IGLDF,INTERNET GOLD-GOLDEN LINES LTD Ordinary Shares,U
 IGM,iShares Expanded Tech Sector ETF,ARCA
 IGMS,"IGM Biosciences, Inc. Common Stock",NASDAQ
 IGN,iShares North American Tech-Multimedia Networking ETF,ARCA
@@ -1522,7 +1528,7 @@ IMBI,"iMedia Brands, Inc. Class A Common Stock",NASDAQ
 IMBXF,IShares PLC US MBS UCITS ETF (Ireland),U
 IMCDY,IMCD Group NV American Depositary Receipts - Unsponsored (Netherlands),U
 IMCI,Infinite Group Inc. Common Stock,U
-IMCNF,IM CANNABIS CORP Common Shares  Canada(CA ),U
+IMCND,IM CANNABIS CORP Common Shares,U
 IMCR,Immunocore Holdings plc American Depositary Shares,NASDAQ
 IMCUF,Industria Macchine Automatiche SPA Ordinary Shares (Italy),U
 IMDXF,Imdex Ltd Ordinary Shares,U
@@ -2335,7 +2341,6 @@ JANZ,TrueShares Structured Outcome (January) ETF,BATS
 JAPAF,Japan Tobacco Ordinary Shares,U
 JAPAY,Japan Tobacco Unsponsored American Depository Receipt ( Japan),U
 JAPSY,Japan Airlines Ltd Unsponsored ADR (Japan),U
-JAQCU,Jupiter Acquisition Corporation Units,NASDAQ
 JARLF,Jardine Matheson Hldgs Ltd Ord Ordinary Shares,U
 JASSF,Japan Asset Marketing Co Ltd Ordinary Shares (Japan),U
 JASUF,Jasmine International Public Co Ltd Units Non-Voting Depositary Receipt (Thailand),U
@@ -2680,7 +2685,6 @@ JTEKY,JTEKT Corporation Unsponsored ADR (Japan),U
 JTNB,"JTNB Bancorp, Inc. Common Stock",U
 JTTRY,Japan Arpt Term Co Ltd American Depositary Receipts - Unsponsored (Japan),U
 JUBPF,Jubilee Metals Group PLC Ordinary Shares,U
-JUDOD,NEWPOINT FINL CORP DEL Common Stock,U
 JUGRF,Juggernaut Expl Ltd Ordinary Shares,U
 JUHDY,JANUS HENDERSON GROUP PLC Chess Depositary Interests (Jersey),U
 JUHL,"Juhl Energy, Inc. Common Stock",U
@@ -3601,9 +3605,6 @@ LGTS,Lightspace Corporation Common Stock,U
 LGTT,"LIGATT Security International, Inc. Common Stock",U
 LGUPF,LG Uplus Corp Ordinary Shares (South Korea),U
 LGVN,Longeveron Inc. Class A Common Stock,NASDAQ
-LGVW,Longview Acquisition Corp.,NYSE
-LGVW U,"Longview Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-thir",NYSE
-LGVW WS,"Longview Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Clas",NYSE
 LGYRF,Landis & Gyr Group AG Namen AKT (Switzerland),U
 LGYV,LEGACY VENTURES INTL INC Common Stock,U
 LH,Laboratory Corporation of America Holdings,NYSE
@@ -4218,6 +4219,7 @@ MBINO,Merchants Bancorp Depositary Shares Each Representing a 1/40th Interest in
 MBINP,Merchants Bancorp 7.00% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock,NASDAQ
 MBIO,"Mustang Bio, Inc. Common Stock",NASDAQ
 MBISF,Orange Belgium SA Ordinary Shares,U
+MBKBF,"METAL BANK LTD, SYDNEY NSW SHS (Australia)",U
 MBKL,"MBT Bancshares, Inc. Common Stock",U
 MBLU,Morris St Bancshares Inc Common Shares,U
 MBLV,MobiVentures Inc. Common Stock,U
@@ -4862,7 +4864,7 @@ MMNGF,Metallic Minerals Corp Common Shares,U
 MMNNF,Munters Group AP Ordinary Shares (Sweden),U
 MMNT,Momentous Hldgs Corp Common Stock,U
 MMNWF,Medmen Enterprises Inc Warrant Expiring 09/27/2021 (Canada),U
-MMOEF,Mount Dakota Energy Corp Ordinary Shares,U
+MMOED,Mount Dakota Energy Corp Ordinary Shares,U
 MMP,"Magellan Midstream Partners, L.P.",NYSE
 MMRGF,"Minaurum Gold, Inc. Ordinary Shares (Canada)",U
 MMRTF,Massmart Holdings Ltd Ordinary Shares (South Africa),U
@@ -5189,6 +5191,7 @@ MS PRK,"Morgan Stanley Depositary Shares, each representing 1/1,000th of a share
 MS PRL,"Morgan Stanley Depositary Shares, each representing 1/1,000th of a share of 4.875% Non-Cumulative Pr",NYSE
 MSA,Mine Safety Incorporated,NYSE
 MSAAF,"M&C Saatchi PLC, London Ordinary Shares (United Kingdom)",U
+MSACU,Medicus Sciences Acquisition Corp. Unit,NASDAQ
 MSADF,"MS & AD Insurance Group Holdings, Inc. Ordinary Shares (Japan)",U
 MSADY,"MS&AD Insurance Group Holdings, Inc. Unsponsored ADR (Japan)",U
 MSAH,"Man Shing Agricultural Holdings, IncCommon Stock",U
@@ -5314,5 +5317,3 @@ MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U
 MTLRF,Metalore Resources Ltd Ordinary Shares,U
 MTLS,Materialise NV American Depositary Shares,NASDAQ
 MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
-MTMW,"Matmown, Inc. Common",U
-MTN,"Vail Resorts, Inc.",NYSE
