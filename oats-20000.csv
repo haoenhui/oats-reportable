@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
 SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
@@ -779,6 +780,7 @@ SPGHF,SINO PROSPER GROUP HLDGS LTD Ordinary Shares,U
 SPGI,S&P Global Inc.,NYSE
 SPGM,SPDR Portfolio MSCI Global Stock Market ETF,ARCA
 SPGP,Invesco S&P 500 GARP ETF,ARCA
+SPGS U,"Simon Property Group Acquisition Holdings, Inc. Units, each consisting of one share of Class A commo",NYSE
 SPGX,Sustainable Projects Group Inc. Common Stock,U
 SPGYF,"Whitecap Resources, Inc. Common shares (Canada)",U
 SPGZ,Spectrum Group International Inc. Common Stock,U
@@ -883,6 +885,7 @@ SPSTY,Singapore Post Ltd Unsponsored ADR (Singapore),U
 SPT,"Sprout Social, Inc Class A Common Stock",NASDAQ
 SPTI,SPDR Portfolio Intermediate Term Treasury ETF,ARCA
 SPTJF,Sinopec Shanghai Petrochemical Ordinary Shares,U
+SPTKU,SportsTek Acquisition Corp. Unit,NASDAQ
 SPTL,SPDR Portfolio Long Term Treasury ETF,ARCA
 SPTM,SPDR Portfolio S&P 1500 Composite Stock Market ETF,ARCA
 SPTN,SpartanNash Company Common Stock,NASDAQ
@@ -954,6 +957,7 @@ SRBCF,Sirona Biochem Corp. Ordinary Shares (Canada),U
 SRBEF,SES IMAGOTAG Ordinary Shares,U
 SRBGF,Starrag Rorschacherberg Ordinary Shares (Switzerland),U
 SRBIF,Serabi Gold Plc Ordinary Shares,U
+SRBRF,Sapura Resources BHD Ordinary Shares (Malaysia),U
 SRBT,Shanrong Biotechnology Corp. Common Stock,U
 SRBZF,STRATEC BIOMEDICAL SYSTEMS AG BIRKENFELD Ordinary Shares  Germany Federal Republic(DE ),U
 SRC,"SPIRIT REALTY CAPITAL, INC.",NYSE
@@ -1082,6 +1086,7 @@ SSGAF,SSGA SPDR ETFs Europe I PLC Accum Shares ETF USD (Ireland),U
 SSGBF,SSGA SPDR ETFS EUROPE I PLC SPDR BLOOMBERG BARCLAYS 1 3 MONTH T BILL UCITS ETF ACCUMULATION (Ireland),U
 SSGFF,SSGA SPDR Etfs Europe II Plc MSCI World Financials UCITS Exchange Traded Fund (Ireland),U
 SSGGF,SSGA SPDR ETFS Europe I PLC Exchange Traded Fund USD (Ireland),U
+SSGMF,SSGA SPDR ETFS Europe II Plc SPDR MSCI World Telecommunications UCITS ETF (Ireland),U
 SSGOF,Stop Sleep Go Inc. Common Stock,U
 SSGPF,SSGA SPDR ETFS Europe I PLC Shs ETF USD (Ireland),U
 SSGRF,Super Retail Group Ltd Ordinary Shares (Australia),U
@@ -1433,7 +1438,6 @@ SVBRF,Silver Bear Res PLC Common Shares,U
 SVBT,SVB&T Corp Common Stock,U
 SVC,Service Properties Trust Common Stock,NASDAQ
 SVCBF,Svenska Cellulosa B Shs Ordinary Shares,U
-SVCBY,Svenska Cellulosa B Shs American Depositary Shares,U
 SVCRF,Servcorp Limited Ordinary Shares (Australia),U
 SVCTF,Senvest Capital Inc Ordinary Shares,U
 SVDN,SAVDEN GROUP CORP Common Stock,U
@@ -1829,6 +1833,7 @@ TCPDF,TRUE CORPORATION PUBLIC COMPANY LIMITED NVDR SHARES Depositary Receipts,U
 TCPFF,True Corporation Public Co Ltd Ordinary Shares,U
 TCPHF,THANACHART CAPITAL PUBLIC CO LTD LOCAL SHARES (Thailand),U
 TCPP,"Trinity Capital Partners, Inc. Common Stock",U
+TCPTF,Thanachart Capital Public Co Ltd. NVDR Shares (Thailand),U
 TCPYF,Ticon Property Fund Units (Thailand),U
 TCRI,TECHCOM INC Common Stock,U
 TCRR,TCR2 Therapeutics Inc. Common Stock,NASDAQ
@@ -2095,6 +2100,7 @@ THMG,"Thunder Mountain Gold, Inc. Common Stock",U
 THMMF,Thaicom Public Company Ltd SHS (Thailand),U
 THMNF,Thaicom Public Company Ltd UNits Non-Voting Depositary Receipt (Thailand),U
 THMO,"ThermoGenesis Holdings, Inc. Common Stock",NASDAQ
+THNPF,Technip Energies NV Ordinary Shares (France),U
 THNQ,ROBO Global Artificial Intelligence ETF,ARCA
 THNUY,Thanachart Capital Public Co Ltd Unsponsored ADR (Thailand),U
 THNVF,THANACHART CAPITAL PUBLIC CO  LTD Ordinary Shares  (Thailand),U
@@ -2359,6 +2365,7 @@ TMQ,Trilogy Metals Inc,AMEX
 TMRAF,Tomra Systems A/S/A Ord Ordinary Shares,U
 TMRAY,Tomra Systems A/S/A Ord American Depositary Shares,U
 TMRC,Texas Mineral Resources Corp. Common Stock,U
+TMRFF,Tempus Resources Ltd Ordinary Shares (Australia),U
 TMRNF,Tamron Co Ltd Ordinary Shares (Japan),U
 TMRR,Temir Corp Common Stock,U
 TMSH,"TransGlobal Assets, Inc. Common Stock",U
@@ -2404,6 +2411,7 @@ TNISY,Tecnicas Reunidas Sa Madrid Unsponsored ADR (Spain),U
 TNJIF,Tianjin Capital Environmental Protection Group Co Ltd Ordinary shares - H- (China),U
 TNK,Teekay Tankers Ltd.,NYSE
 TNKE,Tanke Incorporated Common Stock,U
+TNL,Travel + Leisure Co.,NYSE
 TNLIF,Trainline Plc Common Stock (United Kingdom),U
 TNLIY,Trainline PLC UNsponsored ADR (United Kingdom),U
 TNLX,Trans-Lux Corporation Common Stock,U
@@ -2437,7 +2445,6 @@ TNTMF,Transition Metals Corp. New Ordinary Shares (Canada),U
 TNTOF,TORONTO DOMINION BK ONT NON CUM 5 YR RATE RESET PFD SHS SER 12 NVCC (Cananda),U
 TNTRQ,TINTRI INC Common Stock,U
 TNTTF,Toronto Dominion Bk Ont Non Cum 5 Yr Rate Reset Pfd Ser 3 (Canada),U
-TNVDF,Thai NVDR Co Ltd. Warrant 02/16/2021 (Thailand),U
 TNXP,Tonix Pharmaceuticals Holding Corp. Common Stock,NASDAQ
 TNXXF,TALANX AG Ordinary Shares (Germany),U
 TNYBF,"Tinley Beverage Co, Inc. Ordinary Shares",U
@@ -2823,7 +2830,6 @@ TTBXF,Tritax Big Box Reit Plc Ord Gbp0.01 (United Kingdom),U
 TTC,Toro Company (The),NYSE
 TTCF,"Tattooed Chef, Inc Class A Common Stock",NASDAQ
 TTCFF,True Telecommunication Growth Infrastructure FD Units (Thailand),U
-TTCFW,"Tattooed Chef, Inc. Warrant",NASDAQ
 TTCIF,TITAN CEM INTL N V REGISTERED SHS (Belgium),U
 TTCM,Tautachrome Inc. Common Stock,U
 TTCNF,"Telit Communications Plc, London Ordinary shares (United Kingdom)",U
@@ -3757,7 +3763,7 @@ VILGF,Yourgene Health PLC Ordinary Shares (United Kingdom),U
 VINC,"Vincerx Pharma, Inc. Common Stock",NASDAQ
 VINCU,"Vincerx Pharma, Inc. Unit",NASDAQ
 VINCW,"Vincerx Pharma, Inc. Warrant",NASDAQ
-VINO,"Gaucho Group Holdings, Inc. Common Stock",U
+VINO,"Gaucho Group Holdings, Inc. Common Stock",NASDAQ
 VINP,Vinci Partners Investments Ltd. Class A Common Shares,NASDAQ
 VINS,Vindicator Silver-Lead Mng Common Stock,U
 VIOG,Vanguard S&P Small-Cap 600 Growth ETF,ARCA
@@ -4014,6 +4020,7 @@ VRNDF,Delta 9 Cannabis Inc Ordinary Shares,U
 VRNS,"Varonis Systems, Inc. Common Stock",NASDAQ
 VRNT,Verint Systems Inc. Common Stock,NASDAQ
 VRP,Invesco Variable Rate Preferred ETF,ARCA
+VRPX,"Virpax Pharmaceuticals, Inc. Common Stock",NASDAQ
 VRRCF,VR RESOURCES LTD Ordinary Shares,U
 VRRKF,Versabank Ordinary Shares (Canada),U
 VRRM,Verra Mobility Corporation Class A Common Stock,NASDAQ
@@ -4757,7 +4764,6 @@ WY,Weyerhaeuser Company,NYSE
 WYCC,Worry Free Holdings Company Common Stock,U
 WYGPF,WORLEY LTD Common Shares,U
 WYGPY,Worley Limited American Depositary Receipts - Unsponsored,U
-WYND,"Wyndham Destinations, Inc. Common Stock",NYSE
 WYNMF,Wynn Macau Limited Ordinary Shares (Cayman Islands),U
 WYNMY,Wynn Macau Limited Unsponsored ADR (Cayman Islands),U
 WYNN,"Wynn Resorts, Limited Common stock",NASDAQ
@@ -4770,8 +4776,6 @@ X,United States Steel Corporation,NYSE
 XAARF,Xaar Plc Ord Ordinary Shares,U
 XAIR,"Beyond Air, Inc. Common Stock",NASDAQ
 XALL,Xalles Holdings Inc. Common Stock,U
-XAN,Exantas Capital Corp. Common Stock,NYSE
-XAN PRC,"Exantas Capital Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock, par v",NYSE
 XANAF,"Xanadu Mines Ltd, Ordinary Shares (Austrailia)",U
 XAR,SPDR S&P Aerospace & Defense ETF,ARCA
 XAUMF,GOLDMONEY INC Ordinary Shares,U

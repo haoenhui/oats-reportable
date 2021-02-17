@@ -99,6 +99,7 @@ ABFOF,Abertis Infraestructuras SA Ordinary Shares (Spain),U
 ABFRF,Aberforth Smaller Companies Trust PLC Ordinary Shares (United Kingdom),U
 ABFXF,ABF Pan Asia Bond Index Fund Units (Singapore),U
 ABG,"Asbury Automotive Group, Inc.",NYSE
+ABGI,ABG Acquisition Corp. I Class A Ordinary Shares,NASDAQ
 ABGLF,ACACIA MNG PLC Common Shares,U
 ABGOF,Abengoa Sa Ordinary Shares (Spain),U
 ABGOY,Abengoa Sa Unsponsored ADR (Spain),U
@@ -259,6 +260,8 @@ ACPGF,ACACIA PHARMA GROUP PLC ORD GBP0.02 (United Kingdom),U
 ACPIF,AC ENERGY CORP Common Stock,U
 ACPRF,ARCPACIFIC RES CORP Common Shares (Canada),U
 ACPS,AC Partners Inc. Common Stock,U
+ACR,ACRES Commercial Realty Corp.,NYSE
+ACR PRC,ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stoc,NYSE
 ACRB,"Asia Carbon Industries, Inc. Common",U
 ACRDF,"Acreage Holdings, Inc. Class D Sub Vtg Ord Shs (Canada)",U
 ACRE,Ares Commercial Real Estate Corporation,NYSE
@@ -1150,7 +1153,8 @@ AMOVF,"America Movil, S.A. de C.V. Class A Ordinary Shares",U
 AMP,"Ameriprise Financial, Inc.",NYSE
 AMPCF,Amorepacific Group Inc Ordinary Shares (Republic of South Korea),U
 AMPE,"Ampio Pharmaceuticals, Inc",AMEX
-AMPG,Amplitech Group Inc. Com,U
+AMPG,"Amplitech Group, Inc. Common Stock",NASDAQ
+AMPGW,"Amplitech Group, Inc. Warrants",NASDAQ
 AMPH,"Amphastar Pharmaceuticals, Inc. Common Stock",NASDAQ
 AMPO,Amperico Corp Com,U
 AMPY,Amplify Energy Corp.,NYSE
@@ -1733,6 +1737,7 @@ ASOMY,ASOS Plc Unsponsored ADR (United Kingdom),U
 ASOZF,Asseco Poland S.A. Ordinary Shares (Poland),U
 ASOZY,Asseco Poland S.A. Sponsored ADR (Poland),U
 ASPCF,ACERUS PHARMACEUTICALS CORP Common Shares,U
+ASPCU,Alpha Capital Acquisition Company Unit,NASDAQ
 ASPD,"ASPEN DIGITAL, INC. DIGITAL TOKEN REPSTG COM Other",U
 ASPGF,ASPIRE GLOBAL PLC GBP 0.0025 Ordinary Shares (Malta),U
 ASPHF,ASCENTAGE PHARMA GROUP INTL HKD SHS (Cayman Islands),U
@@ -3658,6 +3663,7 @@ BWOFY,BW Offshore American Depository Receipts (Bermuda),U
 BWOWF,Wowjoint Holdings Limited Common Shares (Cayman Islands),U
 BWPC,Blue Water Petroleum Corp. Common Stock,U
 BWPPF,Balwin Properties Ltd. Common Stock (South Africa),U
+BWSN,"Babcock & Wilcox Enterprises, Inc. 8.125% Senior Notes due 2026",NYSE
 BWSTF,BRISTOL & WEST PLC 8.125 % NON -CUM NON -RED PREF SHS Preference Shares,U
 BWTL,Bowlin Travel Centers Inc Common Stock,U
 BWTX,Bakken Water Transfer Services Inc. Common Stock,U
@@ -4291,7 +4297,7 @@ CEW,WisdomTree  Emerging Currency Strategy Fund,ARCA
 CEXE,Circle Entertainment Inc. Common Stock,U
 CEXPF,Cache Exploration Inc. Ordinary Shares,U
 CEY,Victory Portfolios II VictoryShares Emerging Market High Div Volatility Wtd ETF,NASDAQ
-CEYFD,PARENT CAP CORP Common Shares,U
+CEYFF,PARENT CAP CORP Common Shares,U
 CEZ,VictoryShares Emerging Market Volatility Wtd ETF,NASDAQ
 CEZYY,Cez AS American Depositary Receipts - Unsponsored (Czech Republic),U
 CF,"CF Industries Holding, Inc.",NYSE
@@ -4983,6 +4989,7 @@ CMPRY,Compartamos Sab De CV American Depositary Shares,U
 CMPS,COMPASS Pathways Plc American Depository Shares,NASDAQ
 CMPUY,CompuGroup Medical SE & co. KGaA American Depositary Receipts - Unsponsored,U
 CMPVF,CompuGoup Med SE Ordinary Shares,U
+CMPX,Compass Therapeutics Inc Common Stock,U
 CMPY,"Comepay, Inc. Common Stock",U
 CMPZF,Goodman Gold Trust (Canada),U
 CMRB,First Commerce Bank Lakewood NJ Common Stock,U
@@ -5315,6 +5322,3 @@ COWPP,Canal Capital Corporation $1.30 Exchangeable Preferred Stock,U
 COWTF,Barclays Bk PLC iPath Bloomberg Livestock Subindex Total Return ETN due 10/22/2037 (United Kingdom),U
 COWZ,Pacer US Cash Cows 100 ETF,BATS
 COYJF,Citycon OYJ Ordinary Shares (Finland),U
-COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
-CP,Canadian Pacific Railway,NYSE
-CPA,"Copa Holdings, S.A.",NYSE

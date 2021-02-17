@@ -41,7 +41,6 @@ GXTG,Global X Funds Global X Thematic Growth ETF,NASDAQ
 GXXM,Gex Mgmt Inc Common Stock,U
 GXYEF,Galaxy Entertainment Group Limited Ordinary Shares (Hong Kong),U
 GXYYY,Galaxy Entmt Group Ltd ADR Unsponsored (Hong Kong),U
-GYC,"Corporate Asset Backed Corp., CABCO Trust 2004-102 SBC Commun Float Rate",NYSE
 GYGC,Guyana Gold Corp Common Stock,U
 GYLD,Arrow Dow Jones Global Yield ETF,ARCA
 GYNAF,"Guyana Goldstrike, Inc. Ordinary Shares",U
@@ -719,7 +718,6 @@ HRDDF,Hardey Res Ltd Ordinary Shares (Australia),U
 HRDI,"Here Media, Inc Common Stock",U
 HRDIL,"Here Media, Inc Spl Shares",U
 HREEF,Stans Energy Corp. Ordinary Shares (Canada),U
-HRENF,"Huaneng Renewables Corporation Ltd, Beijing Registered Shares (China)",U
 HRFEF,Harfang Expl Inc Common Shares (Canada),U
 HRGG,Heritage Nola Bancorp Inc Common Stock,U
 HRGLF,"Hargreaves Lansdown PLC, Bristol Ordinary Shares (United Kingdom)",U
@@ -797,6 +795,7 @@ HSTI,"High Sierra Technologies, Inc. Common Stock",U
 HSTM,"HealthStream, Inc. Common Stock",NASDAQ
 HSTO,Histogen Inc. Common Stock,NASDAQ
 HSTRF,Hollister Biosciences Inc Common Shares (Canada),U
+HSTXF,Heliostar Metals Ltd.  Ordinary Shares,U
 HSWLF,Hostelworld Group Plc Ordinary Shares (United Kingdom),U
 HSXUF,Hang Seng H Share Index ETF Units (Hong Kong),U
 HSY,The Hershey Company,NYSE
@@ -3072,13 +3071,14 @@ KNNGF,Kion Group AG Ordinary Shares (Germany),U
 KNNNF,Kainos Group PLC Ordinary Shares (United Kingdom),U
 KNOP,KNOT OFFSHORE PARTNERS LP,NYSE
 KNOS,Kronos Advanced Technologies Inc Common Stock,U
-KNRLF,Kontrol Energy Corp Ordinary Shares,U
+KNRLF,Kontrol Technologies Corp. Ordinary Shares,U
 KNRRY,Knorr-Bremse AG American Depositary Receipts - Unsponsored (Germany Federal Republic),U
 KNSA,"Kiniksa Pharmaceuticals, Ltd. Class A Common Stock",NASDAQ
 KNSL,"Kinsale Capital Group, Inc. Common Stock",NASDAQ
 KNTE,Kinnate Biopharma Inc. Common Stock,NASDAQ
 KNTNF,K92 Mining Inc Common Shares (Canada),U
 KNTPF,KINTOR PHARMACEUTICAL LTD Ordinary Shares,U
+KNTTF,Kintetsu Department Store Co Ltd Ordinary Shares (Japan),U
 KNVKF,Kinnevik AK B Ordinary Shares (Sweden),U
 KNWN,"Know Labs, Inc. Common Stock",U
 KNX,Knight-Swift Transportation Holdings Inc. Class A Common Stock,NYSE
@@ -3283,7 +3283,9 @@ KVLE,KFA Value Line Dynamic Core Equity Index ETF,ARCA
 KVLQF,ValOre Metals Corp Common Shares,U
 KVMD,"Kelvin Medical, Inc. Common Stock",U
 KW,"KENNEDY-WILSON HOLDINGS, INC.",NYSE
+KWAC,Kingswood Acquisition Corp.,NYSE
 KWAC U,"Kingswood Acquisition Corp. Units, each consisting of one share of Class A Common Stock and three-fo",NYSE
+KWAC WS,"Kingswood Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common",NYSE
 KWBT,Kiwa Bio-Tech Products Group Corporation Common Stock,U
 KWEB,KraneShares CSI China Internet ETF,ARCA
 KWEMF,KWESST MICRO SYS INC Common Stock (Canada),U
@@ -4108,6 +4110,7 @@ MAASF,Matas A S Ordinary Shares (Denmark),U
 MAAX,VanEck Vectors Muni Allocation ETF,BATS
 MABHF,Mortgage Advice Bureau Holdings Ltd Common Stock (United Kingdom),U
 MAC,The Macerich Company,NYSE
+MACAU,Moringa Acquisition Corp Units,NASDAQ
 MACE,"Mace Security International, Inc. Common Stock",U
 MACK,"Merrimack Pharmaceuticals, Inc. Common Stock",NASDAQ
 MACLF,"Maca Ltd, West Perth WA Ordinary Shares (Austrailia)",U
@@ -4230,6 +4233,7 @@ MBOF,MARINE BANCORP FLA INC Common Stock,U
 MBOT,Microbot Medical Inc. Common Stock,NASDAQ
 MBPFF,Mitchells & Butlers Plc Ordinary Shares (UK) NEW,U
 MBPFY,Mitchells & Butlers Plc Unsponsored ADR (UK),U
+MBRFF,"Mo-Bruk SA, Korzenna Ordinary Shares (Poland)",U
 MBRTF,MBMI Resources Inc Ordinary Shares,U
 MBRX,"Moleculin Biotech, Inc. Common Stock",NASDAQ
 MBSD,FlexShares Disciplined Duration MBS Index Fund,ARCA

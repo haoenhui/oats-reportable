@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
+CP,Canadian Pacific Railway,NYSE
+CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAH,CounterPath Corporation Common Stock,NASDAQ
@@ -1645,7 +1648,7 @@ DWWEF,Diamond Estates Wines & Spirits LTD Ordinary Shares (Canada),U
 DWX,SPDR S&P International Dividend ETF,ARCA
 DX,"Dynex Capital, Inc.",NYSE
 DX PRC,"Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NYSE
-DXAED,PROSTAR HLDGS INC CDA Common Shares,U
+DXAEF,PROSTAR HLDGS INC CDA Common Shares,U
 DXBGY,Dexia SA Belgium American Depositary Receipts - Unsponsored,U
 DXBRF,BellRock Brands Inc Common Shares,U
 DXC,DXC Technology Company,NYSE
@@ -2551,7 +2554,7 @@ ESINQ,ITT EDL SVCS INC Common Stock,U
 ESIV,Essential Innovations Technology Corp.  Common Stock,U
 ESKEF,Esker Sa Lyon Ordinary Shares (France),U
 ESKYF,Eskay Mining Corporation Ordinary Shares 4 Month Hold (Canada),U
-ESLGF,EDDIE STOBART LOGISTICS PLC ORD GBP0.01 (United Kingdom),U
+ESLGF,Logistics Development Group plc Ordinary Shares,U
 ESLOF,Essilor Luxottica Ordinary Shares,U
 ESLOY,EssilorLuxottica American Depositary Receipts - Unsponsored,U
 ESLP,Euro Solar Parks Inc. Common Stock,U
@@ -2708,7 +2711,6 @@ EVBN,Evans Bancorp Inc,AMEX
 EVC,Entravision Communication,NYSE
 EVCC,Environmental Control Corp. Common Stock,U
 EVCI,EVCI Career Colleges Holding Corp. Common Stock,U
-EVCNF,"Even Construtora Incorporadora SA, Sao Paulo Ordinary Shares (Brazil)",U
 EVER,"EverQuote, Inc. Class A Common Stock",NASDAQ
 EVF,Eaton Vance Senior Income Trust,NYSE
 EVFM,"Evofem Biosciences, Inc. Common Stock",NASDAQ
@@ -3645,7 +3647,7 @@ FNMFM,Federal National Mortgage Association Preferred Series E,U
 FNMFN,Federal National Mortgage Association Pfd Ser O Var Rate,U
 FNMFO,Federal National Mortgage Association Pfd Conv Ser 2004-I 5.375%,U
 FNNCF,FINANCIAL FIFTEEN SPLIT CORP Ordinary Shares,U
-FNNGD,HEALTH LOGIC INTERACTIVE INC Ordinary Shares,U
+FNNGF,HEALTH LOGIC INTERACTIVE INC Ordinary Shares,U
 FNNNF,Finnair OYJ AKT Ordinary Shares,U
 FNNTF,FLATEXDEGIRO AG Ordinary Shares,U
 FNNZF,Fincanna Capital Corp Common Stock,U
@@ -3808,7 +3810,6 @@ FRHHF,"Freshii, Inc. Class A Sub Vtg Ordinary Shares (Canada)",U
 FRHLF,Freehold Royalty Ltd Ordinary Shares,U
 FRHV,"Fresh Harvest Products, Inc. Common Stock",U
 FRI,First Trust S&P REIT Index Fund,ARCA
-FRIFF,FORTRESS REIT LTD REIT,U
 FRIIF,France M.G.I. MGI Digital Graphic Technology Ordinary Shares (France),U
 FRIVF,Fortune Real Estate Investment Trust Units (Hong Kong),U
 FRLG,Large Cap Growth Index-Linked Exchange Traded Notes due 2028,ARCA
@@ -3883,6 +3884,7 @@ FSHRF,Feishang Anthracite Resources Ltd. Ordinary Shares,U
 FSHUF,FU SHOU YUAN INTL GROUP LTD  Ordinary Shares (Cayman Islands),U
 FSHYF,Shougang Fushan Resources Group Ltd Ordinary Shares (Hong Kong),U
 FSI,"Flexible Solutions International, Inc.",AMEX
+FSII,FS Development Corp. II Class A Common Stock,NASDAQ
 FSK,FS KKR Capital Corp. Common Stock,NYSE
 FSKR,FS KKR Capital Corp. II,NYSE
 FSLF,First Eagle Senior Loan Fund,NYSE
@@ -3914,6 +3916,7 @@ FSRPF,Frasers Ppty Ltd Ordinary Shares,U
 FSRV,FinServ Acquisition Corp. Class A Common Stock,NASDAQ
 FSRVU,FinServ Acquisition Corp. Unit,NASDAQ
 FSRVW,FinServ Acquisition Corp. Warrant,NASDAQ
+FSRXU,FinServ Acquisition Corp. II Unit,NASDAQ
 FSS,Federal Signal Corp.,NYSE
 FSSIU,Fortistar Sustainable Solutions Corp. Unit,NASDAQ
 FSSLY,Fossal SAA American Depositary Receipts - Sponsored (Peru),U
@@ -4250,6 +4253,7 @@ GBNY,"Generations Bancorp NY, Inc. Common Stock",NASDAQ
 GBOKD,GREENBROOK TMS INC  Ordinary Shares,U
 GBOOF,Grupo Fin Banorte Ordinary Shares,U
 GBOOY,"Grupo Financiero Banorte, S.A.B. De C.V Sponsored ADR (Mexico)",U
+GBOX,Greenbox POS Common Stock,NASDAQ
 GBPT,"Globe Photos, Inc.   Common Stock",U
 GBR,New Concept Energy Inc,AMEX
 GBRIF,Golden Band Resources Inc (F) Ordinary Shares,U
@@ -4589,6 +4593,7 @@ GJST,GEO JS Tech Group Corp. Common,U
 GJT,Synthetic Fixed-Income Securities STRATS 2006-3 AllState Corporation,NYSE
 GKIN,Guskin Gold Corp. Common Stock,U
 GKIT,"Greenkraft, Inc. NEW Common Stock",U
+GKOOF,Geekco Technologies Corporation Common Stock (Canada),U
 GKOS,Glaukos Corporation,NYSE
 GKPRF,GATEKEEPER SYS INC Ordinary Shares (Canada),U
 GKSDF,Grupo Kuo SAB de CV Cl B Ordinary Shares,U
@@ -4910,6 +4915,7 @@ GOSS,"Gossamer Bio, Inc. Common Stock",NASDAQ
 GOSY,Geckosystems Intl Corp Common Stock,U
 GOTNF,GOTENEHUS GROUP AB SHS -B - Ordinary Shares,U
 GOTRF,GOLIATH RESOURCES LTD Ordinary Shares,U
+GOTWF,GO2 People Ltd. Ordinary Shares (Australia),U
 GOVB,"Gouverneur Bancorp, Inc. Common Stock",U
 GOVT,iShares U.S. Treasury Bond ETF,BATS
 GOVX,"GeoVax Labs, Inc. Common Stock",NASDAQ
@@ -4987,7 +4993,6 @@ GRAY,"Graybug Vision, Inc. Common Stock",NASDAQ
 GRBG,"Green Bridge Industries, Inc. Common Stock",U
 GRBK,"Green Brick Partners, Inc. Common Stock",NASDAQ
 GRBMF,Grupo Bimbo Sa A Ordinary Shares,U
-GRBX,GreenBox POS Common Stock,U
 GRC,The Gorman-Rupp Company Common Shares,NYSE
 GRCAF,GOLD SPRINGS RESOURCE CORP Ordinary Shares,U
 GRCK,GREY CLOAK TECH INC Common Stock,U
