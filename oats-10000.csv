@@ -2711,6 +2711,7 @@ JW A,"John Wiley & Sons, Inc. Class A",NYSE
 JW B,"John Wiley & Sons, Inc. Class B",NYSE
 JWCAF,James E Wagner Cultivation Corp Ordinary Shares (Canada),U
 JWHI,Jin Wan Hong International Holdings Limited Common Stock,U
+JWLLF,Jamieson Wellness Inc COM (Canada),U
 JWN,"Nordstrom, Inc.",NYSE
 JWS,Jaws Acquisition Corp.,NYSE
 JWS U,"Jaws Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one red",NYSE
@@ -2736,6 +2737,7 @@ KAEPF,Kansai Electric Power Inc (F) Ordinary Shares,U
 KAEPY,Kansai Electric Power Inc Unsponsored ADR (Japan),U
 KAHL,Kahala Corporation (Florida) New Common Stock,U
 KAI,Kadant Inc.,NYSE
+KAIIU,Kismet Acquisition Two Corp. Unit,NASDAQ
 KAIKY,Kawasaki Kisen Kaisha Ltd American Depositary Receipts - Unsponsored,U
 KAIRU,Kairos Acquisition Corp. Unit,NASDAQ
 KAJMF,Kajima Corp Ord Ordinary Shares,U
@@ -2783,7 +2785,7 @@ KBDCY,Kingboard Hldgs Ltd Cayman Is American Depositary Receipts - Unsponsored,U
 KBDHF,Kabel Deutschland Holding AG Ordinary Shares (Germany),U
 KBE,SPDR S&P Bank ETF,ARCA
 KBEVF,Koios Beverage Corp Ordinary Shares,U
-KBGCD,Kings Bay Res Corp Ordinary Shares,U
+KBGCF,Kings Bay Res Corp Ordinary Shares,U
 KBH,KB Home,NYSE
 KBKCP,KBK Capital Corporation 9.50% Trust Preferred Securities due 11/30/2028,U
 KBLB,"Kraig Biocraft Laboratories, Inc. Common Stock",U
@@ -2923,6 +2925,7 @@ KIDS,OrthoPediatrics Corp. Common Stock,NASDAQ
 KIE,SPDR S&P Insurance ETF,ARCA
 KIERF,Kier Group Plc Ordinary Shares United Kingdom(GB ),U
 KIGRY,KION GROUP AG Unsponsored ADR (Germany),U
+KIIIU,Kismet Acquisition Three Corp. Unit,NASDAQ
 KIKOF,Kikkoman Corp Ordinary Shares,U
 KIKOY,Kikkoman Corp Unsponsored ADR (Japan),U
 KIM,Kimco Realty Corp.,NYSE
@@ -4115,6 +4118,7 @@ MACE,"Mace Security International, Inc. Common Stock",U
 MACK,"Merrimack Pharmaceuticals, Inc. Common Stock",NASDAQ
 MACLF,"Maca Ltd, West Perth WA Ordinary Shares (Austrailia)",U
 MACQF,Themac Resources Group Limited Ordinary Shares (Canada),U
+MACQU,MCAP Acquisition Corporation Unit,NASDAQ
 MACU,Mallard Acquisition Corp. Common stock,NASDAQ
 MACUU,Mallard Acquisition Corp. Unit,NASDAQ
 MACUW,Mallard Acquisition Corp. Warrant,NASDAQ
@@ -4399,7 +4403,6 @@ MDPCF,Madison Pac Ppts- B Ordinary Shares,U
 MDPEB,Meredith Corporation Common Stock Class B,U
 MDRA,Medra Corporation Common Stock,U
 MDRM,"Modern Mobility Aids, Inc Common Stock",U
-MDRPD,Midas Gold Corporation Common Shares,U
 MDRR,"Medalist Diversified REIT, Inc. Common Stock",NASDAQ
 MDRRP,"Medalist Diversified REIT, Inc. Series A Cumulative Redeemable Preferred Stock",NASDAQ
 MDRSF,MEDARTIS HOLDING AG Namen AKT (Switzerland),U
@@ -4586,7 +4589,7 @@ MGRC,McGrath RentCorp Common Stock,NASDAQ
 MGRLF,Magmatic Res Ltd Ordinary Shares (Australia),U
 MGROF,MustGrow Biologics Corporation Common Shares (Canada),U
 MGRTF,"MCGRATH HLDG CO LTD,  Ordinary Fully Paid (Austrailia)",U
-MGRUF,Moreguard Real Estate Invt Trust Trust Unit,U
+MGRUF,Morguard Real Estate Invt Trust Trust Unit,U
 MGTA,"Magenta Therapeutics, Inc. Common Stock",NASDAQ
 MGTC,Megatech Corporation Common Stock,U
 MGTI,MGT CAP INVTS INC Common Stock,U
@@ -5106,7 +5109,6 @@ MRBLF,MARBLE FINL INC Common Shares,U
 MRC,MRC GLOBAL INC.,NYSE
 MRCBF,Morguard Corporation Ordinary Shares (Canada),U
 MRCC,Monroe Capital Corporation Common Stock,NASDAQ
-MRCCL,Monroe Capital Corporation 5.75% Notes due 2023,NASDAQ
 MRCHF,Miraca Holdings Inc Ordinary shares (Japan),U
 MRCIF,Mercari Inc Ordinary Shares,U
 MRCQF,MERCER PARK BRAND ACQUISITION CORP Cl A Restricted Vtg (Canada),U
@@ -5321,3 +5323,4 @@ MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U
 MTLRF,Metalore Resources Ltd Ordinary Shares,U
 MTLS,Materialise NV American Depositary Shares,NASDAQ
 MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
+MTMW,"Matmown, Inc. Common",U

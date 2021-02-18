@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
 SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
@@ -2389,7 +2388,6 @@ TMXXF,TMX Group Ltd Common Shares (Canada),U
 TNA,Direxion Daily Small Cap Bull 3x Shares,ARCA
 TNABF,Tenaga Nasional Berhad Ordinary Shares,U
 TNABY,Tenaga Nasional Berhad American Depositary Shares,U
-TNAV,"Telenav, Inc. Common Stock",NASDAQ
 TNBI,Tanke Biosciences Corporation. Common Stock,U
 TNC,TENNANT COMPANY,NYSE
 TNCAF,TC Energy Corp Preferred Stock,U
@@ -2574,6 +2572,7 @@ TPX,"TEMPUR SEALY INTERNATIONAL, INC.",NYSE
 TPXXF,Topix Exchange Traded Fund Tokyo ETF (Japan),U
 TPYP,Tortoise North American Pipeline ETF,ARCA
 TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc.",NYSE
+TPZEF,TOPAZ ENERGY CORP COM (Canada),U
 TQLB,"Torque Lifestyle Brands, Inc. Common Stock",U
 TQMPF,TQM CORP PUBLIC CO LTD Depositary Shares  NVDR SHARES Thailand(TH ),U
 TQQQ,ProShares UltraPro QQQ,NASDAQ
@@ -2745,7 +2744,7 @@ TSCDF,Tesco Plc  Ord Ordinary Shares,U
 TSCFY,Tisco Financial Group Public Co Ltd Unsponsored ADR (Thailand),U
 TSCHY,Trustco Group Holdings Ltd. Sponsored American Depository Receipt (Namibia),U
 TSCO,Tractor Supply Company Common Stock,NASDAQ
-TSCRF,Score Media & Gaming Inc Other,U
+TSCRD,Score Media & Gaming Inc Other,U
 TSDOF,Tessenderlo Group NV Ordinary Shares,U
 TSDRF,"Tsodilo Resources, Ltd. Ordinary Shares (Canada)",U
 TSE,Trinseo S.A.,NYSE
@@ -2964,6 +2963,7 @@ TWND,Tailwind Acquisition Corp.,NYSE
 TWND U,"Tailwind Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half",NYSE
 TWND WS,"Tailwind Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Clas",NYSE
 TWNE,"Towne Bancorp, Inc. (AZ) Common Stock",U
+TWNI U,"Tailwind International Acquisition Corp. Units, each consisting of one Class A ordinary share and on",NYSE
 TWNK,"Hostess Brands, Inc. Class A Common Stock",NASDAQ
 TWNKW,"Hostess Brands, Inc. Warrants",NASDAQ
 TWO,Two Harbors Investment Corp.,NYSE
@@ -3117,6 +3117,7 @@ UCIX,"Umbra Companies, Inc. Common Stock",U
 UCL,uCloudlink Group Inc. American Depositary Shares,NASDAQ
 UCLE,US NUCLEAR CORP  Common Stock,U
 UCLQF,Ultratech Cement Ltd  Sponsored Reg S GDR (India),U
+UCMDF,USCOM LTD SHS (Australia),U
 UCO,ProShares Ultra Bloomberg Crude Oil,ARCA
 UCON,First Trust TCW Unconstrained Plus Bond ETF,ARCA
 UCPA,United Communications Partners Inc.  Common Stock,U
@@ -4017,6 +4018,7 @@ VRME,"VerifyMe, Inc. Common Stock",NASDAQ
 VRMEW,"VerifyMe, Inc. Warrant",NASDAQ
 VRNA,Verona Pharma plc American Depositary Share,NASDAQ
 VRNDF,Delta 9 Cannabis Inc Ordinary Shares,U
+VRNOF,VERANO HLDGS CORP COM SUB VTG SHS (Canada),U
 VRNS,"Varonis Systems, Inc. Common Stock",NASDAQ
 VRNT,Verint Systems Inc. Common Stock,NASDAQ
 VRP,Invesco Variable Rate Preferred ETF,ARCA
@@ -4378,6 +4380,7 @@ WFWRF,WI FI Wireless Ltd Common Stock,U
 WGEE,WGE Holdings Corp. Common Stock,U
 WGEI,WindGen Energy Inc. Common Stock,U
 WGIH,"WGI Holdings, Inc. Common Stock",U
+WGLD,Wilshire wShares Enhanced Gold Trust,ARCA
 WGMCF,Winston Gold Corp Ordinary Shares,U
 WGNAP,WGNB Corp. 9% Series A Convertible Preferred Stock,U
 WGNHF,WAGNERS HLDG CO LTD Ordinary Shares,U

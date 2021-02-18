@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTMW,"Matmown, Inc. Common",U
 MTN,"Vail Resorts, Inc.",NYSE
 MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
 MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
@@ -186,7 +185,6 @@ MYRBY,MEYER BURGER TECHNOLOGY AG  American Depositary Receipts - Unsponsored (Sw
 MYRG,"MYR Group, Inc. Common Stock",NASDAQ
 MYRLF,Meryllion Resources Corp. Ordinary Shares,U
 MYRPF,Mysale Group Plc Ordinary Shares (Jersey),U
-MYRSY,Myer Holdings Ltd Sponsored ADR (Austrailia),U
 MYRX,"Myrexis, Inc. Common Stock",U
 MYRY,"Myriad Interactive Media, Inc. Common Stock",U
 MYSL,"My Screen Mobile, Inc. Common Stock",U
@@ -1421,7 +1419,6 @@ ODYC,Odyne Corporation Common Stock,U
 ODYY,Odyssey Group Intl Inc Common Stock,U
 ODZA,Odenza Corporation Common Stock,U
 OEC,ORION ENGINEERED CARBONS S.A.,NYSE
-OECCF,Oracle Energy Corp Ordinary Shares No Par (Canada),U
 OEDVQ,"Osage Exploration and Development, Inc. Common Stock (DE)",U
 OEF,iShares S&P 100 ETF,ARCA
 OEG,"Orbital Energy Group, Inc. Common Stock",NASDAQ
@@ -2845,6 +2842,7 @@ PPSI,"Pioneer Power Solutions, Inc. Common Stock",NASDAQ
 PPSSF,Praemium Ltd. Ordinary Shares (Australia),U
 PPSTF,PEPSI-COLA PRODUCTS PHILIPPINES INC Ordinary Shares (Phillippines),U
 PPT,Putnam Premier Income Trust,NYSE
+PPTA,Perpetua Resources Corp. Common Shares,NASDAQ
 PPTDF,"Peptidream, Inc. Ordinary Shares (Japan)",U
 PPTL,Premium Energy Corporation Common Stock,U
 PPTY,PPTY-US Diversified Real Estate ETF,ARCA
@@ -3457,6 +3455,7 @@ QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,NASDAQ
 QCLSF,Global PVQ SE Ordinary Shares (Germany Federal Republic),U
 QCLSY,"Global PVQ SE, Thalheim Unsponsored ADR (Germany)",U
 QCOM,QUALCOMM Incorporated Common Stock,NASDAQ
+QCON,American Century Quality Convertible Securities ETF,BATS
 QCPC,Quantex Capital Corporation Common Stock,U
 QCRH,"QCR Holdings, Inc. Common Stock",NASDAQ
 QCXGF,QCX Gold Corp.  American Depositary Receipts - Sponsored,U
@@ -3540,6 +3539,7 @@ QNTQY,Qinetiq Group plc London Unsponsored ADR (UK),U
 QNXC,"Qenex Communications, Inc. Common Stock",U
 QOIL,Quest Oil Corporation Common Stock,U
 QOWI,Quality One Wireless Inc,U
+QPFF,American Century Quality Preferred ETF,BATS
 QPRC,Quest Patent Research Corporation Common Stock,U
 QPSF,QPS Die Cutters Common,U
 QPT,AdvisorShares Q Portfolio Blended Allocation ETF,ARCA
@@ -4144,6 +4144,7 @@ RLTR,Reeltime Rentals Inc Common Stock,U
 RLX,"RLX Technology Inc. American Depositary Shares, each representing the right to receive one (1) Class",NYSE
 RLXXF,RELX PLC Ordinary Shares (United Kingdom),U
 RLY,SPDR SSgA Multi-Asset Real Return ETF of SSgA Active Trust,ARCA
+RLYGF,RILEY GOLD CORP COM (Canada),U
 RLYNF,Rallye SA Neuilly-Sur-Seine Ordinary Shares (France),U
 RM,REGIONAL MANAGEMENT CORP,NYSE
 RMANF,Roadman Investments Corporation Common Shares (Canada),U
@@ -5043,6 +5044,7 @@ SENEL,Seneca Foods Corp. Convertible Preferred Stock Series 2003,U
 SENEM,Seneca Foods Corporation $12.00 Preferred Stock,U
 SENFF,Sensera Ltd Ordinary Shares (Australia),U
 SENIF,Sensirion AG ZUERICH Namen AKT (Switzerland),U
+SENOF,SENSORION SA ACT. (France),U
 SENR,Strategic Environmental & Energy Resources Inc Common Stock,U
 SENS,"Senseonics Holdings, Inc.",AMEX
 SENT,AdvisorShares Alpha DNA Equity Sentiment ETF,ARCA
@@ -5321,3 +5323,4 @@ SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
+SHNL,"Shentang International, Inc. Common Stock",U
