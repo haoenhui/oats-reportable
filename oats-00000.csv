@@ -3148,7 +3148,7 @@ BNSO,"Bonso Electronics International, Inc. Common Stock",NASDAQ
 BNSPF,BANK N S HALIFAX NON-CUM 5YR RATE RESET PFD SHS SER 40 (Canada),U
 BNTC,Benitec Biopharma Inc. Common Stock,NASDAQ
 BNTGF,"Brenntag AG, Muehleim/Ruhr Namen - AKT (Germany Federal Republic)",U
-BNTGY,"Brenntag AG, Muehleim/Ruhr Unsponsored American Depository Receipt (Germany)",U
+BNTGY,Brenntag SE American Depositary Receipts - Unsponsored,U
 BNTRF,Benton Resources Inc. Com (Canada),U
 BNTT,Bnet Media Group Inc Common Stock,U
 BNTX,BioNTech SE American Depositary Share,NASDAQ
@@ -3363,6 +3363,7 @@ BRPAR,Big Rock Partners Acquisition Corp. Right,NASDAQ
 BRPAU,Big Rock Partners Acquisition Corp. Unit,NASDAQ
 BRPAW,Big Rock Partners Acquisition Corp. Warrant,NASDAQ
 BRPHF,Galaxy Digital Holdings Ltd Common Shares,U
+BRPMU,B. Riley Principal 150 Merger Corp. Unit,NASDAQ
 BRPYF,BROOKFIELD OFFICE PPTYS INC Preference Shares,U
 BRQS,"Borqs Technologies, Inc. Ordinary Shares",NASDAQ
 BRQSW,Borqs Tech Inc Wts Warrant   08/18/2022,U
@@ -4362,6 +4363,7 @@ CFST,Communities First Financial Corporation Common Stock,U
 CFSU,"Complete Financial Solutions, Inc. Common Stock",U
 CFTLF,Chinasoft International Ltd Ordinary Shares (Cayman Islands),U
 CFTN,Clifton Mining Co Common Stock,U
+CFVIU,CF Acquisition Corp. VI Unit,NASDAQ
 CFWFF,Calfrac Well Services Ltd Common Shares,U
 CFX,Colfax Corporation,NYSE
 CFXA,Colfax Corporation 5.75% Tangible Equity Units,NYSE
@@ -5280,7 +5282,9 @@ CONXF,Conic Metal Corp Common Shares (Canada),U
 CONXU,CONX Corp. Unit,NASDAQ
 CONXW,CONX Corp. Warrant,NASDAQ
 COO,"The Cooper Companies, Inc.",NYSE
+COOL,Corner Growth Acquisition Corp. Class A Ordinary Shares,NASDAQ
 COOLU,Corner Growth Acquisition Corp. Unit,NASDAQ
+COOLW,Corner Growth Acquisition Corp. Warrant,NASDAQ
 COOP,Mr. Cooper Group Inc. Common Stock,NASDAQ
 COOSF,Carbios SA ACT (France),U
 COP,ConocoPhillips,NYSE
@@ -5322,6 +5326,3 @@ COWN,Cowen Inc. Class A Common Stock,NASDAQ
 COWNL,Cowen Inc. 7.75% Senior Notes due 2033,NASDAQ
 COWNZ,Cowen Inc. 7.35% Senior Notes Due 2027,NASDAQ
 COWP,Canal Capital Corporation Common Stock,U
-COWPP,Canal Capital Corporation $1.30 Exchangeable Preferred Stock,U
-COWTF,Barclays Bk PLC iPath Bloomberg Livestock Subindex Total Return ETN due 10/22/2037 (United Kingdom),U
-COWZ,Pacer US Cash Cows 100 ETF,BATS

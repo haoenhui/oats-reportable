@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+COWPP,Canal Capital Corporation $1.30 Exchangeable Preferred Stock,U
+COWTF,Barclays Bk PLC iPath Bloomberg Livestock Subindex Total Return ETN due 10/22/2037 (United Kingdom),U
+COWZ,Pacer US Cash Cows 100 ETF,BATS
 COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
@@ -215,6 +218,7 @@ CROTF,CIRRALTO LTD Ordinary Fully Paid (Australia),U
 CROX,"Crocs, Inc. Common Stock",NASDAQ
 CRPE,Columbian Rope Co  (Del) Common Stock,U
 CRPFY,Corporacion Financiera Colombiana SA Sponsored ADR representing Class B Non Voting Shs (Colombia),U
+CRPHY,CERES PWR HLDGS PLC American Depositary Receipts - Unsponsored,U
 CRPJF,China Resources Power Holdings Co Ltd Ordinary Shares (Hong Kong),U
 CRPJY,China Resources Power Holdings Co Ltd Unsponsored ADR (Hong Kong),U
 CRPLF,CAPITAL & REGIONAL PLC Ordinary Shares,U
@@ -264,7 +268,6 @@ CRVYF,Canadian Oil Recovery & Remediation Enterprises Ltd Common shares (Canada)
 CRWCY,Cranswick PLC American Depositary Share (Unsponsored) (United Kingdom),U
 CRWD,"CrowdStrike Holdings, Inc. Class A Common Stock",NASDAQ
 CRWE,Crown Equity Holdings Inc. Common Stock,U
-CRWFF,Cinram International Income Fund Ordinary Shares (Canada),U
 CRWG,"CrowdGather, Inc. Common Stock",U
 CRWKF,CRANSWICK PLC Ordinary Shares United Kingdom(GB ),U
 CRWOF,China Railway Group Ltd Shs H (China),U
@@ -1573,7 +1576,9 @@ DUKB,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,NYSE
 DUKH,"Duke Energy Corporation 5.125% Junior Subordinated Debentures due January 15, 2073",NYSE
 DUKMF,DUKETON MNG LTD Ordinary Shares,U
 DUNBF,Daikokutenbussan Co Ltd Kurashiki Ordinary Shares (Japan),U
+DUNE,Dune Acquisition Corporation Class A Common Stock,NASDAQ
 DUNEU,Dune Acquisition Corporation Unit,NASDAQ
+DUNEW,Dune Acquisition Corporation Warrant,NASDAQ
 DUNIY,Duni Ab Unsponsored ADR (Sweden),U
 DUO,Fangdd Network Group Ltd. American Depositary Shares,NASDAQ
 DUOT,"Duos Technologies Group, Inc. Common Stock",NASDAQ
@@ -2116,6 +2121,7 @@ ELMUF,Elisa Corporation Ordinary Shares A (Finland),U
 ELMUY,Elisa OYJ Unsponsored ADR representing A shares (Finland),U
 ELNOF,El Nino Ventures Inc. New Ordinary Shares (Canada),U
 ELNX,Elinx Corp. Common Stock,U
+ELOAF,EMERGENCE GLOBAL ENTERPRISES INC Ordinary Shares,U
 ELOKY,Enel Russia PJSC Global Depositary Receipts - Sponsored,U
 ELORY,Elior Unsponsored American Depository Receipt (France),U
 ELOX,"Eloxx Pharmaceuticals, Inc. Common Stock",NASDAQ
@@ -5119,7 +5125,6 @@ GRXXF,Graphite Energy Corp Common Shares,U
 GRYCF,GRAYCLIFF EXPL LTD Common Stock (Canada),U
 GRYEF,"AU MIN AFRICA PTY, LTD. (South Africa)Common Stock",U
 GRYG,"Green Energy Group, Inc. Common Stock",U
-GRYIF,Gerry Webber International AG Ordinary Shares (Germany),U
 GRYN,Green Hygienics Holdings Inc. Common Stock,U
 GRYRF,GEO ENERGY RES LTD Ordinary Shares (Singapore),U
 GRYW,Grayling Wireless USA Inc Common Stock,U
@@ -5197,7 +5202,7 @@ GSTN,"GreyStone Digital Technology, Inc. Common Stock",U
 GSTX,Graphene & Solar Technologies Ltd. Common Stock,U
 GSUM,Gridsum Holding Inc. American Depositary Shares,NASDAQ
 GSUS,Goldman Sachs MarketBeta U.S. Equity ETF,BATS
-GSUXF,Golden Sun Mining Corp. Ordinary Shares (Canada),U
+GSUXF,Golden Sun Mining Corp. Common Shares,U
 GSV,Gold Standard Ventures Corp.,AMEX
 GSVI,"GSV, Inc. Common Stock",U
 GSX,GSX Techedu Inc.,NYSE
@@ -5321,7 +5326,3 @@ GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
-GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ

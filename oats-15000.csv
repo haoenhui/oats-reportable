@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
+MTMW,"Matmown, Inc. Common",U
 MTN,"Vail Resorts, Inc.",NYSE
 MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
 MTNOF,"MTN Group, Ltd. Ordinary Shares (South Africa)",U
@@ -1149,6 +1151,7 @@ NVGS,NAVIGATOR HOLDINGS LTD.,NYSE
 NVGT,Novagant Corp. Common Stock,U
 NVIV,InVivo Therapeutics Holdings Corp Common Stock,NASDAQ
 NVLPF,NOVA LEAP HEALTH CORP Common Stock (Canada),U
+NVMDF,NOVAMIND INC Common Shares,U
 NVMI,Nova Measuring Instruments Ltd. Ordinary Shares,NASDAQ
 NVMLF,Navarre Minerals Ltd. Ordinary Shares (Australia),U
 NVMZ,TrueShares Structured Outcome (November) ETF,BATS
@@ -2822,7 +2825,6 @@ PPLFF,PT Perusahaan Perkebunan London Sumatera Tbk Ordinary Shares (Indonesia),U
 PPLFY,PT Perusahaan Perkebunan London Sumatera Tbk Unsponsored ADR (Indonesia),U
 PPLL,"Peoples, Ltd. Common Stock",U
 PPLT,Aberdeen Standard Physical Platinum Shares ETF,ARCA
-PPLXF,People Corporation Common Shares (Canada),U
 PPMD,"Protide Pharmaceuticals, Inc. Common Stock",U
 PPMH,"Point to Point Methodics, Inc. Common Stock",U
 PPMT,"Profit Planners Management, Inc. Common Stock",U
@@ -4267,6 +4269,7 @@ ROCHU,Roth CH Acquisition I Co. Unit,NASDAQ
 ROCHW,Roth CH Acquisition I Co. Warrant,NASDAQ
 ROCK,"Gibraltar Industries, Inc. Common Stock",NASDAQ
 ROCLF,"Royal Olympic Cruise Lines, Inc. Ordinary Shares (Liberia)",U
+ROCRU,Roth CH Acquisition III Co. Unit,NASDAQ
 RODE,Hartford Multifactor Diversified International ETF,BATS
 RODI,iPath Return on Disability ETN,BATS
 RODM,Hartford Multifactor Developed Markets (ex-US) ETF,ARCA
@@ -5322,5 +5325,3 @@ SHMSY,Shimao Services Holdings Ltd. American Depositary Receipts - Unsponsored (
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
-SHMZF,Shimadzu Corp Ordinary Shares,U
-SHNL,"Shentang International, Inc. Common Stock",U
