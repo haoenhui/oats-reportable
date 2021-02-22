@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
@@ -243,7 +242,6 @@ HDMV,First Trust Horizon Managed Volatility Developed International ETF,ARCA
 HDRPF,THC Global Group Ltd Ordinary Shares,U
 HDRSF,"Highland Copper Co., Inc Ordinary Shares (Canada)",U
 HDSLF,HEALTHSPACE DATA SYSTEM LTD Ordinary Shares,U
-HDSMF,Henderson Smaller Companies Investment Trust PLC Ordinary Shares (United Kingdom),U
 HDSN,"Hudson Technologies, Inc. Common Stock",NASDAQ
 HDST,Headstrong Group Inc Common Stock,U
 HDUGF,Hunter Douglas NV Unclassified,U
@@ -2686,6 +2684,7 @@ JTEKF,JTEKT Corporation Ordinary Shares (Japan),U
 JTEKY,JTEKT Corporation Unsponsored ADR (Japan),U
 JTNB,"JTNB Bancorp, Inc. Common Stock",U
 JTTRY,Japan Arpt Term Co Ltd American Depositary Receipts - Unsponsored (Japan),U
+JTTTY,JET2 PLC American Depositary Receipts - Unsponsored,U
 JUBPF,Jubilee Metals Group PLC Ordinary Shares,U
 JUGRF,Juggernaut Expl Ltd Ordinary Shares,U
 JUHDY,JANUS HENDERSON GROUP PLC Chess Depositary Interests (Jersey),U
@@ -3394,7 +3393,7 @@ LBAY,Leatherback Long/Short Alternative Yield ETF,ARCA
 LBBRF,Liberbank SA Acciones Por Reagrupamiento Ordinary Shares (Spain),U
 LBC,Luther Burbank Corporation Common Stock,NASDAQ
 LBCC,Long Blockchain Corp. Cmn Stk Common Stock,U
-LBCMF,Libero Copper & Gold Corp Common Shares,U
+LBCMD,Libero Copper & Gold Corp Common Shares,U
 LBERY,Liberty Holdings Ltd. Unsponsored ADR,U
 LBGF,Level Best Golf Inc Common Stock,U
 LBGUF,Lundbergfoeretagen AB Shs B Ordinary Shares (Sweden),U
@@ -3539,7 +3538,6 @@ LFBCF,Life Banc & Split Corp Common Cl A (Canada),U
 LFC,China Life Insurance Company Ltd.,NYSE
 LFCAF,Lifco AB Shs B (Sweden),U
 LFCOF,Lift & Co Corporation Common Shares,U
-LFCYF,Veloxis Pharmaceuticals A S Ordinary Shares (Denmark),U
 LFDEF,UrtheCast Corp Common Shares (Canada),U
 LFDJF,LA FRANCAISE DES JEUX ORD (France),U
 LFEQ,VanEck Vectors Long/Flat Trend ETF,ARCA
@@ -3549,6 +3547,7 @@ LFGP,"Ledyard Financial Group, Inc. Common Stock",U
 LFHLF,Lai Fung Holdings Ltd Ordinary Shares,U
 LFIN,LongFin Corp Cl A Cm Stk Common Stock,U
 LFLS,"Loans4Less.com, Inc. Common Stock",U
+LFMD,"LifeMD, Inc. Common Stock",NASDAQ
 LFPI,Lifepoint Inc Common Stock,U
 LFSYF,Lifestyle International Holdings Limited Ordinary Shares (Hong Kong),U
 LFSYY,Lifestyle International Holdings Limited Unsponsored ADR (Cayman Islands),U
@@ -4641,7 +4640,7 @@ MHTX,"Manhattan Scientifics, Inc. Common Stock",U
 MHTZF,Manhattan Corporation Ordinary Shares (Austrailia),U
 MHVYF,Mitsubishi Heavy Inds Ltd Ord Ordinary Shares,U
 MHYR,Manthey Redmond Corp. Common,U
-MIBP,MI BANCORP INC Common Stock,U
+MIBK,MI BANCORP INC Common Stock,U
 MIC,Macquarie Infrastructure Company LLC,NYSE
 MICCF,Millicom International Cellular S.A. Swedish Deposotory Receipt Shares (Luxembourg),U
 MICFF,Mint Income Fund Tr Unit (Canada),U
@@ -5325,3 +5324,4 @@ MTLK,"Metalink, Ltd. Ordinary Shares",U
 MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U
 MTLRF,Metalore Resources Ltd Ordinary Shares,U
 MTLS,Materialise NV American Depositary Shares,NASDAQ
+MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U

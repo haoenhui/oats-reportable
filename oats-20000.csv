@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
@@ -1066,7 +1065,6 @@ SSCFF,SmartCool Systems Inc Ordinary Shares (Canada),U
 SSCHF,SMT Scharf Ag Ordinary Shares,U
 SSCR,SMSA Crane Acquisition Corp Common Stock,U
 SSD,"Simpson Manufacturing Co., Inc.",NYSE
-SSDIF,SAMSUNG SDI CO LTD PFD SHS NON -VOTING (South Korea),U
 SSDOF,Shiseido Co Ltd Ord Ordinary Shares,U
 SSDOY,Shiseido Co Ltd Ord American Depositary Shares,U
 SSDRF,SSGA SPDR ETFS EUROPE I PLC SPDR S&P US MIDCAP 400 ETF USD (Ireland),U
@@ -1621,6 +1619,7 @@ SYX,Systemax Inc.,NYSE
 SYXXF,Synodon Inc Class A (Canada),U
 SYXZF,Synnex Technology International Global Depositary Shares Reg S,U
 SYY,Sysco Corporation,NYSE
+SYYGF,STANLEY GIBBONS GROUP PLC Ordinary Shares,U
 SYZLF,"Sylogist, Ltd Ordinary Shares (Canada)",U
 SZBI,"SouthFirst Bancshares, Inc. Common Stock",U
 SZC,The Cushing NextGen Infrastructure Income Fund,NYSE
@@ -1765,7 +1764,6 @@ TBLT,"ToughBuilt Industries, Inc. Common Stock",NASDAQ
 TBLTW,"ToughBuilt Industries, Inc. Warrant",NASDAQ
 TBLZ,"Trailblazer Resources, Inc. Common Stock",U
 TBMIF,"Aurcrest Gold, Inc. Ordinary Shares (Canada)",U
-TBNAF,TACHIBANA ELETECH CO LTD Ordinary Shares (Japan),U
 TBNGY,PT Bukit Asam Persero TBK American Depositary Receipts - Unsponsored,U
 TBNK,Territorial Bancorp Inc. Common Stock,NASDAQ
 TBPH,"Theravance Biopharma, Inc. Ordinary Shares",NASDAQ
@@ -1903,6 +1901,7 @@ TEAF,Tortoise Essential Assets Income Term Fund,NYSE
 TEAH,Worry Free Tea House Holdings Company Common Stock,U
 TEAM,Atlassian Corporation Plc Class A Ordinary Shares,NASDAQ
 TECB,iShares U.S. Tech Breakthrough Multisector ETF,ARCA
+TECFF,TECO 2030 AS Ordinary Shares,U
 TECH,Bio-Techne Corp Common Stock,NASDAQ
 TECK,Teck Resources Limited,NYSE
 TECL,Direxion Daily Technology Bull 3x Shares,ARCA
@@ -2002,6 +2001,7 @@ TGASY,Towngas China Co Ltd Unsponsored ADR (Cayman Island),U
 TGB,Taseko Mines Limited,AMEX
 TGBMF,Taiwan Cement Corp Ordinary Shares Taiwan (TW),U
 TGC,"Tengasco, Inc.",AMEX
+TGCB,TEGO CYBER INC Common Stock,U
 TGCM,"Trans-Global Capital Management, Inc. Common Stock",U
 TGDLF,TONGDAO LIEPIN GROUP Ordinary Shares,U
 TGEN,TECOGEN INC NEW Common Stock,U
@@ -2101,6 +2101,7 @@ THMMF,Thaicom Public Company Ltd SHS (Thailand),U
 THMNF,Thaicom Public Company Ltd UNits Non-Voting Depositary Receipt (Thailand),U
 THMO,"ThermoGenesis Holdings, Inc. Common Stock",NASDAQ
 THNPF,Technip Energies NV Ordinary Shares (France),U
+THNPY,TECHNIP ENERGIES NV American Depositary Receipts - Sponsored,U
 THNQ,ROBO Global Artificial Intelligence ETF,ARCA
 THNUY,Thanachart Capital Public Co Ltd Unsponsored ADR (Thailand),U
 THNVF,THANACHART CAPITAL PUBLIC CO  LTD Ordinary Shares  (Thailand),U
@@ -2725,7 +2726,7 @@ TRXO,"Columbine Valley Resources, Inc. Common Stock",U
 TRXPF,Torii Pharmaceutical Co Ordinary Shares,U
 TRYIF,Toray Inds Inc Ord Ordinary Shares,U
 TRYIY,Toray Industries Inc ADR,U
-TRYPF,Tryp Thrapeutics Inc Common Stock (Canada),U
+TRYPF,Tryp Therapeutics Inc Common Stock (Canada),U
 TRYRF,Troy Resources Ltd. Ordinary Shares (Austrailia),U
 TRYXF,Bessor Minerals Inc Common Shares,U
 TRZBF,Transat A.T. Inc Ordinary Shares (Canada),U
@@ -2741,7 +2742,7 @@ TSCAP,"TriState Capital Holdings, Inc. Dep Shs Rep 1/40th Int 6.75% Srs A Non-Cu
 TSCBP,"TriState Capital Holdings, Inc. Depositary Share, representing a 1/40th Interest in a Share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",NASDAQ
 TSCC,Technology Solutions Company Common Stock,U
 TSCDD,TESCO PLC American Depositary Receipts - Sponsored,U
-TSCDF,Tesco Plc  Ord Ordinary Shares,U
+TSCDF,TESCO PLC Ordinary Shares,U
 TSCFY,Tisco Financial Group Public Co Ltd Unsponsored ADR (Thailand),U
 TSCHY,Trustco Group Holdings Ltd. Sponsored American Depository Receipt (Namibia),U
 TSCO,Tractor Supply Company Common Stock,NASDAQ
@@ -4498,7 +4499,7 @@ WLLBW,Whiting Petroleum Corp Series B Warrant Exp 09/01/2024,U
 WLLSF,Wilh. Wilhelmsen Holding ASA Ordinary Shares (Norway),U
 WLMIF,Wilmar International Ltd Ordinary Shares (Singapore),U
 WLMIY,Wilmar International Ltd Unsponsored ADR (Singapore),U
-WLMS,Williams Industrial Services Group Inc. Common Stock,U
+WLMS,Williams Industrial Services Group Inc.,AMEX
 WLMTF,Wuling Motors Holdings Ltd. Ordinary Shares (Bermuda),U
 WLOLQ,Winland Ocean Shipping Corp. Common Stock,U
 WLRMF,Aloro Mng Corp Common Shares,U
@@ -5278,7 +5279,6 @@ ZPHYF,Zephyr Minerals Ltd Ordinary Shares (Canada),U
 ZPRVF,SSGA SPDR ETFS Europe II PLC Accum PTG Exchange Traded Fund USD (Ireland),U
 ZPTAF,"Surge Energy, Inc (Canada)",U
 ZRDZF,ZARDOYA OTIS SA MADRID Ordinary Shares,U
-ZRMG,"Shenzhen-ZhongRong Morgan Investment Holding Group Co., Ltd. Common Stock",U
 ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,ARCA
 ZRSEF,Zur Rose Group AG (Switzerland) Common Stock,U
 ZRVT,"Zurvita Holdings, Inc. Common Stock",U

@@ -232,7 +232,7 @@ ACLLF,Atco Ltd  Cl I Nv Cda Ordinary Shares,U
 ACLS,"Axcelis Technologies, Inc. Common Stock",NASDAQ
 ACLTF,Atco Ltd Cl Ii Vtg Cda Ordinary Shares,U
 ACM,Aecom,NYSE
-ACMBD,Agro Capital Management Corp Common Stock,U
+ACMB,Agro Capital Management Corp Common Stock,U
 ACMC,American Church Mortgage Co Common Stock,U
 ACMDY,Atlas Consolidated Mining & Development Corp American Depositary Share (Unsponsored) (Phillippines),U
 ACMLF,Ascom Holdings A G Bearer Shs Ordinary Shares (Switzerland),U
@@ -942,7 +942,6 @@ ALL PRG,"The Allstate Corporation Depositary Shares each representing a 1/1,000t
 ALL PRH,The Allstate Corporation,NYSE
 ALL PRI,The Allstate Corporation,NYSE
 ALLE,Allegion Public Limited Company,NYSE
-ALLGF,Alligator Bioscience AB Ordinary Shares (Sweden),U
 ALLIF,Alpha Lithium Corp Ordinary Shares,U
 ALLK,Allakos Inc. Common Stock,NASDAQ
 ALLM,"Alliance Bioenergy Plus, Inc. Common Stock",U
@@ -1213,6 +1212,7 @@ AMZA,InfraCap MLP ETF,ARCA
 AMZN,"Amazon.com, Inc. Common Stock",NASDAQ
 AN,"AutoNation, Inc.",NYSE
 ANAB,"AnaptysBio, Inc. Common Stock",NASDAQ
+ANAC U,"Arctos NorthStar Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fou",NYSE
 ANAS,"Alternaturals, Inc Common Stock",U
 ANAT,"American National Group, Inc. Common Stock",NASDAQ
 ANAV,Alpha Network Alliance Ventures Inc. Com,U
@@ -1670,7 +1670,7 @@ ASCC,Aristocrat Group Corp Common Stock,U
 ASCCF,Asics Corporation Ordinary Shares,U
 ASCCY,Asics Corporation American Depositary Receipts (Unsponsored)(Japan),U
 ASCJF,American Shipping Company ASA Ordinary Shares (Norway),U
-ASCK,AUSCRETE CORP Common Stock,U
+ASCKD,AUSCRETE CORP Common Stock,U
 ASCLF,Ascletis Pharma Inc Ordinary Shares (Cayman Islands),U
 ASCN,Absecon Bancorp Common Stock,U
 ASCOF,Ascopiave SPA Treviso Ordinary Shares (Italy),U
@@ -1943,6 +1943,7 @@ AUDC,AudioCodes Ltd. Common Stock,NASDAQ
 AUDGF,Audinate Group LTD Ordinary Shs Fully Paid (Australia),U
 AUDVF,Audi Ag Vormals Audi-Nsu Auto Ordinary Shares,U
 AUDYF,AUSNUTRIA DAIRY CORPORATION LTD SHS (Cayman Islands),U
+AUGG,Augusta Gold Corp. Common Stock,U
 AUGZ,TrueShares Structured Outcome (August) ETF,BATS
 AUHEF,Anhui Expressway Co Ltd Shares -H- (China),U
 AUIAF,"Aurania Resources, Ltd. Ordinary Shares (Bermuda)",U
@@ -2395,7 +2396,9 @@ BC PRA,Brunswick Corporation 6.500% Senior Notes due 2048,NYSE
 BC PRB,Brunswick Corporation 6.625% Senior Notes due 2049,NYSE
 BC PRC,Brunswick Corporation 6.375% Notes due 2049,NYSE
 BCAB,"BioAtla, Inc. Common Stock",NASDAQ
+BCAC,Brookline Capital Acquisition Corp. Common Stock,NASDAQ
 BCACU,Brookline Capital Acquisition Corp. Units,NASDAQ
+BCACW,Brookline Capital Acquisition Corp. Warrant,NASDAQ
 BCAL,SOUTHERN CALIF BANCORP Common Stock,U
 BCAP,"Baron Capital Enterprise, Inc. Common Stock",U
 BCAT,BlackRock Capital Allocation Trust,NYSE
@@ -2606,7 +2609,6 @@ BFEHF,"Bachem Holding, Ltd. Namen AKT B (Switzerland)",U
 BFFAF,BASF SE Ordinary Shares (Germany),U
 BFFBF,Biffa PLC Ordinary Shares (United Kingdom),U
 BFFTF,Biofrontera AG Ordinary Shares (Germany),U
-BFGCD,Augusta Gold Corp. Common Stock,U
 BFGX,"Bangfu Technology Group Co., Ltd. Common Stock",U
 BFHJ,"Beneficial Holdings, Inc. Common Stock",U
 BFI,"BurgerFi International, Inc. Common Stock",NASDAQ
@@ -3166,6 +3168,7 @@ BOAC WS,"Bluescape Opportunities Acquisition Corp. Redeemable warrants, each who
 BOALF,Boral Ltd  Ord Ordinary Shares,U
 BOALY,Boral Ltd  Ord American Depositary Shares,U
 BOARF,"Boart Longyear Ltd, Sydney NSW Ordinary Shares",U
+BOAS U,"BOA Acquisition Corp. Units, each consisting of one share of Class A common stock, and one third of",NYSE
 BOB,Merlyn.AI Best-of-Breed Core Momentum ETF,BATS
 BOCH,Bank of Commerce Holdings (CA) Common Stock,NASDAQ
 BOCOF,Bougainville Copper Ltd Ord Ordinary Shares,U
@@ -3980,7 +3983,6 @@ CBLUF,China Bluechemical Ltd Shs -H- (China),U
 CBLUY,China Bluechemical Ltd Unponsored ADR (China),U
 CBMB,"CBM Bancorp, Inc. Common Stock",NASDAQ
 CBMDF,CBM Asia Developmental Corp Common shares (Canada),U
-CBMG,"Cellular Biomedicine Group, Inc. Common Stock",NASDAQ
 CBMI,CSB Bancorp Inc Common Stock (Michigan),U
 CBMJ,CONSERVATIVE BROADCAST MEDIA & JOURNALISM INC Common Stock,U
 CBNK,"Capital Bancorp, Inc. Common Stock",NASDAQ
@@ -5323,6 +5325,3 @@ COVTY,Covestro AG ADR - Sponsored (Germany),U
 COW,iPath Series B Bloomberg Livestock Subindex Total ReturnSM ETN,ARCA
 COWI,"CoroWare, Inc. Common Stock",U
 COWN,Cowen Inc. Class A Common Stock,NASDAQ
-COWNL,Cowen Inc. 7.75% Senior Notes due 2033,NASDAQ
-COWNZ,Cowen Inc. 7.35% Senior Notes Due 2027,NASDAQ
-COWP,Canal Capital Corporation Common Stock,U

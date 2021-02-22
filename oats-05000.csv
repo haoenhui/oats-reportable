@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+COWNL,Cowen Inc. 7.75% Senior Notes due 2033,NASDAQ
+COWNZ,Cowen Inc. 7.35% Senior Notes Due 2027,NASDAQ
+COWP,Canal Capital Corporation Common Stock,U
 COWPP,Canal Capital Corporation $1.30 Exchangeable Preferred Stock,U
 COWTF,Barclays Bk PLC iPath Bloomberg Livestock Subindex Total Return ETN due 10/22/2037 (United Kingdom),U
 COWZ,Pacer US Cash Cows 100 ETF,BATS
@@ -144,7 +147,6 @@ CRD B,Crawford & Company Class B,NYSE
 CRDE,Cardinal Ethanol LLC Membership Unit,U
 CRDF,"Cardiff Oncology, Inc. Common Stock",NASDAQ
 CRDIY,"Concordia Financial Group, Ltd. American Depositary Receipts - Unsponsored (Japan)",U
-CRDNF,Cardinal Res Ltd Ordinary Shares (Australia),U
 CRDX,Credex Corporation Common,U
 CREAF,Creative Technology Ltd. Ordinary Shares,U
 CREAY,Creative Technology Ltd. Unsponsored ADR (Singapore),U
@@ -586,7 +588,6 @@ CVHSY,CABLEVISION HLDGS SA Global Depositary Receipts - Sponsored,U
 CVI,"CVR ENERGY, INC.",NYSE
 CVII U,"Churchill Capital Corp VII Units, each consisting of one share of Class A common stock, and one-fift",NYSE
 CVISF,Context Vision Ab Ordinary Shares,U
-CVLB,"Conversion Labs, Inc. Common Stock",NASDAQ
 CVLG,"Covenant Logistics Group, Inc. Class A Common Stock",NASDAQ
 CVLGF,CEVA Logistics AG Common Stock (Switzerland),U
 CVLLY,CELLAVISION AB Unsponsored ADR (Sweden),U
@@ -786,7 +787,7 @@ DAC,Danaos Corporation,NYSE
 DACHF,Daicel Chemical Inds Ltd Ordinary Shares,U
 DADA,Dada Nexus Limited American Depositary Shares,NASDAQ
 DADTF,Datadot Technology Ltd Ordinary Shares (Australia),U
-DAEIF,Daelim Industrial Co Ltd Pfd Shares Non-Voting (South Korea),U
+DAEIF,DL HLDGS CO LTD PFD SHS NON-VOTING Preference Shares,U
 DAFL,Du-Art Film Labs Inc Common Stock,U
 DAGXF,"DB Agriculture Double Long ETN due April 1, 2038",U
 DAHLF,"DAMSTRA HOLDINGS LTD, ORDINARY FULLY PAID (Australia)",U
@@ -1857,7 +1858,6 @@ EDHD,Edd Helms Group Inc Common Stock,U
 EDI,STONE HARBOR EMERGING MARKETS TOTAL INCOME FUND,NYSE
 EDIT,"Editas Medicine, Inc. Common Stock",NASDAQ
 EDIV,SPDR S&P Emerging Markets Dividend ETF,ARCA
-EDIWF,Edinburgh Worldwide Investment Trust Ordinary Shares (United Kingdom),U
 EDMCQ,Education Management Corporation Common Stock,U
 EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor),NYSE
 EDNMF,"Edenred, Malakoff Ordinary Shares (France)",U
@@ -2086,7 +2086,6 @@ ELCI,"Eastern Light Capital, Incorporated Common Stock",U
 ELCO,"Elcom International, Inc.  Common Stock",U
 ELCPF,EDP Energias de Portugal SA Ordinary Reg Shares (Portugal),U
 ELCR,"Electric Car Company, Inc. Common Stock",U
-ELCTF,Elmos Semiconductor Ag Dortmund Ordinary Shares (Germany),U
 ELD,WisdomTree Emerging Markets Local Debt Fund,ARCA
 ELDN,"Eledon Pharmaceuticals, Inc. Common Stock",NASDAQ
 ELEAF,EL.EN. SPA FIRENZE Ordinary Shares,U
@@ -4065,7 +4064,7 @@ FUPEF,Fuchs Petrolub AG Ordinary Shares,U
 FUPEY,Fuchs Petrolub SE Unsponsored ADR Representing Ordinary Shares (Germany Federal Republic),U
 FUPPF,Fuchs Petrolub AG OEL & Chemie Preference Shares Voting Rights (Germany),U
 FURCF,Faurecia SA Ordinary Shares,U
-FURGF,Furgo NV Ordinary Shares (Netherlands),U
+FURGF,Furgo Nv Ordinary Shares,U
 FURY,Fury Gold Mines Limited,AMEX
 FUSB,"First US Bancshares, Inc. Common Stock",NASDAQ
 FUSE,Fusion Acquisition Corp.,NYSE
@@ -4311,7 +4310,6 @@ GCMG,GCM Grosvenor Inc. Class A Common Stock,NASDAQ
 GCMGW,GCM Grosvenor Inc. Warrant,NASDAQ
 GCNJF,Grupo Catalana Occidente Sa Ordinary Shares (Spain),U
 GCO,Genesco Inc.,NYSE
-GCOMF,Gocompare.Com Group Plc Ordinary Shares (United Kingdom),U
 GCOR,Goldman Sachs Access U.S. Aggregate Bond ETF,ARCA
 GCOW,Pacer Global Cash Cows Dividend ETF,BATS
 GCP,GCP Applied Technologies Inc.,NYSE
@@ -5326,3 +5324,4 @@ GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
+GWB,"Great Western Bancorp, Inc.",NYSE
