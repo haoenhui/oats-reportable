@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHNL,"Shentang International, Inc. Common Stock",U
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
 SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
@@ -259,6 +257,7 @@ SKYZF,"Sky City Entertainment Group, Ltd. Ordinary Shares (New Zealand)",U
 SLAB,"Silicon Laboratories, Inc. Common Stock",NASDAQ
 SLAC U,"Social Leverage Acquisition Corp I Units, each consisting of one share of Class A common stock and o",NYSE
 SLAHF,Stella Chemifa Corp Osaka Ordinary Shares (Japan),U
+SLAMU,Slam Corp. Unit,NASDAQ
 SLB,Schlumberger Limited,NYSE
 SLBG,Slinger Bag Inc. Common Stock,U
 SLCA,"U.S. SILICA HOLDINGS, INC.",NYSE
@@ -1885,6 +1884,7 @@ TDSC,Cabana Target Drawdown 10 ETF,ARCA
 TDSD,Cabana Target Drawdown 13 ETF,ARCA
 TDSE,Cabana Target Drawdown 16 ETF,ARCA
 TDSGF,Telo Genomics Corp Ordinary Shares,U
+TDSUP,TELEPHONE & DATA SYS INC DEPOSITARY SH REPSTG 1/1000 INT SER UU PERP PFD,U
 TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund,ARCA
 TDTRF,Trident Royalties PLC Ordinary Shares (United Kingdom),U
 TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund,ARCA
@@ -3115,6 +3115,7 @@ UCBJY,UCB Unsponsored ADR (Belgium),U
 UCC,ProShares Ultra Consumer Services,ARCA
 UCCPF,Upco Intl Inc Ordinary Shares (Canada),U
 UCIB,"ETRACS UBS Bloomberg Constant Maturity Commodity Index (CMCI) Total Return ETN Series B due April 5,",ARCA
+UCIDF,Uni-Charm Indonesia TBK PT Ordinary Shares (Indonesia),U
 UCIX,"Umbra Companies, Inc. Common Stock",U
 UCL,uCloudlink Group Inc. American Depositary Shares,NASDAQ
 UCLE,US NUCLEAR CORP  Common Stock,U
@@ -3646,6 +3647,7 @@ VEGPF,Vectura Group plc Ordinary Shares,U
 VEGYF,Virginia Energy Resources Inc Common Shares (Canada),U
 VEII,"Value Exchange International, Inc. Common Stock",U
 VEL,"Velocity Financial, Inc.",NYSE
+VELOU,Velocity Acquisition Corp. Units,NASDAQ
 VELXF,Canadian Overseas Petroleum Limited New Ordinary Shares  (Canada),U
 VEMLF,Venture Corp. Ltd. Ordinary Shares (Singapore),U
 VEMLY,Venture Corp. Ltd. Unsponsored ADR (Singapore),U
@@ -4221,6 +4223,7 @@ WARFF,Wharf Holdings Ltd Ordinary Shares,U
 WARFY,Wharf Holdings Ltd Ord Unsponsored ADR (Hong Kong),U
 WARGF,Warrior Gold Inc Ordinary Shares,U
 WARM,"Cool Technologies, Inc. Common Stock",U
+WARR U,"Warrior Technologies Acquisition Company Units, each consisting of one share of Class A common stock",NYSE
 WASEF,WAH SEONG CORPORATION BHD Ordinary Shares,U
 WASH,"Washington Trust Bancorp, Inc. Common Stock",NASDAQ
 WAT,Waters Corp,NYSE
@@ -5144,7 +5147,6 @@ YZZKF,Yamazaki Baking Ltd Ordinary Shares (Japan),U
 Z,"Zillow Group, Inc. Class C Capital Stock",NASDAQ
 ZAAG,ZA Group Inc. Common Stock,U
 ZADDF,ZADAR VENTURES LTD Ordinary Shares,U
-ZAGG,ZAGG Inc Common Stock (Delaware),NASDAQ
 ZAHA,"Zahav, Inc. Common Stock",U
 ZAPNF,ZAPF CREATION AG Ordinary Shares,U
 ZARFF,Zargon Oil & Gas Ltd Ordinary Shares,U

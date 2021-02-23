@@ -520,6 +520,7 @@ NGOWL,Northern Growers LLC Capital Unit Class A,U
 NGPHF,Northern Graphite Corp. Ordinary Shares (Canada),U
 NGRC,National Graphite Corp. Common Stock,U
 NGRP,Ngen Technologies Holdings Corp. Common Stock,U
+NGRRF,Nagarro SE Ordinary Shares (Germany),U
 NGS,"Natural Gas Services Group, Inc.",NYSE
 NGTF,NIGHTFOOD HLDGS INC Common Stock,U
 NGUGF,New Guinea Gold Cp  (F) Ordinary Shares,U
@@ -1157,7 +1158,7 @@ NVNT,"Novint Technologies, Inc. Common Stock",U
 NVNXF,NOVONIX LTD Ordinary Shares Australia(AU ),U
 NVO,Novo-Nordisk A/S,NYSE
 NVOOF,Novo Resources Corp Warrant Exp 08/27/2023 (Canada),U
-NVOSD,"Novo Integrated Sciences, Inc. Common Stock",U
+NVOS,"Novo Integrated Sciences, Inc. Common Stock",NASDAQ
 NVPLF,Nevaro Capital Common Stock (Canada),U
 NVQ,Qraft AI-Enhanced US Next Value ETF,ARCA
 NVR,"NVR, Inc.",NYSE
@@ -2730,7 +2731,7 @@ PNRC,Premier Energy Corp. (FL) Common Stock,U
 PNRG,PrimeEnergy Resources Corporation Common Stock,NASDAQ
 PNRLY,PARINGA RES LTD American Depositary Receipts - Sponsored,U
 PNRXF,Porto Energy Corp. Ordinary Shares (Canada),U
-PNSAF,Pensana Rare Earths PLC Chess Depositary Interests (United Kingdom),U
+PNSAF,Pensana Plc Depositary Receipts,U
 PNTG,"The Pennant Group, Inc. Common Stock",NASDAQ
 PNTM U,"Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeem",NYSE
 PNTZF,Trigon Metals Inc. Ordinary Shares,U
@@ -3227,7 +3228,6 @@ PTOAF,Pieridae Energy Limited Common Shares,U
 PTOG,"Petrotech Oil & Gas, Inc. Common Stock",U
 PTOI,"Plastic2Oil, Inc.  Common Stock",U
 PTON,"Peloton Interactive, Inc. Class A Common Stock",NASDAQ
-PTONF,Patriot One Technologies Inc. Warrant expiring 02/22/2021(Canada),U
 PTOP,Peer to Peer Network Common Stock,U
 PTOS,"P2 Solar, Inc. Common Stock",U
 PTOTF,Patriot One Technologies Inc. Ordinary Shares (Canada),U
@@ -3957,6 +3957,7 @@ RFLFY,Raffles Education Corporation  Unsponsored ADR (Singapore),U
 RFLXF,Redflex Holdings Limited Ordinary Shares (Australia),U
 RFM,"RiverNorth Flexible Municipal Income Fund, Inc.",NYSE
 RFMK,Rapid Fire Marketing Inc NEW Common Stock,U
+RFMZ,"RiverNorth Flexible Municipal Income Fund II, Inc.",NYSE
 RFNDF,Rural Funds Group Stapled Securities (Australia),U
 RFNS,Reliant Financial Service Corporation Common Stock,U
 RFP,Resolute Forest Products Inc.,NYSE
@@ -4728,7 +4729,6 @@ SBG,Sandbridge Acquisition Corporation,NYSE
 SBG U,"Sandbridge Acquisition Corporation Units, each consisting of one share of Class A Common Stock and o",NYSE
 SBG WS,"Sandbridge Acquisition Corporation Warrants, each whole warrant exercisable for one share of Class A",NYSE
 SBGI,"Sinclair Broadcast Group, Inc. Class A Common Stock",NASDAQ
-SBGLF,Sibanye Gold Limited Ordinary Shares (South Africa),U
 SBGOF,"Standard Bank Group, Ltd. Ordinary Shares (South Africa)",U
 SBGSF,Schneider Electric Sa Ordinary Shares (France),U
 SBGSY,Schneider Electric SE Unsponsored ADR (France),U
@@ -5325,3 +5325,5 @@ SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
+SHNL,"Shentang International, Inc. Common Stock",U
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
