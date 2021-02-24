@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-COWNL,Cowen Inc. 7.75% Senior Notes due 2033,NASDAQ
 COWNZ,Cowen Inc. 7.35% Senior Notes Due 2027,NASDAQ
 COWP,Canal Capital Corporation Common Stock,U
 COWPP,Canal Capital Corporation $1.30 Exchangeable Preferred Stock,U
@@ -478,6 +477,7 @@ CTRE,"CareTrust REIT, Inc. Common Stock",NASDAQ
 CTRGF,Country Garden Svcs Hldgs Co Ltd Ordinary Shares  (Cayman Islands),U
 CTRM,Castor Maritime Inc. Common Shares,NASDAQ
 CTRN,"Citi Trends, Inc. Common Stock",NASDAQ
+CTRNF,CHAR TECHNOLOGIES LTD Common Shares,U
 CTRRF,CT Real Estate Invt Tr Unit (Canada),U
 CTRTF,"Centrotec Sustainable AG, Brilon Ordinary Shares (Germany Federal Republic)",U
 CTRVP,"Hepion Pharm, Inc. Preferred Stock",U
@@ -1248,6 +1248,7 @@ DMAY,FT Cboe Vest U.S. Equity Deep Buffer ETF - May,BATS
 DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc.",NYSE
 DMCD,"Detwiler Fenton Group, Inc. Common Stock",U
 DMCHY,DMCI Holdings Inc. Unsponsored ADR (Phillippines),U
+DMCIF,DMCI HOLDINGS INC Ordinary Shares,U
 DMDD,Diamond Discoveries International Corporation Common Stock,U
 DMDV,AAM S& P Developed Markets High Dividend Value ETF,ARCA
 DMEC,Domestic Energy Corp. Common Stock,U
@@ -1795,6 +1796,7 @@ ECHO,"Echo Global Logistics, Inc. Common Stock",NASDAQ
 ECIA,Encision Inc. Common Stock,U
 ECIFF,Electricite de France Edf Ordinary Shares (France),U
 ECIFY,Electricite de France SA Unsponsored ADR (France),U
+ECIVF,ESG CORE INVESTMENTS B V MARKET WARRANTS  12/31/2099,U
 ECKTF,Elektron PLC Common Shares   United Kingdom (GB),U
 ECL,"Ecolab, Inc.",NYSE
 ECLMF,Ecolomondo Corp. Ordinary Shares (Canada),U
@@ -2963,6 +2965,7 @@ FATBW,FAT Brands Inc. Warrant,NASDAQ
 FATE,"Fate Therapeutics, Inc. Common Stock",NASDAQ
 FATLF,FATTAL HLDGS 1998 LTD Common Shares Israel(IL ),U
 FAUG,FT Cboe Vest U.S. Equity Buffer ETF - August,BATS
+FAURY,FAURECIA SE American Depositary Receipts - Unsponsored,U
 FAVO,"Favo Realty, Inc. Common Stock",U
 FAX,"Aberdeen Asia-Pacific Income Fund, Inc.",AMEX
 FAXRF,Fairfax Financial Holdings Ltd Cumulative Pfd Shs Ser G (Canada),U
@@ -3847,6 +3850,7 @@ FRRPF,Fiera Cap Corp Ordinary Shares (Canada),U
 FRRSF,Far Res Ltd Ordinary Shares (Canada),U
 FRRVF,Ferrovial SA Ordinary Shares (Spain),U
 FRRVY,Ferrovial SA Unsponsored ADR (Spain),U
+FRSAF,FIRST AU LTD Ordinary Shares,U
 FRSB,First Resource Bank (PA) Common Stock,U
 FRSHY,China Jinmao Holdings Group Ltd. American Depositary Receipts - Unsponsored,U
 FRSI,FIRST RATE STAFFING CORP Common Stock,U
@@ -3908,6 +3912,7 @@ FSMEN,"Fresenius Medical Care Holdings, Inc. Series B 8% Preferred Stock",U
 FSMEO,"Fresenius Medical Care Holdings, Inc. Series A 8% Preferred Stock",U
 FSMK,1st Summit Bancorp Johnstown Inc Common Stock,U
 FSMO,Fidelity Small-Mid Cap Opportunities ETF,BATS
+FSNB U,"Fusion Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-thir",NYSE
 FSNJ,First State Bank (NJ) Common Stock,U
 FSNR,"Freestone Resources, Inc. Common Stock",U
 FSNUF,FRESENIUS SE & CO KGAA  Ordinary Shares,U
@@ -4625,6 +4630,7 @@ GLBB,Global Quest Ltd Common Stock,U
 GLBD,Global Seed Corp Common Stock,U
 GLBH,"Global Tech Holdings, Inc. Common Stock",U
 GLBKF,Goldbank Mining Corporation Ordinary Shares (Canada),U
+GLBLU,Cartesian Growth Corporation Unit,NASDAQ
 GLBR,Global Brokerage Inc. Class A Common Stock,U
 GLBRF,Global Brands Group Holding Ltd. Ordinary Shares,U
 GLBS,Globus Maritime Limited Common Stock,NASDAQ
@@ -5010,7 +5016,7 @@ GRCLF,Graincorp Limited Shs A Npv Ordinary Shares,U
 GRCO,Greenbelt Resources Corporation Common Stock,U
 GRCTF,GRACE TECHNOLOGY INC Ordinary Shares,U
 GRCU,Green Cures & Botanical Distribution Inc. Common Stock,U
-GRCV,Grand Capital Ventures Inc Common Stock,U
+GRCVD,"Yuka Group, Inc. Common Stock",U
 GRCY,Greencity Acquisition Corporation Ordinary Shares,NASDAQ
 GRCYU,Greencity Acquisition Corporation Unit,NASDAQ
 GRCYW,Greencity Acquisition Corporation Warrants,NASDAQ
@@ -5327,4 +5333,3 @@ GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
-GWB,"Great Western Bancorp, Inc.",NYSE

@@ -172,6 +172,7 @@ ACBM,"Acro Biomedical Co., Ltd. Common Stock",U
 ACC,"American Campus Communities, Inc.",NYSE
 ACCA,"Acacia Diversified Holdings, Inc. Common Stock",U
 ACCD,"Accolade, Inc. Common Stock",NASDAQ
+ACCEF,ACCRETE INC Common Stock,U
 ACCFF,Accord Financial Corp Ordinary Shares (Canada),U
 ACCLL,AL-Corn Clean Fuel LLC Unit Limited Partnership Class A,U
 ACCMF,AAC CLYDE SPACE Common Stock,U
@@ -2467,7 +2468,8 @@ BCSF,"Bain Capital Specialty Finance, Inc.",NYSE
 BCSO,Bancorp Southern Indiana Common Stock,U
 BCTF,BANCORP 34 INC Common Stock,U
 BCTG,BCTG Acquisition Corp. Common Stock,NASDAQ
-BCTXF,Briacell Therapeutics Corp. Common Shares,U
+BCTX,BriaCell Therapeutics Corp. Common Shares,NASDAQ
+BCTXW,BriaCell Therapeutics Corp. Warrant,NASDAQ
 BCUCF,Brunello Cucinelli S P A Ordinary Shares (Italy),U
 BCUCY,Brunello Cucinelli S P A Unsponsored ADR,U
 BCUFF,Bell Copper Corporation Ordinary Shares,U
@@ -2503,6 +2505,7 @@ BDIXF,Biolidics Limited Ordinary Shares Japan_,U
 BDJ,BlackRock Enhanced Equity Dividend Trust,NYSE
 BDL,Flanigan's Enterprises Inc,AMEX
 BDMMF,BURGUNDY DIAMOND MINES LTD Ordinary Fully Paid (Australia),U
+BDMXF,Budimex SA Ordinary Shares (Poland),U
 BDN,Brandywine Realty Trust,NYSE
 BDNHF,Brewin Dolphin Holdings plc Ordinary Shares (United Kingdom),U
 BDNNY,Boliden AB Unsponsored ADR (Sweden),U
@@ -3300,6 +3303,7 @@ BRBS,"Blue Ridge Bankshares, Inc.",AMEX
 BRBW,Brunswick Bancorp Common Stock,U
 BRBYF,"Bronco Billy o Ltd, Nagoya Ordinary shares (Japan)",U
 BRC,Brady Corporation,NYSE
+BRCKF,BROCKHAUS CAP MGMT AG Ordinary Shares,U
 BRCOQ,Beard Company (The) Common Stock,U
 BRDBF,Bredband2 I Skandinavien AB Common Stock (Sweden),U
 BRDCF,Bridgestone Corp  Ord Ordinary Shares,U
@@ -3555,7 +3559,7 @@ BTNB,Bridgetown 2 Holdings Limited Class A Ordinary Shares,NASDAQ
 BTO,John Hancock Financial Opportunities Fund,NYSE
 BTOF,Benton Financial Corp Common Stock,U
 BTOOY,B2W - Companhia Digital Sponsored GDR Reg S (Brazil),U
-BTOW,Belltower Entertainment Corp.  Common Stock,U
+BTOW,GTFN HLDGS INC Common Stock,U
 BTPNF,BANK BTPN TBK PT Ordinary Shares  Indonesia(ID ),U
 BTQNF,"BQE Water, Inc. Common Shares",U
 BTRS,BTRS Holdings Inc. Class 1 Common Stock,NASDAQ
@@ -3777,7 +3781,7 @@ CACC,Credit Acceptance Corporation Common Stock,NASDAQ
 CACG,Legg Mason ETF Investment Trust ClearBridge All Cap Growth ETF,NASDAQ
 CACH,CACHE Inc Common Stock,U
 CACI,CACI INTERNATIONAL CLA,NYSE
-CACQF,AYR WELLNESS INC Rights,U
+CACQF,Ayr Wellness Inc Rights Exp 05/24/2021 (Canada),U
 CADE,Cadence Bancorporation,NYSE
 CADGF,Bio Papel Sab de Cv Ordinary Shares (Mexico),U
 CADIF,Cadillac Ventures Inc Common Shares,U
@@ -4096,7 +4100,6 @@ CCOB,Century Cobalt Corp. Common Stock,U
 CCOEF,Capcom Co Ltd Ordinary Shares,U
 CCOEY,Capcom Co Ltd Unsponsored ADR(Japan),U
 CCOHF,China State Construction International Hldgs Ltd Ordinary Shares (Cayman Islands),U
-CCOHY,China State Construction International Hldgs Ltd Unsponsored ADR (Cayman Islands),U
 CCOI,"Cogent Communications Holdings, Inc.",NASDAQ
 CCOJF,Coca Cola Bottlers Japan Inc Common Shares,U
 CCOJY,Coca-Cola Bottlers Japan Holdings Inc American Depositary Receipts - Unsponsored,U
@@ -5264,6 +5267,7 @@ COLD,Americold Realty Trust,NYSE
 COLDF,Cardno Ltd Ordinary shares (Australia),U
 COLE,Cole Office and Industrial REIT CCIT II Inc Common Class A Shares,U
 COLFF,Colabor Group Inc Ordinary Shares(Canada),U
+COLIU,Colicity Inc. Units,NASDAQ
 COLL,"Collegium Pharmaceutical, Inc. Common Stock",NASDAQ
 COLM,Columbia Sportswear Company Common Stock,NASDAQ
 COLTF,Colt Resources Inc Ordinary Shares (Canada),U
@@ -5328,3 +5332,4 @@ COVTY,Covestro AG ADR - Sponsored (Germany),U
 COW,iPath Series B Bloomberg Livestock Subindex Total ReturnSM ETN,ARCA
 COWI,"CoroWare, Inc. Common Stock",U
 COWN,Cowen Inc. Class A Common Stock,NASDAQ
+COWNL,Cowen Inc. 7.75% Senior Notes due 2033,NASDAQ

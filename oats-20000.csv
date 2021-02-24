@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHNL,"Shentang International, Inc. Common Stock",U
+SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
 SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
@@ -90,6 +92,7 @@ SII,Sprott Inc.,NYSE
 SIII,"Strategic Internet Investments, Inc. Common Stock",U
 SIIXF,SIIX CORP OSAKA SHS (Japan),U
 SIJ,ProShares UltraShort Industrials,ARCA
+SIKTF,SUMO INDO KABEL TBK PT Ordinary Shares,U
 SIL,Global X Silver Miners ETF (NEW),ARCA
 SILC,Silicom Ltd Ordinary Shares,NASDAQ
 SILDF,Sintokogio Ltd Ordinary Shares,U
@@ -420,6 +423,7 @@ SMIZF,Melia Hotels International SA Ordinary Shares (Spain),U
 SMKC,"Smoke Cartel, Inc. Common Stock",U
 SMKG,"Smart Card Marketing Systems, Inc. Common Stock",U
 SMKUY,Siam Makro Public Co Ltd Unsponsored ADR (Thailand),U
+SMLE,Xtrackers S&P SmallCap 600 ESG ETF,ARCA
 SMLF,iShares MSCI USA Small-Cap Multifactor ETF,ARCA
 SMLKF,Synlait Milk Ltd Ordinary Shares (New Zealand),U
 SMLP,"Summit Midstream Partners, LP",NYSE
@@ -1014,6 +1018,7 @@ SRMUF,Shear Diamonds Ltd New Ordinary Shares (Canada),U
 SRMX,"Saddle Ranch Media, Inc. Common Stock",U
 SRNA,Surna Inc. Common,U
 SRNE,"Sorrento Therapeutics, Inc.  Common Stock",NASDAQ
+SRNGU,Soaring Eagle Acquisition Corp. Unit,NASDAQ
 SRNN,"Southern Banc Company, Inc. (The) Common Stock",U
 SRNW,Stratos Renewables Corporation Common Stock,U
 SRNXF,Sourcenext Corp Ordinary Shares,U
@@ -1689,7 +1694,6 @@ TAL,TAL Education Group,NYSE
 TALC,Tal Cap Inc Unclassified,U
 TALN,"Talon International, Inc Common Stock",U
 TALO,"Talos Energy, Inc. Common Stock",NYSE
-TALO WS,"Talos Energy, Inc. Warrants to purchase common stock (expiring February 28, 2021)",AMEX
 TAMG,"Transnational Group, Inc. Common Stock",U
 TAN,Invesco Solar ETF,ARCA
 TANH,Tantech Holdings Ltd. Common Stock,NASDAQ
@@ -1784,6 +1788,7 @@ TCBI,"Texas Capital Bancshares, Inc. Common Stock",NASDAQ
 TCBIL,"Texas Capital Bancshares, Inc. 6.50% Subordinated Notes due 2042",NASDAQ
 TCBIP,"Texas Capital Bancshares, Inc. Non Cumulative Preferred Perpetual Stock Series A",NASDAQ
 TCBK,TriCo Bancshares Common Stock,NASDAQ
+TCBLL,TEXAS CAP BANCSHARES INC DEL DEP SHS REPSTG 1/40TH INT FIXED RATE NON CUM PERP PFD (SER B) Depositary Shares,U
 TCCHF,Technogym Spa Ordinary Shares (Italy),U
 TCCO,TECHNICAL COMMUNICATIONS CORP Common Stock,U
 TCCPY,TechnoPro Hldgs Inc American Depositary Receipts - Sponsored (Japan),U
@@ -2100,6 +2105,7 @@ THMG,"Thunder Mountain Gold, Inc. Common Stock",U
 THMMF,Thaicom Public Company Ltd SHS (Thailand),U
 THMNF,Thaicom Public Company Ltd UNits Non-Voting Depositary Receipt (Thailand),U
 THMO,"ThermoGenesis Holdings, Inc. Common Stock",NASDAQ
+THNOF,Technology One Limited Ordinary Shares (Australia),U
 THNPF,Technip Energies NV Ordinary Shares (France),U
 THNPY,TECHNIP ENERGIES NV American Depositary Receipts - Sponsored,U
 THNQ,ROBO Global Artificial Intelligence ETF,ARCA

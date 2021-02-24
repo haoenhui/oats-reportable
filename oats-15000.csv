@@ -1,4 +1,9 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTLK,"Metalink, Ltd. Ordinary Shares",U
+MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U
+MTLRF,Metalore Resources Ltd Ordinary Shares,U
+MTLS,Materialise NV American Depositary Shares,NASDAQ
+MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
 MTMW,"Matmown, Inc. Common",U
 MTN,"Vail Resorts, Inc.",NYSE
 MTNB,"Matinas BioPharma Holdings, Inc.",AMEX
@@ -528,7 +533,6 @@ NGVC,"NATURAL GROCERS BY VITAMIN COTTAGE, INC",NYSE
 NGVT,Ingevity Corporation,NYSE
 NGXXF,Ngex Minerals Ltd Common Shares (Canada),U
 NH,"NantHealth, Inc. Common Stock",NASDAQ
-NHA,Nuveen Municipal 2021 Target Term Fund,NYSE
 NHAWF,North Arrow Minerals Inc New Common Stock,U
 NHBAF,Nichiban Co Ltd Ordinary Shares (Japan),U
 NHC,National Healthcare Corp.,AMEX
@@ -3103,12 +3107,14 @@ PSPSY,Psp Swiss Property Unsponsored American Depositary Receipt (Switzerland),U
 PSPW,3Power Energy Group Inc. Common Stock,U
 PSQ,ProShares Short QQQ,ARCA
 PSR,Invesco Active U.S. Real Estate Fund,ARCA
+PSRJF,PT SRI REJEKI ISMAN TBK Ordinary Shares,U
 PSRU,VALIANT EAGLE INC Common Stock,U
 PSRVD,Prospero Silver Corp Common Shares,U
 PSSGF,P S G Group Ltd Ordinary Shares,U
 PSSKF,"Pressance Corp, Osaka Common Stock (Japan)",U
 PSSR,"PASSUR Aerospace, Inc. Common Stock",U
 PSSS,"Puissant Industries, Inc. Common Stock",U
+PSSTF,PT SELAMAT SEMPURNA TBK Ordinary Shares,U
 PST,ProShares Trust UltraShort Lehman 7-10 Year Treasury,ARCA
 PSTG,"Pure Storage, Inc. Class A",NYSE
 PSTH,"Pershing Square Tontine Holdings, Ltd.",NYSE
@@ -3150,6 +3156,7 @@ PTAUY,Port Of Tauranga Ltd Unsponsored ADR (New Zealand),U
 PTAYF,Pt Asuransi Ramayana(F) Ord Ordinary Shares,U
 PTBBU,POET BIOREFINING LLC Unit,U
 PTBD,Pacer Trendpilot US Bond ETF,ARCA
+PTBFF,PT BEKASI FAJAR INDL ESTATE TBK Ordinary Shares,U
 PTBKF,PT Surya Citra Media TBK Ordinary Shares Indonesia(ID ),U
 PTBPF,"PT BANK PEMB DAER JAWA BAR BPD JABAR, SHS SERIES B (Indonesia)",U
 PTBRY,Pt Bank Negara Indonesia (Persero) Unsponsored ADR (Indonesia),U
@@ -3264,6 +3271,7 @@ PTVCB,Protective Insurance Corporation Class B Common Stock,NASDAQ
 PTVE,Pactiv Evergreen Inc. Common stock,NASDAQ
 PTVRF,Petro Victory Energy Corp. Ordinary Shares,U
 PTWJF,PT Wijaya Karya Beton Bekasi Ordinary Shares (Indonesia),U
+PTWKF,PT WISMILAK INTI MAKMUR TBK Ordinary Shares,U
 PTXAF,PT XL Axiata Tbk Ordinary Shares (Indonesia),U
 PTXKY,PT XL Axiata Tbk ADR (Indonesia),U
 PTXLF,Ptt Exploration & Prod (Local) Shares Foreign Registered (Thailand),U
@@ -5325,5 +5333,3 @@ SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
-SHNL,"Shentang International, Inc. Common Stock",U
-SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U

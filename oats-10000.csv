@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
@@ -446,6 +447,7 @@ HKHUY,"Hokuhoku Financial Group, Inc. American Depositary Receipts - Unsponsored
 HKIB,AMTD International Inc.,NYSE
 HKMPF,"Hikma Pharmaceuticals plc, London Ordinary Shares (United Kingdom)",U
 HKMPY,"Hikma Pharmaceuticals plc, London Sponsored ADR (United Kingdom)",U
+HKND,Humankind US Stock ETF,ARCA
 HKSHF,Hong Kong & Shanghai Hotels Ordinary Shares,U
 HKSHY,Hong Kong & Shanghai Hotels Unsponsored ADR (Hong Kong),U
 HKTGF,HIKARI TSUSHIN INC SHS (Japan),U
@@ -696,7 +698,7 @@ HPST,"Hempstract, Inc. Common Stock",U
 HPSYF,HORIZONS PSYCHEDELIC STK INDEX ETF Exchange Traded Fund,U
 HPTN,"Happy Town Holdings, Inc. Common Stock",U
 HPTO,hopTo Inc. New Common Stock,U
-HPTY,HEMP TECHNOLOGY INC Common Stock,U
+HPTYD,"RCMW Group, Inc. Common Stock",U
 HPX,HPX Corp.,NYSE
 HPX U,"HPX Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warran",NYSE
 HPX WS,"HPX Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an e",NYSE
@@ -1536,6 +1538,7 @@ IMCUF,Industria Macchine Automatiche SPA Ordinary Shares (Italy),U
 IMDXF,Imdex Ltd Ordinary Shares,U
 IMDZF,IMCD NV Ordinary Shares (Netherlands),U
 IMEXF,Imagin Medical Inc. Ordinary Shares,U
+IMFL,Invesco International Developed Dynamic Multifactor ETF,BATS
 IMGI,"ImaginOn, Inc. Common Stock",U
 IMGL,IMAGE INTL GROUP INC Common Stock,U
 IMGN,"ImmunoGen, Inc. Common Stock",NASDAQ
@@ -1596,7 +1599,7 @@ IMSJF,ISHARES V PLC MSCI JAPAN GBP HDG UCITS ETF ACCUM (Ireland),U
 IMSXF,iShares V PLC MSCI World Industrials USD ETF (Ireland),U
 IMTB,iShares Core 5-10 Year USD Bond ETF,ARCA
 IMTE,Integrated Media Technology Limited Ordinary Shares,NASDAQ
-IMTFF,International Montoro Resources Inc Ordinary Shares,U
+IMTFF,MARVEL DISCOVERY CORP Ordinary Shares,U
 IMTL,"Image Protect, Inc Common Stock",U
 IMTM,iShares MSCI Intl Momentum Factor ETF,ARCA
 IMTO,"InterMetro Communications, Inc. Common Stock",U
@@ -2812,6 +2815,7 @@ KBWR,Invesco Exchange-Traded Fund Trust II Invesco KBW Regional Banking ETF,NASD
 KBWY,Invesco Exchange-Traded Fund Trust II Invesco KBW Premium Yield Equity REIT ETF,NASDAQ
 KBYPF,Kobayashi Pharmaceutical Co Ltd Osaka Ordinary Shares (Japan),U
 KC,Kingsoft Cloud Holdings Limited American Depositary Shares,NASDAQ
+KCAC U,"Kensington Capital Acquisition Corp. II Units, each consisting of one share of Class A common stock,",NYSE
 KCAPL,"KCAP Financial, Inc. 6.125% Notes due 2022",NASDAQ
 KCCB,KraneShares CCBS China Corporate High Yield Bond USD Index ETF,ARCA
 KCCFF,Kutcho Copper Corp Ordinary Shares,U
@@ -2846,6 +2850,7 @@ KE,"Kimball Electronics, Inc. Common Stock",NASDAQ
 KEFI,Keweenaw Financial Corp (Mich) Common Stock,U
 KEGX,KEY ENERGY SVCS INC DEL Common Shares,U
 KEIHF,KEIHANSHIN BLDG CO LTD Ordinary Shares,U
+KEJI,Global X Funds Global X China Disruption ETF,NASDAQ
 KELRF,Keisei Electric Rail Ord Ordinary Shares (Japan),U
 KELTF,Kelt Exploration Ltd. Com (Canada),U
 KELYA,"Kelly Services, Inc. Class A Common Stock",NASDAQ
@@ -3131,6 +3136,7 @@ KPAY,KinerjaPay Corp Common Stock,U
 KPCM,King Pine Creek Mng Ltd Unclassified,U
 KPCPF,Kasikornbank Public Co Ltd Shares Foreign Registered (Thailand),U
 KPCPY,Kasikornbank Public Co Ltd Unsponsored ADR (Thailand),U
+KPCTF,KAPUAS PRIMA COAL TBK PT Ordinary Shares,U
 KPCUF,Kasikornbank Public Co Ltd Units Non-Voting Depositary Receipt (Thailand),U
 KPDCF,Keppel DC Reit Mgmt Pte Ltd Units REIT Reg S (Singapore),U
 KPELF,Keppel Corp Ltd Cl A Ordinary Shares,U
@@ -3525,6 +3531,7 @@ LENTY,Lenta Limited Sponsored GDR Reg S (British Virgin Islands),U
 LEO,"BNY Mellon Strategic Municipals, Inc.",NYSE
 LEON,"Leone Asset Management, Inc. Common Stock",U
 LEOPF,Leopalace21 Corp Ordinary Shares (Japan),U
+LEOVF,LEOVEGAS AB Ordinary Shares,U
 LEPX,Lepota Inc Common Stock,U
 LESAF,Le Saunda Hldgs Ltd Ordinary Shares,U
 LESL,"Leslie's, Inc. Common Stock",NASDAQ
@@ -3924,6 +3931,7 @@ LSF,"Laird Superfood, Inc.",AMEX
 LSFG,"Lifestore Financial Group, Inc. Common Stock",U
 LSGOF,Land Securities Group Plc Common Shares,U
 LSI,"Life Storage, Inc.",NYSE
+LSIHF,LAI SUN GARMENT INTERNATIONAL LTD Ordinary Shares,U
 LSIIF,Lisi Ordinary shares (France),U
 LSKA,"Liska Biometry, Inc. Common Stock",U
 LSLCF,Lachlan Star Ltd Ordinary Shares,U
@@ -4140,6 +4148,7 @@ MAHLY,Medipal Holdings Corp Unsponsored ADR (Japan),U
 MAHMF,Mahindra & Mahindra Ltd Reg S GDR (India),U
 MAHN,Mid-Atlantic Home Health Network Inc Common Stock,U
 MAIFF,"Minera Alamos, Inc. Ordinary Shares (Canada)",U
+MAIGF,Mainstream Group Holdings Ltd Ordinary Shares (Australia),U
 MAIN,Main Street Capital Corporation,NYSE
 MAJCQ,Majestic Capital. Ltd.,U
 MAJJ,"Michael Anthony Jewelers, Inc. New Common Stock",U
@@ -4651,6 +4660,7 @@ MICR,MICRON SOLUTIONS INC DEL Common Stock,U
 MICT,"MICT, Inc. Common Stock",NASDAQ
 MID,American Century Mid Cap Growth Impact ETF,ARCA
 MIDD,Middleby Corporation (The) Common Stock,NASDAQ
+MIDE,Xtrackers S&P MidCap 400 ESG ETF,ARCA
 MIDF,iShares MSCI USA Mid-Cap Multifactor ETF,ARCA
 MIDLF,Midland Expl Inc Common shares (Canada),U
 MIDU,Direxion Daily Mid Cap Bull 3X Shares,ARCA
@@ -5323,8 +5333,3 @@ MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U
 MTLHF,Mitsubishi Chemical Holdings Corp Ordinary Shares (Japan),U
 MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
 MTLI,Metaline Contact Mines Common Stock,U
-MTLK,"Metalink, Ltd. Ordinary Shares",U
-MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U
-MTLRF,Metalore Resources Ltd Ordinary Shares,U
-MTLS,Materialise NV American Depositary Shares,NASDAQ
-MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
