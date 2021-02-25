@@ -193,7 +193,6 @@ ACEV,ACE Convergence Acquisition Corp. Class A Ordinary Shares,NASDAQ
 ACEVU,ACE Convergence Acquisition Corp. Unit,NASDAQ
 ACEVW,ACE Convergence Acquisition Corp. Warrant,NASDAQ
 ACEYY,"Acer, Inc. (New) Sponsored Global Depository Receipt Reg S (Taiwan)",U
-ACEZD,Qiansui International Group Co. Ltd. Common Stock,U
 ACFFF,Accordia Golf Tr Unit (Singapore),U
 ACFL,"AMC Financial Holdings, Inc. Common Stock",U
 ACFN,"Acorn Energy, Inc.",U
@@ -563,6 +562,7 @@ AFXXF,AF AB,U
 AFYA,Afya Limited Class A Common Shares,NASDAQ
 AFYG,Affinity Gold Corp. Common Stocks,U
 AG,FIRST MAJESTIC SILVER CORP,NYSE
+AGAC U,"African Gold Acquisition Corporation Units, each consisting of one Class A ordinary share and three",NYSE
 AGATF,Deutsche Bank Agriculture Double Short ETN due 4/1/2038,U
 AGAUF,Arizona Gold Corp. Ordinary Shares,U
 AGBA,AGBA Acquisition Limited Ordinary Share,NASDAQ
@@ -1158,6 +1158,7 @@ AMPE,"Ampio Pharmaceuticals, Inc",AMEX
 AMPG,"Amplitech Group, Inc. Common Stock",NASDAQ
 AMPGW,"Amplitech Group, Inc. Warrants",NASDAQ
 AMPH,"Amphastar Pharmaceuticals, Inc. Common Stock",NASDAQ
+AMPI U,"Advanced Merger Partners, Inc. Units, each consisting of one share of Class A common stock and one-s",NYSE
 AMPO,Amperico Corp Com,U
 AMPY,Amplify Energy Corp.,NYSE
 AMPYW,Amplify Energy Corp. Warrant,U
@@ -1782,6 +1783,7 @@ ASXFY,ASX Ltd Unsponsored ADR (Australia),U
 ASXH,"Aspen International Holdings, Inc. Common Stock",U
 ASXSF,Elysee Development Corp. Common Shares,U
 ASYS,"Amtech Systems, Inc. Common Stock",NASDAQ
+ASZ U,"Austerlitz Acquisition Corporation II Units, each consisting of one Class A ordinary share and one-f",NYSE
 ASZP,"JV Group, Inc. Common Stock",U
 AT,Atlantic Power Corporation,NYSE
 ATA,Americas Technology Acquisition Corp.,NYSE
@@ -1966,6 +1968,7 @@ AURI,"Auri, Inc. New Common Stock",U
 AURQF,Aurelius Minerals Inc Common Shares (Canada),U
 AURT,Attune RTD Common Stock,U
 AURX,"Nuo Therapeutics, Inc Common Stock",U
+AUS U,"Austerlitz Acquisition Corporation I Units, each consisting of one Class A ordinary share and one-fo",NYSE
 AUSAF,Australis Capital Inc Common Shares (Canada),U
 AUSDF,Perenti Global Ltd.  Ordinary Shares,U
 AUSF,Global X Adaptive U.S. Factor ETF,ARCA
@@ -5147,7 +5150,7 @@ CNP,"CenterPoint Energy, Inc.",NYSE
 CNP PRB,"CenterPoint Energy, Inc. Depositary Shares Each Representing a 1/20th Interest in a Share of 7.00% S",NYSE
 CNPAF,CNP Assurances SA Ordinary Shares (France),U
 CNPAY,CNP Assurances SA Unsponsored ADR (France),U
-CNPOF,Canopy Rivers Inc Sub Voting Shares Class A (Canada),U
+CNPOF,RIV CAP INC Ordinary Shares,U
 CNPPF,CHINA OVERSEAS PPTY HLDGS LTD Ordinary Shares (Cayman Islands),U
 CNPRF,"Condor Pete, Inc. New Common Shares",U
 CNPTF,CENTRAL PETROLEUM LTD ORDINARY FULLY PAID (Australia),U
@@ -5333,3 +5336,5 @@ COW,iPath Series B Bloomberg Livestock Subindex Total ReturnSM ETN,ARCA
 COWI,"CoroWare, Inc. Common Stock",U
 COWN,Cowen Inc. Class A Common Stock,NASDAQ
 COWNL,Cowen Inc. 7.75% Senior Notes due 2033,NASDAQ
+COWNZ,Cowen Inc. 7.35% Senior Notes Due 2027,NASDAQ
+COWP,Canal Capital Corporation Common Stock,U

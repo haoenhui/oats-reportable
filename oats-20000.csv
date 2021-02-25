@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
@@ -323,7 +324,7 @@ SLPA,Sleepaid Hldg Co Com Restricted,U
 SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,NASDAQ
 SLQT,"SelectQuote, Inc.",NYSE
 SLQTF,SINOPEC ENGR GROUP CO LTD SHS -H- Ordinary Shares (China),U
-SLRC,Solar Capital Ltd. Common Stock,NASDAQ
+SLRC,SLR Investment Corp. Common Stock,NASDAQ
 SLRGF,Silergy Corp Common Shares (Cayman Island),U
 SLRK,Solera National Bancorp Inc. (CO) Common Stock,U
 SLROF,Stellar Resources Ltd Ordinary Shares (Australia),U
@@ -610,7 +611,6 @@ SNSFF,Venzee Technologies Inc. Ordinary Shares,U
 SNSGF,"Sense Technologies, Inc. Common Shares",U
 SNSKF,Sanko Sangyo Co Ltd Ordinary Shares (Japan),U
 SNSR,Global X Funds Global X Internet of Things ETF,NASDAQ
-SNSS,"Sunesis Pharmaceuticals, Inc. Common Stock",NASDAQ
 SNST,"Sunset Capital Assets, Inc. Common Stock",U
 SNTE,Sante Technology Holdings Inc. Common Stock,U
 SNTNF,Santana Minerals Ltd Ordinary Shares (Australia),U
@@ -1385,7 +1385,7 @@ SUND,Sundance Strategies Inc. Common Stock,U
 SUNFF,SUN LIFE FINL INC PFD SHS NON CUMULATIVE RESET CL A SER 8R Preferred Stock (Canada),U
 SUNPF,SUN PEAK METALS CORP Common Shares,U
 SUNR,Sun Sports and Entertainment New Common Stock,U
-SUNS,Solar Senior Capital Ltd. Common Stock,NASDAQ
+SUNS,SLR Senior Investment Corp. Common Stock,NASDAQ
 SUNTF,Suncorp Technologies Ltd Ordinary Shares,U
 SUNW,"Sunworks, Inc. Common Stock",NASDAQ
 SUNYF,SUNSHINE OILSANDS LTD Common Shares,U
@@ -1608,6 +1608,7 @@ SYNNF,Symphony International Holdings Ltd Ordinary Shares (Virgin Islands Britis
 SYPLF,SANYO SPECIAL STEEL CO LTD SHS (Japan),U
 SYPR,"Sypris Solutions, Inc. Common Stock",NASDAQ
 SYPT,"Scrypt, Inc.   Common Stock",U
+SYQH,"Liaoning Shuiyun Qinghe Rice Industry Co., Ltd. Common Stock",U
 SYRS,"Syros Pharmaceuticals, Inc. Common Stock",NASDAQ
 SYRSW,Syros Pharmaceuticals Inc Class A Warrants Expiring 10/10/2022,U
 SYRVF,SACYR S A Ordinary Shares,U
@@ -2752,7 +2753,6 @@ TSCDF,TESCO PLC Ordinary Shares,U
 TSCFY,Tisco Financial Group Public Co Ltd Unsponsored ADR (Thailand),U
 TSCHY,Trustco Group Holdings Ltd. Sponsored American Depository Receipt (Namibia),U
 TSCO,Tractor Supply Company Common Stock,NASDAQ
-TSCRD,Score Media & Gaming Inc Other,U
 TSDOF,Tessenderlo Group NV Ordinary Shares,U
 TSDRF,"Tsodilo Resources, Ltd. Ordinary Shares (Canada)",U
 TSE,Trinseo S.A.,NYSE
@@ -3791,6 +3791,7 @@ VIRC,Virco Manufacturing Corporation Common Stock,NASDAQ
 VIRI,"Virios Therapeutics, Inc. Common Stock",NASDAQ
 VIRS,Pacer BioThreat Strategy ETF,BATS
 VIRT,"Virtu Financial, Inc. Class A Common Stock",NASDAQ
+VIRX,"Viracta Therapeutics, Inc. Common Stock",NASDAQ
 VIS,Vanguard Industrials ETF,ARCA
 VISL,"Vislink Technologies, Inc. Common Stock",NASDAQ
 VISM,"Visium Technologies, Inc. Common Stock",U
@@ -4510,6 +4511,7 @@ WLMIF,Wilmar International Ltd Ordinary Shares (Singapore),U
 WLMIY,Wilmar International Ltd Unsponsored ADR (Singapore),U
 WLMS,Williams Industrial Services Group Inc.,AMEX
 WLMTF,Wuling Motors Holdings Ltd. Ordinary Shares (Bermuda),U
+WLNSF,Discover Wellness Solutions Inc. Common Stock (Canada),U
 WLOLQ,Winland Ocean Shipping Corp. Common Stock,U
 WLRMF,Aloro Mng Corp Common Shares,U
 WLSI,"Wellstar International, Inc.Common Stock",U
@@ -5044,6 +5046,7 @@ YGYIP,"Youngevity International, Inc. 9.75% Series D Cumulative Redeemable Perpe
 YHEKF,YEAHKA LTD Ordinary Shares  Cayman Islands(KY ),U
 YHHCY,"Yumeshin Holdings Co., Ltd. American Depositary Receipts - Sponsored (Japan)",U
 YI,"111, Inc. American Depositary Shares",NASDAQ
+YIDUF,Yidu Tech Inc. Ordinary Shares (Cayman Islands),U
 YIGRF,Yixin Group Ltd. Common Shares Cayman Island (KY),U
 YIHCF,YICHANG HEC CHANGJIANG PHARMACEUTICAL CO LTD HEC PHARM REGISTERED SHARES H 01558 Ordinary Shares,U
 YINN,Direxion Daily FTSE  China Bull 3X Shares,ARCA
@@ -5181,6 +5184,7 @@ ZENYF,Zen Graphene Solutions Ltd Common Shares,U
 ZEON,Zeons Corporation. Common Stock,U
 ZEOOF,Zeon Corp. Tokyo Ordinary Shares (Japan),U
 ZEOOY,ZEON CORP ADR (Japan),U
+ZEPP,Zepp Health Corporation,NYSE
 ZEST,"Ecoark Holdings, Inc. Common Stock",U
 ZEUCF,ZEU TECHNOLOGIES INC Common Shares,U
 ZEUS,"Olympic Steel, Inc. Common Stock",NASDAQ

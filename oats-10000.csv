@@ -139,9 +139,9 @@ HAYPY,Hays Plc Ord Unsponsored ADR (United Kingdom),U
 HAZAF,Hazama Ando Corp Ordinary Shares (Japan),U
 HAZH,"Haz Holdings, Inc. Common Stock",U
 HBAN,Huntington Bancshares Incorporated Common Stock,NASDAQ
-HBANL,Huntington Bancshares Inc Depositary Shares Rep 1/40th Perp Pfd Ser H,U
 HBANN,Huntington Bancshares Incorporated Depositary Shares each representing a 1/40th interest in a share of 5.875% Series C Non-Cumulative Perpetual Preferred Stock,NASDAQ
 HBANO,Huntington Bancshares Incorporated Depositary Shares,NASDAQ
+HBANP,Huntington Bancshares Incorporated Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock,NASDAQ
 HBAUF,Hornbach Baumarkt Ag Dm Ordinary Shares (Germany),U
 HBB,Hamilton Beach Brands Holding Company Class A Common Stock,NYSE
 HBCGF,BETAPRO GOLD BULLION 2X DAILY BULL ETF NEW Unit,U
@@ -546,7 +546,6 @@ HMG,HMG / Courtland Properties Inc,AMEX
 HMGN,"Hemagen Diagnostics, Inc. Common Stock",U
 HMGP,"Hemi Energy Group, Inc. Common Stock",U
 HMHC,Houghton Mifflin Harcourt Company Common Stock,NASDAQ
-HMI,Huami Corporation,NYSE
 HMLA,Homeland Resources Ltd. NEW Common Stock,U
 HMLN,"Hamlin Bank & Trust Company (Smethport, PA) Common Stock",U
 HMLP,HOEGH LNG PARTNERS LP,NYSE
@@ -1088,6 +1087,7 @@ IBDSF,Iberdrola SA Bilbao Ordinary Shares,U
 IBDT,iShares iBonds Dec 2028 Term Corporate ETF,ARCA
 IBDU,iShares iBonds Dec 2029 Term Corporate ETF,ARCA
 IBDV,iShares iBonds Dec 2030 Term Corporate ETF,ARCA
+IBER U,"Ibere Pharmaceuticals Units, each consisting of one Class A ordinary share and one-half of one Redee",NYSE
 IBEX,IBEX Limited Common Shares,NASDAQ
 IBGR,"Nexus Energy Services, Inc. Common Stock",U
 IBHA,iShares iBonds 2021 Term High Yield and Income ETF,BATS
@@ -1259,7 +1259,7 @@ IDVV,International Endeavors Corp Common Stock,U
 IDWM,"IDW Media Holdings, Inc. Common Stock",U
 IDX,VanEck Vectors Indonesia Index ETF,ARCA
 IDXAF,IDEX Biometrics ASA Ordinary Shares,U
-IDXG,"Interpace Biosciences, Inc. Common Stock",NASDAQ
+IDXG,INTERPACE BIOSCIENCES INC Common Stock,U
 IDXX,"IDEXX Laboratories, Inc. Common Stock",NASDAQ
 IDYA,"IDEAYA Biosciences, Inc. Common Stock",NASDAQ
 IDYLF,Imaging Dynamics Company Ltd Common Shares,U
@@ -2001,6 +2001,7 @@ ISJMF,ISHARES V PLC J P MORGAN EM CORP BOND UCITS ETF USD ACC (Ireland),U
 ISJPF,Ishares II PLC JP Morgan EM Bond UCITS ETF,U
 ISJSF,ISHARES JANTZI SOCIAL INDEX Unit,U
 ISKCF,"ISK CHELOVEKA OAO, MOSCOW Ordinary Shares",U
+ISLEU,Isleworth Healthcare Acquisition Corporation Unit,NASDAQ
 ISLV,"International Silver, Inc. Common Stock",U
 ISMAF,Indra Sistemas SA Madrid,U
 ISMAY,Indra Sistemas Sa Fgn Ord Unsponsored ADR (Spain),U
@@ -3419,7 +3420,7 @@ LBRG,"Ladybug Resource Group, Inc. Common Stock",U
 LBRMF,Labrador Iron Mines Holdings Ltd Ordinary Shares (Canada),U
 LBRT,Liberty Oilfield Services Inc. Class A Common Stock,NYSE
 LBSI,Liberty Bancshares Inc Ohio Common Stock,U
-LBSR,Liberty Star Uranium & Metals Corp. Common Stock,U
+LBSRD,Liberty Star Uranium & Metals Corp. Common Stock,U
 LBTD,Lotus Bio-Technology Development Corp. Common Stock,U
 LBTI,LITHIUM & BORON TECHNOLOGY INC Common Stock,U
 LBTSF,Almirall SA Ordinary shares (Spain),U
@@ -3638,7 +3639,6 @@ LHX,"L3Harris Technologies, Inc.",NYSE
 LI,Li Auto Inc. American Depositary Shares,NASDAQ
 LIACF,American Lithium Corp. Ordinary Shares,U
 LIBC,Liberty Bancorp (CA) Common Stock,U
-LIBFF,Nova Mentis Life Sciences Corp Ordinary Shares,U
 LICH,LIVECHAIN INC Common Stock,U
 LICT,LICT Corporation Common Stock,U
 LIDM,Limco Del Mar Common Stock,U
@@ -3651,6 +3651,7 @@ LIGA,"LIG Assets, Inc. Common Stock",U
 LIHC,Liberty International Holding Corporation Common Stock,U
 LIHLU,"LARCHMONT INTER HOLDCO, LLC UNIT LTD LIABILITY CO INT Unit",U
 LII,Lennox International Inc.,NYSE
+LIII U,"Leo Holdings III Corp Units, each consisting of one Class A ordinary share, and one-fifth of one red",NYSE
 LILA,Liberty Latin America Ltd. Class A Common Stock,NASDAQ
 LILAB,Liberty Latin Amer Ltd Common Stock Cl B,U
 LILAK,Liberty Latin America Ltd. Class C Common Stock,NASDAQ
@@ -4257,6 +4258,7 @@ MBSD,FlexShares Disciplined Duration MBS Index Fund,ARCA
 MBSRY,Orange Belgium American Depositary Receipts - Unsponsored,U
 MBST,Mobile Star Corp. Common Stock,U
 MBT,Mobile Telesystems PJSC,NYSE
+MBTCU,Nocturne Acquisition Corporation Unit,NASDAQ
 MBUMF,Mabuchi Motor Co Ltd Ordinary Shares (Japan),U
 MBUMY,Mabuchi Motor Co Ltd Unsponsored American Depository Receipt (Japan),U
 MBUU,"Malibu Boats, Inc. Class A Common Stock",NASDAQ
@@ -4676,6 +4678,7 @@ MIHI,"Medical Innovation Holdings, Inc. Common Stock",U
 MIHL,MONTAGUE INTERNATIONAL HOLDING LTD. Common Stock New,U
 MIILF,Minor International Public Co Limited Local Warrants Expiring 09/30/2021 (Thailand),U
 MIK,"The Michaels Companies, Inc. Common Stock",NASDAQ
+MIKAF,Mitra Keluarga Karyasehat TBK PT Ordinary Shares (Indonesia),U
 MIKP,"Mike The Pike Productions, Inc. Common Stock",U
 MILC,Millennium Investment & Acquisition Company Inc. Common Stock,U
 MILE,"Metromile, Inc. Common Stock",NASDAQ
@@ -5333,3 +5336,5 @@ MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U
 MTLHF,Mitsubishi Chemical Holdings Corp Ordinary Shares (Japan),U
 MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
 MTLI,Metaline Contact Mines Common Stock,U
+MTLK,"Metalink, Ltd. Ordinary Shares",U
+MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U

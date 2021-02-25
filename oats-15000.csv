@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTLK,"Metalink, Ltd. Ordinary Shares",U
-MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U
 MTLRF,Metalore Resources Ltd Ordinary Shares,U
 MTLS,Materialise NV American Depositary Shares,NASDAQ
 MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
@@ -701,6 +699,7 @@ NMIH,NMI Holdings Inc. Class A Common Stock,NASDAQ
 NMK PRB,"Niagara Mohawk Power Corporation Preferred Stock, 3.60% Series",NYSE
 NMK PRC,"Niagara Mohawk Power Corporation Preferred Stock, 3.90% Series",NYSE
 NML,Neuberger Berman MLP and Energy Income Fund Inc.,AMEX
+NMLSF,Nova Mentis Life Sciences Corp Ordinary Shares,U
 NMM,Navios Maritime Partners L.P.,NYSE
 NMMC,North Mountain Merger Corp. Class A Common Stock,NASDAQ
 NMMCF,NMC Health PLC Ordinary Shares (United Kingdom),U
@@ -1004,6 +1003,8 @@ NSSXF,NS Solutions Corp Tokyo Ordinary Shares (Japan),U
 NSTB,Northern Star Investment Corp. II,NYSE
 NSTB U,"Northern Star Investment Corp. II Units, each consisting of one share of Class A common stock and on",NYSE
 NSTB WS,"Northern Star Investment Corp. II Redeemable warrants, each whole warrant exercisable for shares of",NYSE
+NSTC U,"Northern Star Investment Corp. III Units, each consisting of one share of Class A common stock and o",NYSE
+NSTD U,"Northern Star Investment Corp. IV Units, each consisting of one share of Class A common stock and on",NYSE
 NSTG,"NanoString Technologies, Inc. Common Stock",NASDAQ
 NSTKF,Novatek Joint Stock Company Ordinary Shares (Russia),U
 NSTM,NovelStem International Corp. Common Stock,U
@@ -1659,6 +1660,7 @@ OPOSF,Optos plc Ordinary Shares (United Kingdom),U
 OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",NYSE
 OPP PRA,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc. 4.375% Series A Cumulative Preferred Stock",NYSE
 OPPPF,Open Hse Co Ltd Ordinary Shares (Japan),U
+OPPX,Corbett Road Tactical Opportunity ETF,ARCA
 OPPXF,Opus Group AB Ordinary Shares (Sweden),U
 OPRA,Opera Limited American Depositary Shares,NASDAQ
 OPRT,Oportun Financial Corporation Common Stock,NASDAQ
@@ -2989,6 +2991,7 @@ PRTA,Prothena Corporation plc Ordinary Shares,NASDAQ
 PRTC,PureTech Health plc American Depositary Shares,NASDAQ
 PRTDF,"Petro Matad Ltd, Douglas Ordinary Shares (Isle of Man)",U
 PRTFU,Patriot Renewable Fuels LLC UNIT MEMBERSHIP INT,U
+PRTG,Portage Biotech Inc. Common Stock,NASDAQ
 PRTH,"Priority Technology Holdings, Inc. Common Stock",NASDAQ
 PRTHU,"Priority Technology Holdings, Inc Unit   11/15/2021",U
 PRTHW,"Priority Technology Holdings, Inc Warrant   11/15/2021",U
@@ -3040,6 +3043,7 @@ PSB PRW,"PS Business Parks, Inc    Depositary Shares Each Representing 1/1000 of
 PSB PRX,"PS Business Parks, Inc. Depositary Shares Each Representing 1/1,000 of a Share of 5.25 Percent Cumul",NYSE
 PSB PRY,"PS Business Parks, Inc. 5.20% Cumulative Preferred Stock, Series Y",NYSE
 PSB PRZ,"PS Business Parks, Inc. Depositary Shares Each Representing 1/1000 of a Share of 4.875% Cumulative P",NYSE
+PSBAF,PT Sumber Alfaria Trijaya TBK Ordinary Shares,U
 PSBC,"Pacific State Bancorp (Stockton, CA) Common Stock",U
 PSBKF,Postal Savings Bank of China Corp Ltd. Registered Ordinary Shares (China),U
 PSBP,PSB Holding Corp. Common Stock,U
@@ -3171,6 +3175,7 @@ PTCP,Petrocorp Inc. Common Stock,U
 PTCT,"PTC Therapeutics, Inc. Common Stock",NASDAQ
 PTCXF,PT Wilmar Cahaya Indonesia TBK Ordinary Shares (Indonesia),U
 PTCYY,Parade Technologies Ltd Sponsored GDR Reg S (Cayman Islands),U
+PTDFF,PT Adira Dinamika Multi Finance Ordinary shares (Indonesia),U
 PTE,"PolarityTE, Inc. Common Stock",NASDAQ
 PTEEF,Plaintree Systems Inc. Ordinary Shares (Canada),U
 PTEFF,Pioneering Technology Corp Ordinary Shares (Canada),U
@@ -3184,7 +3189,6 @@ PTFDF,PT Fast Food Ordinary Shares (Indonesia),U
 PTFRF,PT Tower Bersama Infrastructure Tbk Ordinary Shares (Indonesia),U
 PTFRY,PT Tower Bersama Infrastructure Tbk Unsponsored ADR (Indonesia),U
 PTGCF,PTT Global Chem Pub Co Ltd Common Stock,U
-PTGEF,Portage Biotech Inc. Common Shares,U
 PTGIF,PT Medco Energi International TBK IDR Ordinary Shares,U
 PTGOF,PT Global Mediacom TBK Ordinary Shares (Indonesia),U
 PTGX,"Protagonist Therapeutics, Inc. Common Stock",NASDAQ
@@ -3505,6 +3509,7 @@ QGRSF,"Q2 Gold Resources, Inc. Ordinary Shares (Canada)",U
 QGSI,QuantGate Systems Inc. Common Stock,U
 QH,Quhuo Limited American Depository Shares,NASDAQ
 QHYG,QHY Group Common Stock,U
+QIAN,Qiansui International Group Co. Ltd. Common Stock,U
 QID,ProShares UltraShort QQQ,ARCA
 QIFTF,Quorum Information Technologies Inc Common Shares (Canada),U
 QIHCF,HAIER SMART HOME CO LTD Ordinary Shares,U
@@ -4000,7 +4005,7 @@ RGMP,Regnum Corp Common Stock,U
 RGNNF,RENERGEN LTD Ordinary Shares  South Africa(ZA ),U
 RGNTF,"RENERGEN LTD, CHESS DEPOSITARY INTERESTS  (South Africa)",U
 RGNX,REGENXBIO Inc. Common Stock,NASDAQ
-RGOZF,"Range Energy Resources, Inc. Ordinary Shares (Canada)",U
+RGOZD,"Range Energy Resources, Inc. Common Shares",U
 RGP,"Resources Connection, Inc. Common Stock",NASDAQ
 RGPCF,RATCH GROUP PUB CO LTD Ordinary Shares  (Thailand),U
 RGPMF,Enwell Energy Plc Common Shares,U
@@ -4629,7 +4634,7 @@ SAFE,Safehold Inc.,NYSE
 SAFLF,Safilo Group Spa Vicenza Ordinary Shares (Italy),U
 SAFLY,Safilo Group Spa Vicenza American Depositary Shares (Italy),U
 SAFM,"Sanderson Farms, Inc. Common Stock",NASDAQ
-SAFO,"Save Foods, Inc. Common Stock",U
+SAFOD,"Save Foods, Inc. Common Stock",U
 SAFRF,Safran S.A. Ordinary Shares (France),U
 SAFRY,Safran S.A. Unsponsored ADR (France),U
 SAFS,"Safer Shot, Inc. Common Stock",U
@@ -4787,7 +4792,7 @@ SBTX,"Silverback Therapeutics, Inc. Common Stock",NASDAQ
 SBUG,iPath Silver ETN,ARCA
 SBUM,Silver Buckle Mines Inc Common Stock,U
 SBUX,Starbucks Corporation Common Stock,NASDAQ
-SBVRF,Subversive Real Estate Acquisition REIT LP Restricted Voting Units (Canada),U
+SBVRF,SUBVERSIVE ACQUISITION LP Unit,U
 SBWFF,CORNISH METALS INC Ordinary Shares,U
 SBYSF,SIBANYE STILLWATER LTD Ordinary Shares,U
 SC,SANTANDER CONSUMER USA HOLDINGS INC,NYSE
@@ -4894,6 +4899,7 @@ SCPL,SciPlay Corporation Class A Common Stock,NASDAQ
 SCPPF,S4 Capital PLC Shs (United Kingdom),U
 SCPS,Scopus BioPharma Inc. Common Stock,NASDAQ
 SCPT,"Sports Concepts, Inc. Common Stock (Nevada)",U
+SCR,Score Media and Gaming Inc. Class A Subordinate Voting Shares,NASDAQ
 SCRCQ,ScripsAmerica Inc Common Stock,U
 SCRH,Scores Holding Company Inc. Common Stock,U
 SCRPF,Sembcorp Industries Limited Ordinary Shares,U
@@ -5332,4 +5338,3 @@ SHMSY,Shimao Services Holdings Ltd. American Depositary Receipts - Unsponsored (
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
-SHMZF,Shimadzu Corp Ordinary Shares,U

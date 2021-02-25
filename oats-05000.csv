@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-COWNZ,Cowen Inc. 7.35% Senior Notes Due 2027,NASDAQ
-COWP,Canal Capital Corporation Common Stock,U
 COWPP,Canal Capital Corporation $1.30 Exchangeable Preferred Stock,U
 COWTF,Barclays Bk PLC iPath Bloomberg Livestock Subindex Total Return ETN due 10/22/2037 (United Kingdom),U
 COWZ,Pacer US Cash Cows 100 ETF,BATS
@@ -258,7 +256,9 @@ CRTO,Criteo S.A. American Depositary Shares,NASDAQ
 CRTPF,Cardiol Therapeutics Inc Common Shares Class A Canada (CA),U
 CRTSF,Christian Hansen Holding A/S Ordinary Shares (Denmark),U
 CRTX,"Cortexyme, Inc. Common Stock",NASDAQ
+CRU,Crucible Acquisition Corporation,NYSE
 CRU U,"Crucible Acquisition Corporation Units, each consisting of one share of Class A common stock and one",NYSE
+CRU WS,"Crucible Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one share o",NYSE
 CRUCF,Colibri Resource Corp Common Shares,U
 CRUS,"Cirrus Logic, Inc. Common Stock",NASDAQ
 CRVH,Chilco River Holdings Inc. Common Stock,U
@@ -2051,6 +2051,7 @@ EIS,iShares MSCI Israel ETF,ARCA
 EITWY,EI Tower Spa Unsponsored ADR (Italy),U
 EIX,Edison International,NYSE
 EJAN,Innovator MSCI Emerging Markets Power Buffer ETF-January,ARCA
+EJFAU,EJF Acquisition Corp. Unit,NASDAQ
 EJPRF,East Japan Railway Co Ordinary Shares,U
 EJPRY,East Japan Railway Co Unsponsored ADR (Japan),U
 EJTTF,Easyjet Plc Ordinary Shares GBP 0.27285714 (United Kingdom),U
@@ -2726,7 +2727,6 @@ EVG,Eaton Vance Short Duration Diversified Income Fund,NYSE
 EVGBC,Eaton Vance NextShares Trust Eaton Vance Global Income Builder NextShares,NASDAQ
 EVGEF,Evergreen Gaming Corp Common Shares (Canada),U
 EVGGF,Evolution Gaming Ordinary Shares,U
-EVGI,Evergreen International Corp. Common Stock,U
 EVGN,Evogene Ltd Ordinary Shares,NASDAQ
 EVGPF,EVERGRANDE PPTY SVCS GROUP LTD Ordinary Shares,U
 EVGPY,Evergrande Property Services Group Limited American Depositary Receipts - Unsponsored (Cayman Islands),U
@@ -2926,6 +2926,7 @@ FABP,Farmers Bancorp (The) (IN) Common Stock,U
 FACA U,"Figure Acquisition Corp. I Units, each consisting of one share of Class A common stock and one-fourt",NYSE
 FACCF,First Asset Cambridge Core CDN Equity ETF Unit (Canada),U
 FACO,First Acceptance Corp. Common Stock,U
+FACT U,"Freedom Acquisition I Corp. Units, each consisting of one Class A ordinary share and one-fourth of o",NYSE
 FACYF,Fancl Corp Yokohama Ordinary Shares (Japan),U
 FAD,First Trust Multi Cap Growth AlphaDEX Fund,NASDAQ
 FADCF,First Asset Cdn Divid Opportunity Fd Units (Canada),U
@@ -3447,6 +3448,7 @@ FLLV,Franklin Liberty U.S. Low Volatility ETF,ARCA
 FLLZ,Fellazo Corp Common Stock,U
 FLM,First Trust Global Engineering and Construction ETF,ARCA
 FLMB,Franklin Liberty Federal Tax-Free Bond ETF,ARCA
+FLME U,"Flame Acquisition Corp. Units, each consisting of one share of Class A Common Stock, and one-half of",NYSE
 FLMI,Franklin Liberty Federal Intermediate Tax-Free Bond Opportunities ETF,ARCA
 FLMMF,Filo Mining Corp Common Shares (Canada),U
 FLMN,Falcon Minerals Corporation Class A Common Stock,NASDAQ
@@ -3714,7 +3716,9 @@ FOVSY,Ford Otomotiv Sanayi As Unsponsored ADR,U
 FOX,Fox Corporation Class B Common Stock,NASDAQ
 FOXA,Fox Corporation Class A Common Stock,NASDAQ
 FOXF,Fox Factory Holding Corp. Common Stock,NASDAQ
+FOXW,FoxWayne Enterprises Acquisition Corp. Class A Common Stock,NASDAQ
 FOXWU,FoxWayne Enterprises Acquisition Corp. Unit,NASDAQ
+FOXWW,FoxWayne Enterprises Acquisition Corp. Warrant,NASDAQ
 FOYJ,Foy Johnston Inc Common Stock,U
 FPA,First Trust Asia Pacific ex-Japan AlphaDEX Fund,NASDAQ
 FPAC,Far Peak Acquisition Corporation,NYSE
@@ -4101,7 +4105,9 @@ FVPI,FV Pharma International Corp. Common Stock,U
 FVRG,ForeverGreen Worldwide Corp. Common Stock,U
 FVRR,Fiverr International Ltd.,NYSE
 FVSTA,Far Vista Petroleum Corp. Class A Common Stock,U
+FVT,Fortress Value Acquisition Corp. III,NYSE
 FVT U,"Fortress Value Acquisition Corp. III Units, each consisting of one share of Class A common stock and",NYSE
+FVT WS,"Fortress Value Acquisition Corp. III Warrants, each whole warrant exercisable for one share of Class",NYSE
 FVTI,"Fortune Valley Treasures, Inc. Common Stock",U
 FVVSF,Aranjin Resources Ltd.  Ordinary Shares,U
 FWAA,Fifth Wall Acquisition Corp. I Class A Common Stock,NASDAQ
@@ -4149,7 +4155,6 @@ FYC,First Trust Small Cap Growth AlphaDEX Fund,NASDAQ
 FYGGY,Fuyao Glass Ind Group Co American Depositary Receipts - Unsponsored (China),U
 FYLD,Cambria Foreign Shareholder Yield ETF,BATS
 FYMNF,Finlay Minerals Ltd Ordinary Shares (Canada),U
-FYRTY,FamilyMart Co Ltd American Depositary Receipts - Unsponsored,U
 FYSSY,IFA Systems AG Sponsored American Depository Receipt (Germany Federal Republic),U
 FYT,First Trust Small Cap Value AlphaDEX Fund,NASDAQ
 FYX,First Trust Small Cap Core AlphaDEX Fund,NASDAQ
