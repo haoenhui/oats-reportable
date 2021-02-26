@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-COWPP,Canal Capital Corporation $1.30 Exchangeable Preferred Stock,U
-COWTF,Barclays Bk PLC iPath Bloomberg Livestock Subindex Total Return ETN due 10/22/2037 (United Kingdom),U
 COWZ,Pacer US Cash Cows 100 ETF,BATS
 COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
@@ -73,7 +71,6 @@ CPROF,"Cortelco Systems Puerto Rico, Inc. Ordinary Shares (Puerto Rico)",U
 CPRT,"Copart, Inc. (DE) Common Stock",NASDAQ
 CPRX,"Catalyst Pharmaceuticals, Inc. Common Stock",NASDAQ
 CPS,Cooper-Standard Automotive Inc.,NYSE
-CPSDF,CSI Properties Ltd. Ordinary Shares (Bermuda),U
 CPSH,CPS Technologies Corp. Common Stock,NASDAQ
 CPSI,"Computer Programs and Systems, Inc. Common Stock",NASDAQ
 CPSJF,Cerro Mining Corp. Ordinary Shares,U
@@ -182,6 +179,7 @@ CRJI,China Runji Cement Inc. Common Stock,U
 CRJTF,Crossject Ordinary Shares (France),U
 CRK,"Comstock Resources, Inc.",NYSE
 CRKHF,Cartrack Holdings Ltd Common Stock (South Africa),U
+CRKM,Crank Media Inc  Common Stock,U
 CRKN,Crown Electrokinetics Corp. Common Stock,NASDAQ
 CRKT,Cirmaker Technology Corporation Common Stock,U
 CRKZY,PJSC Cherkizovo Group Global Depositary Receipts - Unsponsored,U
@@ -223,7 +221,6 @@ CRPJY,China Resources Power Holdings Co Ltd Unsponsored ADR (Hong Kong),U
 CRPLF,CAPITAL & REGIONAL PLC Ordinary Shares,U
 CRPOF,Ceapro Inc Ordinary Shares,U
 CRQDF,Credito Real SA De CV Ordinary Shares (Mexico),U
-CRQE,CIRQUE ENERGY INC Common Stock,U
 CRQZF,Crooz Inc Common Shares (Japan),U
 CRRDF,Cheetah Canyon Res Corp Ordinary Shares,U
 CRRFY,Carrefour S A (F) Sponsored ADR (France),U
@@ -1746,6 +1743,7 @@ EBCOF,Ebara Corp Ord Ordinary Shares,U
 EBCOY,Ebara Corp Ord American Depositary Shares,U
 EBF,"Ennis, Inc.",NYSE
 EBGEF,ENBRIDGE INC Re Pref Shs Ser 5 (Canada),U
+EBINF,"EBOOK INITIATIVE JAPAN CO LTD, TOKYO SHS (Japan)",U
 EBIX,"Ebix, Inc. Common Stock",NASDAQ
 EBIZ,Global X Funds Global X E-commerce ETF,NASDAQ
 EBKDY,Erste Group Bank AG Sponsored ADR (Austria),U
@@ -3404,7 +3402,7 @@ FLCA,Franklin FTSE Canada ETF,ARCA
 FLCB,Franklin Liberty U.S. Core Bond ETF,ARCA
 FLCH,Franklin FTSE China ETF,ARCA
 FLCO,Franklin Liberty Investment Grade Corporate ETF,ARCA
-FLCXD,flooidCX Corp. Common Shares,U
+FLCX,flooidCX Corp. Common Shares,U
 FLDI,Folkup Dev Inc Common Stock,U
 FLDM,Fluidigm Corporation Common Stock,NASDAQ
 FLDPF,Frontline Gold Corp Common Shares (Canada),U
@@ -5338,3 +5336,6 @@ GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
+GWB,"Great Western Bancorp, Inc.",NYSE
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
+GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U

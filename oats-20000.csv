@@ -682,6 +682,7 @@ SOJC,"The Southern Company Series 2017B 5.25% Junior Subordinated Notes due Dece
 SOJD,"The Southern Company Series 2020A 4.95% Junior Subordinated Notes due January 30, 2080",NYSE
 SOJE,"The Southern Company Series 2020C 4.20% Junior Subordinated Notes due October 15, 2060",NYSE
 SOL,ReneSola Ltd American Depositary (Each representing ten shares),NYSE
+SOLBF,SOLVBL SOLUTIONS INC COM (Canada),U
 SOLCF,Sol Global Invts Corp Ordinary Shares,U
 SOLGY,Solocal Group American Depositary Receipts - Unsponsored (France),U
 SOLI,Solei Systems Inc Common Stock,U
@@ -1005,7 +1006,7 @@ SRII,"Speaking Roses International, Inc. Common Stock",U
 SRIOF,A Soriano Corp ANS Ordinary Shares (Philippines),U
 SRKZF,Sky Gold Corp Common Shares,U
 SRL,Scully Royalty Ltd. Common Shares,NYSE
-SRLN,SPDR Blackstone/GSO Senior Loan ETF of  SSgA Active Trust,ARCA
+SRLN,SPDR Blackstone Senior Loan ETF,ARCA
 SRLP,SPRAGUE RESOURCES LP,NYSE
 SRLTF,Seafield Res Ltd Common (Canada),U
 SRLY,Southern Realty Co Common Stock,U
@@ -1279,7 +1280,9 @@ STON,StoneMor Inc.,NYSE
 STOR,STORE Capital Corporation,NYSE
 STOSF,"Santos, Ltd. Ordinary Shares",U
 STOT,SPDR DoubleLine Short Duration Total Return Tactical ETF,BATS
+STPC,Star Peak Corp II,NYSE
 STPC U,"Star Peak Corp II Units, each consisting of one share of Class A common stock and one-fourth of one",NYSE
+STPC WS,"Star Peak Corp II Warrants, each whole warrant exercisable for one share of Class A common stock at",NYSE
 STPGF,Steppe Gold Limited Common Shares,U
 STPJF,Southern Pacific Resource Corp Ordinary Shares (Canada),U
 STPK,Star Peak Energy Transition Corp.,NYSE
@@ -2162,7 +2165,6 @@ TIEUF,THAI REINSURANCE PUBLIC CO LTD NVDR SHARES (Thailand0,U
 TIG,"Trean Insurance Group, Inc. Common Stock",NASDAQ
 TIGCF,Triumph Gold Corp Ordinary Shares,U
 TIGE,Tigrent Inc. Common Stock NEW,U
-TIGGF,Trigiant Group Limited HKD Ordinary Shares (Cayman Islands),U
 TIGO,Millicom International Cellular S.A. Common Stock,NASDAQ
 TIGR,UP Fintech Holding Ltd American Depositary Share representing fifteen Class A Ordinary Shares,NASDAQ
 TIHRF,Tharisa Plc Non Listed CSE Company (Cyprus),U
@@ -2790,13 +2792,12 @@ TSMRF,Tsumura & Co Ordinary Shares,U
 TSN,"Tyson Foods, Inc.",NYSE
 TSNI,"TechniScan, Inc. Common Stock",U
 TSNLF,"Tristel PLC, Snailwell Ordinary Shares (United Kingdom)",U
-TSNP,"Tesoro Enterprises, Inc.. Common Stock",U
+TSNPD,"HUMBL, Inc. Common Stock",U
 TSOC,Innovator Triple Stacker ETF - October,BATS
 TSOCF,Taisei Oncho Co Ltd Ordinary Shares (Japan),U
 TSOI,"Therapeutic Solutions International, Inc. Common Stock",U
 TSPCF,CLEANAWAY WASTE MGMT LTD Ordinary Shares,U
 TSPG,TGI Solar Power Group Inc Common Stock,U
-TSPO,Team 360 Sports Inc Common Stock,U
 TSPPF,Torishima Pump Mfg Co Ordinary Shares (Japan),U
 TSQ,"TOWNSQUARE MEDIA, INC.",NYSE
 TSRI,"TSR, Inc. Common Stock",NASDAQ
@@ -2963,6 +2964,7 @@ TWI,"Titan International, Inc.(Delaware)",NYSE
 TWIN,"Twin Disc, Incorporated Common Stock",NASDAQ
 TWIRF,Tree Island Steel Ltd. Ordinary Shares (Canada),U
 TWLO,Twilio Inc.,NYSE
+TWLVU,Twelve Seas Investment Company II Unit,NASDAQ
 TWM,ProShares UltraShort Russell2000,ARCA
 TWMIF,Tidewater Midstream & Infrastructure Ltd. Ordinary Shares (Canada),U
 TWN,"Taiwan Fund, Inc.",NYSE
@@ -4555,7 +4557,7 @@ WNC,Wabash National Corp.,NYSE
 WNCG,"Wyncrest Group, Inc. NEW Common Stock",U
 WNCNY,Wincanton PLC Unsponsored ADR (United Kingdom),U
 WNCP,Wineco Productions Inc Common Stock,U
-WNDLF,Wendel Investissement ACT (France) EUR,U
+WNDLF,Wendel Ordinary Shares,U
 WNDW,"SolarWindow Technologies, Inc. Common Stock",U
 WNEB,"Western New England Bancorp, Inc. Common Stock",NASDAQ
 WNGRF,Weston George Ltd Pfd Ordinary Shares,U

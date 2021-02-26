@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
@@ -1349,7 +1346,7 @@ IGACW,IG Acquisition Corp. Warrant,NASDAQ
 IGAP,Integrity Applications Incorporation Com,U
 IGBH,iShares Interest Rate Hedged Long-Term Corporate Bond ETF,ARCA
 IGC,"India Globalization Capital, Inc.",AMEX
-IGCIW,India Globalization Capital Inc. Warrant   03/09/2023,U
+IGCIW,India Globalization Capital Inc. Warrant   03/08/2021,U
 IGD,VOYA GLOBAL EQUITY DIVIDEND AND PREMIUM OPPORTUNITY FUND,NYSE
 IGE,iShares North American Natural Resources ETF,BATS
 IGEB,iShares Investment Grade Bond Factor ETF,BATS
@@ -1463,6 +1460,7 @@ IIJIF,"Internet Initiative Japan, Inc. Ordinary Shares (japan)",U
 IIJIY,"Internet Initiative Japan, Inc. American Depositary Shares",U
 IIM,INVESCO VALUE MUNICIPAL INCOME TRUST,NYSE
 IIN,Intricon Corporation Common Stock,NASDAQ
+IINDF,INTEGRA INDOCABINET TBK PT Ordinary Shares (Indonesia),U
 IINHF,Imagi International Holdings Ltd Ordinary Shares,U
 IINX,"Ionix Technology, Inc. Common Stock",U
 IIPR,"Innovative Industrial Properties, Inc. Common stock",NYSE
@@ -2719,6 +2717,7 @@ JVTSF,"JUVENTUS FOOTBALL CLUB SPA,  TORINO Common Shares",U
 JW A,"John Wiley & Sons, Inc. Class A",NYSE
 JW B,"John Wiley & Sons, Inc. Class B",NYSE
 JWCAF,James E Wagner Cultivation Corp Ordinary Shares (Canada),U
+JWCTF,JW CAYMAN THERAPEUTICS CO LTD USD ORD SHS (Cayman Islands),U
 JWHI,Jin Wan Hong International Holdings Limited Common Stock,U
 JWLLF,Jamieson Wellness Inc COM (Canada),U
 JWN,"Nordstrom, Inc.",NYSE
@@ -2748,7 +2747,9 @@ KAHL,Kahala Corporation (Florida) New Common Stock,U
 KAI,Kadant Inc.,NYSE
 KAIIU,Kismet Acquisition Two Corp. Unit,NASDAQ
 KAIKY,Kawasaki Kisen Kaisha Ltd American Depositary Receipts - Unsponsored,U
+KAIR,Kairos Acquisition Corp. Class A Ordinary Shares,NASDAQ
 KAIRU,Kairos Acquisition Corp. Unit,NASDAQ
+KAIRW,Kairos Acquisition Corp. Warrant,NASDAQ
 KAJMF,Kajima Corp Ord Ordinary Shares,U
 KAJMY,Kajima Corp Ord American Depositary Shares,U
 KAKKF,Kawasaki Kisen Kaisha Ltd Ordinary Shares,U
@@ -2912,6 +2913,7 @@ KGSDF,Kungsleden AB Ordinary Shares,U
 KGSDY,Kungsleden AB Unsponsored ADR (Sweden),U
 KGSPF,Kingspan Group Plc Ordinary Shares,U
 KGSPY,Kingspan Group Plc Unsponsored ADR (Ireland),U
+KGSSF,Kingman Minerals Ltd Ordinary Shares (Canada),U
 KGTFF,Krung Thai Bank Public Company Limited Shs Foreign Registered (Thailand),U
 KGTFY,Krung Thai Bank Public Company Limited Unsponsored American Depository Receipt (Thailand),U
 KGTHY,Krungthai Card PCL Unsponsored ADR (Thailand),U
@@ -3528,7 +3530,7 @@ LEN,Lennar Corporation Class A,NYSE
 LEN B,Lennar Corporation Class B,NYSE
 LEND,Amplify CrowdBureau Online Lending and Digital Banking ETF,ARCA
 LENSF,Presbia PLC Ordinary Shares,U
-LENTY,Lenta Limited Sponsored GDR Reg S (British Virgin Islands),U
+LENTY,Lenta IPJSC Global Depositary Receipts - Sponsored,U
 LEO,"BNY Mellon Strategic Municipals, Inc.",NYSE
 LEON,"Leone Asset Management, Inc. Common Stock",U
 LEOPF,Leopalace21 Corp Ordinary Shares (Japan),U
@@ -3720,7 +3722,7 @@ LLIT,Lianluo Smart Limited Class A Common Stock,NASDAQ
 LLKKF,Lake Resources N.L. Ordinary Shares (Australia),U
 LLLI,Lamperd Less Lethal Inc. Common Stock,U
 LLND,Landmark Land Co Inc Common Stock,U
-LLNKD,LiteLink Technologies Inc. (Canada) Common Shares,U
+LLNKD,TECHX TECHNOLOGIES INC Common Shares,U
 LLNW,"Limelight Networks, Inc. Common Stock",NASDAQ
 LLNXF,Link Linux Inc Ordinary Shares (Canada),U
 LLOBF,Lloyds Banking Group Plc Pref Shs Non Cum 9.25% (United Kingdom),U
@@ -4624,7 +4626,6 @@ MGYTF,Magyar Telekom PLC Ordinary Shares (Hungary),U
 MH PRA,"MAIDEN HOLDINGS, LTD. 8.25% Non-Cumulative Preference Shares, Series A",NYSE
 MH PRC,"Maiden Holdings North America, Ltd. 7.125% Non-Cumulative Preference Shares, Series C",NYSE
 MH PRD,"Maiden Holdings North America, Ltd. 6.700% Non-Cumulative Preference Shares, Series D",NYSE
-MHCC,"Millennium Healthcare, Inc Common Stock",U
 MHD,"Blackrock Muniholdings Fund, Inc.",NYSE
 MHE,BlackRock Massachusetts Tax-Exempt Trust,NYSE
 MHF,"Western Asset Municipal High Income Fund, Inc",NYSE

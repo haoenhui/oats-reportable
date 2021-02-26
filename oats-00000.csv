@@ -844,7 +844,9 @@ AKCCF,AKER CARBON CAPTURE AS Ordinary Shares,U
 AKCPF,Asustek Computer Inc Ord Ordinary Shares,U
 AKEJF,Ariake Japan Ordinary Shares,U
 AKER,Akers Biosciences Inc. Common Stock,NASDAQ
+AKIC,Sports Ventures Acquisition Corp. Class A Ordinary Shares,NASDAQ
 AKICU,Sports Ventures Acquisition Corp. Unit,NASDAQ
+AKICW,Sports Ventures Acquisition Corp. Warrant,NASDAQ
 AKKVF,AKASTOR ASA  ASA Ordinary Shares (Norway),U
 AKO A,Embotelladora Andina S.A. Series A,NYSE
 AKO B,Embotelladora Andina S.A. Series B,NYSE
@@ -1158,7 +1160,6 @@ AMPE,"Ampio Pharmaceuticals, Inc",AMEX
 AMPG,"Amplitech Group, Inc. Common Stock",NASDAQ
 AMPGW,"Amplitech Group, Inc. Warrants",NASDAQ
 AMPH,"Amphastar Pharmaceuticals, Inc. Common Stock",NASDAQ
-AMPI U,"Advanced Merger Partners, Inc. Units, each consisting of one share of Class A common stock and one-s",NYSE
 AMPO,Amperico Corp Com,U
 AMPY,Amplify Energy Corp.,NYSE
 AMPYW,Amplify Energy Corp. Warrant,U
@@ -1635,6 +1636,7 @@ ARXRF,Infinite Ore Corp.  Common Shares,U
 ARXXL,AirXpanders Inc Shs Chess Depository Interests Rep 3 Shs,U
 ARYA,ARYA Sciences Acquisition Corp III Class A Ordinary Shares,NASDAQ
 ARYC,Arrayit Corporation Common Stock,U
+ARYD,ARYA Sciences Acquisition Corp IV Class A Odinary Shares,NASDAQ
 ARYMF,Argosy Minerals Ltd Ordinary Shares (Australia),U
 ARYX,"ARYx Therapeutics, Inc. Common Stock",U
 ARZGF,Assicurazioni Generali Spa Ord Ordinary Shares,U
@@ -3324,7 +3326,6 @@ BRFH,Barfresh Food Group Inc. Common,U
 BRFIF,BLACKROCK FRONTIERS INVESTMENT TRUST PLC SHS 2010 (United Kingdom),U
 BRFS,BRF - Brasil Foods S.A.,NYSE
 BRG,"Bluerock Residential Growth REIT, Inc.",AMEX
-BRG PRA,BLUEROCK RESIDENTIAL GROWTH REIT INC 8.250% SR A CUMULATIVE REDEEMABLE PFD STK,AMEX
 BRG PRC,Bluerock Residential Growth REIT Inc.,AMEX
 BRG PRD,"Bluerock Residential Growth REIT Inc. 7.125% Series D, Cumulative Preferred Stock ($0.01 par value p",AMEX
 BRGAY,Borregaard AS American Depositary Receipts (Unsponsored)(Norway),U
@@ -3405,7 +3406,7 @@ BRVDF,BRAVIDA HLDG AB Ordinary Shares,U
 BRVFY,Lastminute.com NV American Depositary Receipts - Unsponsored,U
 BRVO,Bravo Multinational Incorporated Common Stock,U
 BRVRF,"Blue River Resources, Ltd. Ordinary Shares (Canada)",U
-BRVVD,Quantum Cobalt Corp Ordinary Shares,U
+BRVVF,Quantum Cobalt Corp Ordinary Shares,U
 BRX,BRIXMOR PROPERTY GROUP INC.,NYSE
 BRY,Berry Corporation (bry) Common Stock,NASDAQ
 BRYAF,Berjaya Corporation BHD Ordinary shares (Malaysia),U
@@ -4395,7 +4396,7 @@ CGEAF,Cogeco Communications Inc Common Shares,U
 CGECF,Cogeco Inc Sub Vtg Shs Ordinary Shares,U
 CGEGF,CGN NEW ENERGY HOLDINGS CO LTD Ord Shs (Bermuda),U
 CGEI,"CGE Energy, Inc. Common Stock",U
-CGEM,"Cullinan Management, Inc. Common Stock",NASDAQ
+CGEM,"Cullinan Oncology, Inc. Common Stock",NASDAQ
 CGEMY,Capgemini SE American Depositary Receipts - Unsponsored,U
 CGEN,Compugen Ltd. Ordinary Shares,NASDAQ
 CGFEF,CF Energy Corp Common Shares,U
@@ -4447,7 +4448,6 @@ CGUSY,Casino Guichard Perrachon SA Sponsored ADR (France),U
 CGW,Invesco S&P Global Water Index ETF,ARCA
 CGXEF,Cgx Energy Inc Ordinary Shares,U
 CGXYY,China Galaxy Securities Co Ltd Unsponsored ADR (China),U
-CGYG,China Longyi Group International Holdings Limited Common Stock,U
 CGYV,"China Energy Recovery, Inc. New Common Stock",U
 CHAA U,"Catcha Investment Corp Units, each consisting of one Class A ordinary share, and one-third of one re",NYSE
 CHAD,Direxion Daily CSI 300 China A Share Bear 1X Shares,ARCA
@@ -5338,3 +5338,5 @@ COWN,Cowen Inc. Class A Common Stock,NASDAQ
 COWNL,Cowen Inc. 7.75% Senior Notes due 2033,NASDAQ
 COWNZ,Cowen Inc. 7.35% Senior Notes Due 2027,NASDAQ
 COWP,Canal Capital Corporation Common Stock,U
+COWPP,Canal Capital Corporation $1.30 Exchangeable Preferred Stock,U
+COWTF,Barclays Bk PLC iPath Bloomberg Livestock Subindex Total Return ETN due 10/22/2037 (United Kingdom),U

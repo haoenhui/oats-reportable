@@ -549,8 +549,6 @@ NHICU,NewHold Investment Corp. Unit,NASDAQ
 NHICW,NewHold Investment Corp. Warrant,NASDAQ
 NHKFF,NICHIIKO PHARMACEUTICAL CO LTD Ordinary Shares Japan(JP ),U
 NHKGF,NHK Spriing Co Ltd Ordinary shares (Japan),U
-NHLD,National Holdings Corporation Common Stock,NASDAQ
-NHLDW,National Holdings Corporation Warrants,NASDAQ
 NHLE,Nhale Inc. Common Share,U
 NHLG,"National Healthcare Logistics, Inc. Common Stock",U
 NHLI,"Nouveau Holdings, Ltd. Common Stock",U
@@ -1003,8 +1001,6 @@ NSSXF,NS Solutions Corp Tokyo Ordinary Shares (Japan),U
 NSTB,Northern Star Investment Corp. II,NYSE
 NSTB U,"Northern Star Investment Corp. II Units, each consisting of one share of Class A common stock and on",NYSE
 NSTB WS,"Northern Star Investment Corp. II Redeemable warrants, each whole warrant exercisable for shares of",NYSE
-NSTC U,"Northern Star Investment Corp. III Units, each consisting of one share of Class A common stock and o",NYSE
-NSTD U,"Northern Star Investment Corp. IV Units, each consisting of one share of Class A common stock and on",NYSE
 NSTG,"NanoString Technologies, Inc. Common Stock",NASDAQ
 NSTKF,Novatek Joint Stock Company Ordinary Shares (Russia),U
 NSTM,NovelStem International Corp. Common Stock,U
@@ -1135,6 +1131,7 @@ NUVM,"NuVim, Inc. Common Stock",U
 NUVR,"Nuvera Communications, Inc. Common Stock",U
 NUVSF,Nuvista Energy Ltd Ordinary Shares (Canada),U
 NUW,Nuveen AMT-Free Municipal Value Fund,NYSE
+NUWHF,NU-WORLD HOLDINGS SHS (South Africa),U
 NUZE,"NuZee, Inc. Common Stock",NASDAQ
 NVAAF,Nova Minerals Ltd. Ordinary Shares,U
 NVAX,"Novavax, Inc. Common Stock",NASDAQ
@@ -2816,7 +2813,9 @@ PPERF,PT Bank Mandiri Persero TBK Ordinary Shares (Indonesia),U
 PPERY,PT Bank Mandiri Persero TBK Unsponsored ADR (Indonesia),U
 PPEVF,Pacific Paradym Energy Inc Ordinary Shares,U
 PPG,"PPG Industries, Inc.",NYSE
+PPGH,Poema Global Holdings Corp. Class A Ordinary Share,NASDAQ
 PPGHU,Poema Global Holdings Corp. Unit,NASDAQ
+PPGHW,Poema Global Holdings Corp. Warrant,NASDAQ
 PPH,VanEck Vectors Pharmaceutical ETF,NASDAQ
 PPHI,POSITIVE PHYSICIANS HLDGS INC Common Stock,U
 PPHOF,Polyphor AG Namen-AKT (Switzerland),U
@@ -3883,6 +3882,7 @@ REGN,"Regeneron Pharmaceuticals, Inc. Common Stock",NASDAQ
 REGRF,Graph Blockchain Inc Ordinary Shares,U
 REHB,"Channel Holdings, Inc. Common Stock",U
 REI,Ring Energy Inc.,AMEX
+REIT,ALPS ETF Trust ALPS Active REIT ETF,NASDAQ
 REK,ProShares Short Real Estate,ARCA
 REKR,"Rekor Systems, Inc. Common Stock",NASDAQ
 REKRW,"Rekor Systems, Inc. Warrant",U
@@ -4796,6 +4796,7 @@ SBVRF,SUBVERSIVE ACQUISITION LP Unit,U
 SBWFF,CORNISH METALS INC Ordinary Shares,U
 SBYSF,SIBANYE STILLWATER LTD Ordinary Shares,U
 SC,SANTANDER CONSUMER USA HOLDINGS INC,NYSE
+SCABY,Svenska Cellulosa Aktiebolaget SCA American Depositary Receipts - Unsponsored,U
 SCAL,Stem Cell Authority Ltd. Common Stock,U
 SCANF,Scandi STD AB Ordinary Shares (Sweden),U
 SCBFF,Standard Chartered Plc Ordinary Shares,U
