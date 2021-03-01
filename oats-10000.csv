@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
+GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
@@ -961,6 +963,7 @@ HYDW,Xtrackers Low Beta High Yield Bond ETF,ARCA
 HYEG,"Hydrogen Engine Center, Inc. Common Stock",U
 HYEM,VanEck Vectors Emerging Markets High Yield Bond ETF,ARCA
 HYEVF,Hyundai Elevator Co Ltd Ordinary Shares (S. Korea),U
+HYEX,HEALTHY EXTRACTS INC Common Stock,U
 HYFM,"Hydrofarm Holdings Group, Inc. Common Stock",NASDAQ
 HYFXF,Hyflux Ltd Ordinary Shares,U
 HYFXY,Hyflux Ltd Unsponsored ADR (Singapore),U
@@ -1204,6 +1207,7 @@ ID,"PARTS iD, Inc.",AMEX
 IDA,"IDACORP, Inc.",NYSE
 IDAI,T STAMP INC COM CL A Common Stock,U
 IDAM,Idarado Mining Co Common Stock,U
+IDBA,IDEX Biometrics ASA American Depositary Shares,NASDAQ
 IDBHF,INDUSTRIAS BACHOCO SAB DE CV Ordinary Shares B (Mexico),U
 IDCBF,Industrial and Commercial Bank of China Ltd Hkd Shs -H- (China),U
 IDCBY,Industrial & Commercial Bank of China Ltd representing H shares Unsponsored ADR (China),U
@@ -1528,9 +1532,9 @@ IMBBF,IMPERIAL BRANDS PLC Ordinary Shares,U
 IMBBY,Imperial Brands PLC American Depositary Receipts - Sponsored,U
 IMBI,"iMedia Brands, Inc. Class A Common Stock",NASDAQ
 IMBXF,IShares PLC US MBS UCITS ETF (Ireland),U
+IMCC,IM Cannabis Corp. Common Shares,NASDAQ
 IMCDY,IMCD Group NV American Depositary Receipts - Unsponsored (Netherlands),U
 IMCI,Infinite Group Inc. Common Stock,U
-IMCND,IM CANNABIS CORP Common Shares,U
 IMCR,Immunocore Holdings plc American Depositary Shares,NASDAQ
 IMCUF,Industria Macchine Automatiche SPA Ordinary Shares (Italy),U
 IMDXF,Imdex Ltd Ordinary Shares,U
@@ -1678,7 +1682,9 @@ ININF,INTER INDUSTRY LTD SHARE (Israel),U
 INIS,International Isotopes Inc. Common Stock,U
 INITF,iShares Canadian Short Term Bond Index ETF (Canada),U
 INIX,Ifinix Corporation. Common Stock,U
+INKA,KludeIn I Acquisition Corp. Class A Common Stock,NASDAQ
 INKAU,KludeIn I Acquisition Corp. Unit,NASDAQ
+INKAW,KludeIn I Acquisition Corp. Warrant,NASDAQ
 INKM,SPDR SSgA Income Allocation ETF of SSgA Active Trust,ARCA
 INKW,"Greene Concepts, Incorporated Common Stock",U
 INLAF,Interlapse Technologies Corp Common Shares,U
@@ -2192,7 +2198,9 @@ IUYBF,iShares US High Yield Bond Index ETF Unit (Canada),U
 IVA,Inventiva S.A. American Depository Shares,NASDAQ
 IVAC,"Intevac, Inc. Common Stock",NASDAQ
 IVAL,Alpha Architect International Quantitative Value ETF,BATS
+IVAN,Ivanhoe Capital Acquisition Corp.,NYSE
 IVAN U,"Ivanhoe Capital Acquisition Corp. Unit, each consisting of one Class A ordinary share and one-third",NYSE
+IVAN WS,"Ivanhoe Capital Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A",NYSE
 IVATF,INVESCO MKTS II AT1 CAPITAL BOND UCITS ETF USD ACC  Exchange Traded Fund Ireland(IE ),U
 IVBIY,Innovent Biologics Inc  American Depositary Receipts - Unsponsored (Cayman Islands),U
 IVBUF,ISHARES IV PLC NASDAQ US BIOTECH UCITS ETF USD ACC (Ireland),U
@@ -2381,7 +2389,6 @@ JCICU,Jack Creek Investment Corp. Units,NASDAQ
 JCO,Nuveen Credit Opportunities 2022 Target Term Fund,NYSE
 JCOM,"j2 Global, Inc. Common Stock",NASDAQ
 JCPB,JPMorgan Core Plus Bond ETF,BATS
-JCQQ,APi Group Corporation Warrant,U
 JCRRF,JCR PHARMACEUTICALS CO LTD Ordinary Shares,U
 JCS,"Communications Systems, Inc. Common Stock",NASDAQ
 JCTCF,Jewett-Cameron Trading Company Common Shares,NASDAQ
@@ -2988,7 +2995,9 @@ KKUR,"Chromocure, Inc. Common Stock",U
 KKWFF,Koninklijke Boskalis Westminster N V Ordinary Shares  (Netherlands),U
 KL,Kirkland Lake Gold Ltd Ordinary,NYSE
 KLAC,KLA Corporation Common Stock,NASDAQ
+KLAQ,KL Acquisition Corp Class A Common Stock,NASDAQ
 KLAQU,KL Acquisition Corp Unit,NASDAQ
+KLAQW,KL Acquisition Corp Warrant,NASDAQ
 KLBAY,Klabin SA American Depositary Shares - Unsponsored,U
 KLCCY,KLOECKNER & CO SE American Depositary Receipts - Unsponsored (Germany),U
 KLCD,KFA Large Cap Quality Dividend Index ETF,ARCA
@@ -3073,7 +3082,7 @@ KNDYF,Kenadyr Mining Holdings Corp Ordinary Shares (Canada),U
 KNEOF,Kneomedia Limited Ordinary Shares (Australia),U
 KNFHF,Kingfish Ltd. Ordinary Shares (New Zealand),U
 KNFSF,KIATNAKIN PHATRA BK PUB CO LTD SHS FOREIGN REGISTERED (Thailand),U
-KNG,Cboe Vest S&P 500 Dividend Aristocrats Target Income ETF,BATS
+KNG,FT Cboe Vest S&P 500 Dividend Aristocrats Target Income ETF,BATS
 KNGPF,KNM Group Bhd Ordinary Shares (Malaysia),U
 KNGS,UPHOLDINGS Compound Kings ETF,BATS
 KNGW,"Kenongwo Group US, Inc. Common Stock",U
@@ -3627,14 +3636,15 @@ LGVN,Longeveron Inc. Class A Common Stock,NASDAQ
 LGYRF,Landis & Gyr Group AG Namen AKT (Switzerland),U
 LGYV,LEGACY VENTURES INTL INC Common Stock,U
 LH,Laboratory Corporation of America Holdings,NYSE
+LHC,Leo Holdings Corp. II,NYSE
 LHC U,"Leo Holdings Corp. II Units, each consisting of one Class A ordinary share and one-quarter of one re",NYSE
+LHC WS,"Leo Holdings Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary s",NYSE
 LHCG,LHC Group Common Stock,NASDAQ
 LHDX,"Lucira Health, Inc. Common Stock",NASDAQ
 LHGI,Lighthouse Global Holdings Inc. Common Stock,U
 LHHMQ,"Lehman Brothers Holdings, Inc. 6.00% Prefd Sec Srs M",U
 LHIL,Leader Hill Corp. Common Stock,U
 LHRP,"LifeHouse Retirement Properties, Inc. Common Stock",U
-LHSIF,Liberty Health Sciences Inc Ordinary Shares,U
 LHUAF,Lianhua Supermarket Holdings Co Ltd Shs H,U
 LHUAY,Lianhua Supermarket Holdings Co Ltd Unsponsored ADR (China),U
 LHX,"L3Harris Technologies, Inc.",NYSE
@@ -3722,7 +3732,6 @@ LLIT,Lianluo Smart Limited Class A Common Stock,NASDAQ
 LLKKF,Lake Resources N.L. Ordinary Shares (Australia),U
 LLLI,Lamperd Less Lethal Inc. Common Stock,U
 LLND,Landmark Land Co Inc Common Stock,U
-LLNKD,TECHX TECHNOLOGIES INC Common Shares,U
 LLNW,"Limelight Networks, Inc. Common Stock",NASDAQ
 LLNXF,Link Linux Inc Ordinary Shares (Canada),U
 LLOBF,Lloyds Banking Group Plc Pref Shs Non Cum 9.25% (United Kingdom),U
@@ -4028,6 +4037,7 @@ LUXE,Emles Luxury Goods ETF,BATS
 LVBX,"LevelBlox, Inc. Common Stock",U
 LVCA,"Lake Victoria Mining Company, Inc. Common Stock",U
 LVCC,Las Vegas Central Reservations Corporation Common Stock,U
+LVCEF,LIVECARE INC COM,U
 LVCLF,Living Cell Technologies Ltd Ordinary Shares (Australia),U
 LVCLY,Living Cell Technologies Ltd Sponsored ADR (Australia),U
 LVCNF,Leviathan Natural Products Inc Common Stock,U
@@ -4055,7 +4065,9 @@ LVWD,"LiveWorld, Inc. Common Stock",U
 LVYN,Lvyuan Green Building Material Technology Corp. Common Stock,U
 LVZPF,Livzon Pharmaceutical Group Inc Ordinary Shares (China),U
 LW,"Lamb Weston Holdings, Inc.",NYSE
+LWAC,Locust Walk Acquisition Corp. Class A Common Stock,NASDAQ
 LWACU,Locust Walk Acquisition Corp. Unit,NASDAQ
+LWACW,Locust Walk Acquisition Corp. Warrant,NASDAQ
 LWAY,"Lifeway Foods, Inc. Common Stock",NASDAQ
 LWCL,LEWIS & CLARK BANCORP Common Stock,U
 LWCTF,"LCTI Low Carbon Technologies, Inc. Shs (Canada)",U
@@ -4129,6 +4141,7 @@ MAAX,VanEck Vectors Muni Allocation ETF,BATS
 MABHF,Mortgage Advice Bureau Holdings Ltd Common Stock (United Kingdom),U
 MAC,The Macerich Company,NYSE
 MACAU,Moringa Acquisition Corp Units,NASDAQ
+MACC U,"Mission Advancement Corp. Units, each consisting of one share of Class A Common Stock and one-third",NYSE
 MACE,"Mace Security International, Inc. Common Stock",U
 MACK,"Merrimack Pharmaceuticals, Inc. Common Stock",NASDAQ
 MACLF,"Maca Ltd, West Perth WA Ordinary Shares (Austrailia)",U
@@ -4184,13 +4197,14 @@ MAPL,Maple Press Co Common Stock,U
 MAPT,"Maptelligent, Inc. Common Stock",U
 MAQAF,Atlas Arteria Ltd Ordinary Shares,U
 MAR,Marriott International Class A Common Stock,NASDAQ
-MARA,"Marathon Patent Group, Inc. Common Stock",NASDAQ
+MARA,"Marathon Digital Holdings, Inc. Common Stock",NASDAQ
 MARB,First Trust Merger Arbitrage ETF,ARCA
 MARK,"Remark Holdings, Inc. Common Stock",NASDAQ
 MARPS,Marine Petroleum Trust Units of Beneficial Interest,NASDAQ
 MARUF,Marubeni Corp Ord Ordinary Shares,U
 MARUY,Marubeni Corp Ord American Depositary Shares,U
 MARXF,Marenica Energy Ltd Ordinary Shares,U
+MARZ,TrueShares Structured Outcome (March) ETF,BATS
 MARZF,Marston's PLC Ordinary Shares (United Kingdom),U
 MAS,Masco Corporation,NYSE
 MASI,Masimo Corporation Common Stock,NASDAQ
@@ -4232,7 +4246,6 @@ MBDE,Morris Business Development Company Common Stock,U
 MBFJF,Mitsubishi UFJ Financial Group Inc Ordinary Shares (Japan),U
 MBGCF,Mitsubishi Gas Chemical Co Inc Ordinary Shares,U
 MBGNF,MED BIOGENE INC Common Shares,U
-MBGRF,MOBERG PHARMA AB PUBL Ordinary Shares,U
 MBHCF,MBH CORP PLC ORD EUR1 (United Kingdom),U
 MBHPF,MASCHINENFABRIK BERTHOLD HERMLE AG PREF SHS VTG RTS (Germany),U
 MBI,MBIA Inc.,NYSE
@@ -5331,11 +5344,3 @@ MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 MTHRF,"M3, Inc. Ordinary Shares (Japan)",U
 MTHRY,"M3, INC.  American Depositary Receipts - Unsponsored  Japan(JP )",U
 MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE
-MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
-MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U
-MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U
-MTLHF,Mitsubishi Chemical Holdings Corp Ordinary Shares (Japan),U
-MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
-MTLI,Metaline Contact Mines Common Stock,U
-MTLK,"Metalink, Ltd. Ordinary Shares",U
-MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U

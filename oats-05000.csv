@@ -6,7 +6,6 @@ CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAH,CounterPath Corporation Common Stock,NASDAQ
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
@@ -1698,9 +1697,11 @@ E,ENI S.p.A.,NYSE
 EA,Electronic Arts Inc. Common Stock,NASDAQ
 EAATF,Earthworks Industries Inc Ordinary Shares,U
 EABPF,Energy Absolute Pub Co Ltd. Units Non-Voting Depositary Receipt (Thailand),U
+EAC,Edify Acquisition Corp. Class A Common Stock,NASDAQ
 EACC,"eAutoclaims, Inc. Common Stock",U
 EACO,EACO Corporation Common Stock,U
 EACPU,Edify Acquisition Corp. Units,NASDAQ
+EACPW,Edify Acquisition Corp. Warrant,NASDAQ
 EACTF,Earth Alive Clean Technologies Inc Ordinary Shares (Canada),U
 EAD,Wells Fargo Income Opportunities Fund,AMEX
 EADSF,Airbus SE Ordinary Shares,U
@@ -1734,7 +1735,6 @@ EAWD,ENERGY & WTR DEV CORP Common Stock,U
 EAXR,EALIXIR INC Common Stock,U
 EB,"Eventbrite, Inc. Class A Common Stock",NYSE
 EBAY,eBay Inc. Common Stock,NASDAQ
-EBAYL,eBay Inc. 6.0% Notes Due 2056,NASDAQ
 EBBGF,Enbridge Inc Cum Redeemable Pref Shares Series 1 (Canada),U
 EBBNF,Enbridge Inc Cum Redeemable Pref Shs Ser L (Canada),U
 EBC,"Eastern Bankshares, Inc. Common Stock",NASDAQ
@@ -2385,7 +2385,9 @@ EPGNF,EPIGENOMICS AG Ordinary Shares,U
 EPGNY,Epigenomics Ag Berlin American Depositary Receipts - Sponsored,U
 EPGRQ,Environmental Power Corporation New Common Stock,U
 EPHE,iShares MSCI Philippines ETF,ARCA
+EPHY,Epiphany Technology Acquisition Corp. Class A Common Stock,NASDAQ
 EPHYU,Epiphany Technology Acquisition Corp. Unit,NASDAQ
+EPHYW,Epiphany Technology Acquisition Corp. Warrant,NASDAQ
 EPI,WisdomTree India Earnings Fund ETF,ARCA
 EPIX,ESSA Pharma Inc. Common Stock,NASDAQ
 EPKAF,Epiroc Aktiebolag Ordinary Shares (Sweden),U
@@ -2416,7 +2418,9 @@ EPU,iShares MSCI Peru ETF,ARCA
 EPV,ProShares UltraShort FTSE Europe,ARCA
 EPWCF,Empower Clinics Inc Ordinary Shares,U
 EPWDF,Electric Power Development Co EPDC Ordinary Shares (Japan),U
+EPWR,Empowerment & Inclusion Capital I Corp.,NYSE
 EPWR U,"Empowerment & Inclusion Capital I Corp. Units, each consisting of one share of Class A common stock",NYSE
+EPWR WS,"Empowerment & Inclusion Capital I Corp. Redeemable warrants, each whole warrant exercisable for one",NYSE
 EPXY,"EPOXY, INC. Common Stock",U
 EPYFF,E-Play Digital Inc Ordinary Shares,U
 EPZM,"Epizyme, Inc. Common Stock",NASDAQ
@@ -2490,7 +2494,7 @@ ERIAF,Telefon AB LM Ericsson Shares A (Sweden),U
 ERIC,Ericsson American Depositary Shares,NASDAQ
 ERIE,Erie Indemnity Company Class A Common Stock,NASDAQ
 ERII,"Energy Recovery, Inc. Common Stock",NASDAQ
-ERILF,Empire Inds Ltd New Ordinary Shares (Canada),U
+ERILF,Dynamic Technologies Group Inc Ordinary Shares,U
 ERINQ,Erin Energy Corp Common Stock,U
 ERIXF,Telefon AB LM Ericsson Ordinary Shares Class B (Sweden),U
 ERJ,Embraer S.A.,NYSE
@@ -3512,7 +3516,7 @@ FLYE,Intl Jet Engine Supply Inc Common Stock,U
 FLYLF,"Flyht Aerospace Solutions, Inc. Ordinary Shares",U
 FLYT,Direxion Flight to Safety Strategy ETF,ARCA
 FLZA,Franklin FTSE South Africa,ARCA
-FM,iShares MSCI Frontier 100 Fund,ARCA
+FM,iShares MSCI Frontier and Select EM ETF,ARCA
 FMAC,FirstMark Horizon Acquisition Corp.,NYSE
 FMAC U,"FirstMark Horizon Acquisition Corp. Units, each consisting of one share of Class A common stock and",NYSE
 FMAC WS,"FirstMark Horizon Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one shar",NYSE
@@ -3872,6 +3876,7 @@ FRTIF,Fortress Income Fund Ltd Ordinary Shares (South Africa),U
 FRTN,Fortran Corporation Common Stock,U
 FRTT,FORTITUDE GOLD CORP COM,U
 FRTXF,Fortnox AB Ordinary Shares (Sweden),U
+FRTY,Alger Mid Cap 40 ETF,ARCA
 FRUTF,Frutarom Industries 1995 Ltd Ordinary Shares,U
 FRWDF,Fairwood Holdings Ltd Ordinary Shares (Bermuda),U
 FRX,Forest Road Acquisition Corp.,NYSE
@@ -3978,6 +3983,7 @@ FTDR,"frontdoor, inc. Common Stock",NASDAQ
 FTEC,Fidelity MSCI Information Technology Index ETF,ARCA
 FTEG,For The Earth Corporation Common Stock,U
 FTEK,"Fuel Tech, Inc. Common Stock",NASDAQ
+FTEV U,"FinTech Evolution Acquisition Group Units, each consisting of one Class A Ordinary Share, and one-th",NYSE
 FTF,Franklin Limited Duration Income Trust Common Shrs. of Beneficial Interest,AMEX
 FTFT,Future FinTech Group Inc. Common Stock,NASDAQ
 FTFY,"Fit After Fifty, Inc. Common Stock",U
@@ -5013,7 +5019,6 @@ GRBK,"Green Brick Partners, Inc. Common Stock",NASDAQ
 GRBMF,Grupo Bimbo Sa A Ordinary Shares,U
 GRC,The Gorman-Rupp Company Common Shares,NYSE
 GRCAF,GOLD SPRINGS RESOURCE CORP Ordinary Shares,U
-GRCK,GREY CLOAK TECH INC Common Stock,U
 GRCL,Gracell Biotechnologies Inc. American Depositary Shares,NASDAQ
 GRCLF,Graincorp Limited Shs A Npv Ordinary Shares,U
 GRCO,Greenbelt Resources Corporation Common Stock,U
@@ -5150,7 +5155,9 @@ GSAC,GelStat Corporation Common Stock,U
 GSAH,GS Acquisition Holdings Corp II,NYSE
 GSAH U,"GS Acquisition Holdings Corp II Units, each consisting of one share of Class A Common Stock and one-",NYSE
 GSAH WS,"GS Acquisition Holdings Corp II Redeemable Warrants, each whole warrant exercisable for one share of",NYSE
+GSAQ,Global Synergy Acquisition Corp. Class A Ordinary Shares,NASDAQ
 GSAQU,Global Synergy Acquisition Corp. Units,NASDAQ
+GSAQW,Global Synergy Acquisition Corp. Warrant,NASDAQ
 GSAT,"Globalstar, Inc.",AMEX
 GSBC,"Great Southern Bancorp, Inc. Common Stock",NASDAQ
 GSBD,"Goldman Sachs BDC, Inc.",NYSE
@@ -5337,5 +5344,3 @@ GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U

@@ -226,7 +226,7 @@ ACKDF,Auckland International Airport Ltd Ordinary Shares (New Zealand),U
 ACKIT,Ackrell SPAC Partners I Co. Subunits,NASDAQ
 ACKIU,Ackrell SPAC Partners I Co. Units,NASDAQ
 ACKIW,Ackrell SPAC Partners I Co. Warrants,NASDAQ
-ACKRF,American Creek Resources Ltd Common  Shares (Canada),U
+ACKRF,American Creek Resources Ltd New Common Shares,U
 ACLD,Acquire Ltd Common Stock,U
 ACLLF,Atco Ltd  Cl I Nv Cda Ordinary Shares,U
 ACLS,"Axcelis Technologies, Inc. Common Stock",NASDAQ
@@ -468,7 +468,6 @@ AERG,"Applied Energetics, Inc Common Stock",U
 AERGP,"Applied Energetics, Inc. Series A Convertible Preferred Stock",U
 AERI,"Aerie Pharmaceuticals, Inc. Common Stock",NASDAQ
 AERN,"AER Energy Resources, Inc. Common Stock",U
-AERO,"AeroGrow International, Inc. Common Stock",U
 AERS,Aerius Common Stock,U
 AERZY,PJSC Aeroflot Russian Airlines American Depositary Receipts - Sponsored,U
 AES,AES Corporation,NYSE
@@ -1046,7 +1045,7 @@ ALZPF,Alony Hetz Properties & Investments Ltd Ordinary Shares (Israel),U
 AM,Antero Midstream Corporation Common Stock,NYSE
 AMADF,Amadeus IT Group SA Ordinary Shares,U
 AMADY,Amadeus IT Group SA American Depositary Receipts - Unsponsored,U
-AMAL,Amalgamated Bank Class A Common Stock,NASDAQ
+AMAL,Amalgamated Financial Corp. Common Stock (DE),NASDAQ
 AMANF,Amano Corp Ordinary Shares,U
 AMAR,"Amarillo Biosciences, Inc. Common Stock",U
 AMAT,"Applied Materials, Inc. Common Stock",NASDAQ
@@ -1160,6 +1159,7 @@ AMPE,"Ampio Pharmaceuticals, Inc",AMEX
 AMPG,"Amplitech Group, Inc. Common Stock",NASDAQ
 AMPGW,"Amplitech Group, Inc. Warrants",NASDAQ
 AMPH,"Amphastar Pharmaceuticals, Inc. Common Stock",NASDAQ
+AMPI U,"Advanced Merger Partners, Inc. Units, each consisting of one share of Class A common stock and one-s",NYSE
 AMPO,Amperico Corp Com,U
 AMPY,Amplify Energy Corp.,NYSE
 AMPYW,Amplify Energy Corp. Warrant,U
@@ -1646,6 +1646,7 @@ ARZTY,"Aryzta Ag, Zuerich Unsponsored ADR (Switzerland)",U
 ASA,ASA GOLD AND PRECIOUS METALS LIMITED,NYSE
 ASAAF,At& S Austria Technologie & & SystemTechnik AG Leoben (Austria),U
 ASAGF,Australian Agricultural Co Ordinary Shares,U
+ASAI WI,Sendas Distribuidora S.A. American Depositary Share (each representing one Common Share),NYSE
 ASAIF,Artificial Solutions International AB Ordinary Shares (Sweden),U
 ASAM,AssuranceAmerica Corporation Common Stock,U
 ASAN,"Asana, Inc. Class A Common Stock",NYSE
@@ -1667,7 +1668,6 @@ ASBFF,Associated British Foods Plc Ordinary Shares,U
 ASBFY,Associated British Foods Plc American Depositary Shares,U
 ASBIF,ASIT BIOTECH S A Ordinary Shares (Belgium),U
 ASBRF,Asahi Group Holdings Ltd Ordinary Shares (Japan),U
-ASBRY,Asahi Group Holdings Ltd Unsponsored ADR (Japan),U
 ASC,ARDMORE SHIPPING CORPORATION,NYSE
 ASCBQ,"Ascendia Brands, Inc Common Stock",U
 ASCC,Aristocrat Group Corp Common Stock,U
@@ -2582,7 +2582,6 @@ BENE,Benessere Capital Acquisition Corp. Class A Common Stock,NASDAQ
 BENER,Benessere Capital Acquisition Corp. Right,NASDAQ
 BENEU,Benessere Capital Acquisition Corp. Unit,NASDAQ
 BENEW,Benessere Capital Acquisition Corp. Warrant,NASDAQ
-BENGF,Sky & Space Global Ltd Ordinary Shares,U
 BENH,Bio-En Holdings Corp. Common Stock,U
 BENZF,Benz Mng Corp Ordinary Shares (Canada),U
 BEOB,BEO Bancorp (OR) Common Stock,U
@@ -3006,7 +3005,9 @@ BLSTF,Blackstone Minerals Ltd Common Stock (Australia),U
 BLSYF,BELLSYSTEM24 HLDGS INC Ordinary Shares,U
 BLTHF,Blis Technologies Ltd Ordinary Shares (New Zealand),U
 BLTMF,BLUE THUNDER MNG INC Common Shares,U
+BLTS,Bright Lights Acquisition Corp. Class A Common Stock,NASDAQ
 BLTSU,Bright Lights Acquisition Corp. Unit,NASDAQ
+BLTSW,Bright Lights Acquisition Corp. Warrant,NASDAQ
 BLU,BELLUS Health Inc. Common Shares,NASDAQ
 BLUA U,"BlueRiver Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-third of a",NYSE
 BLUBF,Blue Ribbon Income Fund Units (Canada),U
@@ -3947,6 +3948,7 @@ CBCY,Central Bancompany Unclassified,U
 CBCYB,Central Bancompany Class B Non-Voting Common Stock,U
 CBCZ,Comunibanc Corp Common Stock,U
 CBD,Companhia Brasileira de Distribuicao,NYSE
+CBD WI,Companhia Brasileira de Distribuicao American Depositary Shares (Each representing one Common Share),NYSE
 CBDC,"Apotheca Biosciences, Inc. Common Stock",U
 CBDD,"CBD of Denver, Inc. Common Stock",U
 CBDEF,BLUENRGY GROUP LTD Ordinary Shares,U
@@ -4587,6 +4589,8 @@ CHPM,CHP Merger Corp. Class A Common Stock,NASDAQ
 CHPMU,CHP Merger Corp. Unit,NASDAQ
 CHPMW,CHP Merger Corp. Warrant,NASDAQ
 CHPRF,"Champion Iron, Ltd. Ordinary Shares (Australia)",U
+CHPT,"ChargePoint Holdings, Inc.",NYSE
+CHPT WS,"ChargePoint Holdings, Inc. Warrants, exercisable for one share of Common Stock",NYSE
 CHPXF,China Pacific Insurance Group Co Ltd Shares -H- (Hong Kong),U
 CHPXY,China Pacific Insurance Group Co Ltd Unsponsored American Depository Receipt (China),U
 CHRA,"Charah Solutions, Inc Common Stock",NYSE
@@ -5284,7 +5288,7 @@ COMM,"CommScope Holding Company, Inc. Common Stock",NASDAQ
 COMRF,Comet Ridge Ltd Ordinary Shares (Australia),U
 COMS,ComSovereign Holding Corp. Common Stock,NASDAQ
 COMSW,ComSovereign Holding Corp. Warrants,NASDAQ
-COMT,iShares U.S. ETF Trust iShares Commodities Select Strategy ETF,NASDAQ
+COMT,iShares U.S. ETF Trust iShares GSCI Commodity Dynamic Roll Strategy ETF,NASDAQ
 CONC,ConectiSys Corporation Common Stock,U
 CONE,CyrusOne Inc Common Stock,NASDAQ
 CONIF,"Celltrion, Inc. Ordinary Shares (South Korea)",U

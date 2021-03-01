@@ -1,4 +1,9 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHMP,NaturalShrimp Incorporated Common Stock,U
+SHMSY,Shimao Services Holdings Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
+SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
+SHMUF,Shimizu Corp Ord Ordinary Shares,U
+SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
@@ -560,7 +565,7 @@ SNMBQ,Sona Mobile Holdings Corp. Common Stock,U
 SNMCY,Suncorp Group Ltd American Depositary Receipts - Sponsored,U
 SNMMF,SUNRISE COMMUNICATIONS GROUP LTD Ordinary Shares (Switzerland),U
 SNMN,SNM Global Holdings Common Stock,U
-SNMP,Sanchez Midstream Partners LP,AMEX
+SNMP,Evolve Transition Infrastructure LP,AMEX
 SNMRF,Snam SPA Ordinary Shares (Italy),U
 SNMRY,Snam S.p.A Unsponsored ADR (Italy),U
 SNMSF,SPIN MASTER CORP Ordinary Shares Sub Vtg (Canada),U
@@ -836,6 +841,7 @@ SPND,Spindletop Oil & Gas Co Common Stock,U
 SPNE,SeaSpine Holdings Corporation Common Stock,NASDAQ
 SPNRF,Sparton Resources Inc (F) Ordinary Shares,U
 SPNS,Sapiens International Corporation N.V. Common Shares (Cayman Islands),NASDAQ
+SPNT,SiriusPoint Ltd.,NYSE
 SPNUF,Spirent plc Ordinary Shares,U
 SPNV,"Supernova Partners Acquisition Company, Inc.",NYSE
 SPNV U,"Supernova Partners Acquisition Company, Inc. Units, each consisting of one share of Class A common s",NYSE
@@ -1420,7 +1426,7 @@ SUTNY,"Sumitomo Mitsui Trust Holdings, Inc. Sponsored American Depository Receip
 SUUB,"Sub-Urban Brands, Inc. Common Stock",U
 SUUIF,Superior Plus Corp. Ordinary Shares (Canada),U
 SUVPF,Sartorius Ag Preferred Stock,U
-SUVRF,Modern Meat Inc. Ordinary Shares,U
+SUVRF,MODERN PLT BASED FOODS INC Ordinary Shares,U
 SUVZ,Suvanza Common Stock,U
 SUWN,"Sunwin Stevia International, Inc. Common Stock",U
 SUWTF,Sun Wa Technos Corp SHS (Japan),U
@@ -1502,7 +1508,9 @@ SVYSF,Solvay Et Cie Sa A Shs Ordinary Shares,U
 SWAN,Amplify BlackSwan Growth & Treasure Core ETF,ARCA
 SWAV,"ShockWave Medical, Inc. Common Stock",NASDAQ
 SWBI,"Smith & Wesson Brands, Inc. Common Stock",NASDAQ
+SWBK,Switchback II Corporation,NYSE
 SWBK U,"Switchback II Corporation Units, each consisting of one Class A ordinary share and one fifth of one",NYSE
+SWBK WS,"Switchback II Corporation Warrants, exercisable for one share of Class A Ordinary Share",NYSE
 SWCC,Southwest Casino Corporation Common Stock,U
 SWCH,"Switch, Inc. Class A Common Stock",NYSE
 SWCKF,Swick Mining Services Ltd Ordinary shares (Australia),U
@@ -1917,6 +1925,7 @@ TECL,Direxion Daily Technology Bull 3x Shares,ARCA
 TECO,Treaty Energy Corporation Common Stock,U
 TECS,Direxion Daily Technology Bear 3x Shares,ARCA
 TECTP,"Tectonic Financial, Inc. 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",NASDAQ
+TECXF,TECHX TECHNOLOGIES INC Common Shares,U
 TEDU,"Tarena International, Inc. American Depositary Shares",NASDAQ
 TEF,"Telefonica, S.A.",NYSE
 TEFOF,Telefonica SA Ordinary Shares (Spain),U
@@ -1975,8 +1984,6 @@ TFACF,"Treasure Factory Co Ltd, Tokyo Ordinary Shares  (Japan)",U
 TFAOF,Telefonica Czech Republic AS Ordinary Shares (Czech Republic),U
 TFBN,TFN Football Network (The) Common Stock,U
 TFC,Truist Financial Corporation,NYSE
-TFC PRF,"Truist Financial Corporation Depositary Shares each representing 1/1,000th interest in a share of Se",NYSE
-TFC PRG,"Truist Financial Corporation Depositary Shares each representing 1/1,000th interest in a share of Se",NYSE
 TFC PRH,"Truist Financial Corporation Depositary Shares, each representing a 1/1,000th interest in a share of",NYSE
 TFC PRI,"Truist Financial Corporation Depositary Shares, each representing 1/4,000th interest in a share of S",NYSE
 TFC PRO,"Truist Financial Corporation Depositary Shares, Each Representing a 1/1,000th Interest in a  Share o",NYSE
@@ -2009,7 +2016,6 @@ TGASF,Towngas China Co Ltd Ordinary Shares (Caymen Islands) HKD,U
 TGASY,Towngas China Co Ltd Unsponsored ADR (Cayman Island),U
 TGB,Taseko Mines Limited,AMEX
 TGBMF,Taiwan Cement Corp Ordinary Shares Taiwan (TW),U
-TGC,"Tengasco, Inc.",AMEX
 TGCB,TEGO CYBER INC Common Stock,U
 TGCM,"Trans-Global Capital Management, Inc. Common Stock",U
 TGDLF,TONGDAO LIEPIN GROUP Ordinary Shares,U
@@ -2043,7 +2049,6 @@ TGOPF,3i Group Plc Ordinary shares (United Kingdom),U
 TGOPY,3i Group Plc Unsponsored ADR (UK),U
 TGOSF,Toyoda Gosei Co Ltd Ord Ordinary Shares,U
 TGOSY,Toyoda Gosei Co Ltd Ord Unsponsored ADR (Japan),U
-TGOWF,Green Organic Dutchman Holdings Ltd Warrant Exp 02/28/2021 (Canada),U
 TGP,Teekay LNG Partners L.P.,NYSE
 TGP PRA,"Teekay LNG Partners L.P  9.00% Series A Cumulative Redeemable Perpetual Preferred Units, representin",NYSE
 TGP PRB,Teekay LNG Partners L.P. 8.50% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Prefe,NYSE
@@ -2353,7 +2358,9 @@ TMICF,Trend Micro Incorporated Ordinary Shares,U
 TMICY,Trend Micro Incorporated American Depositary Shares,U
 TMIN,Trendmaker Inc Limited Common Stock,U
 TMIX,"Tarsin Mobile, Inc. Common Stock",U
+TMKR,Tastemaker Acquisition Corp. Class A Common Stock,NASDAQ
 TMKRU,Tastemaker Acquisition Corp. Unit,NASDAQ
+TMKRW,Tastemaker Acquisition Corp. Warrant to purchase Class A common stock,NASDAQ
 TMKUF,"Tomoku Co Ltd, SHS (Japan)",U
 TMLL,Tele Group Corp. Common Stock,U
 TMLVF,Tamerlane Ventures Inc Common Shares (Canada),U
@@ -2566,7 +2573,6 @@ TPPPF,Triple P N.V. Common Shares (Netherlands),U
 TPPRF,Top Strike Res Corp Ordinary Shares (Canada),U
 TPPTY,TPG TELECOM LTD American Depositary Receipts - Unsponsored (Australia),U
 TPR,"Tapestry, Inc. Common Stock",NYSE
-TPRE,THIRD POINT REINSURANCE LTD.,NYSE
 TPRFF,Gran Colombia Gold Corp. Ordinary Shares,U
 TPRKY,Travis Perkins PLC Sponsored ADR (United Kingdom),U
 TPRP,Tower Properties Company New Common Stock,U
@@ -2599,6 +2605,7 @@ TRBMF,Torq Resources Inc. Common Shares,U
 TRBO,"Turbo Global Partners, Inc. Common Stock",U
 TRBX,"TRB Systems International, Inc. Common Stock",U
 TRC,Tejon Ranch Co.,NYSE
+TRCA U,"Twin Ridge Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-th",NYSE
 TRCH,"Torchlight Energy Resources, Inc. Common Stock",NASDAQ
 TRCK,"Track Group, Inc. Common Stock",U
 TRCLF,"Trans Cosmos, Inc. Ordinary Shares (Japan)",U
@@ -2799,6 +2806,7 @@ TSOI,"Therapeutic Solutions International, Inc. Common Stock",U
 TSPCF,CLEANAWAY WASTE MGMT LTD Ordinary Shares,U
 TSPG,TGI Solar Power Group Inc Common Stock,U
 TSPPF,Torishima Pump Mfg Co Ordinary Shares (Japan),U
+TSPQ U,"TCW Special Purpose Acquisition Corp. Units, each consisting of one share of Class A common stock an",NYSE
 TSQ,"TOWNSQUARE MEDIA, INC.",NYSE
 TSRI,"TSR, Inc. Common Stock",NASDAQ
 TSRMF,Treasury Metals Inc Common Shares,U
@@ -2905,7 +2913,6 @@ TUFUF,Thai Union Group PLC Ltd Depositary Receipts,U
 TUGHF,Tungtex Holding Ordinary Shares,U
 TUIFF,TUI AG Namen AKT (Germany) EUR,U
 TUIFY,TUI AG Unsponsored ADR representing Namen AKT (Germany),U
-TULLF,TP Icap PLC Ordinary Shares,U
 TUMIF,KINGSMEN RES LTD  Common Shares,U
 TUOAF,TUFTON OCEANIC ASSETS LTD Ordinary Shares (Guernsey),U
 TUP,Tupperware Brands Corporation,NYSE
@@ -4022,7 +4029,6 @@ VRDSF,Viridis Hldgs Corp Ordinary Shares,U
 VRED,Virtual Ed Link Inc Common Stock,U
 VREOF,Vireo Health International Inc Common Shares (Canada),U
 VREX,Varex Imaging Corporation Common Stock,NASDAQ
-VREYF,Torc Oil & Gas Ltd. Oridinary Shares (Canada),U
 VRGFF,Vanguard Funds PLC USD TREAS BD UCITS ETF USD ACCUM Exchange Traded Fund  Ireland(IE ),U
 VRIG,Invesco Actively Managed Exchange-Traded Fund Trust Invesco Variable Rate Investment Grade ETF,NASDAQ
 VRM,"Vroom, Inc. Common Stock",NASDAQ
@@ -4622,7 +4628,6 @@ WQNI,"WQN, Inc. Common Stock",U
 WQTEF,Weiqiao Textile Company Ltd Shs H (China),U
 WRAP,"Wrap Technologies, Inc. Common Stock",NASDAQ
 WRB,W.R. Berkley Corporation,NYSE
-WRB PRC,W.R. Berkley Corporation 5.900% Subordinated Debentures due 2056,NYSE
 WRB PRD,W.R. Berkley Corporation5.75% Subordinated Debentures due 2056,NYSE
 WRB PRE,W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058,NYSE
 WRB PRF,W.R. Berkley Corporation 5.10% Subordinated Debentures due 2059,NYSE
@@ -4858,7 +4863,6 @@ XJH,iShares ESG Screened S&P Mid-Cap ETF,BATS
 XJNGF,Xinjiang Goldwind Science Ordinary Shares H (China),U
 XJR,iShares ESG Screened S&P Small-Cap ETF,BATS
 XL,XL Fleet Corp.,NYSE
-XL WS,"XL Fleet Corp. Redeemable Warrants, each whole warrant exercisable for shares of Class A common stoc",NYSE
 XLB,Materials Select Sector SPDR Fund,ARCA
 XLC,The Communication Services Select Sector SPDR Fund,ARCA
 XLE,Energy Select Sector SPDR Fund,ARCA
