@@ -1087,7 +1087,9 @@ DGWPF,"Draegerwerk Ag & Co., KGAA Ordinary Shares (Germany Federal Republic)",U
 DGWR,"Deep Green Waste & Recycling, Inc. Common Stock",U
 DGX,Quest Diagnostics Inc.,NYSE
 DGZ,"DB Gold Short ETN due February 15, 2038",ARCA
+DHBCU,DHB Capital Corp. Unit,NASDAQ
 DHC,Diversified Healthcare Trust Common Shares of Beneficial Interest,NASDAQ
+DHCAU,DHC Acquisition Corp. Unit,NASDAQ
 DHCC,Diamondhead Casino Corporation Common Stock,U
 DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,NASDAQ
 DHCNL,Diversified Healthcare Trust 6.25% Senior Notes Due 2046,NASDAQ
@@ -1483,6 +1485,7 @@ DSITF,Dixons Carphone Plc Ordinary Shares (United Kingdom),U
 DSJA,Innovator Double Stacker ETF - January,BATS
 DSKE,"Daseke, Inc. Common Stock",NASDAQ
 DSKEW,"Daseke, Inc. Warrant",NASDAQ
+DSKGF,DUSK GROUP LTD Ordinary Shares,U
 DSKIF,Daiseki Co Ltd Ordinary Shares (Japan),U
 DSKYF,Daiichi Sankyo Co Ltd Ordinary Shares (Japan),U
 DSL,DOUBLELINE INCOME SOLUTIONS FUND,NYSE
@@ -2521,6 +2524,7 @@ ERUC,"ER Urgent Care Holdings, Inc. New Common Stock",U
 ERUS,iShares MSCI Russia ETF,ARCA
 ERVFF,Erin Ventures Inc Ordinary Shares,U
 ERX,Direxion Daily Energy Bull 2X Shares,ARCA
+ERXCF,EREX CO LTD Ordinary Shares,U
 ERY,Direxion Daily Energy Bear 2X Shares,ARCA
 ERYP,Erytech Pharma S.A. American Depositary Shares,NASDAQ
 ES,Eversource Energy,NYSE
@@ -2710,7 +2714,6 @@ EUTLF,Eutelsat Communications Ordinary Shares (France),U
 EUUNF,Azarga Metals Corporation Ordinary Shares,U
 EUXTF,Euronext NV Ordinary Shares Euronext N.V. (Netherlands),U
 EUZOF,Eurazeo Paris Ordinary Shares (France),U
-EV,Eaton Vance Corp.,NYSE
 EVA,"Enviva Partners, LP",NYSE
 EVAHF,EGF THERAMED HEALTH CORP Ordinary Shares,U
 EVAI,"Elva International, Inc. Common Stock",U
@@ -2969,7 +2972,7 @@ FATE,"Fate Therapeutics, Inc. Common Stock",NASDAQ
 FATLF,FATTAL HLDGS 1998 LTD Common Shares Israel(IL ),U
 FAUG,FT Cboe Vest U.S. Equity Buffer ETF - August,BATS
 FAURY,FAURECIA SE American Depositary Receipts - Unsponsored,U
-FAVO,"Favo Realty, Inc. Common Stock",U
+FAVO,FAVO CAP INC Common Stock,U
 FAX,"Aberdeen Asia-Pacific Income Fund, Inc.",AMEX
 FAXRF,Fairfax Financial Holdings Ltd Cumulative Pfd Shs Ser G (Canada),U
 FAXXF,Fairfax Financial Holdings Ltd Cumulative Pfd Shs Ser H (Canada),U
@@ -2999,6 +3002,7 @@ FBIOP,"Fortress Biotech, Inc. 9.375% Series A Cumulative Redeemable Perpetual Pr
 FBIP,"FNB Bancorp, Inc. (Newtown, PA) Common Stock",U
 FBIZ,"First Business Financial Services, Inc. Common Stock",NASDAQ
 FBK,FB Financial Corporation,NYSE
+FBKIF,First International Bank of Israel Ordinary Shares (Israel),U
 FBLQ,"Football Equities, Inc. Common Stock",U
 FBLV,First Bancorp Inc Lebanon VA CDT-CAP STK,U
 FBMCF,Buffalo Coal Corp. Ordinary Shares (Canada),U
@@ -4280,6 +4284,7 @@ GBOOY,"Grupo Financiero Banorte, S.A.B. De C.V Sponsored ADR (Mexico)",U
 GBOX,Greenbox POS Common Stock,NASDAQ
 GBPT,"Globe Photos, Inc.   Common Stock",U
 GBR,New Concept Energy Inc,AMEX
+GBRGU,Goldenbridge Acquisition Limited Unit,NASDAQ
 GBRIF,Golden Band Resources Inc (F) Ordinary Shares,U
 GBRRF,Gabriel Resources Ltd Ordinary Shares,U
 GBS,GBS Inc. Common Stock,NASDAQ
@@ -4799,6 +4804,7 @@ GMS,GMS Inc.,NYSE
 GMSC,Grand Entertainment & Music Inc. New Common Stock,U
 GMSQF,GAMESQUARE ESPORTS INC Ordinary Shares,U
 GMTA,GATX Corporation 5.625% Senior Notes 5/30/2066,NYSE
+GMTNF,GOLD MTN MNG CORP COM (Canada),U
 GMTU,"Green Mountain Merger, Inc. Common Stock",U
 GMTX,"Gemini Therapeutics, Inc. Common Stock",NASDAQ
 GMUAF,Gamuda Bhd Ordinary Shares (Malaysia),U
@@ -5343,4 +5349,3 @@ GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
-GWB,"Great Western Bancorp, Inc.",NYSE

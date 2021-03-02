@@ -1,4 +1,10 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
+MTH,Meritage Homes Corporation,NYSE
+MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
+MTHRF,"M3, Inc. Ordinary Shares (Japan)",U
+MTHRY,"M3, INC.  American Depositary Receipts - Unsponsored  Japan(JP )",U
+MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE
 MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
 MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U
 MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U
@@ -358,6 +364,7 @@ NCWAF,Nichiwa Sangyo Co Ltd Ordinary Shares,U
 NCXS,"NBC Bancorp, Inc. Common Stock",U
 NCZ,Virtus AllianzGI Convertible & Income Fund II,NYSE
 NCZ PRA,Virtus AllianzGI Convertible & Income Fund II 5.50% Series A Cumulative Preferred Shares,NYSE
+NDACU,NightDragon Acquisition Corp. SCALE Units,NASDAQ
 NDAQ,"Nasdaq, Inc. Common Stock",NASDAQ
 NDBKF,Nedbank Group Limited Ordinary Shares (South Africa),U
 NDBKY,Nedbank Group Limited Sponsored ADR (South Africa),U
@@ -721,7 +728,6 @@ NMR,"Nomura Holdings, Inc",NYSE
 NMRD,"Nemaura Medical, Inc. Common Stock",NASDAQ
 NMREF,Namibia Critical Metals Inc Common Shares,U
 NMRK,"Newmark Group, Inc. Class A Common Stock",NASDAQ
-NMRPF,National Milk Records Plc Common Stock (United Kingdom),U
 NMS,Nuveen Minnesota Quality Municipal Income Fund,NYSE
 NMSCA,Nutrition Management Services Company Class A,U
 NMSEF,Namaste Technologies Inc Ordinary Shares (Canada) Warrant 10/23/2023,U
@@ -885,6 +891,7 @@ NPSGY,Nippon Sheet Glass Co Ltd Unsponsored ADR (Japan),U
 NPSKF,N S K Ltd Ord Ordinary Shares,U
 NPSKY,N S K Ltd Ord American Depositary Shares,U
 NPSNY,Naspers Limited American Depositary Receipts - Sponsored,U
+NPSYF,NIPPON SYSTEM DEVELOPMENT CO LTD Ordinary Shares,U
 NPTH,Northern Potash Co. Common Stock,U
 NPTN,NEOPHOTONICS CORP,NYSE
 NPTVF,Nippon T V Network Ordinary Shares,U
@@ -1009,6 +1016,8 @@ NSSXF,NS Solutions Corp Tokyo Ordinary Shares (Japan),U
 NSTB,Northern Star Investment Corp. II,NYSE
 NSTB U,"Northern Star Investment Corp. II Units, each consisting of one share of Class A common stock and on",NYSE
 NSTB WS,"Northern Star Investment Corp. II Redeemable warrants, each whole warrant exercisable for shares of",NYSE
+NSTC U,"Northern Star Investment Corp. III Units, each consisting of one share of Class A common stock and o",NYSE
+NSTD U,"Northern Star Investment Corp. IV Units, each consisting of one share of Class A common stock and on",NYSE
 NSTG,"NanoString Technologies, Inc. Common Stock",NASDAQ
 NSTKF,Novatek Joint Stock Company Ordinary Shares (Russia),U
 NSTM,NovelStem International Corp. Common Stock,U
@@ -1478,6 +1487,7 @@ OHBK,Old Harbor Bank (FL) Common Stock,U
 OHBTF,OHB SE Ordinary Shares,U
 OHI,Omega Healthcare Investors Inc.,NYSE
 OHMGF,Ohmoto Gumi Co Ltd Ordinary Shares (Japan),U
+OHPAU,Orion Acquisition Corp. Unit,NASDAQ
 OHPB,Ohana Pacific Bank (HI) Common Stock,U
 OHTR,Oasis Hotel Resort & Casino - I Inc Common Stock,U
 OI,"O-I Glass, Inc.",NYSE
@@ -2638,6 +2648,7 @@ PLYZ,Plyzer Technologies Inc. Common Stock,U
 PM,Philip Morris International Inc.,NYSE
 PMAH,"PlasmaTech, Inc. Common Stock",U
 PMAR,Innovator S&P 500 Power Buffer ETF - March,BATS
+PMAUF,Premier Investments Ltd Ordinary Shares,U
 PMAY,Innovator S&P 500 Power Buffer ETF - May,BATS
 PMBC,Pacific Mercantile Bancorp Common Stock,NASDAQ
 PMBPF,Pembina Pipeline Corporation Reduced Rate Reset Preferred Class A Series 7 (Canada),U
@@ -3174,6 +3185,7 @@ PTBBU,POET BIOREFINING LLC Unit,U
 PTBD,Pacer Trendpilot US Bond ETF,ARCA
 PTBFF,PT BEKASI FAJAR INDL ESTATE TBK Ordinary Shares,U
 PTBKF,PT Surya Citra Media TBK Ordinary Shares Indonesia(ID ),U
+PTBLF,"PT BUANA LISTYA TAMA TBK, JAKARTA Ordinary Shares",U
 PTBPF,"PT BANK PEMB DAER JAWA BAR BPD JABAR, SHS SERIES B (Indonesia)",U
 PTBRY,Pt Bank Negara Indonesia (Persero) Unsponsored ADR (Indonesia),U
 PTBS,Potomac Bancshares Inc Common Stock,U
@@ -3219,6 +3231,7 @@ PTIX,"Protagenic Therapeutics, Inc. Common Stock",U
 PTIZF,PT Indo Tambangraya Megah Ordinary Shares (Indonesia),U
 PTJSF,PT Jasa Marga (Persero) TBK Ordinary Shares Series B (Indonesia),U
 PTJSY,PT Jasa Marga (Persero) TBK Unsponsored ADR (Indonesia),U
+PTJTF,PT JASUINDO TIGA PERKASA TBK Ordinary Shares,U
 PTJYF,Pt Jaya Real Property TBK Ordinary Shares (Indonesia),U
 PTK,PTK Acquisition Corp.,AMEX
 PTK U,"PTK Acquisition Corp. Units, each consisting of one share of Common Stock, and one Warrant to acquir",AMEX
@@ -3839,7 +3852,7 @@ RDLYF,READLY INTL AB Ordinary Shares,U
 RDML,"Red Mile Entertainment, Inc. Common Stock",U
 RDMR,Road Marshall Inc Common Stock,U
 RDN,Radian Group Inc.,NYSE
-RDNAF,"Routemaster Capital, Ltd. Ordinary Shares",U
+RDNAF,DEFI TECHNOLOGIES INC Ordinary Shares,U
 RDNT,"RadNet, Inc. Common Stock",NASDAQ
 RDOG,ALPS REIT Dividend Dogs ETF,ARCA
 RDOIF,Rodinia Oil Corp. Ordinary Shares (Canada),U
@@ -4834,7 +4847,6 @@ SCE PRJ,SCE TRUST IV 5.375% Fixed-to-Floating Rate Trust Preference Securities,N
 SCE PRK,SCE TRUST V,NYSE
 SCE PRL,SCE TRUST VI 5.00% Trust Preference Securities,NYSE
 SCEDF,Scholar Ed Group Ordinary Shares (Cayman Islands),U
-SCEXF,Saracen Mineral Holdings Limited Ordinary Shares (Austrailia),U
 SCEYF,SOURCE ENERGY SERVICES LTD Ordinary Shares,U
 SCFFF,Spot Coffee Ltd Ordinary Shares (Canada),U
 SCFLF,SCHAEFFLER AG Schaeffler Ag Inh.Vzo (Germany),U
@@ -5337,10 +5349,3 @@ SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
 SHLOQ,"Shiloh Industries, Inc. Common Stock",U
 SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
 SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
-SHLX,"Shell Midstream Partners, L.P.",NYSE
-SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
-SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
-SHMCF,Renewi PLC Ordinary Shares,U
-SHMDF,Shimano Inds Ordinary Shares,U
-SHMMF,SAHAMIT MACHINERY PCL PUB CO LTD UNITS NON -VOTING DEPOSITORY RECEIPTS (Thailand),U
-SHMN,"SOHM, Inc. Common Stock",U

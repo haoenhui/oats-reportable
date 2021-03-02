@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
@@ -65,7 +66,6 @@ GZIC,GZ6G Technologies Corp. Common Stock,U
 GZITF,Yuexiu Transport Infrastructure Ltd. Ordinary Shares (Bermuda),U
 GZPFY,Gazprom Neft PJSC American Depositary Receipts - Sponsored,U
 GZPHF,Guangzhou Pharmaceutical Co Ltd H Shs Ordinary Shares,U
-GZPMF,Gazprom PJSC Rur Ord Shs Ordinary Shares (Russia),U
 GZPZF,"Gaztransport Technigaz Ordinary Shares Eur 0,01 (France)",U
 GZPZY,Gaztransport & Tecnigaz American Depository Receipt (France),U
 GZTGF,GAZIT GLOBE LTD Ordinary Shares,U
@@ -915,6 +915,7 @@ HVRRY,Hannover Rueckversicherung SE American Depositary Shares,U
 HVT,"Haverty Furniture Companies, Inc.",NYSE
 HVT A,"Haverty Furniture Companies, Inc. Class A",NYSE
 HVYB,"Home Valley Bancorp, Inc. (Grants Pass, Oregon) Common Stock",U
+HWAFF,HWA FONG RUBBER THAILAND PUB CO LTD NVDR SHARES Depositary Receipts,U
 HWAL,Hollywall Entertainment  Inc. Common Stock,U
 HWBK,"Hawthorn Bancshares, Inc. Common Stock",NASDAQ
 HWC,Hancock Whitney Corporation Common Stock,NASDAQ
@@ -950,6 +951,7 @@ HXPN,Harris Exploration Inc. New Common Stock,U
 HXPR,Hispanic Express Inc Common Stock,U
 HXXPY,HEXPOL AB American Depositary Receipts - Unsponsored (Sweden),U
 HY,"HYSTER-YALE MATERIALS HANDLING, INC",NYSE
+HYACU,Haymaker Acquisition Corp. III Unit,NASDAQ
 HYB,"New America High Income Fund, Inc.",NYSE
 HYBB,iShares BB Rated Corporate Bond ETF,ARCA
 HYBE,"Hybrid Energy Holdings, Inc. Common Stock",U
@@ -1738,7 +1740,7 @@ INSW PRA,"International Seaways, Inc. 8.50% Senior Notes due June 30, 2023",NYSE
 INSXF,INSTALLUX SA SHS (France),U
 INT,World Fuel Services Corporation,NYSE
 INTAF,INTACT FINL CORP NON CUM RATE RESET PFD SHS CL A SER 3 Canada(CA ),U
-INTB,"Intelligent Buying, Inc. Common",U
+INTBD,"Sentient Brands Holdings, Inc. Common Stock",U
 INTC,Intel Corporation Common Stock,NASDAQ
 INTEQ,INTELSAT S A Common Stock,U
 INTF,iShares MSCI Intl Multifactor ETF,ARCA
@@ -2021,6 +2023,7 @@ ISNS,"Image Sensing Systems, Inc. Common Stock",NASDAQ
 ISOL,Image Software Inc. Common Stock,U
 ISOLF,Isodiol International Inc. Ordinary Shares,U
 ISON,Isonics Corporation Common Stock,U
+ISOS U,"Isos Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third of",NYSE
 ISPCF,Ishares Plc Shs (Ireland),U
 ISPD,"Interspeed, Inc. Common Stock",U
 ISPFF,ISHARE II PLC Developed Mkts Pt Yld ETF Shs USD (Ireland),U
@@ -2478,6 +2481,7 @@ JHMM,John Hancock Multifactor Mid Cap ETF,ARCA
 JHMS,John Hancock Multifactor Consumer Staples ETF,ARCA
 JHMT,John Hancock Multifactor Technology ETF,ARCA
 JHMU,John Hancock Multifactor Utilities ETF,ARCA
+JHRTF,JOHORE TIN BHD Ordinary Shares,U
 JHS,John Hancock Income Securities Trust Capital Stock,NYSE
 JHSC,John Hancock Multifactor Small Cap ETF,ARCA
 JHX,JAMES HARDIE INDUSTRIES plc.,NYSE
@@ -2665,6 +2669,7 @@ JRVR,"James River Group Holdings, Ltd. Common Shares",NASDAQ
 JRVS,iMine Corporation Common Stock,U
 JSAIY,J Sainsbury Plc Sponsored ADR NEW (UK),U
 JSBL,JS Beauty Land Network Technology Inc Common Stock,U
+JSCP,JPMorgan Short Duration Core Plus ETF,ARCA
 JSCPF,JSR Corporation Ordinary Shares,U
 JSCPY,JSR Corporation Unsponsored ADR (Japan),U
 JSD,NUVEEN SHORT DURATION CREDIT OPPORTUNITIES FUND,NYSE
@@ -3698,7 +3703,9 @@ LIVX,"LiveXLive Media, Inc. Common Stock",NASDAQ
 LIXT,"Lixte Biotechnology Holdings, Inc. Common Stock",NASDAQ
 LIXTW,"Lixte Biotechnology Holdings, Inc. Warrants",NASDAQ
 LIZI,LIZHI INC. American Depositary Shares,NASDAQ
+LJAQ,LightJump Acquisition Corporation Common Stock,NASDAQ
 LJAQU,LightJump Acquisition Corporation Unit,NASDAQ
+LJAQW,LightJump Acquisition Corporation Warrant,NASDAQ
 LJPC,La Jolla Pharmaceutical Company Common Stock,NASDAQ
 LJUIF,SSY GROUP LTD Ordinary Shares (Cayman Islands),U
 LKADF,Link Admin Hldgs LTD Ordinary Shares Australia(AU ),U
@@ -3848,6 +3855,7 @@ LOIMY,"Loomis AB, Solna Unsponsored ADR (Sweden)",U
 LOKB,Live Oak Acquisition Corp. II,NYSE
 LOKB U,"Live Oak Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-th",NYSE
 LOKB WS,"Live Oak Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one share of C",NYSE
+LOKM U,"Live Oak Mobility Acquisition Corp. Units, each consisting of one share of Class A common stock, and",NYSE
 LOMA,"Loma Negra Compania Industrial Argentina Sociedad Anonima American Depositary Shares (ADSs), each re",NYSE
 LOMLF,Lion One Metals Ltd. Ordinary Shares (Canada),U
 LONCF,Loncor Resources Inc. Ordinary Shares,U
@@ -4037,7 +4045,7 @@ LUXE,Emles Luxury Goods ETF,BATS
 LVBX,"LevelBlox, Inc. Common Stock",U
 LVCA,"Lake Victoria Mining Company, Inc. Common Stock",U
 LVCC,Las Vegas Central Reservations Corporation Common Stock,U
-LVCEF,LIVECARE INC COM,U
+LVCE,LIVECARE INC COM,U
 LVCLF,Living Cell Technologies Ltd Ordinary Shares (Australia),U
 LVCLY,Living Cell Technologies Ltd Sponsored ADR (Australia),U
 LVCNF,Leviathan Natural Products Inc Common Stock,U
@@ -4113,6 +4121,7 @@ LYSFY,Leroy Seafood Group Asa Unsponsored ADR (Norway),U
 LYSGF,LYSOGENE SA Ordinary Shares  France(FR ),U
 LYTS,LSI Industries Inc. Common Stock,NASDAQ
 LYV,Live Nation Entertainment Inc.,NYSE
+LYXFF,LYXOR INDEX FUND SICAV SHS LYXOR IND FD DIS TEC E F DR U ETF USD ACC Exchange Traded Fund,U
 LYXIF,Lyxor International Asset Management FCP Units A  (France),U
 LYXMF,Multi Units Luxembourg SICAV Shs Lyxor EU High Rate MWG Bd 3 5Y Dr Acc ETF (Luxembourg),U
 LYXRF,Lyxor International Asset Mgmt CAC 40 Master Unit ETF Units -D- of Distribution (France),U
@@ -4357,6 +4366,7 @@ MCRO,IQ Hedge Macro Tracker,ARCA
 MCRPF,Microport Scientific Corp. Ordinary Shares (Cayman Islands),U
 MCRT,"Microart, Inc. Common Stock",U
 MCRUF,Morgan Advanced Materials Plc Ord Ordinary Shares,U
+MCRXF,MICRO X LTD Ordinary Shares,U
 MCRZF,Mincor Resources NL Shs (Australia),U
 MCS,The Marcus Corporation,NYSE
 MCSHF,Metcash Ltd Ordinary Shares (Australia),U
@@ -4909,6 +4919,7 @@ MMRGF,"Minaurum Gold, Inc. Ordinary Shares (Canada)",U
 MMRTF,Massmart Holdings Ltd Ordinary Shares (South Africa),U
 MMRTY,Massmart Holdings Ltd Unsponsored ADR (South Africa),U
 MMS,"MAXIMUS, Inc.",NYSE
+MMSBF,"MEGMILK SNOW BRAND CO LTD, SAPPORO Ordinary Shares",U
 MMSDF,MacArthur Minerals Ltd Ordinary Shares,U
 MMSGF,Marret Multi-Strategy Income Fund Class A Unit (Canada),U
 MMSHY,MCMILLAN SHAKESPEARE LTD  American Depositary Receipts - Unsponsored (Australia),U
@@ -5338,9 +5349,3 @@ MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
 MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
-MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
-MTH,Meritage Homes Corporation,NYSE
-MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
-MTHRF,"M3, Inc. Ordinary Shares (Japan)",U
-MTHRY,"M3, INC.  American Depositary Receipts - Unsponsored  Japan(JP )",U
-MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE

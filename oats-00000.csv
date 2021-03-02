@@ -160,6 +160,7 @@ ACAC,Acies Acquisition Corp. Class A Ordinary Share,NASDAQ
 ACACU,Acies Acquisition Corp. Unit,NASDAQ
 ACACW,Acies Acquisition Corp. Warrant,NASDAQ
 ACAD,ACADIA Pharmaceuticals Inc. Common Stock,NASDAQ
+ACAHU,Atlantic Coastal Acquisition Corp. Unit,NASDAQ
 ACAI,Safeplus International Holdings Limited Common Stock,U
 ACAN,"Americann, Inc. Common Stock",U
 ACAVF,ACE Aviation Holdings Inc Common Shares (Canada),U
@@ -212,7 +213,6 @@ ACHFF,ARch Biopartners Inc. Ordinary Shares (Canada),U
 ACHKF,ACHIKO AG NAMEN AKT Ordinary Shares,U
 ACHV,"Achieve Life Sciences, Inc. Common Shares",NASDAQ
 ACI,"Albertsons Companies, Inc.",NYSE
-ACIA,"Acacia Communications, Inc. Common Stock",NASDAQ
 ACIC,Atlas Crest Investment Corp.,NYSE
 ACIC U,"Atlas Crest Investment Corp. Units, each consisting of one Class A common stock, and one-third of on",NYSE
 ACIC WS,"Atlas Crest Investment Corp.Redeemable warrants included as part of the units, each whole warrant ex",NYSE
@@ -981,7 +981,7 @@ ALPKF,Alpek SAB DE CV Ordinary Shares Financial Groups & Industrial Retail (Mexi
 ALPMF,Astellas Pharma Inc Ordinary Shares (Japan),U
 ALPMY,Astellas Pharma Inc Unsponsored ADR (Japan),U
 ALPN,"Alpine Immune Sciences, Inc. Common Stock",NASDAQ
-ALPP,Alpine 4 Technologies Ltd. Common Stock,U
+ALPP,"Alpine 4 Holdings, Inc. Common Stock",U
 ALPVN,Alabama Power Company 4.60 Preferred Stock,U
 ALRGF,Antler Gold Inc. Ordinary Shares (Canada),U
 ALRHF,Allreal Holding Ag Zug Reg Shs (Switzerland),U
@@ -1299,6 +1299,7 @@ ANYYY,Aena SME S.A. American Depositary Receipts - Unsponsored,U
 ANZBY,Australia and New Zealand Banking Group Limited Common Stock,U
 ANZFF,Air New Zealand Ltd Ordinary Shares,U
 ANZLY,Air New Zealand Ltd American Depositary Receipts - Sponsored,U
+ANZUU,Anzu Special Acquisition Corp I Units,NASDAQ
 AOA,iShares Core Aggressive Allocation ETF,ARCA
 AOBI,"American Oriental Bioengineering, Inc. Common Stock",U
 AOCIF,Autocanada Inc Common Shares (Canada),U
@@ -1340,7 +1341,7 @@ AOZOF,Aozora Bank Ltd Ordinary Shares,U
 AOZOY,Aozora Bank Ltd Sponsored ADR (Japan),U
 AP,Ampco-Pittsburgh Corp.,NYSE
 AP WS,Ampco-Pittsburgh Corporation Series A Warrants to purchase Shares of common stock,AMEX
-APA,Apache Corporation Common Stock,NASDAQ
+APA,APA Corporation Common Stock,NASDAQ
 APAAF,Appia Energy Corp Ordinary Shares (Canada),U
 APAFF,VanadiumCorp Resource Inc Ordinary Shares,U
 APAJF,APA Group Stapled Security (Australia),U
@@ -1599,6 +1600,7 @@ ARRLF,ALROSA CJSC SHS (Russia),U
 ARRPY,Aeroports de Paris SA American Depositary Receipts - Unsponsored (France),U
 ARRRF,Ardea Res Ltd Ordinary Shares (Australia),U
 ARRT,"Artisan Consumer Goods, Inc. Common Stock",U
+ARRWU,Arrowroot Acquisition Corp. Unit,NASDAQ
 ARRXF,Archer Materials Ltd Ordinary Shares,U
 ARRY,"Array Technologies, Inc. Common Stock",NASDAQ
 ARSC,American Security Resources Corporation Common Stock,U
@@ -1966,6 +1968,7 @@ AUNXF,Fremont Pete Corp Lt Ordinary Shares,U
 AUOTF,AU OPTRONICS CORP SHS (Taiwan),U
 AUOTY,AU Optronics Corp American Depositary Receipts - Sponsored,U
 AUPH,Aurinia Pharmaceuticals Inc Ordinary Shares,NASDAQ
+AURCU,Aurora Acquisition Corp. Unit,NASDAQ
 AURI,"Auri, Inc. New Common Stock",U
 AURQF,Aurelius Minerals Inc Common Shares (Canada),U
 AURT,Attune RTD Common Stock,U
@@ -2971,7 +2974,6 @@ BLKLF,Blackline Safety Corp Ordinary Shares (Canada),U
 BLL,Ball Corporation,NYSE
 BLLB,"Bell Buckle Holdings, Inc. Common Stock",U
 BLLI,"Bell Industries, Inc. (DEL) Common Stock",U
-BLLQF,BELL EQUIPMENT LTD Ordinary Shares (South Africa),U
 BLLRF,Bollore Ordinary Shares (France),U
 BLLSF,BioLight Life Sciences Ltd. Ordinary shares (Israel),U
 BLLXF,Sire Bioscience Inc. Ordinary Shares,U
@@ -3047,6 +3049,7 @@ BME,Blackrock Health Sciences Trust,NYSE
 BMED,BlackRock Future Health ETF,ARCA
 BMEXF,Banco Santander Mexico SA Institucion De Banca Multiple Grupo Financiero Santander Ordinary Shares (Mexico),U
 BMEZ,BlackRock Health Sciences Trust II,NYSE
+BMGCF,BLACK MTN GOLD USA CORP Common Shares,U
 BMGP,Biomagnetics Diagnostics Corporation Common Stock,U
 BMGRF,BMG RES LTD Ordinary Shares,U
 BMHKF,"BMO Hong Kong Banks ETF Unit Trust, Fund Manager: BMO Global Asset Management Asia Ltd. (Hong Kong)",U
@@ -4750,6 +4753,7 @@ CKHUY,CK Hutchison Holdings LTD American Depositary Receipts - Unsponsored,U
 CKISF,CK Infrastructure Holdings Limited Ordinary Shares,U
 CKISY,CK Infrastructure Holdings Limited American Depositary Receipts - Unsponsored,U
 CKLSF,CK Life Sciences Int. Holdings Inc Ordinary Shares Cayman Islands(KY ),U
+CKMTF,Carmat Ordinary Shares (France),U
 CKNHF,Clarkson Horace Plc Ordinary Shares,U
 CKNHY,Clarkson PLC American Depositary Receipts - Unsponsored,U
 CKNQP,Cobank ACB Fixed/Floating Series H Perpetual Preferred Stock Non-Cumulative,U
@@ -4989,6 +4993,7 @@ CMLS,Cumulus Media Inc. Class A Common Stock,NASDAQ
 CMMCF,Oxe Marine AB Ordinary Shares,U
 CMMMF,Comstock Metals Ltd Common Shares,U
 CMMXF,CEMEX HLDGS PHILIPPINES INC Ordinary Shares,U
+CMNLF,CMON LTD Ordinary Shares,U
 CMNR,"Commerce Energy Group, Inc Common Stock",U
 CMNT,"China Mulans Nano Technology Corp., Ltd. Common Stock",U
 CMO,Capstead Mortgage Corp.,NYSE
