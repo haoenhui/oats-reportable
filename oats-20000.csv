@@ -232,7 +232,6 @@ SKLZ,Skillz Inc.,NYSE
 SKLZ WS,"Skillz Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exe",NYSE
 SKM,"SK Telecom Co., Ltd.",NYSE
 SKMT,"Chengda Technology Co., Ltd. Common Shares",U
-SKNVY,Skandinavisk Tobakskompagni A/S American Depositary Receipts - Unsponsored (Denmark),U
 SKOR,FlexShares Trust FlexShares Credit-Scored US Corporate Bond Index Fund,NASDAQ
 SKPBF,Sapura Kencana Pete BHD Ordinary Shares (Malaysia),U
 SKPGF,Spark Power Group Inc (Canada),U
@@ -2572,7 +2571,6 @@ TPLKF,Tepla AG Kirchheim Ordinary Shares (Germany),U
 TPLWF,Temple & Webster Group Ltd. Ordinary Shares (Australia),U
 TPMT,Temple Mtns Ind New Unclassified,U
 TPNEF,"Cub Energy, Inc. Ordinary Shares (Canada)",U
-TPNHY,TPN Holdings plc American Depositary Shares,U
 TPNI,"The Pulse Network, Inc. Common Stock",U
 TPNTF,Third Point Offshore Investors Ld Shs Class -USD- (Guernsey),U
 TPOR,Direxion Daily Transportation Bull 3X Shares,ARCA
@@ -2614,7 +2612,6 @@ TRBMF,Torq Resources Inc. Common Shares,U
 TRBO,"Turbo Global Partners, Inc. Common Stock",U
 TRBX,"TRB Systems International, Inc. Common Stock",U
 TRC,Tejon Ranch Co.,NYSE
-TRCA U,"Twin Ridge Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-th",NYSE
 TRCH,"Torchlight Energy Resources, Inc. Common Stock",NASDAQ
 TRCK,"Track Group, Inc. Common Stock",U
 TRCLF,"Trans Cosmos, Inc. Ordinary Shares (Japan)",U
@@ -2741,7 +2738,7 @@ TRVN,"Trevena, Inc. Common Stock",NASDAQ
 TRVR,"Two Rivers Financial Group, Inc. Common Stock",U
 TRWKF,Truworths International Ltd Ordinary Shares South Africa(ZA ),U
 TRWLY,TRAWELL CO S P A American Depositary Receipts - Sponsored  Italy(IT ),U
-TRWRF,KABN SYS NA HLDGS CORP Ordinary Shares,U
+TRWRF,LIQUID AVATAR TECHNOLOGIES INC Ordinary Shares,U
 TRX,Tanzanian Gold Corporation,AMEX
 TRXA,Trex Acquisition Corp. Common Stock,U
 TRXC,TransEnterix Inc.,AMEX
@@ -3614,7 +3611,9 @@ VCII,ViviCells International Inc Common Stock,U
 VCISF,Vinci Sa Ordinary Shares,U
 VCISY,Vinci SA ADR (France),U
 VCIT,Vanguard Intermediate-Term Corporate Bond ETF,NASDAQ
+VCKA,Vickers Vantage Corp. I Ordinary Shares,NASDAQ
 VCKAU,Vickers Vantage Corp. I Unit,NASDAQ
+VCKAW,Vickers Vantage Corp. I Warrant,NASDAQ
 VCKVF,VANECK VECTORS UCITS ETFS PLC Exchange Traded Fund,U
 VCLD,Verecloud Inc. Common Stock,U
 VCLO,Simplify Volt Cloud and Cybersecurity Disruption ETF,ARCA
@@ -4130,7 +4129,9 @@ VTHR,Vanguard Scottsdale Funds Vanguard Russell 3000 ETF,NASDAQ
 VTI,Vanguard Total Stock Market ETF,ARCA
 VTIAF,Vita 34 AG Namen-Akt (Germany),U
 VTIP,Vanguard Malvern Funds Vanguard Short-Term Inflation-Protected Securities Index Fund,NASDAQ
+VTIQ,VectoIQ Acquisition Corp. II Class A Common Stock,NASDAQ
 VTIQU,VectoIQ Acquisition Corp. II Unit,NASDAQ
+VTIQW,VectoIQ Acquisition Corp. II Warrant,NASDAQ
 VTKLF,"VTech Holdings, Ltd. (Bermuda) Ordinary Shares",U
 VTKLY,"VTech Holdings, Ltd. Unsponsored ADR (Bermuda)",U
 VTLR,Virtualarmor Intl Inc Common Stock,U

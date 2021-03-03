@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-COWZ,Pacer US Cash Cows 100 ETF,BATS
 COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
@@ -85,7 +84,7 @@ CPT,Camden Property Trust,NYSE
 CPTA,Capitala Finance Corp. Common Stock,NASDAQ
 CPTAG,Capitala Finance Corp. 5.75% Convertible Notes Due 2022,NASDAQ
 CPTAL,Capitala Finance Corp. 6% Notes Due 2022,NASDAQ
-CPTFF,Concept Fund Solutions PLC DBX S&P 500 EQUAL Wght (DR) ETF (Ireland),U
+CPTFF,XTRACKERS IE PLC Exchange Traded Fund,U
 CPTHF,Adams PLC Ordinary shares (Isle of Man),U
 CPTK U,"Crown PropTech Acquisitions Units, each consisting of one Class A ordinary share and one-third of on",NYSE
 CPTP,"Capital Properties, Inc. Class A Common Stock",U
@@ -2139,7 +2138,6 @@ ELROF,Elior Group Ordinary Shares,U
 ELRRF,Eloro Resources Ltd Ordinary Shares (Canada),U
 ELS,"Equity Lifestyle Properties, Inc.",NYSE
 ELSBF,ELOS AB SHS -B - Ordinary Shares,U
-ELSBY,Elsburg Gold Mining Ltd    Ord American Depositary Shares,U
 ELSE,"Electro-Sensors, Inc. Common Stock",NASDAQ
 ELSLF,ELSIGHT LTD Ordinary Shares,U
 ELSSF,"ELIS  Ordinary Shares Eur 0,50 (France)",U
@@ -3699,11 +3697,11 @@ FOLGF,Falcon Oil & Gas Ltd Ordinary Shares,U
 FONR,Fonar Corporation Common Stock,NASDAQ
 FONU,FONU2 Inc. Common Stock,U
 FOR,Forestar Group Inc.,NYSE
+FORA,Forian Inc. Common Stock,NASDAQ
 FORD,"Forward Industries, Inc. Common Stock",NASDAQ
 FOREU,Foresight Acquisition Corp. Units,NASDAQ
 FORFF,Fortis Inc Ist Preferred Shares Series F (Canada),U
 FORM,"FormFactor, Inc. FormFactor, Inc. Common Stock",NASDAQ
-FORNY,Forsayth N L Ord American Depositary Shares,U
 FORR,"Forrester Research, Inc. Common Stock",NASDAQ
 FORTY,Formula Systems (1985) Ltd. American Depositary Shares,NASDAQ
 FORU,"ForU Holdings, Inc. Common Stock",U
@@ -4192,7 +4190,6 @@ GAIA,"Gaia, Inc. Class A Common Stock",NASDAQ
 GAILF,Gail India Ltd Reg S GDR,U
 GAIN,Gladstone Investment Corporation Business Development Company,NASDAQ
 GAINL,Gladstone Investment Corporation 6.375% Series E Cumulative Term Preferred Stock due 2025,NASDAQ
-GAINM,Gladstone Investment Corporation 6.25% Series D Cumulative Term Preferred Stock,NASDAQ
 GAL,SPDR SSgA Global Allocation ETF of SSgA Active Trust,ARCA
 GALKF,Galantas Gold Corporation Ordinary Shares,U
 GALOF,Galore Res Inc Common shares (Canada),U
@@ -4411,6 +4408,7 @@ GECCM,Great Elm Capital Corp. 6.75% Notes Due 2025,NASDAQ
 GECCN,Great Elm Capital Corp. 6.5% Notes due 2024,NASDAQ
 GECFF,Gecina Act Nom (France),U
 GEDSF,Gedeon Richter Ltd Gic American Depositary Shares,U
+GEDUF,G8 Education LTD Common Shares,U
 GEECF,Global Environmental Energy Corp. Common Stock (Bahamas),U
 GEENQ,Global Eagle Entertainment Inc. Common Stock,U
 GEF,"Greif, Inc.",NYSE
@@ -4724,6 +4722,7 @@ GLRI,GLORI ENERGY INC Common Stock,U
 GLROY,Glorious Property Holdings Limited Unsponsored ADR (Cayman Islands),U
 GLRP,Glen Rose Petroleum Corporation,U
 GLRY,Inspire Faithward Mid Cap Momentum ESG ETF,ARCA
+GLSEF,GLORIOUS SUN ENTERPRISES LTD Ordinary Shares,U
 GLSI,"Greenwich LifeSciences, Inc. Common Stock",NASDAQ
 GLSSP,GOLDMAN SACHS GROUP INC Pfd Ser M,U
 GLT,Glatfelter Corporation,NYSE
@@ -4773,6 +4772,7 @@ GMEV,"GME Innotainment, Inc. Common Stock",U
 GMF,SPDR S&P Emerging Asia Pacific ETF,ARCA
 GMGI,"Golden Matrix Group, Inc. Common Stock",U
 GMGSF,Goodman Group Sydney NSW Stapled Security (Australia),U
+GMGT,GAMING TECHNOLOGIES INC Common Stock,U
 GMHLF,Gam Holding Ag Ordinary Shares Namen AKT (Switzerland),U
 GMHLY,"Gam Holding Ag, Zuerich Unsponsored ADR (Switzerland)",U
 GMICF,SAGEN MI CDA INC Common Shares,U
@@ -5349,3 +5349,5 @@ GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
+GWB,"Great Western Bancorp, Inc.",NYSE
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U

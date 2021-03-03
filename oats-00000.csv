@@ -124,7 +124,6 @@ ABNAF,"Aben Resources, Ltd. Ordinary Shares",U
 ABNB,"Airbnb, Inc. Class A Common Stock",NASDAQ
 ABNC,"American Bancorp, Inc. (LA) Common Stock",U
 ABOIF,Aboitiz Equity Ventures Inc Ordinary Shares (Philippines),U
-ABPA,Allegiance Bank of North America (PA) Common Stock,U
 ABPGF,ALIBABA PICTURES GROUP Ltd SHS (Bermuda),U
 ABPPF,Abacus Property Group Fully Paid Ord Units Stapled Securities (Australia),U
 ABPR,"Airborne Security & Protective Services, Inc. New Common Stock",U
@@ -326,7 +325,9 @@ ADERU,26 Capital Acquisition Corp. Unit,NASDAQ
 ADERY,Aida Engineering Ltd ADR,U
 ADES,"Advanced Emissions Solutions, Inc. Common Stock",NASDAQ
 ADEVF,ADEVINTA ASA Ordinary Shares (Norway),U
+ADEX,Adit EdTech Acquisition Corp,NYSE
 ADEX U,"Adit EdTech Acquisition Corp Units, each consisting of one share of common stock, and one-half of on",NYSE
+ADEX WS,"Adit EdTech Acquisition Corp Redeemable Warrants, each whole warrant exercisable for shares of commo",NYSE
 ADFI,Anfield Dynamic Fixed Income ETF,BATS
 ADFJF,ADF Group Inc Sub Vtg Shs (Canada),U
 ADFS,"American Defense Systems, Inc Common Stock",U
@@ -1799,6 +1800,7 @@ ATAC U,"Altimar Acquisition Corporation Units, each consisting of one Class A or
 ATAC WS,"Altimar Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A",NYSE
 ATADF,Atac Resources Ltd Ordinary Shares,U
 ATAO,Altair International Corp Common Stock,U
+ATAQ U,"Altimar Acquisition Corp. III Units, each consisting of one Class A ordinary share, and one-fourth o",NYSE
 ATAR,Avatar Ventures Corp. Common Stock,U
 ATASF,Atlantia SPA Ordinary shares (Italy),U
 ATASY,Atlantia SPA Unsponsored ADR (Italy),U
@@ -2798,7 +2800,6 @@ BIRMF,Biorem Inc Common Shares (Canada),U
 BIRNF,BC Iron Limited Ordinary shares,U
 BIS,ProShares Trust ProShares UltraShort Nasdaq Biotechnology,NASDAQ
 BISA,"Baltic International USA, Inc. Common Stock",U
-BISOY,Bio Isolates Hldgs Plc     Ord American Depositary Shares,U
 BIT,BLACKROCK MULTI-SECTOR INCOME TRUST,NYSE
 BITCF,First Bitcoin Capital Corp. Common Stock,U
 BITE U,"Bite Acquisition Corp. Units, each consisting of one share of common stock, and one-half of one rede",NYSE
@@ -3693,7 +3694,7 @@ BWX,SPDR Bloomberg Barclays International Treasury Bond ETF,ARCA
 BWXT,"BWX Technologies, Inc.",NYSE
 BWXXF,BWX LTD Ordinary Shares (Australia),U
 BWZ,SPDR Bloomberg Barclays Short Term International Treasury Bond ETF,ARCA
-BX,The Blackstone Group Inc. Class A Common Stock,NYSE
+BX,The Blackstone Group Inc.,NYSE
 BXBLY,Brambles Ltd Sponsored ADR (Australia),U
 BXC,BlueLinx Holdings Inc.,NYSE
 BXDIF,Brookfield Asset Management Inc Preference Shares Series 13 Class A (Canada),U
@@ -5349,3 +5350,4 @@ COWNZ,Cowen Inc. 7.35% Senior Notes Due 2027,NASDAQ
 COWP,Canal Capital Corporation Common Stock,U
 COWPP,Canal Capital Corporation $1.30 Exchangeable Preferred Stock,U
 COWTF,Barclays Bk PLC iPath Bloomberg Livestock Subindex Total Return ETN due 10/22/2037 (United Kingdom),U
+COWZ,Pacer US Cash Cows 100 ETF,BATS

@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
-MTH,Meritage Homes Corporation,NYSE
-MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
-MTHRF,"M3, Inc. Ordinary Shares (Japan)",U
 MTHRY,"M3, INC.  American Depositary Receipts - Unsponsored  Japan(JP )",U
 MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE
 MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
@@ -855,7 +851,7 @@ NPEXF,Nippon Express (F) Ordinary Shares,U
 NPEXY,Nippon Express Co Ltd Unsponsored ADR (Japan),U
 NPEZF,BAM BAM RES INC Common Shares,U
 NPFC,NEWPOINT FINL CORP DEL Common Stock,U
-NPFUF,Nippon Flour Mills Co Ltd Ordinary Shares (Japan),U
+NPFUF,NIPPN CORP Ordinary Shares,U
 NPHC,NUTRA PHARMA CORP Common Stock,U
 NPIFF,"Northland Power, Inc. Ordinary Shares (Canada)",U
 NPIWF,"Northland Power, Inc. Cum Rate Reset Pfd Shs Ser 3 (Canada)",U
@@ -1064,6 +1060,7 @@ NTLA,"Intellia Therapeutics, Inc. Common Stock",NASDAQ
 NTLK,Net Talk.com Inc Common Stock,U
 NTME,"NetMed, Inc. Common Stock",U
 NTN,"NTN Buzztime, Inc",AMEX
+NTNOF,NORTHERN OCEAN LTD Ordinary Shares,U
 NTNTY,Netent AB ADR Unsponsored (Sweden),U
 NTNX,"Nutanix, Inc. Class A Common Stock",NASDAQ
 NTOIF,Neste Oil Ordinary Shares (Finland),U
@@ -1473,6 +1470,7 @@ OGE,OGE Energy Corp.,NYSE
 OGEN,Oragenics Inc.,AMEX
 OGFGF,Origin Energy Ltd Ordinary Shares (Australia),U
 OGFGY,Origin Energy Ltd Ord Unsponsored ADR (Australia),U
+OGGFF,Organic Garage Ltd. Common Stock (Canada),U
 OGI,Organigram Holdings Inc. Common Shares,NASDAQ
 OGIG,OShares Global Internet Giants ETF,BATS
 OGNG,Bravo Enterprises Ltd. Common Stock,U
@@ -1778,6 +1776,7 @@ OSBK,Oconee Finl Corp Common Stock,U
 OSCI,"Osceola Gold, Inc. Common Stock",U
 OSCMY,Orascom Investment Holding S.A.E.. Global Depositary Receipts - Sponsored,U
 OSCN,OneScreen Inc Common Stock,U
+OSCR,"Oscar Health, Inc.",NYSE
 OSCUF,"Japan Exchange Group, Inc.  Ordinary Shares (Japan)",U
 OSCV,Opus Small Cap Value ETF,BATS
 OSEHF,Amundi Index Solutions SICAV S&P 500 Global Lux ETF Eur C (Luxembourg),U
@@ -2315,7 +2314,7 @@ PFLC,Pacific Financial Corporation (WA) Common Stock,U
 PFLD,AAM Low Duration Preferred and Income Securities ETF,ARCA
 PFLT,PennantPark Floating Rate Capital Ltd. Common Stock,NASDAQ
 PFM,Invesco Exchange-Traded Fund Trust Invesco Dividend Achievers ETF,NASDAQ
-PFMS,"PaperFree Medical Solutions, Inc. Common Stock",U
+PFMSD,S A M TRADE ASIA PTE LTD Common Stock,U
 PFMT,Performant Financial Corporation Common Stock,NASDAQ
 PFMTF,Pacific Metals Co Ltd Ordinary Shares (Japan),U
 PFN,PIMCO Income Strategy Fund II,NYSE
@@ -2807,9 +2806,11 @@ POTN,"Potnetwork Holdings, Inc. Common Stock",U
 POTRF,SOPerior Fertilizer Corp Common Shares,U
 POTTF,Buddy Technologies Ltd. Ordinary Shares,U
 POTX,Global X Funds Global X Cannabis ETF,NASDAQ
+POW,Powered Brands Class A Ordinary Shares,NASDAQ
 POWI,"Power Integrations, Inc. Common Stock",NASDAQ
 POWL,"Powell Industries, Inc. Common Stock",NASDAQ
 POWRU,Powered Brands Units,NASDAQ
+POWRW,Powered Brands Warrants,NASDAQ
 POWW,"AMMO, Inc. Common Stock",NASDAQ
 POYN,"Po Yuen Cultural Holdings (Hong Kong) Co., Ltd. Common Stock",U
 POYYF,"Polymetal International PLC, St Helier Ordinary Shares (Jersey)",U
@@ -3584,8 +3585,8 @@ QPSF,QPS Die Cutters Common,U
 QPT,AdvisorShares Q Portfolio Blended Allocation ETF,ARCA
 QPTFF,Quest PharmaTech Inc Ordinary Shares (Canada),U
 QPX,AdvisorShares Q Dynamic Growth ETF,ARCA
-QQC,Simplify Exchange Traded Funds Simplify Growth Equity Plus Convexity ETF,NASDAQ
-QQD,Simplify Exchange Traded Funds Simplify Growth Equity Plus Downside Convexity ETF,NASDAQ
+QQC,Simplify Exchange Traded Funds Simplify Nasdaq 100 PLUS Convexity ETF,NASDAQ
+QQD,Simplify Exchange Traded Funds Simplify Nasdaq 100 PLUS Downside Convexity ETF,NASDAQ
 QQEW,First Trust NASDAQ-100 Equal Weighted Index Fund,NASDAQ
 QQFSF,Qinqin Foodstuffs Group Cayman Co Ltd Ordinary Shares (Cayman Islands),U
 QQH,HCM Defender 100 Index ETF,ARCA
@@ -4229,7 +4230,7 @@ RMO,"Romeo Power, Inc.",NYSE
 RMO WS,"Romeo Power, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exerc",NYSE
 RMPL PR,RiverNorth Specialty Finance Corporation 5.875%% Series A Term Preferred Stock $0.0001 par value per,NYSE
 RMR,The RMR Group Inc. Class A Common Stock,NASDAQ
-RMRDF,Ressources Mineres Radisson New Ordinary Shares,U
+RMRDF,Radisson Mining Resources Inc Ordinary Shares,U
 RMRHF,Rand Merchant Invt Hldgs Ltd Common Shares (South Africa),U
 RMRI,"RMR Industrials, Inc. Common Stock",U
 RMRK,Rimrock Gold Corp. Common Stock,U

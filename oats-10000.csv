@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
@@ -486,7 +484,6 @@ HLHLY,Holmen AB American Depositary Receipts - Unsponsored Class B (Sweden),U
 HLI,"Houlihan Lokey, Inc.",NYSE
 HLIO,"Helios Technologies, Inc. Common Stock",NASDAQ
 HLIT,Harmonic Inc. Common Stock,NASDAQ
-HLIX,HELIX TECHNOLOGIES INC Common Stock,U
 HLKHF,Hella KGAA Hueck & Co Inhaber-Aktien O.N.,U
 HLLF,"Halal Financial Services, Inc. Common Stock",U
 HLLGY,Hella Gmbh & Co Kgaa American Depositary Receipts - Unsponsored,U
@@ -1374,6 +1371,7 @@ IGIC,International General Insurance Holdings Ltd. Ordinary Share,NASDAQ
 IGICW,International General Insurance Holdings Ltd. Warrants expiring 03/17/2025,NASDAQ
 IGIFF,IGM Financial Inc. Ordinary Shares (Canada),U
 IGLB,iShares 10+ Year Investment Grade Corporate Bond ETF,ARCA
+IGLD,FT Cboe Vest Gold Strategy Target Income ETF,BATS
 IGLDF,INTERNET GOLD-GOLDEN LINES LTD Ordinary Shares,U
 IGM,iShares Expanded Tech Sector ETF,ARCA
 IGMS,"IGM Biosciences, Inc. Common Stock",NASDAQ
@@ -2563,7 +2561,6 @@ JMPNL,JMP Group LLC 7.25% Senior Notes due 2027,NASDAQ
 JMPNZ,JMP Group LLC 6.875% Senior Notes due 2029,NASDAQ
 JMSB,"John Marshall Bancorp, Inc. Common Stock",U
 JMST,JPMorgan Ultra-Short Municipal Income ETF,BATS
-JMTKY,Jumptec Industrielle Computertechnik Ord Npv American Depositary Shares,U
 JMTM,"James Maritime Holdings, Inc Common Stock",U
 JMUB,JPMorgan Municipal ETF,BATS
 JMVYU,James VY Ethanol LLC Cap Unit Cl A,U
@@ -3313,6 +3310,7 @@ KVIL,"Kidville, Inc. Common Stock",U
 KVLE,KFA Value Line Dynamic Core Equity Index ETF,ARCA
 KVLQF,ValOre Metals Corp Common Shares,U
 KVMD,"Kelvin Medical, Inc. Common Stock",U
+KVSA,Khosla Ventures Acquisition Co. Class A Common Stock,NASDAQ
 KW,"KENNEDY-WILSON HOLDINGS, INC.",NYSE
 KWAC,Kingswood Acquisition Corp.,NYSE
 KWAC U,"Kingswood Acquisition Corp. Units, each consisting of one share of Class A Common Stock and three-fo",NYSE
@@ -4884,6 +4882,7 @@ MMC,"Marsh & McLennan Companies, Inc.",NYSE
 MMCLF,Mercell Holdings AS Ordinary Shares (Norway),U
 MMCOF,"Members Co Ltd, Tokyo Ordinary Shares (Japan)",U
 MMD,MainStay MacKay DefinedTerm Municipal Opportunities Fund,NYSE
+MMDCF,MIND MEDICINE MINDMED INC Warrant   01/07/2024,U
 MMDDF,Mirriad Advertising Ltd Ordinary Shares (United Kingdom),U
 MMDWF,Mind Medicine Mindmed Inc Warrant Exp 05/22/2022 (Canada),U
 MMEDF,MIND MEDICINE MINDMED INC COM SUB VTG (Canada),U
@@ -5332,7 +5331,6 @@ MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYS
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
-MTDGY,M T D Mangula Ltd          Ord American Depositary Shares,U
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
@@ -5349,3 +5347,7 @@ MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
 MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
+MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
+MTH,Meritage Homes Corporation,NYSE
+MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
+MTHRF,"M3, Inc. Ordinary Shares (Japan)",U
