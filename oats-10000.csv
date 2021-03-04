@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
@@ -287,6 +288,7 @@ HEP,"Holly Energy Partners, L.P.",NYSE
 HEPA,"Hepion Pharmaceuticals, Inc. Common Stock",NASDAQ
 HEPZF,HORIZONS ENHANCED INCOME GOLD PRODUCERS ETF Unit,U
 HEQ,JOHN HANCOCK HEDGED EQUITY & INCOME FUND,NYSE
+HERAU,FTAC Hera Acquisition Corp. Units,NASDAQ
 HERB,Yasheng Group Common Stock (CA),U
 HERC,H.E.R.C. Products Incorporated Common Stock,U
 HERD,Pacer Funds Pacer Cash Cows Fund of Funds ETF,NASDAQ
@@ -1191,7 +1193,6 @@ ICPBF,Inscape Corporation Ordinary Shares,U
 ICPT,"Intercept Pharmaceuticals, Inc. Common Stock",NASDAQ
 ICPVF,Incitec Pivot Ltd Ordinary Shares (Australia),U
 ICRD,"International Card Establishment, Inc. Common Stock",U
-ICSCF,Nubian Resources Ltd Class A Ordinary Shares (Canada),U
 ICSH,BlackRock Ultra Short-Term Bond ETF,BATS
 ICTAF,ROLLING OPTICS HLDG AB Ordinary Shares,U
 ICTEF,Intl Container Terminal Svcs Ordinary Shares,U
@@ -1705,6 +1706,7 @@ INNI,Innovaro Inc Common Stock,U
 INNMF,Amplia Therapeutics Ltd Ordinary Shares,U
 INNPF,Innocan Pharma Corp Common Stock (Canada),U
 INNTW,9 METERS BIOPHARMA INC Warrant,U
+INNV,InnovAge Holding Corp. Common Stock,NASDAQ
 INNX,Infinite Networks Corporation Common Stock,U
 INO,"Inovio Pharmaceuticals, Inc. Common Stock",NASDAQ
 INOD,Innodata Inc. Common Stock,NASDAQ
@@ -1780,7 +1782,7 @@ IOMT,Isomet Corporation Common Stock,U
 IONAF,"Iona Energy, Inc. Ordinary Shares (Canada)",U
 IONGF,ION ENERGY LTD COM (Canada),U
 IONI,I-ON Digital Corp. Common Stock,U
-IONKD,Ionic Brands Corp Ordinary Shares,U
+IONKF,Ionic Brands Corp Ordinary Shares,U
 IONS,"Ionis Pharmaceuticals, Inc. Common Stock",NASDAQ
 IOO,iShares Global 100 ETF,ARCA
 IOOFF,Ioof Holdings Ltd Ordinary Shares (Australia),U
@@ -1806,7 +1808,6 @@ IPFF,iShares International Preferred Stock ETF,BATS
 IPFPF,"International Personal Finance Plc, Leeds Ordinary shares (United Kingdom)",U
 IPG,"The Interpublic Group of Companies, Inc.",NYSE
 IPGDF,IGO Ltd Ordinary Shares,U
-IPGLF,Interpump Group Spa Ordinary Shares,U
 IPGP,IPG Photonics Corporation Common Stock,NASDAQ
 IPGYY,Interpump Group Spa Unsponsored ADR (Italy),U
 IPHA,Innate Pharma S.A. ADS,NASDAQ
@@ -1855,6 +1856,8 @@ IPUB,"indiePub Entertainment, Inc. Common Stock",U
 IPV,InterPrivate Acquisition Corp. Common Stock,NYSE
 IPV U,"InterPrivate Acquisition Corp. Units, each consisting of one share of common stock, $.0001 par value",NYSE
 IPV WS,"InterPrivate Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of com",NYSE
+IPVA U,"InterPrivate II Acquisition Corp. Units, each consisting of one share of Class A common stock and on",NYSE
+IPVF U,"InterPrivate III Financial Partners Inc. Units, each consisting of one share of Class A common stock",NYSE
 IPWG,International Power Group Ltd Common Stock,U
 IPWLG,Indianapolis Power & Light 4.60% Preferred Stock,U
 IPWLK,Indianapolis Power & Light 5.65% Preferred Stock,U
@@ -2027,7 +2030,7 @@ ISPD,"Interspeed, Inc. Common Stock",U
 ISPFF,ISHARE II PLC Developed Mkts Pt Yld ETF Shs USD (Ireland),U
 ISPHF,ISHARES PHYSICAL METALS PLC REGD NOTES 2011-WITHOUT FIXED MATURITY ON SILVER COMMODITY SECURED (iRELAND),U
 ISQMF,Ishares MSCI Eastern Europe Capped UCITS ETF Ordinary Shares (Ireland),U
-ISQWF,iShares V PLC EDGE MSCI WORLD QUALITY FACTOR UCITS ETF (Ireland) Exchange Traded Fund,U
+ISQWF,ISHARES IV PLC EDGE MSCI WORLD QUALITY FACTOR UCITS ETF USD  Exchange Traded Fund,U
 ISR,"IsoRay, Inc.",AMEX
 ISRA,Market Vectors Israel ETF,ARCA
 ISRCF,iShares V Plc S&P 500 Information Technology Sector (Ireland) Exchange Traded Fund,U
@@ -3525,7 +3528,9 @@ LEG,"Leggett & Platt, Inc.",NYSE
 LEGH,Legacy Housing Corporation Common Stock (TX),NASDAQ
 LEGIF,Leg Immobilien AG Namens - Aktien ON (Germany Federal Republic),U
 LEGN,Legend Biotech Corporation American Depositary Shares,NASDAQ
+LEGO,Legato Merger Corp. Common stock,NASDAQ
 LEGOU,Legato Merger Corp. Units,NASDAQ
+LEGOW,Legato Merger Corp. Warrant,NASDAQ
 LEGR,First Trust Indxx Innovative Transaction & Process ETF,NASDAQ
 LEGX,"LegacyXChange, Inc Common Stock",U
 LEHKQ,"Lehman Brothers Holdings, Inc. Lehman Brothers Holdings Capital Trust III 6.375% Pfd Security Srs K",U
@@ -3639,6 +3644,7 @@ LGVN,Longeveron Inc. Class A Common Stock,NASDAQ
 LGYRF,Landis & Gyr Group AG Namen AKT (Switzerland),U
 LGYV,LEGACY VENTURES INTL INC Common Stock,U
 LH,Laboratory Corporation of America Holdings,NYSE
+LHAA,Lerer Hippeau Acquisition Corp. Class A Common Stock,NASDAQ
 LHC,Leo Holdings Corp. II,NYSE
 LHC U,"Leo Holdings Corp. II Units, each consisting of one Class A ordinary share and one-quarter of one re",NYSE
 LHC WS,"Leo Holdings Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A ordinary s",NYSE
@@ -4240,6 +4246,7 @@ MAXSF,Maxis BHD Ordinary Shares (Malaysia),U
 MAYNF,Mayne Pharma Group Ltd Ordinary Shares (Austrailia),U
 MAYS,"J. W. Mays, Inc. Common Stock",NASDAQ
 MAYX,Mayex Usa Inc Common Stock,U
+MBAC U,"M3-Brigade Acquisition II Corp. Units, each consisting of one share of Class A common stock, and one",NYSE
 MBAIF,CIBT Education Group Inc. Ordinary Shares (Canada),U
 MBAKF,mBank SA Ordinary Shares (Poland),U
 MBAY,"MediaBay, Inc. Common Stock",U
@@ -4881,6 +4888,7 @@ MMBMF,MASMOVIL IBERCOM S A Acciones Por Desdoblamiento (Spain),U
 MMC,"Marsh & McLennan Companies, Inc.",NYSE
 MMCLF,Mercell Holdings AS Ordinary Shares (Norway),U
 MMCOF,"Members Co Ltd, Tokyo Ordinary Shares (Japan)",U
+MMCWF,MIND MEDICINE MINDMED INC WT EXP 12/11/2023 (Canada),U
 MMD,MainStay MacKay DefinedTerm Municipal Opportunities Fund,NYSE
 MMDCF,MIND MEDICINE MINDMED INC Warrant   01/07/2024,U
 MMDDF,Mirriad Advertising Ltd Ordinary Shares (United Kingdom),U
@@ -4980,7 +4988,6 @@ MNOV,Medicinova Inc Common Stock,NASDAQ
 MNP,"Western Asset Municipal Partners Fund, Inc.",NYSE
 MNPP,Merchants Natl Pptys Inc Common Stock,U
 MNPR,Monopar Therapeutics Inc. Common Stock,NASDAQ
-MNPTF,"MINT PAYMENTS LTD, Ordinary Shares (Austrailia)",U
 MNQFF,Manulife Finl Corp CL A SER 2 Preferred Stock (Canada),U
 MNR,Monmouth Real Estate Investment Corp,NYSE
 MNR PRC,Monmouth Real Estate Investment Corporation 6.125% Series C Cumulative Redeemable Preferred Stock,NYSE
@@ -5348,6 +5355,3 @@ MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
 MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
 MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
-MTH,Meritage Homes Corporation,NYSE
-MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
-MTHRF,"M3, Inc. Ordinary Shares (Japan)",U

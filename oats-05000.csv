@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-COYJF,Citycon OYJ Ordinary Shares (Finland),U
-COZIF,Coziron Resources Limited Ordinary Shares (Australia),U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
@@ -1290,6 +1288,7 @@ DMYD WS,"dMY Technology Group, Inc. II Redeemable Warrants, each whole warrant e
 DMYI,"dMY Technology Group, Inc. III",NYSE
 DMYI U,"dMY Technology Group, Inc. III Units, each consisting of one share of Class A common stock and one-f",NYSE
 DMYI WS,"dMY Technology Group, Inc. III Redeemable warrants, each whole warrant exercisable for one share of",NYSE
+DMYQ U,"dMY Technology Group, Inc. IV Units, each consisting of one share of Class A common stock and one-fi",NYSE
 DMZPY,DOMINOS PIZZA ENTERPRISES LTD  American Depositary Receipts - Unsponsored (Australia),U
 DNACF,Dena Co Ltd Tokyo Ordinary Shares (Japan),U
 DNAG,"DNAPrint Genomics, Inc. Common Stock",U
@@ -2970,7 +2969,7 @@ FATE,"Fate Therapeutics, Inc. Common Stock",NASDAQ
 FATLF,FATTAL HLDGS 1998 LTD Common Shares Israel(IL ),U
 FAUG,FT Cboe Vest U.S. Equity Buffer ETF - August,BATS
 FAURY,FAURECIA SE American Depositary Receipts - Unsponsored,U
-FAVO,FAVO CAP INC Common Stock,U
+FAVO,"Favo Capital, Inc. Common Stock",U
 FAX,"Aberdeen Asia-Pacific Income Fund, Inc.",AMEX
 FAXRF,Fairfax Financial Holdings Ltd Cumulative Pfd Shs Ser G (Canada),U
 FAXXF,Fairfax Financial Holdings Ltd Cumulative Pfd Shs Ser H (Canada),U
@@ -3070,7 +3069,7 @@ FCNCA,"First Citizens BancShares, Inc. Class A Common Stock",NASDAQ
 FCNCB,"First Citizens BancShares, Inc. Common Stock, Class B",U
 FCNCP,"First Citizens BancShares, Inc. Depositary Shares",NASDAQ
 FCNE,"Four Corners, Inc. Common Stock",U
-FCNSF,"Funai Consulting Co., Ltd. Ordinary Shares (Japan)",U
+FCNSF,FUNAI SOKEN HLDGS INC Ordinary Shares,U
 FCO,Aberdeen Global Income Fund Inc,AMEX
 FCOB,"1st Colonial Bancorp, Inc. (PA) Common Stock",U
 FCODF,Financiere De L Odet Sa Ordinary Shares (France),U
@@ -3315,6 +3314,7 @@ FIEGF,FI Enhanced Global High Yield ETN Lkd due 10/11/2023 (MSCI World High Dvd 
 FIEIF,OTSO GOLD CORP Ordinary Shares,U
 FIF,FIRST TRUST ENERGY INFRASTRUCTURE FUND,NYSE
 FIFG,"First Foods Group, Inc. Common Stock",U
+FIGB,Fidelity Investment Grade Bond ETF,ARCA
 FIGM,Future International Group Corp. Common Stock,U
 FIGR,First Natl Bk Groton N Y Common Stock,U
 FIHD,UBS AG FI Enhanced Global High Yield ETN,ARCA
@@ -3895,6 +3895,7 @@ FSCR,Federal Screw Works Common Stock,U
 FSD,FIRST TRUST HIGH INCOME LONG/SHORT FUND,NYSE
 FSDK,First Citizens Nat Bk Up Sndky Common Stock,U
 FSEA,First Seacoast Bancorp Common Stock,NASDAQ
+FSEC,Fidelity Investment Grade Securitized ETF,ARCA
 FSEI,FIRST SEISMIC Corporation Common Stock,U
 FSEN,FS ENERGY & PWR FD COM SH BEN INT,U
 FSEP,FT Cboe Vest U.S. Equity Buffer ETF - September,BATS
@@ -4190,6 +4191,7 @@ GAIA,"Gaia, Inc. Class A Common Stock",NASDAQ
 GAILF,Gail India Ltd Reg S GDR,U
 GAIN,Gladstone Investment Corporation Business Development Company,NASDAQ
 GAINL,Gladstone Investment Corporation 6.375% Series E Cumulative Term Preferred Stock due 2025,NASDAQ
+GAINN,Gladstone Investment Corporation 5.00% Notes Due 2026,NASDAQ
 GAL,SPDR SSgA Global Allocation ETF of SSgA Active Trust,ARCA
 GALKF,Galantas Gold Corporation Ordinary Shares,U
 GALOF,Galore Res Inc Common shares (Canada),U
@@ -4201,6 +4203,7 @@ GAMCF,"GAMMA COMMUNICATIONS PLC, SHS (United Kingdom)",U
 GAMN,"Great American Food Chain, Inc. (The) Common Stock",U
 GAMR,Wedbush ETFMG Video Game Tech ETF,ARCA
 GAN,GAN Limited Ordinary Shares,NASDAQ
+GAPA U,"G&P Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of on",NYSE
 GAPJ,"Golden Apple Oil & Gas, Inc. Common Stock",U
 GARB,Garb Oil & Power Corporation Common Stock,U
 GARLF,Netcoins Hldgs Inc Ordinary Shares,U
@@ -4275,7 +4278,7 @@ GBMS,"Global Materials & Services, Inc. Common Stock",U
 GBNW,Global Energy Networks Corp. Common Stock,U
 GBNXF,"Gibson Energy, Inc. Common Shares (Canada)",U
 GBNY,"Generations Bancorp NY, Inc. Common Stock",NASDAQ
-GBOKD,GREENBROOK TMS INC  Ordinary Shares,U
+GBOKF,GREENBROOK TMS INC  Ordinary Shares,U
 GBOOF,Grupo Fin Banorte Ordinary Shares,U
 GBOOY,"Grupo Financiero Banorte, S.A.B. De C.V Sponsored ADR (Mexico)",U
 GBOX,Greenbox POS Common Stock,NASDAQ
@@ -4953,8 +4956,10 @@ GOVX,"GeoVax Labs, Inc. Common Stock",NASDAQ
 GOVXW,"GeoVax Labs, Inc. Warrants",NASDAQ
 GOVZ,iShares 25+ Year Treasury STRIPS Bond ETF,BATS
 GP,GreenPower Motor Company Inc. Common Shares,NASDAQ
+GPAC,Global Partner Acquisition Corp II Class A Ordinary Share,NASDAQ
 GPACF,Geopacific Resources NL Ordinary Shares (Austrailia),U
 GPACU,Global Partner Acquisition Corp II Unit,NASDAQ
+GPACW,Global Partner Acquisition Corp II Warrant,NASDAQ
 GPAEF,Grupo Aeropuerto del Pacifico Sa De Cv Shares -B- (Mexico),U
 GPAGF,Gruma SAB de CV Gruma Shares -B- (Mexico),U
 GPBI,"Golden Pacific Bancorp, Inc. Common Stock",U
@@ -4987,7 +4992,7 @@ GPLPF,Group Lease Public Co Ltd Shs Foreign Registered (Thailand),U
 GPLS,Geopulse Exploration Inc. Common Stock,U
 GPM,Guggenheim Enhanced Equity Income Fund,NYSE
 GPMMF,GOLDEN PROSPECT PRECIOUS METALS LTD SHS (Guernsey),U
-GPMNF,GOLD PLUS MNG INC Common Shares,U
+GPMNF,MUSK METALS CORP Common Shares,U
 GPMT,Granite Point Mortgage Trust Inc. Common Stock,NYSE
 GPMTF,GPM Metals Inc. Ordinary Shares,U
 GPN,"Global Payments, Inc.",NYSE
@@ -5350,4 +5355,3 @@ GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U

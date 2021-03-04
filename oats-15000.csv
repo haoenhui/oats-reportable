@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTH,Meritage Homes Corporation,NYSE
+MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
+MTHRF,"M3, Inc. Ordinary Shares (Japan)",U
 MTHRY,"M3, INC.  American Depositary Receipts - Unsponsored  Japan(JP )",U
 MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE
 MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
@@ -106,6 +109,7 @@ MUTM,Mutual Merchant Services Inc. Common Stock,U
 MUX,"MCEWEN MINING, INC.",NYSE
 MUZNF,Maruzen Company Ltd Ordinary Shares (Japan),U
 MVAC,"MotorVac Technologies, Inc. Common Stock",U
+MVAIF,MINERVA INTELLIGENCE INC COM (Canada),U
 MVBF,MVB Financial Corp. Common Stock,NASDAQ
 MVBY,"My Vintage Baby, Inc. Common Stock",U
 MVEN,"theMaven, Inc. Common Stock",U
@@ -302,6 +306,7 @@ NBO,Neuberger Berman New York Municipal Fund Inc.,AMEX
 NBPVF,NB Private Equity Partners Limited Class A Shares (Guernsey),U
 NBR,Nabors Industries Ltd.,NYSE
 NBR PRA,"Nabors Industries Ltd. 6.00% Mandatory Convertible Preferred Shares, Series A",NYSE
+NBRFF,Nubian Resources Ltd Class A Ordinary Shares (Canada),U
 NBRI,North Bay Resources Inc. Common Stock,U
 NBRNF,NBrown Group Plc Ordinary Shares (United Kingdom),U
 NBRV,Nabriva Therapeutics plc Ordinary Shares Ireland,NASDAQ
@@ -661,7 +666,6 @@ NLAB,Nuoncology Labs Inc Common Stock,U
 NLBS,"NutraLife Biosciences, Inc.  Common Stock",U
 NLFKF,Nilfisk Holdings A/S Ordinary Shares (Denmark),U
 NLGCF,Northern Lion Gold Corporation Common Shares,U
-NLIOF,Exore Resources Ltd Ordinary Shares,U
 NLLGF,Nilorngruppen AB Ordinary Shares,U
 NLLRF,Nippon Pillar Packing Co Ltd Ordinary Shares (Japan),U
 NLLSF,Nel ASA Ordinary Shares (Norway),U
@@ -1109,6 +1113,7 @@ NUGL,"NUGL, Inc. Common Stock",U
 NUGN,"NuGene International, Inc. Common Stock",U
 NUGS,Cannabis Strategic Ventures Common Stock,U
 NUGT,Direxion Daily Gold Miners Index Bull 2X Shares,ARCA
+NUGX,Nugenerex Immuno Oncology Inc Common Stock,U
 NUHRF,NUHEARA LTD Ordinary Shares,U
 NUHY,Nuveen ESG High Yield Corporate Bond ETF,ARCA
 NUKK,Nukkleus Inc. Common Stock,U
@@ -1785,6 +1790,7 @@ OSGCF,OSG Corporation Ordinary Shares (Japan),U
 OSGSF,Osaka Gas Co Ord Ordinary Shares,U
 OSGSY,Osaka Gas Co Ltd Unsponsored ADR (Japan),U
 OSH,"Oak Street Health, Inc.",NYSE
+OSHDF,OSHIDORI INTL HLDGS LTD SHS (Bermuda),U
 OSHIF,Oishi Group Public Co Ltd Foreign Shares (Thailand),U
 OSIIF,Osino Resources Corporation (Canada),U
 OSIN,"Optimum Source International, Ltd. Common Stock",U
@@ -2142,6 +2148,7 @@ PCPC WS,"Periphas Capital Partnering Corporation Warrants, each whole warrant ex
 PCPDF,PACIFIC CENTURY PREMIUM DEVELOPMENTS LIMITED Ordinary Shares,U
 PCPJ,"PaperClip, Inc. Common Stock",U
 PCPPF,PC Partner Group Ltd Ordinary Shares (Cayman Islands),U
+PCPRF,PACIFIC CENTURY PREMIUM  DEVELOPMENTS LIMITED RT (Bermuda),U
 PCPZ,Leeward Group Holdings Inc. New Common Stock,U
 PCQ,Pimco California Municipal Income Fund,NYSE
 PCQRF,Petrolympic Ltd. Common Shares (Canada),U
@@ -2525,6 +2532,7 @@ PJUL,Innovator S&P 500 Power Buffer ETF - July,BATS
 PJUN,Innovator S&P 500 Power Buffer ETF - June,BATS
 PJXRF,PJX Res Inc Common Shares (Canada),U
 PK,Park Hotels & Resorts Inc. Common Stock,NYSE
+PKANF,PUREK HLDGS CORP COM (Canada),U
 PKB,Invesco Dynamic Building & Construction ETF,ARCA
 PKBAF,Pt Bakrie & Brothers Tbk Shares Series A (Indonesia),U
 PKBK,"Parke Bancorp, Inc. Common Stock",NASDAQ
@@ -2755,7 +2763,6 @@ PNRC,Premier Energy Corp. (FL) Common Stock,U
 PNRG,PrimeEnergy Resources Corporation Common Stock,NASDAQ
 PNRLY,PARINGA RES LTD American Depositary Receipts - Sponsored,U
 PNRXF,Porto Energy Corp. Ordinary Shares (Canada),U
-PNSAF,Pensana Plc Depositary Receipts,U
 PNTG,"The Pennant Group, Inc. Common Stock",NASDAQ
 PNTM U,"Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeem",NYSE
 PNTZF,Trigon Metals Inc. Ordinary Shares,U
@@ -2931,7 +2938,6 @@ PRGLY,Puregold Price Club Inc American Depositary Receipts (Phillipines),U
 PRGNF,PARAGON SHIPPING INC Ordinary Shares,U
 PRGO,PERRIGO COMPANY PLC,NYSE
 PRGS,Progress Software Corporation Common Stock (DE),NASDAQ
-PRGX,"PRGX Global, Inc. Common Stock",NASDAQ
 PRHB,"Pure H2o Bio-Technologies, Inc. Common Stock New",U
 PRHL,Premier Holding Corp Common Stock,U
 PRI,"PRIMERICA, INC.",NYSE
@@ -3108,7 +3114,6 @@ PSI,Invesco Dynamic Semiconductors ETF,ARCA
 PSIQ,"Profile Solutions, Inc. Common Stock",U
 PSIX,POWER SOLUTIONS INTL INC Common Stock,U
 PSJ,Invesco Dynamic Software ETF,ARCA
-PSJEY,Petsec Energy Ltd. American Depositary Shares,U
 PSK,SPDR Wells Fargo Preferred Stock ETF,ARCA
 PSKOF,Polski Koncern Naftowy Orlen SA Ordinary Shares (Poland),U
 PSKRF,Protector Forsikring ASA Ordinary Shares (Norway),U
@@ -4582,6 +4587,7 @@ RXL,ProShares Ultra Health Care,ARCA
 RXLSF,Rexel SA Paris Ordinary shares (France),U
 RXMD,"Progressive Care, Inc. Common Stock",U
 RXN,REXNORD CORPORATION,NYSE
+RXRAU,RXR Acquisition Corp. Units,NASDAQ
 RXRLF,"Rex Minerals Ltd, Melbourne Ordinary Shares (Australia)",U
 RXT,"Rackspace Technology, Inc. Common Stock",NASDAQ
 RXXRF,Rox Resources Ltd Ordinary Shares (Australia),U
@@ -5349,4 +5355,3 @@ SHLDQ,Sears Holdings Corporation Common Stock,U
 SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
 SHLOQ,"Shiloh Industries, Inc. Common Stock",U
 SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
-SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ

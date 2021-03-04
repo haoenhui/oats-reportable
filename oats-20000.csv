@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
 SHLX,"Shell Midstream Partners, L.P.",NYSE
 SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
 SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
@@ -1848,7 +1849,6 @@ TCNWF,Trulieve Cannabis Corp Warrant Exp 06/13/2022 (Canada),U
 TCOM,Trip.com Group Limited American Depositary Shares,NASDAQ
 TCON,"TRACON Pharmaceuticals, Inc. Common Stock",NASDAQ
 TCOR,"TreeCon Resources, Inc. Common Stock",U
-TCP,TC Pipelines LP,NYSE
 TCPC,BlackRock TCP Capital Corp. Common Stock,NASDAQ
 TCPDF,TRUE CORPORATION PUBLIC COMPANY LIMITED NVDR SHARES Depositary Receipts,U
 TCPFF,True Corporation Public Co Ltd Ordinary Shares,U
@@ -2612,6 +2612,7 @@ TRBMF,Torq Resources Inc. Common Shares,U
 TRBO,"Turbo Global Partners, Inc. Common Stock",U
 TRBX,"TRB Systems International, Inc. Common Stock",U
 TRC,Tejon Ranch Co.,NYSE
+TRCA U,"Twin Ridge Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-th",NYSE
 TRCH,"Torchlight Energy Resources, Inc. Common Stock",NASDAQ
 TRCK,"Track Group, Inc. Common Stock",U
 TRCLF,"Trans Cosmos, Inc. Ordinary Shares (Japan)",U
@@ -2970,6 +2971,7 @@ TWCI,"T.W. Christian, Inc. Common Stock",U
 TWCT,TWC Tech Holdings II Corp. Class A Common Stock,NASDAQ
 TWCTU,TWC Tech Holdings II Corp. Unit,NASDAQ
 TWCTW,TWC Tech Holdings II Corp. Warrant,NASDAQ
+TWDLF,TRACKWISE DESIGNS LTD ORD GBP0.04 (United Kingdom),U
 TWER,TOWERSTREAM CORP Common Stock,U
 TWGL,"20/20 Global, Inc. Common Stock",U
 TWI,"Titan International, Inc.(Delaware)",NYSE
@@ -2988,6 +2990,7 @@ TWNE,"Towne Bancorp, Inc. (AZ) Common Stock",U
 TWNI U,"Tailwind International Acquisition Corp. Units, each consisting of one Class A ordinary share and on",NYSE
 TWNK,"Hostess Brands, Inc. Class A Common Stock",NASDAQ
 TWNKW,"Hostess Brands, Inc. Warrants",NASDAQ
+TWNT U,"Tailwind Two Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of",NYSE
 TWO,Two Harbors Investment Corp.,NYSE
 TWO PRA,Two Harbors Investment Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred S,NYSE
 TWO PRB,Two Harbors Investment Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred S,NYSE
@@ -3988,6 +3991,7 @@ VOSOU,Virtuoso Acquisition Corp. Unit,NASDAQ
 VOSSF,Vossloh Ordinary Shares,U
 VOSSY,Vossloh AG Unsponsored ADR (Germany),U
 VOT,Vanguard Mid-Cap Growth ETF,ARCA
+VOTDF,VOTI DETECTION INC COM (Canada),U
 VOX,Vanguard Communication Services ETF,ARCA
 VOXCF,Vox Royalty Corp CAD Ordinary Shares (Cayman Islands),U
 VOXX,VOXX International Corporation Class A Common Stock,NASDAQ
@@ -4608,6 +4612,8 @@ WOWI,"Metro One Telecommunications, Inc. Common Stock",U
 WOWMF,WOW Unlimited Media Inc Common Shares  (Canada),U
 WOWU,"WOWI, Inc Common Stock",U
 WPC,W.P. Carey Inc. (REIT),NYSE
+WPCA U,"Warburg Pincus Capital Corporation I A Units, each consisting of one Class A ordinary share, and one",NYSE
+WPCB U,"Warburg Pincus Capital Corporation I B Units, each consisting of one Class A ordinary share, and one",NYSE
 WPCZF,Blue Star Gold Corp Ordinary Shares,U
 WPDPF,"WPD Pharmaceuticals, Inc. Common Shares",U
 WPEC,Wei Pai Electronic Commerce Company Ltd. Common Stock,U
@@ -5057,7 +5063,6 @@ YGWAF,Yokogawa Bridge Corp Shs (Japan),U
 YGYI,"Youngevity International, Inc. Common Stock",U
 YGYIP,"Youngevity International, Inc. 9.75% Series D Cumulative Redeemable Perpetual Preferred Stock",U
 YHEKF,YEAHKA LTD Ordinary Shares  Cayman Islands(KY ),U
-YHHCY,"Yumeshin Holdings Co., Ltd. American Depositary Receipts - Sponsored (Japan)",U
 YI,"111, Inc. American Depositary Shares",NASDAQ
 YIDUF,Yidu Tech Inc. Ordinary Shares (Cayman Islands),U
 YIGRF,Yixin Group Ltd. Common Shares Cayman Island (KY),U
