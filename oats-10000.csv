@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
@@ -270,6 +269,7 @@ HEINY,Heineken Nv Sponsored ADR (Netherlands),U
 HEITF,Healthia Ltd. Ordinary Shares  Australia(AU ),U
 HEKRF,Hektar Real Estate Investment Trust Units (Malaysia),U
 HELE,Helen of Troy Limited Common Stock,NASDAQ
+HELFY,HELLOFRESH SE American Depositary Receipts - Unsponsored (Germany Federal Republic),U
 HELKF,Henkel AG and Co. KGAA Ordinary Shares (Germany),U
 HELOF,WINSHEAR GOLD CORP Common Shares,U
 HELX,Franklin Genomic Advancements ETF,BATS
@@ -329,7 +329,7 @@ HFWA,Heritage Financial Corporation Common Stock,NASDAQ
 HFXI,IQ 50 Percent Hedged FTSE International ETF,ARCA
 HGBL,Heritage Global Inc. Common Stock,NASDAQ
 HGCTF,HG Capital Trust Ordinary Shares (United Kingdom),U
-HGDPF,Helgeland Sparebank Primary Cap Cert (Norway),U
+HGDPF,SPAREBANK 1 HELGELAND Other,U
 HGEN,"Humanigen, Inc. Common Stock",NASDAQ
 HGGCF,Highway 50 Gold Corp Common Shares (Canada),U
 HGGGQ,HHGREGG Inc Common Stock,U
@@ -463,7 +463,9 @@ HKXCY,Hong Kong Exchanges & Clearing Ltd Unsponsored ADR (Hong Kong),U
 HL,Hecla Mining Company,NYSE
 HL PRB,Hecla Mining Company Series B Cumulative Convertible Preferred,NYSE
 HLAGF,Hapag-Lloyd Aktien Ordinary Shares,U
+HLAH,"Hamilton Lane Alliance Holdings I, Inc. Class A Common Stock",NASDAQ
 HLAHU,"Hamilton Lane Alliance Holdings I, Inc. Unit",NASDAQ
+HLAHW,"Hamilton Lane Alliance Holdings I, Inc. Warrant",NASDAQ
 HLAL,Listed Funds Trust Wahed FTSE USA Shariah ETF,NASDAQ
 HLAN,Heartland Banccorp Common Stock,U
 HLBYL,Heron Lake Bioenergy LLC UNIT,U
@@ -1655,7 +1657,6 @@ INDPF,Innovaderma Plc Common Stock (United Kingdom),U
 INDR,Indie Ranch Media Inc Common Stock,U
 INDS,Pacer Benchmark Industrial Real Estate SCTR ETF,ARCA
 INDT,"INDUS Realty Trust, Inc. (MD) Common Stock",NASDAQ
-INDXF,Indus Holdings Inc Sub Voting Shares (Canada),U
 INDY,iShares India 50 ETF,NASDAQ
 INEOF,INEO Tech Corp Common Shares (Canada),U
 INFFF,Intact Financial Corp Preference Shares Class A Series 5 (Canada),U
@@ -1858,6 +1859,7 @@ IPV U,"InterPrivate Acquisition Corp. Units, each consisting of one share of com
 IPV WS,"InterPrivate Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of com",NYSE
 IPVA U,"InterPrivate II Acquisition Corp. Units, each consisting of one share of Class A common stock and on",NYSE
 IPVF U,"InterPrivate III Financial Partners Inc. Units, each consisting of one share of Class A common stock",NYSE
+IPVIU,InterPrivate IV InfraTech Partners Inc. Units,NASDAQ
 IPWG,International Power Group Ltd Common Stock,U
 IPWLG,Indianapolis Power & Light 4.60% Preferred Stock,U
 IPWLK,Indianapolis Power & Light 5.65% Preferred Stock,U
@@ -1925,7 +1927,6 @@ IRNRF,"Iron Road Ltd., West Perth WA Ordinary Shares (Australia)",U
 IRNS,Ironstone Group Inc Common Stock,U
 IROMF,I ROM CO LTD TOKYO SHS (Japan),U
 IROQ,"IF Bancorp, Inc. Common Stock",NASDAQ
-IRPCF,IRSA PROPIEDADES COMERCIALES SA SHS 1 VOTE (Argentina),U
 IRPSY,IRPC Public Company Limited Unsponsored ADR (Thailand),U
 IRPTF,IRPC Public Company Limited Shares Foreign Registered (Thailand),U
 IRR,VOYA NATURAL RESOURCES EQUITY INCOME FUND,NYSE
@@ -2660,7 +2661,7 @@ JRNGF,JOURNEY ENERGY INC  Ordinary Shares (Canada),U
 JRO,Nuveen Floating Rate Income Opportunty Fund,NYSE
 JRONF,Jeronimo Martins 13.50 Cv Pfd Ordinary Shares,U
 JRONY,Jeronimo Martins SGPS SA Unsponsored ADR (Portugal),U
-JROOF,Jericho Oil Corp Common Shares (Canada),U
+JROOF,JERICHO ENERGY VENTURES INC Ordinary Shares,U
 JRS,Nuveen Real Estate Income Fund,NYSE
 JRSH,"Jerash Holdings (US), Inc. Common Stock",NASDAQ
 JRSS,JRSIS Health Care Corp Common Stock,U
@@ -3884,6 +3885,7 @@ LOVFF,Cannara Biotech Inc Common Shares   Canada (CA),U
 LOVV,"Love International Group, Inc.  Common Stock",U
 LOW,Lowe's Companies Inc.,NYSE
 LOWC,SPDR MSCI ACWI Low Carbon Target ETF,ARCA
+LOWLF,LOWELL FARMS INC Ordinary Shares,U
 LPBC,Lincoln Park Bancorp Common Stock,U
 LPCN,Lipocine Inc. Common Stock,NASDAQ
 LPDNF,Lepidico Ltd Ordinary Shares (Australia),U
@@ -4409,6 +4411,7 @@ MDEPY,Arnoldo Mondadori Editore Spa Unsponsored ADR (Italy),U
 MDEVF,Melco Intl Devel Ordinary Shares,U
 MDEVY,Melco International Development Ltd. Unsponsored ADR (Hong Kong),U
 MDEX,Madison Technologies Inc. Common Stock,U
+MDFC,Mediforce Inc New Common Stock,U
 MDFZF,Medifocus Inc Ordinary Shares (Canada),U
 MDGC,"MediaG3, Inc. Common Stock",U
 MDGEF,Medigene Ag Ordinary Shares,U
@@ -5164,7 +5167,6 @@ MRCQF,MERCER PARK BRAND ACQUISITION CORP Cl A Restricted Vtg (Canada),U
 MRCR,Moro Corporation Common Stock,U
 MRCWF,Mercer Park Brand Acquisition Corp Warrant Exp 05/13/2027 (Canada),U
 MRCY,Mercury Systems Inc Common Stock,NASDAQ
-MRDDF,Outcrop Gold Corp  Common Shares,U
 MRDH,"Meridian Holdings, Inc. Common Stock",U
 MRDY,Mobile Ready Entertainment Corp. New Common Stock,U
 MRELF,Maurel Et Prom Etabl Ordinary Shares,U
@@ -5355,3 +5357,6 @@ MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
 MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
 MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
+MTH,Meritage Homes Corporation,NYSE
+MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
+MTHRF,"M3, Inc. Ordinary Shares (Japan)",U

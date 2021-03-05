@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
-SHLX,"Shell Midstream Partners, L.P.",NYSE
-SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
 SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
 SHMCF,Renewi PLC Ordinary Shares,U
 SHMDF,Shimano Inds Ordinary Shares,U
@@ -1464,6 +1461,8 @@ SVDN,SAVDEN GROUP CORP Common Stock,U
 SVFA,SVF Investment Corp. Class A Ordinary Shares,NASDAQ
 SVFAU,SVF Investment Corp. Unit,NASDAQ
 SVFAW,SVF Investment Corp. Warrant,NASDAQ
+SVFB,SVF Investment Corp. 2 Class A Ordinary Shares,NASDAQ
+SVFC,SVF Investment Corp. 3 Class A Ordinary Shares,NASDAQ
 SVGAF,Silver Grail Resources Ltd. Ordinary Shares (Canada),U
 SVIN,"Scheid Vineyards, Inc. Class A Common Stock",U
 SVJTY,Severstal PAO Global Depositary Receipts - Sponsored,U
@@ -1528,7 +1527,9 @@ SWDBY,Swedbank AB Sponsored ADR (Sweden),U
 SWDHF,Skyworth Group Ltd Ordinary Shares,U
 SWDHY,Skyworth Group Limited American Depositary Receipts - Unsponsored,U
 SWEE,"SweeGen, Inc. Common Stock",U
+SWET,Athlon Acquisition Corp. Class A Common stock,NASDAQ
 SWETU,Athlon Acquisition Corp. Unit,NASDAQ
+SWETW,Athlon Acquisition Corp. Warrant,NASDAQ
 SWGAF,Swatch Group Ag (The) AKT (Switzerland) Ordinary Shares,U
 SWGAY,Swatch Group Ag (The) Unsponsored ADR (Switzerland),U
 SWGI,Star Wealth Group Inc. Common Stock,U
@@ -2742,7 +2743,6 @@ TRWLY,TRAWELL CO S P A American Depositary Receipts - Sponsored  Italy(IT ),U
 TRWRF,LIQUID AVATAR TECHNOLOGIES INC Ordinary Shares,U
 TRX,Tanzanian Gold Corporation,AMEX
 TRXA,Trex Acquisition Corp. Common Stock,U
-TRXC,TransEnterix Inc.,AMEX
 TRXCW,TRANSENTERIX INC SER C WT EXP 03/10/2021,U
 TRXDW,TRANSENTERIX INC SER D WT EXP 03/10/2025,U
 TRXO,"Columbine Valley Resources, Inc. Common Stock",U
@@ -3505,6 +3505,7 @@ UTI,"Universal Technical Institute, Inc.",NYSE
 UTL,Unitil Corporation,NYSE
 UTMD,"Utah Medical Products, Inc. Common Stock",NASDAQ
 UTNT,Udata Net Corp. Common,U
+UTOCF,Utoc Corp Ordinary Shares (Japan),U
 UTOLF,TRACESAFE INC. Common Shares,U
 UTRK,"Universal Tracking Solutions, Inc. Common Stock",U
 UTRN,Vesper US Large Cap Short-Term Reversal Strategy ETF,ARCA
@@ -3879,6 +3880,7 @@ VLT,Invesco  High Income Trust II,NYSE
 VLTAF,"VOLTALIA, NEUILLY-SUR-SEINE ORDINARY SHARE EUR 5,70 (France)",U
 VLTFF,Volta Finance Ltd. Shs (Guernsey),U
 VLTLF,VAULT INTELLIGENCE LTD Ordinary Shares,U
+VLTRF,VOLT RES LTD Ordinary Shares,U
 VLU,SPDR S&P 1500 Value Tilt ETF,ARCA
 VLUE,iShares MSCI USA Value Factor ETF,BATS
 VLVLY,Volvo AB American Depositary Receipts - Unsponsored (Sweden),U
@@ -4002,6 +4004,8 @@ VOYRF,Valor Res Ltd Ordinary Shares,U
 VOYT,Voyant International Corporation Common Stock,U
 VPAHF,Volpara Health Technologies Ltd Ordinary Shares (New Zealand),U
 VPC,Virtus Private Credit Strategy ETF,ARCA
+VPCBU,VPC Impact Acquisition Holdings II Unit,NASDAQ
+VPCC U,"VPC Impact Acquisition Holdings III, Inc. Units, each consisting of one share of Class A common stoc",NYSE
 VPER,"Viper Networks, Inc. Common Stock",U
 VPG,"Vishay Precision Group, Inc.",NYSE
 VPGI,"Velocity Portfolio Group, Inc.",U
@@ -4028,6 +4032,7 @@ VRA,"Vera Bradley, Inc. Common Stock",NASDAQ
 VRAI,Virtus Real Asset Income ETF,ARCA
 VRAY,"ViewRay, Inc. Common Stock",NASDAQ
 VRBCF,Ste Virbac SA Ordinary Shares,U
+VRBFF,VanadiumCorp Resource Inc Ordinary Shares,U
 VRCA,Verrica Pharmaceuticals Inc. Common Stock,NASDAQ
 VRCFF,Victory Resources Corporation Ordinary Shares,U
 VRCI,"Verde Science, Inc. Common Stock",U
@@ -4612,8 +4617,8 @@ WOWI,"Metro One Telecommunications, Inc. Common Stock",U
 WOWMF,WOW Unlimited Media Inc Common Shares  (Canada),U
 WOWU,"WOWI, Inc Common Stock",U
 WPC,W.P. Carey Inc. (REIT),NYSE
-WPCA U,"Warburg Pincus Capital Corporation I A Units, each consisting of one Class A ordinary share, and one",NYSE
-WPCB U,"Warburg Pincus Capital Corporation I B Units, each consisting of one Class A ordinary share, and one",NYSE
+WPCA U,"Warburg Pincus Capital Corporation I-A Units, each consisting of one Class A ordinary share, and one",NYSE
+WPCB U,"Warburg Pincus Capital Corporation I-B Units, each consisting of one Class A ordinary share, and one",NYSE
 WPCZF,Blue Star Gold Corp Ordinary Shares,U
 WPDPF,"WPD Pharmaceuticals, Inc. Common Shares",U
 WPEC,Wei Pai Electronic Commerce Company Ltd. Common Stock,U

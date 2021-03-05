@@ -259,6 +259,7 @@ ACPGF,ACACIA PHARMA GROUP PLC ORD GBP0.02 (United Kingdom),U
 ACPIF,AC ENERGY CORP Common Stock,U
 ACPRF,ARCPACIFIC RES CORP Common Shares (Canada),U
 ACPS,AC Partners Inc. Common Stock,U
+ACQRU,Independence Holdings Corp. Units,NASDAQ
 ACR,ACRES Commercial Realty Corp.,NYSE
 ACR PRC,ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stoc,NYSE
 ACRB,"Asia Carbon Industries, Inc. Common",U
@@ -476,6 +477,7 @@ AESE,"Allied Esports Entertainment, Inc. Common Stock",NASDAQ
 AESEW,"Allied Esports Entertainment, Inc. Warrant Exp 08/09/2024",U
 AESO,Atlantic Energy Solutions Inc Common Stock,U
 AESR,Anfield U.S. Equity Sector Rotation ETF,BATS
+AESUU,AES CORP UNIT,U
 AETLF,Aeris Environmental Ltd Ordinary Shares,U
 AETUF,Arc Resources Ltd. Ordinary Shares (Canada),U
 AEVEF,Arena Events Group PLC Ordinary Shares (United Kingdom),U
@@ -1344,7 +1346,6 @@ AP,Ampco-Pittsburgh Corp.,NYSE
 AP WS,Ampco-Pittsburgh Corporation Series A Warrants to purchase Shares of common stock,AMEX
 APA,APA Corporation Common Stock,NASDAQ
 APAAF,Appia Energy Corp Ordinary Shares (Canada),U
-APAFF,VanadiumCorp Resource Inc Ordinary Shares,U
 APAJF,APA Group Stapled Security (Australia),U
 APAM,ARTISAN PARTNERS ASSET MANAGEMENT INC.,NYSE
 APCDF,A Cap Energy Ltd Ordinary Shares,U
@@ -1783,6 +1784,7 @@ ASUR,"Asure Software, Inc Common Stock",NASDAQ
 ASUUY,Asustek Computer Inc Sponsored GDR Reg S (China),U
 ASWRF,GUNGNIR RESOURCES INC. Ordinary Shares (Canada),U
 ASX,"ASE Technology Holding Co., Ltd.",NYSE
+ASXC,"Asensus Surgical, Inc.",AMEX
 ASXFF,ASX Ltd Ordinary Shares (Australia),U
 ASXFY,ASX Ltd Unsponsored ADR (Australia),U
 ASXH,"Aspen International Holdings, Inc. Common Stock",U
@@ -1927,6 +1929,7 @@ ATURF,Sixth Wave Innovations Inc Ordinary Shares,U
 ATUS,"Altice USA, Inc. Class A Common Stock",NYSE
 ATUSF,Altius Minerals Corp Ordinary Shares (Canada),U
 ATUUF,Altura Energy Inc Ordinary Shares (Canada),U
+ATVCU,Tribe Capital Growth Corp I Units,NASDAQ
 ATVDY,Atresmedia Corporacion De Medios De Comunicacion  American Depositary Receipts - Unsponsored,U
 ATVI,"Activision Blizzard, Inc. Common Stock",NASDAQ
 ATVK,Ameritek Ventures Common Stock,U
@@ -4164,7 +4167,7 @@ CD,Chindata Group Holdings Limited American Depositary Shares,NASDAQ
 CDAB,Coeur D Alene Bancorp Common Stock,U
 CDAK,"Codiak BioSciences, Inc. Common Stock",NASDAQ
 CDAY,Ceridian HCM Holding,NYSE
-CDBMD,Cordoba Minerals Corp. Common Shares,U
+CDBMF,Cordoba Minerals Corp. Common Shares,U
 CDBT,China Dasheng Biotechnology Company  Common Stock,U
 CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,NASDAQ
 CDCLF,Canada Coal Inc Ordinary Shares,U
@@ -5356,3 +5359,5 @@ COWTF,Barclays Bk PLC iPath Bloomberg Livestock Subindex Total Return ETN due 10
 COWZ,Pacer US Cash Cows 100 ETF,BATS
 COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,CZR RES LTD Ordinary Shares,U
+CP,Canadian Pacific Railway,NYSE
+CPA,"Copa Holdings, S.A.",NYSE

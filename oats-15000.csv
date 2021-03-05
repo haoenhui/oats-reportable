@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTH,Meritage Homes Corporation,NYSE
-MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
-MTHRF,"M3, Inc. Ordinary Shares (Japan)",U
 MTHRY,"M3, INC.  American Depositary Receipts - Unsponsored  Japan(JP )",U
 MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE
 MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
@@ -507,7 +504,9 @@ NG,NovaGold Resources Inc.,AMEX
 NGA,Northern Genesis Acquisition Corp.,NYSE
 NGA U,"Northern Genesis Acquisition Corp. Units, each consisting of one share of common stock and one-half",NYSE
 NGA WS,"Northern Genesis Acquisition Corp. Redeemable Warrants, each warrant exercisable for shares of commo",NYSE
+NGAB,Northern Genesis Acquisition Corp. II,NYSE
 NGAB U,"Northern Genesis Acquisition Corp. II Units, each consisting of one share of common stock and one-th",NYSE
+NGAB WS,"Northern Genesis Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for shares",NYSE
 NGAC,NextGen Acquisition Corporation Class A Ordinary Shares,NASDAQ
 NGACU,NextGen Acquisition Corporation Units,NASDAQ
 NGACW,NextGen Acquisition Corporation Warrants,NASDAQ
@@ -1405,6 +1404,7 @@ OCFT,"OneConnect Financial Technology Co., Ltd. American Depositary Shares, each
 OCG,Oriental Culture Holding LTD Ordinary Shares,NASDAQ
 OCGN,"Ocugen, Inc. Common Stock",NASDAQ
 OCGPF,Oceana Group Ltd Ordinary Shares,U
+OCGSF,Outcrop Gold Corp  Common Shares,U
 OCINF,OCI N.V. Shs (Netherlands),U
 OCIO,ClearShares OCIO ETF,ARCA
 OCIVF,Oakley Capital Investments Limited Ordinary Shares Bermuda(BM ),U
@@ -2764,7 +2764,9 @@ PNRG,PrimeEnergy Resources Corporation Common Stock,NASDAQ
 PNRLY,PARINGA RES LTD American Depositary Receipts - Sponsored,U
 PNRXF,Porto Energy Corp. Ordinary Shares (Canada),U
 PNTG,"The Pennant Group, Inc. Common Stock",NASDAQ
+PNTM,Pontem Corporation,NYSE
 PNTM U,"Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeem",NYSE
+PNTM WS,"Pontem Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exe",NYSE
 PNTZF,Trigon Metals Inc. Ordinary Shares,U
 PNW,Pinnacle West Capital Corporation,NYSE
 PNWDF,PNE WIND AG Ordinary Shares (Germany),U
@@ -3618,7 +3620,7 @@ QRXPF,"Qrxpharma Ltd, Sydney Ordinary shares (Australia)",U
 QS,QuantumScape Corporation,NYSE
 QS WS,"QuantumScape Corporation Warrants, each whole warrant exercisable for one share of Class A common st",NYSE
 QSAM,"QSAM Biosciences, Inc. Common Stock",U
-QSCGF,QSC  AG Ordinary Shares,U
+QSCGF,Q BEYOND AG Ordinary Shares,U
 QSEP,"QS Energy, Inc. Common Stock",U
 QSMG,QUEST MGMT INC Common Stock,U
 QSPW,Quantum Solar Power Corp. Common Stock,U
@@ -4978,7 +4980,7 @@ SDCI,USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund,ARCA
 SDCKF,Sodick Co Ltd Ordinary Shares,U
 SDCVF,"Sa des Ciments Vicat Vicat, SHS (France)",U
 SDD,ProShares UltraShort SmallCap600,ARCA
-SDDFF,Siderar Sa Cl A Ord Ordinary Shares,U
+SDDFF,TERNIUM ARGENTINA S A Ordinary Shares,U
 SDEC,SMART DECISION INC Common Stock Wyoming,U
 SDEF,Sound Enhanced Fixed Income ETF,ARCA
 SDEI,Sound Equity Income ETF,ARCA
@@ -5274,7 +5276,7 @@ SGPYY,Sage Group Plc Unsponsored ADR (UK),U
 SGQRF,SouthGobi Resources Ltd. Common Shares (Canada),U
 SGRB,SigmaBroadband Co. Common,U
 SGRCF,San Gold Corporation Common Shares (Canada),U
-SGRNF,Serengeti Resources Inc. Ordinary Shares (Canada),U
+SGRND,NORTHWEST COPPER CORP Ordinary Shares,U
 SGRP,"SPAR Group, Inc. Common Stock",NASDAQ
 SGRRF,Spring Real Estate Invt Tr Unit Trust Fund Mgr (Hong Kong),U
 SGRWF,Gold Rush Cariboo Corp Common Shares,U
@@ -5355,3 +5357,6 @@ SHLDQ,Sears Holdings Corporation Common Stock,U
 SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
 SHLOQ,"Shiloh Industries, Inc. Common Stock",U
 SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
+SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
+SHLX,"Shell Midstream Partners, L.P.",NYSE
+SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA

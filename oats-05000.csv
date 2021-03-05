@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CP,Canadian Pacific Railway,NYSE
-CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAI,Champion Pain Care Corporation Common Stock,U
@@ -1190,7 +1188,9 @@ DLAD,"DealerAdvance, Inc. Common Stock New",U
 DLAKF,Deutsche Lufthansa A G Ord Ordinary Shares,U
 DLAKY,Deutsche Lufthansa A G Sponsored ADR (Germany),U
 DLB,"Dolby Laboratories, Inc.Class A",NYSE
+DLCA,Deep Lake Capital Acquisition Corp. Class A Ordinary Shares,NASDAQ
 DLCAU,Deep Lake Capital Acquisition Corp. Unit,NASDAQ
+DLCAW,Deep Lake Capital Acquisition Corp. Warrant,NASDAQ
 DLCR,Kibush Capital Corporation Common Stock,U
 DLDG,DLD Group Inc. Common Stock,U
 DLEGF,Delta Electronics Thailand Public Co Ltd Shares Foreign Registered (Thailand),U
@@ -1423,7 +1423,6 @@ DRHNF,Dr.Hoenle Ag Planegg Ordinary Shares (Germany),U
 DRI,"Darden Restaurants, Inc.",NYSE
 DRIFF,Xiana Mining Inc Ordinary Shares (Canada),U
 DRIO,DarioHealth Corp. Common Stock,NASDAQ
-DRIOW,DarioHealth Corp. Warrant,NASDAQ
 DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares,ARCA
 DRIV,Global X Funds Global X Autonomous & Electric Vehicles ETF,NASDAQ
 DRKOF,Martello Technologies Group Inc Ordinary Shares,U
@@ -1845,7 +1844,6 @@ ECYWF,Wisdomtree Commodity Sec Ltd Wheat Common Shares,U
 ED,"Consolidated Edison, Inc.",NYSE
 EDAP,EDAP TMS S.A. American Depositary Shares,NASDAQ
 EDC,"Direxion Daily Emerging Markets Bull 3X Shares, Shares of beneficial interest, no par value",ARCA
-EDCFF,Endesa Costanera SA Ordinary Shares B 1 Vote (Argentina),U
 EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",NYSE
 EDDRF,Edreams Odigeo SA Ordinary Shares (Luxemborg),U
 EDDYF,Edison Cobalt Corp. Ordinary Shares,U
@@ -2031,7 +2029,6 @@ EIC,Eagle Point Income Company Inc.,NYSE
 EICAF,Enegrica Mtr Co SPA Ordinary Shares (Italy),U
 EICSF,Electricite de Strasbourg Ordinary Shares (France),U
 EIDO,iShares MSCI Indonesia ETF,ARCA
-EIDXF,Eid Parry India Ltd Reg S GDR (India),U
 EIFZF,Exchange Income Corp. Ordinary Shares (Canada),U
 EIG,"Employers Holdings, Inc.",NYSE
 EIGH,8000 Inc Common,U
@@ -2271,7 +2268,9 @@ ENDTF,Canoe EIT Income Fund Units (Canada),U
 ENDV,"Endonovo Therapeutics, Inc. Common Stock",U
 ENEAY,Enea SA Unsponsored ADR (Poland),U
 ENEKF,ENEA AKTEIEBOLAG SHARE AK NEW (Sweden),U
+ENFA,"890 5th Avenue Partners, Inc. Class A Common Stock",NASDAQ
 ENFAU,"890 5th Avenue Partners, Inc. Unit",NASDAQ
+ENFAW,"890 5th Avenue Partners, Inc. Warrant",NASDAQ
 ENFR,Alerian Energy Infrastructure ETF,ARCA
 ENG,ENGlobal Corporation Common Stock,NASDAQ
 ENGA,"Engage Mobility, Inc. Com",U
@@ -2338,6 +2337,7 @@ ENV,"ENVESTNET, INC.",NYSE
 ENVA,"Enova International, Inc.",NYSE
 ENVB,"Enveric Biosciences, Inc. Common Stock",NASDAQ
 ENVIU,Environmental Impact Acquisition Corp. Unit,NASDAQ
+ENVL,Environmental Landfills Inc Common Stock,U
 ENVS,Enova Systems Inc. Common Stock,U
 ENX,Eaton Vance New York Municipal Bond Fund,AMEX
 ENYNF,ENERNORTH INDUSTRIES,U
@@ -3040,7 +3040,9 @@ FCACW,Falcon Capital Acquisition Corp. Warrant,NASDAQ
 FCAFF,Firm Cap Apt REIT Unit (Canada),U
 FCAL,First Trust Exchange-Traded Fund III First Trust California Municipal High Income ETF,NASDAQ
 FCAP,"First Capital, Inc. Common Stock",NASDAQ
+FCAX,Fortress Capital Acquisition Corp.,NYSE
 FCAX U,"Fortress Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-fift",NYSE
+FCAX WS,"Fortress Capital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary",NYSE
 FCBBF,FINECOBANK BANCA FINECO SPA Ordinary Shares (Italy),U
 FCBC,"First Community Bankshares, Inc. (VA) Common Stock",NASDAQ
 FCBP,First Choice Bancorp Common Stock,NASDAQ
@@ -3327,8 +3329,10 @@ FIKVF,FIJI KAVA LTD Common Stock,U
 FILL,iShares MSCI Global Energy Producers ETF,ARCA
 FIND,"FindEx.com, Inc. Common Stock",U
 FINGF,Finning Intl Inc Ordinary Shares,U
+FINM,Marlin Technology Corporation Class A Ordinary Share,NASDAQ
 FINMF,Leonardo SPA Ordinary Shares,U
 FINMU,Marlin Technology Corporation Unit,NASDAQ
+FINMW,Marlin Technology Corporation Warrant,NASDAQ
 FINMY,Leonardo S.P.A. American Depositary Receipts - Unsponsored,U
 FINN,"First National of Nebraska, Inc. Common Stock",U
 FINS,Angel Oak Financial Strategies Income Term Trust,NYSE
@@ -3860,6 +3864,7 @@ FRRVF,Ferrovial SA Ordinary Shares (Spain),U
 FRRVY,Ferrovial SA Unsponsored ADR (Spain),U
 FRSAF,FIRST AU LTD Ordinary Shares,U
 FRSB,First Resource Bank (PA) Common Stock,U
+FRSGU,First Reserve Sustainable Growth Corp. Unit,NASDAQ
 FRSHY,China Jinmao Holdings Group Ltd. American Depositary Receipts - Unsponsored,U
 FRSI,FIRST RATE STAFFING CORP Common Stock,U
 FRSRF,Frasers Hospitality Tr Stapled Security (Singapore),U
@@ -3992,7 +3997,7 @@ FTFT,Future FinTech Group Inc. Common Stock,NASDAQ
 FTFY,"Fit After Fifty, Inc. Common Stock",U
 FTGC,First Trust Exchange-Traded Fund VII First Trust Global Tactical Commodity Strategy Fund,NASDAQ
 FTGFF,Firan Technology Group Corp Ordinary Shares (Canada),U
-FTGI,Finotec Group Inc. Common Stock,U
+FTGI,FINOTEC GROUP INC Common Stock,U
 FTGPF,First Tr Global Fds Plc A Dow Jones Internet UCITS ETF A USD ACC Exchange Traded Fund (Ireland),U
 FTHI,First Trust Exchange-Traded Fund VI First Trust BuyWrite Income ETF,NASDAQ
 FTHM,Fathom Holdings Inc. Common Stock,NASDAQ
@@ -4203,7 +4208,6 @@ GAMCF,"GAMMA COMMUNICATIONS PLC, SHS (United Kingdom)",U
 GAMN,"Great American Food Chain, Inc. (The) Common Stock",U
 GAMR,Wedbush ETFMG Video Game Tech ETF,ARCA
 GAN,GAN Limited Ordinary Shares,NASDAQ
-GAPA U,"G&P Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of on",NYSE
 GAPJ,"Golden Apple Oil & Gas, Inc. Common Stock",U
 GARB,Garb Oil & Power Corporation Common Stock,U
 GARLF,Netcoins Hldgs Inc Ordinary Shares,U
@@ -4340,6 +4344,7 @@ GCPSF,GCP Student Living PLC Ordinary Shares (United Kingdom),U
 GCRCF,GOLCAP RES CORP Common Shares,U
 GCRIF,"Rogue Resources, Inc. Ordinary Shares",U
 GCRPF,GLOBAL CONNECTION PUBLIC CO LTD NVDR SHARES (Thailand),U
+GCSSF,GECOSS CORP Ordinary Shares,U
 GCTAF,Siemens Gamesa Renewable Energy Ordinary Shares,U
 GCTAY,Siemens Gamesa Renewable Energy American Depositary Receipts - Unsponsored,U
 GCTY,Gain Cities Limited Common Stock,U
@@ -5355,3 +5360,4 @@ GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
