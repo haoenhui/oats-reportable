@@ -322,7 +322,9 @@ ADDLY,ADDLIFE AB Unsponsored ADR (Sweden),U
 ADDXF,Addex Pharmaceuticals Ltd. Ordinary Shares (Switzerland),U
 ADDYY,adidas AG Sponsored ADR (Germany),U
 ADEC,Alternative Energy Development Corporation Common Stock,U
+ADER,26 Capital Acquisition Corp. Class A Common Stock,NASDAQ
 ADERU,26 Capital Acquisition Corp. Unit,NASDAQ
+ADERW,26 Capital Acquisition Corp. Warrant,NASDAQ
 ADERY,Aida Engineering Ltd ADR,U
 ADES,"Advanced Emissions Solutions, Inc. Common Stock",NASDAQ
 ADEVF,ADEVINTA ASA Ordinary Shares (Norway),U
@@ -421,7 +423,9 @@ ADYYF,Adyen N.V. Ordinary Shares (Netherlands),U
 ADZCF,DB AGRIC SHORT EXCHANGE TRADED NT due 04/01/2038,U
 ADZZF,"Advance Residence Investment Corporation New, Tokyo Ordinary Shares (Japan)",U
 AE,Adams Resources & Energy Inc.,AMEX
+AEAC,Authentic Equity Acquisition Corp. Class A ordinary share,NASDAQ
 AEACU,Authentic Equity Acquisition Corp. Unit,NASDAQ
+AEACW,Authentic Equity Acquisition Corp. Warrant,NASDAQ
 AEB,AEGON N.V. 5.29964% Floating Rate Perpetual Capital Securities,NYSE
 AEBZY,Anadolu Efes Biracilik Ve Malt Sanayi AS Sponsored ADR Reg S (Turkey),U
 AECFF,Action Energy Inc Ordinary Shares (Canada),U
@@ -1557,7 +1561,6 @@ ARKAF,Arkema Ordinary Shares (France),U
 ARKAY,Arkema Sponsored ADR (France),U
 ARKF,ARK Fintech Innovation ETF,ARCA
 ARKG,ARK Genomic Revolution ETF,BATS
-ARKIU,Ark Global Acquisition Corp. Unit,NASDAQ
 ARKK,ARK Innovation ETF,ARCA
 ARKO,ARKO Corp. Common Stock,NASDAQ
 ARKOW,ARKO Corp. Warrant,NASDAQ
@@ -1650,7 +1653,7 @@ ARZTY,"Aryzta Ag, Zuerich Unsponsored ADR (Switzerland)",U
 ASA,ASA GOLD AND PRECIOUS METALS LIMITED,NYSE
 ASAAF,At& S Austria Technologie & & SystemTechnik AG Leoben (Austria),U
 ASAGF,Australian Agricultural Co Ordinary Shares,U
-ASAI WI,Sendas Distribuidora S.A. American Depositary Share (each representing one Common Share),NYSE
+ASAI,Sendas Distribuidora S.A. American Depositary Share (each representing one Common Share),NYSE
 ASAIF,Artificial Solutions International AB Ordinary Shares (Sweden),U
 ASAM,AssuranceAmerica Corporation Common Stock,U
 ASAN,"Asana, Inc. Class A Common Stock",NYSE
@@ -1682,7 +1685,7 @@ ASCKD,AUSCRETE CORP Common Stock,U
 ASCLF,Ascletis Pharma Inc Ordinary Shares (Cayman Islands),U
 ASCN,Absecon Bancorp Common Stock,U
 ASCOF,Ascopiave SPA Treviso Ordinary Shares (Italy),U
-ASDND,Astro Aerospace Ltd. Common Stock,U
+ASDN,Astro Aerospace Ltd. Common Stock,U
 ASDOF,Ansaldo Sts Spa Genova Ordinary Shares (Italy),U
 ASDRF,Ascendant Res Inc Ordinary Shares,U
 ASDZF,Arctic Star Expl Corp Common Shares,U
@@ -2281,7 +2284,6 @@ BADG,Badger St Ethanol LLC Cap Unit Class A,U
 BADGA,Badger St Ethanol LLC Unit CL A-1,U
 BAESF,Bae Systems Plc Ord Gbp .025 Ordinary Shares,U
 BAESY,BAE SYSTEMS plc Sponsored ADR,U
-BAF,BLACKROCK MUNICIPAL INCOME INVESTMENT QUALITY TRUST,NYSE
 BAFBF,Balfour Beatty Plc Ordinary Shares,U
 BAFI,BancAffiliated Inc Common Stock,U
 BAFYY,Balfour Beatty Plc Sponsored ADR (United Kingdom),U
@@ -2368,7 +2370,6 @@ BBIN,JPMorgan BetaBuilders International Equity ETF,BATS
 BBIO,"BridgeBio Pharma, Inc. Common Stock",NASDAQ
 BBIXF,Bonus Biogroup Ltd Ordinary Shares (Israel),U
 BBJP,JPMorgan BetaBuilders Japan ETF,BATS
-BBK,Blackrock Municipal Bond Trust,NYSE
 BBKCF,BIGG DIGITAL ASSETS INC Ordinary Shares,U
 BBL,BHP Group Plc American Depositary Shares (Each representing two Ordinary Shares),NYSE
 BBLC,Blockchain Loyalty Corp. Common Stock,U
@@ -2442,7 +2443,7 @@ BCEKF,Bear Creek Mining Corp Common Stock,U
 BCEL,"Atreca, Inc. Class A Common Stock",NASDAQ
 BCEPF,BCE INC 1st Pfd Ser AC (Canada),U
 BCEXF,BCE INC 1st Preferred Series AK (Canada),U
-BCGOF,Pan Andean Minerals Ltd Common Shares,U
+BCGOF,NEO BATTERY MATLS LTD Common Shares,U
 BCH,Banco de ChileAmerican Depositary Shares (Each representing 200 shares of Common Stock),NYSE
 BCHEY,Beach Energy Ltd. Unsponsored American Depository Receipt (Australia),U
 BCHFP,Birchcliff Energy Ltd. New Redeemable Pfd Ser A (Canada),U
@@ -2519,6 +2520,7 @@ BDIMF,Black Diamond Group Ltd Ordinary Shares (Canada),U
 BDIXF,Biolidics Limited Ordinary Shares Japan_,U
 BDJ,BlackRock Enhanced Equity Dividend Trust,NYSE
 BDL,Flanigan's Enterprises Inc,AMEX
+BDLSF,BARD1 LIFE SCIENCES LTD ORD (Australia),U
 BDMMF,BURGUNDY DIAMOND MINES LTD Ordinary Fully Paid (Australia),U
 BDMXF,Budimex SA Ordinary Shares (Poland),U
 BDN,Brandywine Realty Trust,NYSE
@@ -2956,7 +2958,7 @@ BLGFF,BAILLIE GIFFORD US GROWTH TR PLC Ordinary Shares United Kingdom(GB ),U
 BLGI,"BLGI, Inc.   Common Stock",U
 BLGO,"BioLargo, Inc. Common Stock",U
 BLGPY,Boart Longyear Group American Depositary Receipts - Unsponsored,U
-BLGVF,BELGRAVIA HARTFORD CAP INC Common Shares,U
+BLGVD,BELGRAVIA HARTFORD CAP INC Common Shares,U
 BLHEF,Baloise Holding AG Ordinary Shares (Switzerland),U
 BLHEY,Baloise Holding AG Unsponsored ADR (Switzerland),U
 BLHI,"Blue Holdings, Inc. Common Stock",U
@@ -3038,6 +3040,7 @@ BLZSF,BSD Crown Ltd. Ordinary Shares (Israel),U
 BMA,Banco Macro S.A.,NYSE
 BMAR,Innovator S&P 500 Buffer ETF - March,BATS
 BMAY,Innovator S&P 500 Buffer ETF - May,BATS
+BMBIF,BRIGHT MINDS BIOSCIENCES INC COM (Canada),U
 BMBL,Bumble Inc. Class A Common Stock,NASDAQ
 BMBLF,Brambles Ltd Ordinary Shares (Australia),U
 BMBN,"Benchmark Bankshares, Inc. (VA) Common Stock",U
@@ -3958,7 +3961,6 @@ CBCY,Central Bancompany Unclassified,U
 CBCYB,Central Bancompany Class B Non-Voting Common Stock,U
 CBCZ,Comunibanc Corp Common Stock,U
 CBD,Companhia Brasileira de Distribuicao,NYSE
-CBD WI,Companhia Brasileira de Distribuicao American Depositary Shares (Each representing one Common Share),NYSE
 CBDC,"Apotheca Biosciences, Inc. Common Stock",U
 CBDD,"CBD of Denver, Inc. Common Stock",U
 CBDEF,BLUENRGY GROUP LTD Ordinary Shares,U
@@ -4778,12 +4780,15 @@ CL,Colgate-Palmolive Company,NYSE
 CLA,Colonnade Acquisition Corp.,NYSE
 CLA U,"Colonnade Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one",NYSE
 CLA WS,"Colonnade Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share",NYSE
+CLAA U,"Colonnade Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of",NYSE
 CLABF,Core One Labs Inc Common Shares,U
 CLAD,"China Liaoning Dingxu Ecological Agriculture Development, Inc. Common Stock",U
 CLALF,Clal Insurance CO Ltd. Ordinary Shares (Israel),U
 CLAM,Classic Mining Corp Utah Common Stock,U
 CLAR,Clarus Corporation Common Stock,NASDAQ
+CLAS,Class Acceleration Corp.,NYSE
 CLAS U,"Class Acceleration Corp. Units, each consisting of one share of Class A common stock and one-half of",NYSE
+CLAS WS,"Class Acceleration Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class",NYSE
 CLASF,Questex Gold & Copper Ltd Common Shares,U
 CLAVF,Camellia Investments Plc Ordinary Shares,U
 CLAYF,iShares 1-5 Year Laddered Corporate Bond Index ETF (Canada),U

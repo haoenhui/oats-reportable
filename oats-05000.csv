@@ -281,6 +281,7 @@ CRZNF,Corazon Mining Ltd Ordinary Shares (Australia),U
 CRZY,Crazy Woman Creek Bancorp Incorporated Common Stock,U
 CS,Credit Suisse Group,NYSE
 CSA,VictoryShares US Small Cap Volatility Wtd ETF,NASDAQ
+CSAN WI,Cosan S.A. American Depositary Shares (each representing one Common Share),NYSE
 CSASF,Credit Saison Co Ltd Ordinary Shares (Japan),U
 CSASY,Credit Saison Co Ltd Unsponsored ADR (Japan),U
 CSAY,China SheSays Medical Cosmetology Inc.  Common Stock,U
@@ -771,7 +772,6 @@ CZNL,Citizens National Corporation (KY) Common Stock,U
 CZR,"Caesars Entertainment, Inc. Common Stock",NASDAQ
 CZSVF,GOLDCORE RES LTD Ordinary Shares,U
 CZWI,"Citizens Community Bancorp, Inc. Common Stock",NASDAQ
-CZZ,Cosan Limited,NYSE
 D,"Dominion Energy, Inc Common Stock",NYSE
 DAAT,"DAC Technologies Group International, Inc. Common Stock",U
 DAC,Danaos Corporation,NYSE
@@ -965,7 +965,7 @@ DEM,WisdomTree Emerging Markets High Dividend Fund,ARCA
 DEMEF,De Mem Limited Ordinary Shares (Australia),U
 DEMO,"Democrasoft, Holdings Inc. Common Stock",U
 DEMWF,WISDOMTREE ISSUER ICAV PTG.SHS ETF (Ireland),U
-DEMZ,The Advisors' Inner Circle Fund III DEMZ Political Contributions ETF,NASDAQ
+DEMZ,The Advisors' Inner Circle Fund III Democratic Large Cap Core ETF,NASDAQ
 DEN,Denbury Inc.,NYSE
 DENI,Denali Bancorp Inc Common Stock,U
 DENKF,DENKA CO LTD SHS (Japan),U
@@ -1563,7 +1563,6 @@ DTXMF,Deltex Medical Group Plc Ordinary Shares,U
 DTY,DTE Energy Company 2016 Series F 6.00% Junior Subordinated Debentures due 2076,NYSE
 DUAVF,Dassault Aviation Ord Ordinary Shares,U
 DUBRF,DUBBER CORP LTD SHS (Australia),U
-DUC,Duff & Phelps Utility & Corporate Bond Trust,NYSE
 DUDE,Merlyn.AI SectorSurfer Momentum ETF,BATS
 DUERF,Duerr A G Ordinary Shares,U
 DUFRY,Dufry AG Unsponsored ADR (Switzerland),U
@@ -2336,7 +2335,9 @@ ENTXW,Entera Bio Ltd. Warrant,NASDAQ
 ENV,"ENVESTNET, INC.",NYSE
 ENVA,"Enova International, Inc.",NYSE
 ENVB,"Enveric Biosciences, Inc. Common Stock",NASDAQ
+ENVI,Environmental Impact Acquisition Corp. Class A Common Stock,NASDAQ
 ENVIU,Environmental Impact Acquisition Corp. Unit,NASDAQ
+ENVIW,Environmental Impact Acquisition Corp. Warrant,NASDAQ
 ENVL,Environmental Landfills Inc Common Stock,U
 ENVS,Enova Systems Inc. Common Stock,U
 ENX,Eaton Vance New York Municipal Bond Fund,AMEX
@@ -3185,7 +3186,7 @@ FEP,First Trust Europe AlphaDEX Fund,NASDAQ
 FEPTY,Far East Pharmaceutical Technology Company Ltd Sponsored ADR (Cayman Islands),U
 FEQT,First Equities Corp Common Stock,U
 FERD,Ferd Corp. Common Stock,U
-FERGY,Ferguson plc American Depositary Receipts - Sponsored,U
+FERG,Ferguson plc,NYSE
 FERL,"FEARLESS FILMS, INC. Common Stock",U
 FERN,Fernhill Corp. Common Stock,U
 FESNF,First Real Estate Investment Trust Units (Singapore),U
@@ -3997,7 +3998,7 @@ FTFT,Future FinTech Group Inc. Common Stock,NASDAQ
 FTFY,"Fit After Fifty, Inc. Common Stock",U
 FTGC,First Trust Exchange-Traded Fund VII First Trust Global Tactical Commodity Strategy Fund,NASDAQ
 FTGFF,Firan Technology Group Corp Ordinary Shares (Canada),U
-FTGI,FINOTEC GROUP INC Common Stock,U
+FTGID,Lvpai Group Limited Common Stock,U
 FTGPF,First Tr Global Fds Plc A Dow Jones Internet UCITS ETF A USD ACC Exchange Traded Fund (Ireland),U
 FTHI,First Trust Exchange-Traded Fund VI First Trust BuyWrite Income ETF,NASDAQ
 FTHM,Fathom Holdings Inc. Common Stock,NASDAQ
@@ -4826,7 +4827,9 @@ GMXTF,GMexico Transportes SAB de CV SHS of Financial Groups and Industrial Retai
 GMYOY,GMO Internet Inc Unsponsored American Depository Receipt (Japan),U
 GMYTF,"GMO Payment Gateway, Inc. Ordinary Shares (Japan)",U
 GMZP,GEMZ Corporation Common Stock,U
+GNAC,Group Nine Acquisition Corp. Class A Common stock,NASDAQ
 GNACU,Group Nine Acquisition Corp. Unit,NASDAQ
+GNACW,Group Nine Acquisition Corp. Warrant,NASDAQ
 GNAF,"MicroSectors FANG+ Index Inverse ETNs due January 8, 2038",ARCA
 GNAL,"Generation Alpha, Inc. Common Stock",U
 GNBF,"GNB Financial Services, Inc. Common Stock",U
@@ -5100,6 +5103,8 @@ GROLF,Petrotarg AB Ordinary Shares,U
 GROUF,Grafton Group plc Unit (Ireland),U
 GROUY,Grafton Group plc Unsponsored ADR representing Units (Ireland),U
 GROW,"U.S. Global Investors, Inc. Class A Common Stock",NASDAQ
+GROY,Gold Royalty Corp.,AMEX
+GROY WS,"Gold Royalty Corp. Warrants, each warrant exercisable for one common share at an exercise price of $",AMEX
 GRP U,GRANITE REAL ESTATE INVESTMENT TRUST,NYSE
 GRPAQ,Grupo Aeromexico SAB DE CV Ordinary Shares (Mexico),U
 GRPBF,Grupo Lala SAB de CV Ordinary Shares (Mexico),U
@@ -5291,6 +5296,7 @@ GTRL,"Get Real USA, Inc Common Stock",U
 GTS,Triple-S Management Corporation,NYSE
 GTSIF,LOBE SCIENCES LTD Common Stock,U
 GTSO,"Green Technology Solutions, Inc. Common Stock",U
+GTSWF,GETSWIFT TECHNOLOGIES LTD Ordinary Shares,U
 GTT,"GTT Communications, Inc.",NYSE
 GTTCF,Gattaca PLC Ordinary Shares (United Kingdom),U
 GTTL,Getelman Corp Common Stock,U
@@ -5359,5 +5365,3 @@ GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
-GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U

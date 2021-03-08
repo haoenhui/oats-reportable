@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWB,"Great Western Bancorp, Inc.",NYSE
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
@@ -187,7 +189,9 @@ HCBN,H.C.B. Financial Corporation Common Stock,U
 HCBP,"Harvest Community Bank (Pennsville Township, NJ) Common Stock",U
 HCC,"Warrior Met Coal, Inc.",NYSE
 HCCA,Healthcare Corporation of America Common Stock,U
+HCCC,Healthcare Capital Corp. Class A common stock,NASDAQ
 HCCCU,Healthcare Capital Corp. Unit,NASDAQ
+HCCCW,Healthcare Capital Corp. Warrant,NASDAQ
 HCCI,"Heritage-Crystal Clean, Inc. Common Stock",NASDAQ
 HCDI,"Harbor Custom Development, Inc. Common Stock",NASDAQ
 HCEI,"Healthy Coffee International, Inc. Common Stock",U
@@ -199,7 +203,9 @@ HCHDF,"Hochschild Mining PLC, London Ordinary Shares (United Kingdom)",U
 HCHDY,"Hochschild Mining PLC, London Unsponsored ADR (UK)",U
 HCHOF,Hotel Chocolat Group Ltd. Ordinary Shares (United Kingdom),U
 HCI,"HCI Group, Inc.",NYSE
+HCIC,Hennessy Capital Investment Corp. V Class A Common Stock,NASDAQ
 HCICU,Hennessy Capital Investment Corp. V Units,NASDAQ
+HCICW,Hennessy Capital Investment Corp. V Warrant,NASDAQ
 HCIIP,"HCI Group, Inc. 7% Series A Cumulative Redeemable Preferred Stock",U
 HCIIU,Hudson Executive Investment Corp. II Unit,NASDAQ
 HCKG,"Hocking Valley Bancshares, Inc (OH) Common Shares",U
@@ -619,6 +625,7 @@ HNUZF,BETAPRO NAT GAS LEVERAGED DAILY BULL ETF Unit,U
 HNW,Pioneer Diversified High Income Trust,AMEX
 HNWAF,Hanwa Co Ltd Ordinary Shares (Japan),U
 HNWEF,Hanwei Energy Svcs Corp Common Shares (Canada),U
+HNXMF,HUANXI MEDIA GROUP LTD Ordinary Shares,U
 HOCFF,Hochtief A G Ordinary Shares,U
 HOCMF,Honshu Chemical Industry Co Ltd Ordinary Shares (Japan),U
 HOCPF,Hoya Corp Ordinary Shares (Japan),U
@@ -2098,7 +2105,6 @@ ITA,iShares U.S. Aerospace & Defense ETF,BATS
 ITAC,"Industrial Tech Acquisitions, Inc. Class A common stock",NASDAQ
 ITACU,"Industrial Tech Acquisitions, Inc. Unit",NASDAQ
 ITACW,"Industrial Tech Acquisitions, Inc. Warrant",NASDAQ
-ITARF,ITAB SHOP CONCEPT AB SUBSCRIPTION RIGHT TR B 210216 (Sweden),U
 ITAYY,Indo Tambangraya Megah PT Unsponsored ADR (Indonesia),U
 ITB,iShares U.S. Home Construction ETF,BATS
 ITBFF,IShares PLC - IShares USD Treasury Bond 1-3 Fund Shs (Ireland),U
@@ -3304,6 +3310,7 @@ KUNUF,Kunlun Energy Company Ltd Ordinary Shares (Bermuda),U
 KURA,"Kura Oncology, Inc. Common Stock",NASDAQ
 KURCF,Kureha Corp Ordinary Shares (Japan),U
 KURE,KraneShares MSCI All China Health Care Index ETF,ARCA
+KURIU,Alkuri Global Acquisition Corp. Unit,NASDAQ
 KURRF,Kuraray Co Ordinary Shares,U
 KURRY,Kuraray Co Unsponsored ADR (Japan),U
 KUSA,"Kashin, Inc. Common Stock",U
@@ -3410,7 +3417,6 @@ LAWS,"Lawson Products, Inc. Common Stock",NASDAQ
 LAXAF,Laxai Pharma Ltd. Ordinary Shares,U
 LAZ,Lazard Ltd. Class A,NYSE
 LAZR,"Luminar Technologies, Inc. Class A Common Stock",NASDAQ
-LAZRW,"Luminar Technologies, Inc. Warrant",NASDAQ
 LAZY,"Lazydays Holdings, Inc. Common Stock",NASDAQ
 LAZYW,"Lazydays Holdings, Inc. Cm St Warrant   03/15/2023",U
 LB,"L Brands, Inc.",NYSE
@@ -3630,7 +3636,7 @@ LGNRF,Legend Holdings Corp Registered\Shares H\Cny 1.00 (China),U
 LGNXZ,Ligand Pharmaceuticals Incorporated Glucagon Contingent Value Rt,U
 LGNYZ,Ligand Pharmaceuticals Incorporated General Contingent Value Right,U
 LGNZZ,Ligand Pharmaceuticals Incorporated Tr Beta Continngent Value Right,U
-LGORF,Largo Resources Ltd Ordinary Shares,U
+LGORD,Largo Resources Ltd Ordinary Shares,U
 LGOV,First Trust Long Duration Opportunities ETF,ARCA
 LGOYF,Logo Yazilim Sanayi Ve Ticaret AS Ordinary Shares (Turkey),U
 LGRDY,LEGRAND SA Unsponsored ADR (France),U
@@ -5359,4 +5365,3 @@ MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
 MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
 MTH,Meritage Homes Corporation,NYSE
 MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
-MTHRF,"M3, Inc. Ordinary Shares (Japan)",U

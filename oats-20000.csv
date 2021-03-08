@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
 SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
 SHMCF,Renewi PLC Ordinary Shares,U
 SHMDF,Shimano Inds Ordinary Shares,U
@@ -256,6 +257,7 @@ SKUNF,Seikagaku Corp SHS (Japan),U
 SKUYF,Sansei Yusoki Co Ltd Ordinary Shares,U
 SKVI,"Skinvisible, Inc. Common Stock",U
 SKVY,Sentry Technology Corporation Common Stock,U
+SKWG,Skywealth Group Inc. Common Stock,U
 SKX,"Skechers U.S.A., Inc.",NYSE
 SKXJF,Sankyo Co Ltd Gunma Ordinary Shares (Japan),U
 SKY,Skyline Champion Corporation Common Stock,NYSE
@@ -279,7 +281,9 @@ SLCH,"Spotlight Capital Holdings, Inc Common Stock",U
 SLCJF,SLC Agricola Sa Ordinary shares (Brazil),U
 SLCJY,SLC Agricola Sa Sponsored American Depository Receipt (Brazil),U
 SLCO,"Sovereign Lithium, Inc. Common Stock",U
+SLCR,Silver Crest Acquisition Corporation Class A Ordinary Share,NASDAQ
 SLCRU,Silver Crest Acquisition Corporation Unit,NASDAQ
+SLCRW,Silver Crest Acquisition Corporation Warrant,NASDAQ
 SLCT,"Select Bancorp, Inc. Common Stock",NASDAQ
 SLDB,Solid Biosciences Inc. Common Stock,NASDAQ
 SLDGF,Solidusgold Inc. Ordinary Shares (Canada),U
@@ -1283,6 +1287,7 @@ STND,Standard AVB Financial Corp. Common Stock,NASDAQ
 STNDF,SANTANDER UK PLC 8 5/8 % NON -CUM STERLING Preference Shares United Kingdom(GB ),U
 STNE,StoneCo Ltd. Class A Common Shares,NASDAQ
 STNG,Scorpio Tankers Inc.,NYSE
+STNRF,STINGER RES INC COM (Canada),U
 STNT,Stevia Nutra Corp. Common Stock,U
 STNX,"Startronix International, Inc. Common Stock",U
 STOHF,Equinor ASA Ordinary Shares,U
@@ -1903,13 +1908,13 @@ TDPAY,TODS S P A Unsponsored ADR Repstg 1/10 SHS(Italy),U
 TDRCF,Todd Riv Res Ltd Ordinary Fully Paid (Australia),U
 TDRRF,Tudor Gold Corp Ordinary Shares (Canada),U
 TDS,Telephone and Data Systems Inc.,NYSE
+TDS PRU,"Telephone and Data Systems, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.62",NYSE
 TDSA,Cabana Target Drawdown 5 ETF,ARCA
 TDSB,Cabana Target Drawdown 7 ETF,ARCA
 TDSC,Cabana Target Drawdown 10 ETF,ARCA
 TDSD,Cabana Target Drawdown 13 ETF,ARCA
 TDSE,Cabana Target Drawdown 16 ETF,ARCA
 TDSGF,Telo Genomics Corp Ordinary Shares,U
-TDSUP,TELEPHONE & DATA SYS INC DEPOSITARY SH REPSTG 1/1000 INT SER UU PERP PFD,U
 TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund,ARCA
 TDTRF,Trident Royalties PLC Ordinary Shares (United Kingdom),U
 TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund,ARCA
@@ -2856,7 +2861,6 @@ TTCFF,True Telecommunication Growth Infrastructure FD Units (Thailand),U
 TTCIF,TITAN CEM INTL N V REGISTERED SHS (Belgium),U
 TTCM,Tautachrome Inc. Common Stock,U
 TTCNF,"Telit Communications Plc, London Ordinary shares (United Kingdom)",U
-TTCSD,Skywealth Group Inc. Common Stock,U
 TTD,"The Trade Desk, Inc. Class A Common Stock",NASDAQ
 TTDKF,TDK Corp Ordinary Shares (Japan),U
 TTDKY,TDK Corporation Common Stock,U
@@ -4610,7 +4614,6 @@ WOR,"WORTHINGTON INDUSTRIES, INC. COMMON SHARES",NYSE
 WORC,"Wake Up Now, Inc. New Common Stock",U
 WORK,"Slack Technologies, Inc.",NYSE
 WORX,SCWorx Corp. Common Stock,NASDAQ
-WOSCF,Ferguson Plc New Ordinary Shares,U
 WOSSF,Water Oasis Group Limited Ordinary Shares,U
 WOW,"WideOpenWest, Inc. Common Stock",NYSE
 WOWI,"Metro One Telecommunications, Inc. Common Stock",U
@@ -4658,7 +4661,7 @@ WRE,Washington Real Estate Investment Trust,NYSE
 WRFRF,Wharf Real Estate Investment Co Ltd,U
 WRFX,"Worldflix, Inc. Common Stock",U
 WRGL,Warrior Girl Corp Common Stock,U
-WRHLF,WORLD HIGH LIFE PLC Ordinary Shares,U
+WRHLF,LOVE HEMP GROUP PLC Ordinary Shares,U
 WRI,Weingarten Realty Investors,NYSE
 WRIT,"WRIT Media Group, Inc Common Stock",U
 WRIV,White River Bancshares Co Common Stock,U
@@ -4677,6 +4680,7 @@ WRTBY,Wartsila Corporation Unsponsored ADR (Finland),U
 WSBC,"WesBanco, Inc. Common Stock",NASDAQ
 WSBCP,"WesBanco, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 6.75% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ
 WSBF,"Waterstone Financial, Inc. Common Stock (MD)",NASDAQ
+WSBPF,WASKITA BETON PRECAST TBK PT (Indonesia),U
 WSC,WillScot Mobile Mini Holdings Corp. Class A Common Stock,NASDAQ
 WSCC,Waterside Capital Corporation Common Stock,U
 WSCO,"Wall Street Media Co, Inc. Common Stock",U
@@ -5236,6 +5240,7 @@ ZHSHF,ZHONGSHENG GROUP HOLDING LTD Ordinary Shares Cayman Islands(KY ),U
 ZHUD,Zhuding International Limited Common Stock,U
 ZHUZF,"Zhuzhou CRRC Times Electric Co., Ltd.   Ordinary Shares",U
 ZHUZY,"Zhuzhou CRRC Times Electric Co., Ltd. American Depositary Receipts - Unsponsored",U
+ZHYBF,ZHONG YUAN BIO-TECHNOLOGY HLDGS LIMITED USD ORD SHS (Cayman Islands),U
 ZHYLF,Zhaoheng Hydropower Limited Common Stock,U
 ZI,ZoomInfo Technologies Inc. Class A Common Stock,NASDAQ
 ZICX,Zicix Corporation Common Stock,U

@@ -1,5 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTHRF,"M3, Inc. Ordinary Shares (Japan)",U
 MTHRY,"M3, INC.  American Depositary Receipts - Unsponsored  Japan(JP )",U
+MTIRF,MITHRIL RESOURCES LTD SHS (Australia),U
 MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE
 MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
 MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U
@@ -79,7 +81,6 @@ MUE,"BLACKROCK MUNIHOLDINGS QUALITY FUND II, INC",NYSE
 MUEL,Paul Mueller Company Common Stock,U
 MUFG,"Mitsubishi UFJ Financial Group, Inc.",NYSE
 MUGH,Mu Global Holding Limited Common Stock,U
-MUH,"Blackrock Muniholdings Fund II, Inc.",NYSE
 MUHGF,MARUHACHI HOLDINGS CO LTD Com Stock (Japan),U
 MUI,"BLACKROCK MUNIYIELD NEW JERSEY QUALITY FUND, INC.",NYSE
 MUJ,"BLACKROCK MUNIHOLDINGS NEW JERSEY QUALITY FUND, INC.",NYSE
@@ -98,7 +99,6 @@ MURMF,Murchison Minerals Ltd. Ordinary Shares (Canada),U
 MURSF,Murray & Roberts Hldg Ltd Ord Ordinary Shares (South Africa),U
 MURXF,Minotaur Exploration Ltd Ordinary Shares (Australia),U
 MURYF,Murray Intl Trust Plc 25 Par Ordinary Shares,U
-MUS,"BLACKROCK MUNIHOLDINGS QUALITY FUND, INC.",NYSE
 MUSA,MURPHY USA INC.,NYSE
 MUSS,Multi Solutions II Inc Common Stock,U
 MUST,Columbia Multi-Sector Municipal Income ETF,ARCA
@@ -318,10 +318,9 @@ NBW,Neuberger Berman California Municipal Fund Inc.,AMEX
 NBY,"NovaBay Pharmaceuticals, Inc.",AMEX
 NBYCF,Niobay Metals Inc Common Shares,U
 NC,"NACCO Industries, Inc.",NYSE
-NCA,"Nuveen California Municipal Value Fund, Inc.",NYSE
+NCA,Nuveen California Municipal Value Fund,NYSE
 NCAP,"Northsight Capital, Inc. Common Stock",U
 NCAUF,Newcore Gold Ltd Ordinary Shares,U
-NCB,Nuveen California Municipal Value Fund 2,NYSE
 NCBDF,"Bandai Namco Holdings, Inc. Ordinary Shares (Korea South Republic of Korea)",U
 NCBDY,Bandai Namco Hldgs Inc American Depositary Receipts - Unsponsored,U
 NCBS,Nicolet Bankshares Inc. Common Stock,NASDAQ
@@ -617,6 +616,7 @@ NINTF,NINETY ONE PLC Ordinary Shares,U
 NIO,"NIO Inc. American depositary shares, each representing one Class A ordinary share",NYSE
 NIOBF,Niocorp Developments Ltd. Ordinary Shares (Canada),U
 NIOCF,Niocan Inc Ordinary Shares,U
+NIPAF,NIPPON INDOSARI CORPINDO TBK PT (Indonesia),U
 NIPCF,NIPPECRAFT LTD Ordinary Shares (Singapore),U
 NIPKF,Nippon Konpo Unyu Soko Co Ltd Ordinary Shares (Japan),U
 NIPMY,NH Foods Ltd. American Depositary Receipts - Unsponsored,U
@@ -638,7 +638,6 @@ NJMLF,Nojima Co Ltd Ordinary Shares,U
 NJMVF,NICHOLS PLC SHS (United Kingdom),U
 NJR,New Jersey Resources Corp,NYSE
 NJUL,Innovator Nasdaq-100 Power Buffer ETF - July,BATS
-NJV,Nuveen New Jersey Municipal Value Fund Common shares of beneficial interest,NYSE
 NK,"NantKwest, Inc. Common Stock",NASDAQ
 NKE,"Nike, Inc.",NYSE
 NKG,Nuveen Georgia Quality Municipal Income Fund,NYSE
@@ -864,7 +863,6 @@ NPKLY,Nampak Ltd Sponsored ADR New (South Africa),U
 NPKYF,Nippon Kayaku Co Ltd Ordinary Shares (Japan),U
 NPKYY,Nippon Kayaku Co Ltd Unsponsored American Depository Receipt (Japan),U
 NPMFF,Newpeak Metals Ltd. Ordinary Shares (Australia),U
-NPN,Nuveen Pennsylvania Municipal Value Fund Common shares of beneficial interest,NYSE
 NPNGY,Nippon Gas Co Ltd American Depositary Receipts - Unsponsored,U
 NPNKF,Nippon Shinyaku Co Ltd Ordinary Shares (Japan),U
 NPNTQ,"NorthPoint Communications Group, Inc. Common Stock",U
@@ -1333,6 +1331,7 @@ NYUKF,Nippon Yusen Kabushiki Kaisha Ordinary Shares,U
 NYV,Nuveen New York Municipal Value Fund 2,NYSE
 NYVA,Nyvatex Oil Corp Common Stock,U
 NYWKF,NTG Clarity Networks Inc Ordinary Shares,U
+NYXFF,NYXOAH S A  Ordinary Shares,U
 NYXO,Nyxio Technologies Corporation Common Stock,U
 NZEOF,New Zealand Oil & Gas Ltd Ordinary Shares,U
 NZEOY,New Zealand Oil & Gas Ltd American Depositary Receipts - Unsponsored,U
@@ -1356,7 +1355,7 @@ OAKV,Oak View National Bank Warrenton VA Common,U
 OAOFY,PJSC Tatneft American Depositary Receipts - Sponsored,U
 OARFF,Fort St. James Nickel Corp. Ordinary Shares,U
 OARRF,OAR RES LTD Ordinary Shares,U
-OART,Ohio Art Company (The) Common Stock,U
+OARTD,Ohio Art Company (The) Common Stock,U
 OAS,Oasis Petroleum Inc. Common Stock,NASDAQ
 OASMY,Oasmia Pharmaceutical AB American Depositary Shares,U
 OATN,"O.A.T., Inc. Common Stock",U
@@ -1386,7 +1385,9 @@ OCA,Omnichannel Acquisition Corp.,NYSE
 OCA U,"Omnichannel Acquisition Corp. Units, each consisting of one share of Class A common stock and one-ha",NYSE
 OCA WS,"Omnichannel Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A comm",NYSE
 OCANF,Oceanagold Corp Common (Canada),U
+OCAX,OCA Acquisition Corp. Class A Common Stock,NASDAQ
 OCAXU,OCA Acquisition Corp. Unit,NASDAQ
+OCAXW,OCA Acquisition Corp. Warrant,NASDAQ
 OCBI,"Orange County Bancorp, Inc. Common Stock",U
 OCBM,Preferred Commerce Inc. Common Stock,U
 OCC,Optical Cable Corporation Common Stock,NASDAQ
@@ -1425,7 +1426,7 @@ OCTX,Octagon 88 Resources Inc Common Stock,U
 OCTZ,TrueShares Structured Outcome (October) ETF,BATS
 OCUL,"Ocular Therapeutix, Inc. Common Stock",NASDAQ
 OCUP,"Ocuphire Pharma, Inc. Common Stock",NASDAQ
-OCX,OncoCyte Corporation,AMEX
+OCX,OncoCyte Corporation Common Stock,NASDAQ
 ODC,Oil-Dri Corporation of America,NYSE
 ODEFF,"Petrichor Energy, Inc. Ordinary Shares (Canada)",U
 ODERF,Odakyu Electric Railway Co Ltd Ordinary Shares (Japan),U
@@ -2855,6 +2856,7 @@ PPIH,"Perma-Pipe International Holdings, Inc. Common Stock",NASDAQ
 PPII,Coenzyme A Inc. Common Stock,U
 PPINF,Philippine Naitonal Bank PNB Ordinary Shares (Philippines),U
 PPJE,"PPJ Healthcare Enterprises, Inc. Common Stock",U
+PPKTF,PT Pabrik Kertas Tjiwi Kimia Ordinary Shares,U
 PPL,PPL Corporation,NYSE
 PPLFF,PT Perusahaan Perkebunan London Sumatera Tbk Ordinary Shares (Indonesia),U
 PPLFY,PT Perusahaan Perkebunan London Sumatera Tbk Unsponsored ADR (Indonesia),U
@@ -4353,7 +4355,9 @@ ROSN,Rosinbomb Common Stock,U
 ROSSF,Ross Group PLC Ordinary Shares (United Kingdom),U
 ROST,"Ross Stores, Inc. Common Stock",NASDAQ
 ROSYY,PJSC Rostelecom American Depositary Receipts - Sponsored,U
+ROT,Rotor Acquisition Corp.,NYSE
 ROT U,"Rotor Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-half of",NYSE
+ROT WS,"Rotor Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A",NYSE
 ROTH,"PharmaRoth Labs, Inc. Common Shares",U
 ROUS,Hartford Multifactor US Equity ETF,ARCA
 ROVMF,Rover Metals Corp. Ordinary Shares,U
@@ -4377,6 +4381,7 @@ RPD,"Rapid7, Inc. Common Stock",NASDAQ
 RPDT,"Rapidtron, Inc. Common Stock",U
 RPFG,"Rainier Pacific Financial Group, Inc. Common Stock",U
 RPG,Invesco S&P 500 Pure Growth ETF,ARCA
+RPGHF,RPMGLOBAL HLDGS LTD ORDINARY FULLY PAID (Australia),U
 RPGLF,Regent Pacific Group Ltd Ordinary Shares,U
 RPGRF,REA Group Ltd Ordinary Shares (Australia),U
 RPGRY,REA Group Ltd Unsponsored ADR (Australia),U
@@ -4820,6 +4825,7 @@ SBSI,"Southside Bancshares, Inc. Common Stock",NASDAQ
 SBSNF,Schibsted  (F) Ordinary Shares,U
 SBSNY,Schibsted  ASA Unsponsored ADR (Norway),U
 SBSOF,SBS Holdings Ltd Tokyo SHS (Japan),U
+SBSTF,SBS TRANSIT LTD Ordinary Shares,U
 SBSW,"Sibanye-Stillwater American Depositary Shares, each representing four ordinary shares",NYSE
 SBT,"Sterling Bancorp, Inc. Common Stock",NASDAQ
 SBTX,"Silverback Therapeutics, Inc. Common Stock",NASDAQ
@@ -5359,4 +5365,3 @@ SHLOQ,"Shiloh Industries, Inc. Common Stock",U
 SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
 SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
 SHLX,"Shell Midstream Partners, L.P.",NYSE
-SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
