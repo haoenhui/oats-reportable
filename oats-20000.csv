@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
-SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
 SHMCF,Renewi PLC Ordinary Shares,U
 SHMDF,Shimano Inds Ordinary Shares,U
 SHMMF,SAHAMIT MACHINERY PCL PUB CO LTD UNITS NON -VOTING DEPOSITORY RECEIPTS (Thailand),U
@@ -216,6 +214,7 @@ SKHSY,Sekisui House Ltd American Depositary Shares,U
 SKJJF,Streettracks S&P/ASX 200 Fund Ordinary Shares (Australia),U
 SKKAF,Sk Kaken Co Ltd Ordinary Shares (Japan),U
 SKKFF,Strikewell Energy Corp Ordinary Shares (Canada),U
+SKKLF,SHIKOKU CHEMICALS CORP SHS (Japan),U
 SKKRF,SKRR EXPL INC COM (Canada),U
 SKKY,Skkynet Cloud Systems Inc Common Stock,U
 SKLKF,Shinsei Bank Ltd Tokyo Ordinary Shares,U
@@ -254,6 +253,7 @@ SKTPP,Skytop Lodge Corporation Preferred Stock,U
 SKUEF,SEKISUI HSE REIT INC SHS (Japan),U
 SKUFF,Svenska Kullagerfabriken Ab Skf Shares B (Sweden),U
 SKUNF,Seikagaku Corp SHS (Japan),U
+SKURF,"SAKURA INTERNET INC, OSAKA SHS (Japan)",U
 SKUYF,Sansei Yusoki Co Ltd Ordinary Shares,U
 SKVI,"Skinvisible, Inc. Common Stock",U
 SKVY,Sentry Technology Corporation Common Stock,U
@@ -493,7 +493,6 @@ SMTLF,GCL New Energy Holdings Ltd. Ordinary Shares,U
 SMTOF,Sumitomo Electric Ordinary Shares,U
 SMTOY,Sumitomo Electric Industries Ltd Unsponsored ADR,U
 SMTS,Sierra Metals Inc. Common Stock,AMEX
-SMTTF,Sun Metals Corp Common Shares (Canada),U
 SMTUF,Sumitomo Rubber Industries Ltd Ordinary Shares,U
 SMTX,SMTC Corporation Common Stock,NASDAQ
 SMTYF,SAMTY RESIDENTIAL INVT CORP SHS (Japan),U
@@ -987,7 +986,6 @@ SRCGF,Spruce Ridge Res Ltd CDW-Common (Canada),U
 SRCH,Searchlight Minerals Corp. Common Stock,U
 SRCL,"Stericycle, Inc. Common Stock",NASDAQ
 SRCO,"Sparta Commercial Services, Inc. Common Stock",U
-SRCPF,SHERWOOD CORP THAILAND PUB CO LTD Common Stock (Thailand),U
 SRCRF,Scorpio Gold Corp Common Shares,U
 SRCSY,Summit Resources Ltd Unsponsored ADR (Australia),U
 SRCU,Spire Inc Corporate Unit Exp 03/01/2024,U
@@ -2055,6 +2053,7 @@ TGMEF,Togami Electric Mfg Co Ltd Ordinary Shares (Japan),U
 TGMGF,THETA GOLD MINES LTD Ordinary Shares  Australia (AU),U
 TGMR,Troy Gold & Mineral Corporation Common Stock,U
 TGNA,TEGNA Inc.,NYSE
+TGNMF,TUNGSTEN MNG NL SHS (Australia),U
 TGNOF,Trigano SA Ordinary Shares (France),U
 TGODF,Green Organic Dutchman Hlgds Common Stock,U
 TGONF,Tetragon Financial Group Ordinary shares (Jersey),U
@@ -3578,6 +3577,7 @@ VANVF,VANECK VECTORS UCITS ETFS PLC VANECK VECTORS J P MORGAN EM LOCAL CURRENCY 
 VAPE,"Vape Holdings, Inc. Common Stock",U
 VAPO,"Vapotherm, Inc. Common Stock",NYSE
 VAPR,"VaporBrands International, Inc. Common Stock",U
+VAQC,Vector Acquisition Corporation II Class A Ordinary Shares,NASDAQ
 VAQTF,VA Q TEC AG Ordinary Shares (Germany),U
 VAR,"Varian Medical Systems, Inc.",NYSE
 VARGF,Varta AG Ordinary Shares (Germany),U
@@ -3780,7 +3780,9 @@ VIDE,Video Display Corporation,U
 VIDI,Vident International Equity Fund,ARCA
 VIE,"Viela Bio, Inc. Common Stock",NASDAQ
 VIEGF,Waypoint REIT Ltd Other,U
+VIEW,"View, Inc. Class A Common Stock",NASDAQ
 VIEWF,"ViewTran Group, Inc.",U
+VIEWW,"View, Inc. Warrant",NASDAQ
 VIFI,"Vie Financial Group, Inc. Common Stock",U
 VIG,Vanguard Dividend Appreciation ETF,ARCA
 VIGI,Vanguard Whitehall Funds Vanguard International Dividend Appreciation ETF,NASDAQ
@@ -4209,6 +4211,7 @@ VWID,Virtus WMC International Dividend ETF,BATS
 VWO,Vanguard FTSE Emerging Markets ETF,ARCA
 VWOB,Vanguard Whitehall Funds Vanguard Emerging Markets Government Bond ETF,NASDAQ
 VWSYF,Vesta Wind Systems Par Ord Ordinary Shares,U
+VWTR,"Vidler Water Resouces, Inc. Common Stock",NASDAQ
 VXEL,Vitaxel Group Limited Common Stock,U
 VXF,Vanguard Extended Market ETF,ARCA
 VXLLF,Vaxil Bio Ltd Ordinary Shares (Canada),U
@@ -4552,7 +4555,6 @@ WLYYF,Well Health Technologies Corp Ordinary Shares,U
 WM,"Waste Management, Inc.",NYSE
 WMB,Williams Companies Inc.,NYSE
 WMC,WESTERN ASSET MORTGAGE CAPITAL CORPORATION,NYSE
-WMCB,Willamette Community Bank Common Stock,U
 WMCLF,WAM CAPITAL LIMITED SHS (Australia),U
 WMDH,WMD Holdings Group Inc Common Stock,U
 WMDL,Worldmodal Network Services Inc Common Stock,U
@@ -4909,7 +4911,7 @@ XLWH,Xinliwang International Holdings Company Ltd. Common Stock,U
 XLY,Consumer Discretionary Select Sector SPDR Fund,ARCA
 XM,Qualtrics International Inc. Class A Common Stock,NASDAQ
 XME,SPDR S&P Metals & Mining ETF,ARCA
-XMET,Xxstream Entertainment Inc Common Stock,U
+XMETD,HOUMU HLDGS LTD Common Stock,U
 XMEX,Xemex Group Inc. Common stock,U
 XMHQ,Invesco S&P MidCap Quality ETF,ARCA
 XMLV,Invesco S&P MidCap Low Volatility ETF,ARCA

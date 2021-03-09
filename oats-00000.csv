@@ -73,7 +73,7 @@ ABANF,Automatic Bank Services Ltd Ordinary Shares (Israel),U
 ABB,ABB Ltd.,NYSE
 ABBAF,Aberdeen Asian Income Fund Ordinary Shares (Jersey),U
 ABBB,"Auburn Bancorp, Inc. Common Stock",U
-ABBRF,Abraplata Resource Corp Ordinary Shares (Canada),U
+ABBRF,ABRASILVER RESOURCE CORP Ordinary Shares,U
 ABBV,ABBVIE INC.,NYSE
 ABBY,"Abby, Inc  Common Stock",U
 ABC,AmerisourceBergen Corp.,NYSE
@@ -603,6 +603,7 @@ AGGI,"Allied Energy, Inc. Common Stock",U
 AGGKY,Aggreko plc American Depositary Receipts - Unsponsored,U
 AGGL,"AgTech Global International, Inc. Common Stock",U
 AGGNY,Aegean Airls SA American Depositary Receipts - Unsponsored (Greece),U
+AGGRU,Agile Growth Corp. Units,NASDAQ
 AGGX,"AngioGenex, Inc. Common Stock",U
 AGGY,WisdomTree Yield Enhanced U.S. Aggregate Bond Fund,ARCA
 AGGZF,AG Growth International Inc. Common Shares (Canada),U
@@ -1736,7 +1737,6 @@ ASMOF,Astro Malaysia Holdings BHD Ordinary Shares (Malaysia),U
 ASMVF,Asm Pacific Technology Ltd Ordinary Shares,U
 ASMVY,Asm Pacific Technology Ltd Unsponsored ADR (Caymans Islands),U
 ASMXF,ASM International NV Ordinary Shares (Netherlands),U
-ASNAQ,"Ascena Retail Group, Inc. Common Stock",U
 ASNB,EKIMAS Corporation  Common Stock,U
 ASNCF,A Sonic Aerospace Ltd Ordinary Shares,U
 ASND,Ascendis Pharma A/S American Depositary Shares,NASDAQ
@@ -3074,7 +3074,6 @@ BML PRH,Bank Of America Corporation Depositary Shares(Each representing a 1/1200
 BML PRJ,Bank of America Depositary Shares(Each representing 1/1200th interest in a share of Bank of America,NYSE
 BML PRL,Bank of America Depositary Shares(Each representing 1/1200th interest in a share of Bank of America,NYSE
 BMLLF,BioMed-Lubin Wytwornia Surowic SA Ordinary Shares (Poland),U
-BMLP,"Dorsey Wright MLP Index ETNs due December 10, 2036",NASDAQ
 BMLWF,BMO Low Volatility US Equity ETF USD Unit (Canada),U
 BMMCF,Kbridge Energy Corp. Ordinary Shares (Canada),U
 BMMJ,Body and Mind Inc. Common Stock,U
@@ -3819,7 +3818,9 @@ CAGPF,CRYPTOLOGY ASSET GROUP PLC Ordinary Shares,U
 CAGR,"California Grapes International, Inc. NEW Common Stock",U
 CAGU,"The Castle Group, Inc. Common Stock",U
 CAH,"Cardinal Health, Inc.",NYSE
+CAHC,CA Healthcare Acquisition Corp. Class A Common Stock,NASDAQ
 CAHCU,CA Healthcare Acquisition Corp. Unit,NASDAQ
+CAHCW,CA Healthcare Acquisition Corp. Warrant,NASDAQ
 CAHI,"Carrier Alliance Holdings, Inc. Common Stock",U
 CAHO,Caro Holdings Inc Common Stock,U
 CAHPF,Evolution Mining Ltd. Ordinary Shares (Australia),U
@@ -4275,9 +4276,7 @@ CENHU,Centricus Acquisition Corp. Unit,NASDAQ
 CENT,Central Garden & Pet Company Common Stock,NASDAQ
 CENTA,Central Garden & Pet Company Class A Common Stock Nonvoting,NASDAQ
 CENX,Century Aluminum Company Common Stock,NASDAQ
-CEO,CNOOC Limited,NYSE
 CEOA,"CEO America, Inc. Common Stock",U
-CEOHF,CNOOC Limited Ordinary Shares,U
 CEOPF,CNPR Group Stapled Security  (Australia),U
 CEOS,"CeCors, Inc. Common Stock",U
 CEPPF,CENTRAL PUERTO SA ORD 1 VOTO ESCRIT (Argentina),U
@@ -4357,9 +4356,6 @@ CFGX,"Capital Financial Global, Inc. Common Stock",U
 CFIC,Cornerstone Financial Corporation (NJ) Common Stock,U
 CFIGF,Challenger Limited Ordinary Shares (Australia),U
 CFIGY,Challenger Limited Unsponsored ADR (Australia),U
-CFII,CF Finance Acquisition Corp. II Class A Common Stock,NASDAQ
-CFIIU,CF Finance Acquisition Corp. II Unit,NASDAQ
-CFIIW,CF Finance Acquisition Corp. II Warrant,NASDAQ
 CFIN,Citizens Financial Corporation Common Stock New,U
 CFIV,CF Acquisition Corp. IV Class A common stock,NASDAQ
 CFIVU,CF Acquisition Corp. IV Unit,NASDAQ
@@ -5110,6 +5106,7 @@ CNET,ZW Data Action Technologies Inc. Common Stock,NASDAQ
 CNEWF,China New Higher Education Group Limited Ordinary Shares (Cayman Islands),U
 CNEY,CN Energy Group Inc. Ordinary Shares,NASDAQ
 CNF,"CNFinance Holdings Limited American Depositary Shares (ADSs), each representing twenty (20) Ordina",NYSE
+CNFA,CANTOR FITZGERALD INCOME TR INC COM CL AX,U
 CNFN,CFN ENTERPRISES INC Common Stock,U
 CNFR,"Conifer Holdings, Inc. Common Stock",NASDAQ
 CNFRL,"Conifer Holdings, Inc. 6.75% Senior Unsecured Notes due 2023",NASDAQ
@@ -5366,3 +5363,8 @@ COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,CZR RES LTD Ordinary Shares,U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
+CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAI,Champion Pain Care Corporation Common Stock,U
+CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
+CPB,Campbell Soup Company,NYSE

@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
@@ -28,6 +23,7 @@ GWTR,"Global Water Technologies, Inc. Common Stock",U
 GWW,"W.W. Grainger, Inc.",NYSE
 GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
 GWX,SPDR S&P International Small Cap ETF,ARCA
+GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
 GWYNF,Genoway Ordinary Shares  France (FR),U
 GWYT,Greenway Technology Common Stock,U
 GXC,SPDR S&P China ETF,ARCA
@@ -243,6 +239,7 @@ HDIV,Qraft AI-Enhanced US High Dividend ETF,ARCA
 HDLB,"ETRACS Monthly Pay 2xLeveraged US High Dividend Low Volatility ETN Series B due October 21, 2049",ARCA
 HDLS,Hub Deals Corp. Common Stock,U
 HDMV,First Trust Horizon Managed Volatility Developed International ETF,ARCA
+HDNRF,HOMECO DAILY NEEDS REIT ORDINARY UNITS FULLY PAID (Australia),U
 HDRPF,THC Global Group Ltd Ordinary Shares,U
 HDRSF,"Highland Copper Co., Inc Ordinary Shares (Canada)",U
 HDSLF,HEALTHSPACE DATA SYSTEM LTD Ordinary Shares,U
@@ -1359,7 +1356,6 @@ IGACW,IG Acquisition Corp. Warrant,NASDAQ
 IGAP,Integrity Applications Incorporation Com,U
 IGBH,iShares Interest Rate Hedged Long-Term Corporate Bond ETF,ARCA
 IGC,"India Globalization Capital, Inc.",AMEX
-IGCIW,India Globalization Capital Inc. Warrant   03/08/2021,U
 IGD,VOYA GLOBAL EQUITY DIVIDEND AND PREMIUM OPPORTUNITY FUND,NYSE
 IGE,iShares North American Natural Resources ETF,BATS
 IGEB,iShares Investment Grade Bond Factor ETF,BATS
@@ -1725,6 +1721,7 @@ INOV,"Inovalon Holdings, Inc. Class A Common Stock",NASDAQ
 INOW,InfoNow Corporation Common Stock,U
 INPAP,International Paper Company $4.00 Preferred Stock,U
 INPCF,Input Capital Corp Com (Canada),U
+INPOY,InPost S A American Depositary Receipts - Unsponsored (Luxembourg),U
 INPRF,"Inspur International Ltd, SHS NEW (Cayman Islands)",U
 INPX,Inpixon Common Stock,NASDAQ
 INQD,INDOOR HARVEST CORP  Common Stock,U
@@ -2342,6 +2339,7 @@ IZQVF,INDIVIOR PLC Ordinary Shares (United Kingdom),U
 IZRL,ARK Israel Innovative Technology ETF,BATS
 J,Jacobs Engineering Group,NYSE
 JAAA,Janus Henderson AAA CLO ETF,ARCA
+JACJF,JAC RECRUITMENT CO LTD SHS (Japan),U
 JACK,Jack In The Box Inc. Common Stock,NASDAQ
 JACO,"Jaco Electronics, Inc. Common Stock",U
 JADA,Jade Art Group Inc. Common Stock,U
@@ -3597,7 +3595,6 @@ LFUGF,Li & Fung Ltd Ordinary Shares (Bermuda),U
 LFUS,"Littelfuse, Inc. Common Stock",NASDAQ
 LFVN,Lifevantage Corporation Common Stock (Delaware),NASDAQ
 LFYEF,LEFROY EXPL LTD Ordinary Shares,U
-LFYPF,Sansheng Hldgs Group Co Ltd HKD Shares (Cayman Islands),U
 LGACU,Lazard Growth Acquisition Corp. I Units,NASDAQ
 LGAH,"LGA Holdings, Inc. Common Stock",U
 LGBI,"Cannabiz Mobile, Inc .Common Stock",U
@@ -3813,7 +3810,6 @@ LNFA WS,"L&F Acquisition Corp. Warrants, each whole warrant exercisable for one 
 LNG,"Cheniere Energy, Inc.",AMEX
 LNGB,LONGBAU GROUP INC  Common Stock,U
 LNGHY,Lai Fung Hldgs Ltd American Depositary Receipts - Sponsored (Cayman Islands),U
-LNGLF,Liquefied Natural Gas Ltd Ordinary shares (Australia),U
 LNGLY,Liquefied Natural Gas Ltd American Depositary Shares (Sponsored) (Australia),U
 LNGPF,Longfor Group Holdings Ltd Ordinary Shares,U
 LNGR,Global X Funds Global X Longevity Thematic ETF,NASDAQ
@@ -5324,6 +5320,7 @@ MSTR,MicroStrategy Incorporated Common Stock Class A,NASDAQ
 MSTUF,M.C.S. STEEL PUBLIC CO LTD Depositary Shares  NVDR SHARES  Thailand(TH ),U
 MSTXF,Megastar Development Corporation Ordinary Shares (Canada),U
 MSURF,Medica Sur SA De CV Shares -B- (Mexico),U
+MSUTF,MINSUR SA SHS -INVERSION- (Peru),U
 MSUXF,Misumi Group Inc Ordinary Shares (Japan),U
 MSVB,"Mid-Southern Bancorp, Inc. Common Stock",NASDAQ
 MSVX,LHA Market State Alpha Seeker ETF,BATS
@@ -5365,3 +5362,9 @@ MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
 MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
 MTH,Meritage Homes Corporation,NYSE
 MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
+MTHRF,"M3, Inc. Ordinary Shares (Japan)",U
+MTHRY,"M3, INC.  American Depositary Receipts - Unsponsored  Japan(JP )",U
+MTIRF,MITHRIL RESOURCES LTD SHS (Australia),U
+MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE
+MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
+MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U

@@ -1,10 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTHRF,"M3, Inc. Ordinary Shares (Japan)",U
-MTHRY,"M3, INC.  American Depositary Receipts - Unsponsored  Japan(JP )",U
-MTIRF,MITHRIL RESOURCES LTD SHS (Australia),U
-MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE
-MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
-MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U
 MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U
 MTLHF,Mitsubishi Chemical Holdings Corp Ordinary Shares (Japan),U
 MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
@@ -391,6 +385,7 @@ NDVAF,Indiva Ltd. Ordinary Shares,U
 NDVLY,New World Dev Ltd Ord American Depositary Shares,U
 NDVN,nDivision Inc. Common Stock,U
 NDVR,New Dover Capital Corporation,U
+NDWTF,NETDRAGON WEBSOFT HLDGS LTD SHS (Cayman Islands),U
 NDWTY,Netdragon Websoft Inc Unsponsored ADR (Cayman Islands),U
 NDYN,"Vinings Holdings, Inc. Common Stock",U
 NEA,Nuveen AMT-Free Quality Municipal Income Fund,NYSE
@@ -698,7 +693,6 @@ NMDBF,Neonmind Biosciences Inc Common Stock (Canada),U
 NMEHF,Nomura Real Estate Holdings Inc Ordinary Shares (Japan),U
 NMEX,Northern Minerals & Exploration Ltd.  Common Stock,U
 NMFC,New Mountain Finance Corporation Common Stock,NASDAQ
-NMFCL,New Mountain Finance Corporation 5.75% Notes due 2023,NASDAQ
 NMGC,NeoMagic Corporation Common Stock,U
 NMGGF,Network Media Group Inc Common Shares (Canada),U
 NMGNF,NTM Gold Ltd. Ordinary Shares,U
@@ -1892,7 +1886,6 @@ OXBOF,Oxford Biodynamics PLC Ordinary Shares (United Kingdom),U
 OXBR,Oxbridge Re Holdings Limited Ordinary Shares,NASDAQ
 OXBRW,Oxbridge Re Holdings Limited Warrant expiring 3/26/2024,NASDAQ
 OXFCF,Velocys PLC Ordinary Shares (United Kingdom),U
-OXFD,Oxford Immunotec Global PLC Ordinary Shares,NASDAQ
 OXIHF,Oxford Investments Holdings Inc. Ordinary Shares (Canada),U
 OXINF,Oxford Instruments PLC Ordinary Shares (United Kingdom),U
 OXLC,Oxford Lane Capital Corp. Common Stock,NASDAQ
@@ -2209,6 +2202,7 @@ PDNLA,Presidential Realty Corporation Class A Common Stock,U
 PDNLB,Presidential Realty Corporation Class B Common Stock,U
 PDO,PIMCO Dynamic Income Opportunities Fund,NYSE
 PDOS,"Platinum Studios, Inc. Common Stock",U
+PDOT U,"Peridot Acquisition Corp. II Units, each consisting of one Class A ordinary share, and one-fifth of",NYSE
 PDP,Invesco Exchange-Traded Fund Trust Invesco DWA Momentum ETF,NASDAQ
 PDPR,Marathon Group Corporation.  Common Stock,U
 PDPTF,PUDO INC  Common Shares,U
@@ -2481,7 +2475,6 @@ PIAIF,Ping An Insurance Co Ltd Shares H (China),U
 PICB,Invesco International Corporate Bond ETF,ARCA
 PICC U,"Pivotal Investment Corporation III Units, each consisting of one share of Class A common stock and o",NYSE
 PICK,iShares MSCI Global Metals & Mining Producers ETF,BATS
-PICO,"PICO Holdings, Inc. Common Stock (DE)",NASDAQ
 PID,Invesco Exchange-Traded Fund Trust Invesco International Dividend Achievers ETF,NASDAQ
 PIE,Invesco Exchange-Traded Fund Trust II Invesco DWA Emerging Markets Momentum ETF,NASDAQ
 PIEJF,ROTHSCHILD & CO SCA Ordinary Shares,U
@@ -2553,6 +2546,7 @@ PKLBF,"Perk Labs, Inc. Ordinary Shares",U
 PKMS,"Peckham Industries, Inc. New Common Stock",U
 PKNHF,Puncak Niaga Hldgs Bhd Ordinary Shares (Malaysia),U
 PKNOF,Proteak Uno Sapib De Cv Common Stock (Mexico),U
+PKNPF,PT BANK NISP TBK SHS (Indonesia),U
 PKO,Pimco Income Opportunity Fund,NYSE
 PKOH,Park-Ohio Holdings Corp. Common Stock,NASDAQ
 PKPH,"Peak Pharmaceuticals, Inc. Common Stock",U
@@ -2563,6 +2557,7 @@ PKRSF,PT Kresna Graha Securindo TBK Jakarta Ordinary Shares (Indonesia),U
 PKSGY,Parkson Retail Group Limited Unsponsored ADR (Cayman Islands),U
 PKSSF,PARKSON HOLDINGS BHD SHS (Malaysia),U
 PKSVF,Bank Polska Kasa Opieki SA Reg S GDR (Poland),U
+PKTBF,PT BANK TABUNGAN NEGARA SHS (Indonesia),U
 PKTEF,"Parkit Enterprise, Inc. Ordinary Shares (Canada)",U
 PKTX,"ProtoKinetix, Inc. Common Stock",U
 PKW,Invesco Exchange-Traded Fund Trust Invesco BuyBack Achievers ETF,NASDAQ
@@ -3046,6 +3041,7 @@ PRXIQ,"Premier Exhibitions, Inc.",U
 PRXM,Proxim Wireless Corporation Common Stock,U
 PRXTF,Pure Extracts Technologies Corp Common Shares,U
 PRXXF,Paradox Interactive AB Ordinary Shares (Sweden),U
+PRYBF,PT RAMAYANA LESTARI SENTOSA TBK SHS (Indonesia(ID ),U
 PRYMF,"Prysmian S.P.A., Milano Ordinary Shares (Italy)",U
 PRYMY,"Prysmian S.P.A., Milano Unsponsored ADR (Italy)",U
 PRYNF,Backstageplay Inc Common Shares,U
@@ -3261,11 +3257,13 @@ PTMIF,PT MANDOM INDONESIA TBK Ordinary Shares  (Indonesia),U
 PTMKF,PT Ultrajaya Milk Industry and Trading Co Ordinary Shares (Indonesia),U
 PTMN,Portman Ridge Finance Corporation Common Stock,NASDAQ
 PTMSY,PT Matahari Department Store TBK American Despositary Share (Unsponsored) (Indonesia),U
+PTMYF,PT MAYORA INDAH SHS (Indonesia),U
 PTN,"Palatin Technologies, Inc.",AMEX
 PTNAF,PT Bank Cimb Niaga RBK Series A Ordinary Shares (Indonesia),U
 PTNDF,PT Vale Indonesia TBK Ordinary Shares (Indonesia),U
 PTNDY,PT Vale Indonesia Tbk. Unsponsored ADR (Indonesia),U
 PTNL,PLANTATION CORP WY Common Stock,U
+PTNPF,PARTNERRE LTD FXD RATE NON-CUMULATIVE REDEEMABLE PFD SHS SER J (Bermuda),U
 PTNQ,Pacer Trendpilot 100 ETF,BATS
 PTNR,Partner Communications Company Ltd. American Depositary Shares,NASDAQ
 PTNUF,"Platina Resources Ltd, Perth Wa Ordinary Shares (Australia)",U
@@ -3757,7 +3755,9 @@ RBGPF,"Reckitt Benckiser Group Plc, Slough Ordinary shares (United Kingdom)",U
 RBII,"Rising Biosciences, Inc. Common Stock",U
 RBIN,Nationwide Risk-Based International Equity ETF,ARCA
 RBKB,"Rhinebeck Bancorp, Inc. Common Stock",NASDAQ
+RBLAF,ROBINSONS LAND CORP RLC SHS (Philippines),U
 RBLAY,Robinsons Land Corporation Unsponsored ADR (Phillipines),U
+RBLX,Roblox Corporation,NYSE
 RBMNF,Rugby Mining Ltd. Ordinary Shares (Canada),U
 RBMTF,Rambler Metals and Mining Public Limited Company London Ordinary Shares (United Kingdom),U
 RBNC,"Reliant Bancorp, Inc. Common Stock",NASDAQ
@@ -5198,7 +5198,6 @@ SFUN,Fang Holdings Limited American Depositary Shares (each representing ten Cla
 SFWJ,Software Effective Solutions Corp. Common Stock,U
 SFY,SoFi Select 500 ETF,ARCA
 SFYF,SoFi 50 ETF,ARCA
-SFYLF,Safestyle UK PLC Ordinary Shares (Jersey),U
 SFYX,SoFi Next 500 ETF,ARCA
 SGA,"Saga Communications, Inc. Class A Common Stock (FL)",NASDAQ
 SGACF,SSGA SPDR ETFS EUROPE I PLC ACCUM SHS EXCHANGE TRADED FUND USD Ireland(IE ),U
@@ -5354,7 +5353,9 @@ SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
+SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
@@ -5365,3 +5366,5 @@ SHLOQ,"Shiloh Industries, Inc. Common Stock",U
 SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
 SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
 SHLX,"Shell Midstream Partners, L.P.",NYSE
+SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
+SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U

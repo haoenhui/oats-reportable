@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAI,Champion Pain Care Corporation Common Stock,U
-CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
-CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
@@ -957,6 +952,7 @@ DEITF,Devro Intl Plc Ord 10 Par Ordinary Shares,U
 DEIWY,Rio Paranapanema Energia S A American Depositary Receipts - Sponsored,U
 DELCF,DELIC HLDGS INC COM (Canada),U
 DELHF,De Longhi Spa Ordinary Shares (Italy),U
+DELHY,DELIVERY HERO SE American Depositary Receipts - Unsponsored (Germany Federal Republic),U
 DELKY,Delek Group Ltd American Depositary Receipts - Unsponsored (Israel),U
 DELL,Dell Technologies Inc.,NYSE
 DELRF,De La Rue Plc Ordinary Shares,U
@@ -2572,6 +2568,7 @@ ESLOF,Essilor Luxottica Ordinary Shares,U
 ESLOY,EssilorLuxottica American Depositary Receipts - Unsponsored,U
 ESLP,Euro Solar Parks Inc. Common Stock,U
 ESLT,Elbit Systems Ltd. Ordinary Shares,NASDAQ
+ESM U,"ESM Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of on",NYSE
 ESMAF,ESPORTS MOGUL ASIA PAC LTD Ordinary Shares,U
 ESMC,ESCALON MED CORP Common Stock,U
 ESML,iShares ESG Aware MSCI USA Small-Cap ETF,BATS
@@ -2704,7 +2701,9 @@ EURZ,Xtrackers Eurozone Equity ETF,BATS
 EUSA,iShares MSCI USA Equal Weighted ETF,ARCA
 EUSB,iShares ESG Advanced Total USD Bond Market ETF,ARCA
 EUSC,WisdomTree Europe Hedged SmallCap Equity Fund,ARCA
+EUSG,European Sustainable Growth Acquisition Corp. Class A Ordinary Shares,NASDAQ
 EUSGU,European Sustainable Growth Acquisition Corp. Unit,NASDAQ
+EUSGW,European Sustainable Growth Acquisition Corp. Warrant,NASDAQ
 EUSHF,Eurocash SA SHS (Poland),U
 EUSHY,Eurocash SA Unsponsored ADR (Poland),U
 EUSP,Eurosite Power Inc. COMMON,U
@@ -3832,7 +3831,7 @@ FRGY,Frontier Energy Corporation,U
 FRHC,Freedom Holding Corp. Common Stock,NASDAQ
 FRHHF,"Freshii, Inc. Class A Sub Vtg Ordinary Shares (Canada)",U
 FRHLF,Freehold Royalty Ltd Ordinary Shares,U
-FRHV,"Fresh Harvest Products, Inc. Common Stock",U
+FRHVD,"Innovative MedTech, Inc. Common Stock",U
 FRI,First Trust S&P REIT Index Fund,ARCA
 FRIIF,France M.G.I. MGI Digital Graphic Technology Ordinary Shares (France),U
 FRIVF,Fortune Real Estate Investment Trust Units (Hong Kong),U
@@ -4873,7 +4872,6 @@ GNMSF,Genmab A/S Ordinary Shares,U
 GNNDY,GN Store Nord A/S ADR (Denmark),U
 GNNSF,Genscript Biotech Corp Ordinary Shares (Cayman Islands),U
 GNOG,"Golden Nugget Online Gaming, Inc. Class A Common Stock",NASDAQ
-GNOGW,"Golden Nugget Online Gaming, Inc. Warrant",NASDAQ
 GNOLF,Genoil Inc. Ordinary Shares (Canada),U
 GNOM,Global X Funds Global X Genomics & Biotechnology ETF,NASDAQ
 GNOW,"American CareSource Holdings, Inc. Common Stock",U
@@ -5284,7 +5282,6 @@ GTMAY,Grupo TMM S.A. American Depositary Shares,U
 GTMEF,Globe Telecom Inc Ordinary Shares (Phillippines),U
 GTMEY,Globe Telecom Inc Unsponsored ADR (Philippines),U
 GTMIF,Gastem Inc Common Shares (Canada),U
-GTMM,The Guitammer Company Common,U
 GTMUF,Giant Manufacture Co Ltd Ordinary Shares (Taiwan),U
 GTN,"Gray Television, Inc.",NYSE
 GTN A,"Gray Television, Inc. Class A",NYSE
@@ -5338,6 +5335,7 @@ GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,ARCA
 GUT,GABELLI UTILITY TRUST,NYSE
 GUT PRA,Gabelli Utility Trust 5.625% Ser A Cumul Pfd Shs,NYSE
 GUT PRC,Gabelli Utility Trust   5.375% Series C Cumulative Preferred Shares,NYSE
+GUT RTWI,"Gabelli Utility Trust (The) Rights (expiring April 14, 2021)",NYSE
 GUYGF,G2 Goldfields Inc Common Shares,U
 GUZOF,Grupo Herdez Sab de CV Ordinary Shares (Mexico),U
 GVA,Granite Construction Inc.,NYSE
@@ -5365,3 +5363,8 @@ GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
+GWB,"Great Western Bancorp, Inc.",NYSE
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
+GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
+GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
