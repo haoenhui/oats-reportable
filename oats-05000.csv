@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPBLF,ALS Ltd. Ordinary Shares (Australia),U
-CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
-CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
@@ -13,7 +10,6 @@ CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
-CPGLF,Cpl Resources plc Ordinary Shares (Ireland),U
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPGZF,CG Power & Industrial Ltd. Global Depositary Receipts - Sponsored,U
@@ -43,6 +39,7 @@ CPMMF,CRYSTAL PEAK MINERALS INC Common Shares,U
 CPMV,Mosaic ImmunoEngineering Inc. Common Stock,U
 CPNBF,Cpt Telefonica Del Peru Ser A Ordinary Shares,U
 CPNFF,Euro Sun Mining Inc. Common Shares,U
+CPNG,"Coupang, Inc.",NYSE
 CPOIF,CAPSTONE INFRASTRUCTURE CORP (Canada),U
 CPOUF,Charoen Pokphand Fedmill Public Co Ltd Units Non Vtg Dep Rcpt,U
 CPPBY,Central Pattana Public Company Ltd Unsponsored ADR (Thailand),U
@@ -746,7 +743,6 @@ CYUFF,China Yurun Food Group Limited Ordinary Shares (Bermuda),U
 CYUNF,China Huiyuan Juice Group Limited Ordinary shares (Cayman Islands),U
 CYUXF,BC Moly Ltd. Ordinary Shares (Canada),U
 CYVF,Crystal Valley Financial Corporation (IN) Common Stock,U
-CYWDF,Countrywide PLC Ordinary Shares  (United Kingdom),U
 CYYHF,China Yongda Automobile Svcs Hldgs Ltd Ordinary Shares (Cayman Islands),U
 CYYNF,CYNATA THERAPEUTICS LTD Ordinary Shares(Australia),U
 CYZN,"Cyberzone, Inc. Common Stock",U
@@ -1538,6 +1534,7 @@ DTN,WisdomTree U.S. Dividend ex-Financials Fund,ARCA
 DTNHF,"Doutor Nichires Holdings Co Ltd, Tokyo SHS (Japan)",U
 DTNOF,DNO ASA Ordinary Shares A (Norway),U
 DTNOY,DNO ASA Unsponsored ADR (Norway),U
+DTOCU,Digital Transformation Opportunities Corp. Units,NASDAQ
 DTP,DTE Energy Company 2019 Corporate Units,NYSE
 DTPKF,DIRECTA PLUS PLC Common Stock (United Kingdom),U
 DTRC,Dakota Territory Resource Corp Common Stock,U
@@ -2881,7 +2878,6 @@ EXPI,"eXp World Holdings, Inc. Common Stock",NASDAQ
 EXPL,"Endurance Exploration Group, Inc. (NV) Common Stock",U
 EXPO,"Exponent, Inc. Common Stock",NASDAQ
 EXPR,"Express, Inc.",NYSE
-EXPS,Expanse Energy Solutions Inc Common Stock,U
 EXR,"Extra Space Storage, Inc.",NYSE
 EXRG,"Ecologix Resource Group, Inc. Common Stock",U
 EXROF,Exro Technologies Inc Ordinary Shares (Canada),U
@@ -3297,6 +3293,7 @@ FHN PRC,"First Horizon Corporation Depositary Shares, each representing a 1/400t
 FHN PRD,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-",NYSE
 FHN PRE,"First Horizon Corporation Depositary Shares, Each Representing a 1/ 4000th Interest in a Share of No",NYSE
 FHRT,First Hartford Corp Unclassified,U
+FHS,"First High-School Education Group Co., Ltd. American Depositary Shares (each representing three (3)",NYSE
 FHTF,FHT FUTURE TECHNOLOGY LTD Common Stock,U
 FHTX,Foghorn Therapeutics Inc. Common Stock,NASDAQ
 FI,FRANK'S INTERNATIONAL N.V.,NYSE
@@ -3885,10 +3882,12 @@ FRTT,FORTITUDE GOLD CORP COM,U
 FRTXF,Fortnox AB Ordinary Shares (Sweden),U
 FRTY,Alger Mid Cap 40 ETF,ARCA
 FRUTF,Frutarom Industries 1995 Ltd Ordinary Shares,U
+FRWAU,PWP Forward Acquisition Corp. I Units,NASDAQ
 FRWDF,Fairwood Holdings Ltd Ordinary Shares (Bermuda),U
 FRX,Forest Road Acquisition Corp.,NYSE
 FRX U,"Forest Road Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-th",NYSE
 FRX WS,"Forest Road Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of C",NYSE
+FRXB U,"Forest Road Acquisition Corp. II Units, each consisting of one share of Class A common stock, and on",NYSE
 FRXX,Forecross Corporation Common Stock,U
 FRZCF,Frasers Centrepoint Trust UNITS REAL ESTATE INVESTMENT TRUST (Singapore),U
 FRZT,"Freeze Tag, Inc. Common Stock",U
@@ -4113,6 +4112,7 @@ FVCB,"FVCBankcorp, Inc. Common Stock",NASDAQ
 FVD,First Trust Value Line Dividend Fund,ARCA
 FVE,Five Star Senior Living Inc. Common Stock,NASDAQ
 FVGCF,Fire River Gold Corp. Common Shares,U
+FVIV U,"Fortress Value Acquisition Corp. IV Units, each consisting of one share of Class A common stock and",NYSE
 FVPI,FV Pharma International Corp. Common Stock,U
 FVRG,ForeverGreen Worldwide Corp. Common Stock,U
 FVRR,Fiverr International Ltd.,NYSE
@@ -4165,6 +4165,7 @@ FXY,Invesco CurrencyShares Japanese Yen Trust,ARCA
 FXZ,First Trust Materials AlphaDEX Fund,ARCA
 FYC,First Trust Small Cap Growth AlphaDEX Fund,NASDAQ
 FYGGY,Fuyao Glass Ind Group Co American Depositary Receipts - Unsponsored (China),U
+FYIRF,FYI RESOURCES LTD Ordinary Shares,U
 FYLD,Cambria Foreign Shareholder Yield ETF,BATS
 FYMNF,Finlay Minerals Ltd Ordinary Shares (Canada),U
 FYSSY,IFA Systems AG Sponsored American Depository Receipt (Germany Federal Republic),U
@@ -4208,6 +4209,7 @@ GAMCF,"GAMMA COMMUNICATIONS PLC, SHS (United Kingdom)",U
 GAMN,"Great American Food Chain, Inc. (The) Common Stock",U
 GAMR,Wedbush ETFMG Video Game Tech ETF,ARCA
 GAN,GAN Limited Ordinary Shares,NASDAQ
+GAPA U,"G&P Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of on",NYSE
 GAPJ,"Golden Apple Oil & Gas, Inc. Common Stock",U
 GARB,Garb Oil & Power Corporation Common Stock,U
 GARLF,Netcoins Hldgs Inc Ordinary Shares,U
@@ -4470,6 +4472,7 @@ GETVF,Mediaset Espana Comunicacion SA Ordinary Shares (Spain),U
 GETVY,"Mediaset Espana Communicacion, S.A. Unsponsored ADR (Spain)",U
 GEVI,"General Environmental Management, Inc. Common Stock",U
 GEVO,"Gevo, Inc. Common Stock",NASDAQ
+GEXCF,GD EXPRESS CARRIER BHD Ordinary Shares,U
 GF,NEW GERMANY FUND Inc,NYSE
 GFASY,GAFISA S.A. ADR  - Unsponsored,U
 GFCI,"Grifco International, Inc. Common Stock",U
@@ -5368,3 +5371,5 @@ GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U

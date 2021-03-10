@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U
 MTLHF,Mitsubishi Chemical Holdings Corp Ordinary Shares (Japan),U
 MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
 MTLI,Metaline Contact Mines Common Stock,U
@@ -633,7 +632,6 @@ NJMLF,Nojima Co Ltd Ordinary Shares,U
 NJMVF,NICHOLS PLC SHS (United Kingdom),U
 NJR,New Jersey Resources Corp,NYSE
 NJUL,Innovator Nasdaq-100 Power Buffer ETF - July,BATS
-NK,"NantKwest, Inc. Common Stock",NASDAQ
 NKE,"Nike, Inc.",NYSE
 NKG,Nuveen Georgia Quality Municipal Income Fund,NYSE
 NKKRF,Nekkar Asa Common Shares (Norfolk Island),U
@@ -1241,6 +1239,7 @@ NWSLL,News Corp NEW Shares A CHESS Depositary Interest Representing 1 Share,U
 NWSTF,New Standard Energy Ltd Ordinary Shares (Australia),U
 NWSZF,NWS Holdings Limited Ordinary Shares (Bermuda),U
 NWTCF,NEWTECH CO LTD TOKYO Ordinary Shares  Japan(JP ),U
+NWTM,NEW TMW TOPCO INC Common Stock,U
 NWTNY,Newton Res Ltd ADR (Unsponsored) (Cayman Islands),U
 NWTT,"NW Tech Capital, Inc. Common Stock",U
 NWUC,Nationwide Utilities Corp. Common Stock,U
@@ -2211,6 +2210,7 @@ PDRDY,Pernod Ricard SA Unsponsored ADR (France),U
 PDRX,Pd-Rx Pharmaceuticals Inc Common Stock,U
 PDS,Precision Drilling Corporation,NYSE
 PDSB,PDS Biotechnology Corporation Common Stock,NASDAQ
+PDSNF,PT DHARMA SATYA NUSANTARA TBK Ordinary Shares,U
 PDSSF,Paradise Entertainment Ltd Ordinary Shares (Bermuda),U
 PDT,John Hancock Premium Dividend Fund,NYSE
 PDTTF,Preferred Dental Technologies Inc Ordinary Shares (Canada),U
@@ -2442,6 +2442,7 @@ PHO,Invesco Exchange-Traded Fund Trust Invesco Water Resources ETF,NASDAQ
 PHOJY,Phosagro PJSC Global Depositary Receipts - Sponsored,U
 PHOS,Phosphate Holdings Inc Common shares,U
 PHOT,Growlife Inc. Common Stock,U
+PHPMF,PHILIP MORRIS CR AS Ordinary Shares (Czech Republic),U
 PHPPY,Signify N.V. American Depositary Receipts - Unsponsored,U
 PHPRF,Primary Health Properties Plc Ordinary Shares (United Kingdom),U
 PHPYF,PUSHPAY HLDGS LTD  Ordinary Shares,U
@@ -2827,6 +2828,7 @@ PPASF,Pick n Pay Stores Ltd Ordinary Shares (South Africa),U
 PPBB,Peoples Bancorp Wash Common Stock,U
 PPBI,Pacific Premier Bancorp Inc,NASDAQ
 PPBN,Pinnacle Bankshares Corp Common Stock,U
+PPBRF,PT PAN BROTHERS TBK Ordinary Shares,U
 PPBT,Purple Biotech Ltd. American Depositary Shares,NASDAQ
 PPBV,"Purple Beverage Company, Inc. Common Stock",U
 PPC,Pilgrim's Pride Corporation Common Stock,NASDAQ
@@ -2905,6 +2907,7 @@ PRCHW,"Porch Group, Inc. Warrant",NASDAQ
 PRCK,Placer Creek Mining Co Common Stock,U
 PRCNF,Pure Global Cannabis Inc Common Shares,U
 PRCRF,PROCURRI CORP LTD Ordinary Shares,U
+PRCX,PHOENIX RISING COS Common Stock,U
 PRCXF,Green Cross Health Ltd Ordinary Shares (New Zealand),U
 PRDGF,PREMIER DIVERSIFIED HLDGS INC  Ordinary Shares,U
 PRDL,"Profitable Developments, Inc. Common Stock",U
@@ -3532,7 +3535,9 @@ QEXXF,Quattro Exploration and Production Common Shares (Canada),U
 QFEEF,Quickfee Ltd Ordinary Shares (Australia),U
 QFIN,"360 DigiTech, Inc. American Depositary Shares",NASDAQ
 QFREF,Q Free Asa Ordinary Shares (Norway),U
+QFTA,Quantum FinTech Acquisition Corporation,NYSE
 QFTA U,"Quantum FinTech Acquisition Corporation Units, each consisting of one share of Common Stock and one",NYSE
+QFTA WS,"Quantum FinTech Acquisition Corporation Warrants, each warrant exercisable for one-half of one share",NYSE
 QGEN,Qiagen NV,NYSE
 QGLDF,Q-Gold Resources Ltd Ordinary Shares,U
 QGLHF,Qingling Motors Co Ltd H Shs Ordinary Shares,U
@@ -4460,7 +4465,6 @@ RSRL,RESOURCE REAL ESTATE OPPORTUNITY REIT INC Common,U
 RSRV,Reserve Petroleum Company (The)  Common Stock,U
 RSSFF,"Affinor Growers, Inc. Ordinary Shares (Canada)",U
 RSSS,"Research Solutions, Inc Common Stock",NASDAQ
-RSSV,"Resort Savers, Inc. Common Stock",U
 RSTAF,Rib Software AG Namen - AKT (Germany Federal Republic),U
 RSTAY,RIB Software SE American Depositary Receipts - Unsponsored,U
 RSTCF,RS TECHNOLOGIES CO LTD Common Shares  (Japan),U
@@ -4789,6 +4793,7 @@ SBHGF,SBI Holdings Inc Ordinary Shares,U
 SBHMY,Sino Biopharmaceutical American Depositary Receipts (Unsponsored)(Caymand Islands),U
 SBI,"Western Asset Intermediate Muni Fund, Inc.",NYSE
 SBIGY,SABRE INS GROUP PLC American Depositary Receipts - Unsponsored  United Kingdom(GB ),U
+SBII U,"Sandbridge X2 Corp. Units, each consisting of one share of Class A common stock and one-third of one",NYSE
 SBIMF,INVESCO MKTS PLC NASDAQ BIOTECHNOLOGY UCITS ETF (Ireland),U
 SBIO,ALPS Medical Breakthroughs ETF,ARCA
 SBIZF,"Symbio Pharmaceuticals Limited, Tokyo Ordinary Shares (Japan)",U
@@ -5367,4 +5372,3 @@ SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
 SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
 SHLX,"Shell Midstream Partners, L.P.",NYSE
 SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
-SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U

@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
@@ -240,6 +238,7 @@ HDLB,"ETRACS Monthly Pay 2xLeveraged US High Dividend Low Volatility ETN Series 
 HDLS,Hub Deals Corp. Common Stock,U
 HDMV,First Trust Horizon Managed Volatility Developed International ETF,ARCA
 HDNRF,HOMECO DAILY NEEDS REIT ORDINARY UNITS FULLY PAID (Australia),U
+HDRO,Defiance Next Gen H2 ETF,ARCA
 HDRPF,THC Global Group Ltd Ordinary Shares,U
 HDRSF,"Highland Copper Co., Inc Ordinary Shares (Canada)",U
 HDSLF,HEALTHSPACE DATA SYSTEM LTD Ordinary Shares,U
@@ -492,6 +491,7 @@ HLI,"Houlihan Lokey, Inc.",NYSE
 HLIO,"Helios Technologies, Inc. Common Stock",NASDAQ
 HLIT,Harmonic Inc. Common Stock,NASDAQ
 HLKHF,Hella KGAA Hueck & Co Inhaber-Aktien O.N.,U
+HLKKF,PONTUS PROTEIN LTD COM (Canada),U
 HLLF,"Halal Financial Services, Inc. Common Stock",U
 HLLGY,Hella Gmbh & Co Kgaa American Depositary Receipts - Unsponsored,U
 HLLK,"Hallmark Venture Group, Inc. Common Stock",U
@@ -760,7 +760,6 @@ HRVSF,Harvest Health & Recreation Inc. Common Shares (Canada),U
 HRZAF,Horizons Active Ultra Short-Term Invt Grade BD ETF Class E Unit (Canada),U
 HRZN,Horizon Technology Finance Corporation Common Stock,NASDAQ
 HRZSF,HORIZONS S&P/TSX 60 INDEX ETF NEW Unit,U
-HRZYF,Horizons Nat Gas Yield ETF Unit (Canada),U
 HRZZF,Horizons Active Global Divid ETF (Canada),U
 HSAQ,Health Sciences Acquisitions Corporation 2 Ordinary Shares,NASDAQ
 HSBC,HSBC Holdings PLC,NYSE
@@ -1125,6 +1124,7 @@ IBND,SPDR Bloomberg Barclays International Corporate Bond ETF,ARCA
 IBOC,International Bancshares Corporation Common Stock,NASDAQ
 IBP,"INSTALLED BUILDING PRODUCTS, INC.",NYSE
 IBRC,iBrands Corporation Common Stock,U
+IBRX,"ImmunityBio, Inc. Common Stock",NASDAQ
 IBSS,"Integrated Business Systems and Services, Inc. Common Stock",U
 IBTA,iShares Trust iShares iBonds Dec 2021 Term Treasury ETF,NASDAQ
 IBTB,iShares Trust iShares iBonds Dec 2022 Term Treasury ETF,NASDAQ
@@ -2106,7 +2106,6 @@ ITAYY,Indo Tambangraya Megah PT Unsponsored ADR (Indonesia),U
 ITB,iShares U.S. Home Construction ETF,BATS
 ITBFF,IShares PLC - IShares USD Treasury Bond 1-3 Fund Shs (Ireland),U
 ITCB,Itau CorpBanca,NYSE
-ITCC,InsPro Technologies Corporation Common Stock,U
 ITCFY,Investec Ltd Unsponsored ADR (South Africa),U
 ITCI,Intra-Cellular Therapies Inc. Common Stock,NASDAQ
 ITCJ,Flexxtech Corporation Common Stock,U
@@ -2735,6 +2734,7 @@ JW A,"John Wiley & Sons, Inc. Class A",NYSE
 JW B,"John Wiley & Sons, Inc. Class B",NYSE
 JWCAF,James E Wagner Cultivation Corp Ordinary Shares (Canada),U
 JWCTF,JW CAYMAN THERAPEUTICS CO LTD USD ORD SHS (Cayman Islands),U
+JWEL,Jowell Global Ltd. Ordinary Shares,NASDAQ
 JWHI,Jin Wan Hong International Holdings Limited Common Stock,U
 JWLLF,Jamieson Wellness Inc COM (Canada),U
 JWN,"Nordstrom, Inc.",NYSE
@@ -2905,6 +2905,7 @@ KFVG,KraneShares CICC China 5G and Semiconductor Index ETF,ARCA
 KFY,Korn Ferry,NYSE
 KFYP,KraneShares CICC China Leaders 100 Index ETF,ARCA
 KGAUF,Kongsberg Automotive Asa Ordinary Shares,U
+KGBLF,KINGBOARD LAMINATES HOLDINGS LIMITED SHS (Cayman Islands),U
 KGBLY,Kingboard Laminates Holdings Ltd. Unsponsored American Depository Receipt (Cayman Islands),U
 KGC,Kinross Gold Corporation,NYSE
 KGDEF,Kingdee International Software Group Company Ltd Ordinary Shares,U
@@ -3217,7 +3218,6 @@ KROEF,KR1 PLC Ordinary Shares (Isle of Man),U
 KRON,"Kronos Bio, Inc. Common Stock",NASDAQ
 KROS,"Keros Therapeutics, Inc. Common Stock",NASDAQ
 KRP,"Kimbell Royalty Partners, LP Common Units representing Limited Partner Interests",NYSE
-KRPI,Kriptech International Corp Common Stock,U
 KRRGF,Karora Resources Inc. Common Shares,U
 KRRTF,Korres SA Natural Products Regular Shares (Greece),U
 KRRYF,KERRY LOGISTICS NETWORK LTD Ordinary Shares HK$ (Bermuda),U
@@ -3424,6 +3424,7 @@ LBAS,"Location Based Technologies, Inc. Common Stock",U
 LBAY,Leatherback Long/Short Alternative Yield ETF,ARCA
 LBBRF,Liberbank SA Acciones Por Reagrupamiento Ordinary Shares (Spain),U
 LBC,Luther Burbank Corporation Common Stock,NASDAQ
+LBCEF,LBC EXPRESS HOLDINGS INC Ordinary Shares,U
 LBCMD,Libero Copper & Gold Corp Common Shares,U
 LBERY,Liberty Holdings Ltd. Unsponsored ADR,U
 LBGF,Level Best Golf Inc Common Stock,U
@@ -4017,6 +4018,7 @@ LTSF,Ladenburg Thalmann Financial Services Inc. 7.00% Senior Notes due 2028,U
 LTSH,Ladenburg Thalmann Financial Services Inc. 7.75% Senior Notes due 2029,U
 LTSK,Ladenburg Thalmann Financial Services Inc. 7.25% Senior Notes due 2028,U
 LTSL,Ladenburg Thalmann Financial Services Inc. 6.50% Senior Notes due 2027,U
+LTSRF,LOTUS RES LTD Ordinary Shares,U
 LTSY,"Litian Group, Inc. Common Stock",U
 LTTC,Lattice Incorporated Common Stock,U
 LTTGF,"LottoGopher Holdings, Inc. Ordinary Shares",U
@@ -4979,6 +4981,7 @@ MNICF,Mani Inc Takanezawa Ordinary Shares Japan(JP ),U
 MNII,Manati Inds Inc Common Stock,U
 MNILY,Minor International Public Co Ltd Unsponsored ADR (Thailand),U
 MNIVF,Monash IVF Group Limited Ordinary Shares (Australia),U
+MNIZ,GEN 2 TECHNOLOGIES INC. Common Stock,U
 MNKD,MannKind Corporation Common Stock,NASDAQ
 MNKKQ,MALLINCKRODT PUB LTD CO Ordinary Shares,U
 MNLCF,"MANULIFE FINL CORP, NON-CUM RATE RESET PFD CL 1 SHS SER 19 (Canada)",U
@@ -5368,3 +5371,4 @@ MTIRF,MITHRIL RESOURCES LTD SHS (Australia),U
 MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE
 MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
 MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U
+MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U
