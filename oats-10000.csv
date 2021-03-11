@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
@@ -129,6 +127,7 @@ HAWX,iShares Currency Hedged MSCI ACWI ex U.S. ETF,ARCA
 HAYN,"Haynes International, Inc. Common Stock",NASDAQ
 HAYPF,Hays Plc Ord Ordinary Shares,U
 HAYPY,Hays Plc Ord Unsponsored ADR (United Kingdom),U
+HAYW,"Hayward Holdings, Inc.",NYSE
 HAZAF,Hazama Ando Corp Ordinary Shares (Japan),U
 HAZH,"Haz Holdings, Inc. Common Stock",U
 HBAN,Huntington Bancshares Incorporated Common Stock,NASDAQ
@@ -1491,6 +1490,7 @@ IJH,iShares Core S&P Mid-Cap ETF,ARCA
 IJJ,iShares S&P Mid-Cap 400 Value ETF,ARCA
 IJJP,IJJ Corporation Common Stock,U
 IJK,iShares S&P Mid-Cap 400 Growth ETF,ARCA
+IJPBF,ISHARES II PLC ISHARES J P MORGAN EM BOND UCITS ETF MXN HEDGED ACC Exchange Traded Fund,U
 IJR,iShares Core S&P Small-Cap ETF,ARCA
 IJS,iShares S&P Small-Cap 600 Value ETF,ARCA
 IJSHF,IShares PLC Ordinary Shares EUR (Ireland),U
@@ -1731,6 +1731,7 @@ INRE,INLAND REAL ESTATE INCOME TR INC Common Stock,U
 INREF,Inretail Peru Corp Common Shares (Peru),U
 INRLF,Valneva SE Ordinary Shares (France),U
 INS,Intelligent Systems Corp.,AMEX
+INSD,Instadose Pharma Corp. Common Stock,U
 INSE,"Inspired Entertainment, Inc. Common Stock",NASDAQ
 INSEW,INSPIRED ENTMT INC Warrant   10/20/2021,U
 INSG,Inseego Corp. Common Stock,NASDAQ
@@ -2104,6 +2105,7 @@ ITACU,"Industrial Tech Acquisitions, Inc. Unit",NASDAQ
 ITACW,"Industrial Tech Acquisitions, Inc. Warrant",NASDAQ
 ITAYY,Indo Tambangraya Megah PT Unsponsored ADR (Indonesia),U
 ITB,iShares U.S. Home Construction ETF,BATS
+ITBDF,ISHARES PLC ISHARES TREASURY BOND 1 3YR UCITS ETF MXN HEDGED ACC Exchange Traded Fund,U
 ITBFF,IShares PLC - IShares USD Treasury Bond 1-3 Fund Shs (Ireland),U
 ITCB,Itau CorpBanca,NYSE
 ITCFY,Investec Ltd Unsponsored ADR (South Africa),U
@@ -2156,6 +2158,7 @@ ITP,"IT Tech Packaging, Inc.",AMEX
 ITPC,Intrepid Capital Corporation New Common Stock,U
 ITPOF,Intertape Polymer Group Inc. Common Stock,U
 ITQRU,Itiquira Acquisition Corp. Unit,NASDAQ
+ITRBF,ISHARES PLC ISHARES TREASURY BOND 0 1YR UCITS ETF MXN HEDGED ACC Exchange Traded Fund,U
 ITRG,Integra Resources Corp.,AMEX
 ITRI,"Itron, Inc. Common Stock",NASDAQ
 ITRM,Iterum Therapeutics plc Ordinary Share,NASDAQ
@@ -2427,6 +2430,7 @@ JEHLY,Johnson Electric Holdings Ltd Unsponsored American Depository Shares,U
 JELCF,Johnson Electric Holdings Ltd Ordinary Shares,U
 JELD,"JELD-WEN Holding, Inc.",NYSE
 JELLF,JEOL LTD SHS (Japan),U
+JEMA,JPMorgan Emerging Markets Equity Core ETF,BATS
 JEMC,J.E.M. Capital Inc. Common Stock,U
 JEMD,"Nuveen Emerging Markets Debt 2022 Target Term Fund, Common Shares of Beneficial Interest, $0.01 par",NYSE
 JEMTF,Barclays Bk PLC iPath GEMS Index ETN due 02/04/2038 (United Kingdom),U
@@ -2624,6 +2628,7 @@ JPM PRH,JPMorgan Chase & Co.,NYSE
 JPM PRJ,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of JPMorgan",NYSE
 JPMB,JPMorgan USD Emerging Markets Sovereign Bond ETF,ARCA
 JPME,JPMorgan Diversified Return US Mid Cap Equity ETF,ARCA
+JPMJL,JPMORGAN CHASE & CO DEP SHS REPSTG 1/400TH PFD SER JJ Depositary Shares,U
 JPN,Xtrackers Japan JPX-Nikkei 400 Equity ETF,ARCA
 JPNPY,Japan Post Ins Co Ltd ADS Repstg Com Stk (Japan),U
 JPNRF,Japan Airlines Co Ltd JAL Ordinary Shares (Japan),U
@@ -3454,6 +3459,7 @@ LBUY,"Leafbuyer Technologies, Inc. Common Shares",U
 LBWR,Labwire Inc. Common Stock,U
 LBYE,Liberty Energy Corp. Common Stock,U
 LC,LendingClub Corporation,NYSE
+LCAAU,L Catterton Asia Acquisition Corp Units,NASDAQ
 LCAP,Lionheart Acquisition Corp. II Class A Common Stock,NASDAQ
 LCAPU,Lionheart Acquisition Corp. II Unit,NASDAQ
 LCAPW,Lionheart Acquisition Corp. II Warrant,NASDAQ
@@ -3732,7 +3738,6 @@ LKOR,FlexShares Credit-Scored US Long Corporate Bond Index Fund,BATS
 LKQ,LKQ Corporation Common Stock,NASDAQ
 LKREF,Link Real Estate Investment Trust Units (Hong Kong),U
 LKSB,Lakeside Bancshares Inc LA Common Stock,U
-LKSDQ,LSC COMMUNICATIONS INC Common Shares,U
 LKSGF,Luks Group Vietnam Holdings Co Ltd Ordinary shares (Bermuda),U
 LKSGY,Luks Group Vietnam Holdings Co Ltd Unsponsored ADR (Bermuda),U
 LKST,"Looksmart Group, Inc. Common Stock",U
@@ -3903,7 +3908,7 @@ LPL,LG Display Co. Ltd.,NYSE
 LPLA,LPL Financial Holdings Inc. Common Stock,NASDAQ
 LPMDF,Lippo Malls Indonesia Tr Units (Singapore),U
 LPPI,"LEEP, Inc. Common Stock",U
-LPPPF,LOOPSHARE LTD Ordinary Shares,U
+LPPPD,LOOPSHARE LTD Ordinary Shares,U
 LPPSY,LPP SA Unsponsored ADR (Poland),U
 LPRO,Open Lending Corporation Class A Common Stock,NASDAQ
 LPRRF,Laurent Perrier Tours-Sur-Marne Act. Shares (France),U
@@ -5280,7 +5285,7 @@ MSFT,Microsoft Corporation Common Stock,NASDAQ
 MSGE,Madison Square Garden Entertainment Corp.,NYSE
 MSGM,Motorsport Games Inc. Class A Common Stock,NASDAQ
 MSGN,MSG Networks Inc.,NYSE
-MSGNF,Man Sang Intl Ltd Ordinary Shares (Bermuda),U
+MSGNF,Man Sang Intl Ltd Ordinary Shares,U
 MSGP,"MedSmart Group, Inc. Common Stock",U
 MSGS,Madison Square Garden Sports Corp.,NYSE
 MSHE,Msh Entertainment Corp Common Stock,U

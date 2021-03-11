@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
-CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
@@ -273,7 +271,7 @@ CRZNF,Corazon Mining Ltd Ordinary Shares (Australia),U
 CRZY,Crazy Woman Creek Bancorp Incorporated Common Stock,U
 CS,Credit Suisse Group,NYSE
 CSA,VictoryShares US Small Cap Volatility Wtd ETF,NASDAQ
-CSAN WI,Cosan S.A. American Depositary Shares (each representing one Common Share),NYSE
+CSAN,Cosan S.A. American Depositary Shares (each representing one Common Share),NYSE
 CSASF,Credit Saison Co Ltd Ordinary Shares (Japan),U
 CSASY,Credit Saison Co Ltd Unsponsored ADR (Japan),U
 CSAY,China SheSays Medical Cosmetology Inc.  Common Stock,U
@@ -3848,6 +3846,7 @@ FRNV,"Frontera Investment, Inc. Common Stock",U
 FRNWF,Future Plc ORD GBP0.15  (United Kingdom),U
 FRO,Frontline Ltd.,NYSE
 FROG,JFrog Ltd. Ordinary Shares,NASDAQ
+FRONU,Frontier Acquisition Corp. Units,NASDAQ
 FRPC,First Republic Corporation of America (The) Common Stock,U
 FRPH,"FRP Holdings, Inc. Common Stock",NASDAQ
 FRPRF,4D Pharma PLC Ordinary Shares (United Kingdom),U
@@ -4364,6 +4363,7 @@ GDDY,GoDaddy Inc,NYSE
 GDEN,"Golden Entertainment, Inc. Common Stock",NASDAQ
 GDET,"GD Entertainment & Technology, Inc. Common Stock",U
 GDIFF,"GDI Integrated Facility Services, Inc. Subordinate Voting Ordinary Shares (Canada)",U
+GDISF,Gold Is BHD Ordinary Shares,U
 GDL,The GDL Fund,NYSE
 GDL PRC,"GDL Fund, The Series C Cumulative Puttable and Callable Preferred Shares",NYSE
 GDLC,Grayscale Digital Large Cap Fund LLC Shares USD (Cayman Islands),U
@@ -4494,6 +4494,7 @@ GFL,GFL Environmental Inc. Subordinate Voting Shares,NYSE
 GFLDF,"Gemfields Resources Plc, London Ordinary shares (United Kingdom)",U
 GFLU,GFL Environmental Inc. Tangible Equity Units,NYSE
 GFMH,Goliath Film & Media Holdings Common Stock,U
+GFMRF,GFM RES LTD Ordinary Shares,U
 GFN,General Finance Corporation General Finance Corporation Common Stock,NASDAQ
 GFNCP,General Finance Corporation Cumulative Redeemable Perpetual Preferred Series C,NASDAQ
 GFNSZ,General Finance Corporation 7.875% Senior Notes due 2025,NASDAQ
@@ -4637,6 +4638,7 @@ GKPRF,GATEKEEPER SYS INC Ordinary Shares (Canada),U
 GKSDF,Grupo Kuo SAB de CV Cl B Ordinary Shares,U
 GKSGF,Grenekeleasing Ag Baden Ordinary Shares,U
 GKTRF,GEK Terna Holding Real Estate Construction Societe Anonyme Ordinary Regulary Shares (Greece),U
+GKTXF,Genkyotex DS21 Ordinary Shares (France),U
 GL,Globe Life Inc.,NYSE
 GL PRC,Globe Life Inc.,NYSE
 GLAD,Gladstone Capital Corporation Common Stock,NASDAQ
@@ -4907,7 +4909,7 @@ GNW,"Genworth Financial, Inc.",NYSE
 GNWSF,Stagezero Life Sciences Ltd Common Shares,U
 GNWTY,GENWORTH MTG INS AUSTRALIA LTD American Depositary Receipts - Unsponsored (Australia),U
 GNXCF,Genexin Co Ltd Ordinary Shares (South Korea),U
-GNYPF,Gainey Capital Corp. Ordinary Shares (Canada),U
+GNYPF,MASIVO SILVER CORP Ordinary Shares,U
 GNZR,"Generation Zero Gorup, Inc. Common Stock",U
 GNZUF,GUANGZHOU AUTOMOBILE GROUP CO LTD Ordinary Shares,U
 GNZUY,"Guangzhou Automobile Group Co., Ltd American Depositary Shares representing Shares H (Unsponsored ) (China)",U
@@ -5373,3 +5375,5 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U

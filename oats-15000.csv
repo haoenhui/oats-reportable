@@ -212,7 +212,6 @@ MZDAF,Mazda Motor Corp Ordinary Shares (Japan),U
 MZDAY,Mazda Motor Corp Unsponsored ADR (Japan),U
 MZEIQ,"Medizone International, Inc. Common Stock",U
 MZHOF,Mizuho Financial Group Inc Tokyo Ordinary Shares,U
-MZKR,Mikrocoze Inc. Common Stock   Nevada,U
 MZPS,"Myzipsoft, Inc. Common Stock",U
 MZTFF,Mizrahi Tefahot Bank Ltd Ordinary Shares (Israel),U
 MZTLF,John Menzies Plc Ordinary Shares (United Kingdom),U
@@ -747,7 +746,7 @@ NNGPF,NN Group NV Ordinary Shares (Netherlands),U
 NNGRF,NANOREPRO AG SHS (Germany Federal Republic),U
 NNGRY,NN Group NV American Depositary Receipts - Unsponsored (Netherlands),U
 NNGVF,Tesoro Minerals Corp. Common Shares (Canada),U
-NNHHF,Nhs Inds Ltd Ordinary Shares (Canada),U
+NNHHD,NHS INDUSTRIES LTD Ordinary Shares,U
 NNI,"Nelnet, Inc. Class A",NYSE
 NNLX,"NanoLogix, Inc. Common Stock",U
 NNMIF,Nearctic Nickel Mines Inc Ordinary Shares (Canada),U
@@ -2197,6 +2196,7 @@ PDM,"Piedmont Office Realty Trust, Inc.",NYSE
 PDMDF,Petra Diamonds Ltd Ordinary Shares (Bermuda),U
 PDMI,"Paradigm Medical Industries, Inc. Common Stock",U
 PDN,Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF,ARCA
+PDNIF,Padini Holding Bhd Ordinary Shares (Malaysia),U
 PDNLA,Presidential Realty Corporation Class A Common Stock,U
 PDNLB,Presidential Realty Corporation Class B Common Stock,U
 PDO,PIMCO Dynamic Income Opportunities Fund,NYSE
@@ -2395,6 +2395,7 @@ PGUZ,Pegasus Pharmaceuticals Inc Common Stock,U
 PGVI,"Promithian Global Ventures, Inc. Common Stock",U
 PGWFF,PGG Wrightson Ltd Ordinary Shares,U
 PGX,Invesco Preferred ETF,ARCA
+PGXFF,PROSPER GOLD CORP Ordinary Shares,U
 PGXPF,Pelangio Exploration Inc Common Shares,U
 PGYC,Patriot Energy Corp. (DE) Common Stock,U
 PGYOF,PANORA GAYRIMENKUL YATIRIM ORTAKLIGI A S COMMON STOCK (Turkey),U
@@ -2935,7 +2936,6 @@ PRFX,PainReform Ltd. Ordinary Shares,NASDAQ
 PRFZ,Invesco Exchange-Traded Fund Trust Invesco FTSE RAFI US 1500 Small-Mid ETF,NASDAQ
 PRG,"PROG Holdings, Inc.",NYSE
 PRGAF,Pargesa Holding Sa Ordinary Shares (Switzerland),U
-PRGCF,PROSPER GOLD CORP Ordinary Shares,U
 PRGLY,Puregold Price Club Inc American Depositary Receipts (Phillipines),U
 PRGNF,PARAGON SHIPPING INC Ordinary Shares,U
 PRGO,PERRIGO COMPANY PLC,NYSE
@@ -3272,6 +3272,7 @@ PTNR,Partner Communications Company Ltd. American Depositary Shares,NASDAQ
 PTNUF,"Platina Resources Ltd, Perth Wa Ordinary Shares (Australia)",U
 PTNYF,Parcelpal Technology Inc Ordinary Shares (Canada),U
 PTOAF,Pieridae Energy Limited Common Shares,U
+PTOCU,Pine Technology Acquisition Corp. Unit,NASDAQ
 PTOG,"Petrotech Oil & Gas, Inc. Common Stock",U
 PTOI,"Plastic2Oil, Inc.  Common Stock",U
 PTON,"Peloton Interactive, Inc. Class A Common Stock",NASDAQ
@@ -3455,7 +3456,7 @@ PYPD,PolyPid Ltd. Ordinary Shares,NASDAQ
 PYPE,"ETRACS NYSE Pickens Core Midstream Index ETN due August 20, 2048",ARCA
 PYPL,"PayPal Holdings, Inc. Common Stock",NASDAQ
 PYPTF,"Paypoint plc, Welwyn Garden City Ordinary Shares (United Kingdom)",U
-PYRNF,Pyrogenesis CDA Inc Ordinary Shares (Canada),U
+PYR,PyroGenesis Canada Inc. Common Shares,NASDAQ
 PYROF,Pyrolyx AG Ordinary Shares (Germany),U
 PYS,"Merrill Lynch Depositor Inc. PPLUS Class A 6.30% Callable Trust Certificates, Series RRD-1 (Issued b",NYSE
 PYT,Merrill Lynch Depositor PPLUS  Floating Rate Call TR Cert. Ser GSC-2(Goldman Sachs),NYSE
@@ -3790,7 +3791,7 @@ RCB,Ready Capital Corporation 6.20% Senior Notes due 2026,NYSE
 RCBC,River City Bank Common Stock,U
 RCC,Ready Capital Corporation 5.75% Senior Notes due 2026,NYSE
 RCCB,Rochester Community Baseball Common Stock,U
-RCCCD,RC-1 Inc Common Stock,U
+RCCC,RC-1 Inc Common Stock,U
 RCCMF,"Nippon Dragon Resources, Inc. Common Shares (Canada)",U
 RCD,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,ARCA
 RCDOF,Ricardo Intl Plc Ord Ordinary Shares,U
@@ -4590,6 +4591,7 @@ RWWDF,BALSAM TECHNOLOGIES CORP Ordinary Shares,U
 RWWI,"Rand Worldwide, Inc. Common Stock",U
 RWX,SPDR Dow Jones  International Real Estate ETF,ARCA
 RXD,ProShares UltraShort Health Care,ARCA
+RXDX,"Prometheus Biosciences, Inc. Common Stock",NASDAQ
 RXEEY,Rexel SA Unsponsored ADR (France),U
 RXEI,"RXElite, Inc. Common Stock",U
 RXHSF,Richco Invs Multiple Vtg Shs Ordinary Shares,U
@@ -4844,6 +4846,7 @@ SC,SANTANDER CONSUMER USA HOLDINGS INC,NYSE
 SCABY,Svenska Cellulosa Aktiebolaget SCA American Depositary Receipts - Unsponsored,U
 SCAL,Stem Cell Authority Ltd. Common Stock,U
 SCANF,Scandi STD AB Ordinary Shares (Sweden),U
+SCAQU,Stratim Cloud Acquisition Corp. Unit,NASDAQ
 SCBFF,Standard Chartered Plc Ordinary Shares,U
 SCBFY,Standard Chartered PLC Unsponsored ADR (United Kingdom),U
 SCBGF,SIG COMBIBLOC GROUP AG NAMEN AKT (Switzerland),U
@@ -4992,6 +4995,7 @@ SDCKF,Sodick Co Ltd Ordinary Shares,U
 SDCVF,"Sa des Ciments Vicat Vicat, SHS (France)",U
 SDD,ProShares UltraShort SmallCap600,ARCA
 SDDFF,TERNIUM ARGENTINA S A Ordinary Shares,U
+SDDMF,Sociedad Minera El Brocal SAA (Peru),U
 SDEC,SMART DECISION INC Common Stock Wyoming,U
 SDEF,Sound Enhanced Fixed Income ETF,ARCA
 SDEI,Sound Equity Income ETF,ARCA
@@ -5372,3 +5376,4 @@ SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
 SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
 SHLX,"Shell Midstream Partners, L.P.",NYSE
 SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
+SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U

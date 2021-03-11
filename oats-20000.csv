@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
 SHMCF,Renewi PLC Ordinary Shares,U
 SHMDF,Shimano Inds Ordinary Shares,U
 SHMMF,SAHAMIT MACHINERY PCL PUB CO LTD UNITS NON -VOTING DEPOSITORY RECEIPTS (Thailand),U
@@ -471,6 +470,7 @@ SMPL,The Simply Good Foods Company Common Stock,NASDAQ
 SMPNY,Sompo Japan Nipponkoa Hldgs Inc American Depositary Receipts - Unsponsored (Japan),U
 SMPP,Strategic Management & Opportunity Corporation Common Stock,U
 SMPR,"Standard Metals Processing, Inc. Common Stock",U
+SMRAF,Sociedad Minera Cerro Verde SAA Lima Shs - Comun (Peru),U
 SMREF,Sun Summit Minerals Corp Common Shares,U
 SMRGF,SMAREGI INC Common Stock,U
 SMRH,Superior Marktng Research Crp Common Stock,U
@@ -642,6 +642,7 @@ SNVP,Savoy Energy Corporation Common Stock,U
 SNVVF,Step Energy Svcs Ltd Ordinary Shares (Canada),U
 SNWAF,SANWA HOLDINGS CORP Ordinary Shares,U
 SNWDF,SUNWAY SDN BHD Common Shares   Malaysia (MY),U
+SNWGF,SNOWLINE GOLD CORP Common Shares,U
 SNWR,Sanwire Corporation Common Stock,U
 SNWV,"SANUWAVE Health, Inc. Common Stock",U
 SNX,Synnex Corporation,NYSE
@@ -822,6 +823,7 @@ SPIDY,Septeni Holdings Co Ltd Tokyo Unsponsored ADR (Japan),U
 SPIN,"Spine Injury Solutions, Inc. Common Stock",U
 SPIP,SPDR Portfolio TIPS ETF,ARCA
 SPIZF,Sparebanken Vest AS Primary Cap Cert (Norway),U
+SPKBU,Silver Spike Acquisition Corp II Units,NASDAQ
 SPKE,"Spark Energy, Inc. Class A Common Stock",NASDAQ
 SPKEP,"Spark Energy, Inc. 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 SPKKY,Spark New Zealand Limited ADS,U
@@ -1600,6 +1602,7 @@ SYBJF,Security Bank Corp Ordinary Shares,U
 SYBRQ,Synergy Brands Inc. Common Stock,U
 SYBT,"Stock Yards Bancorp, Inc. Common Stock",NASDAQ
 SYBX,"Synlogic, Inc. Common Stock",NASDAQ
+SYCHF,Sanyo Chemical Industries Ltd Ordinary Shares (Japan),U
 SYCRF,Syncora Holdings Ltd Common Stock (Bermuda) USD,U
 SYDDF,Sydney Airport Stapled Security (Austrailia),U
 SYE,SPDR MFS Systematic Core Equity ETF of  SSgA Active  Trust,ARCA
@@ -1810,6 +1813,7 @@ TC,TuanChe Limited American Depositary Shares,NASDAQ
 TCACU,Tuatara Capital Acquisition Corporation Unit,NASDAQ
 TCAI,"AIMTC, INC. Common Stock",U
 TCANF,TC Energy Corp Preferred Stock,U
+TCAPF,TP ICAP GROUP PLC Ordinary Shares (Jersey),U
 TCBI,"Texas Capital Bancshares, Inc. Common Stock",NASDAQ
 TCBIL,"Texas Capital Bancshares, Inc. 6.50% Subordinated Notes due 2042",NASDAQ
 TCBIP,"Texas Capital Bancshares, Inc. Non Cumulative Preferred Perpetual Stock Series A",NASDAQ
@@ -2750,7 +2754,6 @@ TRWLY,TRAWELL CO S P A American Depositary Receipts - Sponsored  Italy(IT ),U
 TRWRF,LIQUID AVATAR TECHNOLOGIES INC Ordinary Shares,U
 TRX,Tanzanian Gold Corporation,AMEX
 TRXA,Trex Acquisition Corp. Common Stock,U
-TRXCW,TRANSENTERIX INC SER C WT EXP 03/10/2021,U
 TRXDW,TRANSENTERIX INC SER D WT EXP 03/10/2025,U
 TRXO,"Columbine Valley Resources, Inc. Common Stock",U
 TRXPF,Torii Pharmaceutical Co Ordinary Shares,U
@@ -3847,7 +3850,7 @@ VJET,voxeljet AG American Depositary Shares,NASDAQ
 VKEMF,VEF LTD - SDR Depositary Receipts,U
 VKGLF,VIKING LINE AB SHS (Finland),U
 VKI,Invesco Advantage Municipal Income Trust II,AMEX
-VKIND,"Viking Energy Group, Inc. Common Stock",U
+VKIN,"Viking Energy Group, Inc. Common Stock",U
 VKMTF,Victory Metals Inc Common Shares (Canada),U
 VKPPF,Vukile Property Fund Ltd Ordinary Shares (South Africa),U
 VKQ,Invesco Municipal Trust,NYSE
@@ -4215,7 +4218,7 @@ VWID,Virtus WMC International Dividend ETF,BATS
 VWO,Vanguard FTSE Emerging Markets ETF,ARCA
 VWOB,Vanguard Whitehall Funds Vanguard Emerging Markets Government Bond ETF,NASDAQ
 VWSYF,Vesta Wind Systems Par Ord Ordinary Shares,U
-VWTR,"Vidler Water Resouces, Inc. Common Stock",NASDAQ
+VWTR,"Vidler Water Resources, Inc. Common Stock",NASDAQ
 VXEL,Vitaxel Group Limited Common Stock,U
 VXF,Vanguard Extended Market ETF,ARCA
 VXLLF,Vaxil Bio Ltd Ordinary Shares (Canada),U
@@ -4257,6 +4260,7 @@ WAKE,"Wake Forest Bancshares, Inc. Common Stock",U
 WAKHF,Wai Kee Holdings Ltd SHS,U
 WAL,Western Alliance Bancorporation,NYSE
 WALA,Western Alliance Bancorporation,NYSE
+WALDU,Waldencast Acquisition Corp. Units,NASDAQ
 WALRF,MEGAWATT LITHIUM & BATTERY METALS CORP Common Shares,U
 WANHY,Seven West Media Ltd.  Unsponsored ADR (Australia),U
 WANSF,Wandisco Plc Ordinary Shares (Jersey),U
@@ -4702,6 +4706,7 @@ WSFS,WSFS Financial Corporation Common Stock,NASDAQ
 WSFT,Wikisoft Corp. Common Stock,U
 WSGF,"World Series of Golf, Inc. Common Stock",U
 WSHE,GreenLink International Inc. Common Stock,U
+WSHPF,Wishpond Technologies Ltd. Common Shares (Canada),U
 WSIOF,Wasion Holdings Ltd Ordinary Shares (Cayman Islands),U
 WSKEF,Wisekey International Holdings Ltd. Ordinary Shares (Switzerland),U
 WSM,"Williams-Sonoma, Inc.",NYSE

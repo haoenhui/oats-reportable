@@ -859,7 +859,7 @@ AKO A,Embotelladora Andina S.A. Series A,NYSE
 AKO B,Embotelladora Andina S.A. Series B,NYSE
 AKOM,Aerkomm Inc. Common Stock,U
 AKORF,AKORA RES LTD ORDINARY FULLY PAID (Australia),U
-AKOWF,AKER OFFSHORE WIND HLDG AS Ordinary Shares,U
+AKOWF,AKER OFFSHORE WIND AS Ordinary Shares,U
 AKR,Acadia Realty Trust,NYSE
 AKRFF,"Ackroo, Inc. Ordinary Shares",U
 AKRO,"Akero Therapeutics, Inc. Common Stock",NASDAQ
@@ -1923,6 +1923,7 @@ ATRX,Adhera Therapeutics Inc Common Stock,U
 ATSAF,Ats Automated Tooling Ordinary Shares,U
 ATSG,"Air Transport Services Group, Inc",NASDAQ
 ATSKF,Allied Telesis Holdings KK  Ordinary Shares,U
+ATSPU,Archimedes Tech SPAC Partners Co. Unit,NASDAQ
 ATTBF,Abattis Bioceuticals Corp. Ordinary Shares (Canada),U
 ATTGF,Auto Italia Hldgs Ltd SHS HKD (Bermuda),U
 ATTLF,Atlas Copco Aktiebolag Ordinary Shares,U
@@ -2589,7 +2590,7 @@ BELLF,Belle International Holdings Limited Limited Ordinary shares (Cayman Islan
 BELMF,Belmont Resources Inc Common Shares (Canada),U
 BELP,BELPOINTE REIT INC Common Stock,U
 BELR,Bell Rose Capital Inc. Common Stock,U
-BEMG,Beta Music Group Inc. Common Stock,U
+BEMGQ,Beta Music Group Inc. Common Stock,U
 BEN,"Franklin Resources, Inc.",NYSE
 BENE,Benessere Capital Acquisition Corp. Class A Common Stock,NASDAQ
 BENER,Benessere Capital Acquisition Corp. Right,NASDAQ
@@ -4344,10 +4345,12 @@ CFCV,ClearBridge Focus Value ETF,BATS
 CFCX,Centric Financial Corporation Common Stock,U
 CFEGF,China Nonferrous Gold Ltd Ordinary Shares (Cayman Islands),U
 CFEIY,China Feihe Limited Unsponsored ADR (Cayman Islands),U
+CFFEU,CF Acquisition Corp. VIII Unit,NASDAQ
 CFFHF,Cifi Hldgs Group Co Ltd Ordinary Shares (Cayman Islands),U
 CFFI,C&F Financial Corporation Common Stock,NASDAQ
 CFFMF,Cfoam Ltd Ordinary Shares (Australia),U
 CFFN,"Capitol Federal Financial, Inc. Common Stock",NASDAQ
+CFFSU,CF Acquisition Corp. VII Unit,NASDAQ
 CFFVU,CF Acquisition Corp. V Unit,NASDAQ
 CFG,"Citizens Financial Group, Inc.",NYSE
 CFG PRD,"Citizens Financial Group, Inc. Depositary Shares, each representing a 1/40th Interest in a Share of",NYSE
@@ -5373,3 +5376,5 @@ CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
+CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
+CPCC,"Striper Energy, Inc. Common Stock",U
