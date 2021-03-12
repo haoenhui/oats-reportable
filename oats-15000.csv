@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U
 MTLHF,Mitsubishi Chemical Holdings Corp Ordinary Shares (Japan),U
 MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
 MTLI,Metaline Contact Mines Common Stock,U
@@ -97,7 +98,6 @@ MUSS,Multi Solutions II Inc Common Stock,U
 MUST,Columbia Multi-Sector Municipal Income ETF,ARCA
 MUTM,Mutual Merchant Services Inc. Common Stock,U
 MUX,"MCEWEN MINING, INC.",NYSE
-MUZNF,Maruzen Company Ltd Ordinary Shares (Japan),U
 MVAC,"MotorVac Technologies, Inc. Common Stock",U
 MVAIF,MINERVA INTELLIGENCE INC COM (Canada),U
 MVBF,MVB Financial Corp. Common Stock,NASDAQ
@@ -206,7 +206,7 @@ MYTEF,Telekom Malaysian Bhd Ordinary Shares,U
 MYTHF,Mytilineos Hldgs Sa Ordinary Shares,U
 MYTHY,Mytilineos S.A. American Depositary Receipts - Unsponsored,U
 MYY,ProShares Short MidCap400,ARCA
-MYZQF,Myfiziq LTD Ordinary Shares,U
+MYZQF,Advanced Human Imaging Ltd Ordinary Shares,U
 MZA,"BlackRock MuniYield Arizona Fund, Inc",NYSE
 MZDAF,Mazda Motor Corp Ordinary Shares (Japan),U
 MZDAY,Mazda Motor Corp Unsponsored ADR (Japan),U
@@ -1458,8 +1458,6 @@ OFS,OFS Capital Corporation Common Stock,NASDAQ
 OFSI,"Omni Financial Services, Inc. Commmon Stock",U
 OFSSG,OFS Capital Corporation 6.25% Notes Due 2023,NASDAQ
 OFSSI,OFS Capital Corporation 5.95% Notes due 2026,NASDAQ
-OFSSL,OFS Capital Corporation 6.375% Notes due 2025,NASDAQ
-OFSSZ,OFS Capital Corporation 6.50% Notes due 2025,NASDAQ
 OGAA,Organic Agricultural Company Limited Common Stock,U
 OGCP,"Empire State Realty OP, L.P. Series 60",ARCA
 OGDCF,Oceanagold Corporation Shares CHESS Depositary Interest (Canada),U
@@ -1808,7 +1806,9 @@ OSTIY,Osterreichische Post AG Sponsored ADR (Austria),U
 OSTK,"Overstock.com, Inc. Common Stock",NASDAQ
 OSTKO,Overstock.Com Inc Preferred Digital Voting Series A-1,U
 OSTO,Original Sixteen To One Mine Common Stock,U
+OSTR,Oyster Enterprises Acquisition Corp. Class A Common Stock,NASDAQ
 OSTRU,Oyster Enterprises Acquisition Corp. Unit,NASDAQ
+OSTRW,Oyster Enterprises Acquisition Corp. Warrant,NASDAQ
 OSUKF,Otsuka Corp Ordinary Shares (Japan),U
 OSUR,"OraSure Technologies, Inc. Common Stock",NASDAQ
 OSW,OneSpaWorld Holdings Limited Common Shares,NASDAQ
@@ -1847,6 +1847,8 @@ OUKPY,Metso Outotec Corporation American Depositary Receipts - Unsponsored,U
 OUNZ,VanEck Merk Gold Trust,ARCA
 OUSA,OShares U.S. Quality Dividend ETF,BATS
 OUSM,OShares U.S. Small-Cap Quality Dividend ETF,BATS
+OUST,"Ouster, Inc.",NYSE
+OUST WS,"Ouster, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise p",NYSE
 OUSZF,Outsourcing Inc Shizuoka Ordinary Shares (Japan),U
 OUT,OUTFRONT Media Inc.,NYSE
 OUTB,Outback Oil&Min Expl Corp Unclassified,U
@@ -3440,7 +3442,7 @@ PXXLF,Poxel SA Ordinary Shares (France),U
 PXXXF,POLARX LTD Ordinary Shares,U
 PXYN,Praxsyn Corporation Common Stock,U
 PY,Principal Exchange-Traded Funds Principal Value ETF,NASDAQ
-PYBX,PlayBOX (US) Inc. Common Stock,U
+PYBX,"Hydro Power Technologies, Inc. Common Stock",U
 PYCEF,Pryce Corp SHS (Philippines),U
 PYCFF,Mount Logan Cap Inc Ordinary Shares,U
 PYCT,"Paychest, Inc. Common Stock",U
@@ -3726,7 +3728,6 @@ RANJY,Randstad NV American Depositary Receipts - Unsponsored,U
 RANKF,Rank Group plc Ordinary Shares (United Kingdom),U
 RAONF,RACE ONCOLOLGY LTD Ordinary Shares (Australia),U
 RAPT,"RAPT Therapeutics, Inc. Common Stock",NASDAQ
-RAQUF,"Raqualia Pharma Inc, Chita-Gun Ordinary Shares (Japan)",U
 RARE,Ultragenyx Pharmaceutical Inc. Common Stock,NASDAQ
 RAREF,Canada Rare Earth Corp. Ordinary Shares (Canada),U
 RARMF,Candence Minerals PLC Ordinary Shares,U
@@ -4358,6 +4359,7 @@ ROSC,Hartford Multifactor Small Cap ETF,ARCA
 ROSGQ,Rosetta Genomics Ltd. Ordinary Shares,U
 ROSMF,PJSC LONG DISTANCE & INTL TELECOMMUNICATIONS ROSTELECOM Ordinary Shares (Russia),U
 ROSN,Rosinbomb Common Stock,U
+ROSS U,"Ross Acquisition Corp II Units, each consisting of one Class A ordinary share and one-third of one r",NYSE
 ROSSF,Ross Group PLC Ordinary Shares (United Kingdom),U
 ROST,"Ross Stores, Inc. Common Stock",NASDAQ
 ROSYY,PJSC Rostelecom American Depositary Receipts - Sponsored,U
@@ -5377,3 +5379,5 @@ SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
 SHLX,"Shell Midstream Partners, L.P.",NYSE
 SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
 SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
+SHMCF,Renewi PLC Ordinary Shares,U
+SHMDF,Shimano Inds Ordinary Shares,U

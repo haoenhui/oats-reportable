@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
-GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
-GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
 GWPD,"GP Solutions, Inc. Common Stock",U
@@ -620,6 +616,7 @@ HNTWF,u Warrant   11/17/2021,U
 HNUZF,BETAPRO NAT GAS LEVERAGED DAILY BULL ETF Unit,U
 HNW,Pioneer Diversified High Income Trust,AMEX
 HNWAF,Hanwa Co Ltd Ordinary Shares (Japan),U
+HNWDF,HONWORLD GROUP LTD USD SHS (Cayman Islands),U
 HNWEF,Hanwei Energy Svcs Corp Common Shares (Canada),U
 HNXMF,HUANXI MEDIA GROUP LTD Ordinary Shares,U
 HOCFF,Hochtief A G Ordinary Shares,U
@@ -1383,7 +1380,9 @@ IGMS,"IGM Biosciences, Inc. Common Stock",NASDAQ
 IGN,iShares North American Tech-Multimedia Networking ETF,ARCA
 IGNE,"IGENE Biotechnology, Inc. Common Stock",U
 IGNT,Ingen Technologies Inc  Common Stock New,U
+IGNY,Ignyte Acquisition Corp. Common Stock,NASDAQ
 IGNYU,Ignyte Acquisition Corp. Unit,NASDAQ
+IGNYW,Ignyte Acquisition Corp. Warrant,NASDAQ
 IGOI,"iGo, Inc Common Stock",U
 IGOV,iShares Trust iShares International Treasury Bond ETF,NASDAQ
 IGPFF,"Imperial Ginseng Products, Ltd. Ordinary Shares (Canada)",U
@@ -2368,7 +2367,6 @@ JAPSY,Japan Airlines Ltd Unsponsored ADR (Japan),U
 JARLF,Jardine Matheson Hldgs Ltd Ord Ordinary Shares,U
 JASSF,Japan Asset Marketing Co Ltd Ordinary Shares (Japan),U
 JASUF,Jasmine International Public Co Ltd Units Non-Voting Depositary Receipt (Thailand),U
-JAUGF,Deep-South Res Inc Ordinary Shares,U
 JAX,"J. Alexander's Holdings, Inc.",NYSE
 JAXAF,Jaxsta Ltd Ordinary Shares (Australia),U
 JAZTF,Jazztel plc Ordinary Shares (United Kingdom),U
@@ -2595,6 +2593,7 @@ JNSH,JNS Holdings Corporation Common Stock,U
 JNSTF,Jinhui Shipping & Trans Ltd Ordinary Shares (Bermuda),U
 JNUG,Direxion Daily Junior Gold Miners Index Bull 2X Shares,ARCA
 JO,iPath Series B Bloomberg Coffee Subindex Total ReturnSM ETN,ARCA
+JOAN,"JOANN, Inc. Common Stock",NASDAQ
 JOB,GEE Group Inc.,AMEX
 JOBS,"51job, Inc. American Depositary Shares",NASDAQ
 JOE,St. Joe Company,NYSE
@@ -3440,6 +3439,7 @@ LBKLF,Linkbal Inc Common Stock (Japan),U
 LBLCF,Loblaw Companies Ltd Cda Ordinary Shares,U
 LBLPF,"LASERBOND LTD, PERTH NSW 2565 SHS (Australia)",U
 LBLTF,Lattice Biologics Ltd Common Shares,U
+LBPH,"Longboard Pharmaceuticals, Inc. Common Stock",NASDAQ
 LBRDA,Liberty Broadband Corporation Class A Common Stock,NASDAQ
 LBRDB,Liberty Broadband Corporation Common Stock Series B,U
 LBRDK,Liberty Broadband Corporation Class C Common Stock,NASDAQ
@@ -4057,6 +4057,7 @@ LUXA,Lux Health Tech Acquisition Corp. Class A Common Stock,NASDAQ
 LUXAU,Lux Health Tech Acquisition Corp. Units,NASDAQ
 LUXAW,Lux Health Tech Acquisition Corp. Warrants,NASDAQ
 LUXE,Emles Luxury Goods ETF,BATS
+LUXFF,LUXXFOLIO HLDGS INC COM (Canada),U
 LVBX,"LevelBlox, Inc. Common Stock",U
 LVCA,"Lake Victoria Mining Company, Inc. Common Stock",U
 LVCC,Las Vegas Central Reservations Corporation Common Stock,U
@@ -4737,6 +4738,7 @@ MIND,"MIND Technology, Inc. Common Stock (DE)",NASDAQ
 MINDP,MIND Technology Inc. Series A 9.00% Series A Cumulative Preferred Stock (DE),NASDAQ
 MINE,"Minerco, Inc. Common Stock",U
 MINM,Zoom Telephonics Inc. Common Stock,U
+MINN,Mairs & Power Minnesota Municipal Bond ETF,BATS
 MINOF,Minor International Public Co Ltd Ordinary Shares (Thailand),U
 MINRF,Minor International Public Co Ltd. Local Warrant Exp. 07/31/2023,U
 MINT,PIMCO Enhanced Short Maturity Active Exchange-Traded Fund,ARCA
@@ -4749,6 +4751,7 @@ MIRXF,SERRANO RES LTD  Common Shares,U
 MIST,Milestone Pharmaceuticals Inc. Common Shares,NASDAQ
 MISVF,Minco Silver Corp Common Shares (Canada),U
 MIT U,"Mason Industrial Technology, Inc. Units, each consisting of one share of Class A common stock and on",NYSE
+MITC,MeaTech 3D Ltd. American Depositary Shares,NASDAQ
 MITCF,Mitani Corp Ordinary Shares (Japan),U
 MITEF,Mitsubishi Estate Co Ltd Ordinary Shares (Japan),U
 MITEY,Mitsubishi Estate Co Ltd American Depositary Shares,U
@@ -5064,7 +5067,9 @@ MOJO,"Mojo Organics, Inc.  Common Stock",U
 MOM,AGFiQ U.S. Market Neutral Momentum Fund,ARCA
 MOMO,Momo Inc. American Depositary Shares,NASDAQ
 MOMT,"MoneyOnMobile, Inc Common Stock",U
+MON,Monument Circle Acquisition Corp. Class A Common Stock,NASDAQ
 MONCU,Monument Circle Acquisition Corp. Unit,NASDAQ
+MONCW,Monument Circle Acquisition Corp. Warrant,NASDAQ
 MONDF,Mondi Plc Ordinary shares (United Kingdom),U
 MONDY,Mondi Plc Unsponsored ADR (UK),U
 MONGF,Montego Resources Inc Common Stock,U
@@ -5376,4 +5381,3 @@ MTIRF,MITHRIL RESOURCES LTD SHS (Australia),U
 MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE
 MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
 MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U
-MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U

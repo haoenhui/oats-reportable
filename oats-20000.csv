@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHMCF,Renewi PLC Ordinary Shares,U
-SHMDF,Shimano Inds Ordinary Shares,U
 SHMMF,SAHAMIT MACHINERY PCL PUB CO LTD UNITS NON -VOTING DEPOSITORY RECEIPTS (Thailand),U
 SHMN,"SOHM, Inc. Common Stock",U
 SHMP,NaturalShrimp Incorporated Common Stock,U
@@ -247,6 +245,7 @@ SKSK,Skookum Safety Solutions Corp. Common Stock,U
 SKSUF,Sekisui Chem Co Ordinary Shares,U
 SKSUY,Sekisui Chemical Co Ltd Unsponsored ADR (Japan),U
 SKT,TANGER FACTORY OUTLET CENTERS,NYSE
+SKTCF,SKYCHAIN TECHNOLOGIES INC COM NEW (Canada),U
 SKTO,"SK3 Group, Inc. Common Stock",U
 SKTP,Skytop Lodge Corporation Common Stock,U
 SKTPP,Skytop Lodge Corporation Preferred Stock,U
@@ -524,6 +523,7 @@ SNCLF,Southern Concrete Pile Public Co Ltd Formerly Southern Concrete Pile Co Lt
 SNCPF,Sun Corp Ordinary Shares (Japan),U
 SNCR,"Synchronoss Technologies, Inc. Common Stock",NASDAQ
 SNCVF,RASSINI SAB DE CV Ordinary Shares,U
+SNCY,"Sun Country Airlines Holdings, Inc. Common Stock",NASDAQ
 SND,"Smart Sand, Inc. Common Stock",NASDAQ
 SNDD,RedHawk Holdings Corp. Common Stock,U
 SNDE,Sundance Energy Inc. Common Stock,NASDAQ
@@ -1311,7 +1311,6 @@ STQN,"Strategic Acquisitions, Inc. Common Stock",U
 STQNF,Strandline Res Ltd. Ordinary Shares (Australia),U
 STRA,"Strategic Education, Inc. Common Stock",NASDAQ
 STRB,Strasbaugh Common Stock,U
-STRE U,"Supernova Partners Acquisition Company III, Ltd. Units, each consisting of one Class A ordinary shar",NYSE
 STREF,Sthree Group Limited London Ordinary Shares (United Kingdom),U
 STRH,Star8 Corp. Common Stock,U
 STRI,"STR Holdings, Inc. Common Stock",U
@@ -1593,6 +1592,7 @@ SXRIU,Sioux River Ethanol LLC Cap Unit Class A,U
 SXRRU,Sioux River Ethanol LLC Cap Unit Class B,U
 SXT,Sensient Technology Corporation,NYSE
 SXTC,"China SXT Pharmaceuticals, Inc. Ordinary Shares",NASDAQ
+SXTKF,SITRONIX TECHNOLOGY CORP SHS (Taiwan),U
 SXYAY,SIKA AG American Depositary Share (Switzerland),U
 SY,So-Young International Inc. American Depository Shares,NASDAQ
 SYAAF,Syrah Resources Limited Ordinary Shares (Australia),U
@@ -1982,6 +1982,7 @@ TERRF,Trasmissione Elettricita Rete Nazionale Spa Roma Ordinary Shares (Italy),U
 TESS,TESSCO Technologies Incorporated Common Stock,NASDAQ
 TETAA,Teton Advisors Inc Common Class A,U
 TETAB,Teton Advisors Inc Common Stock Cl B,U
+TETCU,Tech and Energy Transition Corporation Unit,NASDAQ
 TETHF,Tethys Petroleum Ltd Ordinary Shares,U
 TETOF,Tectonic Metals Inc Common Shares (Canada),U
 TEUCF,Box Ships Inc. Perpetual Preference Shares,U
@@ -2774,8 +2775,8 @@ TSCAF,Tuscany Energy Ltd Ordinary Shares (Canada),U
 TSCAP,"TriState Capital Holdings, Inc. Dep Shs Rep 1/40th Int 6.75% Srs A Non-Cum Pfd Stock",NASDAQ
 TSCBP,"TriState Capital Holdings, Inc. Depositary Share, representing a 1/40th Interest in a Share of 6.375% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",NASDAQ
 TSCC,Technology Solutions Company Common Stock,U
-TSCDD,TESCO PLC American Depositary Receipts - Sponsored,U
 TSCDF,TESCO PLC Ordinary Shares,U
+TSCDY,TESCO PLC American Depositary Receipts - Sponsored,U
 TSCFY,Tisco Financial Group Public Co Ltd Unsponsored ADR (Thailand),U
 TSCHY,Trustco Group Holdings Ltd. Sponsored American Depository Receipt (Namibia),U
 TSCO,Tractor Supply Company Common Stock,NASDAQ
@@ -3073,7 +3074,9 @@ TZA,Direxion Daily Small Cap Bear 3x Shares,ARCA
 TZLTF,TZ Ltd Ordinary Shares (Australia),U
 TZOO,Travelzoo Common Stock,NASDAQ
 TZPC,ThermaFreeze Products Corporation Common Stock,U
+TZPS,TZP Strategies Acquisition Corp. Class A Ordinary Share,NASDAQ
 TZPSU,TZP Strategies Acquisition Corp. Unit,NASDAQ
+TZPSW,TZP Strategies Acquisition Corp. Warrant,NASDAQ
 TZROP,Tzero Group Inc Preferred Equity Tokens Series A,U
 U,Unity Software Inc.,NYSE
 UA,"Under Armour, Inc. Class C Common Stock, $0.0003 1/3 par value",NYSE
@@ -4680,6 +4683,7 @@ WRLC,WINDROCK LD CO Common Stock,U
 WRLD,World Acceptance Corporation Common Stock,NASDAQ
 WRMA,Wiremedia Inc. Common Stock,U
 WRMCF,WHITE ROCK MINERALS LTD Ordinary Shares,U
+WRMK,Watermark Lodging Trust Inc Common Shares Cl A,U
 WRN,Western Copper and Gold Corporation,AMEX
 WRPSF,Oro X Mining Corp. Common Shares,U
 WRRI,"Wari, Inc. Common Stock",U

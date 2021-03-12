@@ -468,7 +468,7 @@ AEP,"American Electric Power Company, Inc. Common Stock",NASDAQ
 AEPLF,Anglo Eastern Plantations PLC Ordinary Shares,U
 AEPPL,"American Electric Power Company, Inc. Corporate Unit",NASDAQ
 AEPPZ,"American Electric Power Company, Inc. Corporate Units",NASDAQ
-AEPT,"American Energy Partners, Inc. Common Stock",U
+AEPTD,"American Energy Partners, Inc. Common Stock",U
 AER,Aercap Holdings N.V.,NYSE
 AERG,"Applied Energetics, Inc Common Stock",U
 AERGP,"Applied Energetics, Inc. Series A Convertible Preferred Stock",U
@@ -3853,6 +3853,7 @@ CALX,"CALIX, INC.",NYSE
 CALZF,Polynovo Ltd.  Ordinary Shares,U
 CAMG,"CAM Group, Inc. Common Stock",U
 CAMJF,Canon Marketing Japapn Inc Ordinary Shares (Japan),U
+CAMLF,"Central Asia Metals Ltd, London Common Shares (United Kingdom)",U
 CAMP,CalAmp Corp. Common Stock,NASDAQ
 CAMRF,Camurus AB Ordinary Shares (Sweden),U
 CAMT,Camtek Ltd. Ordinary Shares,NASDAQ
@@ -4099,6 +4100,7 @@ CCIXF,Canadian Imperial Bank Comm Toronto Ont Preference Shares Series 45 Class 
 CCJ,Cameco Corporation,NYSE
 CCJMF,"Melior Resources, Inc Ordinary Shares",U
 CCK,Crown Holdings Inc.,NYSE
+CCKWF,CCK CONS HOLDINGS BERHAD WARRANTS EXP 6/18/2023 (Malaysia),U
 CCL,Carnival Corporation,NYSE
 CCLAF,Coca Cola Amatil Ltd Ord .50 P Ordinary Shares,U
 CCLAY,Coca Cola Amatil Limited Sponsored ADR,U
@@ -4778,9 +4780,6 @@ CKX,"CKX Lands, Inc.",AMEX
 CKYS,"CyberKey Solutions, Inc. Common Stock",U
 CKZAF,Chuokeizai-Sha Inc Tokyo Ordinary Shares (Japan),U
 CL,Colgate-Palmolive Company,NYSE
-CLA,Colonnade Acquisition Corp.,NYSE
-CLA U,"Colonnade Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one",NYSE
-CLA WS,"Colonnade Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share",NYSE
 CLAA U,"Colonnade Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of",NYSE
 CLABF,Core One Labs Inc Common Shares,U
 CLAD,"China Liaoning Dingxu Ecological Agriculture Development, Inc. Common Stock",U
@@ -5378,3 +5377,8 @@ CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
+CPE,Callon Petroleum Company,NYSE
+CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
+CPER,United States Copper Index Fund,ARCA
+CPEU,"Chapeau, Inc. Common Stock",U
+CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U

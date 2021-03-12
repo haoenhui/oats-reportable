@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPE,Callon Petroleum Company,NYSE
-CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
-CPER,United States Copper Index Fund,ARCA
-CPEU,"Chapeau, Inc. Common Stock",U
-CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
@@ -475,6 +470,7 @@ CTTAF,Contl Ag Ord Ordinary Shares,U
 CTTAY,Contl Ag Ord American Depositary Shares,U
 CTTC,Calmare Therapeutics Inc. Common Stock,U
 CTTH,CTT PHARMACEUTICAL HLDGS INC Common Stock,U
+CTTLF,CETTIRE LTD ORDINARY FULLY PAID (Australia),U
 CTTMF,Catena Media PLC Ordinary Shares (Malta),U
 CTTOF,CTT Correios Portugal SA Ordinary Shares (Portugal),U
 CTTPY,CTT-Correios de Portugal S.A. American Depositary Receipts - Unsponsored,U
@@ -873,7 +869,6 @@ DCHRF,DISCOVERY HARBOUR RES CORP Common Shares Canada(CA ),U
 DCI,"Donaldson Company, Inc.",NYSE
 DCLT,"Data Call Technologies, Inc. Common Stock",U
 DCMJF,DCM Japan Holdings Co Ltd Ordinary Shares (Japan),U
-DCMYY,"NTT DOCOMO, Inc. American Depositary Receipts - Sponsored (Japan)",U
 DCNNF,CANADIAN PALLADIUM RES INC Ordinary Shares,U
 DCNSF,"Dai-Ichi Life Insurance Co., Ltd Ordinary Shares (Japan)",U
 DCO,Ducommun Incorporated,NYSE
@@ -1478,6 +1473,7 @@ DSKYF,Daiichi Sankyo Co Ltd Ordinary Shares (Japan),U
 DSL,DOUBLELINE INCOME SOLUTIONS FUND,NYSE
 DSLVF,Credit Suisse AG Nassau Brh VelocityShares 3x Inverse Silver ETN,U
 DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc.",NYSE
+DSMTF,Deep-South Res Inc Ordinary Shares,U
 DSNKY,Daiichi Sankyo Co Limited Sponsored ADR (Japan),U
 DSNY,"Destiny Media Technologies, Inc. Common Stock",U
 DSOC,Innovator Double Stacker ETF - October,BATS
@@ -3014,7 +3010,7 @@ FBPRO,First BanCorp. Preferred Stock,U
 FBPRP,First BanCorp. Preferred Stock,U
 FBRKF,FBR Ltd Ordinary Shares,U
 FBRX,"Forte Biosciences, Inc. Common Stock",NASDAQ
-FBSBF,4basebio AG Ordinary Shares (Germany),U
+FBSBF,4BASEBIO AG Ordinary Shares,U
 FBSE,Fastbase Inc. Common Stock,U
 FBSFF,Fabasoft Ag Puchenau Ordinary Shares (Austria),U
 FBSGF,FABLED SILVER GOLD CORP Common Shares,U
@@ -4015,6 +4011,7 @@ FTNT,"Fortinet, Inc. Common Stock",NASDAQ
 FTOC,FTAC Olympus Acquisition Corp. Class A Ordinary Shares,NASDAQ
 FTOCU,FTAC Olympus Acquisition Corp. Unit,NASDAQ
 FTOCW,FTAC Olympus Acquisition Corp. Warrant,NASDAQ
+FTPAU,FTAC Parnassus Acquisition Corp. Unit,NASDAQ
 FTPM,"420 Property Management, Inc. Common Stock",U
 FTRCQ,FRONTIER COMMUNICATIONS CORP Common Stock,U
 FTRHF,Future Bright Holdings Ltd. Ordinary Shares (Bermuda),U
@@ -4111,7 +4108,6 @@ FVCB,"FVCBankcorp, Inc. Common Stock",NASDAQ
 FVD,First Trust Value Line Dividend Fund,ARCA
 FVE,Five Star Senior Living Inc. Common Stock,NASDAQ
 FVGCF,Fire River Gold Corp. Common Shares,U
-FVIV U,"Fortress Value Acquisition Corp. IV Units, each consisting of one share of Class A common stock and",NYSE
 FVPI,FV Pharma International Corp. Common Stock,U
 FVRG,ForeverGreen Worldwide Corp. Common Stock,U
 FVRR,Fiverr International Ltd.,NYSE
@@ -4320,7 +4316,7 @@ GCEI,"Global Clean Energy, Inc Common Stock",U
 GCFB,Granite City Food & Brewery Ltd,U
 GCFFF,Goldcliff Resource Corp Ordinary Shares,U
 GCGMF,Great Canadian Gaming Corp Ordinary Shares,U
-GCGX,"Global Consortium, Inc. Common Stock",U
+GCGXD,"Global Consortium, Inc. Common Stock",U
 GCHEF,Grupo Comercial Chedrui SAB CV Ordinary Shares Series -B- (Mexico),U
 GCHHF,Gooch & Housego PLC Ordinary Shares (United Kingdom),U
 GCHK,Greenchek Technology Inc,U
@@ -4686,6 +4682,7 @@ GLG,"TD Holdings, Inc. Common Stock",NASDAQ
 GLGDF,"GoGold Resources, Inc. Ordinary Shares (Canada)",U
 GLGI,"Greystone Logistics, Inc. Common Stock",U
 GLGLF,GLG Life Tech Corp. Ordinary Shares (Canada),U
+GLHAU,Glass Houses Acquisition Corp. Unit,NASDAQ
 GLHD,PSH GROUP HLDG INC Common Stock,U
 GLHRF,Golden Harp Res Inc. Ordinary Shares (Canada),U
 GLIF,AGFiQ Global Infrastructure ETF,ARCA
@@ -4737,6 +4734,7 @@ GLRP,Glen Rose Petroleum Corporation,U
 GLRY,Inspire Faithward Mid Cap Momentum ESG ETF,ARCA
 GLSEF,GLORIOUS SUN ENTERPRISES LTD Ordinary Shares,U
 GLSI,"Greenwich LifeSciences, Inc. Common Stock",NASDAQ
+GLSPU,Global SPAC Partners Co. Unit,NASDAQ
 GLSSP,GOLDMAN SACHS GROUP INC Pfd Ser M,U
 GLT,Glatfelter Corporation,NYSE
 GLTC,"GelTech Solutions, Inc. Common Stock",U
@@ -5293,6 +5291,8 @@ GTN A,"Gray Television, Inc. Class A",NYSE
 GTNLF,"GTN LTD, ORDINARY FULLY PAID (Australia)",U
 GTNM,Golden Time Network Marketing Limited Common Stock,U
 GTO,Invesco Total Return Bond ETF,ARCA
+GTPAU,"Gores Technology Partners, Inc. Units",NASDAQ
+GTPBU,"Gores Technology Partners II, Inc. Units",NASDAQ
 GTPS,"Great American Bancorp, Inc. (DE) Common Stock",U
 GTRL,"Get Real USA, Inc Common Stock",U
 GTS,Triple-S Management Corporation,NYSE
@@ -5377,3 +5377,7 @@ GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
+GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
+GWON,Grandwon Corp. Common Stock,U
