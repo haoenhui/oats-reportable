@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U
 MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U
 MTLHF,Mitsubishi Chemical Holdings Corp Ordinary Shares (Japan),U
 MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
@@ -217,7 +218,9 @@ MZTFF,Mizrahi Tefahot Bank Ltd Ordinary Shares (Israel),U
 MZTLF,John Menzies Plc Ordinary Shares (United Kingdom),U
 MZZ,ProShares UltraShort MidCap400,ARCA
 MZZMF,Matador Mining Ltd. Ordinary Shares (Australia),U
+NAAC,North Atlantic Acquisition Corporation Class A Ordinary Share,NASDAQ
 NAACU,North Atlantic Acquisition Corporation Unit,NASDAQ
+NAACW,North Atlantic Acquisition Corporation Warrant,NASDAQ
 NABA,National Bancshares Inc (IA) Common Shares,U
 NABXF,Nabaltec AG Ordinary Shares (Germany),U
 NABZY,National Australia Bank Limited Common Stock,U
@@ -1438,7 +1441,9 @@ OEC,ORION ENGINEERED CARBONS S.A.,NYSE
 OEDVQ,"Osage Exploration and Development, Inc. Common Stock (DE)",U
 OEF,iShares S&P 100 ETF,ARCA
 OEG,"Orbital Energy Group, Inc. Common Stock",NASDAQ
+OEPW,One Equity Partners Open Water I Corp. Class A Common Stock,NASDAQ
 OEPWU,One Equity Partners Open Water I Corp. Unit,NASDAQ
+OEPWW,One Equity Partners Open Water I Corp. Warrant,NASDAQ
 OERCF,Oesterreichische Post Ag Wien Ordinary Shares (Austria),U
 OERLF,Oc Oerlikon Corporation Inc Namen-Akt Shares (Switzerland),U
 OERLY,Oc Oerlikon Corporation Inc Unsponsored ADR (Switzerland),U
@@ -3358,7 +3363,9 @@ PUTRY,PTT Public Company Ltd Unsponsored ADR (Thailand),U
 PUTW,WisdomTree CBOE S&P 500 PutWrite Strategy Fund,ARCA
 PUXPF,Puma Exploration Inc Common Shares,U
 PUYI,Puyi Inc. American Depository Shares,NASDAQ
+PV,Primavera Capital Acquisition Corporation,NYSE
 PV U,"Primavera Capital Acquisition Corporation Units, each consisting of one Class A ordinary share and o",NYSE
+PV WS,"Primavera Capital Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for on",NYSE
 PVAC,Penn Virginia Corporation Common Stock,NASDAQ
 PVARF,Porvair Plc Ord Common Stock,U
 PVBC,"Provident Bancorp, Inc. (MD) Common Stock",NASDAQ
@@ -3848,7 +3855,7 @@ RDEGF,Radiant Energy Corporation Ordinary Shares (Canada),U
 RDEIF,Red Electrica Corporacion SA Ordinary Shares,U
 RDEIY,Red Electrica Corporacion SA Unsponsored ADR (Spain),U
 RDEMF,Red Eagle Mining Corp. Ordinary Shares (Canada),U
-RDEXF,RED PINE EXPL INC  Ordinary Shares (Canada),U
+RDEXD,RED PINE EXPL INC  Ordinary Shares,U
 RDFD,Redfiield Energy LLC Cap Unit,U
 RDFEF,Brookside Energy Ltd. Ordinary Shares,U
 RDFI,Rareview Dynamic Fixed Income ETF,BATS
@@ -5319,7 +5326,9 @@ SGXXF,Sound Global Limited Ordinary Shares (Singapore),U
 SGYI,"Strategy International Insurance Group, Inc. Common Stock",U
 SH,ProShares Short S&P500,ARCA
 SHABF,Shaftesbury Plc Ordinary Shares (United Kingdom),U
+SHAC,SCP & CO Healthcare Acquisition Company Class A Common Stock,NASDAQ
 SHACU,SCP & CO Healthcare Acquisition Company Unit,NASDAQ
+SHACW,SCP & CO Healthcare Acquisition Company Warrant,NASDAQ
 SHAG,WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund,BATS
 SHAK,Shake Shack Inc.,NYSE
 SHALF,Shangri-La Asia Ltd Ord Ordinary Shares,U
@@ -5374,10 +5383,3 @@ SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
 SHLDQ,Sears Holdings Corporation Common Stock,U
 SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
 SHLOQ,"Shiloh Industries, Inc. Common Stock",U
-SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
-SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
-SHLX,"Shell Midstream Partners, L.P.",NYSE
-SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
-SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
-SHMCF,Renewi PLC Ordinary Shares,U
-SHMDF,Shimano Inds Ordinary Shares,U

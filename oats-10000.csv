@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
+GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
+GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
 GWPD,"GP Solutions, Inc. Common Stock",U
@@ -89,7 +92,6 @@ HALL,"Hallmark Financial Services, Inc. Common Stock",NASDAQ
 HALMY,Halma PLC American Depositary Shares - Unsponsored (United Kingdom),U
 HALN,"Halo Companies, Inc. Common Stock",U
 HALO,"Halozyme Therapeutics, Inc. Common Stock",NASDAQ
-HALXF,Hextar Global BHD Ordinary Shares (Malaysia),U
 HAMBF,Horizons Active CDN Municipal Bond ETF Unit Advisor CL (Canada),U
 HANBF,Hamborner REIT AG Ordinary Shares (Germany),U
 HANNF,"Hannan Metals, Ltd.  Common Shares",U
@@ -1858,9 +1860,6 @@ IPSOF,Ipsos Ordinary Shares,U
 IPTK,"AS-IP Tech, Inc. Common Stock",U
 IPTV,IPTV Corporation Common Stock,U
 IPUB,"indiePub Entertainment, Inc. Common Stock",U
-IPV,InterPrivate Acquisition Corp. Common Stock,NYSE
-IPV U,"InterPrivate Acquisition Corp. Units, each consisting of one share of common stock, $.0001 par value",NYSE
-IPV WS,"InterPrivate Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of com",NYSE
 IPVA U,"InterPrivate II Acquisition Corp. Units, each consisting of one share of Class A common stock and on",NYSE
 IPVF U,"InterPrivate III Financial Partners Inc. Units, each consisting of one share of Class A common stock",NYSE
 IPVIU,InterPrivate IV InfraTech Partners Inc. Units,NASDAQ
@@ -2394,7 +2393,9 @@ JCDXF,JC Decaux SA ACT,U
 JCDXY,JC Decaux SA Unsponsored ADR (France),U
 JCE,Nuveen Core Equity Alpha Fund,NYSE
 JCI,Johnson Controls International plc,NYSE
+JCIC,Jack Creek Investment Corp. Class A Ordinary Shares,NASDAQ
 JCICU,Jack Creek Investment Corp. Units,NASDAQ
+JCICW,Jack Creek Investment Corp. Warrants,NASDAQ
 JCO,Nuveen Credit Opportunities 2022 Target Term Fund,NYSE
 JCOM,"j2 Global, Inc. Common Stock",NASDAQ
 JCPB,JPMorgan Core Plus Bond ETF,BATS
@@ -2446,6 +2447,7 @@ JFAIF,JPMorgan American Investment Trust PLC Ordinary Shares (UK),U
 JFBC,Jeffersonville Bancorp Common Stock,U
 JFBHF,Jungfraubahn Holding Ag Interlaken Namen-Akt. Shares (Switzerland),U
 JFEEF,JFE Holdings Inc Ordinary Shares,U
+JFEYF,JFE SYS INC SHS (Japan),U
 JFHHF,Jupiter Fund Management Ltd. Ordinary Shares (United Kingdom),U
 JFIL,Jubilant Flame International LTD. Common Stock,U
 JFIN,Jiayin Group Inc. American Depositary Shares,NASDAQ
@@ -2900,7 +2902,6 @@ KEYUF,Keyera Corp (Canada),U
 KF,"KOREA FUND, INC",NYSE
 KFFB,Kentucky First Federal Bancorp Common Stock,NASDAQ
 KFFLF,Kefi Gold and Copper Plc Ordinary Shares,U
-KFLWF,Kingfish Ltd Warrant Exp 03/12/2021 (New Zealand),U
 KFMNF,Kaufman et Broad SA Paris Shs (France),U
 KFRC,"Kforce, Inc. Common Stock",NASDAQ
 KFS,"Kingsway Financial Services, Inc.",NYSE
@@ -3758,7 +3759,9 @@ LLNXF,Link Linux Inc Ordinary Shares (Canada),U
 LLOBF,Lloyds Banking Group Plc Pref Shs Non Cum 9.25% (United Kingdom),U
 LLXXF,Multi Units Luxembourg Sicav Shs Mullyfaugo 5Y ETF D GBP (Luxembourg),U
 LLY,Eli Lilly & Co.,NYSE
+LMACA,Liberty Media Acquisition Corporation Series A Common Stock,NASDAQ
 LMACU,Liberty Media Acquisition Corporation Unit,NASDAQ
+LMACW,Liberty Media Acquisition Corporation Warrants,NASDAQ
 LMAOU,LMF Acquisition Opportunities Inc. Unit,NASDAQ
 LMAT,"LeMaitre Vascular, Inc. Common Stock",NASDAQ
 LMB,"Limbach Holdings, Inc. Common Stock",NASDAQ
@@ -4309,6 +4312,8 @@ MBXBF,Microbix Biosystems Inc Ordinary Shares,U
 MBYMF,Mountain Boy Minerals Ltd Ordinary Shares,U
 MC,MOELIS & COMPANY,NYSE
 MCA,"BLACKROCK MUNIYIELD CALIFORNIA QUALITY FUND, INC",NYSE
+MCAD,Mountain Crest Acquisition Corp. II Common Stock,NASDAQ
+MCADR,Mountain Crest Acquisition Corp. II Right,NASDAQ
 MCADU,Mountain Crest Acquisition Corp. II Unit,NASDAQ
 MCAP,"Mango Capital, Inc. Common Stock",U
 MCARY,Mercari Inc. American Depositary Receipts - Unsponsored   (Japan),U
@@ -5064,7 +5069,6 @@ MOHO,ECMOHO Limited American Depositary Shares,NASDAQ
 MOIFF,MOBEUS INCOME & GROWTH 4 VCT PLC Ordinary Shares  United Kingdom(GB ),U
 MOJGF,MOJAVE GOLD CORP Common Shares,U
 MOJO,"Mojo Organics, Inc.  Common Stock",U
-MOM,AGFiQ U.S. Market Neutral Momentum Fund,ARCA
 MOMO,Momo Inc. American Depositary Shares,NASDAQ
 MOMT,"MoneyOnMobile, Inc Common Stock",U
 MON,Monument Circle Acquisition Corp. Class A Common Stock,NASDAQ
@@ -5380,4 +5384,3 @@ MTHRY,"M3, INC.  American Depositary Receipts - Unsponsored  Japan(JP )",U
 MTIRF,MITHRIL RESOURCES LTD SHS (Australia),U
 MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE
 MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
-MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U

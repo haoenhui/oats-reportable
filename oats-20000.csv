@@ -1,4 +1,11 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
+SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
+SHLX,"Shell Midstream Partners, L.P.",NYSE
+SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
+SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
+SHMCF,Renewi PLC Ordinary Shares,U
+SHMDF,Shimano Inds Ordinary Shares,U
 SHMMF,SAHAMIT MACHINERY PCL PUB CO LTD UNITS NON -VOTING DEPOSITORY RECEIPTS (Thailand),U
 SHMN,"SOHM, Inc. Common Stock",U
 SHMP,NaturalShrimp Incorporated Common Stock,U
@@ -748,7 +755,6 @@ SOUB,"Southpoint Bancshares, Inc. Common Stock",U
 SOUG,"Sou 300 Group Hldg., Co. Common Stock",U
 SOUHY,South32 Ltd American Depositary Receipts - Sponsored (Australia),U
 SOUPQ,Soupman Inc. Common Stock,U
-SOVB,Cambria Sovereign Bond ETF,BATS
 SOVTF,Sonaecom SGPS SA Reg Shares (Portugal),U
 SOWG,SOW GOOD INC Common Stock,U
 SOXL,Direxion Daily Semiconductor Bull 3X Shares,ARCA
@@ -866,7 +872,6 @@ SPONF,Sponsorone Inc Common Shares (Canada),U
 SPOT,Spotify Technology S.A.,NYSE
 SPOWF,Strata Pwr Corp Common Shares,U
 SPOZF,Sportech PLC Ordinary Shares  (United Kingdom),U
-SPPDQ,Speedcast Intl Ltd Ordinary Shares (Australia),U
 SPPEF,SPICE PRIVATE EQUITY LTD NAMEN AKT Ordinary Shares,U
 SPPGF,Stock Spirits Group PLC Ordinary Shares (United Kingdom),U
 SPPH,Spencer Pharmaceutical Inc.  Common Stock,U
@@ -1420,7 +1425,7 @@ SUPV,Grupo Supervielle S.A.,NYSE
 SURDF,Sumitomo Realty & Development Co Ltd Ordinary Shares (Japan),U
 SURF,"Surface Oncology, Inc. Common Stock",NASDAQ
 SURG,SURGEPAYS INC Common Stock,U
-SURJF,Surge Exploration Inc Ordinary Shares,U
+SURJF,SURGE BATTERY METALS INC Ordinary Shares,U
 SURRF,Sun Art Retail GP Ltd. Ordinary Shares (Hong Kong),U
 SURRY,Sun Art Retail GP Ltd. Unsponsored ADR (Honk Kong),U
 SURVF,Suntec Real Estate Investment Trust Units (Singapore),U
@@ -2755,9 +2760,10 @@ TRWLY,TRAWELL CO S P A American Depositary Receipts - Sponsored  Italy(IT ),U
 TRWRF,LIQUID AVATAR TECHNOLOGIES INC Ordinary Shares,U
 TRX,Tanzanian Gold Corporation,AMEX
 TRXA,Trex Acquisition Corp. Common Stock,U
-TRXDW,TRANSENTERIX INC SER D WT EXP 03/10/2025,U
+TRXDW,ASENSUS SURGICAL INC Warrant,U
 TRXO,"Columbine Valley Resources, Inc. Common Stock",U
 TRXPF,Torii Pharmaceutical Co Ordinary Shares,U
+TRYGF,TRYG A S T RET (Denmark),U
 TRYIF,Toray Inds Inc Ord Ordinary Shares,U
 TRYIY,Toray Industries Inc ADR,U
 TRYPF,Tryp Therapeutics Inc Common Stock (Canada),U
@@ -3005,8 +3011,6 @@ TWO,Two Harbors Investment Corp.,NYSE
 TWO PRA,Two Harbors Investment Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred S,NYSE
 TWO PRB,Two Harbors Investment Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred S,NYSE
 TWO PRC,Two Harbors Investment Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred St,NYSE
-TWO PRD,Two Harbors Investment Corp. 7.75% Series D Cumulative Redeemable Preferred Stock,NYSE
-TWO PRE,Two Harbors Investment Corp. 7.50% Series E Cumulative Redeemable Preferred Stock,NYSE
 TWODF,Taylor Wimpey Plc Ordinary Shares,U
 TWODY,Taylor Wimpey Plc Unsponsored ADR (UK),U
 TWOH,Two Hands Corporation Common Stock,U
@@ -3457,7 +3461,6 @@ USFR,WisdomTree Floating Rate Treasury Fund,ARCA
 USGA,"US Global Nanospace, Inc. Common Stock",U
 USGDF,American Pacific Mining Corp. Ordinary Shares,U
 USHAF,Usha Resources Ltd. Common Stock (Canada),U
-USHG,AGFiQ Dynamic Hedged U.S. Equity ETF,ARCA
 USHY,iShares Broad USD High Yield Corporate Bond ETF,BATS
 USI,Principal Ultra-Short Active Income ETF,ARCA
 USIG,iShares Broad USD Investment Grade Corporate Bond ETF,NASDAQ
@@ -4005,7 +4008,9 @@ VOPKF,Koninklijke Vopak NV Rotterdam (Netherlands) EUR Ordinary Shares,U
 VOPKY,Koninklijke Vopak NV Rotterdam Unsponsored ADR (Netherlands),U
 VOQP,"VioQuest Pharmaceuticals, Inc. Common Stock",U
 VOR,Vor Biopharma Inc. Common Stock,NASDAQ
+VOSO,Virtuoso Acquisition Corp. Class A Common Stock,NASDAQ
 VOSOU,Virtuoso Acquisition Corp. Unit,NASDAQ
+VOSOW,Virtuoso Acquisition Corp. Warrant,NASDAQ
 VOSSF,Vossloh Ordinary Shares,U
 VOSSY,Vossloh AG Unsponsored ADR (Germany),U
 VOT,Vanguard Mid-Cap Growth ETF,ARCA
@@ -4405,10 +4410,8 @@ WFC PRC,"Wells Fargo & Company Depositary Shares, each representing a 1/1, 000th
 WFC PRL,WELLS FARGO 7.5% NON CUMV PERP CONV,NYSE
 WFC PRN,"WELLS FARGO & COMPANY Depositary Shares, representing a 1/1,000th interest in a share of Non-Cumulat",NYSE
 WFC PRO,"WELLS FARGO & COMPANY Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cu",NYSE
-WFC PRP,WELLS FARGO & COMPANY SER P,NYSE
 WFC PRQ,Wells Fargo & Co.,NYSE
 WFC PRR,"WELLS FARGO & COMPANY Depositary Shares, each representing a 1/1,000th interest in a share of 6.625%",NYSE
-WFC PRW,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cu",NYSE
 WFC PRX,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cu",NYSE
 WFC PRY,Wells Fargo & Company,NYSE
 WFC PRZ,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cu",NYSE
@@ -4887,7 +4890,6 @@ XHFNF,Xinhua Finance Limited Ordinary Shares (Cayman Islands),U
 XHR,"Xenia Hotels & Resorts, Inc.",NYSE
 XHS,SPDR S&P Health Care Services ETF,ARCA
 XIACF,Xiaomi Corp Common Shares,U
-XIACY,Xiaomi Corporation American Depositary Receipts - Unsponsored,U
 XIAXF,XIABUXIABU CATER MGMT CHINA HLDGS CO LTD HKD Ordinary Shares,U
 XIN,Xinyuan Real Estate Co. LTD,NYSE
 XINXF,New Wk SE Ordinary Shares (Germany Federal Republic),U

@@ -477,13 +477,15 @@ AERN,"AER Energy Resources, Inc. Common Stock",U
 AERS,Aerius Common Stock,U
 AERZY,PJSC Aeroflot Russian Airlines American Depositary Receipts - Sponsored,U
 AES,AES Corporation,NYSE
+AESC,The AES Corporation,NYSE
 AESE,"Allied Esports Entertainment, Inc. Common Stock",NASDAQ
 AESEW,"Allied Esports Entertainment, Inc. Warrant Exp 08/09/2024",U
 AESO,Atlantic Energy Solutions Inc Common Stock,U
 AESR,Anfield U.S. Equity Sector Rotation ETF,BATS
-AESUU,AES CORP UNIT,U
 AETLF,Aeris Environmental Ltd Ordinary Shares,U
 AETUF,Arc Resources Ltd. Ordinary Shares (Canada),U
+AEVA,"Aeva Technologies, Inc.",NYSE
+AEVA WS,"Aeva Technologies, Inc. Redeemable Warrants, each whole warrant exercisable for shares of common sto",NYSE
 AEVEF,Arena Events Group PLC Ordinary Shares (United Kingdom),U
 AEVIF,Aevis Victoria SA ACT NOM (Switzerland),U
 AEWRF,AEW UK REIT PLC REIT ORD GBP0.01 (United Kingdom),U
@@ -817,7 +819,6 @@ AIXN,"AiXin Life International, Inc. Common Stock",U
 AIXXF,AIXTRON SE  Namen - AKT,U
 AIZ,"Assurant, Inc.",NYSE
 AIZN,"Assurant, Inc. 5.25% Subordinated Notes due 2061",NYSE
-AIZP,"Assurant, Inc. 6.50% Series D Mandatory Convertible Preferred Stock, $1.00 par value",NYSE
 AJAX,Ajax I,NYSE
 AJAX U,"Ajax I Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant",NYSE
 AJAX WS,"Ajax I Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exer",NYSE
@@ -1664,7 +1665,9 @@ ASAQ U,"Atlantic Avenue Acquisition Corp. Units, each consisting of one share of
 ASAQ WS,"Atlantic Avenue Acquisition Corp Warrants, each whole warrant exercisable for one share of Class A c",NYSE
 ASASF,Asia Standard Intl Grp Ltd Ord Ordinary Shares,U
 ASAV,Asi Aviation Inc Common Stock,U
+ASAX,Astrea Acquisition Corp. Class A Common Stock,NASDAQ
 ASAXU,Astrea Acquisition Corp. Unit,NASDAQ
+ASAXW,Astrea Acquisition Corp. Warrant,NASDAQ
 ASAZF,Assa Abloy AB Ordinary Shares (Sweden),U
 ASAZY,Assa Abloy AB Unsponsored ADR (Sweden),U
 ASB,Associated Banc-Corp,NYSE
@@ -1858,6 +1861,7 @@ ATHI,"American Transportation Holdings, Inc.  Common Stock",U
 ATHJF,Antisense Therapeutics Ltd Ordinary Shares,U
 ATHJY,Antisense Therapeutics Ltd Sponsored ADR (Australia),U
 ATHM,"Autohome Inc. American Depositary Shares, each representing four Class A Ordinary Shares",NYSE
+ATHN U,"Athena Technology Acquisition Corp. Units, each consisting of one share of Class A Common Stock and",NYSE
 ATHOF,Athabasca Oil Corporation Ordinary Shares (Canada),U
 ATHX,"Athersys, Inc. Common Stock",NASDAQ
 ATI,Allegheny Technologies,NYSE
@@ -2067,7 +2071,7 @@ AVIVF,Advanced Info Service Public Co Ltd Units Non Vtg Dep Rcpt,U
 AVIX,AVIX TECHNOLOGIES INC Common Stock,U
 AVIZF,Advanced Info Svc Pub Co Ltd SHS (Thailand),U
 AVK,Advent Convertible and Income Fund,NYSE
-AVLNF,"Avalon Advanced Materials, Inc. Ordinary Shares",U
+AVLND,"Avalon Advanced Materials, Inc. Ordinary Shares",U
 AVLP,Avalanche International Corp Common Stock,U
 AVLR,"Avalara, Inc.",NYSE
 AVLS,Advanced Lighting Solution Common Stock,U
@@ -2306,7 +2310,6 @@ BAMI,Brookfield Finance I (UK) plc 4.50% Perpetual Subordinated Notes,NYSE
 BAMKF,Brookfield Asset Management Inc Pref Shs Ser 26 (Canada),U
 BAMXF,Bayerische Motoren Werke AG Ordinary Shares (Germany),U
 BANC,"Banc of California, Inc.",NYSE
-BANC PRD,"Banc of California, Inc.  Depositary Shares each representing a 1/40th interest in a share of 7.375%",NYSE
 BANC PRE,"Banc of California, Inc Depositary Shares Each Representing a 1/40th Interest in a Share of 7.000% N",NYSE
 BAND,Bandwidth Inc. Class A Common Stock,NASDAQ
 BANF,BancFirst Corporation Common Stock,NASDAQ
@@ -4369,7 +4372,7 @@ CFIVU,CF Acquisition Corp. IV Unit,NASDAQ
 CFIVW,CF Acquisition Corp. IV Warrant,NASDAQ
 CFLSF,"Cash Financial Services Group, Ltd. Ordinary Shares (Bermdua)",U
 CFMS,"Conformis, Inc. Common Stock",NASDAQ
-CFNB,CALIFORNIA FIRST NATL BANCORP Common Stock,U
+CFNB,California First Leasing Corporation Common Stock,U
 CFNCF,"Cie Financiere Tradition Lausanne Act, Shares (Switzerland)",U
 CFO,VictoryShares US 500 Enhanced Volatility Wtd ETF,NASDAQ
 CFOK,Community First Bancorp. Common Stock,U
@@ -5303,7 +5306,6 @@ COM,Direxion Auspice Broad Commodity Strategy ETF,ARCA
 COMB,GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF,ARCA
 COMHF,COMMERCE ONE HLDGS INC Common Stock,U
 COMM,"CommScope Holding Company, Inc. Common Stock",NASDAQ
-COMRF,Comet Ridge Ltd Ordinary Shares (Australia),U
 COMS,ComSovereign Holding Corp. Common Stock,NASDAQ
 COMSW,ComSovereign Holding Corp. Warrants,NASDAQ
 COMT,iShares U.S. ETF Trust iShares GSCI Commodity Dynamic Roll Strategy ETF,NASDAQ

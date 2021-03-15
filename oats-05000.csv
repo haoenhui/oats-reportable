@@ -266,6 +266,7 @@ CRZNF,Corazon Mining Ltd Ordinary Shares (Australia),U
 CRZY,Crazy Woman Creek Bancorp Incorporated Common Stock,U
 CS,Credit Suisse Group,NYSE
 CSA,VictoryShares US Small Cap Volatility Wtd ETF,NASDAQ
+CSAIF,COSAN S A INDUSTRIA E COMERCIO Ordinary Shares,U
 CSAN,Cosan S.A. American Depositary Shares (each representing one Common Share),NYSE
 CSASF,Credit Saison Co Ltd Ordinary Shares (Japan),U
 CSASY,Credit Saison Co Ltd Unsponsored ADR (Japan),U
@@ -2218,6 +2219,7 @@ EMSCY,Ems-Chemie Holding AG American Depositary Receipts - Unsponsored (Switzerl
 EMSG,Xtrackers MSCI Emerging Markets ESG Leaders Equity ETF,ARCA
 EMSH,ProShares Short Term USD Emerging Markets Bond ETF,BATS
 EMSHF,Ems Chemie Holding AG Domat EMS Ordinary Shares (Switzerland),U
+EMSKF,MUSK METALS CORP Common Shares,U
 EMSNF,EMMERSON PLC ORD NPV (Isle of Man),U
 EMSQF,Ishares IV PLC Edge MSCI USA Multifactor UCITS ETF (Ireland),U
 EMSWF,Ishares IV Plc Edge MSCI World Multifactor UCTIS Exchange Traded Fund (Ireland),U
@@ -2929,6 +2931,7 @@ FAHE,Fahey Bkg Co Marion Ohio Common Stock,U
 FAII,Fortress Value Acquisition Corp. II,NYSE
 FAII U,"Fortress Value Acquisition Corp. II Units, each consisting of one share of Class A common stock and",NYSE
 FAII WS,"Fortress Value Acquisition Corp. II Warrants, each whole warrant exercisable for one share of Class",NYSE
+FAIL,Cambria Global Tail Risk ETF,BATS
 FAITF,Faith Inc Kyoto Ordinary Shares (Japan),U
 FAKC,FaceKey Corp. Common Stock,U
 FALC,FALCONSTOR SOFTWARE INC Common Stock,U
@@ -4765,7 +4768,9 @@ GMALY,Genting Malaysia Berhad Sponsored ADR,U
 GMBKF,Gunma Bank Ltd Ordinary Shares (Japan),U
 GMBL,Esports Entertainment Group Inc. Common Stock,NASDAQ
 GMBLW,Esports Entertainment Group Inc. Warrant,NASDAQ
+GMBT,Queen's Gambit Growth Capital Class A Ordinary Share,NASDAQ
 GMBTU,Queen's Gambit Growth Capital Unit,NASDAQ
+GMBTW,Queen's Gambit Growth Capital Warrant,NASDAQ
 GMBXF,Grupo Mexico SA De CV Ordinary Shares,U
 GMDA,Gamida Cell Ltd. Ordinary Shares,NASDAQ
 GMDMF,Gem Diamonds Ltd. Ordinary Shares (British Virgin Islands),U
@@ -4787,7 +4792,9 @@ GMGT,GAMING TECHNOLOGIES INC Common Stock,U
 GMHLF,Gam Holding Ag Ordinary Shares Namen AKT (Switzerland),U
 GMHLY,"Gam Holding Ag, Zuerich Unsponsored ADR (Switzerland)",U
 GMICF,SAGEN MI CDA INC Common Shares,U
+GMII,"Gores Metropoulos II, Inc. Class A Common Stock",NASDAQ
 GMIIU,"Gores Metropoulos II, Inc. Unit",NASDAQ
+GMIIW,"Gores Metropoulos II, Inc. Warrants",NASDAQ
 GMJOF,"Gamecard-Joyco Holdings Inc, Tokyo Ordinary Shares  (Japan)",U
 GMKKY,Gruma SAB DE C V American Depositary Receipts - Unsponsored (Mexico),U
 GMLP,Golar LNG Partners LP Common Units Representing Limited Partnership,NASDAQ
@@ -5001,7 +5008,6 @@ GPLPF,Group Lease Public Co Ltd Shs Foreign Registered (Thailand),U
 GPLS,Geopulse Exploration Inc. Common Stock,U
 GPM,Guggenheim Enhanced Equity Income Fund,NYSE
 GPMMF,GOLDEN PROSPECT PRECIOUS METALS LTD SHS (Guernsey),U
-GPMNF,MUSK METALS CORP Common Shares,U
 GPMT,Granite Point Mortgage Trust Inc. Common Stock,NYSE
 GPMTF,GPM Metals Inc. Ordinary Shares,U
 GPN,"Global Payments, Inc.",NYSE
@@ -5157,7 +5163,7 @@ GRWWF,Great Wall Pan Asia Hldgs Ltd Ordinary Shares (Bermuda),U
 GRWXF,Draper Esprit PLC Ordinary Shares (United Kingdom),U
 GRX,The Gabelli Healthcare & Wellness Trust,NYSE
 GRXMF,Marvel Gold Limited Ordinary Shares,U
-GRXXF,Graphite Energy Corp Common Shares,U
+GRXXF,AUSTRALIAN GOLDFIELDS LTD Common Shares,U
 GRYCF,GRAYCLIFF EXPL LTD Common Stock (Canada),U
 GRYEF,"AU MIN AFRICA PTY, LTD. (South Africa)Common Stock",U
 GRYG,"Green Energy Group, Inc. Common Stock",U
@@ -5378,6 +5384,3 @@ GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
-GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
-GWON,Grandwon Corp. Common Stock,U
