@@ -711,6 +711,7 @@ NMMCF,NMC Health PLC Ordinary Shares (United Kingdom),U
 NMMCU,North Mountain Merger Corp. Unit,NASDAQ
 NMMCW,North Mountain Merger Corp. Warrant,NASDAQ
 NMMRF,Nomura Real Estate master Fd Inc Ordinary Shares (Japan),U
+NMNSF,NUMINUS WELLNESS INC Warrant   12/29/2022,U
 NMNX,NationsMark Nexgen Common Stock,U
 NMNZF,Nortec Minerals Corporation Ordinary Shares,U
 NMOC,Nemo Motors Corp,U
@@ -1299,6 +1300,7 @@ NXTFF,Nextraction Energy Corp Ordinary Shares,U
 NXTG,First Trust Indxx NextG ETF,NASDAQ
 NXTH,"NXT Nutritionals Holdings, Inc. Common Stock",U
 NXTN,"Next10, Inc. Common Stock",U
+NXTOF,Nexstim OYJ Sub Rights (Finland),U
 NXTTF,Namaste Technologies Inc Ordinary Shares (Canada) Common Shares,U
 NXTUF,FIRST TR GLOBAL FDS PLC SHS CLASS -A- JPY ETF (Ireland),U
 NXTYQ,Nexity Financial Corporation Common Stock,U
@@ -1545,6 +1547,7 @@ OLMXF,Aleatica Sab De Cv Ordinary Shares,U
 OLN,Olin Corp.,NYSE
 OLNCF,Omni Lite Inds Cda Inc Ordinary Shares,U
 OLNK,OneLink Corporation Common Stock,U
+OLO,Olo Inc.,NYSE
 OLOXF,"DB Crude Oil Long Exchange Traded Notes due June 1, 2038 (Germany)",U
 OLP,"One Liberty Properties, Inc.",NYSE
 OLVI,"Oliveda International, Inc. Common Stock",U
@@ -2388,7 +2391,9 @@ PGQWF,1-PAGE LTD Ordinary Shares (Australia),U
 PGR,Progressive Corporation,NYSE
 PGRCF,PHOENIX GOLD RESOURCES  Common Shares,U
 PGRE,"PARAMOUNT GROUP, INC.",NYSE
+PGRW,Progress Acquisition Corp. Class A Common Stock,NASDAQ
 PGRWU,Progress Acquisition Corp. Units,NASDAQ
+PGRWW,Progress Acquisition Corp. Warrant,NASDAQ
 PGSC,"Progressive Green Solutions, Inc. NEW Common Stock",U
 PGSVY,PGS ASA American Depositary Receipts - Sponsored,U
 PGSWF,"PGS SOFTWARE SA, WROCLAW Shs (Poland)",U
@@ -2608,6 +2613,7 @@ PLLMF,Plata Latina Minerals Corp Com (Canada),U
 PLLVF,Palladon Ventures Ltd Ordinary Shares,U
 PLLWF,Polarean Imaging Ltd Ordinary Shares (United Kingdom),U
 PLM,PolyMet Mining Corp.,AMEX
+PLMIU,Plum Acquisition Corp. I Units,NASDAQ
 PLMNF,Palamina Corp Ordinary Shares (Canada),U
 PLMR,"Palomar Holdings, Inc. Common stock",NASDAQ
 PLNBF,Plan B Media Pub Co Ltd Foreign Registered Shares (Thailand),U
@@ -3152,7 +3158,7 @@ PSQ,ProShares Short QQQ,ARCA
 PSR,Invesco Active U.S. Real Estate Fund,ARCA
 PSRJF,PT SRI REJEKI ISMAN TBK Ordinary Shares,U
 PSRU,VALIANT EAGLE INC Common Stock,U
-PSRVD,Prospero Silver Corp Common Shares,U
+PSRVF,Prospero Silver Corp Common Shares,U
 PSSGF,P S G Group Ltd Ordinary Shares,U
 PSSKF,"Pressance Corp, Osaka Common Stock (Japan)",U
 PSSR,"PASSUR Aerospace, Inc. Common Stock",U
@@ -4158,6 +4164,7 @@ RJKAF,Rjk Explorations Ltd Cl A Vtg Ordinary Shares,U
 RJN,AB Svensk Ekportkredit ELEMENTS Linked to the Rogers International Commodity Index-Energy Total Retu,ARCA
 RJZ,AB Svensk Ekportkredit ELEMENTS Linked to the Rogers International Commodity Index-Metals Total Retu,ARCA
 RKAGY,Rhoen-Klinikum AG Unsponsored ADR (Germany),U
+RKCLF,Rockcliff Metals Corporation Common Shares,U
 RKDA,"Arcadia Biosciences, Inc. Common Stock",NASDAQ
 RKFL,"RocketFuel Blockchain, Inc. Common Stock",U
 RKGXF,Road King Infrastructure Ltd Ordinary Shares,U
@@ -4519,6 +4526,7 @@ RTP,Reinvent Technology Partners,NYSE
 RTP U,"Reinvent Technology Partners Units, each consisting of one Class A ordinary share and one-fourth of",NYSE
 RTP WS,"Reinvent Technology Partners Redeemable Warrants, each whole warrant exercisable for one Class A ord",NYSE
 RTPPF,Rio Tinto Plc Ordinary Shares,U
+RTPYU,Reinvent Technology Partners Y Unit,NASDAQ
 RTPZ,Reinvent Technology Partners Z,NYSE
 RTPZ U,"Reinvent Technology Partners Z Units, each consisting of one Class A ordinary share and one-fifth o",NYSE
 RTPZ WS,"Reinvent Technology Partners Z Redeemable warrants, each whole warrant exercisable for one Class A o",NYSE
@@ -4868,7 +4876,7 @@ SCCC,Sachem Capital Corp. 7.75% Notes due 2025,AMEX
 SCCCF,Sunac China Holdings Limited Ordinary Shares (Cayman Islands),U
 SCCFF,Strategic Resources Inc Common Shares,U
 SCCO,Southern Copper Corporation,NYSE
-SCCRD,ALSET CAP INC Ordinary Shares,U
+SCCRF,ALSET CAP INC Ordinary Shares,U
 SCCTY,Scout24 American Depositary Receipts - Unsponsored (Germany),U
 SCD,"LMP Capital and Income Fund, Inc.",NYSE
 SCDA,B- Scada Inc. Common Stock,U
@@ -5379,7 +5387,3 @@ SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
-SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
-SHLDQ,Sears Holdings Corporation Common Stock,U
-SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
-SHLOQ,"Shiloh Industries, Inc. Common Stock",U

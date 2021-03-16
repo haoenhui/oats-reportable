@@ -47,6 +47,7 @@ AAP,ADVANCE AUTO PARTS INC,NYSE
 AAPJ,"AAP, Inc. Common Stock",U
 AAPL,Apple Inc. Common Stock,NASDAQ
 AAPT,"All American Pet Company, Inc. Common Stock",U
+AAQC U,"Accelerate Acquisition Corp. Units, each consisting of one Class A common stock, and one-third of on",NYSE
 AASCF,ALL ACTIVE ASSET CAP LTD Ordinary Shares,U
 AASL,"America's Suppliers, Inc. Common Stock",U
 AASP,"All-American SportPark, Inc. Common Stock",U
@@ -3080,7 +3081,6 @@ BML PRH,Bank Of America Corporation Depositary Shares(Each representing a 1/1200
 BML PRJ,Bank of America Depositary Shares(Each representing 1/1200th interest in a share of Bank of America,NYSE
 BML PRL,Bank of America Depositary Shares(Each representing 1/1200th interest in a share of Bank of America,NYSE
 BMLLF,BioMed-Lubin Wytwornia Surowic SA Ordinary Shares (Poland),U
-BMLP,"Dorsey Wright MLP Index ETNs due December 10, 2036",NASDAQ
 BMLWF,BMO Low Volatility US Equity ETF USD Unit (Canada),U
 BMMCF,Kbridge Energy Corp. Ordinary Shares (Canada),U
 BMMJ,Body and Mind Inc. Common Stock,U
@@ -3329,6 +3329,7 @@ BRBYF,"Bronco Billy o Ltd, Nagoya Ordinary shares (Japan)",U
 BRC,Brady Corporation,NYSE
 BRCKF,BROCKHAUS CAP MGMT AG Ordinary Shares,U
 BRCOQ,Beard Company (The) Common Stock,U
+BRCPF,Brasilagro Cia Brasileira De Propriedades Agricolas Ordinary Shares (Brazil),U
 BRDBF,Bredband2 I Skandinavien AB Common Stock (Sweden),U
 BRDCF,Bridgestone Corp  Ord Ordinary Shares,U
 BRDCY,Bridgestone Corp  Ord (Unsponsored)  American Depositary Shares,U
@@ -5384,3 +5385,5 @@ CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
+CPF,Central Pacific Financial Corporation,NYSE
+CPFH,"Capital Financial Holdings, Inc. Common Stock",U

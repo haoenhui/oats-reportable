@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPF,Central Pacific Financial Corporation,NYSE
-CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
@@ -621,7 +619,6 @@ CWH,"Camping World Holdings, Inc.",NYSE
 CWHPF,Commonwealth Property Office Fund Units (Australia),U
 CWI,SPDR MSCI ACWI ex-US ETF,ARCA
 CWID,Country-Wide Insurance Co Common Stock,U
-CWIN,CAREY WATERMARK INVS 2 INC COM CL A Common Stock,U
 CWIR,"Central Wireless, Inc. Common Stock",U
 CWK,Cushman & Wakefield plc Ordinary Shares,NYSE
 CWLDF,CROWN RESORTS LTD Ordinary Shares,U
@@ -1214,6 +1211,7 @@ DLS,WisdomTree International SmallCap Dividend Fund,ARCA
 DLTA,"Delta Oil & Gas, Inc. NEW Common Stock",U
 DLTH,Duluth Holdings Inc. Class B Common Stock,NASDAQ
 DLTI,DLT Resolution Inc. Common Stock,U
+DLTNF,Delta 9 Cannabis Inc Ordinary Shares,U
 DLTR,Dollar Tree Inc. Common Stock,NASDAQ
 DLTTF,Dalata Hotel Group PLC Ordinary Shares (Ireland),U
 DLUEY,De La Rue Plc American Depositary Receipts - Unsponsored,U
@@ -1721,6 +1719,7 @@ EAWC,Ecco Auto World Corporation Common Stock,U
 EAWD,ENERGY & WTR DEV CORP Common Stock,U
 EAXR,EALIXIR INC Common Stock,U
 EB,"Eventbrite, Inc. Class A Common Stock",NYSE
+EBACU,European Biotech Acquisition Corp. Units,NASDAQ
 EBAY,eBay Inc. Common Stock,NASDAQ
 EBBGF,Enbridge Inc Cum Redeemable Pref Shares Series 1 (Canada),U
 EBBNF,Enbridge Inc Cum Redeemable Pref Shs Ser L (Canada),U
@@ -4111,6 +4110,7 @@ FVCB,"FVCBankcorp, Inc. Common Stock",NASDAQ
 FVD,First Trust Value Line Dividend Fund,ARCA
 FVE,Five Star Senior Living Inc. Common Stock,NASDAQ
 FVGCF,Fire River Gold Corp. Common Shares,U
+FVIV U,"Fortress Value Acquisition Corp. IV Units, each consisting of one share of Class A common stock and",NYSE
 FVPI,FV Pharma International Corp. Common Stock,U
 FVRG,ForeverGreen Worldwide Corp. Common Stock,U
 FVRR,Fiverr International Ltd.,NYSE
@@ -4172,6 +4172,7 @@ FYX,First Trust Small Cap Core AlphaDEX Fund,NASDAQ
 FYXGF,FIRST TR GLOBAL FDS PLC SMALL CAP CORE ALPHADEX UCITS ETF CL A (Ireland),U
 FZMD,"Fuse Medical, Inc. Common Stock",U
 FZRO,FlashZero Corp. Common Stock,U
+FZT U,"FAST Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-quarte",NYSE
 G,GENPACT LIMITED,NYSE
 GAA,Cambria Global Asset Allocation ETF,BATS
 GAB,The Gabelli Equity Trust Inc.,NYSE
@@ -4279,10 +4280,10 @@ GBLTF,GBLT Corporation Common Shares,U
 GBLX,"GB Sciences, Inc. Common Stock",U
 GBMRF,"GBM RESOURCES LTD, NEDLANDS WA Ordinary Shares",U
 GBMS,"Global Materials & Services, Inc. Common Stock",U
+GBNH,Greenbrook TMS Inc. Common Shares,NASDAQ
 GBNW,Global Energy Networks Corp. Common Stock,U
 GBNXF,"Gibson Energy, Inc. Common Shares (Canada)",U
 GBNY,"Generations Bancorp NY, Inc. Common Stock",NASDAQ
-GBOKF,GREENBROOK TMS INC  Ordinary Shares,U
 GBOOF,Grupo Fin Banorte Ordinary Shares,U
 GBOOY,"Grupo Financiero Banorte, S.A.B. De C.V Sponsored ADR (Mexico)",U
 GBOX,Greenbox POS Common Stock,NASDAQ
@@ -4362,7 +4363,7 @@ GDDY,GoDaddy Inc,NYSE
 GDEN,"Golden Entertainment, Inc. Common Stock",NASDAQ
 GDET,"GD Entertainment & Technology, Inc. Common Stock",U
 GDIFF,"GDI Integrated Facility Services, Inc. Subordinate Voting Ordinary Shares (Canada)",U
-GDISF,Gold Is BHD Ordinary Shares,U
+GDISF,IGB BERHAD Ordinary Shares,U
 GDL,The GDL Fund,NYSE
 GDL PRC,"GDL Fund, The Series C Cumulative Puttable and Callable Preferred Shares",NYSE
 GDLC,Grayscale Digital Large Cap Fund LLC Shares USD (Cayman Islands),U
@@ -4376,6 +4377,7 @@ GDMRF,"Golden Dawn Minerals, Inc. Common Shares",U
 GDNEF,Golden Eagle Retail Group Ltd Ordinary Shares (Cayman Islands),U
 GDNEY,Golden Eagle Retail Group Ltd Unsponsored ADR (Cayman Islands),U
 GDNGY,Gudang Garam TBK PT  American Depositary Receipts - Unsponsored (Indonesia),U
+GDNNF,Guodian Technology & Environment Group Corp Ltd Ordinary Shares (China),U
 GDO,Western Asset Global Corporate Defined Opportunity Fund Inc.,NYSE
 GDOT,Green Dot Corporation,NYSE
 GDP,Goodrich Petroleum Corporation Common Stock,AMEX
@@ -5346,7 +5348,7 @@ GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,ARCA
 GUT,GABELLI UTILITY TRUST,NYSE
 GUT PRA,Gabelli Utility Trust 5.625% Ser A Cumul Pfd Shs,NYSE
 GUT PRC,Gabelli Utility Trust   5.375% Series C Cumulative Preferred Shares,NYSE
-GUT RTWI,"Gabelli Utility Trust (The) Rights (expiring April 14, 2021)",NYSE
+GUT RT,"Gabelli Utility Trust (The) Rights (expiring April 14, 2021)",NYSE
 GUYGF,G2 Goldfields Inc Common Shares,U
 GUZOF,Grupo Herdez Sab de CV Ordinary Shares (Mexico),U
 GVA,Granite Construction Inc.,NYSE
@@ -5384,3 +5386,4 @@ GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
