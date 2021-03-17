@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE
+MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
 MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U
 MTLFF,"Metallis Resources, Inc. Ordinary Shares (Canada)",U
 MTLHF,Mitsubishi Chemical Holdings Corp Ordinary Shares (Japan),U
@@ -111,6 +113,7 @@ MVLY,"Mission Valley Bancorp (Sun Valley, CA) Common Stock",U
 MVMDF,MOUNTAIN VY MD INC COM (Canada),U
 MVNT,MOVEMENT INDS CORP Common Stock,U
 MVO,MV Oil Trust,NYSE
+MVP,Roundhill MVP ETF,ARCA
 MVPT,MVP Holdings Inc. Common Stock,U
 MVRBF,Medivir Ordinary Shares,U
 MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,ARCA
@@ -169,7 +172,6 @@ MYCOF,MYDECINE INNOVATIONS GROUP INC Ordinary Shares,U
 MYCX,MyCelx Technologies Corp Common Stock,U
 MYD,"Blackrock Muniyield Fund, Inc.",NYSE
 MYDIF,MYCONIC CAP CORP COM (Canada),U
-MYDP,"Dougherty?s Pharmacy, Inc. Common Stock",U
 MYDX,"MyDx, Inc. Common Stock",U
 MYE,"Myers Industries, Inc.",NYSE
 MYF,"Blackrock Muni Yield Investment Fund, Inc.",NYSE
@@ -1611,7 +1613,6 @@ ONEW,OneWater Marine Inc. Class A Common Stock,NASDAQ
 ONEXF,Onex Corp Sub Voting Shares (Canada),U
 ONEY,SPDR Russell 1000 Yield Focus ETF,ARCA
 ONFA,One 4 Art Limited Common Stock,U
-ONIN,"Online Internet Network, Inc. Common Stock",U
 ONKCF,"Onkyo Corporation, Neyagawa Ordinary Shares  (Japan)",U
 ONLI,Online Redefined Inc Common Stock,U
 ONLN,ProShares Online Retail ETF,ARCA
@@ -2203,7 +2204,6 @@ PDIV,"Premier Development & Investment, Inc. Class A Common Stock",U
 PDIYF,Predictive Discovery Ltd Melbourne Ordinary Shares (Australia),U
 PDLB,PDL Community Bancorp Common Stock,NASDAQ
 PDM,"Piedmont Office Realty Trust, Inc.",NYSE
-PDMDF,Petra Diamonds Ltd Ordinary Shares (Bermuda),U
 PDMI,"Paradigm Medical Industries, Inc. Common Stock",U
 PDN,Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF,ARCA
 PDNIF,Padini Holding Bhd Ordinary Shares (Malaysia),U
@@ -4750,6 +4750,7 @@ SAPMF,Saipem Spa San Donato Milanese Ordinary Shares,U
 SAPMY,Saipem Spa San Donato Milanese American Depositary Receipts - Unsponsored,U
 SAPX,"Seven Arts Entertainment, Inc. Common stock (NV)",U
 SAR,SARATOGA INVESTMENT CORP. NEW,NYSE
+SARDF,SANFORD LTD O N (New Zealand),U
 SARDY,Sanford Ltd Unsponsored ADR (New Zealand),U
 SARSF,Canada House Wellness Group Inc. Ordinary Shares,U
 SARTF,Sartorius Ag Ordinary Shares,U
@@ -5387,3 +5388,4 @@ SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
+SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ

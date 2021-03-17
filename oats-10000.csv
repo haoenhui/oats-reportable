@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
-GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
 GWPD,"GP Solutions, Inc. Common Stock",U
@@ -26,6 +24,7 @@ GXG,Global X MSCI Colombia ETF,ARCA
 GXGX,GX Acquisiton Corp. Class A Common Stock,NASDAQ
 GXGXU,GX Acquisiton Corp. Unit,NASDAQ
 GXGXW,GX Acquisiton Corp. Warrant,NASDAQ
+GXIIU,GX Acquisition Corp. II Unit,NASDAQ
 GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
 GXRFF,Prospera Energy Inc Common Shares,U
 GXSBF,Geox Spa Ordinary Shares (Italy),U
@@ -482,6 +481,7 @@ HLFFF,Hellofresh SE Ordinary Shares (Germany),U
 HLFGY,HILTON FOOD GROUP PLC ADR (United Kingdom),U
 HLFN,Home Loan Financial Corporation New Common Stock,U
 HLG,Hailiang Education Group Inc. American Depositary Shares,NASDAQ
+HLGE,Hartford Longevity Economy ETF,ARCA
 HLHLY,Holmen AB American Depositary Receipts - Unsponsored Class B (Sweden),U
 HLI,"Houlihan Lokey, Inc.",NYSE
 HLIO,"Helios Technologies, Inc. Common Stock",NASDAQ
@@ -1465,7 +1465,7 @@ III,"Information Services Group, Inc. Information Services Group Inc. Common Sto
 IIII,INSU Acquisition Corp. III Class A Common Stock,NASDAQ
 IIIIU,INSU Acquisition Corp. III Unit,NASDAQ
 IIIIW,INSU Acquisition Corp. III Warrant,NASDAQ
-IIIN,"Insteel Industries, Inc. Common Stock",NASDAQ
+IIIN,"Insteel Industries, Inc.",NYSE
 IIIV,"i3 Verticals, Inc. Class A Common Stock",NASDAQ
 IIJIF,"Internet Initiative Japan, Inc. Ordinary Shares (japan)",U
 IIJIY,"Internet Initiative Japan, Inc. American Depositary Shares",U
@@ -2660,7 +2660,7 @@ JQTMF,JACQUET METAL SVC ACT (France),U
 JQUA,JPMorgan U.S. Quality Factor ETF,ARCA
 JRDN,Jardinier Corp. Common Stock,U
 JREIF,Japan Real Estate Investment Inc Tokyo Japan Real Estate Investment Inc Tokyo,U
-JRFIF,Japan Retail Fund Investment Corp Tokyo Ordinary Shares (Japan),U
+JRFIF,JAPAN MET FD INV CORP SHS Ordinary Shares,U
 JRHHY,Japara Healthcare Ltd. American Depositary Receipts - Unsponsored (Australia),U
 JRHIF,DAIWA SECS LIVING INVT CORP Ordinary Shares,U
 JRI,NUVEEN REAL ASSET INCOME AND GROWTH FUND,NYSE
@@ -2767,6 +2767,7 @@ K,Kellogg Company,NYSE
 KACPF,Koa Corp Ordinary Shares (Japan),U
 KAEPF,Kansai Electric Power Inc (F) Ordinary Shares,U
 KAEPY,Kansai Electric Power Inc Unsponsored ADR (Japan),U
+KAHC U,"KKR Acquisition Holdings I Corp. Units, each consisting of one share of Class A Common Stock and one",NYSE
 KAHL,Kahala Corporation (Florida) New Common Stock,U
 KAI,Kadant Inc.,NYSE
 KAIIU,Kismet Acquisition Two Corp. Unit,NASDAQ
@@ -3247,6 +3248,8 @@ KSHDF,"Koshidaka Co Ltd, Maebashi Ordinary Shares (Japan)",U
 KSHIF,"Konishi Company, Ltd. Ordinary Shares (Japan)",U
 KSHOF,K S Holdings Corporation Ordinary Shares (Japan),U
 KSHTF,KUSHIKATSU TANAKA CO Common Stock,U
+KSHTY,Kuaishou Technology  American Depositary Receipts - Unsponsored (Cayman Islands),U
+KSICU,Kadem Sustainable Impact Corporation Unit,NASDAQ
 KSIH,KS International Holdings Corporation Common Stock,U
 KSKD,Kaskad Corp. Common Stock,U
 KSKGF,Kingsgate Consolidated Nl Ordinary Shares,U
@@ -5009,6 +5012,7 @@ MNNLF,Menicon Co Ltd. Ordinary Shares,U
 MNOIY,Mandarin Oriental International Ltd Unsponsored ADR,U
 MNOV,Medicinova Inc Common Stock,NASDAQ
 MNP,"Western Asset Municipal Partners Fund, Inc.",NYSE
+MNPGY,Moonpig Group plc American Depositary Receipts - Unsponsored (United Kingdom),U
 MNPP,Merchants Natl Pptys Inc Common Stock,U
 MNPR,Monopar Therapeutics Inc. Common Stock,NASDAQ
 MNQFF,Manulife Finl Corp CL A SER 2 Preferred Stock (Canada),U
@@ -5385,5 +5389,3 @@ MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 MTHRF,"M3, Inc. Ordinary Shares (Japan)",U
 MTHRY,"M3, INC.  American Depositary Receipts - Unsponsored  Japan(JP )",U
 MTIRF,MITHRIL RESOURCES LTD SHS (Australia),U
-MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE
-MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE

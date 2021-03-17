@@ -59,6 +59,7 @@ AATP,Agape ATP Corporation Common Stock,U
 AATRL,"AMG Capital  Trust II 5.15% Convertible Trust Preferred Securities, Expiring 10/15/2037",U
 AATV,"Adaptive Ad Systems, Inc. NEW Common Stock",U
 AAU,Almaden Minerals Ltd.,AMEX
+AAUGF,ANGOLD RES LTD COM (Canada),U
 AAUKF,Anglo American plc Ordinary Shares (United Kingdom),U
 AAVMY,Abn Amro BK N V Amsterdam Brh American Depositary Receipts - Unsponsored (Netherlands),U
 AAVVF,Advantage Oil & Gas Ltd Ordinary Shares (Canada),U
@@ -500,6 +501,7 @@ AEYE,"AudioEye, Inc. Common Stock",NASDAQ
 AEYYF,Alpha Energy Holdings Ltd Ordinary Shares (Singapore),U
 AEZS,Aeterna Zentaris Inc. Common Stock,NASDAQ
 AFAP,AFA Protective Systems Inc. Common Stock,U
+AFAQU,AF Acquisition Corp. Units,NASDAQ
 AFB,"Alliance National Municipal Income Fund, Inc.",NYSE
 AFBA,"Allied First Bancorp, Inc. (Maryland) Common Stock",U
 AFBG,"American Fiber Green Products, Inc. Common Stock",U
@@ -1057,6 +1059,7 @@ AMADF,Amadeus IT Group SA Ordinary Shares,U
 AMADY,Amadeus IT Group SA American Depositary Receipts - Unsponsored,U
 AMAL,Amalgamated Financial Corp. Common Stock (DE),NASDAQ
 AMANF,Amano Corp Ordinary Shares,U
+AMAOU,American Acquisition Opportunity Inc. Units,NASDAQ
 AMAR,"Amarillo Biosciences, Inc. Common Stock",U
 AMAT,"Applied Materials, Inc. Common Stock",NASDAQ
 AMAZ,AMAZING ENERGY OIL & GAS CO Common Stock,U
@@ -1230,7 +1233,6 @@ ANAS,"Alternaturals, Inc Common Stock",U
 ANAT,"American National Group, Inc. Common Stock",NASDAQ
 ANAV,Alpha Network Alliance Ventures Inc. Com,U
 ANCE,"RESTANCE, INC. Common Stock",U
-ANCN,Anchiano Therapeutics Ltd. American Depositary Share,NASDAQ
 ANCSQ,American Consumers Inc Common Stock,U
 ANCTF,"Alimentation Couche-Tard, Inc. Multiple Voting Shares (Canada)",U
 ANCUF,"Alimentation Couche-Tard, Inc. Subordinate Voting Shares (Canada)",U
@@ -1298,7 +1300,6 @@ ANTH,"Anthera Pharmaceuticals, Inc. Common Stock",U
 ANTI,Antigenics Inc (Colorado) Common Stock,U
 ANTM,"ANTHEM, INC.",NYSE
 ANTOF,IIDA GROUP HLDGS CO LTD Ordinary Shares,U
-ANURY,AgriNurture Inc Sponsored ADR (Philippines),U
 ANVI,"Anvi Global Holdings, Inc. Common Stock",U
 ANVS,"Annovis Bio, Inc.",AMEX
 ANVV,Anvia Hldgs Corp Common Stock,U
@@ -2515,12 +2516,11 @@ BDCZ,"ETRACS Wells Fargo Business Development Company Index ETN Series B due Apr
 BDDDY,BID Corp Ltd Sponsored ADR (S. Africa),U
 BDDXF,"DB Base Metals Double Long Exchange Traded Notes due June 1, 2038 (Germany)",U
 BDEC,Innovator S&P 500 Buffer ETF - December,BATS
-BDFH,Four G Holdings Corporation Common Stock,U
 BDGCF,Black Dragon Gold Corp Chess Depositary Interests (Canada),U
 BDGR,"Black Dragon Resource Companies, Inc. Common Stock",U
 BDGSF,Bank of Ga Group Plc Ordinary Shares,U
 BDGXF,Bertrandt AG (Germany),U
-BDGYD,Bridgeway National Corp. Common Stock,U
+BDGY,Bridgeway National Corp. Common Stock,U
 BDIC,Blow & Drive Interlock Corp. Common Stock,U
 BDIMF,Black Diamond Group Ltd Ordinary Shares (Canada),U
 BDIXF,Biolidics Limited Ordinary Shares Japan_,U
@@ -2704,6 +2704,7 @@ BGRP,Bluestem Group Inc. Common Stock,U
 BGS,"B&G Foods, Inc.",NYSE
 BGSF,"BGSF, Inc.",NYSE
 BGSWF,Bergesen Worldwide Offshore Limited  Common Shares,U
+BGSX U,"Build Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of",NYSE
 BGT,BlackRock Floating Rate Income Trust,NYSE
 BGUUF,Benguet Corp BC Ordinary Shares (Phillippines),U
 BGX,Blackstone Long-Short Credit Income Fund,NYSE
@@ -2918,7 +2919,7 @@ BKRIY,Bank Ireland Group PLC American Depositary Receipts - Unsponsored (Ireland
 BKRKF,Bank Rakyat Indonesia Ordinary Shares (Indonesia),U
 BKRKY,Bank Rakyat Indonesia Unsponsored ADR Rep Shs B (Indonesia),U
 BKRP,Black Rock Petroleum Company Common Stock,U
-BKRRF,Blackrock Gold Corp Ordinary Shares  (Canada),U
+BKRRF,Blackrock Silver Corp Ordinary Shares,U
 BKSB,BNY Mellon Short Duration Corporate Bond ETF,ARCA
 BKSC,Bank of South Carolina Corp. Common Stock,NASDAQ
 BKSD,"Blueprint Technologies, Inc. Common Stock",U
@@ -4024,7 +4025,6 @@ CBOE,"Cboe Global Markets, Inc.",BATS
 CBOF,"CBOA Financial, Inc. Common Stock",U
 CBON,VanEck Vectors ChinaAMC China Bond ETF,ARCA
 CBPI,China Botanic Pharmaceutical Inc. Common Stock,U
-CBPJ,"CBP Carbon Industries, Inc.  Common Stock",U
 CBPO,"China Biologic Products Holdings, Inc. Ordinary Shares",NASDAQ
 CBRE,"CBRE GROUP, INC.",NYSE
 CBRI,CMTSU Liquidation Inc. Common Stock,U
@@ -4827,7 +4827,7 @@ CLGDF,ARIS GOLD CORP Warrant,U
 CLGMF,Cleghorn Minerals Ordinary Shares (Canada),U
 CLGN,CollPlant Biotechnologies Ltd American Depositary Shares,NASDAQ
 CLGPF,Clean Seed Cap Group Ltd Common Shares (Canada),U
-CLGUF,Cloud Nine Education Group Common Shares,U
+CLGUF,CLOUD NINE WEB3 TECHNOLOGIES INC Common Shares,U
 CLGX,"Corelogic, Inc.",NYSE
 CLGZF,"Hutech21 Co., Ltd. New Common Stock (Virgin Islands British)",U
 CLH,"Clean Harbors, Inc",NYSE
@@ -5006,6 +5006,7 @@ CMLFW,"CM Life Sciences, Inc. Warrant",NASDAQ
 CMLGF,"Canickel Mining, Ltd. Ordinary Shares (Canada)",U
 CMLLF,China Maple Leaf Educational Systems Ltd.  Ordinary Shares,U
 CMLS,Cumulus Media Inc. Class A Common Stock,NASDAQ
+CMMB,Chemomab Therapeutics Ltd. American Depositary Share,NASDAQ
 CMMCF,Oxe Marine AB Ordinary Shares,U
 CMMMF,Comstock Metals Ltd Common Shares,U
 CMMXF,CEMEX HLDGS PHILIPPINES INC Ordinary Shares,U
@@ -5387,3 +5388,4 @@ CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
+CPFXF,Copper Fox Metals Inc Common Shares (Canada),U

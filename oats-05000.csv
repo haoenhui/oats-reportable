@@ -1,10 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPGZF,CG Power & Industrial Ltd. Global Depositary Receipts - Sponsored,U
-CPHB,China PharmaHub Corp Common Stock,U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
 CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
 CPHI,"China Pharma Holdings, Inc.",AMEX
@@ -1046,6 +1044,7 @@ DGNR,Dragoneer Growth Opportunities Corp.,NYSE
 DGNR U,"Dragoneer Growth Opportunities Corp. Units, each consisting of one Class A ordinary share, and one-f",NYSE
 DGNR WS,"Dragoneer Growth Opportunities Corp. Redeemable warrants, each whole warrant exercisable for one Cla",NYSE
 DGNS,Dragoneer Growth Opportunities Corp. II Class A Ordinary Shares,NASDAQ
+DGNU,Dragoneer Growth Opportunities Corp. III Class A Ordinary Shares,NASDAQ
 DGNYF,Dignity Plc Sutton Coldfield Ordinary Shares (United Kingdom),U
 DGOCF,Diversified Gas & Oil PLC Ordinary Shares (United Kingdom),U
 DGONF,Dragon Mining NL Ordinary Shares,U
@@ -1479,7 +1478,6 @@ DSOC,Innovator Double Stacker ETF - October,BATS
 DSOL,Drug Free Solution Inc. Common Stock,U
 DSOX,Triton Emission Solutions Inc. Common Stock,U
 DSP,Viant Technology Inc. Class A Common Stock,NASDAQ
-DSPA,ANKAA Corp. Common Stock,U
 DSPG,"DSP Group, Inc. Common Stock",NASDAQ
 DSRLF,Diasorin S.R.L. Shares (Italy),U
 DSS,"Document Security Systems, Inc.",AMEX
@@ -4202,9 +4200,11 @@ GALKF,Galantas Gold Corporation Ordinary Shares,U
 GALOF,Galore Res Inc Common shares (Canada),U
 GALT,Galectin Therapeutics Inc. Common Stock,NASDAQ
 GALXF,Galaxy Resources Ltd Common Shares,U
+GALYF,GALA INC TOKYO ORD (Japan),U
 GAM,"General American Investors Company, Inc.",NYSE
 GAM PRB,"General American Investors Company, Inc  5.95% Cumul Pfd Stock, Ser B",NYSE
 GAMCF,"GAMMA COMMUNICATIONS PLC, SHS (United Kingdom)",U
+GAMCU,Golden Arrow Merger Corp. Unit,NASDAQ
 GAMN,"Great American Food Chain, Inc. (The) Common Stock",U
 GAMR,Wedbush ETFMG Video Game Tech ETF,ARCA
 GAN,GAN Limited Ordinary Shares,NASDAQ
@@ -4348,7 +4348,6 @@ GCRPF,GLOBAL CONNECTION PUBLIC CO LTD NVDR SHARES (Thailand),U
 GCSSF,GECOSS CORP Ordinary Shares,U
 GCTAF,Siemens Gamesa Renewable Energy Ordinary Shares,U
 GCTAY,Siemens Gamesa Renewable Energy American Depositary Receipts - Unsponsored,U
-GCTY,Gain Cities Limited Common Stock,U
 GCV,"The Gabelli Convertible and Income Securities Fund, Inc.",NYSE
 GCWOF,Grupo Cementos De Chihuahua Sa De Cv Ordinary Shares (Mexico),U
 GCXXF,Granite Creek Copper Ltd. Common Shares (Canada),U
@@ -4804,6 +4803,7 @@ GMLPP,Golar LNG Partners LP 8.75% Series A Cumulative Redeemable Preferred Units
 GMMVF,G MED INNOVATIONS Ordinary Shares,U
 GMND,Green Mountain Development Corp Common Stock,U
 GMNFF,GobiMin Inc Ordinary Shares (Canada),U
+GMNGF,GOLD MOUNTAIN LTD SHS (Australia),U
 GMNI,Gemini Group Global Corp. Common Stock,U
 GMNNF,Gamenet Group SPA Ordinary Shares (Italy),U
 GMNTF,Gaumont Ordinary Shares (France),U
@@ -5387,3 +5387,5 @@ GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
+GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
+GWON,Grandwon Corp. Common Stock,U

@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
 SHLDQ,Sears Holdings Corporation Common Stock,U
 SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
 SHLOQ,"Shiloh Industries, Inc. Common Stock",U
@@ -188,6 +187,7 @@ SJ,Scienjoy Holding Corporation Ordinary Shares,NASDAQ
 SJB,ProShares Short High Yield,ARCA
 SJGFF,SCHRODER JAPAN GROWTH FUND PLC SHS (United Kingdom),U
 SJI,"South Jersey Industries, Inc.",NYSE
+SJIIU,SOUTH JERSEY INDS INC CORP UNIT,U
 SJIJ,"South Jersey Industries, Inc. 5.625% Junior Subordinated Notes due 2079",NYSE
 SJIU,"South Jersey Industries, Inc.",NYSE
 SJJIY,Shanghai Jin Jiang Capital Company Ltd  American Depositary Receipts - Unsponsored,U
@@ -1335,7 +1335,7 @@ STRRP,"Star Equity Holdings, Inc. Series A Cumulative Perpetual Preferred Stock"
 STRS,Stratus Properties Inc. Common Stock,NASDAQ
 STRT,STRATTEC SECURITY CORPORATION Common Stock,NASDAQ
 STRUF,Saturn Metals Ltd Common Stock (Australia),U
-STRXF,Strata-X Energy Ltd Common Shares,U
+STRXF,Pure Hydrogen Corp Ltd. Common Shares,U
 STRYF,Storytel AB Ordinary Shares (Sweden),U
 STRZ,"Star Buffet, Inc. Common Stock",U
 STSA,"Satsuma Pharmaceuticals, Inc. Common Stock",NASDAQ
@@ -3176,7 +3176,6 @@ UCTT,"Ultra Clean Holdings, Inc. Common Stock",NASDAQ
 UCYB,ProShares Trust ProShares Ultra Nasdaq Cybersecurity ETF,NASDAQ
 UDEC,Innovator S&P 500 Ultra Buffer ETF - December,BATS
 UDHCF,UDG Healthcare PLC Ordinary Shares (Ireland),U
-UDHI,"Union Dental Holdings, Inc. Common Stock",U
 UDIRF,United Internet Ag & Co Ordinary Shares,U
 UDIRY,United Internet Ag & Co Unsponsored ADR (Germany),U
 UDN,Invesco DB US Dollar Index Bearish Fund,ARCA
@@ -3373,6 +3372,7 @@ UPCHY,Uni-President China Holdings Ltd. Unsponsored ADR (Cayman Islands),U
 UPCO,Universal Potash Corp. Common Stock,U
 UPDC,UPD Holding Corp. Common Stock,U
 UPIN,Universal Power Industry Corporation Common Stock,U
+UPIPF,UNIVERSAL PROPTECH INC COM (Canada),U
 UPLD,"Upland Software, Inc. Common Stock",NASDAQ
 UPMKF,Upm Kymmene Corp Ordinary Shares,U
 UPMMY,UPM Kymmene Corporation Unsponsored ADR (Finland),U
@@ -3598,6 +3598,7 @@ VAQC,Vector Acquisition Corporation II Class A Ordinary Shares,NASDAQ
 VAQTF,VA Q TEC AG Ordinary Shares (Germany),U
 VAR,"Varian Medical Systems, Inc.",NYSE
 VARGF,Varta AG Ordinary Shares (Germany),U
+VARTY,VARTA AKTIENGESELLSCHAFT  American Depositary Receipts - Unsponsored (Germany),U
 VARXF,BOE Varitronix Ltd. Ordinary Shares,U
 VASO,Vaso Corporation Common Stock,U
 VAUCF,Viva Gold Corp Ordinary Shares (Canada),U
@@ -3691,6 +3692,7 @@ VEGL,"Vegalab, Inc. Common Stock",U
 VEGN,US Vegan Climate ETF,ARCA
 VEGPF,Vectura Group plc Ordinary Shares,U
 VEGYF,Virginia Energy Resources Inc Common Shares (Canada),U
+VEI,Vine Energy Inc.,NYSE
 VEII,"Value Exchange International, Inc. Common Stock",U
 VEL,"Velocity Financial, Inc.",NYSE
 VELOU,Velocity Acquisition Corp. Units,NASDAQ
@@ -3938,7 +3940,6 @@ VMW,"VMware, Inc",NYSE
 VNAPF,"Verona Pharam plc, Adderbury Common Shares",U
 VNBFF,VANGUARD AUS GOVT BD ETF UNITS EXCHANGE TRADED FUND Australia(AU ),U
 VNCE,VINCE HOLDING CORP.,NYSE
-VNCI,Vancord Capital Inc. Common Stock,U
 VNCKF,Victory Nickel Inc Common shares (Canada),U
 VNDA,Vanda Pharmaceuticals Inc. Common Stock,NASDAQ
 VNE,"Veoneer, Inc.",NYSE
@@ -3995,7 +3996,6 @@ VODPF,Vodafone Group Plc Ordinary Shares,U
 VOE,Vanguard Mid-Cap Value ETF,ARCA
 VOGGF,Vista Oil & Gas SAB DE CV Warrants Expiring 08/11/2024 (Mexico),U
 VOHO,"Volcan Holdings, Inc. Common Stock",U
-VOIP,"VOIP Talk, Inc. Common Stock",U
 VOIS,"Mind Solutions, Inc. Common Stock",U
 VOLAF,AB Volvo Ordinary Shares,U
 VOLT,"Volt Information Sciences, Inc.",AMEX
@@ -4582,7 +4582,6 @@ WMGEF,Winchester Minerals & Gold Exploration Ltd Ordinary Shares (Canada),U
 WMGPF,"Williams Grand Prix Holdings Plc, Wantage German Cert Ordinary Shares (United Kingdom)",U
 WMGR,"Wellness Matrix Group, Inc. Common Stock",U
 WMGTF,Wilmington Group Plc Ordinary Shares (United Kingdom),U
-WMHH,"Watermark Group, Inc. Common Stock",U
 WMHI,"World Mobile Holdings, Inc.  Common Stock",U
 WMK,"Weis Markets, Inc.",NYSE
 WMLLF,Wealth Minerals Ltd. Common Shares,U
@@ -4859,6 +4858,7 @@ XCOMQ,"Xtera Communications, Inc. Common Stock",U
 XCPL,XCPCNL Business Services Corporation Common Stock,U
 XCPT,"XCana Petroleum, Corp. Common Stock",U
 XCRP,"Xcorporeal, Inc. Common Stock",U
+XCRT,XCELERATE INC Common Stock,U
 XCUR,"Exicure, Inc. Common Stock",NASDAQ
 XDAT,Franklin Exponential Data ETF,BATS
 XDIV,U.S. Equity Ex-Dividends Fund - Series 2027,ARCA
@@ -5119,6 +5119,7 @@ YMAB,"Y-mAbs Therapeutics, Inc. Common Stock",NASDAQ
 YMAIF,Yoma Strategic Holdings Ltd Ordinary Shares (Singapore),U
 YMATF,AZBIL CORP SHS (Japan),U
 YMDAF,YAMADA HLDGS CO LTD Ordinary Shares,U
+YMFCF,YAMASHIN FILTER CORP COM STK (Japan),U
 YMTKF,Yamato Kogyo Co Ltd SHS (Japan),U
 YMTX,"Yumanity Therapeutics, Inc. Common Stock",NASDAQ
 YMZBY,Yamazaki Baking Ltd American Depositary Shares,U
