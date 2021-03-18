@@ -283,6 +283,7 @@ ACSYF,Accsys Technologies plc Ordinary Shares (United Kingdom),U
 ACTC,ArcLight Clean Transition Corp. Class A Ordinary Shares,NASDAQ
 ACTCU,ArcLight Clean Transition Corp. Unit,NASDAQ
 ACTCW,ArcLight Clean Transition Corp. Warrant,NASDAQ
+ACTDU,ArcLight Clean Transition Corp. II Unit,NASDAQ
 ACTG,Acacia Research Corporation (Acacia Tech) Common Stock,NASDAQ
 ACTL,"Artec Global Media, Inc. Common Stock",U
 ACTV,LeaderShares Activist Leaders ETF,ARCA
@@ -1257,7 +1258,7 @@ ANFGF,Antofagasta Holdings Plc Ordinary Shares,U
 ANFIF,Amira Nature Foods Ltd Ordinary Shares,U
 ANGCF,Angel Gold Corp. Ordinary Shares (Canada),U
 ANGGF,Angang Steel Co Ltd  Ordinary Shares H (China),U
-ANGI,ANGI Homeservices Inc. Class A Common Stock,NASDAQ
+ANGI,Angi Inc. Class A Common Stock,NASDAQ
 ANGL,VanEck Vectors Fallen Angel High Yield Bond,NASDAQ
 ANGMF,ANGLER GAMING PLC EUR0.01 ORDINARY SHARES (Malta),U
 ANGN,Angion Biomedica Corp. Common Stock,NASDAQ
@@ -2017,6 +2018,7 @@ AUY,"Yamana Gold, Inc.",NYSE
 AVA,Avista Corporation,NYSE
 AVAAF,Ava Risk Group Ltd. Ordinary Shares (Australia),U
 AVACF,Avance Gas Holding Ltd. Com Shs (Bermuda),U
+AVACU,Avalon Acquisition Inc. Units,NASDAQ
 AVAL,GRUPO AVAL ACCIONES Y VALORES S.A.,NYSE
 AVAN,Avanti Acquisition Corp.,NYSE
 AVAN U,"Avanti Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one re",NYSE
@@ -2798,7 +2800,9 @@ BIOIF,"Biome Grow, Inc.  Ordinary Shares",U
 BIOL,"Biolase, Inc. Common Stock",NASDAQ
 BIONQ,BioNitrogen Holdings Corp. Common Stock,U
 BIOQ,"BIOQUAL, Inc. Common Stock",U
+BIOT,Biotech Acquisition Company Class A Ordinary Shares,NASDAQ
 BIOTU,Biotech Acquisition Company Unit,NASDAQ
+BIOTW,Biotech Acquisition Company Warrant,NASDAQ
 BIOVF,Swedish Orphan Biovitrum AB Ordinary Shares (Sweden),U
 BIOX,Bioceres Crop Solutions Corp. Ordinary Shares,AMEX
 BIOYF,BioSyent Inc Ordinary Shares (Canada),U
@@ -3762,6 +3766,7 @@ BYROF,Byron Energy Ltd Ordinary Shares (Austrailia),U
 BYRSF,PT Bayan Resources Tbk Ordinary Shares (Indonesia),U
 BYSD,Bayside Corporation. Common Stock,U
 BYSI,BeyondSpring Inc. Ordinary Shares,NASDAQ
+BYTSU,BYTE Acquisition Corp. Units,NASDAQ
 BYWLF,"BAYWA BAYERISCHE WARENVERMITTLUNG LANDWIRTSCHAFTLICHER (GENOSSENSCHAFTEN AG, MUENCHEN) (Germany)",U
 BYYLF,Balyo SA Ordinary Shares (France),U
 BYZN,Byzen Digital Inc. Common Stock,U
@@ -5388,4 +5393,3 @@ CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
-CPFXF,Copper Fox Metals Inc Common Shares (Canada),U

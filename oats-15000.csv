@@ -1,4 +1,17 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTFC,Minster Financial Corporation,U
+MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
+MTG,MGIC Investment Corp.,NYSE
+MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
+MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
+MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
+MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
+MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
+MTH,Meritage Homes Corporation,NYSE
+MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
+MTHRF,"M3, Inc. Ordinary Shares (Japan)",U
+MTHRY,"M3, INC.  American Depositary Receipts - Unsponsored  Japan(JP )",U
+MTIRF,MITHRIL RESOURCES LTD SHS (Australia),U
 MTL,"Mechel PAO American Depository Shares, each representing two ordinary shares (ADSs)",NYSE
 MTL PR,Mechel PAO American Depositary Shares (each representing one-half of a Preferred Share),NYSE
 MTLCF,Metalcorp Ltd Ordinary Shares (Canada),U
@@ -251,6 +264,7 @@ NANN,NANOVATION MICROTECH INC Common Stock,U
 NANR,SPDR S&P North American Natural Resources ETF,ARCA
 NANX,Nanophase Technologies Corporation Common Stock,U
 NAOV,"NanoVibronix, Inc. Common Stock",NASDAQ
+NAPA,"The Duckhorn Portfolio, Inc.",NYSE
 NAPR,Innovator Nasdaq-100 Power Buffer ETF - April,BATS
 NAPRF,Naspers Limited N Shs Ordinary Shares,U
 NARI,"Inari Medical, Inc. Common Stock",NASDAQ
@@ -697,7 +711,6 @@ NMEX,Northern Minerals & Exploration Ltd.  Common Stock,U
 NMFC,New Mountain Finance Corporation Common Stock,NASDAQ
 NMGC,NeoMagic Corporation Common Stock,U
 NMGGF,Network Media Group Inc Common Shares (Canada),U
-NMGNF,NTM Gold Ltd. Ordinary Shares,U
 NMGRF,Nouveau Monde Graphite Inc Ordinary Shares,U
 NMGX,NANO MAGIC INC Common Stock,U
 NMHLY,NMC HEALTH PLC  American Depositary Receipts - Unsponsored (United Kingdom),U
@@ -723,6 +736,7 @@ NMR,"Nomura Holdings, Inc",NYSE
 NMRD,"Nemaura Medical, Inc. Common Stock",NASDAQ
 NMREF,Namibia Critical Metals Inc Common Shares,U
 NMRK,"Newmark Group, Inc. Class A Common Stock",NASDAQ
+NMRPF,NATIONAL MILK RECORDS PLC Ordinary Shares,U
 NMS,Nuveen Minnesota Quality Municipal Income Fund,NYSE
 NMSCA,Nutrition Management Services Company Class A,U
 NMSEF,Namaste Technologies Inc Ordinary Shares (Canada) Warrant 10/23/2023,U
@@ -1898,6 +1912,7 @@ OXFCF,Velocys PLC Ordinary Shares (United Kingdom),U
 OXIHF,Oxford Investments Holdings Inc. Ordinary Shares (Canada),U
 OXINF,Oxford Instruments PLC Ordinary Shares (United Kingdom),U
 OXLC,Oxford Lane Capital Corp. Common Stock,NASDAQ
+OXLCL,Oxford Lane Capital Corp. 6.75% Notes due 2031,NASDAQ
 OXLCM,Oxford Lane Capital Corp. 6.75% Series 2024 Term Preferred Stock,NASDAQ
 OXLCO,"Oxford Lane Capital Corp. Term Preferred Shares, 7.50% Series 2023",NASDAQ
 OXLCP,Oxford Lane Capital Corp. 6.25% Series 2027 Term Preferred Shares,NASDAQ
@@ -2151,7 +2166,6 @@ PCPC WS,"Periphas Capital Partnering Corporation Warrants, each whole warrant ex
 PCPDF,PACIFIC CENTURY PREMIUM DEVELOPMENTS LIMITED Ordinary Shares,U
 PCPJ,"PaperClip, Inc. Common Stock",U
 PCPPF,PC Partner Group Ltd Ordinary Shares (Cayman Islands),U
-PCPRF,PACIFIC CENTURY PREMIUM  DEVELOPMENTS LIMITED RT (Bermuda),U
 PCPZ,Leeward Group Holdings Inc. New Common Stock,U
 PCQ,Pimco California Municipal Income Fund,NYSE
 PCQRF,Petrolympic Ltd. Common Shares (Canada),U
@@ -2168,10 +2182,13 @@ PCSO,Protective Capital Structures Corp. Common Stock,U
 PCSPF,Pacific Shipping Trust Units Shipping Business Trust (Singapore),U
 PCST,PURE CAP SOLUTIONS INC Common Stock,U
 PCSV,PCS Edventures!.COM Inc Common Stock,U
+PCT,"PureCycle Technologies, Inc. Common stock",NASDAQ
 PCTGY,Pact Group Holdings Ltd American Depositary Receipts - Unsponsored (Australia),U
 PCTI,"PCTEL, Inc. Common Stock",NASDAQ
 PCTL,PCT Ltd Common Stock,U
 PCTNF,Picton Ppty Income Ltd Shs (Guersey),U
+PCTTU,"PureCycle Technologies, Inc. Unit",NASDAQ
+PCTTW,"PureCycle Technologies, Inc. Warrant",NASDAQ
 PCTY,Paylocity Holding Corporation Common Stock,NASDAQ
 PCTZF,BRAVERN VENTURES LTD  Common Shares,U
 PCVFF,PACE DEV CORP PUB CO LTD Unit Non Voting Depository Receipt (Thailand),U
@@ -3545,7 +3562,6 @@ QELLU,Qell Acquisition Corp. Unit,NASDAQ
 QELLW,Qell Acquisition Corp. Warrant,NASDAQ
 QEMM,SPDR MSCI Emerging Markets StrategicFactors ETF,ARCA
 QENC,Queench Inc Common Stock,U
-QEP,"QEP RESOURCES, INC.",NYSE
 QEPC,"Q.E.P. Co., Inc. Common Stock",U
 QEXXF,Quattro Exploration and Production Common Shares (Canada),U
 QFEEF,Quickfee Ltd Ordinary Shares (Australia),U
@@ -3710,6 +3726,7 @@ RAAS,"Cloopen Group Holding Limited American Depositary Shares, each representin
 RAAX,VanEck Vectors Real Asset Allocation ETF,ARCA
 RABSF,RREF II AL BRECK SOCIMI S A U Ordinary Shares,U
 RACA,Therapeutics Acquisition Corp. Class A Common Stock,NASDAQ
+RACB,Research Alliance Corp. II Class A Common Stock,NASDAQ
 RACE,Ferrari N.V.,NYSE
 RACMF,"Loop Insights, Inc. Common Shares",U
 RAD,Rite Aid Corporation,NYSE
@@ -3984,6 +4001,7 @@ RETL,Direxion Daily Retail Bull 3X Shares,ARCA
 RETO,"ReTo Eco-Solutions, Inc. Common Shares",NASDAQ
 REV,"Revlon, Inc.",NYSE
 REVG,"REV Group, Inc.",NYSE
+REVHU,Revolution Healthcare Acquisition Corp. SAIL Units,NASDAQ
 REVNF,Reinet Investment SCA Ordinary Shares (Luxembourg),U
 REVS,Columbia Research Enhanced Value ETF,ARCA
 REVSF,Riverstone Holdings Ltd. Ordinary Shares (Singapore),U
@@ -4195,7 +4213,6 @@ RLGDF,Real Good Food PLC Ordinary Shares (United Kingdom),U
 RLGMF,West Red Lake Gold Mines Inc. Ordinary Shares (Canada),U
 RLGT,"Radiant Logistics, Inc.",AMEX
 RLGY,REALOGY HOLDINGS CORP.,NYSE
-RLH,Red Lions Hotel Corporation,NYSE
 RLHCY,RECALL HLDGS LTD  American Depositary Receipts - Unsponsored (Australia),U
 RLI,RLI Corp.,NYSE
 RLJ,RLJ Lodging Trust,NYSE
@@ -4336,9 +4353,6 @@ ROCAF,Roca Mines Inc Ordinary Shares (Canada),U
 ROCC,Roth CH Acquisition II Co. Common Stock,NASDAQ
 ROCCU,Roth CH Acquisition II Co. Unit,NASDAQ
 ROCCW,Roth CH Acquisition II Co. Warrant,NASDAQ
-ROCH,Roth CH Acquisition I Co. Common Stock,NASDAQ
-ROCHU,Roth CH Acquisition I Co. Unit,NASDAQ
-ROCHW,Roth CH Acquisition I Co. Warrant,NASDAQ
 ROCK,"Gibraltar Industries, Inc. Common Stock",NASDAQ
 ROCLF,"Royal Olympic Cruise Lines, Inc. Ordinary Shares (Liberia)",U
 ROCRU,Roth CH Acquisition III Co. Unit,NASDAQ
@@ -5378,14 +5392,3 @@ SHHPF,Ship Healthcare Holdings Inc Ordinary Shares (Japan),U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,Shinohara System of Construction Co Ltd Fukuoka Ordinary Shares (Japan),U
-SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
-SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
-SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
-SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
-SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
-SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
-SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
-SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ

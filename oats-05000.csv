@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
@@ -1072,7 +1073,9 @@ DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,NASDAQ
 DHCNL,Diversified Healthcare Trust 6.25% Senior Notes Due 2046,NASDAQ
 DHF,BNY Mellon High Yield Strategies Fund,NYSE
 DHGAF,DOMAIN HLDGS AUSTRALIA LTD Ordinary Fully Paid (Australia),U
+DHHC,DiamondHead Holdings Corp. Class A Common Stock,NASDAQ
 DHHCU,DiamondHead Holdings Corp. Unit,NASDAQ
+DHHCW,DiamondHead Holdings Corp. Warrant,NASDAQ
 DHHXF,Desarrolladora Homex SA de CV Ordinary Shares (Mexico),U
 DHI,D.R. Horton Inc.,NYSE
 DHIL,"Diamond Hill Investment Group, Inc. Class A Common Stock",NASDAQ
@@ -1322,7 +1325,9 @@ DNTUF,Dentsu Group Inc Common Shares,U
 DNTUY,Dentsu Group Inc. American Depositary Receipts - Unsponsored,U
 DNVB,Denver Bankshares Inc Common Stock,U
 DNXG,DONGXING INTL INC Common Stock,U
+DNZ,D and Z Media Acquisition Corp.,NYSE
 DNZ U,"D and Z Media Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-",NYSE
+DNZ WS,"D and Z Media Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Co",NYSE
 DNZOF,Denso Corp Ltd Ord Ordinary Shares,U
 DNZOY,Denso Corp Ltd Ord American Depositary Shares,U
 DOC,PHYSICIANS REALTY TRUST,NYSE
@@ -1611,7 +1616,6 @@ DWAW,AdvisorShares Trust AdvisorShares Dorsey Wright FSM All Cap World ETF,NASDA
 DWCR,Arrow Investments Trust Arrow DWA Country Rotation ETF,NASDAQ
 DWDZF,Jeotex Inc Ordinary Shares,U
 DWEQ,AdvisorShares Trust AdvisorShares Dorsey Wright Alpha Equal Weight ETF,NASDAQ
-DWFI,SPDR Series Trust SPDR Dorsey Wright Fixed Income Allocation ETF,NASDAQ
 DWHHF,Deutsche Wohnen AG Ordinary Shares (Germany),U
 DWIN,Delwinds Insurance Acquisition Corp.,NYSE
 DWIN U,"Delwinds Insurance Acquisition Corp. Units, each consisting of one share of Class A common stock, an",NYSE
@@ -2090,7 +2094,6 @@ ELKMF,Gold Road Resources Ltd. Ordinary Shares (Australia),U
 ELLH,Elah Hldgs Inc Common Stock,U
 ELLKF,Ellaktor SA Ordinary Shares (Greece),U
 ELLKY,Ellaktor SA Unsponsored ADR (Greece),U
-ELLMF,Elementia SA De CV Ordinary Shares of Financial Groups and Industrial Retail (Mexico),U
 ELLO,Ellomay Capital LTD,AMEX
 ELLRY,ElringKlinger AG American Depositary Receipts - Unsponsored (Germany),U
 ELLXF,Elixinol Global Ltd Ordinary Shares (Australia),U
@@ -3570,6 +3573,7 @@ FMHI,First Trust Exchange-Traded Fund III First Trust Municipal High Income ETF,
 FMHS,"Farmhouse, Inc. Common Stock",U
 FMIA,First Miami Bancorp Inc Common Stock,U
 FMIL,Fidelity New Millennium ETF,BATS
+FMIVU,Forum Merger IV Corporation Unit,NASDAQ
 FMMFF,Fuji corp Ordinary Shares,U
 FMN,Federated Hermes Premier Municipal Income Fund,NYSE
 FMNB,Farmers National Banc Corp. Common Stock,NASDAQ
@@ -3997,6 +4001,7 @@ FTHI,First Trust Exchange-Traded Fund VI First Trust BuyWrite Income ETF,NASDAQ
 FTHM,Fathom Holdings Inc. Common Stock,NASDAQ
 FTHY,First Trust High Yield Opportunities 2027 Term Fund,NYSE
 FTI,TechnipFMC plc Ordinary Share,NYSE
+FTIIP,FORTRESS TRANSN & INFRASTRUCTURE INVS LLC CUM PERP RED PFD SER C FIXED/FLTG Preferred Stock,U
 FTIV,FinTech Acquisition Corp. IV Class A Common Stock,NASDAQ
 FTIVU,FinTech Acquisition Corp. IV Unit,NASDAQ
 FTIVW,FinTech Acquisition Corp. IV Warrant,NASDAQ
@@ -4208,6 +4213,7 @@ GAMCU,Golden Arrow Merger Corp. Unit,NASDAQ
 GAMN,"Great American Food Chain, Inc. (The) Common Stock",U
 GAMR,Wedbush ETFMG Video Game Tech ETF,ARCA
 GAN,GAN Limited Ordinary Shares,NASDAQ
+GANX,"Gain Therapeutics, Inc. Common Stock",NASDAQ
 GAPA U,"G&P Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of on",NYSE
 GAPJ,"Golden Apple Oil & Gas, Inc. Common Stock",U
 GARB,Garb Oil & Power Corporation Common Stock,U
@@ -4530,6 +4536,7 @@ GGLDF,Getchell Gold Corporation Common Shares (Canada),U
 GGLT,"Giant Group, Ltd. Common Stock",U
 GGLXF,GGL Resources Corporation Ordinary Shares,U
 GGM,GUGGENHEIM CREDIT ALLOCATION FUND,NYSE
+GGMCU,Glenfarne Merger Corp. Unit,NASDAQ
 GGN,"GAMCO Global Gold, Natural Resources & Income Trust",AMEX
 GGN PRB,GAMCO Global Gold Natural Resources & Income Trust 5.00% Series B,AMEX
 GGNDF,GN Great Nordic Ltd Ordinary Shares,U
@@ -4595,6 +4602,7 @@ GIGL,"Giggles N' Hugs, Inc. Common Stock",U
 GIGM,GigaMedia Limited Ordinary Shares,NASDAQ
 GIGNF,GENTING SINGAPORE LTD Ordinary Shares,U
 GIGNY,Genting Singapore Limited American Depositary Receipts - Unsponsored,U
+GIGW,GIGWORLD INC. Common Stock,U
 GII,SPDR S&P Global Infrastructure ETF,ARCA
 GIII,"G-III Apparel Group, LTD. Common Stock",NASDAQ
 GIIXU,"Gores Holdings VIII, Inc. Unit",NASDAQ
@@ -4729,6 +4737,7 @@ GLPGF,Galapagos NV Ordinary Shares,U
 GLPH,"Gala Pharmaceutical, Inc. Common Stock",U
 GLPI,"Gaming and Leisure Properties, Inc. Common Stock",NASDAQ
 GLPJF,GLP J REIT SHS (Japan),U
+GLPRP,Global Partners LP Red Perp Preferred Unit Ser B Fixed/Fltg,U
 GLPT,Global Profit Technologies Inc FL Common Stock,U
 GLQ,Clough Global Equity Fund,AMEX
 GLRE,"Greenlight Capital Re, Ltd. Class A Ordinary Shares",NASDAQ
@@ -5303,6 +5312,7 @@ GTPAU,"Gores Technology Partners, Inc. Units",NASDAQ
 GTPBU,"Gores Technology Partners II, Inc. Units",NASDAQ
 GTPS,"Great American Bancorp, Inc. (DE) Common Stock",U
 GTRL,"Get Real USA, Inc Common Stock",U
+GTRR,GLOBAL TIRE RECYCLING SUMTER CNTY INC Common Stock,U
 GTS,Triple-S Management Corporation,NYSE
 GTSIF,LOBE SCIENCES LTD Common Stock,U
 GTSO,"Green Technology Solutions, Inc. Common Stock",U
@@ -5383,9 +5393,3 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
-GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
-GWON,Grandwon Corp. Common Stock,U

@@ -1,4 +1,10 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
+GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
+GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
 GWPD,"GP Solutions, Inc. Common Stock",U
@@ -195,8 +201,10 @@ HCI,"HCI Group, Inc.",NYSE
 HCIC,Hennessy Capital Investment Corp. V Class A Common Stock,NASDAQ
 HCICU,Hennessy Capital Investment Corp. V Units,NASDAQ
 HCICW,Hennessy Capital Investment Corp. V Warrant,NASDAQ
+HCII,Hudson Executive Investment Corp. II Class A Common Stock,NASDAQ
 HCIIP,"HCI Group, Inc. 7% Series A Cumulative Redeemable Preferred Stock",U
 HCIIU,Hudson Executive Investment Corp. II Unit,NASDAQ
+HCIIW,Hudson Executive Investment Corp. II Warrant,NASDAQ
 HCKG,"Hocking Valley Bancshares, Inc (OH) Common Shares",U
 HCKT,Hackett Group Inc (The). Common Stock,NASDAQ
 HCLC,Health Chemical Corporation Common Stock,U
@@ -811,7 +819,6 @@ HT PRD,Hersha Hospitality Trust    6.50% Series D Cumulative Redeemable Preferre
 HT PRE,Hersha Hospitality Trust 6.50% Series E Cumulative Redeemable Preferred Shares of Beneficial Interes,NYSE
 HTA,"HEALTHCARE TRUST OF AMERICA, INC.",NYSE
 HTAB,Hartford Schroders Tax-Aware Bond ETF,ARCA
-HTBC,HotApp Blockchain Inc. Common Stock,U
 HTBI,"HomeTrust Bancshares, Inc. Common Stock",NASDAQ
 HTBK,Heritage Commerce Corp Common Stock,NASDAQ
 HTBX,"Heat Biologics, Inc. Common Stock",NASDAQ
@@ -996,6 +1003,7 @@ HYMLF,Hyundai Motor Co Ltd Ordinary Shares,U
 HYMOF,Hyundai Motor Co Ltd Pfd Shs Issued 1999 (South Korea),U
 HYMPF,Hyundai Motor Co Ltd PFD Shares Non-Voting,U
 HYMTF,Hyundai Motor Co Ltd Global Depositary Shares,U
+HYMU,BlackRock High Yield Muni Income Bond ETF,BATS
 HYPBY,Hypebeast Limited American Depositary Receipts - Sponsored,U
 HYPF,"Hypower Fuel, Inc. New Common Stock",U
 HYPLF,Hyundai Mobis Co Ltd  Ordinary Shares (South Korea),U
@@ -1702,6 +1710,7 @@ INM,InMed Pharmaceuticals Inc. Common Shares,NASDAQ
 INMB,INmune Bio Inc. Common stock,NASDAQ
 INMD,InMode Ltd. Ordinary Shares,NASDAQ
 INMNF,Inca Minerals Ltd Ordinary Shares (Australia),U
+INMU,BlackRock Intermediate Muni Income Bond ETF,ARCA
 INN,"Summit Hotel Properties, Inc.",NYSE
 INN PRD,"Summit Hotel Properties, Inc. 6.45% Series D Cumulative Redeemable Preferred Stock",NYSE
 INN PRE,"Summit Hotel Properties, Inc. 6.250% Series E Cumulative Redeemable Preferred Stock",NYSE
@@ -3329,6 +3338,8 @@ KVLE,KFA Value Line Dynamic Core Equity Index ETF,ARCA
 KVLQF,ValOre Metals Corp Common Shares,U
 KVMD,"Kelvin Medical, Inc. Common Stock",U
 KVSA,Khosla Ventures Acquisition Co. Class A Common Stock,NASDAQ
+KVSB,Khosla Ventures Acquisition Co. II Class A Common Stock,NASDAQ
+KVSC,Khosla Ventures Acquisition Co. III Class A Common Stock,NASDAQ
 KW,"KENNEDY-WILSON HOLDINGS, INC.",NYSE
 KWAC,Kingswood Acquisition Corp.,NYSE
 KWAC U,"Kingswood Acquisition Corp. Units, each consisting of one share of Class A Common Stock and three-fo",NYSE
@@ -3504,6 +3515,7 @@ LDDAF,Lida Resources Inc. Common Stock (Canada),U
 LDDFF,Liberty Defense Holdings Ltd Common Shares (Canada),U
 LDEM,iShares Trust iShares ESG MSCI EM Leaders ETF,NASDAQ
 LDGYY,Landis Gyr Group AG - Unsponsored ADR (Switzerland),U
+LDHAU,LDH Growth Corp I Units,NASDAQ
 LDHOF,"Land and House Public Co., Ltd. LH Shares Foreign Registered (Thailand)",U
 LDHUF,Land and House Public Co Ltd NVDR Shares (Thailand),U
 LDI,"loanDepot, Inc.",NYSE
@@ -3656,6 +3668,7 @@ LGTHF,Cimic Group LTD Ordinary Shares,U
 LGTS,Lightspace Corporation Common Stock,U
 LGTT,"LIGATT Security International, Inc. Common Stock",U
 LGUPF,LG Uplus Corp Ordinary Shares (South Korea),U
+LGV U,"Longview Acquisition Corp. II Units, each consisting of one share of Class A Common Stock and one-fi",NYSE
 LGVN,Longeveron Inc. Class A Common Stock,NASDAQ
 LGYRF,Landis & Gyr Group AG Namen AKT (Switzerland),U
 LGYV,LEGACY VENTURES INTL INC Common Stock,U
@@ -3766,7 +3779,9 @@ LLY,Eli Lilly & Co.,NYSE
 LMACA,Liberty Media Acquisition Corporation Series A Common Stock,NASDAQ
 LMACU,Liberty Media Acquisition Corporation Unit,NASDAQ
 LMACW,Liberty Media Acquisition Corporation Warrants,NASDAQ
+LMAO,LMF Acquisition Opportunities Inc. Class A common stock,NASDAQ
 LMAOU,LMF Acquisition Opportunities Inc. Unit,NASDAQ
+LMAOW,LMF Acquisition Opportunities Inc. Warrant,NASDAQ
 LMAT,"LeMaitre Vascular, Inc. Common Stock",NASDAQ
 LMB,"Limbach Holdings, Inc. Common Stock",NASDAQ
 LMBHW,"Limbach Holdings, Inc Warrant 07/20/2021",U
@@ -4799,6 +4814,7 @@ MJLB,"Ultrack Systems, Inc. Common Stock",U
 MJNA,"Medical Marijuana, Inc. Common Stock",U
 MJNE,"MJ Holdings, Inc.  Common Stock",U
 MJO,MicroSectors Cannabis 2X Leveraged ETNs,ARCA
+MJPNF,Micronics Japan Co Ltd Ordinary Shares,U
 MJSCZ,Majectic Holdco LLC Unit,U
 MJTK,"CannaSys, Inc. Common Stock",U
 MJTV,"Michael James Enterprises, Inc. Common Stock",U
@@ -5376,16 +5392,3 @@ MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U
-MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
-MTG,MGIC Investment Corp.,NYSE
-MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
-MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
-MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
-MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
-MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
-MTH,Meritage Homes Corporation,NYSE
-MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
-MTHRF,"M3, Inc. Ordinary Shares (Japan)",U
-MTHRY,"M3, INC.  American Depositary Receipts - Unsponsored  Japan(JP )",U
-MTIRF,MITHRIL RESOURCES LTD SHS (Australia),U

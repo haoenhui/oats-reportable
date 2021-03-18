@@ -1,4 +1,15 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
+SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
+SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
+SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
+SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
+SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
+SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
 SHLDQ,Sears Holdings Corporation Common Stock,U
 SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
 SHLOQ,"Shiloh Industries, Inc. Common Stock",U
@@ -420,7 +431,6 @@ SMED,Sharps Compliance Corp. Common Stock,NASDAQ
 SMEGF,Siemens Energy AG Ord (Germany),U
 SMEV,Simulated Environment Concepts Inc Common Stock,U
 SMEYF,Smart Employee Benefits Inc Common Shares (Canada),U
-SMEZ,SPDR EURO STOXX Small Cap ETF,ARCA
 SMFG,"Sumitomo Mitsui Financial Group, Inc",NYSE
 SMFKY,Smurfit Kappa Group Plc American Depositary Shares (Dublin),U
 SMFNF,Sumitomo Mitsui Financial Group Inc Ordinary Shares (Japan),U
@@ -1085,8 +1095,10 @@ SRWDF,SHERWOOD CORP THAILAND PUB CO LTD NVDR SHARES Thailand(TH ),U
 SRWRF,Solarworld Ag Ordinary Shares,U
 SRXXF,Sparx Asset Management Co Ltd Sparx Asset Management Co Ltd (Japan),U
 SRYB,Surrey Bancorp (NC) Common Stock,U
+SSAA,Science Strategic Acquisition Corp. Alpha Class A Common Stock,NASDAQ
 SSAAF,Ssab Swedish Steel A Sh Sk25 P Ordinary Shares,U
 SSAAU,Science Strategic Acquisition Corp. Alpha Unit,NASDAQ
+SSAAW,Science Strategic Acquisition Corp. Alpha Warrant,NASDAQ
 SSAAY,Ssab Swedish Steel A Sh Sk25 P Unsponsored ADR (Sweden),U
 SSB,South State Corporation Common Stock,NASDAQ
 SSBI,Summit State Bank Common Stock,NASDAQ
@@ -1615,11 +1627,9 @@ SYBX,"Synlogic, Inc. Common Stock",NASDAQ
 SYCHF,Sanyo Chemical Industries Ltd Ordinary Shares (Japan),U
 SYCRF,Syncora Holdings Ltd Common Stock (Bermuda) USD,U
 SYDDF,Sydney Airport Stapled Security (Austrailia),U
-SYE,SPDR MFS Systematic Core Equity ETF of  SSgA Active  Trust,ARCA
 SYEV,"Seychelle Environmental Technologies, Inc. Common Stock",U
 SYF,SYNCHRONY FINANCIAL,NYSE
 SYF PRA,"Synchrony Financial Depositary Shares, each Representing a 1/40th Interest in a Share of 5.625% Fixe",NYSE
-SYG,SPDR MFS Systematic Growth Equity ETF of SSgA Active Trust,ARCA
 SYGGF,Synairgen PLC Ordinary Shares,U
 SYHBF,Skyharbour Resources Ltd Ordinary Shares,U
 SYHLF,Symphony Holdings Ltd Ordinary Shares (Bermuda),U
@@ -1655,7 +1665,6 @@ SYTA,"Siyata Mobile, Inc. Common Shares",NASDAQ
 SYTAW,"Siyata Mobile, Inc. Warrant",NASDAQ
 SYTE,"Enterprise Diversified, Inc. Common Stock",U
 SYUP,"ANBC, INC. Common Stock",U
-SYV,SPDR MFS Systematic Value Equity ETF of SSgA Active Trust,ARCA
 SYVC,"Synovics Pharmaceuticals, Inc. Common Stock",U
 SYVN,"Sycamore Ventures, Inc. Common Stock",U
 SYX,Systemax Inc.,NYSE
@@ -2953,6 +2962,7 @@ TUSK,"Mammoth Energy Services, Inc. Common Stock",NASDAQ
 TUWLF,Tullow Oil Plc (United Kingdom) Tullow Oil Plc Ord (United Kingdom),U
 TUWOY,Tullow Oil Plc Unsponsored ADR (United Kingdom),U
 TUXS,Tuxis Corporation Common Stock,U
+TUYA,"Tuya Inc. American Depositary Shares, each representing one Class A Ordinary Share",NYSE
 TUYIF,TU YI HLDG CO LTD Ordinary Shares,U
 TV,Grupo Televisa S.A.,NYSE
 TVAC,Thayer Ventures Acquisition Corporation Class A Common Stock,NASDAQ
@@ -3580,7 +3590,7 @@ VACNY,VAT Group AG American Depositary Receipts - Unsponsored (Switzerland),U
 VACQ,Vector Acquisition Corporation Class A Common Stock,NASDAQ
 VACQU,Vector Acquisition Corporation Unit,NASDAQ
 VACQW,Vector Acquisition Corporation Warrant,NASDAQ
-VADP,Vado Corp Common Stock,U
+VADPD,"TradeFan, Inc. Common Stock",U
 VAIAF,Vaisala Oy Ordinary Shares -A- (Finland),U
 VALE,VALE S.A.,NYSE
 VALPQ,VALARIS PLC Ordinary Shares,U
@@ -4578,7 +4588,6 @@ WMDH,WMD Holdings Group Inc Common Stock,U
 WMDL,Worldmodal Network Services Inc Common Stock,U
 WMELF,Westmount Energy Ltd Ordinary Shares (Jersey),U
 WMG,Warner Music Group Corp. Class A Common Stock,NASDAQ
-WMGEF,Winchester Minerals & Gold Exploration Ltd Ordinary Shares (Canada),U
 WMGPF,"Williams Grand Prix Holdings Plc, Wantage German Cert Ordinary Shares (United Kingdom)",U
 WMGR,"Wellness Matrix Group, Inc. Common Stock",U
 WMGTF,Wilmington Group Plc Ordinary Shares (United Kingdom),U
@@ -5212,7 +5221,6 @@ ZAZA,ZAZA ENERGY CORP Common Stock undefined,U
 ZBH,"Zimmer Biomet Holdings, Inc.",NYSE
 ZBISF,Zenabis Global Inc. Ordinary Shares (Canada),U
 ZBRA,Zebra Technologies Corporation Class A Common Stock,NASDAQ
-ZCAN,SPDR Solactive Canada ETF,ARCA
 ZCBD,"Body Basics, Inc. Common Stock",U
 ZCMD,Zhongchao Inc. Class A Ordinary Shares,NASDAQ
 ZCOM,"Impreso, Inc. Common Stock",U
@@ -5220,7 +5228,6 @@ ZCPRF,Zinccorp Res Inc Common shares (Canada),U
 ZCRMF,Zincore Metals Inc Common Shares,U
 ZDAOF,Zhidao International Holdings Ltd,U
 ZDEC,Zenovia Digital Exchange Corporation Common Stock,U
-ZDEU,SPDR Solactive Germany ETF,ARCA
 ZDEXF,"Sintana Energy, Inc.  Ordinary Shares",U
 ZDGE,"Zedge, Inc.",AMEX
 ZDGGF,Zoo Digital Group Plc Ordinary Shares (United Kingdom),U
@@ -5241,7 +5248,6 @@ ZFPPF,Zambeef Product Plc Ordinary Shares (Zambia),U
 ZFSVF,Zurich Insurance Group AG Ordinary Shares,U
 ZG,"Zillow Group, Inc. Class A Common Stock",NASDAQ
 ZGBEF,"2G Bio-Energietechnik AG, Heek Ordinary Shares (Federal Republic of Germany)",U
-ZGBR,SPDR Solactive United Kingdom ETF,ARCA
 ZGCO,"Ziegler Companies, Inc. (The) Common Stock",U
 ZGNX,"Zogenix, Inc. Common Stock",NASDAQ
 ZGSI,"Zero Gravity Solutions, Inc. Common Stock",U
@@ -5257,7 +5263,6 @@ ZHEIF,ZHOU HEI YA INTL HLDGS CO LTD Shs (Cayman Islands),U
 ZHEXF,Zhejiang Southeast Electric Power-B Ordinary Shares,U
 ZHHHF,Zhuhai Holdings Investment Group Ltd. Ordinary Shares (Bermuda),U
 ZHHJY,Zhejiang Shibao Co Ltd Unsponsored ADR (China),U
-ZHOK,SPDR Solactive Hong Kong ETF,ARCA
 ZHSHF,ZHONGSHENG GROUP HOLDING LTD Ordinary Shares Cayman Islands(KY ),U
 ZHUD,Zhuding International Limited Common Stock,U
 ZHUZF,"Zhuzhou CRRC Times Electric Co., Ltd.   Ordinary Shares",U
@@ -5282,7 +5287,6 @@ ZIVO,"Zivo Bioscience, Inc. Common Stock",U
 ZIVZF,Credit Suisse AG Nassau Brh VelocityShares Daily Inverse VIX Lkd to S&P 500 Medium Term ETN,U
 ZIXI,Zix Corporation Common Stock,NASDAQ
 ZIZTF,Zip co Ltd Ordinary Fully Paid (Australia),U
-ZJPN,SPDR Solactive Japan ETF,ARCA
 ZKBGF,ZKB Gold Corporate (Switzerland),U
 ZKBHF,ZKB Gold ETF Shares Hldgs Class A (Switzerland),U
 ZKBSF,ZKB Silver ETF Ordinary Shares (Switzerland),U
