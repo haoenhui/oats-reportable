@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
 MTG,MGIC Investment Corp.,NYSE
@@ -923,7 +925,6 @@ NRFTF,THAI NVDR CO LTD NVDR SHARES (Thailand),U
 NRG,"NRG Energy, Inc.",NYSE
 NRGD,MicroSectors US Big Oil -3x Inverse Leveraged ETN,ARCA
 NRGIY,Neoenergia SA American Depositary Receipts - Unsponsored,U
-NRGMF,Lithium South Dev Corp Ordinary Shares,U
 NRGOF,Newrange Gold Corp Common Shares,U
 NRGSP,Narragansett Electric Company 4.50% Preferred Stock,U
 NRGT,Energy Today Inc. Common Stock,U
@@ -1316,7 +1317,7 @@ NXTFF,Nextraction Energy Corp Ordinary Shares,U
 NXTG,First Trust Indxx NextG ETF,NASDAQ
 NXTH,"NXT Nutritionals Holdings, Inc. Common Stock",U
 NXTN,"Next10, Inc. Common Stock",U
-NXTOF,Nexstim OYJ Sub Rights (Finland),U
+NXTOF,NEXSTIM OYJ Rights   05/31/2021,U
 NXTTF,Namaste Technologies Inc Ordinary Shares (Canada) Common Shares,U
 NXTUF,FIRST TR GLOBAL FDS PLC SHS CLASS -A- JPY ETF (Ireland),U
 NXTYQ,Nexity Financial Corporation Common Stock,U
@@ -2368,6 +2369,7 @@ PG,Procter & Gamble Company,NYSE
 PGAI,P G I Inc Common Stock,U
 PGAL,Global X MSCI Portugal ETF,ARCA
 PGAS,"Petrogress, Inc Common Stock",U
+PGBHF,PPB Group Bhd Ordinary Shares (Malaysia),U
 PGC,Peapack-Gladstone Financial Corporation Common Stock,NASDAQ
 PGCG,Prime Global Capital Group Incorporated .  Common Stock,U
 PGCMF,"Puregold Price Club Inc, Manila Ordinary Shares (Phillippines)",U
@@ -2948,6 +2950,7 @@ PRDSY,Prada Spa Unsponsored ADR (Italy),U
 PRE PRG,"PartnerRe Ltd.  6.50% Series G Cumulative Redeemable Preferred Shares, $1.00 par value",NYSE
 PRE PRH,"PartnerRe Ltd. 7.25% Series H Cumulative Redeemable Preferred Shares, $1.00 par value",NYSE
 PRE PRI,"PartnerRe Ltd.  5.875% Series I Non-Cumulative Redeemable Preferred Shares, $1.00 par value",NYSE
+PRE PRJ,"PartnerRe Ltd. 4.875% Fixed Rate Non-Cumulative Redeemable Preferred Shares, Series J",NYSE
 PREC,Prestige Cars International Common Stock,U
 PRED,"Predictive Technology Group, Inc. Common Stock",U
 PREF,Principal Spectrum Preferred Securities Active ETF,ARCA
@@ -3296,7 +3299,6 @@ PTNAF,PT Bank Cimb Niaga RBK Series A Ordinary Shares (Indonesia),U
 PTNDF,PT Vale Indonesia TBK Ordinary Shares (Indonesia),U
 PTNDY,PT Vale Indonesia Tbk. Unsponsored ADR (Indonesia),U
 PTNL,PLANTATION CORP WY Common Stock,U
-PTNPF,PARTNERRE LTD FXD RATE NON-CUMULATIVE REDEEMABLE PFD SHS SER J (Bermuda),U
 PTNQ,Pacer Trendpilot 100 ETF,BATS
 PTNR,Partner Communications Company Ltd. American Depositary Shares,NASDAQ
 PTNUF,"Platina Resources Ltd, Perth Wa Ordinary Shares (Australia)",U
@@ -3750,6 +3752,7 @@ RAIO,"Radioio, Inc. Common Stock",U
 RAKR,Rainmaker Worldwide Inc. Common Stock,U
 RALS,ProShares RAFI Long/Short,ARCA
 RAMMF,Ramm Pharma Corp Common Shares (Canada),U
+RAMMU,Aries I Acquisition Corporation Unit,NASDAQ
 RAMP,"LiveRamp Holdings, Inc. Common Stock",NYSE
 RAMPF,POLARIS INFRASTRUCTURE INC  Common Shares,U
 RAND,Rand Capital Corporation Common Stock,NASDAQ
@@ -4720,6 +4723,7 @@ SAFS,"Safer Shot, Inc. Common Stock",U
 SAFT,"Safety Insurance Group, Inc. Common Stock",NASDAQ
 SAGD,South American Gold Corp. Common Stock,U
 SAGE,"Sage Therapeutics, Inc. Common Stock",NASDAQ
+SAGGF,Sterling Metals Corp Common Shares,U
 SAGKF,Stagecoach Group Plc Ords Ordinary Shares (UK),U
 SAH,"Sonic Automotive, Inc.",NYSE
 SAHAF,SAHA PATHANAPIBUL PUBLIC CO LTD UNITS NON -VOTING DEPOSITORY RECEIPT (Thailand),U

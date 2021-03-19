@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
@@ -511,6 +514,7 @@ HLOC,Helo Corp. Common Stock,U
 HLOGF,HELIUM ONE GLOBAL LTD Ordinary Shares,U
 HLOI,"Previsto International Holdings, Inc. Common Stock",U
 HLOSF,HEALIOS K K COM STK (Japan),U
+HLPMF,Hellenic Petroleum SA Ordinary Shares (Greece),U
 HLPPF,Hang Lung Properties Ltd Ordinary Shares,U
 HLPPY,Hang Lung Properties Ltd American Depositary Shares,U
 HLPXF,Hellenic Petroleum SA Sponsored GDR Reg S (Greece),U
@@ -2133,7 +2137,9 @@ ITGR,Integer Holdings Corporation,NYSE
 ITHDF,Italian Thai Development Public Co Ltd Ordinary Shares Foreign Registered (Thailand),U
 ITHUF,"Ianthus Capital Holdings, Inc. Ordinary Shares (Canada)",U
 ITHVF,ITALIAN-THAI DEVELOPMENT PUBLIC CO LTD SHS (Thailand),U
+ITHX,ITHAX Acquisition Corp. Class A Ordinary Shares,NASDAQ
 ITHXU,ITHAX Acquisition Corp. Unit,NASDAQ
+ITHXW,ITHAX Acquisition Corp. Warrant,NASDAQ
 ITI,"Iteris, Inc. Common Stock",NASDAQ
 ITIC,Investors Title Company Common Stock,NASDAQ
 ITJTY,Intrum AB American Depositary Receipts - Unsponsored,U
@@ -3144,7 +3150,7 @@ KODK,EASTMAN KODAK COMPANY,NYSE
 KOF,"Coca-Cola FEMSA, S.A.B DE C.V",NYSE
 KOGL,Kopp Glass Inc Common Stock,U
 KOGMD,KGL RES LTD Ordinary Shares,U
-KOIN,Capital Link NextGen Protocol ETF,ARCA
+KOIN,Capital Link Global Fintech Leaders ETF,ARCA
 KOJAF,Kojamo PLC Ordinary Shares (Finland),U
 KOKU,Xtrackers MSCI Kokusai Equity ETF,ARCA
 KOLD,ProShares UltraShort Bloomberg Natural Gas,ARCA
@@ -3426,7 +3432,6 @@ LASLY,Lentuo International Inc.,U
 LASR,"nLIGHT, Inc. Common Stock",NASDAQ
 LATF,Latteno Food Corp. NEW Common Stock,U
 LATN,Union Acquisition Corp. II Ordinary Shares,NASDAQ
-LATNF,Sterling Metals Corp Common Shares,U
 LATNU,Union Acquisition Corp. II Units containing one ordinary share and one redeemable warrant,NASDAQ
 LATNW,Union Acquisition Corp. II Warrant,NASDAQ
 LAUCF,Laurentian Bank Canada Que Preference Shares Series 13 (Canada),U
@@ -3720,6 +3725,7 @@ LIOPF,Lion Corp Ordinary Shares,U
 LIOPY,Lion Corp Unsponsored American Depository Receipt (Japan),U
 LIQDQ,LIQUID HLDGS GROUP INC Common Stock undefined,U
 LIQT,"LiqTech International, Inc. Common Stock",NASDAQ
+LISMF,Lithium South Dev Corp Ordinary Shares,U
 LIT,Global X Lithium & Battery Tech ETF,ARCA
 LITB,"LIGHTINTHEBOX HOLDING CO., LTD.",NYSE
 LITE,Lumentum Holdings Inc. Common Stock,NASDAQ
@@ -4098,6 +4104,7 @@ LVMUY,LVMH Moet Hennessy Louis Vuitton Unsponsored American Depositary Receipt (
 LVNSF,"Leonovus, Inc. Common Shares",U
 LVOL,American Century Low Volatility ETF,ARCA
 LVPR,LIGHTSTONE VALUE PLUS REAL ESTATE INVT TR II INC Common Stock,U
+LVRAU,Levere Holdings Corp. Unit,NASDAQ
 LVRLF,CordovaCann Corp. Common Shares,U
 LVRP,Liverpool Group Inc Common Stock,U
 LVS,Las Vegas Sands Corp.,NYSE
@@ -4415,7 +4422,6 @@ MCSHF,Metcash Ltd Ordinary Shares (Australia),U
 MCTH,"Medical Connections Holdings, Inc. Common Stock",U
 MCTYF,Microplanet Technology Corp Common Shares (Canada),U
 MCTZF,Mcot Public Co Ltd Units Non-Voting Depository Receipts (Thailand),U
-MCUIF,RISE Life Science Corp. Common Shares,U
 MCUJF,Medicure Inc. Ordinary Shares (Canada),U
 MCURF,Mind Cure Health Inc Common Stock (Canada),U
 MCVEF,Medicover AB Shares AK B (Sweden),U
@@ -5390,5 +5396,3 @@ MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U

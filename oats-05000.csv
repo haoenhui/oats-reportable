@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
@@ -347,7 +348,9 @@ CSSPF,Circassia Pharmaceutical Plc Ordinary Shares (United Kingdom),U
 CSSSF,Carsales.com Ltd Ordinary Shares (Australia),U
 CSSV,"Caspian Services, Inc. Common Stock",U
 CSSXF,China Shuifa Singyes Energy Holdings Limited Ordinary Shares,U
+CSTA,Constellation Acquisition Corp I,NYSE
 CSTA U,"Constellation Acquisition Corp I Units, each consisting of one Class A ordinary share and one-third",NYSE
+CSTA WS,"Constellation Acquisition Corp I Redeemable warrants, each whole warrant exercisable for one Class A",NYSE
 CSTC,CANNING STR CORP Common Stock,U
 CSTE,Caesarstone Ltd. Ordinary Shares,NASDAQ
 CSTI,"Costar Technologies, Inc. Common Stock",U
@@ -1167,7 +1170,6 @@ DKSC,Dakshidin Corporation Common Stock (NV),U
 DKSHF,DKSH Holding Ltd Ordindary shares (Switzerland) Namen-Akt,U
 DKSSF,Daiichikosho Co Ltd Ordinary Shares (Japan),U
 DKTS,Top Shelf Brands Holdings Corp.  Common Stock,U
-DL,China Distance Education Holdings Limited,NYSE
 DLA,Delta Apparel Inc.,AMEX
 DLAD,"DealerAdvance, Inc. Common Stock New",U
 DLAKF,Deutsche Lufthansa A G Ord Ordinary Shares,U
@@ -1809,7 +1811,6 @@ ECOZ,TrueShares ESG Active Opportunities ETF,ARCA
 ECPG,Encore Capital Group Inc Common Stock,NASDAQ
 ECPL,EcoPlus Inc.  Common Stock,U
 ECPN,"El Capitan Precious Metals, Inc. Common Stock",U
-ECRD,ECARD INC. Common Stock,U
 ECRFF,Cartier Resources Inc. (Canada) Common Shares,U
 ECRO,ECC Capital Corp. comm stock,U
 ECRP,Chee Corp Common Stock,U
@@ -1885,6 +1886,7 @@ EEGI,"Eline Entertainment Group, Inc. Common Stock",U
 EEGUF,Empire Energy Group Ltd Ordinary Shares (Australia),U
 EEH,ELEMENTS Linked to the SPECTRUM Large Cap U.S.Sector Momentum Index,ARCA
 EEHLF,Emperor Entertainment Hotel Limited Ordinary Shares,U
+EEIQ,Elite Education Group International Ltd. Common Stock,NASDAQ
 EEKAF,Eltek Asa Ordinary Shares,U
 EELV,Invesco S&P Emerging Markets Low Volatility ETF,ARCA
 EEM,iShares MSCI Emerging Markets ETF,ARCA
@@ -3606,6 +3608,7 @@ FNBRF,Finbar Group Ltd. Ordinary Shares (Australia),U
 FNBT,Finemark Holdings Inc Common Stock,U
 FNCB,FNCB Bancorp Inc. Common Stock,NASDAQ
 FNCDY,Covivio American Depositary Receipts - Unsponsored,U
+FNCH,"Finch Therapeutics Group, Inc. Common Stock",NASDAQ
 FNCHF,"FINEOS CORP HLDG PLC, CHESS DEPOSITARY INTERESTS 1 1 (Ireland)",U
 FNCIF,Financiere Moncey Common Stock (France),U
 FNCJF,Fancamp Exploration Ltd Ordinary Shares,U
@@ -3945,7 +3948,9 @@ FSRVU,FinServ Acquisition Corp. Unit,NASDAQ
 FSRVW,FinServ Acquisition Corp. Warrant,NASDAQ
 FSRXU,FinServ Acquisition Corp. II Unit,NASDAQ
 FSS,Federal Signal Corp.,NYSE
+FSSI,Fortistar Sustainable Solutions Corp. Class A Common Stock,NASDAQ
 FSSIU,Fortistar Sustainable Solutions Corp. Unit,NASDAQ
+FSSIW,Fortistar Sustainable Solutions Corp. Warrant,NASDAQ
 FSSLY,Fossal SAA American Depositary Receipts - Sponsored (Peru),U
 FSSN,Fision Corp Common Stock,U
 FSSTF,CI First Asset Morningstar CDA Momentum Index ETF Unit,U
@@ -4602,7 +4607,6 @@ GIGL,"Giggles N' Hugs, Inc. Common Stock",U
 GIGM,GigaMedia Limited Ordinary Shares,NASDAQ
 GIGNF,GENTING SINGAPORE LTD Ordinary Shares,U
 GIGNY,Genting Singapore Limited American Depositary Receipts - Unsponsored,U
-GIGW,GIGWORLD INC. Common Stock,U
 GII,SPDR S&P Global Infrastructure ETF,ARCA
 GIII,"G-III Apparel Group, LTD. Common Stock",NASDAQ
 GIIXU,"Gores Holdings VIII, Inc. Unit",NASDAQ
@@ -4684,6 +4688,7 @@ GLDM,SPDR Gold MiniShares,ARCA
 GLDRF,Idaho Champion Gold Mines Canada Inc. Ordinary Shares,U
 GLDXF,GOLD X MNG CORP Common Shares,U
 GLEC,Global Ecology Corporation Common Stock,U
+GLEEU,Gladstone Acquisition Corp. Unit,NASDAQ
 GLEO,Galileo Acquisition Corp.,NYSE
 GLEO U,"Galileo Acquisition Corp. Units, each consisting of one Ordinary Share and one Redeemable Warrant",NYSE
 GLEO WS,"Galileo Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Ordinary Share",NYSE
@@ -4915,6 +4920,7 @@ GNSG,"GNS Group, Inc. Common",U
 GNSS,Genasys Inc. Common Stock,NASDAQ
 GNT,"GAMCO Natural Resources, Gold & Income Trust",NYSE
 GNT PRA,"GAMCO Natural Resources, Gold & Income Trust 5.2 Percent Series A Cumulative Preferred Shares (Liqui",NYSE
+GNTGF,GENTING PLANTATIONS BHD Ordinary Shares,U
 GNTLF,Genetic Technologies Ltd Ordinary Shares,U
 GNTOF,Gentor Resources Inc. Common Shares,U
 GNTW,Globe Net Wireless Corp. Common Stock,U
@@ -5390,6 +5396,3 @@ GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U

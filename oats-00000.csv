@@ -334,6 +334,7 @@ ADEVF,ADEVINTA ASA Ordinary Shares (Norway),U
 ADEX,Adit EdTech Acquisition Corp,NYSE
 ADEX U,"Adit EdTech Acquisition Corp Units, each consisting of one share of common stock, and one-half of on",NYSE
 ADEX WS,"Adit EdTech Acquisition Corp Redeemable Warrants, each whole warrant exercisable for shares of commo",NYSE
+ADF U,"Aldel Financial Inc. Units, each consisting of one share of Class A common stock and one-half of one",NYSE
 ADFI,Anfield Dynamic Fixed Income ETF,BATS
 ADFJF,ADF Group Inc Sub Vtg Shs (Canada),U
 ADFS,"American Defense Systems, Inc Common Stock",U
@@ -1688,7 +1689,7 @@ ASCC,Aristocrat Group Corp Common Stock,U
 ASCCF,Asics Corporation Ordinary Shares,U
 ASCCY,Asics Corporation American Depositary Receipts (Unsponsored)(Japan),U
 ASCJF,American Shipping Company ASA Ordinary Shares (Norway),U
-ASCKD,AUSCRETE CORP Common Stock,U
+ASCK,AUSCRETE CORP Common Stock,U
 ASCLF,Ascletis Pharma Inc Ordinary Shares (Cayman Islands),U
 ASCN,Absecon Bancorp Common Stock,U
 ASCOF,Ascopiave SPA Treviso Ordinary Shares (Italy),U
@@ -2839,6 +2840,7 @@ BJAN,Innovator S&P 500 Buffer ETF - January,BATS
 BJCHF,Beijing Capital International Airport Co Ltd H Shs (China),U
 BJCHY,Beijing Capital International Airport Co Unsponsored ADR (China),U
 BJCLF,Beijing Capital Land Ltd Shs -H-,U
+BJECF,BEJING ENTERPRISES CLEAN ENERGY GROUP LTD Ordinary Shares,U
 BJGBF,BEIJING GAS BLUE SKY HLDGS LTD Ordinary Shares,U
 BJINF,Beijing Enterprises Holdings Limited Ordinary Shares,U
 BJK,VanEck Vectors Gaming ETF,NASDAQ
@@ -4612,7 +4614,6 @@ CHPGF,Chesapeake Gold Corp Ordinary Shares,U
 CHPM,CHP Merger Corp. Class A Common Stock,NASDAQ
 CHPMU,CHP Merger Corp. Unit,NASDAQ
 CHPMW,CHP Merger Corp. Warrant,NASDAQ
-CHPRF,"Champion Iron, Ltd. Ordinary Shares (Australia)",U
 CHPT,"ChargePoint Holdings, Inc.",NYSE
 CHPT WS,"ChargePoint Holdings, Inc. Warrants, exercisable for one share of Common Stock",NYSE
 CHPXF,China Pacific Insurance Group Co Ltd Shares -H- (Hong Kong),U
@@ -4673,6 +4674,7 @@ CI,CIGNA Corporation,NYSE
 CIA,"Citizens, Inc.",NYSE
 CIADF,China Mengniu Dairy Company Ltd Ordinary Shares (Cayman Islands),U
 CIADY,China Mengniu Dairy Company Ltd Unsponsored ADR (Cayman Islands),U
+CIAFF,"Champion Iron, Ltd. Ordinary Shares (Australia)",U
 CIAS,China Score Inc Common Stock,U
 CIAU,"CIAO Group, Inc. Common Stock",U
 CIB,Bancolombia S.A.,NYSE
@@ -4846,7 +4848,9 @@ CLIHF,CLS Holdings PLC Ordinary Shares (United Kingdom),U
 CLII,Climate Change Crisis Real Impact I Acquisition Corporation,NYSE
 CLII U,"Climate Change Crisis Real Impact I Acquisition Corporation Units, each consisting of one share of C",NYSE
 CLII WS,"Climate Change Crisis Real Impact I Acquisition Corporation Warrants, each whole warrant exercisable",NYSE
+CLIM,Climate Real Impact Solutions II Acquisition Corporation,NYSE
 CLIM U,"Climate Real Impact Solutions II Acquisition Corporation Units, each consisting of one share of Clas",NYSE
+CLIM WS,"Climate Real Impact Solutions II Acquisition Corporation Redeemable Warrants, each whole Warrant exe",NYSE
 CLIR,ClearSign Technologies Corporation Common Stock,NASDAQ
 CLIRF,"Clearford Water Systems, Inc. Ordinary Shares (Canada)",U
 CLIS,ClickStream Corporation. NEW Common Stock,U
@@ -5208,6 +5212,7 @@ CNSP,"CNS Pharmaceuticals, Inc. Common Stock",NASDAQ
 CNST,"Constellation Pharmaceuticals, Inc. Common Stock",NASDAQ
 CNSUF,Canasil Res Inc Unclassified,U
 CNSWF,Constellation Software Inc Common Shares (Canada),U
+CNTB,Connect Biopharma Holdings Limited American Depositary Shares,NASDAQ
 CNTCF,Contel Technology Co Ltd. Ordinary Shares (Cayman Islands),U
 CNTFY,China Techfaith Wireless Communication Technology Ltd. American Depositary Receipts - Sponsored (China),U
 CNTG,Centogene N.V. Common Shares,NASDAQ
@@ -5392,4 +5397,3 @@ CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
-CPFH,"Capital Financial Holdings, Inc. Common Stock",U
