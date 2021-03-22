@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
@@ -101,7 +102,6 @@ CRBBF,Corby Spirit and Wine Ltd Vtg Sh Cl B Ordinary Shares,U
 CRBJF,"China Resources Land, Ltd. Ordinary Shares (Cayman Islands) HKD",U
 CRBJY,"China Resources Land, Ltd. Unsponsored ADR (Cayman Islands)",U
 CRBKF,CAREBOOK TECHNOLOGIES INC NEW Common Shares,U
-CRBL,"Carbon Credit International, Inc Common Stock",U
 CRBN,iShares MSCI ACWI Low Carbon Target ETF,ARCA
 CRBO,Carbon Energy Corporation Common Stock,U
 CRBP,"Corbus Pharmaceuticals Holdings, Inc. Common Stock",NASDAQ
@@ -755,7 +755,7 @@ CZNC,Citizens & Northern Corp Common Stock,NASDAQ
 CZNI,Cruzani Inc. Common Stock,U
 CZNL,Citizens National Corporation (KY) Common Stock,U
 CZR,"Caesars Entertainment, Inc. Common Stock",NASDAQ
-CZSVF,GOLDCORE RES LTD Ordinary Shares,U
+CZSVF,Green Battery Minerals Inc Ordinary Shares,U
 CZWI,"Citizens Community Bancorp, Inc. Common Stock",NASDAQ
 D,"Dominion Energy, Inc Common Stock",NYSE
 DAAT,"DAC Technologies Group International, Inc. Common Stock",U
@@ -1202,7 +1202,7 @@ DLNG PRA,"Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred
 DLNG PRB,Dynagas LNG Partners LP 8.75% Series B Fixed to Floating Rate Cumulative Redeemable Perpetual Prefer,NYSE
 DLOC,"Digital Locations, Inc. Common Stock",U
 DLPN,"Dolphin Entertainment, Inc. Common Stock",NASDAQ
-DLPTF,Dalian Port PDA Company Ltd Shares -H- (China),U
+DLPTF,LIAONING PORT CO LTD Ordinary Shares,U
 DLPX,Delphax Technologies Inc. Common Stock,U
 DLR,"Digital Realty Trust, Inc.",NYSE
 DLR PRC,"Digital Realty Trust, Inc.  6.625 Percent Series C Cumulative Redeemable Perpetual Preferred Stock",NYSE
@@ -1227,6 +1227,7 @@ DM,"Desktop Metal, Inc.",NYSE
 DM WS,"Desktop Metal, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Com",NYSE
 DMAC,DiaMedica Therapeutics Inc. Common Stock,NASDAQ
 DMAN,"Demand Brands, Inc. Common Stock",U
+DMAR,FT Cboe Vest U.S. Equity Deep Buffer ETF - March,BATS
 DMAY,FT Cboe Vest U.S. Equity Deep Buffer ETF - May,BATS
 DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc.",NYSE
 DMCD,"Detwiler Fenton Group, Inc. Common Stock",U
@@ -2431,7 +2432,9 @@ EQGPF,Equitable Group Inc Ordinary Shares (Canada),U
 EQH,"Equitable Holdings, Inc.",NYSE
 EQH PRA,"Equitable Holdings, Inc. Depositary Shares, each representing a 1/1000th interest in a share of Fixe",NYSE
 EQH PRC,"Equitable Holdings, Inc. Depositary Shares, each representing a 1/1, 000th interest in a share of Fi",NYSE
+EQHA,EQ Health Acquisition Corp.,NYSE
 EQHA U,"EQ Health Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half",NYSE
+EQHA WS,"EQ Health Acquisition Corp. Redeemable Warrants, each exercisable for one share of Common Stock at a",NYSE
 EQINY,Equiniti Group PLC,U
 EQIX,"Equinix, Inc. Common Stock REIT",NASDAQ
 EQKR,EQK Realty Investors I Common Stock,U
@@ -3525,6 +3528,7 @@ FMAC WS,"FirstMark Horizon Acquisition Corp. Redeemable warrants, each whole war
 FMAG,Fidelity Magellan ETF,BATS
 FMANF,Freeman Gold Corp. Ordinary Shares (Canada),U
 FMAO,"Farmers & Merchants Bancorp, Inc. Common Stock",NASDAQ
+FMAR,FT Cboe Vest U.S. Equity Buffer ETF - March,BATS
 FMAT,Fidelity MSCI Materials Index ETF,ARCA
 FMAY,FT Cboe Vest U.S. Equity Buffer ETF - May,BATS
 FMB,First Trust Exchange-Traded Fund III First Trust Managed Municipal ETF,NASDAQ
@@ -4318,7 +4322,9 @@ GBXPF,VIA VAREJO SA REGISTERED SHARES ORDINARY COMMON SHARES (Brazil),U
 GBXPY,Via Varejo S.A.  American Depositary Shares,U
 GBXXY,Grand Baoxin Auto Group Ltd American Depositary Receipts - Unsponsored (Cayman Islands),U
 GCAAF,Guardian Cap Grp Ltd Cl-A Ordinary Shares,U
+GCAC,Growth Capital Acquisition Corp. Class A Common Stock,NASDAQ
 GCACU,Growth Capital Acquisition Corp. Unit,NASDAQ
+GCACW,Growth Capital Acquisition Corp. Warrant,NASDAQ
 GCAN,Greater Cannabis Co Inc Common Stock,U
 GCBC,"Greene County Bancorp, Inc. Common Stock",NASDAQ
 GCC,WisdomTree Enhanced Commodity Strategy Fund,ARCA
@@ -5346,7 +5352,6 @@ GULDF,GUILD ESPORTS PLC Ordinary Shares,U
 GULRF,Guoco Group .50 Par Ordinary Shares,U
 GULRY,Guoco Group Limited Unsponsored ADR (Hong Kong),U
 GULTU,GULF COAST ULTRA DEEP RTY TR Unit,U
-GUMCF,Gourmet Master Co Ltd Ordinary Shares (Cayman Islands),U
 GUMIF,GUMI INC SHS (Japan),U
 GUNGF,"Gungho Online Entertainment Inc, Tokyo Ordinary shares (Japan)",U
 GUNR,FlexShares Global Upstream Natural Resources Index Fund,ARCA

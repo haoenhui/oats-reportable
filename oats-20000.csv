@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
-SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
@@ -1333,6 +1331,7 @@ STQN,"Strategic Acquisitions, Inc. Common Stock",U
 STQNF,Strandline Res Ltd. Ordinary Shares (Australia),U
 STRA,"Strategic Education, Inc. Common Stock",NASDAQ
 STRB,Strasbaugh Common Stock,U
+STRE U,"Supernova Partners Acquisition Company III, Ltd. Units, each consisting of one Class A ordinary shar",NYSE
 STREF,Sthree Group Limited London Ordinary Shares (United Kingdom),U
 STRH,Star8 Corp. Common Stock,U
 STRI,"STR Holdings, Inc. Common Stock",U
@@ -2322,7 +2321,9 @@ TLED,Light Engine Design Corp. Common Stock,U
 TLFA,"Tandy Leather Factory, Inc. Common Stock",U
 TLFE,"Elfato, Inc. Common Stock",U
 TLFX,"Telefix Communications Holdings, Inc. Common Stock",U
+TLGA,TLG Acquisition One Corp.,NYSE
 TLGA U,"TLG Acquisition One Corp. Units, each consisting of one share of Class A common stock and one-third",NYSE
+TLGA WS,"TLG Acquisition One Corp. Warrants, each exercisable for one share of Class A common stock at an exe",NYSE
 TLGHF,Telenet Group Holding Nv Ordinary Shares (Belgium),U
 TLGHY,Telenet Group Holding Nv Unsponsored ADR (Belgium),U
 TLGN,"Totally Green, Inc. Common Stock",U
@@ -4207,6 +4208,7 @@ VTV,Vanguard Value ETF,ARCA
 VTVT,vTv Therapeutics Inc. Class A Common Stock,NASDAQ
 VTWG,Vanguard Scottsdale Funds Vanguard Russell 2000 Growth ETF,NASDAQ
 VTWO,Vanguard Scottsdale Funds Vanguard Russell 2000 ETF,NASDAQ
+VTWRF,VANTAGE TOWERS AG NA O N (Germany Federal Republic),U
 VTWV,Vanguard Scottsdale Funds Vanguard Russell 2000 Value ETF,NASDAQ
 VTXB,Vortex Brands Co. Common Stock,U
 VTXPF,Victrex PLC Ordinary Shares,U
@@ -5130,6 +5132,7 @@ YLWDF,YELLOW PAGES LTD  Common Shares,U
 YLWWF,YELLOW PAGES LTD  Warrant  11/30/2022,U
 YMAB,"Y-mAbs Therapeutics, Inc. Common Stock",NASDAQ
 YMAIF,Yoma Strategic Holdings Ltd Ordinary Shares (Singapore),U
+YMAR,FT Cboe Vest International Equity Buffer ETF - March,BATS
 YMATF,AZBIL CORP SHS (Japan),U
 YMDAF,YAMADA HLDGS CO LTD Ordinary Shares,U
 YMFCF,YAMASHIN FILTER CORP COM STK (Japan),U
@@ -5382,7 +5385,9 @@ ZVO,Zovio Inc. Common Stock,NASDAQ
 ZVTK,"Zevotek, Inc.  Common Stock",U
 ZWBC,GoldKey Corporation Common Stock,U
 ZWPEF,ZWIPE AS Ordinary Shares (Norway),U
+ZWRK,Z-Work Acquisition Corp. Class A Common Stock,NASDAQ
 ZWRKU,Z-Work Acquisition Corp. Units,NASDAQ
+ZWRKW,Z-Work Acquisition Corp. Warrant,NASDAQ
 ZWTYF,"Zhongde Waste Technology Ag, Hamburg Ordinary shares (Germany)",U
 ZXAIY,CHINA ZENIX AUTO INTERNATIONAL LIMITED American Depositary Shares - Sponsored,U
 ZYJT,Zhong Ya International Limited Common Stock,U

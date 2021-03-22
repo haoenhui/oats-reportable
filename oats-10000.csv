@@ -101,6 +101,7 @@ HALN,"Halo Companies, Inc. Common Stock",U
 HALO,"Halozyme Therapeutics, Inc. Common Stock",NASDAQ
 HAMBF,Horizons Active CDN Municipal Bond ETF Unit Advisor CL (Canada),U
 HANBF,Hamborner REIT AG Ordinary Shares (Germany),U
+HANCF,HANSTONE CAP CORP COM (Canada),U
 HANNF,"Hannan Metals, Ltd.  Common Shares",U
 HANOF,Hansen Technologies Ltd Ordinary Shares (Australia),U
 HAON,"Halitron, Inc. Common Stock",U
@@ -798,7 +799,7 @@ HSNGF,Hang Seng Bk Ltd Ord Ordinary Shares,U
 HSNGY,Hang Seng Bk Ltd Ord American Depositary Shares,U
 HSON,"Hudson Global, Inc. Common Stock",NASDAQ
 HSQVY,Husqvarna AB Sponsored ADR representing 2 Class B shares (Sweden),U
-HSRMF,HASTINGS RARE METALS LTD Ordinary Shares,U
+HSRMF,HASTINGS TECHNOLOGY METALS LTD Ordinary Shares,U
 HSRT,Hartford Short Duration ETF,BATS
 HSSHF,DIGIHOST TECHNOLOGY INC Ordinary Shares,U
 HSSKF,HUBER & SUHNER AG KABEL-KAUTSCHUK-KUNSTSTOFFWERK  HERISAU Ordinary Shares (Switzerland),U
@@ -1520,8 +1521,11 @@ IKTSF,Intertek Group Plc Ordinary Shares (UK),U
 IKTSY,Intertek Group Plc Unsponsored ADR (UK),U
 ILAL,"International Land Alliance, Inc. Common Stock",U
 ILATF,VOXTUR ANALYTICS CORP Common Shares,U
+ILCB,iShares Morningstar U.S. Equity ETF,ARCA
 ILCC,International Leaders Capital Corporation Common Stock,U
+ILCG,iShares Morningstar Growth ETF,ARCA
 ILCM,Illinois Community Bancorp Common Stock,U
+ILCV,iShares Morningstar Value ETF,ARCA
 ILDIA,"Inspiration Lead, Inc. Class A Common Stock",U
 ILDO,Intl Daleco Corp Common Stock,U
 ILF,iShares Latin America 40 ETF,ARCA
@@ -1552,11 +1556,14 @@ IMBBF,IMPERIAL BRANDS PLC Ordinary Shares,U
 IMBBY,Imperial Brands PLC American Depositary Receipts - Sponsored,U
 IMBI,"iMedia Brands, Inc. Class A Common Stock",NASDAQ
 IMBXF,IShares PLC US MBS UCITS ETF (Ireland),U
+IMCB,iShares Morningstar Mid-Cap ETF,ARCA
 IMCC,IM Cannabis Corp. Common Shares,NASDAQ
 IMCDY,IMCD Group NV American Depositary Receipts - Unsponsored (Netherlands),U
+IMCG,iShares Morningstar Mid-Cap Growth ETF,ARCA
 IMCI,Infinite Group Inc. Common Stock,U
 IMCR,Immunocore Holdings plc American Depositary Shares,NASDAQ
 IMCUF,Industria Macchine Automatiche SPA Ordinary Shares (Italy),U
+IMCV,iShares Morningstar Mid-Cap Value ETF,NASDAQ
 IMDXF,Imdex Ltd Ordinary Shares,U
 IMDZF,IMCD NV Ordinary Shares (Netherlands),U
 IMEXF,Imagin Medical Inc. Ordinary Shares,U
@@ -1967,13 +1974,16 @@ ISAT,ISA Internationale Inc. Common Stock,U
 ISBA,Isabella Bank Corporation Common Stock,U
 ISBC,"Investors Bancorp, Inc. Common Stock",NASDAQ
 ISBL,Ise Blu Equity Corp Common Stock,U
+ISCB,iShares Morningstar Small-Cap ETF,ARCA
 ISCBF,Ishares PLC - Global High Yield Corporate Bond UCITS ETF (Ireland),U
 ISCDF,ISRACARD LTD Ordinary Shares Israel (IL),U
 ISCF,iShares MSCI Intl Small-Cap Multifactor ETF,ARCA
+ISCG,iShares Morningstar Small-Cap Growth ETF,ARCA
 ISCKF,iShares II plc Shs Gbp Core Uk Gilts Ucits Exchange Traded Fund,U
 ISCNF,ISRACANN BIOSCIENCES INC Common Shares,U
 ISCO,International Stem Cell Corporation Common Stock,U
 ISCRF,ISHARES PLC Exchange Traded Fund  ISHARES GLOBAL CORP BOND UCITS ETF USD ACC Ireland(IE ),U
+ISCV,iShares Morningstar Small-Cap Value ETF,ARCA
 ISCXF,Ishares PLC Corporate Bond UCITS ETF (Ireland),U
 ISD,"PGIM High Yield Bond Fund, Inc.",NYSE
 ISDAF,Israel Disc Bk Ltd Cl A Ordinary Shares,U
@@ -2462,6 +2472,7 @@ JEXYY,Jiangsu Expressway Co Lim Sponsored American Depositary Receipt representi
 JFAIF,JPMorgan American Investment Trust PLC Ordinary Shares (UK),U
 JFBC,Jeffersonville Bancorp Common Stock,U
 JFBHF,Jungfraubahn Holding Ag Interlaken Namen-Akt. Shares (Switzerland),U
+JFECF,JFE Container Co Ltd. Ordinary Shares (Japan),U
 JFEEF,JFE Holdings Inc Ordinary Shares,U
 JFEYF,JFE SYS INC SHS (Japan),U
 JFHHF,Jupiter Fund Management Ltd. Ordinary Shares (United Kingdom),U
@@ -2543,17 +2554,8 @@ JJT,iPath Series B Bloomberg Tin Subindex Total ReturnSM ETN,ARCA
 JJTFF,"Barclays Bk PLC iPath Dow Jones-UBS Tin Subindex Total Return ETN due June 24, 2038",U
 JJU,iPath Series B Bloomberg Aluminum Subindex Total ReturnSM ETN,ARCA
 JJUFF,"Barclays Bk PLC iPath Dow Jones-UBS Aluminum Subindex Total Return ETN due June 24, 2038 (United Kingdom)",U
-JKD,iShares Morningstar Large-Cap ETF,ARCA
-JKE,iShares Morningstar Large-Cap Growth ETF,ARCA
 JKELF,John Keells Holdings Ltd Reg S GDR,U
-JKF,iShares Morningstar Large-Cap Value ETF,ARCA
-JKG,iShares Morningstar Mid-Cap ETF,ARCA
-JKH,iShares Morningstar Mid-Cap Growth ETF,ARCA
 JKHY,"Jack Henry & Associates, Inc. Common Stock",NASDAQ
-JKI,iShares Morningstar Mid-Cap Value ETF,NASDAQ
-JKJ,iShares Morningstar Small-Cap ETF,ARCA
-JKK,iShares Morningstar Small-Cap Growth ETF,ARCA
-JKL,iShares Morningstar Small-Cap Value ETF,ARCA
 JKLPF,LawFinance Ltd. Ordinary Shares,U
 JKPTF,Gamesys Group PLC Ordinary Shares,U
 JKRO,Jakroo Inc Common Stock,U
@@ -3461,6 +3463,7 @@ LBLCF,Loblaw Companies Ltd Cda Ordinary Shares,U
 LBLPF,"LASERBOND LTD, PERTH NSW 2565 SHS (Australia)",U
 LBLTF,Lattice Biologics Ltd Common Shares,U
 LBPH,"Longboard Pharmaceuticals, Inc. Common Stock",NASDAQ
+LBPS,4D pharma plc American Depositary Shares,NASDAQ
 LBRDA,Liberty Broadband Corporation Class A Common Stock,NASDAQ
 LBRDB,Liberty Broadband Corporation Common Stock Series B,U
 LBRDK,Liberty Broadband Corporation Class C Common Stock,NASDAQ
@@ -3517,7 +3520,7 @@ LCYFF,Legal & Gen Ucits ETF Plc L&G CYBER SECURITY UCITS ETF USD ACCUMULATING ET
 LD,"iPath Bloomberg Lead Subindex Total Return ETN due June 24, 2038",ARCA
 LDBTY,Lebanese Co For Dev & Recon of Beirut Cent Dist SAL American Depositary Receipts - Unsponsored (Lebanon),U
 LDDAF,Lida Resources Inc. Common Stock (Canada),U
-LDDFF,Liberty Defense Holdings Ltd Common Shares (Canada),U
+LDDFD,LIBERTY DEFENSE HOLDINGS LTD Common Shares,U
 LDEM,iShares Trust iShares ESG MSCI EM Leaders ETF,NASDAQ
 LDGYY,Landis Gyr Group AG - Unsponsored ADR (Switzerland),U
 LDHAU,LDH Growth Corp I Units,NASDAQ
@@ -3876,10 +3879,6 @@ LNXSF,Lanxess Ag Ordinary Shares (German Federal Republic),U
 LNXSY,Lanxess Ag Unsponsored American Depository Receipt (Germany Federal Republic),U
 LNXW,Lenox Wealth Management Inc. Common Stock,U
 LNZNF,Lenzing Ag Ord Ordinary Shares,U
-LOAC,Longevity Acquisition Corporation Ordinary Shares,NASDAQ
-LOACR,Longevity Acquisition Corporation Right,NASDAQ
-LOACU,Longevity Acquisition Corporation Units,NASDAQ
-LOACW,Longevity Acquisition Corporation Warrant,NASDAQ
 LOAN,"Manhattan Bridge Capital, Inc",NASDAQ
 LOB,"Live Oak Bancshares, Inc. Common Stock",NASDAQ
 LOCMQ,Local Corp Common Stock,U
@@ -4781,7 +4780,9 @@ MIRM,"Mirum Pharmaceuticals, Inc. Common Stock",NASDAQ
 MIRXF,SERRANO RES LTD  Common Shares,U
 MIST,Milestone Pharmaceuticals Inc. Common Shares,NASDAQ
 MISVF,Minco Silver Corp Common Shares (Canada),U
+MIT,"Mason Industrial Technology, Inc.",NYSE
 MIT U,"Mason Industrial Technology, Inc. Units, each consisting of one share of Class A common stock and on",NYSE
+MIT WS,"Mason Industrial Technology, Inc. Redeemable warrants, exercisable for one share of Class A common s",NYSE
 MITC,MeaTech 3D Ltd. American Depositary Shares,NASDAQ
 MITCF,Mitani Corp Ordinary Shares (Japan),U
 MITEF,Mitsubishi Estate Co Ltd Ordinary Shares (Japan),U
@@ -5317,7 +5318,6 @@ MSFDW,Morgan Stanley Fin LLC Call Warrants Based On Euro Stoxx 50 Index Expiring
 MSFHW,Morgan Stanley Fin LLC Call Warrant Based On Euro Stoxx 50 Index Expiring 05/06/2021,U
 MSFIW,Morgan Stanley Fin LLC Call Warrants Based On Euro Stoxx 50 Index Expiring 04/26/2021,U
 MSFKW,Morgan Stanley Fin LLC Call Warrants Based on Euro Stoxx 50 Index Expiring 04/29/2021,U
-MSFLW,MORGAN STANLEY FIN LLC PUT WT BASED ON INVERSE PERFORMANCE SPDR S&P 500 ETF (TR) Warrant 03/19/2021,U
 MSFN,Mainstreet Financial Corp. Common Stock,U
 MSFT,Microsoft Corporation Common Stock,NASDAQ
 MSGE,Madison Square Garden Entertainment Corp.,NYSE
@@ -5396,3 +5396,8 @@ MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
+MTFC,Minster Financial Corporation,U
+MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
+MTG,MGIC Investment Corp.,NYSE

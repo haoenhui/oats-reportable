@@ -334,7 +334,6 @@ ADEVF,ADEVINTA ASA Ordinary Shares (Norway),U
 ADEX,Adit EdTech Acquisition Corp,NYSE
 ADEX U,"Adit EdTech Acquisition Corp Units, each consisting of one share of common stock, and one-half of on",NYSE
 ADEX WS,"Adit EdTech Acquisition Corp Redeemable Warrants, each whole warrant exercisable for shares of commo",NYSE
-ADF U,"Aldel Financial Inc. Units, each consisting of one share of Class A common stock and one-half of one",NYSE
 ADFI,Anfield Dynamic Fixed Income ETF,BATS
 ADFJF,ADF Group Inc Sub Vtg Shs (Canada),U
 ADFS,"American Defense Systems, Inc Common Stock",U
@@ -906,6 +905,7 @@ ALCCF,Alicanto Minerals Ltd Ordinary Shares (Australia),U
 ALCN,Atlantic Central Entprs Ltd Common Stock,U
 ALCO,"Alico, Inc. Common Stock",NASDAQ
 ALDA,"Atlantica, Inc. Common Stock",U
+ALDNF,ALADDIN HEALTHCARE TECHNOLOGIES SE (Germany),U
 ALDRF,"ALDERAN RES LTD,  ORDINARY FULLY PAID (Austrailia)",U
 ALDS,"AppLife Digital Solutions, Inc. Common Shares",U
 ALDVF,KIPLIN METALS INC Ordinary Shares,U
@@ -1267,10 +1267,6 @@ ANGO,"AngioDynamics, Inc. Common Stock",NASDAQ
 ANGPY,Anglo American Platinum Ltd American Depositary Receipts - Sponsored (South Africa),U
 ANGUF,Canada One Mng Corp Ordinary Shares,U
 ANGVF,Angus Gold Inc Other,U
-ANH,Anworth Mortgage Asset Corporation,NYSE
-ANH PRA,Anworth Mortgage Asset Corp 8.625% Ser A Pfd,NYSE
-ANH PRB,Anworth Mortgage Asset Corporation 6.25% Series B Preferred,NYSE
-ANH PRC,ANWORTH MORTGAGE ASSET CORPORATION 7.625% Series C Cumulative Redeemable Preferred Stock,NYSE
 ANHGY,Mediclinic International Plc American Depositary Receipts - Unsponsored,U
 ANHTF,"ANICOM HOLDINGS INC, TOKYO Ordinary Shares",U
 ANIK,Anika Therapeutics Inc. Common Stock,NASDAQ
@@ -1296,6 +1292,7 @@ ANSLY,Ansell Limited Sponsored ADR (Australia),U
 ANSNF,Anson Resources Ordinary Shares (Australia),U
 ANSS,"ANSYS, Inc. Common Stock",NASDAQ
 ANSU,Amanasu Technologies Corp. Common Stock,U
+ANTCF,AION THERAPEUTIC INC COM (Canada),U
 ANTE,AirNet Technology Inc. American Depositary Shares,NASDAQ
 ANTGF,Advantagewon Oil Corp Ordinary Shares,U
 ANTH,"Anthera Pharmaceuticals, Inc. Common Stock",U
@@ -1425,7 +1422,7 @@ APPS,"Digital Turbine, Inc. Common Stock",NASDAQ
 APPZ,"Monster Arts, Inc. Common Stock",U
 APQT,Appliqate Inc Common Stock,U
 APR,"Apria, Inc. Common Stock",NASDAQ
-APRAF,Goldstrike Resources Ltd Ordinary Shares,U
+APRAF,Trailbreaker Resources Ltd Ordinary Shares,U
 APRCP,Alabama Power Company 4.52 Preferred Stock,U
 APRDM,Alabama Power Company 4.92 Preferred Stock,U
 APRDN,Alabama Power Company 4.20 Preferred Stock,U
@@ -2218,7 +2215,7 @@ AYRO,"AYRO, Inc. Common Stock",NASDAQ
 AYRWF,AYR WELLNESS INC Other,U
 AYSI,"Alloy Steel International, Inc. Common Stock",U
 AYTEF,Barclays Bk PLC iPath GEMS Asia 8 ETN due 04/08/2038 (United Kingdom),U
-AYTU,"Aytu BioScience, Inc. Common Stock",NASDAQ
+AYTU,"Aytu BioPharma, Inc. Common Stock",NASDAQ
 AYTUW,"Aytu BioScience, Inc. Warrant",U
 AYTUZ,"Aytu BioScience, Inc. Warrant Exp 11/02/2021",U
 AYX,"Alteryx, Inc.",NYSE
@@ -2333,7 +2330,6 @@ BAR,GraniteShares Gold Shares,ARCA
 BARUF,Baru Gold Corp  Common Shares,U
 BASA,"Basanite, Inc. Common Stock",U
 BASFY,BASF SE American Depositary Shares,U
-BASI,"Bioanalytical Systems, Inc. Common Stock",NASDAQ
 BASWW,Basic Energy Services New Warrant Exp 12/23/2023,U
 BASX,"Basis Energy Services, Inc. Common Stock",U
 BATL,Battalion Oil Corporation,AMEX
@@ -2977,7 +2973,7 @@ BLHEY,Baloise Holding AG Unsponsored ADR (Switzerland),U
 BLHI,"Blue Holdings, Inc. Common Stock",U
 BLHK,BlueHarbor Bank (NC) Common Stock,U
 BLHWF,Belimo Holding Ag Wetzikon Ordinary Shares,U
-BLHY,Virtus Newfleet Dynamic Credit ETF,ARCA
+BLHY,Virtus Newfleet High Yield Bond ETF,ARCA
 BLI,"Berkeley Lights, Inc. Common Stock",NASDAQ
 BLIAQ,BB Liquidating Inc. Common Stock,U
 BLIBQ,BB Liquidating Inc. Class B Common Stock,U
@@ -3033,7 +3029,9 @@ BLTS,Bright Lights Acquisition Corp. Class A Common Stock,NASDAQ
 BLTSU,Bright Lights Acquisition Corp. Unit,NASDAQ
 BLTSW,Bright Lights Acquisition Corp. Warrant,NASDAQ
 BLU,BELLUS Health Inc. Common Shares,NASDAQ
+BLUA,BlueRiver Acquisition Corp.,NYSE
 BLUA U,"BlueRiver Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-third of a",NYSE
+BLUA WS,"BlueRiver Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share",NYSE
 BLUBF,Blue Ribbon Income Fund Units (Canada),U
 BLUE,"bluebird bio, Inc. Common Stock",NASDAQ
 BLUMY,Blue Moon Group Holdings Limited American Depositary Receipts - Unsponsored (Cayman Islands),U
@@ -4307,6 +4305,7 @@ CEREW,"Cerevel Therapeutics Holdings, Inc. Warrant",NASDAQ
 CERGF,Ceres Global Ag Corp Ordinary Shares (Canada),U
 CERN,Cerner Corporation Common Stock,NASDAQ
 CERPQ,"Cereplast, Inc. Common Stock",U
+CERRF,CERRADO GOLD INC NEW COM (Canada),U
 CERS,Cerus Corporation Common Stock,NASDAQ
 CERT,"Certara, Inc. Common Stock",NASDAQ
 CERWF,Ceres Acquisition Corp Warrant Exp 03/03/2028 (Canada),U
@@ -4365,6 +4364,7 @@ CFFMF,Cfoam Ltd Ordinary Shares (Australia),U
 CFFN,"Capitol Federal Financial, Inc. Common Stock",NASDAQ
 CFFSU,CF Acquisition Corp. VII Unit,NASDAQ
 CFFVU,CF Acquisition Corp. V Unit,NASDAQ
+CFFVW,CF Acquisition Corp. V Warrant,NASDAQ
 CFG,"Citizens Financial Group, Inc.",NYSE
 CFG PRD,"Citizens Financial Group, Inc. Depositary Shares, each representing a 1/40th Interest in a Share of",NYSE
 CFG PRE,"Citizens Financial Group, Inc.Depositary Shares Each Representing 1/40th Interest in a Share of 5.00",NYSE
@@ -4401,6 +4401,7 @@ CFST,Communities First Financial Corporation Common Stock,U
 CFSU,"Complete Financial Solutions, Inc. Common Stock",U
 CFTLF,Chinasoft International Ltd Ordinary Shares (Cayman Islands),U
 CFTN,Clifton Mining Co Common Stock,U
+CFV,CF Acquisition Corp. V Class A Common Stock,NASDAQ
 CFVIU,CF Acquisition Corp. VI Unit,NASDAQ
 CFWFF,Calfrac Well Services Ltd Common Shares,U
 CFX,Colfax Corporation,NYSE
@@ -4609,6 +4610,7 @@ CHOLF,China Oilfield Services Limited H Shares (China),U
 CHOOF,Choom Hldgs Inc Common Shares,U
 CHOPF,China Gerui Advanced Materials Group Limited Ordinary Shares (Virgin Islands British),U
 CHOWF,Chow Sang Sang Holdings International Ltd Ordinary Shares (Bermuda),U
+CHPEF,CHINA PENGFEI GROUP LTD HKD SHS (Cayman Islands),U
 CHPFF,Charoen Pokphand Foods Public Company Ltd Shares Foreign Registered (Thailand),U
 CHPGF,Chesapeake Gold Corp Ordinary Shares,U
 CHPM,CHP Merger Corp. Class A Common Stock,NASDAQ
@@ -4683,11 +4685,13 @@ CIBH,"CIB Marine Bancshares, Inc. (Wisconsin) Common Stock",U
 CIBN,"Community Investors Bancorp, Inc. New Common Stock",U
 CIBR,First Trust Exchange-Traded Fund II First Trust NASDAQ Cybersecurity ETF,NASDAQ
 CIBY,"CIBL, Inc. Common Stock",U
+CIC U,"Capitol Investment Corp. VII Units, each consisting of one share of Class A common stock, and one-fi",NYSE
 CICHF,China Construction Bank Shares -H- (China),U
 CICHY,China Construction Bank Corporation Unsponsored ADR representing H shares (China),U
 CICN,"Cicero, Inc. Common Stock",U
 CICOF,Cosco Shipping Holdings Co Ltd Ordinary Shares,U
 CICOY,COSCO SHIPPING Holdings Co Ltd American Depositary Receipts - Unsponsored,U
+CICX U,"Capitol Investment Corp. VI Units, each consisting of one share of Class A common stock, and one-fif",NYSE
 CID,VictoryShares International High Div Volatility Wtd ETF,NASDAQ
 CIDM,"Cinedigm Corp., Class A Common Stock",NASDAQ
 CIEN,Ciena Corporation,NYSE
@@ -4914,8 +4918,10 @@ CLRB,"Cellectar Biosciences, Inc.  Common Stock",NASDAQ
 CLRBZ,"Cellectar Biosciences, Inc. Series A Warrants",NASDAQ
 CLRG,IndexIQ ETF Trust IQ Chaikin U.S. Large Cap ETF,NASDAQ
 CLRI,"Cleartronic, Inc. Common Stock",U
+CLRM,Clarim Acquisition Corp. Class A Common Stock,NASDAQ
 CLRMF,"Clean Air Metals Inc, COM (Canada)",U
 CLRMU,Clarim Acquisition Corp. Unit,NASDAQ
+CLRMW,Clarim Acquisition Corp. Warrant,NASDAQ
 CLRN,Clarent Corporation Common Stock,U
 CLRO,"ClearOne, Inc. (DE) Common Stock",NASDAQ
 CLRSF,CASTILE RES LTD Ordinary Shares (Australia),U
@@ -5396,4 +5402,3 @@ CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
-CPF,Central Pacific Financial Corporation,NYSE

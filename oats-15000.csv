@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U
-MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
-MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
@@ -437,7 +432,6 @@ NEO,"NeoGenomics, Inc. Common Stock",NASDAQ
 NEOG,Neogen Corporation Common Stock,NASDAQ
 NEOM,"NeoMedia Technologies, Inc.  Common Stock",U
 NEON,Neonode Inc. Common Stock,NASDAQ
-NEOS,"Neos Therapeutics, Inc. Common Stock",NASDAQ
 NEOV,NeoVolta Inc Common Stock,U
 NEP,"NextEra Energy Partners, LP",NYSE
 NEPH,"Nephros, Inc. Common Stock",NASDAQ
@@ -837,6 +831,7 @@ NOSOF,Noront Resources Ltd Ordinary Shares,U
 NOSPF,NEOEN SPA ACT (France),U
 NOSUF,Nerds On Site Inc Common Shares (Canada),U
 NOTR,NOWTRANSIT INC Common Stock,U
+NOTV,"Inotiv, Inc. Common Stock",NASDAQ
 NOURF,Northern Uranium Ltd Ordinary Shares (Australia),U
 NOUV,"Nouveau Life Pharmaceuticals, Inc",U
 NOV,NOV Inc.,NYSE
@@ -1220,6 +1215,7 @@ NWDHU,Newhall Holding Company LLC UNIT CL A,U
 NWDMF,Capella Minerals Ltd Common Shares,U
 NWDVW,New Media Investment Group Inc. Warrants Expiring 11/26/2023,U
 NWE,NorthWestern Corporation Common Stock,NASDAQ
+NWEAF,NATIONAL WESTMINSTER BANK PLC 9% NON-CUM PREF SHS - A - (United Kingdom),U
 NWEGF,Norwegian Finans Holding ASA Ordinary Shares (Norway),U
 NWFAF,New Focus Auto Tech Holdings Ltd HK Shares (Cayman Islands),U
 NWFL,Norwood Financial Corp. Common Stock,NASDAQ
@@ -1433,7 +1429,6 @@ OCN,Ocwen Financial Corporation,NYSE
 OCNB,Oconomowoc Bancshares Inc CDT-Common,U
 OCPNF,Olympus Corporation Ordinary Shares (Japan),U
 OCPNY,Olympus Corporation Sponsored ADR (Japan),U
-OCSI,Oaktree Strategic Income Corporation Common Stock,NASDAQ
 OCSL,Oaktree Specialty Lending Corporation Common Stock,NASDAQ
 OCTPF,Ocelot Partners Limited Ordinary Shares (Virgin Islands British),U
 OCTX,Octagon 88 Resources Inc Common Stock,U
@@ -3602,6 +3597,7 @@ QLV,FlexShares US Quality Low Volatility Index Fund,ARCA
 QLVD,FlexShares Developed Markets ex-US Quality Low Volatility Index Fund,ARCA
 QLVE,FlexShares Emerging Markets Quality Low Volatility Index Fund,ARCA
 QLYS,"Qualys, Inc. Common Stock",NASDAQ
+QMAR,FT Cboe Vest Growth-100 Buffer ETF - March,BATS
 QMCI,"QuoteMedia, Inc. Common Stock",U
 QMCO,Quantum Corporation Common Stock,NASDAQ
 QMCQF,QMC Quantum Minerals Corp. Com (Canada),U
@@ -3735,6 +3731,7 @@ RAD,Rite Aid Corporation,NYSE
 RADA,RADA Electronic Industries Ltd. Ordinary Shares,NASDAQ
 RADI,"Radius Global Infrastructure, Inc. Class A Common Stock",NASDAQ
 RADIW,Radius Global Infrastructure Inc Warrant Exp 2/10/2023,U
+RADLF,RADIAL RESH CORP COM (Canada),U
 RADLY,Raia Drogasil SA American Depositary Receipts - Sponsored (Brazil),U
 RADR,Radium Resources Corp Common Stock,U
 RAEWF,PIMA ZINC CORP Common Stock,U
@@ -3818,6 +3815,9 @@ RBYC,Ruby Creek Resources Inc. (NV) Common Stock,U
 RBZHF,Reebonz Holding Limited Ordinary Shares,U
 RBZWF,Reebonz Hldg Ltd Warrant   12/19/2023,U
 RC,Ready Capital Corporation,NYSE
+RC PRB,Ready Capital Corporation 8.625% Series B Cumulative Preferred Stock,NYSE
+RC PRC,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock,NYSE
+RC PRD,Ready Capital Corporation 7.625% Series D Cumulative Redeemable Preferred Stock,NYSE
 RCA,Ready Capital Corporation 7.00% Convertible Senior Notes due 2023,NYSE
 RCAR,"RenovaCare, Inc. Common Stock",U
 RCAT,"Red Cat Holdings, Inc. Common Stock",U
@@ -3892,7 +3892,6 @@ RDGL,Vivos Inc Common Stock,U
 RDGMF,RIDGELINE MINERALS CORP Common Shares (Canada),U
 RDHL,Redhill Biopharma Ltd. American Depositary Shares,NASDAQ
 RDI,Reading International Inc Class A Common Stock,NASDAQ
-RDIAF,Rockwell Diamonds Inc. Ordinary Shares (Canada),U
 RDIB,Reading International Inc Class B Common Stock,NASDAQ
 RDIRF,Rdi Reit PLC Ordinary Shares (United Kingdom),U
 RDIV,Invesco S&P Ultra Dividend Revenue ETF,ARCA
@@ -4217,6 +4216,7 @@ RLGMF,West Red Lake Gold Mines Inc. Ordinary Shares (Canada),U
 RLGT,"Radiant Logistics, Inc.",AMEX
 RLGY,REALOGY HOLDINGS CORP.,NYSE
 RLHCY,RECALL HLDGS LTD  American Depositary Receipts - Unsponsored (Australia),U
+RLHPF,"RLH PPTYS S A B DE C V SHARES OF FINANCIAL GROUPS AND INDUSTRIAL, RETAIL (Mexico)",U
 RLI,RLI Corp.,NYSE
 RLJ,RLJ Lodging Trust,NYSE
 RLJ PRA,RLJ Lodging Trust $1.95 Series A Cumulative Convertible Preferred Shares,NYSE
@@ -4358,7 +4358,9 @@ ROCCU,Roth CH Acquisition II Co. Unit,NASDAQ
 ROCCW,Roth CH Acquisition II Co. Warrant,NASDAQ
 ROCK,"Gibraltar Industries, Inc. Common Stock",NASDAQ
 ROCLF,"Royal Olympic Cruise Lines, Inc. Ordinary Shares (Liberia)",U
+ROCR,Roth CH Acquisition III Co. Common stock,NASDAQ
 ROCRU,Roth CH Acquisition III Co. Unit,NASDAQ
+ROCRW,Roth CH Acquisition III Co. Warrant,NASDAQ
 RODE,Hartford Multifactor Diversified International ETF,BATS
 RODI,iPath Return on Disability ETN,BATS
 RODM,Hartford Multifactor Developed Markets (ex-US) ETF,ARCA
@@ -4998,6 +5000,7 @@ SCSYF,SSH Communications Security OYJ SHS (Finland),U
 SCTBF,Securitas A B Ordinary Shares SHS-B-,U
 SCTBY,Securitas A B Unsponsored ADR representing B Shares (Sweden),U
 SCTC,SCOUTCAM INC Common Stock,U
+SCTH,SECURETECH INNOVATIONS INC COM,U
 SCTN,Schimatic Technologies Inc Common Stock,U
 SCTQ,SPECTRA SYS CORP Common Stock,U
 SCTSF,SCOTTIE RES CORP Common Shares Canada(CA ),U
@@ -5396,3 +5399,5 @@ SHHPF,Ship Healthcare Holdings Inc Ordinary Shares (Japan),U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,Shinohara System of Construction Co Ltd Fukuoka Ordinary Shares (Japan),U
+SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
+SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
