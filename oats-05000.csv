@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPF,Central Pacific Financial Corporation,NYSE
-CPFH,"Capital Financial Holdings, Inc. Common Stock",U
-CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
-CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPGZF,CG Power & Industrial Ltd. Global Depositary Receipts - Sponsored,U
@@ -1002,7 +998,7 @@ DFLYF,DRAGANFLY INC Common Shares  Canada(CA ),U
 DFMTF,Defense Metals Corp Common Shares  Canada (CA),U
 DFND,Siren DIVCON Dividend Defender ETF,BATS
 DFNFF,Dividend 15 Split Corp II-A Preferred Stock (Canada),U
-DFNL,Davis Fundamental ETF Trust Davis Select Financial ETF,NASDAQ
+DFNL,Davis Select Financial ETF,BATS
 DFNNF,DFNN Inc Ordinary Shares (Philippines),U
 DFNS,LGL Systems Acquisition Corp.,NYSE
 DFNS U,LGL Systems Acquisition Corp. Units,NYSE
@@ -1117,7 +1113,7 @@ DIM,WisdomTree International MidCap Dividend Fund,ARCA
 DIMC,Dimeco Inc Common Stock,U
 DIN,"Dine Brands Global, Inc.",NYSE
 DINRF,Screen Holdings Co Ltd Ordinary Shares,U
-DINT,Davis Fundamental ETF Trust Davis Select International ETF,NASDAQ
+DINT,Davis Select International ETF,BATS
 DIOD,Diodes Incorporated Common Stock,NASDAQ
 DION,"Dionics, Inc. Common Stock",U
 DIOSF,Dios Exploration Inc Common Stock,U
@@ -1480,6 +1476,7 @@ DSL,DOUBLELINE INCOME SOLUTIONS FUND,NYSE
 DSLVF,Credit Suisse AG Nassau Brh VelocityShares 3x Inverse Silver ETN,U
 DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc.",NYSE
 DSMTF,Deep-South Res Inc Ordinary Shares,U
+DSNCF,DESIGN CAP LTD Ordinary Shares,U
 DSNKY,Daiichi Sankyo Co Limited Sponsored ADR (Japan),U
 DSNY,"Destiny Media Technologies, Inc. Common Stock",U
 DSOC,Innovator Double Stacker ETF - October,BATS
@@ -1574,7 +1571,7 @@ DUOT,"Duos Technologies Group, Inc. Common Stock",NASDAQ
 DURA,VanEck Vectors Morningstar Durable Dividend ETF,BATS
 DUROF,Duro Felguera SA Ordinary Shares,U
 DURYY,Durr AG American Depositary Receipts - Unsponsored (Germany Federal Republic),U
-DUSA,Davis Fundamental ETF Trust Davis Select U.S. Equity ETF,NASDAQ
+DUSA,Davis Select U.S. Equity ETF,BATS
 DUSCF,Deutsche Euroshop Ag Eschborn Namen-Akt Shares (Germany Federal Republic),U
 DUSL,Direxion Daily Industrials Bull 3X Shares,ARCA
 DUST,Direxion Daily Gold Miners Index Bear 2X Shares,ARCA
@@ -1624,7 +1621,7 @@ DWIN,Delwinds Insurance Acquisition Corp.,NYSE
 DWIN U,"Delwinds Insurance Acquisition Corp. Units, each consisting of one share of Class A common stock, an",NYSE
 DWIN WS,"Delwinds Insurance Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one sha",NYSE
 DWIS,"Dinewise, Inc. Common Stock",U
-DWLD,Davis Fundamental ETF Trust Davis Select Worldwide ETF,NASDAQ
+DWLD,Davis Select Worldwide ETF,BATS
 DWM,WisdomTree International Equity Fund,ARCA
 DWMC,AdvisorShares Trust AdvisorShares Dorsey Wright Micro-Cap ETF,NASDAQ
 DWMF,WisdomTree International Multifactor Fund,ARCA
@@ -2202,7 +2199,6 @@ EMOC,Extreme Motorsports of California Inc New Common Stock,U
 EMOR,Emerald Organic Products Inc. Common Stock,U
 EMOTF,Emerita Resources Corp Common Shares (Canada),U
 EMP,"Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series due October 1, 2066",NYSE
-EMPFF,Emira Property Fund REIT (South Africa),U
 EMPM,"Empire Post Media, Inc. Common",U
 EMPO,"Empowered Products, Inc. Common",U
 EMPR,Empire Petroleum Corporation.  Common Stock,U
@@ -2482,7 +2478,6 @@ ERFSF,EUROFINS SCIENTIFIC SA Ordinary Shares,U
 ERGN,Ergo Science Corporation Common Stock,U
 ERGO,Entia Biosciences Inc. Common Stock,U
 ERGTF,ANTILLES GOLD LTD Ordinary Shares,U
-ERGZF,ERG Spa Milano Ordinary Shares (Italy),U
 ERH,Wells Fargo Utilities and High Income Fund,AMEX
 ERHE,ERHC Energy Inc. Common Stock,U
 ERIAF,Telefon AB LM Ericsson Shares A (Sweden),U
@@ -2500,7 +2495,6 @@ ERMAF,Eramet SA Ordinary Shares (France),U
 ERMAY,Eramet SA Unsponsored ADR (France),U
 ERMG,ERecord Management Inc (NV) Common Stock,U
 ERNXY,Euronext NV American Depositary Receipts - Unsponsored (Netherlands),U
-EROMF,Euro Managanese Inc Common Shares (Canada),U
 EROTF,Barclays Bk PLC iPath EUR/USD Exchange Rate ETN due 05/14/2037 (United Kingdom),U
 EROX,Human Pheromone Sciences Inc. Common Stock,U
 ERPNF,European Metals Hldgs Ltd Chess Depositary Interests 1:1,U
@@ -2689,6 +2683,7 @@ EUGFF,Dundee Energy Ltd. Ordinary Shares (Canada),U
 EUIVF,Eurocastle Investments Ltd Hertfordshire Ordinary Shares (United Kingdom),U
 EULIF,EUROPEAN LITHIUM LTD Ordinary Shares,U
 EUM,ProShares Trust Short MSCI Emerging Markets,ARCA
+EUMNF,Euro Managanese Inc Common Shares (Canada),U
 EUO,ProShares UltraShort Euro,ARCA
 EUOT,Eurotech Ltd Common Stock,U
 EURI,AgriEuro Corp. Common Stock,U
@@ -3884,7 +3879,6 @@ FRTG,FRONTERA GROUP INC Common Stock,U
 FRTHF,Fruitas Holdings Inc. Ordinary Shares (Philippines),U
 FRTIF,Fortress Income Fund Ltd Ordinary Shares (South Africa),U
 FRTN,Fortran Corporation Common Stock,U
-FRTT,FORTITUDE GOLD CORP COM,U
 FRTXF,Fortnox AB Ordinary Shares (Sweden),U
 FRTY,Alger Mid Cap 40 ETF,ARCA
 FRUTF,Frutarom Industries 1995 Ltd Ordinary Shares,U
@@ -3987,6 +3981,7 @@ FTBYF,Fortune Bay Corp NEW Ordinary Shares (Canada),U
 FTC,First Trust Large Cap Growth AlphaDEX Fund,NASDAQ
 FTCGF,FST TR GBL FDS PLC Cloud Computing UCITS ETF Class A Shs (Ireland),U
 FTCH,Farfetch Limited Class A Ordinary Shares,NYSE
+FTCO,FORTITUDE GOLD CORP COM,U
 FTCPF,FIRST TR GLOBAL FDS PLC FIRST TRUST CAPITAL STRENGTH UCITS ETFCLASS A Exchange Traded Fund,U
 FTCS,First Trust Capital Strength ETF,NASDAQ
 FTCV,FinTech Acquisition Corp. V Class A Common Stock,NASDAQ
@@ -4422,7 +4417,6 @@ GDYNW,"Grid Dynamics Holdings, Inc. Warrant",NASDAQ
 GDYRF,GOODYEAR THAILAND PUBLIC CO LTD SHS FOREIGN REGISTERED (Thailand),U
 GE,General Electric Company,NYSE
 GEAGF,GEA Group Ag Ordinary Shares (Germany),U
-GEAGY,GEA Group Ag Sponsored ADR (Germany),U
 GEAHF,Great Eagle Hldg H $0.50 Par Ordinary Shares,U
 GEATF,Radiko Holdings Corp Ordinary Shares,U
 GEBEY,Genting Berhad Unsponsored ADR (Malaysia),U
@@ -4555,6 +4549,7 @@ GGNNW,Genocea Biosciences Inc Wt Cl A Expires  01/09/2023,U
 GGNPF,Pt Gudang Garam PT Gudang Garam IDR,U
 GGO,The Gabelli Go Anywhere Trust,AMEX
 GGO PRA,The Gabelli Go Anywhere Trust Series A Cumulative Puttable and Callable Preferred Shares,AMEX
+GGPIU,"Gores Guggenheim, Inc. Unit",NASDAQ
 GGPXF,G-Resources Group Ltd Ordinary Shares (Bermuda),U
 GGRGF,GROUPE GORGE SA Ordinary Shares (France),U
 GGRN,Global Green Solutions Inc. Common Stock,U
@@ -5401,3 +5396,9 @@ GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U

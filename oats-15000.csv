@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
-MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
-MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
-MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
 MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
 MTH,Meritage Homes Corporation,NYSE
 MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
@@ -140,7 +136,7 @@ MWSNF,Mawson Gold Ltd Common Shares,U
 MWTCF,Manila Water Company Inc Ordinary Shares (Phillippines),U
 MWTCY,Manila Water Company Inc Unsponsored ADR (Phillippines),U
 MWWC,Marketing Worldwide Corporation Common Stock,U
-MWXRF,Mineworx Technologies Ltd. Ordinary Shares,U
+MWXRD,Mineworx Technologies Ltd. Ordinary Shares,U
 MX,Magnachip Semiconductor Corp.,NYSE
 MXAAF,M.A.X. Automation SE Ordinary Shares (Germany),U
 MXBGF,Multi Units Luxemboug Sicav L.E. 1-3 Y I.G. (DR) UCITS Exchange Traded Fund (Luxembourg),U
@@ -283,10 +279,6 @@ NAZ,Nuveen Arizona Quality Municipal Income Fund,NYSE
 NBA,New Beginnings Acquisition Corp.,AMEX
 NBA U,"New Beginnings Acquisition Corp. Units, each consisting of one share of common stock and one redeema",AMEX
 NBA WS,"New Beginnings Acquisition Corp. Redeemable Warrants, each warrant exercisable for one share of Comm",AMEX
-NBAC,Newborn Acquisition Corp. Ordinary Shares,NASDAQ
-NBACR,Newborn Acquisition Corp. Right,NASDAQ
-NBACU,Newborn Acquisition Corp. Unit,NASDAQ
-NBACW,Newborn Acquisition Corp. Warrant,NASDAQ
 NBB,Nuveen Taxable Municipal Income Fund,NYSE
 NBBTF,Natural Beauty Bio Technology Limited Ordinary Shares,U
 NBCO,"Neon Bloom, Inc. Common Stock",U
@@ -317,6 +309,7 @@ NBRNF,NBrown Group Plc Ordinary Shares (United Kingdom),U
 NBRV,Nabriva Therapeutics plc Ordinary Shares Ireland,NASDAQ
 NBRY,"Newberry Specialty Bakers, Inc. Common Stock",U
 NBSE,"NeuBase Therapeutics, Inc.  Common Stock",NASDAQ
+NBSTU,Newbury Street Acquisition Corporation Units,NASDAQ
 NBTB,NBT Bancorp Inc. Common Stock,NASDAQ
 NBTX,Nanobiotix S.A. American Depositary Shares,NASDAQ
 NBVAF,Nubeva Technologies Ltd Ordinary Shares,U
@@ -518,6 +511,7 @@ NGAC,NextGen Acquisition Corporation Class A Ordinary Shares,NASDAQ
 NGACU,NextGen Acquisition Corporation Units,NASDAQ
 NGACW,NextGen Acquisition Corporation Warrants,NASDAQ
 NGBL,"Notis Global, Inc. Common Stock",U
+NGCAU,NextGen Acquisition Corp. II Units,NASDAQ
 NGCG,"New Generation Consumer Group, Inc. Common Stock",U
 NGCRF,Nagacorp Ltd Ordinary Shares (Cayman Islands),U
 NGCRY,Nagacorp Ltd Unsponsored ADR (Cayman Islands),U
@@ -801,7 +795,6 @@ NOC,Northrop Grumman Corp.,NYSE
 NOCRF,Norden Crown Metals Corp Common Shares,U
 NOCSF,NORSEMAN SILVER INC Common Stock (Canada),U
 NOCT,Innovator Nasdaq-100 Power Buffer ETF- October,BATS
-NODAF,Noda Corporation Ordinary Shares (Japan),U
 NODB,North Dallas Bank & Trust Co Tex Common Stock,U
 NODC,"Nodechain, Inc. Common Stock",U
 NODK,"NI Holdings, Inc. Common Stock",NASDAQ
@@ -1197,6 +1190,8 @@ NVST,"Envista Holdings Corporation Common stock, $0.01 par value per share",NYSE
 NVT,nVent Electric plc Ordinary Shares,NYSE
 NVTA,Invitae Corporation,NYSE
 NVTQF,TRENCH METALS CORP Ordinary Shares,U
+NVVE,Nuvve Holding Corp. Common Stock,NASDAQ
+NVVEW,Nuvve Holding Corp. Warrant,NASDAQ
 NVYAF,Navya Ordinary Shares  France (FR),U
 NVYTF,Novacyt Shs Nom Non Liberee (France),U
 NVYYF,EMINENT GOLD CORP Common Shares,U
@@ -1657,6 +1652,7 @@ OOGI,"C2E Energy, Inc. Common Stock",U
 OOIL,Perkins Oil & Gas Inc. Common Stock,U
 OOMA,"Ooma, Inc. Common Stock",NYSE
 OONEF,01 Communique Lab Inc Common Shares (Canada),U
+OPA U,"Magnum Opus Acquisition Limited Units, each consisting of one Class A ordinary share and one-half re",NYSE
 OPBK,OP Bancorp Common Stock,NASDAQ
 OPCGF,Organic Potash Corp Common Shares (Canada),U
 OPCH,"Option Care Health, Inc. Common Stock",NASDAQ
@@ -4200,6 +4196,7 @@ RKOS,Arkose Energy Corp. Common Stock,U
 RKSCF,Rocksheild Capital Corp. Ordinary Shares (Canada),U
 RKSLF,RAKSUL INC Ordinary Shares,U
 RKT,"Rocket Companies, Inc.",NYSE
+RKTA U,"Rocket Internet Growth Opportunities Corp. Units, each consisting of one Class A ordinary share and",NYSE
 RKTE,"Reflectkote, Inc. Common Stock",U
 RKUNF,Rakuten Inc Ordinary Shares,U
 RKUNY,Rakuten Inc Sponsored ADR (Japan),U
@@ -4749,7 +4746,7 @@ SALRF,Salmar ASA Ordinary Shares (Norway),U
 SALRY,Salmar ASA Unsponsored ADR (Norway),U
 SAM,Boston Beer Company,NYSE
 SAMG,Silvercrest Asset Management Group Inc. Class A Common Stock,NASDAQ
-SAML,"Samsara Luggage, Inc. Common Stock",U
+SAMLD,"Samsara Luggage, Inc. Common Stock",U
 SAMMF,Sama Resources Inc./Ressources Sama Inc Ordinary Shares (Canada),U
 SAMOF,Sangoma Technologies Corporation Ordinary Shares,U
 SAMZF,Samui Airport Property Fund Units (Thailand),U
@@ -4801,6 +4798,7 @@ SB PRC,"SAFE BULKERS, INC. 8.00%  SER C",NYSE
 SB PRD,"Safe Bulkers, Inc. 8.00% Series D",NYSE
 SBAC,SBA Communications Corporation Class A Common Stock,NASDAQ
 SBAGY,Strabag Se-Br Unsponsored ADR (Austria),U
+SBAQF,SUBVERSIVE ACQUISITION LP Rights   01/08/2025,U
 SBAY,"Subaye, Inc.  Common Stock",U
 SBB,ProShares Short SmallCap600,ARCA
 SBBA,Scorpio Tankers Inc. 7.00% Senior Notes due 2025,NYSE
@@ -4942,6 +4940,7 @@ SCHV,Schwab U.S. Large-Cap Value ETF,ARCA
 SCHW,The Charles Schwab Corporation,NYSE
 SCHW PRC,The Charles Schwab Corporation,NYSE
 SCHW PRD,Charles Schwab Corporation Depositary Shares each representing 1/40th interest in a share of 5.95% N,NYSE
+SCHWL,SCHWAB CHARLES CORP NEW DEP SHS REPSTG 1/40TH PERP PFD SER J Depositary Shares,U
 SCHX,Schwab U.S. Large- Cap ETF,ARCA
 SCHYF,Sands China Ltd Shs (Cayman Islands),U
 SCHYY,Sands China Ltd Unsponsored ADR (Cayman Islands),U
@@ -5095,7 +5094,6 @@ SEAV,SEATECH VENTURES CORP Common Stock,U
 SEB,Seaboard Corporation,AMEX
 SEBC,Southeastern Banking Corp Ga Common Stock,U
 SEBNF,"Seven Bank Ltd, Tokyo Ordinary Shares (Japan)",U
-SEBOF,Sebo Manufacturing Engineering Corp Ordinary Shares (South Korea),U
 SEBYF,Seb Sa Ordinary Shares,U
 SEBYY,SEB S.A. American Depositary Receipts - Unsponsored (France),U
 SECCF,Serco Group plc Ordinary Shares,U
@@ -5189,7 +5187,6 @@ SFB,Stifel Financial Corp.5.20 percent Senior Notes due 2047,NYSE
 SFBC,"Sound Financial Bancorp, Inc. Common Stock",NASDAQ
 SFBE,Sino Bioenergy Corp. Common Stock,U
 SFBI,SFSB Inc. Common Stock,U
-SFBK,"SFB Bancorp, Inc. (TN) Common Stock",U
 SFBQF,Softbank Corp Common Stock (Japan),U
 SFBS,"ServisFirst Bancshares, Inc. Common Stock",NASDAQ
 SFBTF,Softbank Technology Corporation Tokyo Ordinary Shares (Japan),U
@@ -5401,3 +5398,7 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,Shinohara System of Construction Co Ltd Fukuoka Ordinary Shares (Japan),U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U

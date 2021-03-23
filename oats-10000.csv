@@ -1,10 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
@@ -101,7 +95,7 @@ HALN,"Halo Companies, Inc. Common Stock",U
 HALO,"Halozyme Therapeutics, Inc. Common Stock",NASDAQ
 HAMBF,Horizons Active CDN Municipal Bond ETF Unit Advisor CL (Canada),U
 HANBF,Hamborner REIT AG Ordinary Shares (Germany),U
-HANCF,HANSTONE CAP CORP COM (Canada),U
+HANCF,HANSTONE GOLD CORP Common Stock,U
 HANNF,"Hannan Metals, Ltd.  Common Shares",U
 HANOF,Hansen Technologies Ltd Ordinary Shares (Australia),U
 HAON,"Halitron, Inc. Common Stock",U
@@ -2448,7 +2442,6 @@ JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,ARCA
 JDVB,JD BANCSHARES INC Common Stock,U
 JDWPF,J D Wetherspoon Plc-Ord Ordinary Shares,U
 JDWPY,J.D. Wetherspoon plc Sponsored ADR,U
-JE,Just Energy Group Inc,NYSE
 JECFF,Jura Energy Corporation Ordinary Shares (Canada),U
 JEF,Jefferies Financial Group Inc.,NYSE
 JEHLY,Johnson Electric Holdings Ltd Unsponsored American Depository Shares,U
@@ -2459,6 +2452,7 @@ JEMA,JPMorgan Emerging Markets Equity Core ETF,BATS
 JEMC,J.E.M. Capital Inc. Common Stock,U
 JEMD,"Nuveen Emerging Markets Debt 2022 Target Term Fund, Common Shares of Beneficial Interest, $0.01 par",NYSE
 JEMTF,Barclays Bk PLC iPath GEMS Index ETN due 02/04/2038 (United Kingdom),U
+JENGQ,Just Energy Group Inc Common Stock (Canada),U
 JEPI,JPMorgan Equity Premium Income ETF,ARCA
 JEQ,ABERDEEN JAPAN EQUITY FUND,NYSE
 JERT,"JER Investors Trust, Inc. New Common Stock",U
@@ -2645,9 +2639,9 @@ JPM PRD,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th  in
 JPM PRG,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 6.10% Non",NYSE
 JPM PRH,JPMorgan Chase & Co.,NYSE
 JPM PRJ,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of JPMorgan",NYSE
+JPM PRK,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 4.55% Non",NYSE
 JPMB,JPMorgan USD Emerging Markets Sovereign Bond ETF,ARCA
 JPME,JPMorgan Diversified Return US Mid Cap Equity ETF,ARCA
-JPMJL,JPMORGAN CHASE & CO DEP SHS REPSTG 1/400TH PFD SER JJ Depositary Shares,U
 JPN,Xtrackers Japan JPX-Nikkei 400 Equity ETF,ARCA
 JPNPY,Japan Post Ins Co Ltd ADS Repstg Com Stk (Japan),U
 JPNRF,Japan Airlines Co Ltd JAL Ordinary Shares (Japan),U
@@ -2772,6 +2766,7 @@ JXHLY,Eneos Holdings Inc American Depositary Receipts - Unsponsored,U
 JXI,iShares Global Utilities ETF,ARCA
 JXMNF,Jaxon Mng Inc Ordinary Shares,U
 JYAC,Jiya Acquisition Corp. Class A Common Stock,NASDAQ
+JYBSF,JAYA BERSAMA INDO TBK PT Ordinary Shares,U
 JYNFF,Barclays Bk PLC iPath Lnk JPY/USD Exchange Rate ETN due 05/14/2037 (United Kingdom),U
 JYNT,The Joint Corp. Common Stock,NASDAQ
 JYOGF,JERSEY OIL & GAS PLC ORD SHS (United Kingdom),U
@@ -3152,7 +3147,7 @@ KODK,EASTMAN KODAK COMPANY,NYSE
 KOF,"Coca-Cola FEMSA, S.A.B DE C.V",NYSE
 KOGL,Kopp Glass Inc Common Stock,U
 KOGMD,KGL RES LTD Ordinary Shares,U
-KOIN,Capital Link Global Fintech Leaders ETF,ARCA
+KOIN,Capital Link NextGen Protocol ETF,ARCA
 KOJAF,Kojamo PLC Ordinary Shares (Finland),U
 KOKU,Xtrackers MSCI Kokusai Equity ETF,ARCA
 KOLD,ProShares UltraShort Bloomberg Natural Gas,ARCA
@@ -3452,7 +3447,7 @@ LBAY,Leatherback Long/Short Alternative Yield ETF,ARCA
 LBBRF,Liberbank SA Acciones Por Reagrupamiento Ordinary Shares (Spain),U
 LBC,Luther Burbank Corporation Common Stock,NASDAQ
 LBCEF,LBC EXPRESS HOLDINGS INC Ordinary Shares,U
-LBCMD,Libero Copper & Gold Corp Common Shares,U
+LBCMF,Libero Copper & Gold Corp Common Shares,U
 LBERY,Liberty Holdings Ltd. Unsponsored ADR,U
 LBGF,Level Best Golf Inc Common Stock,U
 LBGUF,Lundbergfoeretagen AB Shs B Ordinary Shares (Sweden),U
@@ -3464,6 +3459,7 @@ LBLPF,"LASERBOND LTD, PERTH NSW 2565 SHS (Australia)",U
 LBLTF,Lattice Biologics Ltd Common Shares,U
 LBPH,"Longboard Pharmaceuticals, Inc. Common Stock",NASDAQ
 LBPS,4D pharma plc American Depositary Shares,NASDAQ
+LBPSW,4D pharma plc Warrant,NASDAQ
 LBRDA,Liberty Broadband Corporation Class A Common Stock,NASDAQ
 LBRDB,Liberty Broadband Corporation Common Stock Series B,U
 LBRDK,Liberty Broadband Corporation Class C Common Stock,NASDAQ
@@ -3497,7 +3493,6 @@ LCHIF,Leoch International Technology Limited Ordinary Shares (Cayman Islands),U
 LCHTF,LIvechat Software SA Ordinary Shares (Poland),U
 LCI,"Lannett Company, Inc.",NYSE
 LCII,LCI Industries,NYSE
-LCKKF,Real Luck Group Ltd Common Shares (Canada),U
 LCKYF,GOLDEN SKY MINERALS CORP Common Shares,U
 LCLP,"Life Clips, Inc. Common Stock",U
 LCMRF,La Comer SAB De CV Ordinary Shares (Mexico),U
@@ -3562,6 +3557,7 @@ LEDS,SemiLEDS Corporation Common Stock,NASDAQ
 LEE,"Lee Enterprises, Inc.",NYSE
 LEFUF,Leons Furniture Ltd Ordinary Shares,U
 LEG,"Leggett & Platt, Inc.",NYSE
+LEGAU,"Lead Edge Growth Opportunities, Ltd Units",NASDAQ
 LEGH,Legacy Housing Corporation Common Stock (TX),NASDAQ
 LEGIF,Leg Immobilien AG Namens - Aktien ON (Germany Federal Republic),U
 LEGN,Legend Biotech Corporation American Depositary Shares,NASDAQ
@@ -4057,7 +4053,6 @@ LTTC,Lattice Incorporated Common Stock,U
 LTTGF,"LottoGopher Holdings, Inc. Ordinary Shares",U
 LTTHF,Learning Technologies Group PLC Ordinary Shares (United Kingdom),U
 LTTSF,Lotus Ventures Inc Ordinary Shares (Canada),U
-LTTTF,Lotte Chilsung Beverage Co Ltd Pfd Shs Non Voting (S. Korea),U
 LTTZF,Lotte Confectionery Co Ltd Preference Shares,U
 LTUC,Little Sioux Corn Processors LLC Membership Unit Class C,U
 LTUM,Lithium Corporation. Common Stock,U
@@ -4067,6 +4062,7 @@ LUB,Luby's Inc.,NYSE
 LUCC,"Luca, Inc. Common Stock",U
 LUCRF,Lucara Diamond Corporation Ordinary Shares (Canada),U
 LUDG,Ludwig Enterprises Inc. Common stock,U
+LUKEF,Real Luck Group Ltd Common Shares (Canada),U
 LUKOY,PJSC Lukoil American Depositary Receipts - Sponsored,U
 LULU,lululemon athletica inc. Common Stock,NASDAQ
 LUMB,Lumbee Guaranty Bank Pembroke NC Common Stock,U
@@ -4306,6 +4302,7 @@ MBHPF,MASCHINENFABRIK BERTHOLD HERMLE AG PREF SHS VTG RTS (Germany),U
 MBI,MBIA Inc.,NYSE
 MBII,"Marrone Bio Innovations, Inc. Common Stock",NASDAQ
 MBIN,Merchants Bancorp Common Stock,NASDAQ
+MBINN,Merchants Bancorp Depositary Shares Preferred Series C,NASDAQ
 MBINO,Merchants Bancorp Depositary Shares Each Representing a 1/40th Interest in a Share of Series B  Fixed-to-Floating Rate,NASDAQ
 MBINP,Merchants Bancorp 7.00% Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock,NASDAQ
 MBIO,"Mustang Bio, Inc. Common Stock",NASDAQ
@@ -4532,7 +4529,6 @@ MEDP,"Medpace Holdings, Inc. Common Stock",NASDAQ
 MEDS,"Trxade Group, Inc. Common Stock",NASDAQ
 MEDT,MediaTechnics Corporation Common Stock,U
 MEDXF,Medexus Pharmaceuticals Inc Ordinary Shares,U
-MEDYF,Megastudy Co Ltd Ordinary Shares (South Korea),U
 MEEC,Midwest Energy Emissions Corp. NEW Common Stock,U
 MEG,"Montrose Environmental Group, Inc.",NYSE
 MEGEF,Meg Energy Corp. Common (Canada),U
@@ -4857,7 +4853,7 @@ MKSI,"MKS Instruments, Inc. Common Stock",NASDAQ
 MKTAY,Makita Corp. American Depositary Shares,U
 MKTDF,Deepmarkit Corp Common Shares,U
 MKTX,"MarketAxess Holdings, Inc. Common Stock",NASDAQ
-MKTY,Mechanical Technology Incorporated Common Stock,U
+MKTY,Mechanical Technology Incorporated Common Stock,NASDAQ
 MKVNF,District Metals Corp Ordinary Shares,U
 MKYSF,Mark Dynamics Indonesia Tbk Pt (Indonesia),U
 MLAB,"Mesa Laboratories, Inc. Common Stock",NASDAQ
@@ -5140,6 +5136,7 @@ MOTV U,"Motive Capital Corp Units, each consisting of one Class A ordinary share
 MOTV WS,"Motive Capital Corp Warrants, each whole warrant exercisable for one Class A ordinary share at an ex",NYSE
 MOV,"Movado Group, Inc.",NYSE
 MOVAA,Movado Group Inc. Class A Common Stock,U
+MOVE,Movano Inc. Common Stock,NASDAQ
 MOVYY,Movida Participacoes SA Sponsored ADR (Brazil),U
 MOXC,"Moxian, Inc. Common Stock",NASDAQ
 MOYFF,Mynaric AG Ordinary Shares (Germany),U
@@ -5232,7 +5229,6 @@ MRGN,Mergence Corporation Common Stock,U
 MRGO,Margo Caribe Inc. Common Stock,U
 MRGR,ProShares Merger ETF,BATS
 MRGRY,Mirgor SaCifia Sponsored ADR representing Class C shares (Argentina),U
-MRHBP,Merchants Bancorp Ind Depositary Shares Rep 1/40th Perp Pfd Series C,U
 MRHIF,"Mori Hills REIT Investment Corp., Tokyo Ordinary Shares (Japan)",U
 MRIB,"Marani Brands, Inc. Common Stock",U
 MRIIF,Mehadrin Ltd Ordinary Shares (Israel),U
@@ -5320,6 +5316,7 @@ MSFIW,Morgan Stanley Fin LLC Call Warrants Based On Euro Stoxx 50 Index Expiring
 MSFKW,Morgan Stanley Fin LLC Call Warrants Based on Euro Stoxx 50 Index Expiring 04/29/2021,U
 MSFN,Mainstreet Financial Corp. Common Stock,U
 MSFT,Microsoft Corporation Common Stock,NASDAQ
+MSGCF,MAS GOLD CORP Ordinary Shares,U
 MSGE,Madison Square Garden Entertainment Corp.,NYSE
 MSGM,Motorsport Games Inc. Class A Common Stock,NASDAQ
 MSGN,MSG Networks Inc.,NYSE
@@ -5401,3 +5398,7 @@ MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
 MTG,MGIC Investment Corp.,NYSE
+MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
+MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
+MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
+MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U

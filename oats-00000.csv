@@ -3001,6 +3001,7 @@ BLMMF,BLACKMORES LTD Ordinary Shares (Australia),U
 BLMN,"Bloomin' Brands, Inc. Common Stock",NASDAQ
 BLMUF,BALMUDA INC Common Stock,U
 BLNC,Balance Labs Inc  Common Stock,U
+BLNGU,Belong Acquisition Corp. Units,NASDAQ
 BLNK,Blink Charging Co. Common Stock,NASDAQ
 BLNKW,Blink Charging Co. Warrant,NASDAQ
 BLNMF,Blue Note Mining Inc New Ordinary Shares (Canada),U
@@ -3430,7 +3431,7 @@ BRVDF,BRAVIDA HLDG AB Ordinary Shares,U
 BRVFY,Lastminute.com NV American Depositary Receipts - Unsponsored,U
 BRVO,Bravo Multinational Incorporated Common Stock,U
 BRVRF,"Blue River Resources, Ltd. Ordinary Shares (Canada)",U
-BRVVF,Quantum Cobalt Corp Ordinary Shares,U
+BRVVF,QUANTUM BATTERY METALS CORP Ordinary Shares,U
 BRX,BRIXMOR PROPERTY GROUP INC.,NYSE
 BRY,Berry Corporation (bry) Common Stock,NASDAQ
 BRYAF,Berjaya Corporation BHD Ordinary shares (Malaysia),U
@@ -4685,13 +4686,11 @@ CIBH,"CIB Marine Bancshares, Inc. (Wisconsin) Common Stock",U
 CIBN,"Community Investors Bancorp, Inc. New Common Stock",U
 CIBR,First Trust Exchange-Traded Fund II First Trust NASDAQ Cybersecurity ETF,NASDAQ
 CIBY,"CIBL, Inc. Common Stock",U
-CIC U,"Capitol Investment Corp. VII Units, each consisting of one share of Class A common stock, and one-fi",NYSE
 CICHF,China Construction Bank Shares -H- (China),U
 CICHY,China Construction Bank Corporation Unsponsored ADR representing H shares (China),U
 CICN,"Cicero, Inc. Common Stock",U
 CICOF,Cosco Shipping Holdings Co Ltd Ordinary Shares,U
 CICOY,COSCO SHIPPING Holdings Co Ltd American Depositary Receipts - Unsponsored,U
-CICX U,"Capitol Investment Corp. VI Units, each consisting of one share of Class A common stock, and one-fif",NYSE
 CID,VictoryShares International High Div Volatility Wtd ETF,NASDAQ
 CIDM,"Cinedigm Corp., Class A Common Stock",NASDAQ
 CIEN,Ciena Corporation,NYSE
@@ -5162,7 +5161,6 @@ CNLHN,Connecticut Light & Power Company 3.90% Preferred Stock,U
 CNLHO,Connecticut Light & Power Company 4.50% Series 1956 Preferred Stock,U
 CNLHP,Connecticut Light & Power Company 4.50% Series 1963 Preferred Stock,U
 CNLK,"Cannalink, Inc. New Common Stock",U
-CNLLF,Central China Real Estate Limited Ordinary Shares (Cayman Islands),U
 CNLPL,Connecticut Light & Power Company $3.24 Series G Preferred Stock,U
 CNLPM,Connecticut Light & Power Company $2.06 Series E Preferred Stock,U
 CNLTL,Connecticut Light & Power Company $1.90 Preferred Stock,U
@@ -5230,7 +5228,6 @@ CNTO,"Centor Energy, Inc. Common Stock",U
 CNTRF,Centr Brands Corp Common Stock (Canada),U
 CNTSF,Constellation Resources Ltd. Ordinary Shares (Australia),U
 CNTTQ,CANNTRUST HLDGS INC COM (Canada),U
-CNTUF,Centuria Office REIT Ordinary Units Fully Paid (Australia),U
 CNTWW,Contura Energy Inc Wt Exp Ser A Expiring 07/26/2023,U
 CNTY,"Century Casinos, Inc. Common Stock",NASDAQ
 CNUCF,Canuc Res Corp CDA Common Shares,U
@@ -5402,3 +5399,7 @@ CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
+CPF,Central Pacific Financial Corporation,NYSE
+CPFH,"Capital Financial Holdings, Inc. Common Stock",U
+CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
+CPG,CRESCENT POINT ENERGY CORP.,NYSE

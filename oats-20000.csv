@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
-SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
@@ -142,7 +138,6 @@ SIMP,"Simply, Inc. Common Stock",U
 SIMS,SPDR S&P Kensho Intelligent Structures ETF,ARCA
 SIMTF,Sim Technology Group Limited Ordinary Shares (Bermuda),U
 SIMYF,Singapore Myanmar Investco LTD SHS (Singapore),U
-SINA,SINA Corporation Ordinary Shares,NASDAQ
 SINC,Sincerity Applied Materials Holdings Corp. Common Stock,U
 SING,Singlepoint Inc. Common Stock,U
 SINGF,Singapore Airlines Ltd Ordinary shares (Singapore),U
@@ -1339,7 +1334,7 @@ STRL,Sterling Construction Company Inc Common Stock,NASDAQ
 STRM,"Streamline Health Solutions, Inc. Common Stock",NASDAQ
 STRNY,Severn Trent Plc Sponsored ADR (UK),U
 STRO,"Sutro Biopharma, Inc. Common Stock",NASDAQ
-STRPF,STARR PEAK EXPL LTD  Ordinary Shares,U
+STRPF,STARR PEAK MNG LTD Ordinary Shares,U
 STRR,"Star Equity Holdings, Inc. Common Stock",NASDAQ
 STRRF,Satori Resources Inc Common Shares,U
 STRRP,"Star Equity Holdings, Inc. Series A Cumulative Perpetual Preferred Stock",NASDAQ
@@ -1531,6 +1526,7 @@ SVT,"Servotronics, Inc.",AMEX
 SVTE,"Service Team, Inc. COMMON",U
 SVTLQ,"SiVault Systems, Inc. Common Stock",U
 SVTMF,SM Investments Corporation Ordinary Shares (Phillippines),U
+SVTPF,S VENTURES PLC Ordinary Shares,U
 SVTRF,Severn Trent Plc Ordinary Shares,U
 SVUFF,Sun International Ltd Ordinary Shares (South Africa),U
 SVVB,Savi Financial Corporation Common Stock,U
@@ -1819,6 +1815,7 @@ TBNGY,PT Bukit Asam Persero TBK American Depositary Receipts - Unsponsored,U
 TBNK,Territorial Bancorp Inc. Common Stock,NASDAQ
 TBPH,"Theravance Biopharma, Inc. Ordinary Shares",NASDAQ
 TBPMF,Tetra Bio-Pharma Inc. Ordinary Shares,U
+TBSAU,TB SA Acquisition Corp Unit,NASDAQ
 TBT,ProShares Trust UltraShort Lehman 20+ Year Treasury,ARCA
 TBTC,"Table Trac, Inc. Common Stock",U
 TBTEF,Twin Butte Energy Ltd Ordinary Shares (Canada),U
@@ -2264,6 +2261,7 @@ TKAMY,Thyssenkrupp AG American Depositary Receipts - Sponsored,U
 TKAT,"Takung Art Co., Ltd.",AMEX
 TKAYF,JUST EAT TAKEAWAY Ordinary Shares,U
 TKAYY,Just Eat Takeaway.com N.V. American Depositary Receipts - Unsponsored,U
+TKBGF,TAKBO GROUP HLDGS LTD Ordinary Shares,U
 TKBIF,Takara Bio Inc Ohtsu Ordinary Shares (Japan),U
 TKC,TURKCELL ILETISIM HIZMETLERI A.S. ADS,NYSE
 TKCBF,Tokai Carbon Co Ltd Ordinary Shares (Japan),U
@@ -2335,7 +2333,6 @@ TLIS,Talis Biomedical Corporation Common Stock,NASDAQ
 TLK,PT Telekomunikasi Indonesia,NYSE
 TLKGY,Telkom SA SOC Ltd,U
 TLKMF,Pt Telekomunikasi Indonesia Persero TBK Series B,U
-TLKTF,Talk Talk Telecom Group Plc Ordinary Shares (United Kingdom),U
 TLLEQ,"Teletouch Communications, Inc. Common Stock",U
 TLLGF,Talgo SA Ordinary Shares (Spain),U
 TLLTF,Tilt Hldgs Inc Ordinary Shares,U
@@ -2378,6 +2375,7 @@ TMASF,Temas Res Corp Common Stock (Canada),U
 TMAT,Main Thematic Innovation ETF,BATS
 TMAUF,TECHNOLOGY METALS AUSTRALIA LTD Ordinary Shares (Australia),U
 TMBBY,TMB Bank Public Company Limited Unsponsored American Depository Receipt (Thailand),U
+TMBIF,TOMBADOR IRON LTD Ordinary Shares,U
 TMBR,"Timber Pharmaceuticals, Inc.",AMEX
 TMBXF,Tombstone Exploration Corporation Common Shares,U
 TMCGF,Tomco Energy Plc Ordinary Shares,U
@@ -2703,7 +2701,7 @@ TRMLF,Tourmaline Oil Corp. Ordinary Shares (Canada),U
 TRMNF,NEW WAVE HLDGS CORP Ordinary Shares,U
 TRMT,Tremont Mortgage Trust Common Shares of Beneficial Interest,NASDAQ
 TRN,"Trinity Industries, Inc.",NYSE
-TRNAF,Terra Nova Resources Inc Common Shares  (Canada),U
+TRNAD,WELLTEQ DIGITAL HEALTH INC Common Shares,U
 TRND,Pacer Trendpilot Fund of Funds ETF,ARCA
 TRNF,TARONIS FUELS INC Common Stock,U
 TRNGF,Trendlines Group LTD Ordinary Shares (Israel),U
@@ -3381,6 +3379,7 @@ UONEK,"Urban One, Inc. Class D Common Stock",NASDAQ
 UOVEF,United Overseas Bk Singapore Ordinary Shares,U
 UOVEY,United Overseas Bk Singapore American Depositary Shares,U
 UPBMF,United Plantations Berhad Ordinary Shares (Malaysia),U
+UPC,Universe Pharmaceuticals Inc. Ordinary Shares,NASDAQ
 UPCHY,Uni-President China Holdings Ltd. Unsponsored ADR (Cayman Islands),U
 UPCO,Universal Potash Corp. Common Stock,U
 UPDC,UPD Holding Corp. Common Stock,U
@@ -3767,6 +3766,7 @@ VGGDF,Vanguard Australia Limited Units Exchange Traded Fund (Australia),U
 VGGOF,Cryptologic Corp.  Ordinary Shares,U
 VGI,VIRTUS GLOBAL MULTI-SECTOR INCOME FUND,NYSE
 VGID,V Group Inc. Common Stock,U
+VGII U,"Virgin Group Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth",NYSE
 VGIT,Vanguard Intermediate-Term Treasury ETF,NASDAQ
 VGK,Vanguard FTSE Europe ETF,ARCA
 VGLDF,Vangold Mng Corp Ordinary Shares,U
@@ -4518,6 +4518,7 @@ WINR,Simplicity Esports & Gaming Co Common Stock,U
 WINRW,Simplicity Esports & Gaming Co Warrant   11/20/2023,U
 WINSF,WINS FIN HLDGS INC Ordinary Shares,U
 WINT,"Windtree Therapeutics, Inc. Common Stock",NASDAQ
+WINTW,WINDTREE THERAPEUTICS INC Warrant  03/25/2026,U
 WIP,SPDR FTSE International Government Inflation-Protected Bond ETF,ARCA
 WIPKF,Winpak Ltd Ordinary Shares,U
 WIRE,Encore Wire Corporation Common Stock,NASDAQ
