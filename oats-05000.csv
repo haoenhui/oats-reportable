@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPF,Central Pacific Financial Corporation,NYSE
+CPFH,"Capital Financial Holdings, Inc. Common Stock",U
+CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
+CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPGZF,CG Power & Industrial Ltd. Global Depositary Receipts - Sponsored,U
@@ -257,6 +261,7 @@ CRZBF,Commerzbank Junge Shs Ordinary Shares,U
 CRZBY,Commerzbank Junge Shs American Depositary Shares,U
 CRZHF,Rockwealth Res Corp Common Shares,U
 CRZNF,Corazon Mining Ltd Ordinary Shares (Australia),U
+CRZNU,Corazon Capital V838 Monoceros Corp Unit,NASDAQ
 CRZY,Crazy Woman Creek Bancorp Incorporated Common Stock,U
 CS,Credit Suisse Group,NYSE
 CSA,VictoryShares US Small Cap Volatility Wtd ETF,NASDAQ
@@ -878,6 +883,7 @@ DCPH,"Deciphera Pharmaceuticals, Inc. Common Stock",NASDAQ
 DCRB,Decarbonization Plus Acquisition Corporation Class A Common Stock,NASDAQ
 DCRBU,Decarbonization Plus Acquisition Corporation Unit,NASDAQ
 DCRBW,Decarbonization Plus Acquisition Corporation Warrant,NASDAQ
+DCRCU,Decarbonization Plus Acquisition Corporation III Unit,NASDAQ
 DCRNU,Decarbonization Plus Acquisition Corporation II Unit,NASDAQ
 DCSX,DIRECT COMMUNICATION SOLUTIONS INC Common Stock,U
 DCT,"Duck Creek Technologies, Inc. Common Stock",NASDAQ
@@ -1121,6 +1127,7 @@ DIPGF,Datang International Power Generation Co Ltd Ordinary Shares H (China),U
 DIPGY,Datang International Power Generation Co Ltd Sponsored ADR representing H Shs (China),U
 DIRV,DIRECTVIEW HLDGS INC Common Stock,U
 DIS,The Walt Disney Company,NYSE
+DISAU,Disruptive Acquisition Corporation I Unit,NASDAQ
 DISCA,"Discovery, Inc. Series A Common Stock",NASDAQ
 DISCB,"Discovery, Inc. Series B Common Stock",NASDAQ
 DISCK,"Discovery, Inc. Series C Common Stock",NASDAQ
@@ -1332,6 +1339,7 @@ DNZOY,Denso Corp Ltd Ord American Depositary Shares,U
 DOC,PHYSICIANS REALTY TRUST,NYSE
 DOCKF,BEYOND MED TECHNOLOGIES INC Common Stock,U
 DOCMF,DR. MARTENS PLC ORD GBP0.01 (United Kingdom),U
+DOCN,"DigitalOcean Holdings, Inc.",NYSE
 DOCOF,Do & Co AG Ordinary Shares (Austria),U
 DOCRF,CLOUDMD SOFTWARE & SVCS INC Common Shares,U
 DOCT,FT Cboe Vest U.S. Equity Deep Buffer ETF - October,BATS
@@ -1425,6 +1433,7 @@ DRRGF,DRAGONTAIL SYS LTD Ordinary Shares (Australia),U
 DRRKF,Dormakaba Holding Ltd Ordinary Shares (Switzerland),U
 DRRSF,Arianne Phosphate Inc Ordinary Shares (Canada),U
 DRRX,DURECT Corporation Common Stock,NASDAQ
+DRS,"Leonardo DRS, Inc.",NYSE
 DRSHF,Droneshield Ltd ORDINARY FULLY PAID (Australia),U
 DRSK,Aptus Defined Risk ETF,BATS
 DRSV,Debt Resolve Inc. Common Stock,U
@@ -2299,7 +2308,6 @@ ENPC WS,"Executive Network Partnering Corporation Warrants, each whole warrant e
 ENPGF,ENPRISE GROUP LTD Common Shares  New Zealand(NZ ),U
 ENPH,"Enphase Energy, Inc. Common Stock",NASDAQ
 ENPRF,Current Water Technologies Inc Common Shares,U
-ENQQF,"ENTEQ UPSTREAM PLC, ASCOT Ordinary Shares (United Kingdom)",U
 ENQUF,"Enquest Plc, London Ordinary Shares (United Kingdom)",U
 ENR,"Energizer Holdings, Inc",NYSE
 ENR PRA,"Energizer Holdings, Inc. 7.50% Series A Mandatory Convertible Preferred Stock",NYSE
@@ -3407,6 +3415,7 @@ FLCB,Franklin Liberty U.S. Core Bond ETF,ARCA
 FLCH,Franklin FTSE China ETF,ARCA
 FLCO,Franklin Liberty Investment Grade Corporate ETF,ARCA
 FLCX,flooidCX Corp. Common Shares,U
+FLDAY,Fluidra SA American Depositary Receipts - Unsponsored (Spain),U
 FLDI,Folkup Dev Inc Common Stock,U
 FLDM,Fluidigm Corporation Common Stock,NASDAQ
 FLDPF,Frontline Gold Corp Common Shares (Canada),U
@@ -3877,7 +3886,6 @@ FRTD,"Fortitude Group, Inc. Common Stock",U
 FRTEU,Frontier Ethanol LLC Cap Unit Class A,U
 FRTG,FRONTERA GROUP INC Common Stock,U
 FRTHF,Fruitas Holdings Inc. Ordinary Shares (Philippines),U
-FRTIF,Fortress Income Fund Ltd Ordinary Shares (South Africa),U
 FRTN,Fortran Corporation Common Stock,U
 FRTXF,Fortnox AB Ordinary Shares (Sweden),U
 FRTY,Alger Mid Cap 40 ETF,ARCA
@@ -5068,7 +5076,6 @@ GRCLF,Graincorp Limited Shs A Npv Ordinary Shares,U
 GRCO,Greenbelt Resources Corporation Common Stock,U
 GRCTF,GRACE TECHNOLOGY INC Ordinary Shares,U
 GRCU,Green Cures & Botanical Distribution Inc. Common Stock,U
-GRCVD,"Yuka Group, Inc. Common Stock",U
 GRCY,Greencity Acquisition Corporation Ordinary Shares,NASDAQ
 GRCYU,Greencity Acquisition Corporation Unit,NASDAQ
 GRCYW,Greencity Acquisition Corporation Warrants,NASDAQ
@@ -5399,6 +5406,3 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U

@@ -294,6 +294,7 @@ ACUIF,AcuityAds Hldgs Inc Ordinary Shares (Canada),U
 ACUR,ACURA PHARMACEUTICALS INC Common Stock,U
 ACUS,"Acusphere, Inc. (NEW) Common Stock",U
 ACV,Virtus AllianzGI Diversified Income & Convertible Fund,NYSE
+ACVA,ACV Auctions Inc. Class A Common Stock,NASDAQ
 ACVF,American Conservative Values ETF,ARCA
 ACWEF,SSGA SPDR ETFS EUROPE I PLC ACCUM SHS EXCHANGE TRADED FUND USD (Ireland),U
 ACWF,iShares MSCI Global Multifactor ETF,ARCA
@@ -383,7 +384,9 @@ ADPPF,ADO PPTYS S A Ordinary Shares (Luxembourg),U
 ADPT,Adaptive Biotechnologies Corporation Common Stock,NASDAQ
 ADPXF,Audio Pixels Holdings Ltd Ordinary Shares (Australia),U
 ADPXY,Audio Pixels Holdings Ltd Sponsored ADR (Australia),U
+ADRA,Adara Acquisition Corp.,AMEX
 ADRA U,"Adara Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of",AMEX
+ADRA WS,"Adara Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A",AMEX
 ADRE,Invesco BLDRS Emerging Markets 50 ADR Index Fund,NASDAQ
 ADRNY,Koninklijke Ahold Delhaize N.V. American Depositary Receipts - Sponsored,U
 ADRZF,Andritz Ag Graz Ordinary Shares,U
@@ -987,6 +990,7 @@ ALORY,Alior Bank SA Unsponsored ADR (Poland),U
 ALOT,"AstroNova, Inc. Common Stock",NASDAQ
 ALOXF,Ayalaland Logistics Holdings Corporation Common Shares (Philippines),U
 ALP PRQ,"Alabama Power Company 5.00% Class A Preferred Stock, Cumulative, Par Value $1 Per Share (Stated Capi",NYSE
+ALPAU,Alpha Healthcare Acquisition Corp. III Units,NASDAQ
 ALPC,Alpha Investment Inc. Common Stock,U
 ALPE,alpha-En Corporation Common Stock,U
 ALPGF,Alpha Growth PLC Ordinary Shares (United Kingdom),U
@@ -1185,6 +1189,7 @@ AMRC,"Ameresco, Inc.",NYSE
 AMRCF,AM Resources Corp. Common Shares Canada (CA),U
 AMRK,"A-Mark Precious Metals, Inc. Common Stock",NASDAQ
 AMRN,Amarin Corporation plc,NASDAQ
+AMROF,Amaero International Ltd. Ordinary Shares (Australia),U
 AMRPF,AmorePacific Corporation Ordinary Shares (South Korea),U
 AMRR,American Metals Recovery and Recycling Inc. Common Stock,U
 AMRS,"Amyris, Inc. Common Stock",NASDAQ
@@ -3317,7 +3322,7 @@ BPYUP,Brookfield Property REIT Inc. 6.375% Series A Preferred Stock,NASDAQ
 BPZZF,Boston Pizza Royalties Income Fund Trust Unit (Canada),U
 BQ,"Boqii Holding Limited American Depositary Shares (ADSs), representing Class A Ordinary Shares",NYSE
 BQAZF,Bank Audi SAL Reg S GDR representing Class B Shares (Lebanon),U
-BQCNF,Banque Cantonale Vaudoise Ordinary Shares,U
+BQCNF,BANQUE CANTONALE VAUDOISE Ordinary Shares,U
 BQMGY,Bank of Africa Global Depositary Receipts - Sponsored,U
 BQSSF,Boss Resources Ltd Ordinary Shares (Australia),U
 BQST,BioQuest Corp. Common Stock,U
@@ -3858,6 +3863,7 @@ CALEF,Caledonia Investments PLC Ordinary Shares (UNited Kingdom),U
 CALF,Pacer US Small Cap Cash Cows 100 ETF,BATS
 CALI,China Auto Logistics Inc. Common Stock,U
 CALM,"Cal-Maine Foods, Inc. Common Stock",NASDAQ
+CALQU,Callodine Acquisition Corporation Unit,NASDAQ
 CALRF,Calidus Resources Ltd Ordinary Shares,U
 CALT,Calliditas Therapeutics AB American Depositary Shares,NASDAQ
 CALX,"CALIX, INC.",NYSE
@@ -4982,6 +4988,7 @@ CMCT,CIM Commercial Trust Corporation Common stock,NASDAQ
 CMCTP,CIM Commercial Trust Corporation Series L Preferred Stock,NASDAQ
 CMCXF,CMC Metals Ltd Common Shares,U
 CMD,Cantel Medical Corporation,NYSE
+CMDKF,China Modern Dairy Holdings Ltd Ordinary Share (Cayman Islands),U
 CMDRF,Commander Resources Ltd Ordinary Shares,U
 CMDXF,Computer Modelling Group Ordinary Shares,U
 CMDY,iShares Bloomberg Roll Select Commodity Strategy ETF,ARCA
@@ -5399,7 +5406,3 @@ CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
-CPF,Central Pacific Financial Corporation,NYSE
-CPFH,"Capital Financial Holdings, Inc. Common Stock",U
-CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
-CPG,CRESCENT POINT ENERGY CORP.,NYSE

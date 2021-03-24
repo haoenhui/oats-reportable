@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
+MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
 MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
 MTH,Meritage Homes Corporation,NYSE
 MTHGF,Meigu Technology Holdings Group Ltd Ordinary Shares (Cayman Islands),U
@@ -511,6 +513,7 @@ NGAC,NextGen Acquisition Corporation Class A Ordinary Shares,NASDAQ
 NGACU,NextGen Acquisition Corporation Units,NASDAQ
 NGACW,NextGen Acquisition Corporation Warrants,NASDAQ
 NGBL,"Notis Global, Inc. Common Stock",U
+NGC U,"Northern Genesis Acquisition Corp. III Units, each consisting of one share of common stock and one-q",NYSE
 NGCAU,NextGen Acquisition Corp. II Units,NASDAQ
 NGCG,"New Generation Consumer Group, Inc. Common Stock",U
 NGCRF,Nagacorp Ltd Ordinary Shares (Cayman Islands),U
@@ -1527,6 +1530,7 @@ OJIPY,Oji Holdings Corporation American Depositary Shares,U
 OJOC,Ojai Oil Co Common Stock,U
 OJSCY,OJSC OC Rosneft Sponsored GDR Reg S (Russia),U
 OJSY,"OJsys, Inc. Common Stock",U
+OKAMF,Okamura Corp Ordinary Shares (Japan),U
 OKASY,"Onward Holdings Co., Ltd. Unponsored ADR (Japan)",U
 OKCTF,Okinawa Cellular Telephone Co Naha City Okinawa Prefecture Shs (Japan),U
 OKE,"Oneok, Inc.",NYSE
@@ -2959,7 +2963,6 @@ PRFT,"Perficient, Inc. Common Stock",NASDAQ
 PRFX,PainReform Ltd. Ordinary Shares,NASDAQ
 PRFZ,Invesco Exchange-Traded Fund Trust Invesco FTSE RAFI US 1500 Small-Mid ETF,NASDAQ
 PRG,"PROG Holdings, Inc.",NYSE
-PRGAF,Pargesa Holding Sa Ordinary Shares (Switzerland),U
 PRGLY,Puregold Price Club Inc American Depositary Receipts (Phillipines),U
 PRGNF,PARAGON SHIPPING INC Ordinary Shares,U
 PRGO,PERRIGO COMPANY PLC,NYSE
@@ -2974,6 +2977,7 @@ PRIF PRC,"Priority Income Fund, Inc. 6.625% Series C Term Preferred Stock due 20
 PRIF PRD,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029",NYSE
 PRIF PRE,"Priority Income Fund, Inc. 6.375% Series E Preferred Stock Due 2024",NYSE
 PRIF PRF,"Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027",NYSE
+PRIF PRG,"Priority Income Fund, Inc. 6.25% Series G Preferred Stock Due 2026",NYSE
 PRIM,Primoris Services Corporation Common Stock,NASDAQ
 PRISY,Promotora De Informaciones SA American Depositary Receipts - Sponsored,U
 PRK,Park National Corporation,AMEX
@@ -3118,7 +3122,6 @@ PSCR,Proto Script Pharmaceutical Corp. Common Stock,U
 PSCT,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap Information Technology ETF,NASDAQ
 PSCU,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap Utilities & Communication Services ETF,NASDAQ
 PSCX,Pacer Swan SOS Conservative (December) ETF,BATS
-PSDI,Presidion Corporation Common Stock,U
 PSDMF,Gaming Realms PLC Ordinary Shares (United Kingdom),U
 PSDNF,Poseidon Nickel Ltd Ordinary Shares (Australia),U
 PSEC,Prospect Capital Corporation Common Stock,NASDAQ
@@ -3850,6 +3853,7 @@ RCM,R1 RCM Inc. Common Stock,NASDAQ
 RCMGF,RUICHENG CHINA MEDIA GROUP LTD Ordinary Shares,U
 RCMH,"Reach Messaging Holdings, Inc. Common Stock",U
 RCMT,"RCM Technologies, Inc. Common Stock",NASDAQ
+RCMW,"RCMW Group, Inc. Common Stock",U
 RCON,"Recon Technology, Ltd. Ordinary Shares",NASDAQ
 RCP,Ready Capital Corporation 6.50% Senior Notes due 2021,NYSE
 RCPHF,RECIPHARM AB SHS -B- (Sweden),U
@@ -4219,7 +4223,6 @@ RLJ,RLJ Lodging Trust,NYSE
 RLJ PRA,RLJ Lodging Trust $1.95 Series A Cumulative Convertible Preferred Shares,NYSE
 RLLCF,Rolls Royce Holdings PLC Non Cum Red Pref Shares C (United Kingdom),U
 RLLMF,Real Matters Inc. Ordinary Shares (Canada),U
-RLLRF,Sugarbud Craft Growers Corp Ordinary Shares,U
 RLLT,Reliant Svc Inc Common Stock,U
 RLLVF,Relevium Technologies Inc Ordinary Shares (Canada),U
 RLLWF,Reliance Worldwide Corp Ltd Ordinary Shares (Australia),U
@@ -4483,7 +4486,6 @@ RSHPF,Irish Residential Properties REIT PLC Ordinary Shares Euro.10,U
 RSHTF,RESONANCE HEALTH LTD SHS (Australia),U
 RSHYY,RusHydro PJSC American Depositary Receipts - Sponsored,U
 RSI,"Rush Street Interactive, Inc.",NYSE
-RSI WS,"Rush Street Interactive, Inc. Redeemable Warrants, each whole warrant exercisable for one share of C",NYSE
 RSKIA,"Risk (George) Industries, Inc. Class A",U
 RSLBF,Raysearch Laboratories AB Ordinary Shares Class B (Sweden),U
 RSLS,ReShape Lifesciences Inc. Common Stock,U
@@ -4872,6 +4874,7 @@ SBSTF,SBS TRANSIT LTD Ordinary Shares,U
 SBSW,"Sibanye-Stillwater American Depositary Shares, each representing four ordinary shares",NYSE
 SBT,"Sterling Bancorp, Inc. Common Stock",NASDAQ
 SBTX,"Silverback Therapeutics, Inc. Common Stock",NASDAQ
+SBUDF,Sugarbud Craft Growers Corp Ordinary Shares,U
 SBUG,iPath Silver ETN,ARCA
 SBUM,Silver Buckle Mines Inc Common Stock,U
 SBUX,Starbucks Corporation Common Stock,NASDAQ
@@ -5395,10 +5398,11 @@ SHGY,SearchGuy.com Inc. Common Stock,U
 SHHPF,Ship Healthcare Holdings Inc Ordinary Shares (Japan),U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
-SHIOF,Shinohara System of Construction Co Ltd Fukuoka Ordinary Shares (Japan),U
+SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
+SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U

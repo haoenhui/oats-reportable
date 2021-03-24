@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
@@ -94,7 +97,6 @@ HALMY,Halma PLC American Depositary Shares - Unsponsored (United Kingdom),U
 HALN,"Halo Companies, Inc. Common Stock",U
 HALO,"Halozyme Therapeutics, Inc. Common Stock",NASDAQ
 HAMBF,Horizons Active CDN Municipal Bond ETF Unit Advisor CL (Canada),U
-HANBF,Hamborner REIT AG Ordinary Shares (Germany),U
 HANCF,HANSTONE GOLD CORP Common Stock,U
 HANNF,"Hannan Metals, Ltd.  Common Shares",U
 HANOF,Hansen Technologies Ltd Ordinary Shares (Australia),U
@@ -706,7 +708,6 @@ HPST,"Hempstract, Inc. Common Stock",U
 HPSYF,HORIZONS PSYCHEDELIC STK INDEX ETF Exchange Traded Fund,U
 HPTN,"Happy Town Holdings, Inc. Common Stock",U
 HPTO,hopTo Inc. New Common Stock,U
-HPTYD,"RCMW Group, Inc. Common Stock",U
 HPX,HPX Corp.,NYSE
 HPX U,"HPX Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemable warran",NYSE
 HPX WS,"HPX Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an e",NYSE
@@ -1347,6 +1348,7 @@ IFRX,InflaRx N.V. Common Stock,NASDAQ
 IFS,Intercorp Financial Services Inc.,NYSE
 IFSH,IFS International Holdings Inc. Common Stock,U
 IFSPF,Interfor Corporation Common Shares (Canada),U
+IFSTF,Ifast Corp Ltd. Ordinary Shares (Singapore),U
 IFSUF,Infrastrutture Wireless Italiane SPA Azioni Ordinary Shares (Italy),U
 IFTPF,Intact Financial Corp. Non Cum Rate Reset Pfd Class A SEries 7 (Canada),U
 IFUS,Impact Fusion International Inc Common Stock,U
@@ -1753,7 +1755,7 @@ INSEW,INSPIRED ENTMT INC Warrant   10/20/2021,U
 INSG,Inseego Corp. Common Stock,NASDAQ
 INSHF,Inner Spirit Holdings Ordinary Shares,U
 INSI,Insight Select Income Fund,NYSE
-INSIF,"Insuline Medical Ltd, Petach-Tikva Ordinary Shares",U
+INSIF,ERECH FIN CAHALACHA LTD Ordinary Shares,U
 INSM,"Insmed, Inc. Common Stock",NASDAQ
 INSO,"Industry Source Consulting, Inc. Common Stock",U
 INSP,"Inspire Medical Systems, Inc.",NYSE
@@ -2359,6 +2361,7 @@ IZQVF,INDIVIOR PLC Ordinary Shares (United Kingdom),U
 IZRL,ARK Israel Innovative Technology ETF,BATS
 J,Jacobs Engineering Group,NYSE
 JAAA,Janus Henderson AAA CLO ETF,ARCA
+JAAC,Just Another Acquisition Corp. Class A Common Stock,NASDAQ
 JACJF,JAC RECRUITMENT CO LTD SHS (Japan),U
 JACK,Jack In The Box Inc. Common Stock,NASDAQ
 JACO,"Jaco Electronics, Inc. Common Stock",U
@@ -4227,6 +4230,7 @@ MALDF,Macau Legend Development Ltd. HKD Ordinary Shares (Cayman Islands),U
 MALJF,Magellan Aerospace Corporation Ordinary Shares,U
 MALRF,Mineral Resources Ltd. Ordinary Shares,U
 MALRY,Mineral Resources Ltd. Unsponsored ADR (Austrailia),U
+MAMB,Monarch Ambassador Income ETF,BATS
 MAMTF,Mcan Mortgage Corp Common Shares (Canada),U
 MAN,ManpowerGroup,NYSE
 MANH,"Manhattan Associates, Inc. Common Stock",NASDAQ
@@ -4289,6 +4293,7 @@ MBAKF,mBank SA Ordinary Shares (Poland),U
 MBAY,"MediaBay, Inc. Common Stock",U
 MBB,iShares MBS ETF,NASDAQ
 MBBB,VanEck Vectors Moody's Analytics BBB Corporate Bond ETF,BATS
+MBCC,Monarch Blue Chips Core ETF,BATS
 MBCFF,Itafos Common Shares,U
 MBCI,MabCure Inc. Common Stock,U
 MBCN,Middlefield Banc Corp. Common Stock,NASDAQ
@@ -5173,6 +5178,7 @@ MPML,"MPM Technologies, Inc. Common Stock",U
 MPNGF,Meituan Dianping Ordinary Shares Class B (Cayman Islands),U
 MPNGY,MEITUAN American Depositary Receipts - Unsponsored,U
 MPRG,"Motion Picture Group, Inc. (The) Common Stock",U
+MPRO,Monarch ProCap ETF,BATS
 MPSFF,REVOLUGROUP CDA INC Ordinary Shares,U
 MPSYF,MorphoSys AG Ordinary Shares (Germany),U
 MPTYY,"MERLIN PROPERTIES, SOCIMI, S.A. Unsponsored ADR (Spain)",U
@@ -5400,5 +5406,3 @@ MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
-MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
-MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
