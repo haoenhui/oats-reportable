@@ -8,7 +8,9 @@ AAALY,Aareal Bank AG Unsponsored American Depository Receipt (Germany),U
 AAAU,Goldman Sachs Physical Gold ETF Shares,ARCA
 AABB,Asia Broadband Inc Common Stock,U
 AABVF,Aberdeen International Inc Ordinary Shares,U
+AAC,Ares Acquisition Corporation,NYSE
 AAC U,"Ares Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-fifth of",NYSE
+AAC WS,"Ares Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A ord",NYSE
 AACAF,AAC Technologies Holdings Inc Ordinary Shares (Cayman Islands),U
 AACAY,AAC Technologies Holdings Inc Unsponsored ADR (Cayman Islands),U
 AACG,ATA Creativity Global American Depositary Shares,NASDAQ
@@ -511,7 +513,6 @@ AFBA,"Allied First Bancorp, Inc. (Maryland) Common Stock",U
 AFBG,"American Fiber Green Products, Inc. Common Stock",U
 AFBI,"Affinity Bancshares, Inc. Common Stock (MD)",NASDAQ
 AFBOF,African Rainbow Minerals Limited Ordinary Shares (South Africa),U
-AFC,Allied Capital Corporation,NYSE
 AFCG,"AFC Gamma, Inc. Common Stock",NASDAQ
 AFCJF,AFC Ajax NV Amsterdam Ordinary Shares (Netherlands),U
 AFCL,Amcor Financial Corp Common Stock,U
@@ -577,7 +578,9 @@ AFXXF,AF AB,U
 AFYA,Afya Limited Class A Common Shares,NASDAQ
 AFYG,Affinity Gold Corp. Common Stocks,U
 AG,FIRST MAJESTIC SILVER CORP,NYSE
+AGAC,African Gold Acquisition Corporation,NYSE
 AGAC U,"African Gold Acquisition Corporation Units, each consisting of one Class A ordinary share and three",NYSE
+AGAC WS,"African Gold Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Cla",NYSE
 AGATF,Deutsche Bank Agriculture Double Short ETN due 4/1/2038,U
 AGAUF,Arizona Gold Corp. Ordinary Shares,U
 AGBA,AGBA Acquisition Limited Ordinary Share,NASDAQ
@@ -1086,6 +1089,7 @@ AMC,"AMC ENTERTAINMENT HOLDINGS, INC.",NYSE
 AMCA,iShares Trust iShares Russell 1000 Pure U.S. Revenue ETF,NASDAQ
 AMCCF,Amcor PLC CDI 1:1,U
 AMCF,Andatee China Marine Fuel Services Corporation Common Stock,U
+AMCIU,AMCI Acquisition Corp. II Units,NASDAQ
 AMCR,Amcor plc Ordinary Shares,NYSE
 AMCT,American Ed Ctr Inc Common Stock,U
 AMCUF,Amata Corp Public Co Ltd Units Non-Voting Depositary Receipt (Thailand),U
@@ -1638,6 +1642,8 @@ ARTW,"Art's-Way Manufacturing Co., Inc. Common Stock",NASDAQ
 ARTZF,Artnet AG Ordinary Shares (Germany),U
 ARUXF,Acrux Ltd Ordinary Shares (Australia),U
 ARVCF,Areva-Societe Des Participations Du Commissariat A Lenerg Ordinary Shares (France),U
+ARVL,Arrival Ordinary Shares,NASDAQ
+ARVLW,Arrival Warrant,NASDAQ
 ARVN,"Arvinas, Inc. Common Stock",NASDAQ
 ARVY,Alliance Recovery Corporation Common Stock,U
 ARW,"Arrow Electronics, Inc.",NYSE
@@ -2777,6 +2783,7 @@ BIG,"Big Lots, Inc.",NYSE
 BIGC,"BigCommerce Holdings, Inc. Series 1 Common Stock",NASDAQ
 BIGG,"Big Tree Group, Inc. Common Stock",U
 BIGN,BIGEON Common Stock,U
+BIGZ,BlackRock Innovation and Growth Trust,NYSE
 BIIAF,Buhler Industries Inc Cl-A Ordinary Shares,U
 BIIB,Biogen Inc. Common Stock,NASDAQ
 BIIO,Bionovate Technologies Corp. Common Stock,U
@@ -4712,9 +4719,6 @@ CIHHF,China Merchants Bank Co Ltd Shares -H- (China),U
 CIHKY,China Merchants Bank Co Ltd American Depository Receipt (Unsponsored),U
 CIHPF,CB Industrial Product Holding BHD CBIPH Ordinary Shares (Malaysia),U
 CII,"Blackrock Enhanced Captial and Income Fund, Inc.",NYSE
-CIIC,CIIG Merger Corp. Class A Common Stock,NASDAQ
-CIICU,CIIG Merger Corp. Units,NASDAQ
-CIICW,CIIG Merger Corp. Warrants,NASDAQ
 CIIHF,Citic Securities Co Ltd Shares -H- (China),U
 CIIHY,Citic Securities Co Ltd Unsponsored ADR (China),U
 CIIT,Tianci International Inc. Common Stock,U
@@ -5361,6 +5365,7 @@ CORN,Teucrium Corn Fund,ARCA
 CORP,PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund,ARCA
 CORR,"CorEnergy Infrastructure Trust, Inc. (NEW",NYSE
 CORR PRA,"CorEnergy Infrastructure Trust, Inc Depositary Shares representing a 1/100th fractional interest of",NYSE
+CORS U,"Corsair Partnering Corporation Units, each consisting of one Class A ordinary share and one-quarter",NYSE
 CORT,Corcept Therapeutics Incorporated Common Stock,NASDAQ
 CORX,Core Lithium Corp. Common Stock,U
 COSDF,Cosol Ltd. Ordinary Shares (Australia),U
@@ -5405,4 +5410,3 @@ CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
-CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U

@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
@@ -111,6 +112,7 @@ CRCA,Connecticut River Community Bank (CT) Common Stock,U
 CRCBY,Chongqing Rural Commercial Bank Co Ltd Unsponsored ADR (China),U
 CRCQW,CALIFORNIA RES CORP WT EXP 10/27/2024,U
 CRCRF,CAR INC Ordinary Shares (Cayman Islands),U
+CRCT,"Cricut, Inc. Class A Common Stock",NASDAQ
 CRCUF,CANAGOLD RES LTD Common Shares,U
 CRCW,The Crypto Company Common Stock,U
 CRD A,Crawford & Company Class A,NYSE
@@ -690,6 +692,7 @@ CYBXF,Gallagher Security Corp. Ordinary Shares,U
 CYCA,Cytta Corp. Common Stock,U
 CYCC,"Cyclacel Pharmaceuticals, Inc. Common Stock",NASDAQ
 CYCCP,"Cyclacel Pharmaceuticals, Inc. 6% Convertible Preferred Stock",NASDAQ
+CYCMF,"CYCLOPHARM LTD, MELBOURNE SHS (Australia)",U
 CYCN,"Cyclerion Therapeutics, Inc. Common Stock",NASDAQ
 CYD,China Yuchai International Ltd.,NYSE
 CYDGF,Chiyoda Integre Co Ltd SHS (Japan),U
@@ -1253,7 +1256,6 @@ DMNKF,DNI Metals Inc. Ordinary Shares,U
 DMNXF,Sayona Mining Ltd. Ordinary Shares (Australia),U
 DMO,Western Asset Mortgage Opportunity Fund Inc.,NYSE
 DMPBF,Diamond Bldg Pods Pub Co Ltd Units Non -Voting Depository Receipt (Thailand),U
-DMPHF,Dermapharm Hldg SE Ordinary Shares (Germany),U
 DMPLF,Del Monte Pacific Limited Ordinary Shares (British Virgin Islands),U
 DMPWW,KINTARA THERAPEUTICS INC Warrant,U
 DMPZF,DOMINO S PIZZA GROUP PLC Ordinary Shares,U
@@ -1433,7 +1435,6 @@ DRRGF,DRAGONTAIL SYS LTD Ordinary Shares (Australia),U
 DRRKF,Dormakaba Holding Ltd Ordinary Shares (Switzerland),U
 DRRSF,Arianne Phosphate Inc Ordinary Shares (Canada),U
 DRRX,DURECT Corporation Common Stock,NASDAQ
-DRS,"Leonardo DRS, Inc.",NYSE
 DRSHF,Droneshield Ltd ORDINARY FULLY PAID (Australia),U
 DRSK,Aptus Defined Risk ETF,BATS
 DRSV,Debt Resolve Inc. Common Stock,U
@@ -1468,6 +1469,7 @@ DSE,Duff & Phelps Select MLP and Midstream Energy Fund Inc.,NYSE
 DSECF,Daiwa Securities Group Inc Japan Ord Ordinary Shares,U
 DSEEY,Daiwa Securities Group Inc Japan Ord Sponsored ADR (Japan),U
 DSEP,FT Cboe Vest U.S. Equity Deep Buffer ETF - September,BATS
+DSEY,"Diversey Holdings, Ltd. Ordinary Shares",NASDAQ
 DSFGY,Dah Sing Financial Group Sponsored American Depositary Receipt (Hong Kong),U
 DSGT,DSG Global Inc Common Stock,U
 DSGUF,Dogan Sirketler Grubu Holdings AS Ordinary Shares (Turkey),U
@@ -2513,6 +2515,7 @@ ERRFY,Eurofins Scientific SE American Depositary Receipts - Unsponsored (Luxembo
 ERRPF,Ero Copper Corp Ordinary Shares (Canada),U
 ERRSF,Euro Resources SA Ordinary Shares (France),U
 ERSX,ERShares NextGen Entrepreneurs ETF,ARCA
+ERTH,Invesco MSCI Sustainable Future ETF,ARCA
 ERTWF,Eurotech SPA Amaro UD Ordinary Shares (Italy),U
 ERUC,"ER Urgent Care Holdings, Inc. New Common Stock",U
 ERUS,iShares MSCI Russia ETF,ARCA
@@ -4511,6 +4514,7 @@ GFKRF,Opus One Gold Corp Ordinary Shares,U
 GFKSY,Gulf Keystone Pete Ltd ADR (Bermuda),U
 GFL,GFL Environmental Inc. Subordinate Voting Shares,NYSE
 GFLDF,"Gemfields Resources Plc, London Ordinary shares (United Kingdom)",U
+GFLDU,Gefen Landa Acquisition Corp. Units,NASDAQ
 GFLU,GFL Environmental Inc. Tangible Equity Units,NYSE
 GFMH,Goliath Film & Media Holdings Common Stock,U
 GFMRF,GFM RES LTD Ordinary Shares,U
@@ -4744,6 +4748,7 @@ GLOP PRB,GasLog Partners LP 8.200% Series B Cumulative Redeemable Perpetual Fixe
 GLOP PRC,GasLog Partners LP 8.500% Series C Cumulative Redeemable Perpetual Fixed to Floating Rate Preference,NYSE
 GLP,Global Partners LP,NYSE
 GLP PRA,Global Partners LP 9.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred U,NYSE
+GLP PRB,Global Partners LP 9.50% Series B Fixed Rate Cumulative Redeemable Perpetual Preferred Units represe,NYSE
 GLPEF,"Galp Energia, SA, Lisboa Reg Shs -B- (Portugal)",U
 GLPEY,"Galp Energia, SA, Lisboa Unsponsored ADR representing -B-Shares (Portugal)",U
 GLPG,Galapagos NV American Depositary Shares,NASDAQ
@@ -4751,7 +4756,6 @@ GLPGF,Galapagos NV Ordinary Shares,U
 GLPH,"Gala Pharmaceutical, Inc. Common Stock",U
 GLPI,"Gaming and Leisure Properties, Inc. Common Stock",NASDAQ
 GLPJF,GLP J REIT SHS (Japan),U
-GLPRP,Global Partners LP Red Perp Preferred Unit Ser B Fixed/Fltg,U
 GLPT,Global Profit Technologies Inc FL Common Stock,U
 GLQ,Clough Global Equity Fund,AMEX
 GLRE,"Greenlight Capital Re, Ltd. Class A Ordinary Shares",NASDAQ
@@ -4801,7 +4805,6 @@ GMDMF,Gem Diamonds Ltd. Ordinary Shares (British Virgin Islands),U
 GMDMY,Gem Diamonds Ltd. Unsponsored ADR (United Kingdom),U
 GMDP,Global Medical Products Holdings Inc,U
 GMDTF,Golden Meditech Holdings Ltd Ordinary Shares,U
-GMDTY,Golden Meditech Holdings Ltd Unsponsored ADR (Cayman Islands),U
 GME,GameStop Corp. Class A,NYSE
 GMED,GLOBUS MEDICAL INC,NYSE
 GMEI,"Gambit Energy, Inc. Common Stock",U
@@ -5406,3 +5409,4 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U

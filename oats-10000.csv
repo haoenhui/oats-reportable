@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -427,6 +426,7 @@ HITIF,HIGH TIDE INC REG SHS Common Stock (Canada),U
 HIUH,Hero International USA Holding Corp Common Stock,U
 HIW,Highwoods Properties Inc.,NYSE
 HIX,"Western Asset High Income Fund II, Inc.",NYSE
+HJEN,Direxion Hydrogen ETF,ARCA
 HJGP,HANJIAO GROUP INC Common Stock,U
 HJLBW,Hancock Jaffe Laboratories Inc Warrant Pur Com Exp 02/11/2026,U
 HJLI,"Hancock Jaffe Laboratories, Inc. Common Stock",NASDAQ
@@ -2098,6 +2098,7 @@ ISVFF,iShares V Plc S&P 500 Health Care Sector Ucits ETF (Ireland) Exchange Trad
 ISVG,Integrated Services Group Inc Common Stock,U
 ISVIF,IShares VII PLC CS ETFIEON IBOXX USD 7 10YR GOVT (Ireland),U
 ISVJF,Interserve PLC Ordinary Shares (United Kingdom),U
+ISVL,iShares International Developed Small Cap Value Factor ETF,BATS
 ISVLF,Impact Silver Corp Ordinary Shares (Canada),U
 ISVPF,IShares VII PLC Accum Ptg Shs Exchange Traded Fund USD (Ireland),U
 ISVQF,Ishares IV Plc Short Duration Corp Bond UCITS USD Acc Exchange Traded Fund (Ireland),U
@@ -3386,7 +3387,6 @@ KYOCF,Kyocera Corp Ordinary Shares,U
 KYOCY,Kyocera Corp American Depositary Receipts - Sponsored (Japan),U
 KYOEF,"Kyosan Electric Manufacturing Co Ltd, SHS (Japan)",U
 KYORF,Kyoritsu Air Tech Inc,U
-KYRNF,Kyorin Holdings Inc Ordinary Shares (Japan),U
 KYSEF,Kyushu Electric Power Co Inc Ordinary Shares (Japan),U
 KYSEY,Kyushu Electric Power Unsponsored ADR (Japan),U
 KYSRW,Key Energy SVCS Inc DEL Warrant Exp  12/15/2021,U
@@ -3471,7 +3471,7 @@ LBRG,"Ladybug Resource Group, Inc. Common Stock",U
 LBRMF,Labrador Iron Mines Holdings Ltd Ordinary Shares (Canada),U
 LBRT,Liberty Oilfield Services Inc. Class A Common Stock,NYSE
 LBSI,Liberty Bancshares Inc Ohio Common Stock,U
-LBSRD,Liberty Star Uranium & Metals Corp. Common Stock,U
+LBSR,Liberty Star Uranium & Metals Corp. Common Stock,U
 LBTD,Lotus Bio-Technology Development Corp. Common Stock,U
 LBTI,LITHIUM & BORON TECHNOLOGY INC Common Stock,U
 LBTSF,Almirall SA Ordinary shares (Spain),U
@@ -3483,6 +3483,7 @@ LBWR,Labwire Inc. Common Stock,U
 LBYE,Liberty Energy Corp. Common Stock,U
 LC,LendingClub Corporation,NYSE
 LCAAU,L Catterton Asia Acquisition Corp Units,NASDAQ
+LCAHU,"Landcadia Holdings IV, Inc. Units",NASDAQ
 LCAP,Lionheart Acquisition Corp. II Class A Common Stock,NASDAQ
 LCAPU,Lionheart Acquisition Corp. II Unit,NASDAQ
 LCAPW,Lionheart Acquisition Corp. II Warrant,NASDAQ
@@ -3716,7 +3717,7 @@ LIMAF,Linamar Corp Ordinary Shares,U
 LIN,Linde plc Ordinary Share,NYSE
 LINC,Lincoln Educational Services Corporation Common Stock,NASDAQ
 LIND,Lindblad Expeditions Holdings Inc. Common Stock,NASDAQ
-LINK,"Interlink Electronics, Inc. Common Stock Common Stock",U
+LINK,"Interlink Electronics, Inc. Common Stock",NASDAQ
 LINRF,Liontown Resources Ltd. Ordinary Shares (Australia),U
 LINS,Life Insurance Company Alabama $5 Par Common Stock,U
 LINSA,Life Insurance Company Alabama Class A Common Stock,U
@@ -4109,6 +4110,7 @@ LVS,Las Vegas Sands Corp.,NYSE
 LVSDF,"Lai Sun Development Co., Ltd. Ordinary Shares",U
 LVSYF,LEVER STYLE CORP HKD SHS  Ordinary Shares,U
 LVTSF,Livetiles Ltd Ordinary Shares   (Australia),U
+LVTX,LAVA Therapeutics N.V. Ordinary Shares,NASDAQ
 LVVEF,Yooma Wellness Inc. Ordinary Shares,U
 LVVP,LIGHTSTONE VALUE PLUS REAL ESTATE INVT TR V INC COM,U
 LVVR,LIGHTSTONE VALUE PLUS REAL ESTATE INVT TR III INC COM,U
@@ -4461,7 +4463,9 @@ MDGL,"Madrigal Pharmaceuticals, Inc. Common Stock",NASDAQ
 MDGP,Medgroup Inc Common Stock,U
 MDGS,Medigus Ltd. American Depositary Shares,NASDAQ
 MDGSW,Medigus Ltd. Series C Warrant,NASDAQ
+MDH,MDH Acquisition Corp.,NYSE
 MDH U,"MDH Acquisition Corp. Units, each consisting of one share of Class A Common Stock, and one-half of o",NYSE
+MDH WS,"MDH Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock",NYSE
 MDIA,Mediaco Holding Inc. Class A Common Stock,NASDAQ
 MDIBF,Mediobanca - Banca Di Credito Finanziario SPA Ordinary Shares,U
 MDIBY,Mediobanca - Banca Di Credito Finanziario SPA Unsponsored ADR (Italy),U
@@ -5311,6 +5315,7 @@ MSC,"Studio City International Holdings Limited American depositary shares, each
 MSCI,"MSCI, Inc.",NYSE
 MSCZF,MESCO INC TOKYO Ordinary Shares,U
 MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc.",NYSE
+MSDAU,MSD Acquisition Corp. Unit,NASDAQ
 MSET,Madison Sports & Entmt Group Common Stock,U
 MSEX,Middlesex Water Company Common Stock,NASDAQ
 MSEXP,Middlesex Water Company $7 Preferred Stock,U
@@ -5404,5 +5409,3 @@ MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
 MTG,MGIC Investment Corp.,NYSE
-MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
-MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U

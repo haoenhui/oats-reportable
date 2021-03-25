@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
+SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
@@ -190,9 +193,9 @@ SJ,Scienjoy Holding Corporation Ordinary Shares,NASDAQ
 SJB,ProShares Short High Yield,ARCA
 SJGFF,SCHRODER JAPAN GROWTH FUND PLC SHS (United Kingdom),U
 SJI,"South Jersey Industries, Inc.",NYSE
-SJIIU,SOUTH JERSEY INDS INC CORP UNIT,U
 SJIJ,"South Jersey Industries, Inc. 5.625% Junior Subordinated Notes due 2079",NYSE
 SJIU,"South Jersey Industries, Inc.",NYSE
+SJIV,"South Jersey Industries, Inc. Corporate Units",NYSE
 SJJIY,Shanghai Jin Jiang Capital Company Ltd  American Depositary Receipts - Unsponsored,U
 SJM,The J.M. Smucker Company,NYSE
 SJMHF,SJM Holdings Ltd Ordinary shares (Hong Kong),U
@@ -446,7 +449,6 @@ SMIN,iShares MSCI India Small-Cap ETF,BATS
 SMIRF,SEMIRARA MINING & POWER CORP Ordinary Shares Philippines(PH ),U
 SMIT,"Schmitt Industries, Inc. Common Stock",NASDAQ
 SMIZF,Melia Hotels International SA Ordinary Shares (Spain),U
-SMKC,"Smoke Cartel, Inc. Common Stock",U
 SMKG,"Smart Card Marketing Systems, Inc. Common Stock",U
 SMKUY,Siam Makro Public Co Ltd Unsponsored ADR (Thailand),U
 SMLE,Xtrackers S&P SmallCap 600 ESG ETF,ARCA
@@ -2143,7 +2145,9 @@ THLM,"T.H. Lehman & Co., Inc. Common Stock",U
 THLPF,THULE GROUP AB Ordinary Shares (Sweden),U
 THLT,"TechLite, Inc. Common Stock",U
 THM,"International Tower Hill Mines, Ltd.",AMEX
+THMA,Thimble Point Acquisition Corp. Class A Common Stock,NASDAQ
 THMAU,Thimble Point Acquisition Corp. Unit,NASDAQ
+THMAW,Thimble Point Acquisition Corp. Warrant,NASDAQ
 THMG,"Thunder Mountain Gold, Inc. Common Stock",U
 THMMF,Thaicom Public Company Ltd SHS (Thailand),U
 THMNF,Thaicom Public Company Ltd UNits Non-Voting Depositary Receipt (Thailand),U
@@ -4606,7 +4610,7 @@ WMLLF,Wealth Minerals Ltd. Common Shares,U
 WMMVF,Wal-mart de Mexico S A B de C V Ordinary Shares,U
 WMMVY,Wal-mart de Mexico S A B de C V Sponsored ADR representing Series V Shares (Mexico),U
 WMNNF,ASTON MINERALS LTD Ordinary Shares,U
-WMPN,"William Penn Bancorp, Inc. Common Stock",U
+WMPN,William Penn Bancorporation Common Stock,NASDAQ
 WMRSF,Westminster Res Ltd Common Shares,U
 WMS,"ADVANCED DRAINAGE SYSTEMS, INC.",NYSE
 WMT,Walmart Inc.,NYSE

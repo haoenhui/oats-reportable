@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
+MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
 MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
 MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
@@ -490,6 +492,7 @@ NFGRF,Beijingwest Inds International Ltd (Cayman Islands) Ordinary Shares,U
 NFH,New Frontier Health Corporation Ordinary Shares,NYSE
 NFH WS,"New Frontier Health Corporation Warrants, each whole warrant exercisable for one Ordinary Share at a",NYSE
 NFJ,"Virtus Dividend, Interest & Premium Strategy Fund",NYSE
+NFLDF,Exploits Discovery Corp. Ordinary Shares,U
 NFLT,Virtus Newfleet Multi-Sector Bond ETF,ARCA
 NFLX,"Netflix, Inc. Common Stock",NASDAQ
 NFONF,NFON AG NFON AG INH O N (Germany Federal Republic),U
@@ -902,7 +905,9 @@ NQMIY,NQ Minerals PLC Sponsored ADR (United Kingdom),U
 NQMLF,NQ Minerals PLC Ordinary Shares (United Kingdom),U
 NQP,Nuveen Pennsylvania Quality Municipal Income Fund,NYSE
 NR,"Newpark Resources, Inc.",NYSE
+NRAC,Noble Rock Acquisition Corporation Class A Ordinary Share,NASDAQ
 NRACU,Noble Rock Acquisition Corporation Unit,NASDAQ
+NRACW,Noble Rock Acquisition Corporation Warrant,NASDAQ
 NRBO,"NeuroBo Pharmaceuticals, Inc. Common Stock",NASDAQ
 NRBT,"Novus Robotics, Inc Common Stock",U
 NRC,National Research Corporation Common Stock,NASDAQ
@@ -1549,6 +1554,7 @@ OLD,Janus Detroit Street Trust The Long-Term Care ETF,NASDAQ
 OLDF,Old Forge Bk Pa Common Stock,U
 OLED,Universal Display Corporation Common Stock,NASDAQ
 OLFC,Olfactory Biosciences Corp. Common Stock,U
+OLK,Olink Holding AB (publ) American Depositary Shares,NASDAQ
 OLLI,"Ollie's Bargain Outlet Holdings, Inc. Common Stock",NASDAQ
 OLMA,"Olema Pharmaceuticals, Inc. Common Stock",NASDAQ
 OLMIF,Olam International Ltd Ordinary Shares (Singapore),U
@@ -1585,7 +1591,7 @@ OMI,"Owens & Minor, Inc.",NYSE
 OMID,OMID HLDGS INC Common Stock,U
 OMLAF,Ooh Media Ltd. Ordinary Shares (Australia),U
 OMMH,"Omnimmune Holdings, Inc. Common Stock",U
-OMMSF,Omineca Mining Ordinary Shares (Canada),U
+OMMSF,OMINECA MNG & METALS LTD Common Shares,U
 OMP,Oasis Midstream Partners LP Common Units Representing Limited Partner Interests,NASDAQ
 OMPS,Omphalos Corp. Common Stock,U
 OMQS,OMNIQ Corp. Common Stock,U
@@ -3399,7 +3405,7 @@ PVG,PRETIUM RESOURCES INC.,NYSE
 PVGDF,Provenance Gold Corp. Common Shares (Canada),U
 PVH,PVH Corp.,NYSE
 PVHO,"Provision Holding, Inc. Common Stock",U
-PVI,Invesco VRDO Tax-Free Weekly ETF,ARCA
+PVI,Invesco VRDO Tax-Free ETF,ARCA
 PVL,Permianville Royalty Trust,NYSE
 PVLTF,Beijing Energy Intl Hldg Co Ltd. Ordinary Shares,U
 PVLYL,Pivotal Systems Corp Inc Chess Depository Interests,U
@@ -3497,7 +3503,6 @@ PZA,Invesco National AMT-Free Municipal Bond ETF,ARCA
 PZAKY,Powszechny Zaklad Ubezpieczen SA Unsponsored ADR (Poland),U
 PZC,PIMCO California Municipal Income Fund III,NYSE
 PZCUY,PZ Cussons Plc Unsponsored ADR (United Kingdom),U
-PZD,Invesco Cleantech ETF,ARCA
 PZG,Paramount Gold Nevada Corp.,AMEX
 PZN,"Pzena Investment Management, Inc. Class A",NYSE
 PZOO,"Pazoo, Inc Common Stock",U
@@ -4324,7 +4329,6 @@ RNR,RenaissanceRe Holdings Ltd.,NYSE
 RNR PRE,RENAISSANCERE HOLDINGS LTD 5.375% SER E,NYSE
 RNR PRF,"RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Se",NYSE
 RNRG,Global X Funds Global X Renewable Energy Producers ETF,NASDAQ
-RNRRF,Exploits Discovery Corp. Ordinary Shares,U
 RNRTF,Reunert Ltd Ordinary Shares (South Africa),U
 RNRTY,Reunert Ltd Unsponsored ADR (South Africa),U
 RNSC,First Trust Exchange-Traded Fund VI Small Cap US Equity Select ETF,NASDAQ
@@ -4717,7 +4721,7 @@ SAFE,Safehold Inc.,NYSE
 SAFLF,Safilo Group Spa Vicenza Ordinary Shares (Italy),U
 SAFLY,Safilo Group Spa Vicenza American Depositary Shares (Italy),U
 SAFM,"Sanderson Farms, Inc. Common Stock",NASDAQ
-SAFOD,"Save Foods, Inc. Common Stock",U
+SAFO,"Save Foods, Inc. Common Stock",U
 SAFRF,Safran S.A. Ordinary Shares (France),U
 SAFRY,Safran S.A. Unsponsored ADR (France),U
 SAFS,"Safer Shot, Inc. Common Stock",U
@@ -4747,6 +4751,7 @@ SALN,Salon City Inc. Common Stock,U
 SALRF,Salmar ASA Ordinary Shares (Norway),U
 SALRY,Salmar ASA Unsponsored ADR (Norway),U
 SAM,Boston Beer Company,NYSE
+SAMAU,Schultze Special Purpose Acquisition Corp. II Units,NASDAQ
 SAMG,Silvercrest Asset Management Group Inc. Class A Common Stock,NASDAQ
 SAMLD,"Samsara Luggage, Inc. Common Stock",U
 SAMMF,Sama Resources Inc./Ressources Sama Inc Ordinary Shares (Canada),U
@@ -5143,6 +5148,7 @@ SELSF,St Elias Mines Ltd Ordinary Shares,U
 SEM,SELECT MEDICAL HOLDINGS CORP,NYSE
 SEMHF,Siemens Healthineers AG NA O.N. Common Shares,U
 SEMJF,Sansha Elec Mfg Ordinary Shares (Japan),U
+SEMR,"SEMrush Holdings, Inc.",NYSE
 SEMUF,Siem Industries Inc Ordinary Shares,U
 SENEA,Seneca Foods Corp. Class A Common Stock,NASDAQ
 SENEB,Seneca Foods Corp. Class B Common Stock,NASDAQ
@@ -5403,6 +5409,3 @@ SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
-SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
-SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
