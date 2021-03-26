@@ -14,6 +14,7 @@ AAC WS,"Ares Acquisition Corporation Redeemable Warrants, each whole warrant exe
 AACAF,AAC Technologies Holdings Inc Ordinary Shares (Cayman Islands),U
 AACAY,AAC Technologies Holdings Inc Unsponsored ADR (Cayman Islands),U
 AACG,ATA Creativity Global American Depositary Shares,NASDAQ
+AACOU,Advancit Acquisition Corp. I Units,NASDAQ
 AACQ,Artius Acquisition Inc. Class A Common Stock,NASDAQ
 AACQU,Artius Acquisition Inc. Unit,NASDAQ
 AACQW,Artius Acquisition Inc Warrant,NASDAQ
@@ -939,6 +940,7 @@ ALGN,"Align Technology, Inc. Common Stock",NASDAQ
 ALGS,"Aligos Therapeutics, Inc. Common Stock",NASDAQ
 ALGT,Allegiant Travel Company Common Stock,NASDAQ
 ALGWF,Alliance Growers Corp Ordinary Shares (Canada),U
+ALHC,"Alignment Healthcare, Inc. Common Stock",NASDAQ
 ALHLF,ALARIS HLDGS LTD Ordinary Shares,U
 ALHPF,ALPHA HPA LTD Ordinary Fully Paid (Australia),U
 ALID,Allied Corp. Common Stock,U
@@ -1258,6 +1260,7 @@ ANDFF,Andfjord Salmon AS Ordinary Shares (Norway),U
 ANDGF,"Aeon Delight Co., Ltd. Ordinary Shares (Japan)",U
 ANDHF,ANDLAUER HEALTHCARE GROUP INC Common Shares SUB VTG Canada(CA ),U
 ANDI,Andiamo Corporation Common Stock,U
+ANDMF,ANDROMEDA METALS LTD Ordinary Shares,U
 ANDOF,Alumindo Light Metal Ind TBK PT Ordinary Shares (Indonesia),U
 ANDR,Andrea Electronics Corporation Common Stock,U
 ANET,Arista Networks,NYSE
@@ -1520,6 +1523,7 @@ ARCC,Ares Capital Corporation Common Stock,NASDAQ
 ARCE,Arco Platform Limited Class A Common Shares,NASDAQ
 ARCH,"Arch Resources, Inc.",NYSE
 ARCM,Arrow Reserve Capital Management ETF,BATS
+ARCNF,ARCANE CRYPTO AB Ordinary Shares,U
 ARCO,ARCOS DORADOS HOLDINGS INC.,NYSE
 ARCS,Arcis Resources Corporation Common Stock,U
 ARCT,Arcturus Therapeutics Holdings Inc. Common Stock,NASDAQ
@@ -3395,6 +3399,7 @@ BRMSY,Brmalls Participacoes S A Sponsored ADR (Brazil),U
 BRMT,Bare Metal Std Inc Common Stock,U
 BRMWF,Brand Marvel Worldwide Consumer Products Corp. Ordinary Shares (Canada),U
 BRN,"Barnwell Industries, Inc.",AMEX
+BRNBF,B R A I N BIOTECHNOLOGY AG Ordinary Shares,U
 BRNCF,BRAINCOOL AB Rights SUBSCRIPTION OPTION  Exp 10/01/2021 Sweden (SE),U
 BRNE,Borneo Resource Investments Ltd. Common Stock,U
 BRNGF,Buru Energy Ltd Ordinary shares (Australia),U
@@ -3627,6 +3632,7 @@ BTVRF,BLUERUSH INC COM (Canada),U
 BTWN,Bridgetown Holdings Limited Class A Ordinary Shares,NASDAQ
 BTWNU,Bridgetown Holdings Limited Units,NASDAQ
 BTWNW,Bridgetown Holdings Limited Warrants,NASDAQ
+BTX,"Brooklyn ImmunoTherapeutics, Inc.",AMEX
 BTZ,BlackRock Credit Allocation Income Trust,NYSE
 BTZI,"Bots, Inc. Common Stock",U
 BUD,Anheuser-Busch INBEV SA/NV,NYSE
@@ -4354,7 +4360,6 @@ CEXE,Circle Entertainment Inc. Common Stock,U
 CEXPF,Cache Exploration Inc. Ordinary Shares,U
 CEY,Victory Portfolios II VictoryShares Emerging Market High Div Volatility Wtd ETF,NASDAQ
 CEYFF,PARENT CAP CORP Common Shares,U
-CEZ,VictoryShares Emerging Market Volatility Wtd ETF,NASDAQ
 CEZYY,Cez AS American Depositary Receipts - Unsponsored (Czech Republic),U
 CF,"CF Industries Holding, Inc.",NYSE
 CFA,VictoryShares US 500 Volatility Wtd ETF,NASDAQ
@@ -4483,6 +4488,7 @@ CGROF,Character Group Plc Ordinary Shares (United Kingdom),U
 CGROU,Collective Growth Corporation Unit,NASDAQ
 CGROW,Collective Growth Corporation Warrant,NASDAQ
 CGRW,"Cannagrow Holdings, Inc Common Stock",U
+CGSHY,COUNTRY GARDEN SVCS HLDGS CO LTD American Depositary Receipts - Unsponsored,U
 CGSO,"Centergistic Solutions, Inc. Common Stock",U
 CGSXF,China TopReach Inc. Ordinary Shares (Cayman Islands),U
 CGUD,"Com-Guard.com, Inc. Common Stock",U
@@ -5365,7 +5371,6 @@ CORN,Teucrium Corn Fund,ARCA
 CORP,PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund,ARCA
 CORR,"CorEnergy Infrastructure Trust, Inc. (NEW",NYSE
 CORR PRA,"CorEnergy Infrastructure Trust, Inc Depositary Shares representing a 1/100th fractional interest of",NYSE
-CORS U,"Corsair Partnering Corporation Units, each consisting of one Class A ordinary share and one-quarter",NYSE
 CORT,Corcept Therapeutics Incorporated Common Stock,NASDAQ
 CORX,Core Lithium Corp. Common Stock,U
 COSDF,Cosol Ltd. Ordinary Shares (Australia),U
@@ -5410,3 +5415,5 @@ CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
+CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
+CPF,Central Pacific Financial Corporation,NYSE

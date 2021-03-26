@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
@@ -141,7 +142,7 @@ SIMS,SPDR S&P Kensho Intelligent Structures ETF,ARCA
 SIMTF,Sim Technology Group Limited Ordinary Shares (Bermuda),U
 SIMYF,Singapore Myanmar Investco LTD SHS (Singapore),U
 SINC,Sincerity Applied Materials Holdings Corp. Common Stock,U
-SING,Singlepoint Inc. Common Stock,U
+SINGD,Singpoint Inc. Common Stock,U
 SINGF,Singapore Airlines Ltd Ordinary shares (Singapore),U
 SINGY,Singapore Airlines Ltd Unsponsored ADR (Singapore),U
 SINO,"Sino-Global Shipping America, Ltd. Common Stock",NASDAQ
@@ -970,6 +971,7 @@ SQFT,"Presidio Property Trust, Inc. Class A Common Stock",NASDAQ
 SQIDF,SQI Diagnostics Inc Ordinary Shares (Canada),U
 SQLV,Legg Mason ETF Investment Trust Legg Mason Small-Cap Quality Value ETF,NASDAQ
 SQM,Sociedad Quimica y Minera de Chile SA,NYSE
+SQM RTWI,"Sociedad Quimica y Minera de Chile S.A. Rights (expires April 19, 2021)",NYSE
 SQNNY,Square Enix Hldgs Co Ltd American Depositary Receipts - Unsponsored Repstg Com Stk (Japan),U
 SQNS,"Sequans Communications S.A. American Depositary Shares, each representing four Ordinary Shares",NYSE
 SQNXF,Square Enix Co Ltd Ordinary Shares (Japan),U
@@ -1832,9 +1834,9 @@ TCANF,TC Energy Corp Preferred Stock,U
 TCAPF,TP ICAP GROUP PLC Ordinary Shares (Jersey),U
 TCBI,"Texas Capital Bancshares, Inc. Common Stock",NASDAQ
 TCBIL,"Texas Capital Bancshares, Inc. 6.50% Subordinated Notes due 2042",NASDAQ
+TCBIO,"Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",NASDAQ
 TCBIP,"Texas Capital Bancshares, Inc. Non Cumulative Preferred Perpetual Stock Series A",NASDAQ
 TCBK,TriCo Bancshares Common Stock,NASDAQ
-TCBLL,TEXAS CAP BANCSHARES INC DEL DEP SHS REPSTG 1/40TH INT FIXED RATE NON CUM PERP PFD (SER B) Depositary Shares,U
 TCCHF,Technogym Spa Ordinary Shares (Italy),U
 TCCO,TECHNICAL COMMUNICATIONS CORP Common Stock,U
 TCCPY,TechnoPro Hldgs Inc American Depositary Receipts - Sponsored (Japan),U
@@ -1938,6 +1940,7 @@ TDSGF,Telo Genomics Corp Ordinary Shares,U
 TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund,ARCA
 TDTRF,Trident Royalties PLC Ordinary Shares (United Kingdom),U
 TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund,ARCA
+TDUP,ThredUp Inc. Class A Common Stock,NASDAQ
 TDV,ProShares S&P Technology Dividend Aristocrats ETF,BATS
 TDVG,T. Rowe Price Dividend Growth ETF,ARCA
 TDW,"Tidewater, Inc.",NYSE
@@ -2371,7 +2374,9 @@ TLVLF,Minds Machs Group Ltd Ordinary Shares (Virgin Islands British),U
 TLXPF,Ora Gold Ltd Ordinary Shares,U
 TLYS,Tilly's Inc.,NYSE
 TM,Toyota Motor Corporation,NYSE
+TMAC,The Music Acquisition Corporation,NYSE
 TMAC U,"The Music Acquisition Corporation Units, each consisting of one share of Class A common stock and on",NYSE
+TMAC WS,"The Music Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one share",NYSE
 TMAK,"Touchmark Bancshares, Inc. Common Stock",U
 TMASF,Temas Res Corp Common Stock (Canada),U
 TMAT,Main Thematic Innovation ETF,BATS
@@ -2839,7 +2844,6 @@ TSMRF,Tsumura & Co Ordinary Shares,U
 TSN,"Tyson Foods, Inc.",NYSE
 TSNI,"TechniScan, Inc. Common Stock",U
 TSNLF,"Tristel PLC, Snailwell Ordinary Shares (United Kingdom)",U
-TSNPD,"HUMBL, Inc. Common Stock",U
 TSOC,Innovator Triple Stacker ETF - October,BATS
 TSOCF,Taisei Oncho Co Ltd Ordinary Shares (Japan),U
 TSOI,"Therapeutic Solutions International, Inc. Common Stock",U
@@ -3430,7 +3434,7 @@ URMCY,UNIBAIL-RODAMCO SE / WFD UNIBAIL-RODAMCO N V American Depositary Receipts 
 URNAF,Urbana Corp Ordinary Shares,U
 URNM,NorthShore Global Uranium Mining ETF,ARCA
 URNXF,Magnis Energy Technologies Ltd Ordinary Shares,U
-UROV,Urovant Sciences Ltd. Common Stock,NASDAQ
+UROV,Urovant Sciences Ltd. Common Shares,NASDAQ
 URPLF,New Klondike Exploration Ltd. Ordinary Shares,U
 URPTF,Uranium Participation Corp Common Shares (Canada),U
 URTH,iShares MSCI World ETF,ARCA
@@ -3697,6 +3701,7 @@ VDQSF,GNOMESTAR CRAFT INC Ordinary Shares,U
 VDRFF,Vidrala SA Alava Ordinary Shares (Spain),U
 VDRM,"ViaDerma, Inc. Common Stock",U
 VDTAF,Vendetta Mining Corporate Ordinary Shares (Canada),U
+VDXI,VeriDetx Corp. Common Stock,U
 VEA,Vanguard FTSE Developed Markets ETF,ARCA
 VEC,"Vectrus, Inc.",NYSE
 VECO,Veeco Instruments Inc. Common Stock,NASDAQ
@@ -4333,7 +4338,6 @@ WBRBY,Wienerberger Baustofindusti Ag American Depositary Shares,U
 WBRE,Wild Brush Energy Inc New Common Stock,U
 WBS,Webster Financial Corporation Waterbury,NYSE
 WBS PRF,"Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of",NYSE
-WBSI,"WebSafety, Inc. Common Stock",U
 WBT,"Welbilt, Inc.",NYSE
 WBTMU,Westbrook-Thompson CDT - Royalty Unit,U
 WBWB,WU BA Superior Products Holding Group Inc. Common Stock,U
@@ -4728,6 +4732,7 @@ WSCC,Waterside Capital Corporation Common Stock,U
 WSCO,"Wall Street Media Co, Inc. Common Stock",U
 WSCRF,"North American Nickel, Inc. Common Shares",U
 WSCTW,Willscot Mobile Mini Holdings Corp Wt Exp 11/29/2022 Warrant,U
+WSDDF,WISDOMTREE ISSUER ICAV WISDOMTREE US QUALITY DIVIDEND GROWTH UCITS ETF USD Exchange Traded Fund,U
 WSDMF,WISDOMTREE ISSUER PLC Ptg.Shs Exchange Traded Fund Class Hedged USD (Ireland),U
 WSEMF,WISDOMTREE ISSUER PLC EMERGING MKT EQTY INC UCITS ETF USD ACC Exchange Traded Fund Ireland(IE ),U
 WSEWF,"WARSAW STOCK EXCHANGE, WARSAW Ordinary Shares",U
@@ -5006,6 +5011,7 @@ XRTXF,Xortx Therapeutics Inc Ordinary Shares (Canada),U
 XRX,Xerox Holdings Corporation Common Stock,NYSE
 XRXH,XRX International Entertainment Holding Group Common Stock,U
 XSD,SPDR S&P Semiconductor ETF,ARCA
+XSGIF,XTRACKERS S&P GLO INFR SWAP UCITS ETF 1C (Luxembourg),U
 XSHD,Invesco S&P SmallCap High Dividend Low Volatility ETF,BATS
 XSHLF,XS Financial Inc Other Voting,U
 XSHQ,Invesco S&P SmallCap Quality ETF,BATS
@@ -5270,6 +5276,7 @@ ZGYH,Yunhong International Class A Ordinary Shares,NASDAQ
 ZGYHR,Yunhong International Right,NASDAQ
 ZGYHU,Yunhong International Unit,NASDAQ
 ZGYHW,Yunhong International Warrant,NASDAQ
+ZH,Zhihu Inc. American Depositary Shares (every two of each representing one Class A ordinary share),NYSE
 ZHAOF,Zhaojin Mining Industry Co LTD Shs -H- (China),U
 ZHAOY,Zhaojin Mining Industry Co LTD Unsponsored ADR (China),U
 ZHCLF,Zenith Cap Corp Common Stock (Canada),U

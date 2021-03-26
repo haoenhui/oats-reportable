@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTFC,Minster Financial Corporation,U
+MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
+MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
@@ -781,6 +784,7 @@ NNSV,NanoSave Technologies Inc. Common Stock,U
 NNUP,"Nocopi Technologies, Inc. Common Stock",U
 NNUTU,"Hawaiian Macadamia Nut Orchards, L.P. Depositary Shares",U
 NNVC,NanoViricides Inc.,AMEX
+NNVUF,NANOVEU LTD Ordinary Shares,U
 NNWWF,"The North West Company, Inc Var Vtg & Com Vtg Sh (Canada)",U
 NNXPF,Nanoxplore Inc Ordinary Shares (Canada),U
 NNXXY,Nexity SA American Depositary Receipts - Unsponsored (France),U
@@ -931,6 +935,7 @@ NRIM,Northrim BanCorp Inc Common Stock,NASDAQ
 NRIS,"Norris Industries, Inc. Common Stock",U
 NRIX,"Nurix Therapeutics, Inc. Common stock",NASDAQ
 NRK,Nuveen New York AMT-Free Quality Municipal Income Fund,NYSE
+NRKBF,NKT Holding AS Ordinary Shares (Denmark),U
 NRKBY,NKT A/S American Depositary Receipts - Unsponsored,U
 NRLB,Northern California Bancorp Inc Common Stock,U
 NRNVF,NORDIC NANOVECTOR AS Ordinary Shares,U
@@ -1068,7 +1073,6 @@ NTIP,"Network-1 Technologies, Inc.",AMEX
 NTLA,"Intellia Therapeutics, Inc. Common Stock",NASDAQ
 NTLK,Net Talk.com Inc Common Stock,U
 NTME,"NetMed, Inc. Common Stock",U
-NTN,"NTN Buzztime, Inc",AMEX
 NTNOF,NORTHERN OCEAN LTD Ordinary Shares,U
 NTNTY,Netent AB ADR Unsponsored (Sweden),U
 NTNX,"Nutanix, Inc. Class A Common Stock",NASDAQ
@@ -3025,7 +3029,9 @@ PROV,"Provident Financial Holdings, Inc. Common Stock",NASDAQ
 PRPB,CC Neuberger Principal Holdings II Class A Ordinary Shares,NYSE
 PRPB U,CC Neuberger Principal Holdings II,NYSE
 PRPB WS,"CC Neuberger Principal Holdings II Redeemable warrants, each whole warrant exercisable for one Class",NYSE
+PRPC,CC Neuberger Principal Holdings III,NYSE
 PRPC U,"CC Neuberger Principal Holdings III Units, each consisting of one Class A ordinary share, and one-fi",NYSE
+PRPC WS,"CC Neuberger Principal Holdings III Warrants, each whole warrant exercisable for one Class A ordinar",NYSE
 PRPH,"ProPhase Labs, Inc. Common Stock (DE)",NASDAQ
 PRPI,Perpetual Inds Inc Common Stock,U
 PRPL,"Purple Innovation, Inc. Common Stock",NASDAQ
@@ -3355,7 +3361,9 @@ PUBC,PureBase Corporation Common Stock,U
 PUBGY,Publicis Groupe S.A. Common Stock,U
 PUBM,"PubMatic, Inc. Class A Common Stock",NASDAQ
 PUCCF,Pancontinental Res Corp Common Shares,U
+PUCK,Goal Acquisitions Corp. Common Stock,NASDAQ
 PUCKU,Goal Acquisitions Corp. Unit,NASDAQ
+PUCKW,Goal Acquisitions Corp. Warrant,NASDAQ
 PUDA,"Puda Coal, Inc. New Common Stock",U
 PUFLF,Purifloh Ltd. Ordinary Shares (Australia),U
 PUGE,Puget Technologies Inc Common Stock,U
@@ -3829,7 +3837,6 @@ RCB,Ready Capital Corporation 6.20% Senior Notes due 2026,NYSE
 RCBC,River City Bank Common Stock,U
 RCC,Ready Capital Corporation 5.75% Senior Notes due 2026,NYSE
 RCCB,Rochester Community Baseball Common Stock,U
-RCCC,RC-1 Inc Common Stock,U
 RCCMF,"Nippon Dragon Resources, Inc. Common Shares (Canada)",U
 RCD,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,ARCA
 RCDOF,Ricardo Intl Plc Ord Ordinary Shares,U
@@ -3852,15 +3859,16 @@ RCKTF,Rock Tech Lithium Inc Ordinary Shares (Canada),U
 RCKY,"Rocky Brands, Inc. Common Stock",NASDAQ
 RCKZF,Rocket Internet AG Ordinary Shares (Germany Federal Republic),U
 RCL,Royal Caribbean Group,NYSE
+RCLF,Rosecliff Acquisition Corp I Class A Common Stock,NASDAQ
 RCLFF,RCL FOODS LTD Ordinary Shares South Africa(ZA ),U
 RCLFU,Rosecliff Acquisition Corp I Unit,NASDAQ
+RCLFW,Rosecliff Acquisition Corp I Warrants,NASDAQ
 RCM,R1 RCM Inc. Common Stock,NASDAQ
 RCMGF,RUICHENG CHINA MEDIA GROUP LTD Ordinary Shares,U
 RCMH,"Reach Messaging Holdings, Inc. Common Stock",U
 RCMT,"RCM Technologies, Inc. Common Stock",NASDAQ
 RCMW,"RCMW Group, Inc. Common Stock",U
 RCON,"Recon Technology, Ltd. Ordinary Shares",NASDAQ
-RCP,Ready Capital Corporation 6.50% Senior Notes due 2021,NYSE
 RCPHF,RECIPHARM AB SHS -B- (Sweden),U
 RCPIQ,"Rock Creek Pharmaceuticals, Inc. Common Stock",U
 RCPUF,RECIPE UNLIMITED CORP Common Shares  Canada(CA ),U
@@ -5408,4 +5416,3 @@ SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U

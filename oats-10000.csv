@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -212,6 +213,7 @@ HCM,Hutchison China MediTech Limited American Depositary Shares,NASDAQ
 HCMC,Healthier Choices Management Corp. Common Shares,U
 HCMLF,LAFARGEHOLCIM LTD  Ordinary Shares,U
 HCMLY,LafargeHolcim Ltd. American Depositary Receipts - Unsponsored,U
+HCNEU,Jaws Hurricane Acquisition Corp. Unit,NASDAQ
 HCPHF,Holcim Philippines Inc Ordinary Shares (Philippines),U
 HCPHY,Holcim Philippines Inc Unsponsored ADR (Philippines),U
 HCRB,Hartford Core Bond ETF,BATS
@@ -383,6 +385,7 @@ HHULF,"Hamburger Hafen Und Logistik Ag, Hamburg Namens - AKT (Germany)",U
 HHULY,"Hamburger Hafen Und Logistik Ag, Hamburg Unsponsored ADR (Germany)",U
 HHUSF,HUA HONG SEMICONDUCTOR LTD Common Stock  Hong Kong(HK ),U
 HI,"Hillenbrand, Inc.",NYSE
+HIAI,RC-1 Inc Common Stock,U
 HIBB,"Hibbett Sports, Inc. Common Stock",NASDAQ
 HIBL,Direxion Daily S&P 500 High Beta Bull 3X Shares,ARCA
 HIBRF,Hibernia REIT PLC Ordinary Shares Euro .10 (Ireland),U
@@ -540,6 +543,7 @@ HLXW,"Helix Wind, Corp. Common Stock",U
 HLYK,HealthLynked Corp. Common Stock,U
 HMAGF,HOME24 AG Ordinary Shares  Germany Federal Republic(DE ),U
 HMBG,Hamburg Industries Inc Common Stock,U
+HMBL,"HUMBL, Inc. Common Stock",U
 HMC,"Honda Motor Co., Ltd.",NYSE
 HMCBF,Home Capital Group Inc. Ordinary Shares (Canada),U
 HMCHF,HSBC ETFS PLC SHS EXCHANGE TRADED FUND USD (Ireland),U
@@ -1020,6 +1024,7 @@ HYT,BLACKROCK CORPORATE HIGH YIELD FUND INC.,NYSE
 HYTR,CP High Yield Trend ETF,ARCA
 HYUHF,Hankyu Holdings Inc Ordinary Shares (Japan),U
 HYUP,Xtrackers High Beta High Yield Bond ETF,ARCA
+HYW,Hywin Holdings Ltd. American Depositary Shares,NASDAQ
 HYWI,Hollywood Intermediate Inc Common Stock,U
 HYWS,Hollywood Studios International Common Stock,U
 HYXF,iShares Trust iShares ESG Advanced High Yield Corporate Bond ETF,NASDAQ
@@ -1510,6 +1515,7 @@ IJUL,Innovator MSCI EAFE Power Buffer ETF - July,ARCA
 IKGPF,IKEGPS GROUP LTD Ordinary Shares,U
 IKHIF,Ichikoh Industries Ltd Ordinary Shares (Japan),U
 IKMA,"IntelaKare Marketing, Inc. Common Stock",U
+IKNA,"Ikena Oncology, Inc. Common Stock",NASDAQ
 IKNX,Ikonics Corporation,NASDAQ
 IKT,"Inhibikase Therapeutics, Inc. Common Stock",NASDAQ
 IKTO,"iTokk, Inc. Common Stock",U
@@ -1639,7 +1645,6 @@ IMUX,"Immunic, Inc. Common Stock",NASDAQ
 IMV,IMV Inc. Common Shares,NASDAQ
 IMVEF,Ishares Vi Plc Edge Msci Europe Minimum Volatility Ucits Exchange Traded Fund (Ireland),U
 IMVT,"Immunovant, Inc. Common Stock",NASDAQ
-IMWVF,Income & Growth Trust Plc Ord GBP0.01 (United Kingdom),U
 IMXCF,IMAX China Hldg Inc Ordinary Shares (Cayman Islands),U
 IMXI,"International Money Express, Inc. Common Stock",NASDAQ
 IMXXF,Impax Environmental Mark PLC Ordinary Shares (UK),U
@@ -2763,7 +2768,9 @@ JWN,"Nordstrom, Inc.",NYSE
 JWS,Jaws Acquisition Corp.,NYSE
 JWS U,"Jaws Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one red",NYSE
 JWS WS,"Jaws Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary",NYSE
+JWSM,Jaws Mustang Acquisition Corp.,NYSE
 JWSM U,"Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth",NYSE
+JWSM WS,"Jaws Mustang Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A o",NYSE
 JXFGF,JINXIN FERTILITY GROUP LTD Ordinary Shares Cayman Islands(KY ),U
 JXHGF,"JX Holdings Inc., Tokyo Ordinary Shares (Japan)",U
 JXHLY,Eneos Holdings Inc American Depositary Receipts - Unsponsored,U
@@ -3230,7 +3237,9 @@ KRMMF,"KINGROSE MINING LTD, APPLECROSS WA SHS (Australia)",U
 KRNGF,Karoon Gas Australia Ltd Ordinary Shares (Australia),U
 KRNGY,Karoon Gas Australia Ltd Unsponsored American Depository Receipt (Australia),U
 KRNIF,KRANESHARES ICAV KRANESHARES MSCI CHINA A SHARE UCITS ETF CLASS USD Exchange Traded Fund,U
+KRNL,"Kernel Group Holdings, Inc. Class A Ordinary Shares",NASDAQ
 KRNLU,"Kernel Group Holdings, Inc. Units",NASDAQ
+KRNLW,"Kernel Group Holdings, Inc. Warrants",NASDAQ
 KRNNF,Krones Ag Akt. Shares (Germany),U
 KRNT,Kornit Digital Ltd. Ordinary Shares,NASDAQ
 KRNTY,Krones Ag ADR (Germany),U
@@ -5153,6 +5162,7 @@ MP,MP Materials Corp.,NYSE
 MP WS,"MP Materials Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at",NYSE
 MPA,BLACKROCK MUNIYIELD PENNSYLVANIA QUALITY FUND,NYSE
 MPAA,"Motorcar Parts  of America, Inc. Common Stock",NASDAQ
+MPACU,Model Performance Acquisition Corp. Units,NASDAQ
 MPAD,"Micropac Industries, Inc. Common Stock",U
 MPB,Mid Penn Bancorp Common Stock,NASDAQ
 MPC,MARATHON PETROLEUM CORPORATION,NYSE
@@ -5406,6 +5416,3 @@ MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U
-MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
-MTG,MGIC Investment Corp.,NYSE

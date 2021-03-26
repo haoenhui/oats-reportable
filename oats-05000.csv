@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
-CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
@@ -1194,6 +1192,7 @@ DLGEF,Digital Garage Inc Ordinary Shares (Japan),U
 DLGI,Datalogic International Inc. Common Stock,U
 DLGNF,Dialog Semiconductor Plc Ordinary Shares,U
 DLHC,DLH Holdings Corp.,NASDAQ
+DLHGF,DL HOLDINGS GROUP LTD Ordinary Shares,U
 DLICY,"Dai-ichi Life Holdings, Inc. American Depositary Receipts - Unsponsored",U
 DLII,"Dixie Lee International Industries, Inc. Common Stock",U
 DLKGF,Delek Group Ltd Ordinary Shares,U
@@ -1471,6 +1470,7 @@ DSEEY,Daiwa Securities Group Inc Japan Ord Sponsored ADR (Japan),U
 DSEP,FT Cboe Vest U.S. Equity Deep Buffer ETF - September,BATS
 DSEY,"Diversey Holdings, Ltd. Ordinary Shares",NASDAQ
 DSFGY,Dah Sing Financial Group Sponsored American Depositary Receipt (Hong Kong),U
+DSGN,"Design Therapeutics, Inc. Common Stock",NASDAQ
 DSGT,DSG Global Inc Common Stock,U
 DSGUF,Dogan Sirketler Grubu Holdings AS Ordinary Shares (Turkey),U
 DSGUY,Dogan Sirketler Grubu Holdings AS Unsponsored ADR (Turkey),U
@@ -2377,6 +2377,7 @@ EPAZ,"EPAZZ, Inc. Common Stock",U
 EPC,Edgewell Personal Care Company,NYSE
 EPCFF,Empiric Student Property PLC Ordinary Shares (United Kingdom),U
 EPD,Enterprise Products Partners L.P.,NYSE
+EPEC,EP ENERGY CORP CL A NEW,U
 EPEO,E'Prime Aerospace Corporation New Common Stock,U
 EPGC,ECom Products Group Common Stock,U
 EPGG,Empire Global Gaming Inc Common Stock,U
@@ -2830,6 +2831,7 @@ EWS,iShares MSCI Singapore ETF,ARCA
 EWSC,Invesco S&P SmallCap 600 Equal Weight ETF,ARCA
 EWST,E-Waste Corporation Common Stock,U
 EWT,iShares MSCI Taiwan ETF,ARCA
+EWTX,"Edgewise Therapeutics, Inc. Common Stock",NASDAQ
 EWU,iShares MSCI United Kingdom ETF,ARCA
 EWUS,iShares MSCI United Kingdom Small-Cap ETF,BATS
 EWV,ProShares Trust UltraShort MSCI Japan,ARCA
@@ -3793,6 +3795,7 @@ FRANQ,FRANCESCAS HLDGS CORP Common Stock,U
 FRAZ,Francisco Industries Inc Unclassified,U
 FRBA,First Bank Common Stock,NASDAQ
 FRBK,"Republic First Bancorp, Inc. Common Stock",NASDAQ
+FRBMF,FIREBIRD METALS LTD Ordinary Shares,U
 FRC,First Republic Bank,NYSE
 FRC PRG,"First Republic Bank  /Depositary Shares, each representing a 1/40th interest in a share of 5.50% Non",NYSE
 FRC PRH,First Republic Bank,NYSE
@@ -4302,6 +4305,7 @@ GBLX,"GB Sciences, Inc. Common Stock",U
 GBMRF,"GBM RESOURCES LTD, NEDLANDS WA Ordinary Shares",U
 GBMS,"Global Materials & Services, Inc. Common Stock",U
 GBNH,Greenbrook TMS Inc. Common Shares,NASDAQ
+GBNLF,Globe International Ltd Ordinary Shares (Australia),U
 GBNW,Global Energy Networks Corp. Common Stock,U
 GBNXF,"Gibson Energy, Inc. Common Shares (Canada)",U
 GBNY,"Generations Bancorp NY, Inc. Common Stock",NASDAQ
@@ -4338,7 +4342,7 @@ GCCFF,Golden Cariboo Resources Ltd Ordinary Shares,U
 GCCO,Garden City Co (Co) Common Stock,U
 GCEA,GRIFFIN CAP ESSENTIAL ASSET REIT INC COM CL E Common Stock,U
 GCEC,GS FIN CORP Other,U
-GCEH,Global Clean Energy Holdings Inc Common Stock,U
+GCEHD,"Global Clean Energy Holdings, Inc. Common Stock",U
 GCEI,"Global Clean Energy, Inc Common Stock",U
 GCFB,Granite City Food & Brewery Ltd,U
 GCFFF,Goldcliff Resource Corp Ordinary Shares,U
@@ -4461,12 +4465,12 @@ GELV,"Green Energy Live, Inc. Common stock",U
 GELYF,Geely Automobile Holdings Ltd Ordinary Shares (Cayman Islands),U
 GELYY,Geely Automobile Holding Ltd Unsponsored ADR (Cayman Islands),U
 GEM,Goldman Sachs ActiveBeta Emerging Markets Equity ETF,ARCA
-GEN,"Genesis Healthcare, Inc.",NYSE
 GENC,"Gencor Industries, Inc. Common Stock",NASDAQ
 GENE,Genetic Technologies Ltd  Sponsored ADR,NASDAQ
 GENGF,Gear Energy Ltd Common Shares (Canada),U
 GENH,"Generation Hemp, Inc. Common Stock",U
 GENMF,Generation Mining Limited  Common Shares,U
+GENN,"Genesis Healthcare, Inc.",U
 GENPF,GENIX PHARMACEUTICALS CORP COM (Canada),U
 GENSF,Genus Plc Ordinary Shares,U
 GENSY,Genus Plc Unsponsored ADR (United Kingdom),U
@@ -4577,7 +4581,9 @@ GGXXF,GGX Gold Corp. Ordinary Shares,U
 GGZ,The Gabelli Global Small and Mid Cap Value Trust,NYSE
 GGZ PRA,The Gabelli Global Small and Mid Cap Value Trust 5.450% Series A Cumulative Preferred Shares (Liquid,NYSE
 GH,"Guardant Health, Inc. Common Stock",NASDAQ
+GHAC,Gaming & Hospitality Acquisition Corp. Class A Common Stock,NASDAQ
 GHACU,Gaming & Hospitality Acquisition Corp. Unit,NASDAQ
+GHACW,Gaming & Hospitality Acquisition Corp. Warrants,NASDAQ
 GHAV,"Grand Havana, Inc. Common Stock",U
 GHC,GRAHAM HOLDINGS COMPANY,NYSE
 GHCGF,GEORGIA HEALTHCARE GROUP PLC ORD GBP0.01 (United Kingdom),U
@@ -4602,6 +4608,7 @@ GHVIW,"Gores Holdings VI, Inc. Warrant",NASDAQ
 GHVNF,GoldHaven Resources Corp Common Shares,U
 GHY,"PGIM Global High Yield Fund, Inc.",NYSE
 GHYB,Goldman Sachs Access High Yield Corporate Bond ETF,ARCA
+GHYCF,ISHARES PLC GLOBAL HIGH YIELD CORP BOND UCITS ETF GBP HEDGED DIST (Ireland),U
 GHYG,iShares US & Intl High Yield Corp Bond ETF,BATS
 GIB,CGI Inc.,NYSE
 GIBBF,Gibb Riv Diamonds Ltd Ordinary Shares (Australia),U
@@ -5263,7 +5270,9 @@ GSPH,Geospatial Corporation Common Stock,U
 GSPI,Green Star Products Inc,U
 GSPT,Golden Star Enterprises Ltd. Common Stock,U
 GSPY,Gotham Enhanced 500 ETF,ARCA
+GSQD,G Squared Ascend I Inc.,NYSE
 GSQD U,"G Squared Ascend I Inc. Units, each consisting of one Class A ordinary share and one-fifth of one Wa",NYSE
+GSQD WS,"G Squared Ascend I Inc. Redeemable Warrants, each whole warrant exercisable for one Class A Ordinary",NYSE
 GSRCF,GSP RESOURCE CORP COM (Canada),U
 GSRX,GSRX Industries Inc. Common Stock,U
 GSS,Golden Star Resources Ltd.,AMEX
@@ -5273,7 +5282,6 @@ GSSRF,Gossan Resources Ltd Ordinary Shares (Canada),U
 GSST,Goldman Sachs Access Ultra Short Bond ETF,BATS
 GSTN,"GreyStone Digital Technology, Inc. Common Stock",U
 GSTX,Graphene & Solar Technologies Ltd. Common Stock,U
-GSUM,Gridsum Holding Inc. American Depositary Shares,NASDAQ
 GSUS,Goldman Sachs MarketBeta U.S. Equity ETF,BATS
 GSUXF,Golden Sun Mining Corp. Common Shares,U
 GSV,Gold Standard Ventures Corp.,AMEX
@@ -5409,4 +5417,3 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
