@@ -371,7 +371,9 @@ HHHEF,"37 Capital, Inc. Ordinary Shares (Canada)",U
 HHILF,Hopewell Highway Infrastructure Limited Ordinary Shares (Cayman Islands),U
 HHKIY,Hochiki Corp Ord American Depositary Shares,U
 HHKSY,DFCITY Group Berhad American Depositary Receipts - Sponsored,U
+HHLA,HH&L Acquisition Co.,NYSE
 HHLA U,"HH&L Acquisition Co. Units, each consisting of one Class A ordinary share and one-half of one redeem",NYSE
+HHLA WS,"HH&L Acquisition Co. Redeemable warrants, each warrant exercisable for one Class A ordinary share at",NYSE
 HHLKF,"HOT CHILI LTD, KALGOORLIE Ordinary Shares (Australia)",U
 HHNNF,Hannans Ltd Ordinary Shares (Australia),U
 HHOLF,Herald Holdings Limited Ordinary Shares (Bermuda),U
@@ -390,7 +392,6 @@ HIBB,"Hibbett Sports, Inc. Common Stock",NASDAQ
 HIBL,Direxion Daily S&P 500 High Beta Bull 3X Shares,ARCA
 HIBRF,Hibernia REIT PLC Ordinary Shares Euro .10 (Ireland),U
 HIBS,Direxion Daily S&P 500 High Beta Bear 3X Shares,ARCA
-HICTF,Hitachi High Technologies Corp. Ordinary Shares (Japan),U
 HIE,Miller/Howard High Income Equity Fund,NYSE
 HIFS,Hingham Institution for Savings Common Stock,NASDAQ
 HIG,"The Hartford Financial Services Group, Inc.",NYSE
@@ -2037,7 +2038,9 @@ ISJMF,ISHARES V PLC J P MORGAN EM CORP BOND UCITS ETF USD ACC (Ireland),U
 ISJPF,Ishares II PLC JP Morgan EM Bond UCITS ETF,U
 ISJSF,ISHARES JANTZI SOCIAL INDEX Unit,U
 ISKCF,"ISK CHELOVEKA OAO, MOSCOW Ordinary Shares",U
+ISLE,Isleworth Healthcare Acquisition Corporation Common stock,NASDAQ
 ISLEU,Isleworth Healthcare Acquisition Corporation Unit,NASDAQ
+ISLEW,Isleworth Healthcare Acquisition Corporation Warrant,NASDAQ
 ISLV,"International Silver, Inc. Common Stock",U
 ISMAF,Indra Sistemas SA Madrid,U
 ISMAY,Indra Sistemas Sa Fgn Ord Unsponsored ADR (Spain),U
@@ -2155,7 +2158,6 @@ ITHXW,ITHAX Acquisition Corp. Warrant,NASDAQ
 ITI,"Iteris, Inc. Common Stock",NASDAQ
 ITIC,Investors Title Company Common Stock,NASDAQ
 ITJTY,Intrum AB American Depositary Receipts - Unsponsored,U
-ITKG,INTEGRAL TECHNLGS INC Common Stock,U
 ITKH,Iteknik Holding Corporation Corporation Common Stock,U
 ITKSF,Independent Tankers Corporation Limited Ordinary shares (Bermuda),U
 ITLI,"Intelligentias, Inc. Common Stock",U
@@ -2183,7 +2185,9 @@ ITOX,"IIOT-OXYS, Inc. Common Stock",U
 ITP,"IT Tech Packaging, Inc.",AMEX
 ITPC,Intrepid Capital Corporation New Common Stock,U
 ITPOF,Intertape Polymer Group Inc. Common Stock,U
+ITQ,Itiquira Acquisition Corp. Class A Ordinary Shares,NASDAQ
 ITQRU,Itiquira Acquisition Corp. Unit,NASDAQ
+ITQRW,Itiquira Acquisition Corp. Warrant,NASDAQ
 ITRBF,ISHARES PLC ISHARES TREASURY BOND 0 1YR UCITS ETF MXN HEDGED ACC Exchange Traded Fund,U
 ITRG,Integra Resources Corp.,AMEX
 ITRI,"Itron, Inc. Common Stock",NASDAQ
@@ -2623,7 +2627,9 @@ JOE,St. Joe Company,NYSE
 JOET,Virtus ETF Trust II Virtus Terranova U.S. Quality Momentum ETF,NASDAQ
 JOEY,"Joey New York, Inc Common Stock",U
 JOF,JAPAN SMALLER CAPITALIZATION FUND,NYSE
+JOFF,JOFF Fintech Acquisition Corp. Class A Common Stock,NASDAQ
 JOFFU,JOFF Fintech Acquisition Corp. Unit,NASDAQ
+JOFFW,JOFF Fintech Acquisition Corp. Warrant,NASDAQ
 JOSMF,Josemaria Res Inc Ordinary Shares,U
 JOUT,Johnson Outdoors Inc. Class A Common Stock,NASDAQ
 JOYY,Infusive Compounding Global Equities ETF,ARCA
@@ -2822,6 +2828,7 @@ KAPR,Innovator Russell 2000 Power Buffer ETF -April,BATS
 KAR,"KAR AUCTION SERVICES, INC.",NYSE
 KARBF,Karo Pharma Aktiebolag Ordinary Shares,U
 KARE,Koala Corporation Common Stock,U
+KARO,Karooooo Ltd. Ordinary shares,NASDAQ
 KARS,KraneShares Electric Vehicles and Future Mobility Index ETF,ARCA
 KAST,"Kasten, Inc. Common Stock",U
 KATA,Katana Broadband Corporation Common Stock,U
@@ -2956,7 +2963,7 @@ KGLLF,KGL Resources Ltd Ordinary Shares,U
 KGMEF,Kagome Co Ltd Ordinary Shares (Japan),U
 KGNR,Kange Corp. Common Stock,U
 KGRI,"Kiley Group, Inc. (The) Common Stock",U
-KGRN,KraneShares MSCI China Environment Index ETF,ARCA
+KGRN,KraneShares MSCI China Clean Technology Index ETF,ARCA
 KGSDF,Kungsleden AB Ordinary Shares,U
 KGSDY,Kungsleden AB Unsponsored ADR (Sweden),U
 KGSPF,Kingspan Group Plc Ordinary Shares,U
@@ -3065,6 +3072,7 @@ KLRGF,Keller Group Plc Ord 10 Par Ordinary Shares,U
 KLSVF,Klondike Silver Corp Common Shares (Canada),U
 KLTHF,Koolearn Technology Hldg Ltd Common Shares (Cayman Islands),U
 KLTI,"KlausTech, Inc. Common Stock",U
+KLTR,"Kaltura, Inc. Common Stock",NASDAQ
 KLXE,"KLX Energy Services Holdings, Inc. Common Stock",NASDAQ
 KLYCY,Kunlun Energy Co. Ltd Unsponsored ADR (Hong Kong),U
 KLYG,"Kelyniam Global, Inc. Common Stock",U
@@ -3212,7 +3220,7 @@ KR,The Kroger Co.,NYSE
 KRA,Kraton Corporation,NYSE
 KRANF,Kraneshares ICAV Exchange Traded Fund (Ireland),U
 KRBF,"Kreido BioFuels, Inc. Common Stock",U
-KRBN,KFA Global Carbon ETF,ARCA
+KRBN,KraneShares Global Carbon ETF,ARCA
 KRBP,"Kiromic BioPharma, Inc. Common Stock",NASDAQ
 KRC,Kilroy Realty Corp.,NYSE
 KRCLF,King Riv Res Ltd Ordinary Fully Paid (Australia),U
@@ -3868,7 +3876,6 @@ LNKE,Link Energy LLC Common Stock,U
 LNKG,"Link Group, Inc. (The) Common Stock",U
 LNLHF,Leanlife Health Inc Common Shares,U
 LNN,Lindsay Corporation,NYSE
-LNNFF,Line Corp Ordinary Shares (Japan),U
 LNNGF,Li Ning Company Limited Ordinary Shares (Cayman Islands),U
 LNNGY,Li Ning Company Limited Unsponsored ADR (Cayman Islands),U
 LNNNF,Leoni AG Nuernberg Ordinary Shares (Germany),U
@@ -4291,6 +4298,7 @@ MAX,"MediaAlpha, Inc.",NYSE
 MAXAF,Maxclean Holdings Ltd Ordinary Shares (Cayman Islands),U
 MAXC,MAXCYTE INC COM,U
 MAXD,Max Sound Corporation Common Stock,U
+MAXFF,Max Stock Ltd Ordinary Shares (Israel),U
 MAXMF,Southern Energy Corp Common Shares,U
 MAXN,"Maxeon Solar Technologies, Ltd. Ordinary Shares",NASDAQ
 MAXR,Maxar Technologies Inc. Common Stock,NYSE
@@ -5382,7 +5390,7 @@ MSTLW,Morgan Stanley Call Warrants Based on Value of Euro Stoxx 50 Index 01/20/2
 MSTO,Masterbeat Corporation. Common Stock,U
 MSTR,MicroStrategy Incorporated Common Stock Class A,NASDAQ
 MSTUF,M.C.S. STEEL PUBLIC CO LTD Depositary Shares  NVDR SHARES  Thailand(TH ),U
-MSTXF,Megastar Development Corporation Ordinary Shares (Canada),U
+MSTXF,MADORO METALS CORP Ordinary Shares,U
 MSURF,Medica Sur SA De CV Shares -B- (Mexico),U
 MSUTF,MINSUR SA SHS -INVERSION- (Peru),U
 MSUXF,Misumi Group Inc Ordinary Shares (Japan),U
@@ -5414,5 +5422,3 @@ MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U

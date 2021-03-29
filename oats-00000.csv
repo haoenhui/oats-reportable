@@ -192,7 +192,7 @@ ACEJF,ACEA S.P.A. SHS (Italy),U
 ACEL,"Accel Entertainment, Inc.",NYSE
 ACENY,ASCENTIAL PLC American Depositary Receipts - Unsponsored,U
 ACER,Acer Therapeutics Inc. Common Stock (DE),NASDAQ
-ACES,ALPS Clean Energy ETF,BATS
+ACES,ALPS Clean Energy ETF,ARCA
 ACET,"Adicet Bio, Inc. Common Stock",NASDAQ
 ACEV,ACE Convergence Acquisition Corp. Class A Ordinary Shares,NASDAQ
 ACEVU,ACE Convergence Acquisition Corp. Unit,NASDAQ
@@ -220,7 +220,9 @@ ACI,"Albertsons Companies, Inc.",NYSE
 ACIC,Atlas Crest Investment Corp.,NYSE
 ACIC U,"Atlas Crest Investment Corp. Units, each consisting of one Class A common stock, and one-third of on",NYSE
 ACIC WS,"Atlas Crest Investment Corp.Redeemable warrants included as part of the units, each whole warrant ex",NYSE
+ACII,Atlas Crest Investment Corp. II,NYSE
 ACII U,"Atlas Crest Investment Corp. II Units, each consisting of one Class A common stock, $.0001 par value",NYSE
+ACII WS,"Atlas Crest Investment Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A",NYSE
 ACIO,Aptus Collared Income Opportunity ETF,BATS
 ACITF,Asian Citrus Holdings Ltd Ordinary Shares (Bermuda),U
 ACIU,AC Immune SA Common Stock,NASDAQ
@@ -353,6 +355,7 @@ ADI,"Analog Devices, Inc. Common Stock",NASDAQ
 ADIA,"Adia Nutrition, Inc. Common Stock",U
 ADIL,"Adial Pharmaceuticals, Inc Common Stock",NASDAQ
 ADILW,"Adial Pharmaceuticals, Inc Warrant",NASDAQ
+ADIV,SmartETFs Asia Pacific Dividend Builder ETF,ARCA
 ADIWW,Adial Pharmaceuticals Inc Wt Pur Com Exp 02/28/2024,U
 ADKCF,Adeka Corp Ordinary Shares (Japan),U
 ADKIL,Adkins Energy LLC Unit Membership Int,U
@@ -1901,7 +1904,9 @@ ATMH,ALL THINGS MOBILE ANALYTIC INC Common Stock,U
 ATMO,"AmericaTowne Holdings, Inc. Common Stock",U
 ATMP,iPath Select MLP ETN,BATS
 ATMQF,Ateam Inc Common Stock (Japan),U
+ATMR,Altimar Acquisition Corp. II,NYSE
 ATMR U,"Altimar Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fourth of",NYSE
+ATMR WS,"Altimar Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share",NYSE
 ATMRF,Altamir Ordinary Shares (France),U
 ATMS,"Artemis Therapeutics, Inc. Common Stock",U
 ATNE,Alternative Energy Technology Inc Common Stock,U
@@ -3665,7 +3670,7 @@ BURL,"BURLINGTON STORES, INC.",NYSE
 BUROF,Burcon NutraScience Corporation Ordinary Shares,U
 BUSC,"Blue Star Global, Inc. Common Stock",U
 BUSE,First Busey Corporation Class A Common Stock,NASDAQ
-BUSXF,Grande West Transn Group Inc Ordinary Shares (Canada),U
+BUSXD,VICINITY MTR CORP Ordinary Shares,U
 BUUZ,"CalEthos, Inc.  Common Stock",U
 BUYZ,Franklin Disruptive Commerce ETF,BATS
 BUZZ,VanEck Vectors Social Sentiment ETF,ARCA
@@ -4306,7 +4311,9 @@ CEMB,iShares J.P. Morgan EM Corporate Bond ETF,BATS
 CEMI,"Chembio Diagnostics, Inc. Common Stock",NASDAQ
 CEN,Center Coast Brookfield MLP & Energy Infrastructure Fund,NYSE
 CENEF,Carenet Inc Tokyo Ordinary shares (Japan),U
+CENH,Centricus Acquisition Corp. Class A Ordinary Share,NASDAQ
 CENHU,Centricus Acquisition Corp. Unit,NASDAQ
+CENHW,Centricus Acquisition Corp. Warrant,NASDAQ
 CENT,Central Garden & Pet Company Common Stock,NASDAQ
 CENTA,Central Garden & Pet Company Class A Common Stock Nonvoting,NASDAQ
 CENX,Century Aluminum Company Common Stock,NASDAQ
@@ -5415,5 +5422,3 @@ CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
-CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
-CPF,Central Pacific Financial Corporation,NYSE

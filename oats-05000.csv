@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
+CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
@@ -67,7 +69,9 @@ CPTFF,XTRACKERS IE PLC Exchange Traded Fund,U
 CPTHF,Adams PLC Ordinary shares (Isle of Man),U
 CPTK U,"Crown PropTech Acquisitions Units, each consisting of one Class A ordinary share and one-third of on",NYSE
 CPTP,"Capital Properties, Inc. Class A Common Stock",U
+CPUH,Compute Health Acquisition Corp.,NYSE
 CPUH U,"Compute Health Acquisition Corp. Units, each consisting of one share of Class A common stock and one",NYSE
+CPUH WS,"Compute Health Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share o",NYSE
 CPVNF,CAPITAL VENTURE EUROPE PLC  Ordinary Shares (United Kingdom),U
 CPWHF,Ceres Power Holdings plc Crawley Ordinary Shares,U
 CPWIF,China Power International Development Ltd Ordinary Shares (Hong Kong),U
@@ -885,7 +889,9 @@ DCRB,Decarbonization Plus Acquisition Corporation Class A Common Stock,NASDAQ
 DCRBU,Decarbonization Plus Acquisition Corporation Unit,NASDAQ
 DCRBW,Decarbonization Plus Acquisition Corporation Warrant,NASDAQ
 DCRCU,Decarbonization Plus Acquisition Corporation III Unit,NASDAQ
+DCRN,Decarbonization Plus Acquisition Corporation II Class A Common stock,NASDAQ
 DCRNU,Decarbonization Plus Acquisition Corporation II Unit,NASDAQ
+DCRNW,Decarbonization Plus Acquisition Corporation II Warrant,NASDAQ
 DCSX,DIRECT COMMUNICATION SOLUTIONS INC Common Stock,U
 DCT,"Duck Creek Technologies, Inc. Common Stock",NASDAQ
 DCTH,"Delcath Systems, Inc. Common Stock",NASDAQ
@@ -1142,6 +1148,7 @@ DIV,Global X SuperDividend U.S. ETF,ARCA
 DIVA,AGFiQ Hedged Dividend Income Fund,ARCA
 DIVB,iShares U.S. Dividend and Buyback ETF,BATS
 DIVO,Amplify CWP Enhanced Dividend Income ETF,ARCA
+DIVS,SmartETFs Dividend Builder ETF,ARCA
 DIVZ,TrueShares Low Volatility Equity Income ETF,ARCA
 DIZTF,"Dignitana AB, MALMO Ordinary Shares (Sweden)",U
 DJAN,FT Cboe Vest U.S. Equity Deep Buffer ETF - January,BATS
@@ -1229,7 +1236,6 @@ DLX,Deluxe Corporation,NYSE
 DLY,DoubleLine Yield Opportunities Fund,NYSE
 DLYT,Dais Corporation Common Stock,U
 DM,"Desktop Metal, Inc.",NYSE
-DM WS,"Desktop Metal, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A Com",NYSE
 DMAC,DiaMedica Therapeutics Inc. Common Stock,NASDAQ
 DMAN,"Demand Brands, Inc. Common Stock",U
 DMAR,FT Cboe Vest U.S. Equity Deep Buffer ETF - March,BATS
@@ -1523,7 +1529,7 @@ DTCWY,Deutsche Wohnen SE American Depositary Receipts - Unsponsored,U
 DTD,WisdomTree U.S. Total Dividend Fund,ARCA
 DTE,DTE Energy Company,NYSE
 DTEA,DAVIDsTEA Inc. Common Stock,NASDAQ
-DTEC,ALPS Disruptive Technologies ETF,BATS
+DTEC,ALPS Disruptive Technologies ETF,ARCA
 DTEGF,Deutsche Telekom A G Ordinary Shares,U
 DTEGY,Deutsche Telekom AG Common Stock,U
 DTEMF,Ditem Explorations Inc Ordinary Shares,U
@@ -1775,6 +1781,7 @@ ECC,EAGLE POINT CREDIT COMPANY INC.,NYSE
 ECCB,Eagle Point Credit Company Inc. 7.75% Series B Term Preferred Stock due 2026,NYSE
 ECCE,"Eagle Ford Oil & Gas, Corp. Common Stock",U
 ECCI,"Ecoloclean Industries, Inc. Common Stock",U
+ECCW,Eagle Point Credit Company Inc .6.75% Notes due 2031,NYSE
 ECCX,Eagle Point Credit Company Inc. 6.6875% Notes due 2028,NYSE
 ECCY,Eagle Point Credit Company Inc. 6.75% Notes due 2027,NYSE
 ECDD,"Ecrid, Inc. Common Stock",U
@@ -2451,7 +2458,6 @@ EQMEF,Equity Metals Corporation  Ordinary Shares,U
 EQNR,"Equinor ASA American Depositary Shares (Each Representing One Ordinary Share, nominal value NOK 2.50",NYSE
 EQOP,Natixis U.S. Equity Opportunities ETF,ARCA
 EQOS,Diginex Limited Ordinary Shares,NASDAQ
-EQOSW,Diginex Limited Warrant,NASDAQ
 EQR,Equity Residential,NYSE
 EQRR,ProShares Trust ProShares Equities for Rising Rates ETF,NASDAQ
 EQS,"Equus Total Return, Inc.",NYSE
@@ -3394,7 +3400,6 @@ FJUL,FT Cboe Vest U.S. Equity Buffer ETF - July,BATS
 FJUN,FT Cboe Vest U.S. Equity Buffer ETF - June,BATS
 FJVPF,Fidelity Japan Trust Plc Ordinary Shares,U
 FKCIF,Fukui Computer Holdings Inc Ordinary Shares (Japan),U
-FKDNF,FUJITSU FRONTECH LTD SHS (Japan),U
 FKKEF,Charter Hall Ed Tr Unit,U
 FKKFF,"Fukuoka Financial Group Inc, Fukuoka Common Shares (Japan)",U
 FKKFY,"Fukuoka Financial Group Inc, Fukuoka Unsponsored ADR (Japan)",U
@@ -3402,7 +3407,7 @@ FKMCF,FOKUS MNG CORP Common Shares (Canada),U
 FKRAF,Fiskars OY Ordinary Shares,U
 FKSHF,Fukushima Galilei Co Ltd. Ordinary Shares (Japan),U
 FKU,First Trust United Kingdom AlphaDex Fund,NASDAQ
-FKWL,Franklin Wireless Corp. Common Stock,U
+FKWL,Franklin Wireless Corp. Common Stock,NASDAQ
 FKYS,First Keystone Corp Common Stock,U
 FL,"Foot Locker, Inc.",NYSE
 FLAC,Frazier Lifesciences Acquisition Corporation Class A Ordinary Shares,NASDAQ

@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
 MTG,MGIC Investment Corp.,NYSE
@@ -1324,7 +1326,9 @@ NXTOF,NEXSTIM OYJ Rights   05/31/2021,U
 NXTTF,Namaste Technologies Inc Ordinary Shares (Canada) Common Shares,U
 NXTUF,FIRST TR GLOBAL FDS PLC SHS CLASS -A- JPY ETF (Ireland),U
 NXTYQ,Nexity Financial Corporation Common Stock,U
+NXU,Novus Capital Corporation II,NYSE
 NXU U,"Novus Capital Corporation II Units, each consisting of one share of Class A common stock and one thi",NYSE
+NXU WS,"Novus Capital Corporation II Redeemable warrants, each whole warrant exercisable for shares of Class",NYSE
 NXXGF,Nexus Gold Corp Ordinary Shares,U
 NXXTF,Next Games Oyj Ordinary Shares (Finland),U
 NXYAF,Nexity Shs Cat -A- (France),U
@@ -4178,7 +4182,6 @@ RIOFF,Rio2 Ltd Ordinary Shares,U
 RIOT,"Riot Blockchain, Inc.  Common Stock",NASDAQ
 RIOXF,RION CO LTD Ordinary Shares,U
 RISN,Inspire Tactical Balanced ESG ETF,ARCA
-RISOF,RISO KAGAKU CORP SHS (Japan),U
 RITE,MineralRite Corporation Common Stock,U
 RITPF,R I T Capital Ptnr Cv Unsec Ln Ordinary Shares,U
 RITT,RIT TECHNOLOGIES LTD Common Stock,U
@@ -4269,7 +4272,9 @@ RMETF,Rackla Metals Inc Common Shares,U
 RMGB,RMG Acquisition Corp. II Class A Ordinary Shares,NASDAQ
 RMGBU,RMG Acquisition Corp. II Unit,NASDAQ
 RMGBW,RMG Acquisition Corp. II Warrant,NASDAQ
+RMGC,RMG Acquisition Corp. III Class A Ordinary Shares,NASDAQ
 RMGCU,RMG Acquisition Corp. III Unit,NASDAQ
+RMGCW,RMG Acquisition Corp. III Warrant,NASDAQ
 RMGGF,Resolute Mining Ltd Ordinary Shares,U
 RMGGY,Resolute Mining Ltd Unsponsored ADR (Austrailia),U
 RMGNF,RHI Magnesita NV Ordinary Shares (Netherlands),U
@@ -5041,7 +5046,9 @@ SCZ,iShares MSCI EAFE Small-Cap ETF,NASDAQ
 SCZC,Santa Cruz County Bank (CA) Common Stock,U
 SCZZY,SOCIETA CATTOLICA DI ASSICURAZIONI - SOCIETA COOPERATIVA American Depositary Receipts - Unsponsored  Italy(IT ),U
 SD,"SandRidge Energy, Inc.",NYSE
+SDAC,Sustainable Development Acquisition I Corp. Class A Common Stock,NASDAQ
 SDACU,Sustainable Development Acquisition I Corp. Unit,NASDAQ
+SDACW,Sustainable Development Acquisition I Corp. Warrant,NASDAQ
 SDAD,S H Res & Dev Corp Common Stock,U
 SDC,"SmileDirectClub, Inc. Class A Common Stock",NASDAQ
 SDCI,USCF SummerHaven Dynamic Commodity Strategy No K-1 Fund,ARCA
@@ -5415,4 +5422,3 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ

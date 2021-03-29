@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
@@ -1792,7 +1793,9 @@ TBBC,Triad Business Bank Common Stock,U
 TBBK,The Bancorp Inc Common Stock,NASDAQ
 TBC,AT&T Inc. 5.625% Global Notes due 2067,NYSE
 TBCCF,TBC Bank Group PLC Ordinary Shares (United Kingdom),U
+TBCP,Thunder Bridge Capital Partners III Inc. Class A Common Stock,NASDAQ
 TBCPU,Thunder Bridge Capital Partners III Inc. Units,NASDAQ
+TBCPW,Thunder Bridge Capital Partners III Inc. Warrant,NASDAQ
 TBCRF,TIMBERCREEK FINL CORP COM (Canada),U
 TBDYF,"Gordon Creek Energy, Inc. Ordinary Shares (Canada)",U
 TBET,"Tibet Pharmaceuticals, Inc. Common Shares",U
@@ -2156,7 +2159,7 @@ THMMF,Thaicom Public Company Ltd SHS (Thailand),U
 THMNF,Thaicom Public Company Ltd UNits Non-Voting Depositary Receipt (Thailand),U
 THMO,"ThermoGenesis Holdings, Inc. Common Stock",NASDAQ
 THNOF,Technology One Limited Ordinary Shares (Australia),U
-THNPF,Technip Energies NV Ordinary Shares (France),U
+THNPF,TECHNIP ENERGIES N V Ordinary Shares,U
 THNPY,TECHNIP ENERGIES NV American Depositary Receipts - Sponsored,U
 THNQ,ROBO Global Artificial Intelligence ETF,ARCA
 THNUY,Thanachart Capital Public Co Ltd Unsponsored ADR (Thailand),U
@@ -2755,6 +2758,7 @@ TRTN PRA,Triton International Limited 8.50% Series A Cumulative Redeemable Perpe
 TRTN PRB,Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares,NYSE
 TRTN PRC,Triton International Limited 7.375% Series C Cumulative Redeemable Perpetual Preference Shares,NYSE
 TRTN PRD,Triton International Limited 6.875% Series D Cumulative Redeemable Perpetual Preference Shares,NYSE
+TRTPF,Trustpilot Group PLC Ordinary Shares (United Kingdom),U
 TRTX,"TPG RE Finance Trust, Inc. Common Stock",NYSE
 TRTY,Cambria Trinity ETF,BATS
 TRU,TransUnion,NYSE
@@ -3032,6 +3036,7 @@ TWO,Two Harbors Investment Corp.,NYSE
 TWO PRA,Two Harbors Investment Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred S,NYSE
 TWO PRB,Two Harbors Investment Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred S,NYSE
 TWO PRC,Two Harbors Investment Corp 7.25% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred St,NYSE
+TWOA,two,NYSE
 TWODF,Taylor Wimpey Plc Ordinary Shares,U
 TWODY,Taylor Wimpey Plc Unsponsored ADR (UK),U
 TWOH,Two Hands Corporation Common Stock,U
@@ -3804,9 +3809,9 @@ VHLGF,Valuetronics Holdings Ltd Ordinary shares (Bermuda),U
 VHT,Vanguard Health Care ETF,ARCA
 VHUB,Vapor Hub International Inc. Common Stock,U
 VIAAY,Vienna International Airport Sponsored ADR (Austria),U
-VIABP,ViacomCBS Inc. Conv Pfd,U
 VIAC,ViacomCBS Inc. Class B Common Stock,NASDAQ
 VIACA,ViacomCBS Inc. Class A Common Stock,NASDAQ
+VIACP,ViacomCBS Inc. 5.75% Series A Mandatory Convertible Preferred Stock,NASDAQ
 VIAO,"VIA optronics AG American Depositary Shares, each representing one-fifth of an Ordinary Share",NYSE
 VIAP,"VIA Pharmaceuticals, Inc. Common Stock",U
 VIAV,Viavi Solutions Inc. Common Stock,NASDAQ
