@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
+SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
@@ -215,8 +217,6 @@ SKAS,Saker Aviation Services Inc. Common Stock,U
 SKBNF,Shikun & Binui Ltd Ordinary Shares (Israel),U
 SKBSY,Skanska AB Sponsored ADR (Sweden),U
 SKCBY,Shinkin Central Bank Tokyo Unsponsored ADR representing Preferred Shares (Japan),U
-SKCZF,Selcuk Ecza Deposu Ticaret Ve Sanayi As Ordinary Shares (Turkey),U
-SKDI,"Sun Kissed Industries, Inc. Common Stock",U
 SKENF,Sasakura Engineering Co Ltd Ordinary Shares (Japan),U
 SKF,ProShares UltraShort Financials,ARCA
 SKFG,STARK FOCUS GROUP INC Common Shares,U
@@ -529,6 +529,7 @@ SNANF,Sona Nanotech Inc Common Shares,U
 SNAP,Snap Inc.,NYSE
 SNAS,Sino Assurance Inc.Common Stock,U
 SNAVF,"Star Navigation Systems Group, Ltd. Ordinary Shares (Canada)",U
+SNBH,"Sentient Brands Holdings, Inc. Common Stock",U
 SNBIF,Sanbio Co Ltd. Common Stock (Japan),U
 SNBOY,Sanbio Co Ltd. American Depositary Receipts - Unsponsored (Japan),U
 SNBR,Sleep Number Corporation Common Stock,NASDAQ
@@ -1409,6 +1410,7 @@ SUHJY,Sun Hung Kai Pptys Ltd Ord American Depositary Shares,U
 SUI,"Sun Communities, Inc",NYSE
 SUIC,Sino United Worldwide Consolidated Ltd. Common Stock,U
 SUIFF,Superior Mining International Corporation Ordinary Shares,U
+SUJAF,ISHARES IV PLC MSCI JAPAN SRI UCITS ETF (Ireland),U
 SULMF,SULLIDEN MNG CAP INC Common Shares,U
 SULR,SmartETFs Sustainable Energy II ETF,BATS
 SULZF,Sulzer Ag Winterhur Part Ctf Ordinary Shares,U
@@ -1737,7 +1739,6 @@ TAJIF,Tajiri Resources Corporation Common Shares (Canada),U
 TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share o,NYSE
 TAKD,TransAKT Ltd. Common Stock,U
 TAKOF,Drone Delivery CDA Corp Common Shares,U
-TAKUF,C2C GOLD CORP Common Shares,U
 TAL,TAL Education Group,NYSE
 TALC,Tal Cap Inc Unclassified,U
 TALN,"Talon International, Inc Common Stock",U
@@ -1983,6 +1984,7 @@ TEKXF,Lincoln Ventures Ltd. Ordinary Shares,U
 TEL,TE CONNECTIVITY LTD,NYSE
 TELA,"TELA Bio, Inc. Common Stock",NASDAQ
 TELDF,Telefonica Deutschland Hldg AG Namens-Aktien O.N Ordinary Shares (Federal Republic of Germany),U
+TELDY,TELEFONICA DEUTSCHLAND HLDG AG American Depositary Receipts - Unsponsored (Georgia),U
 TELL,Tellurian Inc. Common Stock,NASDAQ
 TELNF,Telenor ASA Ordinary Shares,U
 TELNY,Telenor ASA American Depositary Shares,U
@@ -2991,7 +2993,6 @@ TVE,"Tennessee Valley Authority Power Bonds 1999 Series A due May 1, 2029",NYSE
 TVER,Terrace Ventures Inc. New Common Stock New,U
 TVETF,Traverse Energy Limited Ordinary Shares (Canada),U
 TVFCF,Television Francaise Ordinary Shares,U
-TVFZF,Trevi Finanziari Industriale Spa Cesena Fo Ordinary Shares (Italy),U
 TVIPF,T V I Pacific Inc Fgn Ordinary Shares,U
 TVIXF,Credit Suisse AG Nassau Brh VelocityShares Daily 2x VIX Short Term ETN,U
 TVLF,"Tennessee Valley Financial Holdings, Inc. Common Stock",U
@@ -3139,6 +3140,7 @@ UBER,"Uber Technologies, Inc.",NYSE
 UBEX,"United Bullion Exchange, Inc. Common Stock",U
 UBFO,United Security Bancshares Common Stock,NASDAQ
 UBFPF,UBS Irl Etf Plc Accum Ptg Cl A Hedged Exchange Traded Fund (Ireland),U
+UBGHF,U BANQUET GROUP HLDG LTD SHS (Cayman Islands),U
 UBGZF,UBS AG LONDON BRH Warrant   07/26/2024,U
 UBIA,UBI BlockChain Internet Ltd. Common Stock,U
 UBIHF,UBICOM HOLDINGS INC Ordinary Shares,U
@@ -3439,7 +3441,6 @@ URMCY,UNIBAIL-RODAMCO SE / WFD UNIBAIL-RODAMCO N V American Depositary Receipts 
 URNAF,Urbana Corp Ordinary Shares,U
 URNM,NorthShore Global Uranium Mining ETF,ARCA
 URNXF,Magnis Energy Technologies Ltd Ordinary Shares,U
-UROV,Urovant Sciences Ltd. Common Shares,NASDAQ
 URPLF,New Klondike Exploration Ltd. Ordinary Shares,U
 URPTF,Uranium Participation Corp Common Shares (Canada),U
 URTH,iShares MSCI World ETF,ARCA
@@ -3549,6 +3550,7 @@ UTHR,United Therapeutics Corporation Common Stock,NASDAQ
 UTI,"Universal Technical Institute, Inc.",NYSE
 UTL,Unitil Corporation,NYSE
 UTMD,"Utah Medical Products, Inc. Common Stock",NASDAQ
+UTME,UTime Limited Ordinary Shares,NASDAQ
 UTNDF,United Inc. Ordinary Shares (Japan),U
 UTNT,Udata Net Corp. Common,U
 UTOCF,Utoc Corp Ordinary Shares (Japan),U

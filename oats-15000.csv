@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
@@ -22,7 +21,6 @@ MTLHF,Mitsubishi Chemical Holdings Corp Ordinary Shares (Japan),U
 MTLHY,Mitsubishi Chemical Holdings Corp Unsponsored ADR (Japan),U
 MTLI,Metaline Contact Mines Common Stock,U
 MTLK,"Metalink, Ltd. Ordinary Shares",U
-MTLQU,Motors Liquidation Company GUC TR Units of Beneficial Interest,U
 MTLRF,Metalore Resources Ltd Ordinary Shares,U
 MTLS,Materialise NV American Depositary Shares,NASDAQ
 MTLZF,Metall Zug AG Ordinary Shares (Switzerland),U
@@ -957,6 +955,7 @@ NRTSF,Nobilis Health Corporation Common Shares (Canada),U
 NRTZF,Noritz Corp Ordinary Shares (Japan),U
 NRUC,National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordi,NYSE
 NRVTF,Noram Ventures Inc. Common Shares,U
+NRWEF,"NORWEGIAN ENERGY COMPANY AS, STAVENGER SHS (Norway)",U
 NRWRF,Newriver Reit Plc Reit (United Kingdom),U
 NRWS,Narrowstep Inc. Common Stock,U
 NRXCF,Neutrisci Intl Inc Ordinary Shares (Canada),U
@@ -1857,6 +1856,7 @@ OTGLY,CD Projekt S.A. American Depositary Receipts - Unsponsored (Poland),U
 OTIC,"Otonomy, Inc. Common Stock",NASDAQ
 OTIS,Otis Worldwide Corporation,NYSE
 OTIVF,On Track Innovations Ltd Common Stock,U
+OTLC,"Oncotelic Therapeutics, Inc. Common Stock",U
 OTLK,"Outlook Therapeutics, Inc. Common Stock",NASDAQ
 OTLKW,"Outlook Therapeutics, Inc. Series A Warrant Expiring 02/18/2022",NASDAQ
 OTMN,O T Mining Corp Common Stock,U
@@ -3188,7 +3188,7 @@ PSQ,ProShares Short QQQ,ARCA
 PSR,Invesco Active U.S. Real Estate Fund,ARCA
 PSRJF,PT SRI REJEKI ISMAN TBK Ordinary Shares,U
 PSRU,VALIANT EAGLE INC Common Stock,U
-PSRVF,Prospero Silver Corp Common Shares,U
+PSRVF,KEON CAP INC Common Shares,U
 PSSGF,P S G Group Ltd Ordinary Shares,U
 PSSKF,"Pressance Corp, Osaka Common Stock (Japan)",U
 PSSR,"PASSUR Aerospace, Inc. Common Stock",U
@@ -4164,6 +4164,7 @@ RILY,"B. Riley Financial, Inc. Common Stock",NASDAQ
 RILYG,"B. Riley Financial, Inc. 7.25% Senior Notes due 2027",NASDAQ
 RILYH,"B. Riley Financial, Inc. 7.375% Senior Notes due 2023",NASDAQ
 RILYI,"B. Riley Financial, Inc. 6.875% Senior Notes due 2023",NASDAQ
+RILYK,"B. Riley Financial, Inc. 5.50% Senior Notes Due 2026",NASDAQ
 RILYL,"B. Riley Financial, Inc. Depositary Shares each representing 1/1000th in a share of 7.375% Series B Cumulative Perpetual Preferred Stock, par value $0.0001",NASDAQ
 RILYM,"B. Riley Financial, Inc. 6.375% Senior Notes due 2025",NASDAQ
 RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",NASDAQ
@@ -4275,6 +4276,8 @@ RMGBW,RMG Acquisition Corp. II Warrant,NASDAQ
 RMGC,RMG Acquisition Corp. III Class A Ordinary Shares,NASDAQ
 RMGCU,RMG Acquisition Corp. III Unit,NASDAQ
 RMGCW,RMG Acquisition Corp. III Warrant,NASDAQ
+RMGDU,RMG Acquisition Corp. IV Units,NASDAQ
+RMGEU,RMG Acquisition Corp. V Units,NASDAQ
 RMGGF,Resolute Mining Ltd Ordinary Shares,U
 RMGGY,Resolute Mining Ltd Unsponsored ADR (Austrailia),U
 RMGNF,RHI Magnesita NV Ordinary Shares (Netherlands),U
@@ -5238,6 +5241,7 @@ SFIR,Steadfast Income REIT Inc Accredited Invs Common Shares,U
 SFIV,"Sector 5, Inc. Com",U
 SFIX,"Stitch Fix, Inc. Class A Common Stock",NASDAQ
 SFL,SFL Corporation Ltd.,NYSE
+SFLM,SFLMAVEN CORP Common Stock,U
 SFM,"Sprouts Farmers Market, Inc. Common Stock",NASDAQ
 SFNC,Simmons First National Corporation Class A Common Stock,NASDAQ
 SFNXF,Sa Sofina Ordinary Shares,U
@@ -5420,5 +5424,3 @@ SHHPF,Ship Healthcare Holdings Inc Ordinary Shares (Japan),U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
-SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
-SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ

@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
@@ -387,7 +390,6 @@ HHULF,"Hamburger Hafen Und Logistik Ag, Hamburg Namens - AKT (Germany)",U
 HHULY,"Hamburger Hafen Und Logistik Ag, Hamburg Unsponsored ADR (Germany)",U
 HHUSF,HUA HONG SEMICONDUCTOR LTD Common Stock  Hong Kong(HK ),U
 HI,"Hillenbrand, Inc.",NYSE
-HIAI,RC-1 Inc Common Stock,U
 HIBB,"Hibbett Sports, Inc. Common Stock",NASDAQ
 HIBL,Direxion Daily S&P 500 High Beta Bull 3X Shares,ARCA
 HIBRF,Hibernia REIT PLC Ordinary Shares Euro .10 (Ireland),U
@@ -1488,6 +1490,7 @@ IIM,INVESCO VALUE MUNICIPAL INCOME TRUST,NYSE
 IIN,Intricon Corporation Common Stock,NASDAQ
 IINDF,INTEGRA INDOCABINET TBK PT Ordinary Shares (Indonesia),U
 IINHF,Imagi International Holdings Ltd Ordinary Shares,U
+IINN,Inspira Technologies Oxy B.H.N. Ltd. Ordinary Shares,NASDAQ
 IINX,"Ionix Technology, Inc. Common Stock",U
 IIPR,"Innovative Industrial Properties, Inc. Common stock",NYSE
 IIPR PRA,"Innovative Industrial Properties, Inc.9.00 Percent Series A Cumulative Redeemable Preferred Stock",NYSE
@@ -1770,7 +1773,6 @@ INSW PRA,"International Seaways, Inc. 8.50% Senior Notes due June 30, 2023",NYSE
 INSXF,INSTALLUX SA SHS (France),U
 INT,World Fuel Services Corporation,NYSE
 INTAF,INTACT FINL CORP NON CUM RATE RESET PFD SHS CL A SER 3 Canada(CA ),U
-INTBD,"Sentient Brands Holdings, Inc. Common Stock",U
 INTC,Intel Corporation Common Stock,NASDAQ
 INTEQ,INTELSAT S A Common Stock,U
 INTF,iShares MSCI Intl Multifactor ETF,ARCA
@@ -1778,6 +1780,7 @@ INTG,Intergroup Corporation (The) Common Stock,NASDAQ
 INTH,InnoTech Corporation Common Stock,U
 INTI,"Inhibitor Therapeutics, Inc. Common Stock",U
 INTK,Industrial Nanotech Inc Common Stock,U
+INTM,"Intermedia Cloud Communications, Inc. Common Stock",NASDAQ
 INTO,"Initio, Inc. Common Stock",U
 INTP,"Integrated Pharmaceuticals, Inc. Common Stock",U
 INTT,inTEST Corporation,AMEX
@@ -1806,7 +1809,6 @@ IOCJY,Iochpe Maxion SA Sponsored American Depositary Shares repstg Pfd Shares,U
 IOFB,Iowa First Bancshares Corp. Common Stock,U
 IOFFF,Invesco Office J REIT Inc Ordinary Shares (Japan),U
 IOFNF,"Iofina Plc, London Ordinary shares (United Kingdom)",U
-IOIHF,Ioi Properties Group Bhd Common Stock (Malaysia),U
 IOIOF,IOI Corporation BHDIOI Ordinary Shares (Malaysia),U
 IOMT,Isomet Corporation Common Stock,U
 IONAF,"Iona Energy, Inc. Ordinary Shares (Canada)",U
@@ -2039,7 +2041,6 @@ ISJPF,Ishares II PLC JP Morgan EM Bond UCITS ETF,U
 ISJSF,ISHARES JANTZI SOCIAL INDEX Unit,U
 ISKCF,"ISK CHELOVEKA OAO, MOSCOW Ordinary Shares",U
 ISLE,Isleworth Healthcare Acquisition Corporation Common stock,NASDAQ
-ISLEU,Isleworth Healthcare Acquisition Corporation Unit,NASDAQ
 ISLEW,Isleworth Healthcare Acquisition Corporation Warrant,NASDAQ
 ISLV,"International Silver, Inc. Common Stock",U
 ISMAF,Indra Sistemas SA Madrid,U
@@ -3023,7 +3024,6 @@ KIYOF,Kiyo Bank Ltd Ordinary Shares (Japan),U
 KJAN,Innovator Russell 2000 Power Buffer ETF - January,BATS
 KJFI,Comjoyful International Company Common Stock,U
 KJUL,Innovator Russell 2000 Power Buffer ETF - July,BATS
-KKKGF,Kyokuto Kaihatsu Kogyo Co Ltd Ordinary Shares (Japan),U
 KKKUF,Kakaku.com Inc Tokyo Ordinary Shs (Japan),U
 KKMMY,Kakaku Com Inc American Depositary Receipts - Unsponsored (Japan),U
 KKMSF,Klimasan Klima Sanayi Ve Ticaret Ordinary Shares,U
@@ -3350,7 +3350,9 @@ KUNUF,Kunlun Energy Company Ltd Ordinary Shares (Bermuda),U
 KURA,"Kura Oncology, Inc. Common Stock",NASDAQ
 KURCF,Kureha Corp Ordinary Shares (Japan),U
 KURE,KraneShares MSCI All China Health Care Index ETF,ARCA
+KURI,Alkuri Global Acquisition Corp. Class A common stock,NASDAQ
 KURIU,Alkuri Global Acquisition Corp. Unit,NASDAQ
+KURIW,Alkuri Global Acquisition Corp. Warrant,NASDAQ
 KURRF,Kuraray Co Ordinary Shares,U
 KURRY,Kuraray Co Unsponsored ADR (Japan),U
 KUSA,"Kashin, Inc. Common Stock",U
@@ -4282,7 +4284,6 @@ MAS,Masco Corporation,NYSE
 MASI,Masimo Corporation Common Stock,NASDAQ
 MASS,908 Devices Inc. Common Stock,NASDAQ
 MAT,"Mattel, Inc. Common Stock",NASDAQ
-MATN,Mateon Therapeutics Inc Common Stock,U
 MATW,Matthews International Corporation Class A Common Stock,NASDAQ
 MATX,"Matsons, Inc.",NYSE
 MAUGF,Magnetic Resources NL Ord Shs (Australia),U
@@ -5422,3 +5423,4 @@ MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ

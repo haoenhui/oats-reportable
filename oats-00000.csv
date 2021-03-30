@@ -170,6 +170,7 @@ ACAN,"Americann, Inc. Common Stock",U
 ACAVF,ACE Aviation Holdings Inc Common Shares (Canada),U
 ACAZF,Acadian Timber Corporation Ordinary Shares (Canada),U
 ACB,Aurora Cannabis Inc. Common Shares,NYSE
+ACBAU,Ace Global Business Acquisition Limited Unit,NASDAQ
 ACBCQ,Albina Community Bancorp (OR) Common Stock,U
 ACBD,Annabidiol Corp. Common Stock,U
 ACBI,"Atlantic Capital Bancshares, Inc. Common Stock",NASDAQ
@@ -215,6 +216,7 @@ ACH,Alum Corp of China Limited,NYSE
 ACHC,"Acadia Healthcare Company, Inc. Common Stock",NASDAQ
 ACHFF,ARch Biopartners Inc. Ordinary Shares (Canada),U
 ACHKF,ACHIKO AG NAMEN AKT Ordinary Shares,U
+ACHL,Achilles Therapeutics plc American Depositary Shares,NASDAQ
 ACHV,"Achieve Life Sciences, Inc. Common Shares",NASDAQ
 ACI,"Albertsons Companies, Inc.",NYSE
 ACIC,Atlas Crest Investment Corp.,NYSE
@@ -779,12 +781,10 @@ AILIN,Ameren Illinois Company 4.42% Preferred Stock,U
 AILIO,Ameren Illinois Company 4.26% Cumulative Preferred Stock,U
 AILIP,Ameren Illinois Company 4.20% Cumulative Preferred Stock,U
 AILLI,Ameren Illinois Company 5.16% Preferred Stock,U
-AILLL,Ameren Illinois Company Depositary Receipts representing 1/4 of 6.625% preferred stock,U
 AILLM,Ameren Illinois Company 4.92% Preferred Stock,U
 AILLN,Ameren Illinois Company 4.90% Preferred Stock,U
 AILLO,Ameren Illinois Company 4.25% Preferred Stock,U
 AILLP,Ameren Illinois Company 4.00% Preferred Stock,U
-AILNP,Ameren Illinois Company  7.75% Cumulative Preferred Stock,U
 AILQF,"AirlQ, Inc. Ordinary Shares (Canada)",U
 AILTF,ARGENT INDUSTRIAL LIMITED Ordinary Shares,U
 AIM,AIM ImmunoTech Inc.,AMEX
@@ -866,6 +866,7 @@ AKCCF,AKER CARBON CAPTURE AS Ordinary Shares,U
 AKCPF,Asustek Computer Inc Ord Ordinary Shares,U
 AKEJF,Ariake Japan Ordinary Shares,U
 AKER,Akers Biosciences Inc. Common Stock,NASDAQ
+AKHOF,Aker Horizons AS Common Shares (Norway),U
 AKIC,Sports Ventures Acquisition Corp. Class A Ordinary Shares,NASDAQ
 AKICU,Sports Ventures Acquisition Corp. Unit,NASDAQ
 AKICW,Sports Ventures Acquisition Corp. Warrant,NASDAQ
@@ -1313,6 +1314,7 @@ ANTGF,Advantagewon Oil Corp Ordinary Shares,U
 ANTH,"Anthera Pharmaceuticals, Inc. Common Stock",U
 ANTI,Antigenics Inc (Colorado) Common Stock,U
 ANTM,"ANTHEM, INC.",NYSE
+ANTMF,ANTILLES GOLD LTD Ordinary Shares,U
 ANTOF,IIDA GROUP HLDGS CO LTD Ordinary Shares,U
 ANVI,"Anvi Global Holdings, Inc. Common Stock",U
 ANVS,"Annovis Bio, Inc.",AMEX
@@ -1587,6 +1589,7 @@ ARKQ,ARK Autonomous Technology & Robotics ETF,BATS
 ARKR,Ark Restaurants Corp. Common Stock,NASDAQ
 ARKTF,PREMIER VETERINARY GROUP PLC  Ordinary Shares,U
 ARKW,ARK Next Generation Internet ETF,ARCA
+ARKX,ARK Space Exploration & Innovation ETF,BATS
 ARL,"American Realty Investors, Inc.",NYSE
 ARLCF,Air Partner Plc Ord Gbp0.01 (United Kingdom),U
 ARLLF,Argan Neuilly Sur Seine Ordinary Shares (France),U
@@ -4562,7 +4565,6 @@ CHGDF,China Lilang Ltd Ordinary Shares (Cayman Islands),U
 CHGG,"CHEGG, INC.",NYSE
 CHGI,"China Carbon Graphite Group, Inc. Common Stock",U
 CHGS,"China GengSheng Minerals, Inc. Common Stock",U
-CHGT,Changing Technologies Inc Common Stock,U
 CHGX,Change Finance U.S. Large Cap Fossil Fuel Free ETF,ARCA
 CHH,Choice Hotels Intnl.,NYSE
 CHHCF,CHC Group LLC Ordinary Shares (Cayman Islands),U
@@ -4635,7 +4637,6 @@ CHNVF,CHINA YOUZAN LTD Common Stock,U
 CHOB,Charter Oak Bank (CA) Common Stock,U
 CHOLF,China Oilfield Services Limited H Shares (China),U
 CHOOF,Choom Hldgs Inc Common Shares,U
-CHOPF,China Gerui Advanced Materials Group Limited Ordinary Shares (Virgin Islands British),U
 CHOWF,Chow Sang Sang Holdings International Ltd Ordinary Shares (Bermuda),U
 CHPEF,CHINA PENGFEI GROUP LTD HKD SHS (Cayman Islands),U
 CHPFF,Charoen Pokphand Foods Public Company Ltd Shares Foreign Registered (Thailand),U
@@ -5111,6 +5112,7 @@ CN,Xtrackers MSCI All China Equity ETF,ARCA
 CNA,CNA Financial Corporation,NYSE
 CNABQ,United Cannabis Corporation Common Stock,U
 CNAF,Commercial National Financial Corporation Common Stock,U
+CNAQU,Chardan NexTech Acquisition Corp. Unit,NASDAQ
 CNAUF,Canadian Utilities Ltd 2nd Pfd Ser Y (Canada),U
 CNBA,"Chester Bancorp, Inc. (DE) Common Stock",U
 CNBB,CNB Community Bancorp Inc. Common Stock,U
@@ -5393,7 +5395,9 @@ COTY,COTY INC,NYSE
 COUP,Coupa Software Incorporated Common Stock,NASDAQ
 COUTF,China Outfitters Holdings Limited Ordinary Shares (Cayman Islands),U
 COUV,"Corporate Universe, Inc.",U
+COVA,COVA Acquisition Corp. Class A Ordinary Share,NASDAQ
 COVAU,COVA Acquisition Corp. Unit,NASDAQ
+COVAW,COVA Acquisition Corp. Warrants to purchase Class A ordinary shares,NASDAQ
 COVTY,Covestro AG ADR - Sponsored (Germany),U
 COW,iPath Series B Bloomberg Livestock Subindex Total ReturnSM ETN,ARCA
 COWI,"CoroWare, Inc. Common Stock",U
@@ -5420,5 +5424,3 @@ CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
-CPER,United States Copper Index Fund,ARCA
-CPEU,"Chapeau, Inc. Common Stock",U

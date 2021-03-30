@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPER,United States Copper Index Fund,ARCA
+CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
@@ -67,7 +69,9 @@ CPTAG,Capitala Finance Corp. 5.75% Convertible Notes Due 2022,NASDAQ
 CPTAL,Capitala Finance Corp. 6% Notes Due 2022,NASDAQ
 CPTFF,XTRACKERS IE PLC Exchange Traded Fund,U
 CPTHF,Adams PLC Ordinary shares (Isle of Man),U
+CPTK,Crown PropTech Acquisitions,NYSE
 CPTK U,"Crown PropTech Acquisitions Units, each consisting of one Class A ordinary share and one-third of on",NYSE
+CPTK WS,"Crown PropTech Acquisitions Redeemable warrants, each whole warrant exercisable for one Class A ordi",NYSE
 CPTP,"Capital Properties, Inc. Class A Common Stock",U
 CPUH,Compute Health Acquisition Corp.,NYSE
 CPUH U,"Compute Health Acquisition Corp. Units, each consisting of one share of Class A common stock and one",NYSE
@@ -406,6 +410,7 @@ CTBI,"Community Trust Bancorp, Inc. Common Stock",NASDAQ
 CTBK,City Bank Common Stock,U
 CTBO,Cantabio Pharmaceuticals Inc. Common Stock,U
 CTCC,City Capital Corporation New Common Stock,U
+CTCGF,C2C GOLD CORP Common Shares,U
 CTCK,"Coattec Industries, Inc. New Common Stock",U
 CTDD,Qwest Corporation 6.75% Notes due 2057,NYSE
 CTDEF,CITY DEVELOPMENTS LTD PREF SHS 2004 -NON -RED CONV NON-CUM Preferred Stock Singapore(SG ),U
@@ -413,7 +418,7 @@ CTDN,"Capital Directions, Inc. Common Stock",U
 CTDT,"Centaurus Diamond Technologies, Inc.  Common Stock",U
 CTEC,Global X Funds Global X CleanTech ETF,NASDAQ
 CTEK,"CynergisTek, Inc.",AMEX
-CTEQF,"Clean TeQ Holdings Ltd, Melbourne Ordinary Shares (Australia)",U
+CTEQF,Clean TeQ Holdings Ltd Ordinary Shares,U
 CTEUY,Centerenergo Sponsored ADR,U
 CTFHF,Chinatrust Financial Holdings Co Ltd Ordinary Shares (Taiwan),U
 CTG,"Computer Task Group, Inc. Common Stock",NASDAQ
@@ -454,6 +459,7 @@ CTPCY,Citic Limited American Depositary Receipts - Sponsored,U
 CTPPO,Central Maine Power Co. 6% Preferred Stock,U
 CTPR,CTPARTNERS EXECUTIVE SEARCH INC Common Stock,U
 CTPTY,Companhia De Transmissao Paulista Pfd American Depositary Shares,U
+CTPVF,CTP N V Ordinary Shares (Netherlands),U
 CTPZY,Companhia De Transmissao Paulista Pfd American Depositary Shares,U
 CTR,ClearBridge MLP and Midstream Total Return Fund Inc.,NYSE
 CTRE,"CareTrust REIT, Inc. Common Stock",NASDAQ
@@ -2358,6 +2364,7 @@ EOFBY,ECOFIBRE LTD American Depositary Shares - Sponsored,U
 EOG,"EOG Resources, Inc.",NYSE
 EOGSF,Emerald Oil & Gas NL Ordinary Shares (Australia),U
 EOHDF,Emeco Holdings Ltd Ordinary Shares,U
+EOHHF,EOH HOLDINGS LTD SHS (South Africa),U
 EOI,Eaton Vance Enhanced Equity Income Fund,NYSE
 EOLS,"Evolus, Inc. Common Stock",NASDAQ
 EONGY,E.ON SE Sponsored ADR (Germany),U
@@ -2494,7 +2501,6 @@ ERFB,"ERF Wireless, Inc. Common Stock",U
 ERFSF,EUROFINS SCIENTIFIC SA Ordinary Shares,U
 ERGN,Ergo Science Corporation Common Stock,U
 ERGO,Entia Biosciences Inc. Common Stock,U
-ERGTF,ANTILLES GOLD LTD Ordinary Shares,U
 ERH,Wells Fargo Utilities and High Income Fund,AMEX
 ERHE,ERHC Energy Inc. Common Stock,U
 ERIAF,Telefon AB LM Ericsson Shares A (Sweden),U
@@ -3802,7 +3808,6 @@ FRBA,First Bank Common Stock,NASDAQ
 FRBK,"Republic First Bancorp, Inc. Common Stock",NASDAQ
 FRBMF,FIREBIRD METALS LTD Ordinary Shares,U
 FRC,First Republic Bank,NYSE
-FRC PRG,"First Republic Bank  /Depositary Shares, each representing a 1/40th interest in a share of 5.50% Non",NYSE
 FRC PRH,First Republic Bank,NYSE
 FRC PRI,"First Republic Bank  Depositary Shares, each representing a 1/40th interest in a share of 5.50% Nonc",NYSE
 FRC PRJ,"First Republic Bank Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.70% Noncu",NYSE
@@ -3995,6 +4000,7 @@ FTAG,First Trust Exchange-Traded Fund II First Trust Indxx Global Agriculture ET
 FTAI,Fortress Transportation and Infrastructure Investors LLC,NYSE
 FTAI PRA,Fortress Transportation and Infrastructure Investors LLC 8.25% Fixed-to-Floating Rate Series A Cumul,NYSE
 FTAI PRB,Fortress Transportation and Infrastructure Investors LLC 8.00% Fixed-to-Floating Rate Series B Cumul,NYSE
+FTAI PRC,Fortress Transportation and Infrastructure Investors LLC 8.25% Fixed - Rate Reset Series C Cumulativ,NYSE
 FTBGF,Bidstack Group PLC Ordinary Shares,U
 FTBYF,Fortune Bay Corp NEW Ordinary Shares (Canada),U
 FTC,First Trust Large Cap Growth AlphaDEX Fund,NASDAQ
@@ -4024,7 +4030,6 @@ FTHI,First Trust Exchange-Traded Fund VI First Trust BuyWrite Income ETF,NASDAQ
 FTHM,Fathom Holdings Inc. Common Stock,NASDAQ
 FTHY,First Trust High Yield Opportunities 2027 Term Fund,NYSE
 FTI,TechnipFMC plc Ordinary Share,NYSE
-FTIIP,FORTRESS TRANSN & INFRASTRUCTURE INVS LLC CUM PERP RED PFD SER C FIXED/FLTG Preferred Stock,U
 FTIV,FinTech Acquisition Corp. IV Class A Common Stock,NASDAQ
 FTIVU,FinTech Acquisition Corp. IV Unit,NASDAQ
 FTIVW,FinTech Acquisition Corp. IV Warrant,NASDAQ
@@ -5419,6 +5424,3 @@ GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
