@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
@@ -710,7 +712,7 @@ NMEX,Northern Minerals & Exploration Ltd.  Common Stock,U
 NMFC,New Mountain Finance Corporation Common Stock,NASDAQ
 NMGC,NeoMagic Corporation Common Stock,U
 NMGGF,Network Media Group Inc Common Shares (Canada),U
-NMGRF,Nouveau Monde Graphite Inc Ordinary Shares,U
+NMGRD,Nouveau Monde Graphite Inc Ordinary Shares,U
 NMGX,NANO MAGIC INC Common Stock,U
 NMHLY,NMC HEALTH PLC  American Depositary Receipts - Unsponsored (United Kingdom),U
 NMI,Nuveen Municipal Income,NYSE
@@ -1709,6 +1711,7 @@ OPSSF,Opsens Inc Common shares (Canada),U
 OPST,O P T Sciences Corp Common Stock,U
 OPT,Opthea Limited American Depositary Shares,NASDAQ
 OPTBF,Oriental Petroleum & Minerals Corp OPM Ordinary Shares B (Philippines),U
+OPTHF,OPTIMI HEALTH CORP Common Shares,U
 OPTI,"Optec International, Inc. Common Stock",U
 OPTL,Optimum Interactive (USA) Ltd. Common Stock NEW,U
 OPTN,"OptiNose, Inc. Common Stock",NASDAQ
@@ -1782,7 +1785,7 @@ ORSX,"Orsus Xelent Technolgies, Inc. New Common Stock",U
 ORTIF,Ortho Regenerative Technologies Ordinary Shares (Canada),U
 ORTX,Orchard Therapeutics plc American Depositary Shares,NASDAQ
 ORVMF,Orvana Minerals Corp Ordinary Shares,U
-ORVRF,Orchid Ventures Inc Ordinary Shares (Canada),U
+ORVRD,ORCHID VENTURES INC  Ordinary Shares,U
 ORWHF,Oriental Watch Holdings Ltd Ordinary Shares (Bermuda),U
 ORXCF,Orix Corporation Ordinary Shares,U
 ORXGF,Orca Energy Group Inc Ordinary Shares,U
@@ -2009,7 +2012,6 @@ PAPR,Innovator S&P 500 Power Buffer ETF - April,BATS
 PAQC,Provident Acquisition Corp. Class A Ordinary Shares,NASDAQ
 PAQCU,Provident Acquisition Corp. Units,NASDAQ
 PAQCW,Provident Acquisition Corp. Warrant,NASDAQ
-PAQWF,Prime Acquisition Corp. Warrant   03/30/2021,U
 PAR,PAR Technology Corp.,NYSE
 PARD,"Poniard Pharmaceuticals, Inc. Common Stock",U
 PARDP,"Poniard Pharmceuticals, Inc. Convertible Exchangeable Preferred Stock",U
@@ -2353,7 +2355,6 @@ PFLC,Pacific Financial Corporation (WA) Common Stock,U
 PFLD,AAM Low Duration Preferred and Income Securities ETF,ARCA
 PFLT,PennantPark Floating Rate Capital Ltd. Common Stock,NASDAQ
 PFM,Invesco Exchange-Traded Fund Trust Invesco Dividend Achievers ETF,NASDAQ
-PFMSD,S A M TRADE ASIA PTE LTD Common Stock,U
 PFMT,Performant Financial Corporation Common Stock,NASDAQ
 PFMTF,Pacific Metals Co Ltd Ordinary Shares (Japan),U
 PFN,PIMCO Income Strategy Fund II,NYSE
@@ -3145,6 +3146,8 @@ PSEP,Innovator S&P 500 Power Buffer ETF - September,BATS
 PSET,Principal Exchange-Traded Funds Principal Quality ETF,NASDAQ
 PSF,COHEN & STEERS SELECT PREFERRED AND INCOME FUND,NYSE
 PSFD,Pacer Swan SOS Flex (December) ETF,BATS
+PSFE,Paysafe Limited,NYSE
+PSFE WS,"Paysafe Limited Warrants, exercisable for one Common Share of Paysafe Limited at a price of $11.50 p",NYSE
 PSFF,Pacer Swan SOS Fund of Funds ETF,BATS
 PSFT,Powersafe Technology Corp. New Common Stock,U
 PSGFF,Precious Shipping Plc Foreign Ordinary Shares,U
@@ -3725,6 +3728,7 @@ QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068",NYSE
 QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067",NYSE
 QWIKF,Qwick Media Inc. Ordinary Shares (Cayman Islands),U
 QWLD,SPDR MSCI World StrategicFactors ETF,ARCA
+QWNBU,Queen's Gambit Growth Capital II Unit,NASDAQ
 QWTR,Quest Water Global Inc. Common,U
 QYBX,"Qian Yuan Baixing, Inc. Common Stock",U
 QYLD,Global X Funds Global X NASDAQ-100 Covered Call ETF,NASDAQ
@@ -4171,7 +4175,6 @@ RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",NASDAQ
 RILYO,"B. Riley Financial, Inc. 6.75% Senior Notes due 2024",NASDAQ
 RILYP,"B. Riley Financial, Inc. Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock",NASDAQ
 RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",NASDAQ
-RILYZ,"B. Riley Financial, Inc. 7.50% Senior Notes Due 2027",NASDAQ
 RINF,ProShares Inflation Expectations ETF,ARCA
 RING,iShares MSCI Global Gold Miners Fund,NASDAQ
 RINIF,Rinnai Corp Ordinary Shares,U
@@ -5354,7 +5357,7 @@ SGPYY,Sage Group Plc Unsponsored ADR (UK),U
 SGQRF,SouthGobi Resources Ltd. Common Shares (Canada),U
 SGRB,SigmaBroadband Co. Common,U
 SGRCF,San Gold Corporation Common Shares (Canada),U
-SGRND,NORTHWEST COPPER CORP Ordinary Shares,U
+SGRNF,NORTHWEST COPPER CORP Ordinary Shares,U
 SGRP,"SPAR Group, Inc. Common Stock",NASDAQ
 SGRRF,Spring Real Estate Invt Tr Unit Trust Fund Mgr (Hong Kong),U
 SGRWF,Gold Rush Cariboo Corp Common Shares,U
@@ -5423,4 +5426,3 @@ SHGY,SearchGuy.com Inc. Common Stock,U
 SHHPF,Ship Healthcare Holdings Inc Ordinary Shares (Japan),U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
-SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U

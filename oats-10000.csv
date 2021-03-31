@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
@@ -92,6 +89,7 @@ HAIL,SPDR S&P Kensho Smart Mobility ETF,ARCA
 HAIN,"Hain Celestial Group, Inc. (The) Common Stock",NASDAQ
 HAIPF,Hadera Paper Ltd.,U
 HAITY,Haitong Securities Co Ltd Unsponsored ADR (China),U
+HAIVF,HAIVISION SYS INC Common Shares,U
 HAL,Halliburton Company,NYSE
 HALB,Halberd Corporation common stock,U
 HALFF,Hal Trust Cl B Bearer Shares,U
@@ -432,6 +430,7 @@ HITIF,HIGH TIDE INC REG SHS Common Stock (Canada),U
 HIUH,Hero International USA Holding Corp Common Stock,U
 HIW,Highwoods Properties Inc.,NYSE
 HIX,"Western Asset High Income Fund II, Inc.",NYSE
+HIZOF,HITACHI ZOSEN CORP Ordinary Shares,U
 HJEN,Direxion Hydrogen ETF,ARCA
 HJGP,HANJIAO GROUP INC Common Stock,U
 HJLBW,Hancock Jaffe Laboratories Inc Warrant Pur Com Exp 02/11/2026,U
@@ -1110,6 +1109,7 @@ IBDU,iShares iBonds Dec 2029 Term Corporate ETF,ARCA
 IBDV,iShares iBonds Dec 2030 Term Corporate ETF,ARCA
 IBER U,"Ibere Pharmaceuticals Units, each consisting of one Class A ordinary share and one-half of one Redee",NYSE
 IBEX,IBEX Limited Common Shares,NASDAQ
+IBGAF,ISHARES III PLC BARCLAYS GBL AGGREGATE BD USD Exchange Traded Fund,U
 IBGR,"Nexus Energy Services, Inc. Common Stock",U
 IBHA,iShares iBonds 2021 Term High Yield and Income ETF,BATS
 IBHB,iShares iBonds 2022 Term High Yield and Income ETF,BATS
@@ -1649,6 +1649,7 @@ IMUX,"Immunic, Inc. Common Stock",NASDAQ
 IMV,IMV Inc. Common Shares,NASDAQ
 IMVEF,Ishares Vi Plc Edge Msci Europe Minimum Volatility Ucits Exchange Traded Fund (Ireland),U
 IMVT,"Immunovant, Inc. Common Stock",NASDAQ
+IMWSF,ISHARES III PLC ISHARES MSCI WORLD SMALL CAP UCITS ETF USD ACC Exchange Traded Fund,U
 IMXCF,IMAX China Hldg Inc Ordinary Shares (Cayman Islands),U
 IMXI,"International Money Express, Inc. Common Stock",NASDAQ
 IMXXF,Impax Environmental Mark PLC Ordinary Shares (UK),U
@@ -2508,6 +2509,7 @@ JGSHF,J G Summit Hldgs Cl B Shs Ordinary Shares,U
 JGSMY,JG Summit Holdings Inc Unsponsored ADR (Phillippines),U
 JHAA,Nuveen Corporate Income 2023 Target Term Fund,NYSE
 JHB,Nuveen Corporate Income November 2021 Target Term Fund,NYSE
+JHCB,John Hancock Corporate Bond ETF,ARCA
 JHCS,John Hancock Multifactor Media and Communications ETF,ARCA
 JHEM,John Hancock Multifactor Emerging Markets ETF,ARCA
 JHG,Janus Henderson Group plc Ordinary Shares,NYSE
@@ -2829,7 +2831,7 @@ KAPR,Innovator Russell 2000 Power Buffer ETF -April,BATS
 KAR,"KAR AUCTION SERVICES, INC.",NYSE
 KARBF,Karo Pharma Aktiebolag Ordinary Shares,U
 KARE,Koala Corporation Common Stock,U
-KARO,Karooooo Ltd. Ordinary shares,NASDAQ
+KARO,Karooooo Ltd. Ordinary Shares,NASDAQ
 KARS,KraneShares Electric Vehicles and Future Mobility Index ETF,ARCA
 KAST,"Kasten, Inc. Common Stock",U
 KATA,Katana Broadband Corporation Common Stock,U
@@ -3366,6 +3368,7 @@ KVMD,"Kelvin Medical, Inc. Common Stock",U
 KVSA,Khosla Ventures Acquisition Co. Class A Common Stock,NASDAQ
 KVSB,Khosla Ventures Acquisition Co. II Class A Common Stock,NASDAQ
 KVSC,Khosla Ventures Acquisition Co. III Class A Common Stock,NASDAQ
+KVSD,Khosla Ventures Acquisition Co. IV Class A Common Stock,NASDAQ
 KW,"KENNEDY-WILSON HOLDINGS, INC.",NYSE
 KWAC,Kingswood Acquisition Corp.,NYSE
 KWAC U,"Kingswood Acquisition Corp. Units, each consisting of one share of Class A Common Stock and three-fo",NYSE
@@ -4635,6 +4638,7 @@ MFMS,MFAM Small-Cap Growth ETF,BATS
 MFNC,Mackinac Financial Corporation Common Stock,NASDAQ
 MFON,Mobivity Holdings Corp. Common Stock,U
 MFOYY,MegaFon PJSC Global Depositary Receipts - Sponsored,U
+MFPBF,MFEC PUB CO LTD NVDR SHARES Depositary Receipts,U
 MFRVF,Minera Frisco SaB CV Ordinary Shares- Class A (Mexico),U
 MFST,Medifirst Solutions Inc Common Stock,U
 MFT,BLACKROCK MUNIYIELD INVESTMENT QUALITY FUND,NYSE
@@ -5422,5 +5426,3 @@ MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ

@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
@@ -505,7 +504,6 @@ CTXV,"CTX Virtual Technologies, Inc. Common Stock",U
 CTXXF,Cematrix Corp Ordinary Shares (Canada),U
 CTYO,CathayOnline Inc. Common Stock,U
 CTYP,"Community Bankers Corporation (Marion, PA) Common Stock",U
-CTYWY,Countrywide PLC American Depositary Receipts (Unsponsored)(United Kingdom),U
 CTYX,"Connectyx Technologies Holdings Group, Inc. NEW Common Stock",U
 CUAEF,China Shenhua Energy Company Ltd Shares -H- (China),U
 CUB,Cubic Corporation,NYSE
@@ -2166,6 +2164,7 @@ ELXPF,Elixir Energy Limited Ordinary Shares,U
 ELY,Callaway Golf Company,NYSE
 ELYGF,Ely Gold Royalties Inc Ordinary Shares,U
 ELYS,"Elys Game Technology, Corp. Common Stock",NASDAQ
+EM,Smart Share Global Limited American Depositary Shares,NASDAQ
 EMAG,VanEck Vectors Emerging Markets Aggregate Bond ETF,ARCA
 EMALF,ETF Metal Securities Ltd St Helier 0% Notes 2007- Without Fixed Maturity on PM Basket (Jersey),U
 EMAN,eMagin Corporation,AMEX
@@ -3289,7 +3288,6 @@ FGNV,Forge Innovation Dev Corp Common Stock,U
 FGOVF,"Freegold Ventures, Ltd. Ordinary Shares (Canada)",U
 FGPHF,First Graphene Ltd Ordinary Shares,U
 FGPPF,Frontier IP Group Plc Common Shares (United Kingdom),U
-FGPRQ,FERRELLGAS PARTNERS LP Unit,U
 FGRBF,Sa Fromageries Bel La Vache Qui Rit  Ordinary Shares (France),U
 FGRO,Fidelity Growth Opportunities ETF,BATS
 FGROF,Firstgroup Plc Ordinary Shares,U
@@ -3891,6 +3889,7 @@ FRSGU,First Reserve Sustainable Growth Corp. Unit,NASDAQ
 FRSHY,China Jinmao Holdings Group Ltd. American Depositary Receipts - Unsponsored,U
 FRSI,FIRST RATE STAFFING CORP Common Stock,U
 FRSRF,Frasers Hospitality Tr Stapled Security (Singapore),U
+FRST,Primis Financial Corp. Common Stock,NASDAQ
 FRSX,Foresight Autonomous Holdings Ltd. American Depositary Shares,NASDAQ
 FRT,Federal Realty Investment Trust,NYSE
 FRT PRC,"Federal Realty Investment Trust Depositary Shares, each representing a 1/1000th interest in a 5.000",NYSE
@@ -4680,7 +4679,7 @@ GKPRF,GATEKEEPER SYS INC Ordinary Shares (Canada),U
 GKSDF,Grupo Kuo SAB de CV Cl B Ordinary Shares,U
 GKSGF,Grenekeleasing Ag Baden Ordinary Shares,U
 GKTRF,GEK Terna Holding Real Estate Construction Societe Anonyme Ordinary Regulary Shares (Greece),U
-GKTXF,Genkyotex DS21 Ordinary Shares (France),U
+GKTXF,Genkyotex DS21 Rights (France),U
 GL,Globe Life Inc.,NYSE
 GL PRC,Globe Life Inc.,NYSE
 GLAD,Gladstone Capital Corporation Common Stock,NASDAQ
@@ -5000,6 +4999,7 @@ GOOGL,Alphabet Inc. Class A Common Stock,NASDAQ
 GOOI,"Gooi Global, Inc. Common Stock",U
 GOOLF,AQUARIUS AI INC Common Shares,U
 GOOS,Canada Goose Holdings Inc.,NYSE
+GOOWF,Givot Olam Oil Exploration LP 1993 Warrant   06/16/2021,U
 GOOXF,Givot Olam Oil Exploration LP 1993 Ordinary Shares,U
 GOPG,Go-Page Corporation.  Common Stock,U
 GOPPF,Gourmet Ocean Products Inc Ordinary Shares (Canada),U
@@ -5424,3 +5424,6 @@ GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U

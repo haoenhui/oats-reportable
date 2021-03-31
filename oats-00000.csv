@@ -2200,7 +2200,6 @@ AXMIF,"AXMIN, Inc. Ordinary Shares (Canada)",U
 AXMP,"AXM Pharma, Inc. Common Stock",U
 AXNVF,Axion Ventures Inc. Ordinary Shares (Canada),U
 AXNX,"Axonics Modulation Technologies, Inc. Common Stock",NASDAQ
-AXO,"Axos Financial, Inc. 6.25% Subordinated Notes Due 2026",NYSE
 AXON,"Axon Enterprise, Inc. Common Stock",NASDAQ
 AXP,American Express Company,NYSE
 AXPRF,Amseco Expl Ltd Ordinary Shares,U
@@ -2677,9 +2676,6 @@ BFS,"Saul Centers, Inc.",NYSE
 BFS PRD,"Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumula",NYSE
 BFS PRE,"Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.000% Series E Cumula",NYSE
 BFST,"Business First Bancshares, Inc. Common Stock",NASDAQ
-BFT,Foley Trasimene Acquisition Corp. II,NYSE
-BFT U,"Foley Trasimene Acquisition Corp. II Units, each consisting of one share of Class A common stock, an",NYSE
-BFT WS,"Foley Trasimene Acquisition Corp. II Warrants, each whole warrant exercisable for one share of Class",NYSE
 BFTI,"Befut Global, Inc. Common Stock",U
 BFTL,Bank Fincastle Va Common,U
 BFTR,BlackRock Future Innovators ETF,ARCA
@@ -2718,6 +2714,7 @@ BGNRF,Blackgold Natural Resources plc Common Shares (United Kingdom),U
 BGNX,BIO-Genex Laboratories Inc  Common Stock,U
 BGOPF,Bango plc Cambridge Ordinary Shares (United Kingdom),U
 BGOUF,Bang & Olufsen B Ord Ordinary Shares,U
+BGPAF,BGP ACQUISITION CORP Warrant   05/01/2026,U
 BGPBF,BTS Group AB Ordinary Shares (Sweden),U
 BGR,Blackrock Energy and Resources Trust,NYSE
 BGRDF,BRAINGRID LTD Common Shares,U
@@ -4251,6 +4248,7 @@ CDNN,China Indl Stl Inc Common Stock,U
 CDNO,"Consolidated Capital of North America, Inc. Common Stock",U
 CDNS,"Cadence Design Systems, Inc. Common Stock",NASDAQ
 CDNTF,Canadian Tire Ltd Cl-A Ordinary Shares,U
+CDNUF,CANADIAN UTILS LTD CUM REDEEMABLE 2ND SER AA PFD Preferred Stock,U
 CDOAF,CDON AB SHARE AK (Sweden),U
 CDOR,"Condor Hospitality Trust, Inc. Common Stock",AMEX
 CDPYF,Canadian Apartment Properties Real Estate Investment Trust Ordinary Shares - REIT Unit,U
@@ -4313,6 +4311,7 @@ CEM,ClearBridge MLP and Midstream Fund Inc.,NYSE
 CEMB,iShares J.P. Morgan EM Corporate Bond ETF,BATS
 CEMI,"Chembio Diagnostics, Inc. Common Stock",NASDAQ
 CEN,Center Coast Brookfield MLP & Energy Infrastructure Fund,NYSE
+CENBF,CEN BIOTECH INC COM (Canada),U
 CENEF,Carenet Inc Tokyo Ordinary shares (Japan),U
 CENH,Centricus Acquisition Corp. Class A Ordinary Share,NASDAQ
 CENHU,Centricus Acquisition Corp. Unit,NASDAQ
@@ -4467,7 +4466,6 @@ CGHOF,"China Gas Holdings, Ltd. Ordinary Shares (Bermuda) HKD",U
 CGIFF,Chemtrade Logistics Income Fund Ordinary Shares,U
 CGIPQ,CELADON GROUP INC Common Stock,U
 CGIUF,ESR REIT Unit,U
-CGIX,"Cancer Genetics, Inc. Common Stock",NASDAQ
 CGJTF,"Cargojet, Inc. Common Shares",U
 CGKEF,Chugoku Electric Power Ordinary Shares (Japan),U
 CGKEY,Chugoku Electric Power Unsponsored ADR (Japan),U
@@ -4670,6 +4668,7 @@ CHSY,"China Medical Systems, Inc. Common Stock",U
 CHSYF,China Medical System Holdings Ltd Shs (Cayman Islands),U
 CHT,"CHUNGHWA TELECOM CO., LTD",NYSE
 CHTEF,CRCC High Tech Equipment Corp Ltd. Registered/Shares H (China),U
+CHTGF,CHIPMOS TECHNOLOGIES INC Ordinary Shares,U
 CHTH,Cnl Healthcare Pptys Inc Common Stock,U
 CHTM,Chatham Corp Common Stock,U
 CHTR,"Charter Communications, Inc. Class A Common Stock New",NASDAQ
@@ -5156,6 +5155,7 @@ CNEWF,China New Higher Education Group Limited Ordinary Shares (Cayman Islands),
 CNEY,CN Energy Group Inc. Ordinary Shares,NASDAQ
 CNF,"CNFinance Holdings Limited American Depositary Shares (ADSs), each representing twenty (20) Ordina",NYSE
 CNFA,CANTOR FITZGERALD INCOME TR INC COM CL AX,U
+CNFHF,CANAFARMA HEMP PRODS CORP Common Shares,U
 CNFN,CFN ENTERPRISES INC Common Stock,U
 CNFR,"Conifer Holdings, Inc. Common Stock",NASDAQ
 CNFRL,"Conifer Holdings, Inc. 6.75% Senior Unsecured Notes due 2023",NASDAQ
@@ -5347,6 +5347,7 @@ COM,Direxion Auspice Broad Commodity Strategy ETF,ARCA
 COMB,GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF,ARCA
 COMHF,COMMERCE ONE HLDGS INC Common Stock,U
 COMM,"CommScope Holding Company, Inc. Common Stock",NASDAQ
+COMP,"Compass, Inc.",NYSE
 COMS,ComSovereign Holding Corp. Common Stock,NASDAQ
 COMSW,ComSovereign Holding Corp. Warrants,NASDAQ
 COMT,iShares U.S. ETF Trust iShares GSCI Commodity Dynamic Roll Strategy ETF,NASDAQ
@@ -5393,6 +5394,7 @@ COTR,COMPUTER RESOURCE TECHNOLOGIES INC COM,U
 COTRP,CORTS TR J C PENNEY CORPORATE-BACKED TR SECS CTF (7.625%) (United States),U
 COTY,COTY INC,NYSE
 COUP,Coupa Software Incorporated Common Stock,NASDAQ
+COUR,"Coursera, Inc.",NYSE
 COUTF,China Outfitters Holdings Limited Ordinary Shares (Cayman Islands),U
 COUV,"Corporate Universe, Inc.",U
 COVA,COVA Acquisition Corp. Class A Ordinary Share,NASDAQ
@@ -5424,3 +5426,4 @@ CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
+CPER,United States Copper Index Fund,ARCA
