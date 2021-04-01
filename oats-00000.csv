@@ -649,6 +649,7 @@ AGNCM,AGNC Investment Corp. Depositary Shares rep 6.875% Series D Fixed-to-Float
 AGNCN,"AGNC Investment Corp. Depositary Shares Each Representing a 1/1,000th Interest in a Share of 7.00% Series C Fixed-To-Floating Rate Cumulative Redeemable Preferred Stock",NASDAQ
 AGNCO,"AGNC Investment Corp. Depositary Shares, each representing a 1/1,000th interest in a share of 6.50% Series E Fixed-to-Floating Cumulative Redeemable Preferred Stock",NASDAQ
 AGNCP,"AGNC Investment Corp. Depositary Shares Each Representing a 1/1,000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NASDAQ
+AGNG,Global X Funds Global X Aging Population ETF,NASDAQ
 AGNMF,ARGONOMICS LTD Ordinary Shares  Isle of Man(IM ),U
 AGNPF,Algernon Pharmaceuticals Inc Ordinary Shares,U
 AGO,"Assured Guaranty, LTD",NYSE
@@ -1452,6 +1453,7 @@ APRO,"Allegiant Professional Business Services, Inc. Common Stock",U
 APRRF,Atlantic Pwr Pfd Equity Ltd Cum Redeemable Reset Pfd Ser 2 (Canada),U
 APRU,Apple Rush Company Inc Common Stock,U
 APRWF,Atlantic Pwr Pfd Equity Ltd Cumulative Redeemable Pfd Shares Series 1 (Canada),U
+APRZ,TrueShares Structured Outcome (April) ETF,BATS
 APSG,Apollo Strategic Growth Capital,NYSE
 APSG U,"Apollo Strategic Growth Capital Units, each consisting of one Class A Ordinary Share and one-third W",NYSE
 APSG WS,"Apollo Strategic Growth Capital Warrants, each exercisable for one Class A Ordinary Share at an exer",NYSE
@@ -1718,8 +1720,9 @@ ASDZF,Arctic Star Expl Corp Common Shares,U
 ASEA,Global X FTSE Southeast Asia ETF,ARCA
 ASEJF,Apt Satellite Hldgs Ordinary Shares,U
 ASEKF,Aisin Seiki Co Ltd Ordinary Shares,U
-ASEKY,Aisin Seiko Co Ltd Unsponsored ADR (Japan),U
+ASEKY,Aisin Corporation American Depositary Receipts - Unsponsored,U
 ASET,FlexShares Trust FlexShares Real Assets Allocation Index Fund,NASDAQ
+ASFAF,Asefa Pub Co Ltd NVDR Shares (Thailand),U
 ASFJ,"ASFG, Inc. Common Stock",U
 ASFT,"AppSoft Technologies, Inc. Common Stock",U
 ASFX,"American Scientific Resources, Inc.  Common Stock (Nevada)",U
@@ -2660,7 +2663,7 @@ BFHJ,"Beneficial Holdings, Inc. Common Stock",U
 BFI,"BurgerFi International, Inc. Common Stock",NASDAQ
 BFIIW,"BurgerFi International, Inc. Warrant",NASDAQ
 BFIN,BankFinancial Corporation Common Stock,NASDAQ
-BFIT,Global X Funds Global X Health & Wellness Thematic ETF,NASDAQ
+BFIT,Global X Funds Global X Health & Wellness ETF,NASDAQ
 BFK,BlackRock Municipal Income Trust,NYSE
 BFLBF,Bilfinger Berger SE. Ordinary Shares (Germany),U
 BFLBY,Bilfinger SE Unsponsored ADR (Belgium),U
@@ -3749,7 +3752,6 @@ BXMT,"Blackstone Mortgage Trust, Inc. (NEW)",NYSE
 BXMX,NUVEEN S&P BUY-WRITE INCOME FUND,NYSE
 BXNG,Bang Hldgs Corp  Common Stock,U
 BXP,"Boston Properties, Inc.",NYSE
-BXP PRB,"BOSTON PROPERTIES, INC. Depositary Shares, each representing 1/100th of a share of the Issuer's 5.25",NYSE
 BXPHF,Botanix Pharmaceuticals Ltd Common Shares (Australia),U
 BXRBF,Bendigo and Adelaide Bank Ltd Ordinary Shares,U
 BXRDF,AUSTRALIAN SILICA QUARTZ GROUP LTD Ordinary Shares,U
@@ -4464,7 +4466,7 @@ CGHC,"Capital Group Holdings, Inc. Common Stock",U
 CGHLY,"China Gas Holdings, Ltd. Unsponsored ADR (Bermuda)",U
 CGHOF,"China Gas Holdings, Ltd. Ordinary Shares (Bermuda) HKD",U
 CGIFF,Chemtrade Logistics Income Fund Ordinary Shares,U
-CGIPQ,CELADON GROUP INC Common Stock,U
+CGIP,CELADON GROUP INC Common Stock,U
 CGIUF,ESR REIT Unit,U
 CGJTF,"Cargojet, Inc. Common Shares",U
 CGKEF,Chugoku Electric Power Ordinary Shares (Japan),U
@@ -5427,3 +5429,7 @@ CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
+CPEU,"Chapeau, Inc. Common Stock",U
+CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
+CPF,Central Pacific Financial Corporation,NYSE
+CPFH,"Capital Financial Holdings, Inc. Common Stock",U

@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
-SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
-SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
@@ -554,7 +550,6 @@ SNDR,"Schneider National, Inc.",NYSE
 SNDVF,Scandinavian Tob Group AS Ordinary Shares (Denmark),U
 SNDX,"Syndax Pharmaceuticals, Inc. Common Stock",NASDAQ
 SNDZ,"Sunridge International, Inc. Common Stock",U
-SNE,Sony Corporation ADS,NYSE
 SNEGF,Sound Energy PLC Ordinary Shares (United Kingdom),U
 SNEHF,SNACK EMPIRE HOLDINGS LTD Ordinary Shares,U
 SNEJF,Sony Corp Ord Ordinary Shares,U
@@ -748,6 +743,7 @@ SONR,Sonar Radio Corp Common Stock,U
 SONT,"Seen On Screen TV, Inc. Common Stock",U
 SONVF,Sonova Holding AG Ordinary Shares,U
 SONVY,Sonova Holding AG Unsponsored ADR (Switzerland),U
+SONY,Sony Group Corporation American Depositary Shares (Each Representing One Share of Dollar Validated C,NYSE
 SOOBF,"Sappora Holdings, Ltd. Ordinary Shares",U
 SOPK,SouthPeak Interactive Corporation Common Stock,U
 SOPV,"Solar Park Initiatives, Inc. Common Stock",U
@@ -779,7 +775,9 @@ SOYO,"Soyo Group, Inc. Common Stock",U
 SP,SP Plus Corporation Common Stock,NASDAQ
 SPAB,SPDR Portfolio Aggregate Bond ETF,ARCA
 SPAK,Defiance Next Gen SPAC Derived ETF,ARCA
+SPAQ,Spartan Acquisition Corp. III,NYSE
 SPAQ U,"Spartan Acquisition Corp. III Units, each consisting of one share of Class A common stock and one-fo",NYSE
+SPAQ WS,"Spartan Acquisition Corp. III Warrants, exercisable for one share of Class A Common Stock",NYSE
 SPASF,Singapore Airport Terminal Services Ltd Ordinary Shares,U
 SPASY,SATS Ltd Unsponsored ADR (Singapore),U
 SPAZF,Spanish Mountain Gold Ltd. Common Shares (Canada),U
@@ -975,7 +973,7 @@ SQFT,"Presidio Property Trust, Inc. Class A Common Stock",NASDAQ
 SQIDF,SQI Diagnostics Inc Ordinary Shares (Canada),U
 SQLV,Legg Mason ETF Investment Trust Legg Mason Small-Cap Quality Value ETF,NASDAQ
 SQM,Sociedad Quimica y Minera de Chile SA,NYSE
-SQM RTWI,"Sociedad Quimica y Minera de Chile S.A. Rights (expires April 19, 2021)",NYSE
+SQM RT,"Sociedad Quimica y Minera de Chile S.A. Rights (expires April 19, 2021)",NYSE
 SQNNY,Square Enix Hldgs Co Ltd American Depositary Receipts - Unsponsored Repstg Com Stk (Japan),U
 SQNS,"Sequans Communications S.A. American Depositary Shares, each representing four Ordinary Shares",NYSE
 SQNXF,Square Enix Co Ltd Ordinary Shares (Japan),U
@@ -1503,6 +1501,7 @@ SVLT,"Sunvault Energy, Inc. Common Stock",U
 SVM,Silvercorp Metals Inc. Common Shares,AMEX
 SVMB,"Savmobi Technology, Inc. Common Stock",U
 SVMK,SVMK Inc. Common Stock,NASDAQ
+SVMLF,Sovereign Metals Ltd Ordinary Shares (Australia),U
 SVMMF,Silver Mountain Mines Inc Common Shares,U
 SVMN,Silverore Mines Inc Unclassified,U
 SVMRF,Sevan Marine ASA Ordinary Shares (Norway),U
@@ -3019,6 +3018,7 @@ TWER,TOWERSTREAM CORP Common Stock,U
 TWGL,"20/20 Global, Inc. Common Stock",U
 TWI,"Titan International, Inc.(Delaware)",NYSE
 TWIN,"Twin Disc, Incorporated Common Stock",NASDAQ
+TWIO,Trajan Wealth Income Opportunities ETF,ARCA
 TWIRF,Tree Island Steel Ltd. Ordinary Shares (Canada),U
 TWLO,Twilio Inc.,NYSE
 TWLVU,Twelve Seas Investment Company II Unit,NASDAQ
@@ -3281,6 +3281,7 @@ UKLLF,UK Oil & Gas Invts Plc Ordinary Shares (United Kingdom),U
 UKOMW,Ucommune International Ltd Warrant expiring 11/17/2025,NASDAQ
 UL,Unilever plc,NYSE
 ULBI,Ultralife Corporation Common Stock,NASDAQ
+ULCC,"Frontier Group Holdings, Inc. Common Stock",NASDAQ
 ULE,ProShares Ultra Euro,ARCA
 ULFS,Ultimate Franchise Systems Inc Common Stock,U
 ULGX,"Urologix, Inc. Common Stock",U
@@ -4108,6 +4109,7 @@ VRM,"Vroom, Inc. Common Stock",NASDAQ
 VRME,"VerifyMe, Inc. Common Stock",NASDAQ
 VRMEW,"VerifyMe, Inc. Warrant",NASDAQ
 VRNA,Verona Pharma plc American Depositary Share,NASDAQ
+VRNLF,Verneuil Finance Ordinary Shares (France),U
 VRNOF,VERANO HLDGS CORP COM SUB VTG SHS (Canada),U
 VRNS,"Varonis Systems, Inc. Common Stock",NASDAQ
 VRNT,Verint Systems Inc. Common Stock,NASDAQ
@@ -4882,6 +4884,7 @@ XALL,Xalles Holdings Inc. Common Stock,U
 XANAF,"Xanadu Mines Ltd, Ordinary Shares (Austrailia)",U
 XAR,SPDR S&P Aerospace & Defense ETF,ARCA
 XAUMF,GOLDMONEY INC Ordinary Shares,U
+XBAP,Innovator U.S. Equity Accelerated 9 Buffer ETF - April,BATS
 XBI,SPDR S&P Biotech ETF,ARCA
 XBIO,"Xenetic Biosciences, Inc. Common Stock",NASDAQ
 XBIOW,"Xenetic Biosciences, Inc. Warrants",NASDAQ
@@ -4897,10 +4900,13 @@ XCPT,"XCana Petroleum, Corp. Common Stock",U
 XCRP,"Xcorporeal, Inc. Common Stock",U
 XCRT,XCELERATE INC Common Stock,U
 XCUR,"Exicure, Inc. Common Stock",NASDAQ
+XDAP,Innovator U.S. Equity Accelerated ETF - April,BATS
 XDAT,Franklin Exponential Data ETF,BATS
 XDIV,U.S. Equity Ex-Dividends Fund - Series 2027,ARCA
 XDNCF,XD INC USD ORD SHS (Cayman Islands),U
+XDQQ,Innovator Growth Accelerated ETF - Quarterly,BATS
 XDSL,"mPhase Technologies, Inc. Common Stock",U
+XDSQ,Innovator U.S. Equity Accelerated ETF - Quarterly,BATS
 XDWHF,XTRACKERS IE PLC DBX TR MSCI WRLD HLTHCARE UCT ETF 1C US (Ireland),U
 XEBEF,Xebec Adsorption (Canada),U
 XEC,CIMAREX ENERGY CO,NYSE
@@ -5037,6 +5043,7 @@ XSVM,Invesco S&P SmallCap Value with Momentum ETF,ARCA
 XSVT,"Xsovt Brands, Inc. Common Stock",U
 XSW,SPDR S&P Software & Services ETF,ARCA
 XT,iShares Exponential Technologies ETF,NASDAQ
+XTAP,Innovator U.S. Equity Accelerated Plus ETF - April,BATS
 XTEG,"XT Energy Group, Inc. Common Stock",U
 XTEPY,Xtep International Holdings Ltd Unsponsored ADR (Cayman Islands),U
 XTERF,Norvista Capital Corporation Ordinary Shares (Canada),U

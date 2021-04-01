@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPEU,"Chapeau, Inc. Common Stock",U
-CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
-CPF,Central Pacific Financial Corporation,NYSE
-CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
@@ -694,7 +690,6 @@ CYBNY,Cyber Security 1 AB American Depositary Receipts - Sponsored,U
 CYBQF,CYBERDYNE INC Ordinary Shares (Japan),U
 CYBQY,Cyberdyne Inc Sponsored ADR (Japan),U
 CYBR,CyberArk Software Ltd. Ordinary Shares,NASDAQ
-CYBXF,Gallagher Security Corp. Ordinary Shares,U
 CYCA,Cytta Corp. Common Stock,U
 CYCC,"Cyclacel Pharmaceuticals, Inc. Common Stock",NASDAQ
 CYCCP,"Cyclacel Pharmaceuticals, Inc. 6% Convertible Preferred Stock",NASDAQ
@@ -1248,6 +1243,7 @@ DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc.",NYSE
 DMCD,"Detwiler Fenton Group, Inc. Common Stock",U
 DMCHY,DMCI Holdings Inc. Unsponsored ADR (Phillippines),U
 DMCIF,DMCI HOLDINGS INC Ordinary Shares,U
+DMCY,Democracy International Fund,ARCA
 DMDD,Diamond Discoveries International Corporation Common Stock,U
 DMDV,AAM S& P Developed Markets High Dividend Value ETF,ARCA
 DMEC,Domestic Energy Corp. Common Stock,U
@@ -1438,6 +1434,7 @@ DRN,Direxion Daily Real Estate Bull 3X,ARCA
 DRNA,"Dicerna Pharmaceuticals, Inc. Common Stock",NASDAQ
 DRNG,"DRONE GUARDER, INC. Common Stock",U
 DRNK,"NoHo, Inc. Common Stock",U
+DROOF,Deliveroo Holdings PLC-A ORD GBP0.005 WI Ordinary Shares (United Kingdom),U
 DROP,"Fuse Science, Inc. Common Stock",U
 DRQ,"Dril-Quip, Inc.",NYSE
 DRRGF,DRAGONTAIL SYS LTD Ordinary Shares (Australia),U
@@ -1725,6 +1722,7 @@ EAOK,iShares ESG Aware Conservative Allocation ETF,BATS
 EAOM,iShares ESG Aware Moderate Allocation ETF,BATS
 EAOR,iShares ESG Aware Growth Allocation ETF,BATS
 EAPH,"Easton Pharmaceuticals, Inc. Common Stock",U
+EAPR,Innovator MSCI Emerging Markets Power Buffer ETF-April,ARCA
 EAR,"Eargo, Inc. Common Stock",NASDAQ
 EARI,Entertainment Arts Research Inc Common Stock,U
 EARN,ELLINGTON RESIDENTIAL MORTGAGE REIT,NYSE
@@ -2312,7 +2310,9 @@ ENLV,Enlivex Therapeutics Ltd. Ordinary Shares,NASDAQ
 ENMFF,Energem Resources Inc Ordinary Shares (Canada),U
 ENMHF,ENM Holdings Ltd Ordinary Shares (Hong Kong),U
 ENMI,"Energy Management International, Inc. Common Stock",U
+ENNV,ECP Environmental Growth Opportunities Corp. Class A Common Stock,NASDAQ
 ENNVU,ECP Environmental Growth Opportunities Corp. Unit,NASDAQ
+ENNVW,ECP Environmental Growth Opportunities Corp. Warrants,NASDAQ
 ENO,"Entergy New Orleans, LLC First Mortgage Bonds, 5.50% Series due April 1, 2066",NYSE
 ENOB,"Enochian Biosciences, Inc. Common Stock",NASDAQ
 ENOR,iShares MSCI Norway ETF,BATS
@@ -2769,7 +2769,9 @@ EVNNF,Eviana Health Corp Ordinary Shares (Canada),U
 EVNVY,EVN AG Sponsored ADR (Austria),U
 EVOA,"EVO Transportation & Energy Services, Inc. Common Stock",U
 EVOGF,EVOLVING GOLD CORP Common Shares,U
+EVOJ,Evo Acquisition Corp. Class A Common Stock,NASDAQ
 EVOJU,Evo Acquisition Corp. Unit,NASDAQ
+EVOJW,Evo Acquisition Corp. Warrant,NASDAQ
 EVOK,"Evoke Pharma, Inc. Common Stock",NASDAQ
 EVOL,"Evolving Systems, Inc. Common Stock",NASDAQ
 EVOP,"EVO Payments, Inc. Class A Common Stock",NASDAQ
@@ -3042,7 +3044,6 @@ FBSE,Fastbase Inc. Common Stock,U
 FBSFF,Fabasoft Ag Puchenau Ordinary Shares (Austria),U
 FBSGF,FABLED SILVER GOLD CORP Common Shares,U
 FBSI,"First Bancshares, Inc. Common Stock",U
-FBSS,"Fauquier Bankshares, Inc. Common Stock",NASDAQ
 FBT,First Trust NYSE Arca Biotechnology Index Fund,ARCA
 FBTT,"First Bankers Trustshares, Inc. Common Stock",U
 FBVA,Farmers Bankshares Inc. (Va) Common Stock,U
@@ -3164,6 +3165,7 @@ FDUSZ,Fidus Investment Corporation 6% Notes due 2024,NASDAQ
 FDVA,Freedom Bank of Virginia Common Stock,U
 FDVRF,Facedrive Inc. Common Shares (Canada),U
 FDVV,Fidelity High Dividend ETF,ARCA
+FDVWF,Friedrich Vorwerk Group SE INH ON Ordinary Shares (Germany),U
 FDVXF,FENIXORO GOLD CORP Common Shares,U
 FDX,FedEx Corporation,NYSE
 FDYTF,Faraday Technology Corp SHS (Taiwan),U
@@ -3288,6 +3290,7 @@ FGNV,Forge Innovation Dev Corp Common Stock,U
 FGOVF,"Freegold Ventures, Ltd. Ordinary Shares (Canada)",U
 FGPHF,First Graphene Ltd Ordinary Shares,U
 FGPPF,Frontier IP Group Plc Common Shares (United Kingdom),U
+FGPR,Ferrellgas Partners LP Unit New,U
 FGRBF,Sa Fromageries Bel La Vache Qui Rit  Ordinary Shares (France),U
 FGRO,Fidelity Growth Opportunities ETF,BATS
 FGROF,Firstgroup Plc Ordinary Shares,U
@@ -4627,10 +4630,12 @@ GIFI,"Gulf Island Fabrication, Inc. Common Stock",NASDAQ
 GIFLF,Grifols Sa Barcelona Ordinary Shares,U
 GIFOF,Grifols Sa Barcelona Ordinary Shares,U
 GIFX,"Gifa, Inc. Common Stock",U
+GIG,"GigCapital4, Inc. Common stock",NASDAQ
 GIGA,GIGA TRONICS INC Common Stock,U
 GIGB,Goldman Sachs Access Investment Grade Corporate Bond ETF,ARCA
 GIGE,Tidal ETF Trust SoFi Gig Economy ETF,NASDAQ
 GIGGU,"GigCapital4, Inc. Unit",NASDAQ
+GIGGW,"GigCapital4, Inc. Warrant",NASDAQ
 GIGI,Gaming Innovation Group Inc. Common Shares,U
 GIGL,"Giggles N' Hugs, Inc. Common Stock",U
 GIGM,GigaMedia Limited Ordinary Shares,NASDAQ
@@ -5427,3 +5432,4 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U

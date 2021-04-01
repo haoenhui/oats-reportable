@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U
-MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
@@ -183,6 +178,7 @@ MYAGF,AYA GOLD & SILVER INC Common Shares,U
 MYBF,"Muncy Bank Financial, Inc. (PA) Common Stock",U
 MYBUF,"Meyer Burger Technology AG, Baar Namen -AKT (Switzerland)",U
 MYC,"Blackrock Muni Yield California Fund, Inc.",NYSE
+MYCLF,Gallagher Security Corp. Ordinary Shares,U
 MYCOF,MYDECINE INNOVATIONS GROUP INC Ordinary Shares,U
 MYCX,MyCelx Technologies Corp Common Stock,U
 MYD,"Blackrock Muniyield Fund, Inc.",NYSE
@@ -196,7 +192,7 @@ MYGG,MyGo Games Holding Co. Common Stock,U
 MYGN,"Myriad Genetics, Inc. Common Stock",NASDAQ
 MYHI,Mountain High Acquisitions Corp. COM,U
 MYI,"BLACKROCK MUNIYIELD QUALITY FUND III, INC.",NYSE
-MYIDF,KILLI LTD Common Shares,U
+MYIDD,KILLI LTD Common Shares,U
 MYJ,"Blackrock Muni Yield New Jersey Fund, Inc.",NYSE
 MYLUY,Malayan Utd Inds Berhad Ord American Depositary Shares,U
 MYMMF,MYM Nutraceuticals Inc Ordinary Shares (Canada),U
@@ -595,6 +591,7 @@ NHVP,Northeast Dev Corp Inc Common Stock,U
 NHYDY,Norsk Hydro ASA Common Stock,U
 NHYF,Natural Harmony Foods Inc Common Stock,U
 NHYKF,Norsk Hydro Asa Ord Ordinary Shares,U
+NHZHF,New Horizon Health Ltd. USD Ordinary Shares (Cayman Islands),U
 NI,NiSource Inc.,NYSE
 NI PRB,"NiSource Inc. Depositary Shares representing 1/1,000th ownership interest in a share of 6.50% Series",NYSE
 NIB,"iPath Bloomberg Cocoa Subindex Total Return ETN due June 24, 2038",ARCA
@@ -703,7 +700,6 @@ NM,Navios Maritime Holdings Inc.,NYSE
 NM PRG,"NAVIOS MARITIME HOLDINGS INC. American Depositary Shares, each representing 1/100th of a 8.75% Serie",NYSE
 NM PRH,NAVIOS MARITIME HOLDNGS INC. 8.625% SER H,NYSE
 NMBF,NMB Finl Corp Common Stock,U
-NMCI,Navios Maritime Containers L.P. Common Units,NASDAQ
 NMCO,Nuveen Municipal Credit Opportunities Fund,NYSE
 NMCX,NMC Inc Common Stock,U
 NMDBF,Neonmind Biosciences Inc Common Stock (Canada),U
@@ -742,7 +738,7 @@ NMS,Nuveen Minnesota Quality Municipal Income Fund,NYSE
 NMSCA,Nutrition Management Services Company Class A,U
 NMSEF,Namaste Technologies Inc Ordinary Shares (Canada) Warrant 10/23/2023,U
 NMT,Nuveen Massachusetts Quality Municipal Income Fund,NYSE
-NMTC,NeuroOne Medical Technologies Corporation Common Stock,U
+NMTCD,NeuroOne Medical Technologies Corporation Common Stock,U
 NMTLF,New Age Metals Inc. Ordinary Shares,U
 NMTR,"9 Meters Biopharma, Inc. Common Stock",NASDAQ
 NMTT,NIMTECH CORP  Common Stock,U
@@ -1380,6 +1376,7 @@ OARRF,OAR RES LTD Ordinary Shares,U
 OARTD,Ohio Art Company (The) Common Stock,U
 OAS,Oasis Petroleum Inc. Common Stock,NASDAQ
 OASMY,Oasmia Pharmaceutical AB American Depositary Shares,U
+OASPW,OASIS PETE INC NEW Warrant   11/19/2024,U
 OATN,"O.A.T., Inc. Common Stock",U
 OBAS,Optibase Ltd. Ordinary Shares,NASDAQ
 OBCI,"Ocean Bio-Chem, Inc. Common Stock",NASDAQ
@@ -1851,7 +1848,6 @@ OSWWF,OneSpaWorld Holdings Ltd Warrants Expiring 03/19/2024 (Bahamas),U
 OTCKU,Otter Creek Ethanol LLC Cap Unit Class A,U
 OTCM,OTC Markets Group Inc. Common Stock Class A,U
 OTED,"Oak Tree Educational Partners, Inc. Common Stock",U
-OTEL,"Otelco, Inc. Class A Common Stock",NASDAQ
 OTEX,Open Text Corporation Common Shares,NASDAQ
 OTFT,Outfront Companies Common Stock,U
 OTGLF,CD Projekt SA Ordinary Shares,U
@@ -2516,7 +2512,9 @@ PIAI U,"Prime Impact Acquisition I Units, each consisting of one Class A ordinar
 PIAI WS,"Prime Impact Acquisition I Warrants, each whole warrant exercisable for one Class A ordinary share a",NYSE
 PIAIF,Ping An Insurance Co Ltd Shares H (China),U
 PICB,Invesco International Corporate Bond ETF,ARCA
+PICC,Pivotal Investment Corporation III,NYSE
 PICC U,"Pivotal Investment Corporation III Units, each consisting of one share of Class A common stock and o",NYSE
+PICC WS,"Pivotal Investment Corporation III Redeemable Warrants, each whole warrant exercisable for shares of",NYSE
 PICK,iShares MSCI Global Metals & Mining Producers ETF,BATS
 PID,Invesco Exchange-Traded Fund Trust Invesco International Dividend Achievers ETF,NASDAQ
 PIE,Invesco Exchange-Traded Fund Trust II Invesco DWA Emerging Markets Momentum ETF,NASDAQ
@@ -2734,7 +2732,6 @@ PMMTF,Precious Metals & Mng TR TR Unit (Canada),U
 PMNXF,Perseus Mining Ltd Ordinary Shares (Austrailia),U
 PMO,Putnam Municipal Opportunities Trust,NYSE
 PMOIF,Premier Oil plc New Ordinary Shares (United Kingdom),U
-PMOIY,Premier Oil plc American Depositary Shares,U
 PMOZ,"PrismOne Group, Inc. Common Stock",U
 PMPG,"Premier Products Group, Inc. Common Stock",U
 PMRTY,Pop Mart International Group Limited American Depositary Receipts - Unsponsored (Cayman Islands),U
@@ -3138,6 +3135,7 @@ PSCO,ProtoSource Corporation Common Stock,U
 PSCR,Proto Script Pharmaceutical Corp. Common Stock,U
 PSCT,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap Information Technology ETF,NASDAQ
 PSCU,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap Utilities & Communication Services ETF,NASDAQ
+PSCW,Pacer Swan SOS Conservative (April) ETF,BATS
 PSCX,Pacer Swan SOS Conservative (December) ETF,BATS
 PSDMF,Gaming Realms PLC Ordinary Shares (United Kingdom),U
 PSDNF,Poseidon Nickel Ltd Ordinary Shares (Australia),U
@@ -3149,6 +3147,7 @@ PSFD,Pacer Swan SOS Flex (December) ETF,BATS
 PSFE,Paysafe Limited,NYSE
 PSFE WS,"Paysafe Limited Warrants, exercisable for one Common Share of Paysafe Limited at a price of $11.50 p",NYSE
 PSFF,Pacer Swan SOS Fund of Funds ETF,BATS
+PSFM,Pacer Swan SOS Flex (April) ETF,BATS
 PSFT,Powersafe Technology Corp. New Common Stock,U
 PSGFF,Precious Shipping Plc Foreign Ordinary Shares,U
 PSGR,"Pershing Resources Company, Inc. Common Stock",U
@@ -3178,6 +3177,7 @@ PSMG,Invesco Growth Multi-Asset Allocation ETF,BATS
 PSMM,Invesco Moderately Conservative Multi-Asset Allocation ETF,BATS
 PSMMF,Persimmon PLC Ordinary Shares,U
 PSMMY,Persimmon Plc Unsponsored ADR (UK),U
+PSMR,Pacer Swan SOS Moderate (April) ETF,BATS
 PSMT,"PriceSmart, Inc. Common Stock",NASDAQ
 PSN,Parsons Corporation,NYSE
 PSNL,"Personalis, Inc. Common Stock",NASDAQ
@@ -3680,6 +3680,7 @@ QSMG,QUEST MGMT INC Common Stock,U
 QSPW,Quantum Solar Power Corp. Common Stock,U
 QSR,Restaurant Brands International Inc.,NYSE
 QSY,WisdomTree U.S. Quality Shareholder Yield Fund,ARCA
+QTAP,Innovator Growth Accelerated Plus ETF - April,BATS
 QTCHF,Q Technology Group Co Ltd HKD Ordinary Shares (Cayman Islands),U
 QTCI,"Quantum Capital, Inc. Common Stock",U
 QTEC,First Trust NASDAQ-100-Technology Sector Index Fund,NASDAQ
@@ -3944,6 +3945,7 @@ RDWD,Redwood Group International Common Stock,U
 RDWR,Radware Ltd. Ordinary Shares,NASDAQ
 RDWWF,REDROW PLC ORD GBP0.105 (United Kingdom),U
 RDY,Dr. Reddy's Laboratories Limited American Depositary Shares,NYSE
+RDYFF,Ready Set Gold Corp Common Shares (Canada),U
 RE,"Everest Re Group, Ltd.",NYSE
 REAC,"REAC Group, Inc. Common Stock",U
 REAL,"The RealReal, Inc. Common Stock",NASDAQ
@@ -4223,7 +4225,7 @@ RKT,"Rocket Companies, Inc.",NYSE
 RKTA U,"Rocket Internet Growth Opportunities Corp. Units, each consisting of one Class A ordinary share and",NYSE
 RKTE,"Reflectkote, Inc. Common Stock",U
 RKUNF,Rakuten Inc Ordinary Shares,U
-RKUNY,Rakuten Inc Sponsored ADR (Japan),U
+RKUNY,"Rakuten Group, Inc American Depositary Receipts - Sponsored",U
 RKWAF,Rockwool International A/S Ordinary Shares (Denmark),U
 RKWBF,Rockwool Intl Ser A Ordinary Shares,U
 RL,Ralph Lauren Corporation,NYSE
@@ -4231,6 +4233,7 @@ RLAB,Real American Capital Corporation. Common Stock,U
 RLAY,"Relay Therapeutics, Inc. Common Stock",NASDAQ
 RLBD,"Real Brands, Inc.  NEW Common Stock",U
 RLBY,Reliability Incorporated Common Stock,U
+RLDGF,Roland Dg Corp Hamamatsu Ordinary Shares (Japan),U
 RLFTF,RELIEF THERAPEUTICS HLDG AG NAMEN -AKT (Switzerland),U
 RLGDF,Real Good Food PLC Ordinary Shares (United Kingdom),U
 RLGMF,West Red Lake Gold Mines Inc. Ordinary Shares (Canada),U
@@ -4967,7 +4970,7 @@ SCHV,Schwab U.S. Large-Cap Value ETF,ARCA
 SCHW,The Charles Schwab Corporation,NYSE
 SCHW PRC,The Charles Schwab Corporation,NYSE
 SCHW PRD,Charles Schwab Corporation Depositary Shares each representing 1/40th interest in a share of 5.95% N,NYSE
-SCHWL,SCHWAB CHARLES CORP NEW DEP SHS REPSTG 1/40TH PERP PFD SER J Depositary Shares,U
+SCHW PRJ,"The Charles Schwab Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of",NYSE
 SCHX,Schwab U.S. Large- Cap ETF,ARCA
 SCHYF,Sands China Ltd Shs (Cayman Islands),U
 SCHYY,Sands China Ltd Unsponsored ADR (Cayman Islands),U
@@ -5426,3 +5429,7 @@ SHGY,SearchGuy.com Inc. Common Stock,U
 SHHPF,Ship Healthcare Holdings Inc Ordinary Shares (Japan),U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
+SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
+SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
+SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ

@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -37,6 +36,7 @@ GXSBF,Geox Spa Ordinary Shares (Italy),U
 GXSBY,Geox Spa Unsponsored ADR (Italy),U
 GXSFF,Goldsource Mines Inc Ordinary Shares (Canada),U
 GXTG,Global X Funds Global X Thematic Growth ETF,NASDAQ
+GXXFF,Gold Basin Resources Corp Common Shares (Canada),U
 GXXM,Gex Mgmt Inc Common Stock,U
 GXYEF,Galaxy Entertainment Group Limited Ordinary Shares (Hong Kong),U
 GXYYY,Galaxy Entmt Group Ltd ADR Unsponsored (Hong Kong),U
@@ -164,6 +164,7 @@ HBOSF,EastWest Bioscience Inc Common Shares,U
 HBP,"Huttig Building Products, Inc. Common Stock",NASDAQ
 HBPCF,Helix Biopharma Cp Ordinary Shares (Canada),U
 HBPE,HBP Energy Corp. Common Stock,U
+HBRIY,Harbour Energy Plc American Depositary Receipts - Sponsored,U
 HBRM,Herborium Group Inc Common Stock,U
 HBSI,Highlands Bankshares Inc (WV) Common Stock,U
 HBT,"HBT Financial, Inc. Common Stock",NASDAQ
@@ -1078,6 +1079,7 @@ IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,ARCA
 IAIC,Information Analysis Incorporated Common Stock,U
 IAK,iShares U.S. Insurance ETF,ARCA
 IALS,"InterActive Leisure Systems, Inc. Common Stock",U
+IAPR,Innovator MSCI EAFE Power Buffer ETF-April,ARCA
 IARE,INVENTRUST PPTYS CORP Common Stock,U
 IARSF,I A R  Systems Group AB Ordinary Shares (Sweden),U
 IART,Integra LifeSciences Holdings Corporation Common Stock,NASDAQ
@@ -1472,7 +1474,6 @@ IIAC,Investindustrial Acquisition Corp.,NYSE
 IIAC U,"Investindustrial Acquisition Corp. Units, each consisting of one Class A ordinary share and one-thir",NYSE
 IIAC WS,"Investindustrial Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class",NYSE
 IICN,"China Intelligence Information Systems, Inc. Common Stock",U
-IID,VOYA INTERNATIONAL HIGH DIVIDEND EQUITY INCOME FUND,NYSE
 IIDDY,IGO LTD American Depositary Receipts - Sponsored,U
 IIF,"Morgan Stanley India Investment Fund, Inc.",NYSE
 IIFIF,"Industrial & Infrastructure Fund Investment Corp., Tokyo Ordinary Shares (Japan)",U
@@ -1505,6 +1506,7 @@ IITSF,Intesa Sanpaolo Spa Ordinary Shares (Italy),U
 IIVI,II-VI Incorporated Common Stock,NASDAQ
 IIVIP,II-VI Incorporated 6.00% Series A Mandatory Convertible Preferred Stock,NASDAQ
 IIVPF,ISHARES IV PLC Ishares Automation & Robotics UCITS (Ireland),U
+IIXFF,ISHARES III PLC Global Govt Bond UCITS Exchange Traded Fund USD ACC (Ireland),U
 IJAN,Innovator MSCI EAFE Power Buffer ETF-January,ARCA
 IJH,iShares Core S&P Mid-Cap ETF,ARCA
 IJJ,iShares S&P Mid-Cap 400 Value ETF,ARCA
@@ -2910,7 +2912,7 @@ KE,"Kimball Electronics, Inc. Common Stock",NASDAQ
 KEFI,Keweenaw Financial Corp (Mich) Common Stock,U
 KEGX,KEY ENERGY SVCS INC DEL Common Shares,U
 KEIHF,KEIHANSHIN BLDG CO LTD Ordinary Shares,U
-KEJI,Global X Funds Global X China Disruption ETF,NASDAQ
+KEJI,Global X Funds Global X China Innovation ETF,NASDAQ
 KELRF,Keisei Electric Rail Ord Ordinary Shares (Japan),U
 KELTF,Kelt Exploration Ltd. Com (Canada),U
 KELYA,"Kelly Services, Inc. Class A Common Stock",NASDAQ
@@ -3871,7 +3873,6 @@ LNGB,LONGBAU GROUP INC  Common Stock,U
 LNGHY,Lai Fung Hldgs Ltd American Depositary Receipts - Sponsored (Cayman Islands),U
 LNGLY,Liquefied Natural Gas Ltd American Depositary Shares (Sponsored) (Australia),U
 LNGPF,Longfor Group Holdings Ltd Ordinary Shares,U
-LNGR,Global X Funds Global X Longevity Thematic ETF,NASDAQ
 LNGT,"Laser Energetics, Inc. Common Stock",U
 LNGYF,Esrey Resources Ltd. Common Shares,U
 LNHBF,Lionhub Group Ltd Ordinary Shares (Australia),U
@@ -4137,6 +4138,7 @@ LVVP,LIGHTSTONE VALUE PLUS REAL ESTATE INVT TR V INC COM,U
 LVVR,LIGHTSTONE VALUE PLUS REAL ESTATE INVT TR III INC COM,U
 LVVV,"Livewire Ergogenics, Inc.  Common Stock",U
 LVWD,"LiveWorld, Inc. Common Stock",U
+LVXFF,Leviathan Gold Ltd. Ordinary Shares (Canada),U
 LVYN,Lvyuan Green Building Material Technology Corp. Common Stock,U
 LVZPF,Livzon Pharmaceutical Group Inc Ordinary Shares (China),U
 LW,"Lamb Weston Holdings, Inc.",NYSE
@@ -4782,7 +4784,7 @@ MIKP,"Mike The Pike Productions, Inc. Common Stock",U
 MILC,Millennium Investment & Acquisition Company Inc. Common Stock,U
 MILE,"Metromile, Inc. Common Stock",NASDAQ
 MILEW,"Metromile, Inc. Warrant",NASDAQ
-MILN,Global X Funds Global X Millennials Thematic ETF,NASDAQ
+MILN,Global X Funds Global X Millennial Consumer ETF,NASDAQ
 MILOF,Mobilicom Ltd Ordinary Shares (Australia),U
 MILTY,Mills Estruturas E Servicos De Engenharia SA American Depositary Receipt (Sponsored) (Brazil),U
 MIME,Mimecast Limited Ordinary Shares,NASDAQ
@@ -5426,3 +5428,8 @@ MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
+MTFC,Minster Financial Corporation,U
+MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
