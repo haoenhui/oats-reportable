@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -77,6 +80,7 @@ HABK,"Hamilton Bancorp, Inc. FLA Common Stock",U
 HACBF,Hachijuni Bank Ltd  Ord Ordinary Shares (Japan),U
 HACBY,Hachijuni Bank Ltd  Ord American Depositary Shares,U
 HACK,ETFMG Prime Cyber Security ETF,ARCA
+HACOF,Hanison Construction Holdings Ltd Ordinary Shares (Cayman Islands),U
 HADV,Health Advance Inc Common Stock,U
 HAE,Haemonetics Corporation,NYSE
 HAFC,Hanmi Financial Corporation Common Stock,NASDAQ
@@ -139,6 +143,7 @@ HBANO,Huntington Bancshares Incorporated Depositary Shares,NASDAQ
 HBANP,Huntington Bancshares Incorporated Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock,NASDAQ
 HBAUF,Hornbach Baumarkt Ag Dm Ordinary Shares (Germany),U
 HBB,Hamilton Beach Brands Holding Company Class A Common Stock,NYSE
+HBBHF,Hornbach Hldg AG Ordinary Shares (Germany),U
 HBCGF,BETAPRO GOLD BULLION 2X DAILY BULL ETF NEW Unit,U
 HBCP,"Home Bancorp, Inc. Common Stock",NASDAQ
 HBCYF,Hsbc Holdings plc Ordinary Shares (United Kingdom),U
@@ -379,7 +384,7 @@ HHLA WS,"HH&L Acquisition Co. Redeemable warrants, each warrant exercisable for 
 HHLKF,"HOT CHILI LTD, KALGOORLIE Ordinary Shares (Australia)",U
 HHNNF,Hannans Ltd Ordinary Shares (Australia),U
 HHOLF,Herald Holdings Limited Ordinary Shares (Bermuda),U
-HHPHF,Mojave Jane Brands Inc Ordinary Shares,U
+HHPHD,Mojave Brands Inc Ordinary Shares,U
 HHR,HeadHunter Group PLC American Depositary Shares,NASDAQ
 HHRRF,Harbor Star Shipping Svcs Inc Ordinary Shares (Philippines),U
 HHSE,"Hannover House, Inc.  Common Stock",U
@@ -583,7 +588,6 @@ HMSNF,Hammerson Plc Ord Ordinary Shares,U
 HMST,"HomeStreet, Inc. Common Stock",NASDAQ
 HMSVF,Homeserve PLC Ordinary Shares,U
 HMSVY,Homeserve PLC Unsponsored American Depository Receipt (United Kingdom),U
-HMSY,HMS Holdings Corp (DE),NASDAQ
 HMTC,Homasote Company Common Stock,U
 HMTGF,Human Metabolome Technologies Inc Common Stock,U
 HMTLF,Hitachi Metals Ltd Ord Ordinary Shares,U
@@ -709,7 +713,6 @@ HPP,"Hudson Pacific Properties, Inc.",NYSE
 HPPEF,Hopefluent Group Holdings Ltd Ordinary Shares (Cayman Islands),U
 HPQ,HP Inc.,NYSE
 HPQFF,HPQ-Silicon Res Inc Common Shares,U
-HPR,HighPoint Resources Corporation,NYSE
 HPS,John Hancock Preferred Income Fund III,NYSE
 HPST,"Hempstract, Inc. Common Stock",U
 HPSYF,HORIZONS PSYCHEDELIC STK INDEX ETF Exchange Traded Fund,U
@@ -1066,7 +1069,9 @@ IAC,IAC/InterActiveCorp Common Stock,NASDAQ
 IACA,ION Acquisition Corp 1 Ltd.,NYSE
 IACA U,"ION Acquisition Corp 1 Ltd. Units, each consisting of one Class A ordinary share and one-fifth of on",NYSE
 IACA WS,"ION Acquisition Corp 1 Ltd. Warrants, each whole warrant exercisable for one Class A ordinary share",NYSE
+IACB,ION Acquisition Corp 2 Ltd.,NYSE
 IACB U,"ION Acquisition Corp 2 Ltd. Units, each consisting of one Class A ordinary share and one-eighth of o",NYSE
+IACB WS,"ION Acquisition Corp 2 Ltd. Warrants, each whole warrant exercisable for one Class A ordinary share",NYSE
 IACYF,Inter Action Corporation Yokohama Ordinary Shares (Japan),U
 IAE,VOYA ASIA PACIFIC HIGH DIVIDEND EQUITY INCOME FUND,NYSE
 IAF,"Aberdeen Australia Equity Fund, Inc.",AMEX
@@ -1366,6 +1371,7 @@ IFUUF,Infastructure & Utilities NZ Ltd Ordinary Shares (New Zealand),U
 IFV,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright International Focus 5 ETF,NASDAQ
 IFXAF,Ishare FTSE/Xinhua A50 China Tracker Ordinary Shares (Hong Kong),U
 IFXY,Infrax Systems Inc. Common Stock,U
+IFZZF,Intact Financial Corp. Nom Cum Pfd Class A Series 9 5.40% (Canada),U
 IG,Principal Investment Grade Corporate Active ETF,ARCA
 IGA,VOYA GLOBAL ADVANTAGE AND PREMIUM OPPORTUNITY FUND,NYSE
 IGAC,IG Acquisition Corp. Class A Common Stock,NASDAQ
@@ -3210,6 +3216,7 @@ KPHWF,"Key Petroleum Ltd, Perth Wa Common Shares (Australia)",U
 KPIFF,"Edgewater Wireless Systems, Inc. Ordinary Shares (Canada)",U
 KPJHF,Kpj Healthcare Bhd Ordinary Shares,U
 KPLIF,Keppel Infrastructure Trust NEW Units (Singapore),U
+KPLLF,Kino Polska TV SA Ordinary Shares (Poland),U
 KPLUF,K Plus S AG Ordinary Shares,U
 KPLUY,K plus S AG Sponsored ADR (Germany),U
 KPOC,"Kimberly Parry Organics, Corp. Common Stock",U
@@ -3651,7 +3658,9 @@ LFUGF,Li & Fung Ltd Ordinary Shares (Bermuda),U
 LFUS,"Littelfuse, Inc. Common Stock",NASDAQ
 LFVN,Lifevantage Corporation Common Stock (Delaware),NASDAQ
 LFYEF,LEFROY EXPL LTD Ordinary Shares,U
+LGAC,Lazard Growth Acquisition Corp. I Ordinary Shares,NASDAQ
 LGACU,Lazard Growth Acquisition Corp. I Units,NASDAQ
+LGACW,Lazard Growth Acquisition Corp. I Warrants,NASDAQ
 LGAH,"LGA Holdings, Inc. Common Stock",U
 LGBI,"Cannabiz Mobile, Inc .Common Stock",U
 LGBS,"Legends Business Group, Inc. Common Stock",U
@@ -3689,7 +3698,7 @@ LGNRF,Legend Holdings Corp Registered\Shares H\Cny 1.00 (China),U
 LGNXZ,Ligand Pharmaceuticals Incorporated Glucagon Contingent Value Rt,U
 LGNYZ,Ligand Pharmaceuticals Incorporated General Contingent Value Right,U
 LGNZZ,Ligand Pharmaceuticals Incorporated Tr Beta Continngent Value Right,U
-LGORD,Largo Resources Ltd Ordinary Shares,U
+LGORF,Largo Resources Ltd Ordinary Shares,U
 LGOV,First Trust Long Duration Opportunities ETF,ARCA
 LGOYF,Logo Yazilim Sanayi Ve Ticaret AS Ordinary Shares (Turkey),U
 LGRDY,LEGRAND SA Unsponsored ADR (France),U
@@ -4124,6 +4133,7 @@ LVMHF,LVMH Moet Hennessy Louis Vuitton Ordinary Shares,U
 LVMUY,LVMH Moet Hennessy Louis Vuitton Unsponsored American Depositary Receipt (France),U
 LVNSF,"Leonovus, Inc. Common Shares",U
 LVOL,American Century Low Volatility ETF,ARCA
+LVPA,Lvpai Group Limited Common Stock,U
 LVPR,LIGHTSTONE VALUE PLUS REAL ESTATE INVT TR II INC Common Stock,U
 LVRAU,Levere Holdings Corp. Unit,NASDAQ
 LVRLF,CordovaCann Corp. Common Shares,U
@@ -4428,7 +4438,6 @@ MCOIF,MULTICHOICE GROUP LTD Ord Shs (South Africa),U
 MCPB,Mount Carmel Pub Util Co Common Stock,U
 MCPH,Midland Capital Holdings Corporation Common Stock,U
 MCPNF,MMC Corporation Bhd Ordinary Shares (Malaysia),U
-MCPOF,Marcopolo SA Polo Pref Shs Brazil (BR),U
 MCQEF,Macquarie Group Ltd Ordinary shares (Australia),U
 MCR,MFS Charter Income Trust Shares of Beneficial Interest,NYSE
 MCRAA,"McRae Industries, Inc. Class A Common Stock",U
@@ -4737,6 +4746,7 @@ MHGVY,Mowi ASA American Depositary Receipts - Sponsored,U
 MHH,"Mastech Digital, Inc.",AMEX
 MHHC,"MHHC Enterprises, Inc. Common Stock",U
 MHI,Pioneer Municipal High Income Trust,NYSE
+MHIHF,Million Hope Inds Holdings Ltd. Ordinary Shares (Cayman Islands),U
 MHIVF,Invesque Inc. Ordinary Shares,U
 MHK,"Mohawk Industries, Inc.",NYSE
 MHLA,"Maiden Holdings, Ltd.",NYSE
@@ -5328,7 +5338,9 @@ MS PRK,"Morgan Stanley Depositary Shares, each representing 1/1,000th of a share
 MS PRL,"Morgan Stanley Depositary Shares, each representing 1/1,000th of a share of 4.875% Non-Cumulative Pr",NYSE
 MSA,Mine Safety Incorporated,NYSE
 MSAAF,"M&C Saatchi PLC, London Ordinary Shares (United Kingdom)",U
+MSAC,Medicus Sciences Acquisition Corp. Class A Ordinary Share,NASDAQ
 MSACU,Medicus Sciences Acquisition Corp. Unit,NASDAQ
+MSACW,Medicus Sciences Acquisition Corp. Warrant,NASDAQ
 MSADF,"MS & AD Insurance Group Holdings, Inc. Ordinary Shares (Japan)",U
 MSADY,"MS&AD Insurance Group Holdings, Inc. Unsponsored ADR (Japan)",U
 MSAH,"Man Shing Agricultural Holdings, IncCommon Stock",U
@@ -5413,8 +5425,8 @@ MTACW,MedTech Acquisition Corporation Warrant,NASDAQ
 MTAGF,Ceconomy AG Ordinary Shares,U
 MTALF,METALLICA METALS CORP Ordinary Shares,U
 MTB,M&T Bank Corp.,NYSE
-MTBC,"MTBC, Inc. Common Stock",NASDAQ
-MTBCP,"MTBC, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
+MTBC,"CareCloud, Inc. Common Stock",NASDAQ
+MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
@@ -5427,9 +5439,3 @@ MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
-MTENY,Mahanagar Telephone Nigam Ltd ADS,U
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U
-MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U

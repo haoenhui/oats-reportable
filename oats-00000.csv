@@ -180,7 +180,6 @@ ACCA,"Acacia Diversified Holdings, Inc. Common Stock",U
 ACCD,"Accolade, Inc. Common Stock",NASDAQ
 ACCEF,ACCRETE INC Common Stock,U
 ACCFF,Accord Financial Corp Ordinary Shares (Canada),U
-ACCLL,AL-Corn Clean Fuel LLC Unit Limited Partnership Class A,U
 ACCMF,AAC CLYDE SPACE Common Stock,U
 ACCO,Acco Brands Corporation,NYSE
 ACCR,"Access-Power & Co, Inc. Common Stock",U
@@ -696,6 +695,7 @@ AGVYY,Avangardco Invts. Pub. Ltd. Sponsored GDR Reg S (Ukraine),U
 AGX,"Argan, Inc",NYSE
 AGXKF,Anglo Asian Mining Plc Ordinary Shares (UK),U
 AGXLW,Agiliti Inc Warrant 07/24/2022,U
+AGXXF,Agilyx AS Ordinary Shares (Norway),U
 AGYP,Allied Energy Corporation. Common Stock,U
 AGYS,"Agilysys, Inc. Common Stock",NASDAQ
 AGYTF,Allergy Therapeutics Plc Worthing Ordinary Shares (United Kingdom),U
@@ -1389,7 +1389,9 @@ APEOF,Growmax Res Corp Common Shares,U
 APEUF,Atlas Engineered Products Ltd. Common Shares,U
 APEX,APEX GLOBAL BRANDS INC Common Stock,U
 APG,APi Group Corporation,NYSE
+APGB,Apollo Strategic Growth Capital II,NYSE
 APGB U,"Apollo Strategic Growth Capital II Units, each consisting of one Class A ordinary share, and one-fif",NYSE
+APGB WS,"Apollo Strategic Growth Capital II Warrants, each exercisable for one Class A Ordinary Share at an e",NYSE
 APGEF,APPLEGREEN PLC SHS (Ireland),U
 APGI,American Power Group Corp. Common Stock,U
 APGMF,Applied Graphene Matls PLC Ordinary Shares (United Kingdom),U
@@ -2841,7 +2843,9 @@ BIS,ProShares Trust ProShares UltraShort Nasdaq Biotechnology,NASDAQ
 BISA,"Baltic International USA, Inc. Common Stock",U
 BIT,BLACKROCK MULTI-SECTOR INCOME TRUST,NYSE
 BITCF,First Bitcoin Capital Corp. Common Stock,U
+BITE,Bite Acquisition Corp.,NYSE
 BITE U,"Bite Acquisition Corp. Units, each consisting of one share of common stock, and one-half of one rede",NYSE
+BITE WS,"Bite Acquisition Corp. Warrants, each whole warrant exercisable for one share of common stock at an",NYSE
 BITGF,Biotage AB Ordinary Shares A (Sweden),U
 BITGY,Biotage AB American Depositary Receipts - Unsponsored (Sweden),U
 BITKF,Biosign Technologies Inc Common Shares,U
@@ -2991,7 +2995,7 @@ BLGFF,BAILLIE GIFFORD US GROWTH TR PLC Ordinary Shares United Kingdom(GB ),U
 BLGI,"BLGI, Inc.   Common Stock",U
 BLGO,"BioLargo, Inc. Common Stock",U
 BLGPY,Boart Longyear Group American Depositary Receipts - Unsponsored,U
-BLGVD,BELGRAVIA HARTFORD CAP INC Common Shares,U
+BLGVF,BELGRAVIA HARTFORD CAP INC Common Shares,U
 BLHEF,Baloise Holding AG Ordinary Shares (Switzerland),U
 BLHEY,Baloise Holding AG Unsponsored ADR (Switzerland),U
 BLHI,"Blue Holdings, Inc. Common Stock",U
@@ -3225,7 +3229,9 @@ BOAC WS,"Bluescape Opportunities Acquisition Corp. Redeemable warrants, each who
 BOALF,Boral Ltd  Ord Ordinary Shares,U
 BOALY,Boral Ltd  Ord American Depositary Shares,U
 BOARF,"Boart Longyear Ltd, Sydney NSW Ordinary Shares",U
+BOAS,BOA Acquisition Corp.,NYSE
 BOAS U,"BOA Acquisition Corp. Units, each consisting of one share of Class A common stock, and one third of",NYSE
+BOAS WS,"BOA Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A c",NYSE
 BOB,Merlyn.AI Best-of-Breed Core Momentum ETF,BATS
 BOCH,Bank of Commerce Holdings (CA) Common Stock,NASDAQ
 BOCOF,Bougainville Copper Ltd Ord Ordinary Shares,U
@@ -4193,7 +4199,9 @@ CCV,Churchill Capital Corp V,NYSE
 CCV U,"Churchill Capital Corp V Units, each consisting of one share of Class A common stock, and one-fourth",NYSE
 CCV WS,"Churchill Capital Corp V Warrants, each exercisable for one share of Class A common stock at an exer",NYSE
 CCVAJ,Country Club of Virginia Inc CDT-Cap Stk,U
+CCVI,Churchill Capital Corp VI,NYSE
 CCVI U,"Churchill Capital Corp VI Units, each consisting of one share of Class A common stock, and one-fifth",NYSE
+CCVI WS,"Churchill Capital Corp VI Warrants, each exercisable for one share of Class A common stock at an exe",NYSE
 CCVS,Citizens Comm Bancshares Inc Common Stock,U
 CCVTF,China Conch Venture Hldgs Ltd Ordinary Shares (Cayman Islands),U
 CCWF,"Church & Crawford, Inc. Common Stock New",U
@@ -4508,7 +4516,9 @@ CGW,Invesco S&P Global Water Index ETF,ARCA
 CGXEF,Cgx Energy Inc Ordinary Shares,U
 CGXYY,China Galaxy Securities Co Ltd Unsponsored ADR (China),U
 CGYV,"China Energy Recovery, Inc. New Common Stock",U
+CHAA,Catcha Investment Corp,NYSE
 CHAA U,"Catcha Investment Corp Units, each consisting of one Class A ordinary share, and one-third of one re",NYSE
+CHAA WS,"Catcha Investment Corp Redeemable Warrants, each whole warrant exercisable for one Class A ordinary",NYSE
 CHAD,Direxion Daily CSI 300 China A Share Bear 1X Shares,ARCA
 CHAEF,CHINA AEROSPACE INTERNATIONAL HOLDINGS LTD SHS (Hong Kong),U
 CHAG,"Chancellor Group, Inc. Common Stock",U
@@ -4763,7 +4773,6 @@ CIOXF,Cielo Ordinary Shares (Brazil),U
 CIOXY,Cielo SA Sponsored ADR  (Brazil),U
 CIR,"CIRCOR International, Inc",NYSE
 CIRX,CIRTRAN CORP Common Stock,U
-CISEF,China Steel Corp Shs (Taiwan),U
 CISO,CERBERUS CYBER SENTINEL CORP Common Stock,U
 CISXF,China Steel Corp GDR representing 20 Shs,U
 CIT,CIT Group Inc.,NYSE
@@ -5430,6 +5439,3 @@ CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
-CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
-CPF,Central Pacific Financial Corporation,NYSE
-CPFH,"Capital Financial Holdings, Inc. Common Stock",U

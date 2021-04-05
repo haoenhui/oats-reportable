@@ -1,4 +1,10 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTENY,Mahanagar Telephone Nigam Ltd ADS,U
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
+MTFC,Minster Financial Corporation,U
+MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
@@ -979,8 +985,6 @@ NSAV,"Net Savings Link, Inc. Common Stock",U
 NSBK,Northern Star Financial Inc. Common Stock,U
 NSC,Norfolk Southern Corp.,NYSE
 NSCIF,Nanalysis Scientific Corp Common Shares (Canada),U
-NSCO,"Nesco Holdings, Inc. Common Stock",NYSE
-NSCO WS,"Nesco Holdings, Inc. Warrants, exerciseable for Common Stock",NYSE
 NSEC,"National Security Group, Inc. Common Stock",NASDAQ
 NSEO,NS8 Corporation Common Stock,U
 NSFDF,NXT Energy Solutions Inc. Ordinary Shares (Canada),U
@@ -1373,7 +1377,7 @@ OAKV,Oak View National Bank Warrenton VA Common,U
 OAOFY,PJSC Tatneft American Depositary Receipts - Sponsored,U
 OARFF,Fort St. James Nickel Corp. Ordinary Shares,U
 OARRF,OAR RES LTD Ordinary Shares,U
-OARTD,Ohio Art Company (The) Common Stock,U
+OART,Ohio Art Company (The) Common Stock,U
 OAS,Oasis Petroleum Inc. Common Stock,NASDAQ
 OASMY,Oasmia Pharmaceutical AB American Depositary Shares,U
 OASPW,OASIS PETE INC NEW Warrant   11/19/2024,U
@@ -1993,7 +1997,6 @@ PALT,"Paltalk, Inc.  Common Stock",U
 PAM,PAMPA ENERGIA S.A.,NYSE
 PAMC,Pacer Lunt MidCap Multi-Factor Alternator ETF,ARCA
 PANC,"Panacos Pharmaceuticals, Inc. Common Stock",U
-PAND,Pandion Therapeutics Inc. Common Stock,NASDAQ
 PANDY,Pandora A/S American Depositary Receipts - Sponsored,U
 PANHF,PING AN HEALTHCARE & TECHNOLOGY CO Ltd Shs (Cayman Islands),U
 PANL,Pangaea Logistics Solutions Ltd. Common Shares,NASDAQ
@@ -4454,9 +4457,6 @@ RPGRF,REA Group Ltd Ordinary Shares (Australia),U
 RPGRY,REA Group Ltd Unsponsored ADR (Australia),U
 RPHCF,Rohto Pharmaceutical Co Ordinary Shares (Japan),U
 RPKIF,Richards Packaging Income Fd Tr Unit (Canada),U
-RPLA,Replay Acquisition Corp. Ordinary Shares,NYSE
-RPLA U,Replay Acquisition Corp.,NYSE
-RPLA WS,Replay Acquisition Corp. Warrants,NYSE
 RPM,"RPM International, Inc.",NYSE
 RPMT,"Rego Payment Architectures, Inc. Common Stock",U
 RPNMF,Rapala Normark Corp Ordinary Shares,U
@@ -4982,7 +4982,9 @@ SCIXF,Suny Cellular Communication Ltd. Ordinary Shares,U
 SCJ,iShares MSCI Japan Small-Cap ETF,ARCA
 SCKT,"Socket Mobile, Inc. Common Stock",NASDAQ
 SCL,Stepan Co.,NYSE
+SCLE,Broadscale Acquisition Corp. Class A common stock,NASDAQ
 SCLEU,Broadscale Acquisition Corp. Units,NASDAQ
+SCLEW,Broadscale Acquisition Corp. Warrant,NASDAQ
 SCLZF,Scales Corp TLD Ordinary Shares (New Zealand),U
 SCM,STELLUS CAPITAL INVESTMENT CORPORATION,NYSE
 SCMWY,Swisscom AG Common Stock,U
@@ -4998,7 +5000,9 @@ SCO,ProShares UltraShort Bloomberg Crude Oil,ARCA
 SCOA,ScION Tech Growth I Class A Ordinary Shares,NASDAQ
 SCOAU,ScION Tech Growth I Unit,NASDAQ
 SCOAW,ScION Tech Growth I Warrant,NASDAQ
+SCOB,ScION Tech Growth II Class A Ordinary Shares,NASDAQ
 SCOBU,ScION Tech Growth II Units,NASDAQ
+SCOBW,ScION Tech Growth II Warrants,NASDAQ
 SCON,Superconductor Technologies Inc. Common Stock,U
 SCOO,"School Specialty, Inc. Com",U
 SCOR,"comScore, Inc. Common Stock",NASDAQ
@@ -5276,7 +5280,7 @@ SFTWF,"SOFTWARE RADIO TECHNOLOGY PLC, BATH Ordinary Shares (United Kingdom)",U
 SFUN,Fang Holdings Limited American Depositary Shares (each representing ten Class A Ordinary Shares),NYSE
 SFWJ,Software Effective Solutions Corp. Common Stock,U
 SFY,SoFi Select 500 ETF,ARCA
-SFYF,SoFi 50 ETF,ARCA
+SFYF,SoFi Social 50 ETF,ARCA
 SFYX,SoFi Next 500 ETF,ARCA
 SGA,"Saga Communications, Inc. Class A Common Stock (FL)",NASDAQ
 SGACF,SSGA SPDR ETFS EUROPE I PLC ACCUM SHS EXCHANGE TRADED FUND USD Ireland(IE ),U
@@ -5433,3 +5437,5 @@ SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U

@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
@@ -285,7 +283,9 @@ SKYW,"SkyWest, Inc. Common Stock",NASDAQ
 SKYY,First Trust Cloud Computing ETF,NASDAQ
 SKYZF,"Sky City Entertainment Group, Ltd. Ordinary Shares (New Zealand)",U
 SLAB,"Silicon Laboratories, Inc. Common Stock",NASDAQ
+SLAC,Social Leverage Acquisition Corp I,NYSE
 SLAC U,"Social Leverage Acquisition Corp I Units, each consisting of one share of Class A common stock and o",NYSE
+SLAC WS,"Social Leverage Acquisition Corp I Redeemable warrants, each whole warrant exercisable for one share",NYSE
 SLAHF,Stella Chemifa Corp Osaka Ordinary Shares (Japan),U
 SLAMU,Slam Corp. Unit,NASDAQ
 SLB,Schlumberger Limited,NYSE
@@ -1647,7 +1647,6 @@ SYMQY,SYMBIO PHARMACEUTICALS LTD  American Depositary Receipts - Sponsored (Japa
 SYMRF,"SYSTEMAIR AB, SKINNSKATTEBERG Ordinary Shares",U
 SYN,"Synthetic Biologics, Inc.",AMEX
 SYNA,Synaptics Incorporated Common Stock $0.001 Par Value,NASDAQ
-SYNC,"Synacor, Inc. Common Stock",NASDAQ
 SYNE,"Synthesis Energy Systems, Inc. Common Stock",U
 SYNH,"Syneos Health, Inc. Class A Common Stock",NASDAQ
 SYNI,"Synvista Therapeutics, Inc Common Stock",U
@@ -1815,7 +1814,6 @@ TBLMF,Tiger Brands Ltd Ordinary Shares (South Africa),U
 TBLMY,Tiger Brands Ltd Sponsored ADR New (South Africa),U
 TBLT,"ToughBuilt Industries, Inc. Common Stock",NASDAQ
 TBLTW,"ToughBuilt Industries, Inc. Warrant",NASDAQ
-TBLZ,"Trailblazer Resources, Inc. Common Stock",U
 TBMIF,"Aurcrest Gold, Inc. Ordinary Shares (Canada)",U
 TBNGY,PT Bukit Asam Persero TBK American Depositary Receipts - Unsponsored,U
 TBNK,Territorial Bancorp Inc. Common Stock,NASDAQ
@@ -1832,7 +1830,9 @@ TBVPY,Thai Beverage Public Co Ltd Unsponsored ADR (Thailand),U
 TBX,ProShares Short 7-10 Year Treasury,ARCA
 TBXXF,TURMALINA METALS CORP Common Stock (Canada),U
 TC,TuanChe Limited American Depositary Shares,NASDAQ
+TCAC,Tuatara Capital Acquisition Corporation Class A Ordinary Shares,NASDAQ
 TCACU,Tuatara Capital Acquisition Corporation Unit,NASDAQ
+TCACW,Tuatara Capital Acquisition Corporation Warrant,NASDAQ
 TCAI,"AIMTC, INC. Common Stock",U
 TCANF,TC Energy Corp Preferred Stock,U
 TCAPF,TP ICAP GROUP PLC Ordinary Shares (Jersey),U
@@ -2636,7 +2636,6 @@ TPTJY,Topps Tiles Plc Unsponsored ADR (United Kingdom),U
 TPTW,"TPT Global Tech, Inc. Common Stock",U
 TPTX,"Turning Point Therapeutics, Inc. Common Stock",NASDAQ
 TPVG,TRIPLEPOINT VENTURE GROWTH BDC CORP.,NYSE
-TPVY,TriplePoint Venture Growth BDC Corp. 5.75% Notes due 2022,NYSE
 TPX,"TEMPUR SEALY INTERNATIONAL, INC.",NYSE
 TPXXF,Topix Exchange Traded Fund Tokyo ETF (Japan),U
 TPYP,Tortoise North American Pipeline ETF,ARCA
@@ -2834,7 +2833,9 @@ TSI,"TCW Strategic Income Fund, Inc.",NYSE
 TSIA,TS Innovation Acquisitions Corp. Class A Common Stock,NASDAQ
 TSIAU,TS Innovation Acquisitions Corp. Unit,NASDAQ
 TSIAW,TS Innovation Acquisitions Corp. Warrant,NASDAQ
+TSIB,Tishman Speyer Innovation Corp. II Class A common stock,NASDAQ
 TSIBU,Tishman Speyer Innovation Corp. II Unit,NASDAQ
+TSIBW,Tishman Speyer Innovation Corp. II Warrant,NASDAQ
 TSIHF,"TSI Holdings Co., Ltd. Shs (Japan)",U
 TSIOF,361 Degrees International Limited Ordinary Shares (Cayman Islands),U
 TSJA,Innovator Triple Stacker ETF - January,BATS
@@ -3603,7 +3604,7 @@ UZC,United States Cellular Corporation 7.25% Senior Notes due 2064,NYSE
 UZD,United States Cellular Corporation 6.250% Senior Notes due 2069,NYSE
 UZE,United States Cellular Corporation 5.500% Senior Notes due 2070,NYSE
 V,VISA Inc.,NYSE
-VABK,Virginia National Bankshares Corporation. Common Stock,U
+VABK,Virginia National Bankshares Corporation Common Stock,NASDAQ
 VABS,Virtus Newfleet ABS/MBS ETF,ARCA
 VAC,MARRIOTT VACATIONS WORLDWIDE CORPORATION,NYSE
 VACNY,VAT Group AG American Depositary Receipts - Unsponsored (Switzerland),U
@@ -4671,6 +4672,7 @@ WOR,"WORTHINGTON INDUSTRIES, INC. COMMON SHARES",NYSE
 WORC,"Wake Up Now, Inc. New Common Stock",U
 WORK,"Slack Technologies, Inc.",NYSE
 WORX,SCWorx Corp. Common Stock,NASDAQ
+WOSGF,Watches of Switzerland Group PLC Ordinary Shares (United Kingdom),U
 WOSSF,Water Oasis Group Limited Ordinary Shares,U
 WOW,"WideOpenWest, Inc. Common Stock",NYSE
 WOWI,"Metro One Telecommunications, Inc. Common Stock",U
@@ -4925,6 +4927,7 @@ XES,SPDR S&P Oil & Gas  Equipment & Services ETF,ARCA
 XFCH,"X-Factor Communications Holdings, Inc. Common",U
 XFLS,Xfuels Inc. Common Stock,U
 XFLT,"XAI Octagon Floating Rate & Alternative Income Term Trust, Common Shares of Beneficial Interest",NYSE
+XFLT PRA,"XAI Octagon Floating Rate & Alternative Income Term Trust 6.50% Series 2026 Term Preferred Shares, (",NYSE
 XFOR,"X4 Pharmaceuticals, Inc. Common Stock",NASDAQ
 XFORW,X4 Pharmaceuticals Inc Warrants Expiring 04/16/2024,U
 XFOWW,X4 Pharmaceuticals Inc Warrants Class B Expiring 11/29/2024,U
@@ -5002,7 +5005,9 @@ XONE,The ExOne Company Common Stock,NASDAQ
 XOP,SPDR S&P Oil & Gas Exploration & Production ETF,ARCA
 XOUT,GraniteShares XOUT U.S. Large Cap ETF,ARCA
 XP,XP Inc. Class A Common Stock,NASDAQ
+XPDI,Power & Digital Infrastructure Acquisition Corp. Class A Common Stock,NASDAQ
 XPDIU,Power & Digital Infrastructure Acquisition Corp. Unit,NASDAQ
+XPDIW,Power & Digital Infrastructure Acquisition Corp. Warrant,NASDAQ
 XPEL,"XPEL, Inc. Common Stock",NASDAQ
 XPER,Xperi Holding Corporation Common Stock,NASDAQ
 XPEV,"XPeng Inc. American depositary shares, each representing two Class A ordinary shares",NYSE

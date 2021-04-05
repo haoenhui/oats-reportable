@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
+CPF,Central Pacific Financial Corporation,NYSE
+CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
@@ -447,6 +450,8 @@ CTO,"CTO Realty Growth, Inc.",NYSE
 CTOBF,China Tob Intl Hk Co Ltd Ordinary Shares  (Hong Kong),U
 CTOHF,Citigold Corp Ltd Ordinary Shares (Australia),U
 CTON,"Second Street Capital, Inc. Common Stock",U
+CTOS,"Custom Truck One Source, Inc.",NYSE
+CTOS WS,"Custom Truck One Source, Inc. Warrants, exerciseable for Common Stock",NYSE
 CTOUF,Charter Hall Group Stapled Security (Australia),U
 CTOWY,China Tower Corporation Limited Unsponsored ADR (China),U
 CTPCF,Citic Ltd Ordinary Shares (Hong Kong),U
@@ -570,7 +575,9 @@ CVHIF,Ventura Cannabis and Wellness Corp.  Common Shares,U
 CVHL,"CV Holdings, Inc. Common Stock",U
 CVHSY,CABLEVISION HLDGS SA Global Depositary Receipts - Sponsored,U
 CVI,"CVR ENERGY, INC.",NYSE
+CVII,Churchill Capital Corp VII,NYSE
 CVII U,"Churchill Capital Corp VII Units, each consisting of one share of Class A common stock, and one-fift",NYSE
+CVII WS,"Churchill Capital Corp VII Warrants, each exercisable for one share of Class A common stock at an ex",NYSE
 CVISF,Context Vision Ab Ordinary Shares,U
 CVLG,"Covenant Logistics Group, Inc. Class A Common Stock",NASDAQ
 CVLGF,CEVA Logistics AG Common Stock (Switzerland),U
@@ -2625,6 +2632,9 @@ ESYJY,easyJet PLC Sponsored ADR (United Kingdom),U
 ESYL,Easylink Solutions Corp. Common Stock,U
 ESYYF,EASY SOFTWARE Ordinary Shares,U
 ET,Energy Transfer LP Common Units representing limited partner interests,NYSE
+ET PRC,Energy Transfer LP 7.375% Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred,NYSE
+ET PRD,Energy Transfer LP 7.625% Series D Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred,NYSE
+ET PRE,Energy Transfer LP 7.600% Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred,NYSE
 ETAC,E.Merge Technology Acquisition Corp. Class A Common Stock,NASDAQ
 ETACU,E.Merge Technology Acquisition Corp. Unit,NASDAQ
 ETACW,E.Merge Technology Acquisition Corp. Warrant,NASDAQ
@@ -2668,9 +2678,6 @@ ETNPF,European Cleantech I SE Warrant,U
 ETO,Eaton Vance Tax-Advantaged Global Div Oppor. Fund,NYSE
 ETOLF,"Enterprise Group, Inc. Common Shares",U
 ETON,"Eton Pharmaceuticals, Inc. Common Stock",NASDAQ
-ETP PRC,"Energy Transfer Operating, L.P. 7.375% Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetu",NYSE
-ETP PRD,"Energy Transfer Operating, L.P. 7.625% Series D Fixed-to-Floating Rate Cumulative Redeemable Perpetu",NYSE
-ETP PRE,"Energy Transfer Operating, L.P. Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Pref",NYSE
 ETPHF,Agriminco Corp. Ordinary Shares (Canada),U
 ETPPF,E-Therapeutics PLC Ordinary Shares (United Kingdom),U
 ETR,Entergy Corporation,NYSE
@@ -3709,6 +3716,8 @@ FNX,First Trust Mid Cap Core AlphaDEX Fund,NASDAQ
 FNXLF,Fenix Financial Ltd. Common Stock (Bermuda),U
 FNXTF,Fenix Outdoor Intl Ltd. Ordinary Shares Cl B (Switzerland),U
 FNY,First Trust Mid Cap Growth AlphaDEX Fund,NASDAQ
+FOA,Finance of America Companies Inc.,NYSE
+FOA WS,"Finance of America Companies Inc. Warrants, each whole warrant exercisable for one Class A Common St",NYSE
 FOCIF,Focusrite Plc Ordinary Shares  (United Kingdom),U
 FOCS,Focus Financial Partners Inc. Class A Common Stock,NASDAQ
 FOCT,FT Cboe Vest U.S. Equity Buffer ETF - October,BATS
@@ -3726,7 +3735,9 @@ FONU,FONU2 Inc. Common Stock,U
 FOR,Forestar Group Inc.,NYSE
 FORA,Forian Inc. Common Stock,NASDAQ
 FORD,"Forward Industries, Inc. Common Stock",NASDAQ
+FORE,Foresight Acquisition Corp. Class A Common Stock,NASDAQ
 FOREU,Foresight Acquisition Corp. Units,NASDAQ
+FOREW,Foresight Acquisition Corp. Warrant,NASDAQ
 FORFF,Fortis Inc Ist Preferred Shares Series F (Canada),U
 FORM,"FormFactor, Inc. FormFactor, Inc. Common Stock",NASDAQ
 FORR,"Forrester Research, Inc. Common Stock",NASDAQ
@@ -4026,7 +4037,6 @@ FTFT,Future FinTech Group Inc. Common Stock,NASDAQ
 FTFY,"Fit After Fifty, Inc. Common Stock",U
 FTGC,First Trust Exchange-Traded Fund VII First Trust Global Tactical Commodity Strategy Fund,NASDAQ
 FTGFF,Firan Technology Group Corp Ordinary Shares (Canada),U
-FTGID,Lvpai Group Limited Common Stock,U
 FTGPF,First Tr Global Fds Plc A Dow Jones Internet UCITS ETF A USD ACC Exchange Traded Fund (Ireland),U
 FTHI,First Trust Exchange-Traded Fund VI First Trust BuyWrite Income ETF,NASDAQ
 FTHM,Fathom Holdings Inc. Common Stock,NASDAQ
@@ -4458,7 +4468,6 @@ GECFF,Gecina Act Nom (France),U
 GEDSF,Gedeon Richter Ltd Gic American Depositary Shares,U
 GEDUF,G8 Education LTD Common Shares,U
 GEECF,Global Environmental Energy Corp. Common Stock (Bahamas),U
-GEENQ,Global Eagle Entertainment Inc. Common Stock,U
 GEF,"Greif, Inc.",NYSE
 GEF B,"Greif, Inc. Class B",NYSE
 GEFI,Geo Finance Corp. Common Stock,U
@@ -5430,6 +5439,3 @@ GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
