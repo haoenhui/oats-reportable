@@ -22,6 +22,7 @@ SHMSY,Shimao Services Holdings Ltd. American Depositary Receipts - Unsponsored (
 SHMTF,SAHAMITR PRESSURE CONTAINER PUBLIC CO LTD SHARES (Thailand),U
 SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
+SHMY,SYNERGY EMPIRE LTD Common Stock,U
 SHMZF,Shimadzu Corp Ordinary Shares,U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
@@ -200,6 +201,7 @@ SJM,The J.M. Smucker Company,NYSE
 SJMHF,SJM Holdings Ltd Ordinary shares (Hong Kong),U
 SJMHY,SJM Holdings Ltd Unsponsored ADR (Hong Kong),U
 SJNK,SPDR Bloomberg Barclays Short Term High Yield Bond ETF,ARCA
+SJOHF,SECOM JOSHINETSU CO LTD NIIGATA Ordinary Shares,U
 SJOYW,SCIENJOY HLDG CORP Warrant   02/05/2024,U
 SJR,Shaw Communications Inc.,NYSE
 SJRNF,Arcwest Expl Inc Ordinary Shares,U
@@ -509,7 +511,6 @@ SMTOF,Sumitomo Electric Ordinary Shares,U
 SMTOY,Sumitomo Electric Industries Ltd Unsponsored ADR,U
 SMTS,Sierra Metals Inc. Common Stock,AMEX
 SMTUF,Sumitomo Rubber Industries Ltd Ordinary Shares,U
-SMTX,SMTC Corporation Common Stock,NASDAQ
 SMTYF,SAMTY RESIDENTIAL INVT CORP SHS (Japan),U
 SMUPF,Sims Metal Management Ltd Ordinary Shares (Australia),U
 SMUUY,Siam Commercial Bank Public Co Ltd Unsponsored ADR (Thailand),U
@@ -574,7 +575,6 @@ SNIOF,Sensio Technologies Inc Common shares (Canada),U
 SNIPF,Snipp Interactive Inc Common Shares (Canada),U
 SNIRF,Senior Plc Ordinary Shares,U
 SNKEF,SANKEI REAL ESTATE INC REIT (Japan),U
-SNKOF,Sanko Co Ltd Ordinary Shares (Japan),U
 SNKSY,Renewi plc American Depositary Receipts - Unsponsored,U
 SNKUF,SANKYU INC TOKYO Ordinary Shares Japan(JP ),U
 SNLAF,Sino Land Co Ltd Ord H $1 Par Ordinary Shares,U
@@ -1894,6 +1894,7 @@ TCRRF,Terrace Energy Corp. Ordinary Shares (Canada),U
 TCS,"THE CONTAINER STORE GROUP, INC.",NYSE
 TCTL,Premise Capital Diversified Tactical ETF,BATS
 TCTZF,Tencent Holdings Limited Ordinary Shares (Cayman Islands),U
+TCVA,TCV Acquisition Corp. Class A Ordinary Shares,NASDAQ
 TCX,Tucows Inc. Class A Common Stock,NASDAQ
 TCYBY,TietoEvry Corp American Depositary Receipts - Unsponsored,U
 TCYMF,Tingyi Cayman Islands Hldgs Cp Ordinary Shares,U
@@ -2069,6 +2070,7 @@ TGGLF,Tegel Group Holdings Ltd Ordinary Shares (New Zealand),U
 TGGRF,Taruga Gold Ltd Ordinary Shares (Australia),U
 TGH,Textainer Group Holdings limited,NYSE
 TGHI,"Touchpoint Group Holdings, Inc. Common Stock",U
+TGHLF,TEXTAINER GROUP HLDGS LTD DEP SHS REPSTG 1/1000TH PERP PREF SHS SER A Depositary Shares,U
 TGI,"Triumph Group, Inc.",NYSE
 TGIC,Triad Guaranty Inc. Common Stock,U
 TGIF,SoFi Weekly Income ETF,ARCA
@@ -2547,7 +2549,6 @@ TOKSF,Tokyo Stl Mfg Co Ltd Ordinary Shares (Japan),U
 TOKTY,"Tokai Tokyo Financial Holdings, Inc. Sponsored ADR (Japan)",U
 TOKUF,Tokyu Corporation Ordinary Shares,U
 TOKUY,Tokyu Corporation Unsponsored ADR (Japan),U
-TOKXF,Tokai Corp Gifu Ordinary Shares (Japan),U
 TOL,"Toll Brothers, Inc.",NYSE
 TOLWF,TRICAN WELL SERVICE LTD Ordinary Shares,U
 TOLZ,ProShares DJ Brookfield Global Infrastructure ETF,ARCA
@@ -2989,7 +2990,6 @@ TVBCY,Television Broadcasts Ltd Sponsored American Depositary Shares,U
 TVC,"Tennessee Valley Authority Power Bonds 1998 Series D due June 1, 2028",NYSE
 TVCE,"TVC Telecom, Inc. Common Stock",U
 TVDPF,Tv Direct Pub Co Ltd Units Non-Voting Depositary Receipts (Thailand),U
-TVDRF,Tv Direct Pub Co Ltd Warrant (Thailand),U
 TVE,"Tennessee Valley Authority Power Bonds 1999 Series A due May 1, 2029",NYSE
 TVER,Terrace Ventures Inc. New Common Stock New,U
 TVETF,Traverse Energy Limited Ordinary Shares (Canada),U
@@ -4976,7 +4976,6 @@ XLWH,Xinliwang International Holdings Company Ltd. Common Stock,U
 XLY,Consumer Discretionary Select Sector SPDR Fund,ARCA
 XM,Qualtrics International Inc. Class A Common Stock,NASDAQ
 XME,SPDR S&P Metals & Mining ETF,ARCA
-XMETD,HOUMU HLDGS LTD Common Stock,U
 XMEX,Xemex Group Inc. Common stock,U
 XMHQ,Invesco S&P MidCap Quality ETF,ARCA
 XMLV,Invesco S&P MidCap Low Volatility ETF,ARCA

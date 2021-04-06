@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
@@ -366,7 +365,6 @@ HGSH,"China HGS Real Estate, Inc. Common Stock",NASDAQ
 HGTXU,Hugoton RoyaltyTrust Unit Ben Int,U
 HGUBP,Highlands Capital Trust I Cap Securities,U
 HGV,Hilton Grand Vacations Inc. Common Stock,NYSE
-HGWEF,Hagiwara Electric Co Ltd Ordinary Shares (Japan),U
 HGYMF,Hogy Medical Co Ltd Com Ordinary Shares,U
 HHBHF,Hartalega Holdings BHD Ordinary Shares (Malaysia),U
 HHBT,HH Biotechnology Holdings Company Common Stock,U
@@ -658,7 +656,6 @@ HOILF,Hunter Technology Corp Ordinary Shares,U
 HOJI,HOUSE OF JANE INC Common Stock,U
 HOKCF,Hong Kong & China Gas Ltd Ord Ordinary Shares,U
 HOKCY,Hong Kong & China Gas Ltd Ord American Depositary Shares,U
-HOKRF,Hokuriku Electric Power Co Inc Ordinary Shares (Japan),U
 HOKUQ,Hoku Corporation Common Stock,U
 HOL,Holicity Inc. Class A Common Stock,NASDAQ
 HOLD,AdvisorShares Sage Core Reserves ETF,ARCA
@@ -669,6 +666,7 @@ HOLUW,Holicity Inc. Warrant,NASDAQ
 HOLX,"Hologic, Inc. Common Stock",NASDAQ
 HOMB,"Home BancShares, Inc. Common Stock",NASDAQ
 HOME,At Home Group Inc.,NYSE
+HOMU,HOUMU HLDGS LTD Common Stock,U
 HOMZ,Hoya Capital Housing ETF,ARCA
 HON,"Honeywell International, Inc.",NYSE
 HONE,"HarborOne Bancorp, Inc. Common Stock",NASDAQ
@@ -1609,7 +1607,6 @@ IMMPF,Immupharma PLC Ordinary Shares (United Kingdom),U
 IMMQF,Immobiliare Grande Distribuzione Siiq Spa Ordinary Shares (Italy),U
 IMMR,Immersion Corporation Common Stock,NASDAQ
 IMMVF,Immunovia AB  Shs (Sweden),U
-IMMZF,Immofinanz  Ag Ordinary shares (Austria),U
 IMNG,iMing Corp. Common Stock,U
 IMNM,"Immunome, Inc. Common Stock",NASDAQ
 IMNPQ,IMMUNE PHARMACEUTICALS INC Common Stock,U
@@ -1810,6 +1807,8 @@ INVPF,INVESCO MARKETS PLC Exchange Traded Fund  (Ireland),U
 INVT,INVENTERGY GLOBAL INC Common Stock,U
 INVU,Investview Inc. Common Stock,U
 INVVY,INDIVIOR PLC  American Depositary Receipts - Sponsored,U
+INVZ,Innoviz Technologies Ltd. Ordinary shares,NASDAQ
+INVZW,Innoviz Technologies Ltd. Warrant,NASDAQ
 INXSF,Intouch Insight Ltd Ordinary Shares,U
 INZY,"Inozyme Pharma, Inc. Common Stock",NASDAQ
 IO,ION Geophysical Corporation,NYSE
@@ -3142,7 +3141,6 @@ KNEOF,Kneomedia Limited Ordinary Shares (Australia),U
 KNFHF,Kingfish Ltd. Ordinary Shares (New Zealand),U
 KNFSF,KIATNAKIN PHATRA BK PUB CO LTD SHS FOREIGN REGISTERED (Thailand),U
 KNG,FT Cboe Vest S&P 500 Dividend Aristocrats Target Income ETF,BATS
-KNGPF,KNM Group Bhd Ordinary Shares (Malaysia),U
 KNGS,UPHOLDINGS Compound Kings ETF,BATS
 KNGW,"Kenongwo Group US, Inc. Common Stock",U
 KNIT,Kinetic Group Inc Common Stock,U
@@ -3348,6 +3346,7 @@ KTWEF,Kintetsu World Express Inc Tokyo Ordinary Shares (Japan),U
 KTWIF,Kurita Water Inds Ltd Ordinary Shares,U
 KTWIY,Kurita Wtr Inds Ltd Unsponsored ADR (Japan),U
 KTYB,"Kentucky Bancshares, Inc. Common Stock",U
+KTYCF,KITS EYECARE LTD Common Stock,U
 KUASF,KUAISHOU TECHNOLOGY Ordinary Shares,U
 KUBTF,Kubota Corp Ordinary Shares,U
 KUBTY,Kubota Corporation,U
@@ -3359,7 +3358,6 @@ KULR,"KULR Technology Group, Inc. Common Stock",U
 KUMBF,Kumba Iron Ore Ltd Ordinary Shares (South Africa),U
 KUNUF,Kunlun Energy Company Ltd Ordinary Shares (Bermuda),U
 KURA,"Kura Oncology, Inc. Common Stock",NASDAQ
-KURCF,Kureha Corp Ordinary Shares (Japan),U
 KURE,KraneShares MSCI All China Health Care Index ETF,ARCA
 KURI,Alkuri Global Acquisition Corp. Class A common stock,NASDAQ
 KURIU,Alkuri Global Acquisition Corp. Unit,NASDAQ
@@ -4578,7 +4576,6 @@ MEGGY,Meggitt Plc Unsponsored American Depository Receipt (United Kingdom),U
 MEGH,Megalith Corp Common Stock,U
 MEGPF,Megachips Corp Osaka Ordinary Shares (Japan),U
 MEI,Methode Electronics,NYSE
-MEIJF,Meiji Electric Industries Co Ltd Nagoya Ordinary Shares (Japan),U
 MEIL,Methes Energies International Ltd.,U
 MEIP,"MEI Pharma, Inc. Common Stock",NASDAQ
 MEISF,MAEDA SEISAKUSHO CO LTD Shs (Japan),U
@@ -4896,7 +4893,7 @@ MKSI,"MKS Instruments, Inc. Common Stock",NASDAQ
 MKTAY,Makita Corp. American Depositary Shares,U
 MKTDF,Deepmarkit Corp Common Shares,U
 MKTX,"MarketAxess Holdings, Inc. Common Stock",NASDAQ
-MKTY,Mechanical Technology Incorporated Common Stock,NASDAQ
+MKTY,Mechanical Technology Incorporated Common Stock (Nevada),NASDAQ
 MKVNF,District Metals Corp Ordinary Shares,U
 MKYSF,Mark Dynamics Indonesia Tbk Pt (Indonesia),U
 MLAB,"Mesa Laboratories, Inc. Common Stock",NASDAQ
@@ -5439,3 +5436,4 @@ MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
+MTENY,Mahanagar Telephone Nigam Ltd ADS,U

@@ -842,7 +842,6 @@ AJIA,Ajia Innogroup Holdings Limited Common Stock,U
 AJINF,"Ajinomoto Company, Inc. Ordinary Shares (Japan)",U
 AJINY,"Ajinomoto Company, Inc. American Depositary Shares",U
 AJISF,Ajis Co Ltd Ordinary Shares,U
-AJLGF,AJ Lucas Group Limited Ordinary Shares,U
 AJMPF,Ashmore Group Plc Ordinary shares (United Kingdom),U
 AJOY,Ayujoy Herbals Ltd. Common Stock,U
 AJPLF,AJ Plast Public Co Ltd Ordinary Shares (Thailand),U
@@ -1387,7 +1386,6 @@ APEMY,Aperam New York Registry Shares,U
 APEN,"Apollo Endosurgery, Inc. Common Stock",NASDAQ
 APEOF,Growmax Res Corp Common Shares,U
 APEUF,Atlas Engineered Products Ltd. Common Shares,U
-APEX,APEX GLOBAL BRANDS INC Common Stock,U
 APG,APi Group Corporation,NYSE
 APGB,Apollo Strategic Growth Capital II,NYSE
 APGB U,"Apollo Strategic Growth Capital II Units, each consisting of one Class A ordinary share, and one-fif",NYSE
@@ -1848,7 +1846,7 @@ ATBYF,"Abitibi Royalties, Inc Ordinary Shares (Canada)",U
 ATC,Atotech Limited,NYSE
 ATCC,Ameritrust Corporation Common Stock,U
 ATCD,Altair Corp Delaware Common Stock,U
-ATCLF,Advance TC LTD Common Stock  (Australia),U
+ATCLF,AdvanceTC Ltd Common Stock,U
 ATCMF,Atico Mining Corp Com (Canada),U
 ATCN,Atec Inc Common Stock,U
 ATCO,Atlas Corp.,NYSE
@@ -3521,6 +3519,7 @@ BSJP,Invesco BulletShares 2025 High Yield Corporate Bond ETF,NASDAQ
 BSJQ,Invesco BulletShares 2026 High Yield Corporate Bond ETF,NASDAQ
 BSJR,Invesco BulletShares 2027 High Yield Corporate Bond ETF,NASDAQ
 BSJS,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco BulletShares 2028 High Yield Corporate Bond ETF,NASDAQ
+BSKYU,"Big Sky Growth Partners, Inc. Unit",NASDAQ
 BSKZF,Bambuser AB Common Stock (Sweden),U
 BSL,Blackstone Senior Floating Rate Term Fund,NYSE
 BSM,"Black Stone Minerals, L.P.",NYSE
@@ -3895,7 +3894,6 @@ CALT,Calliditas Therapeutics AB American Depositary Shares,NASDAQ
 CALX,"CALIX, INC.",NYSE
 CALZF,Polynovo Ltd.  Ordinary Shares,U
 CAMG,"CAM Group, Inc. Common Stock",U
-CAMJF,Canon Marketing Japapn Inc Ordinary Shares (Japan),U
 CAMLF,"Central Asia Metals Ltd, London Common Shares (United Kingdom)",U
 CAMP,CalAmp Corp. Common Stock,NASDAQ
 CAMRF,Camurus AB Ordinary Shares (Sweden),U
@@ -4501,10 +4499,7 @@ CGPVF,CGG Ordinary Shares,U
 CGPZF,C&C Group plc Ordinary Shares (Ireland),U
 CGRA,"CGrowth Capital, Inc. Common Stock",U
 CGRIF,Canadian Genl Invts Ltd Ordinary Shares,U
-CGRO,Collective Growth Corporation Class A Common Stock,NASDAQ
 CGROF,Character Group Plc Ordinary Shares (United Kingdom),U
-CGROU,Collective Growth Corporation Unit,NASDAQ
-CGROW,Collective Growth Corporation Warrant,NASDAQ
 CGRW,"Cannagrow Holdings, Inc Common Stock",U
 CGSHY,COUNTRY GARDEN SVCS HLDGS CO LTD American Depositary Receipts - Unsponsored,U
 CGSO,"Centergistic Solutions, Inc. Common Stock",U
@@ -4759,7 +4754,7 @@ CIM PRC,Chimera Investment Corporation 7.75% Series C Fixed-to-Floating Rate  Cu
 CIM PRD,Chimera Investment Corporation 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred,NYSE
 CIMDF,CIMB Group Holdings BHD Ordinary Shares (Malaysia),U
 CIMEF,CIMC Enric Holdings Ltd Ordinary Shares (Cayman Islands),U
-CIMVF,Canadian Imperial Venture Corporation Common Shares,U
+CIMVD,Ikanik Farms Inc. Common Shares,U
 CIMXP,CIMAREX ENERGY CO 8 1/8% SER A CUM PERPETUAL PFD Preferred Stock,U
 CIND,China Industrial Gp Inc Unclassified,U
 CINF,Cincinnati Financial Corporation Common Stock,NASDAQ
@@ -5055,6 +5050,7 @@ CMLFW,"CM Life Sciences, Inc. Warrant",NASDAQ
 CMLGF,"Canickel Mining, Ltd. Ordinary Shares (Canada)",U
 CMLLF,China Maple Leaf Educational Systems Ltd.  Ordinary Shares,U
 CMLS,Cumulus Media Inc. Class A Common Stock,NASDAQ
+CMLTU,CM Life Sciences III Inc. Unit,NASDAQ
 CMMB,Chemomab Therapeutics Ltd. American Depositary Share,NASDAQ
 CMMCF,Oxe Marine AB Ordinary Shares,U
 CMMMF,Comstock Metals Ltd Common Shares,U
@@ -5439,3 +5435,6 @@ CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
+CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
+CPF,Central Pacific Financial Corporation,NYSE
+CPFH,"Capital Financial Holdings, Inc. Common Stock",U

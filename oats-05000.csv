@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
-CPF,Central Pacific Financial Corporation,NYSE
-CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
@@ -2252,6 +2249,7 @@ EMSQF,Ishares IV PLC Edge MSCI USA Multifactor UCITS ETF (Ireland),U
 EMSWF,Ishares IV Plc Edge MSCI World Multifactor UCTIS Exchange Traded Fund (Ireland),U
 EMTKF,PT ELANG MAHKOTA TEKNOLOGI TBK Ordinary Shares (Indonesia),U
 EMTL,SPDR DoubleLine Emerging Markets Fixed Income ETF,BATS
+EMTRF,ELEMENT 29 RES INC Common Stock,U
 EMTY,ProShares Decline of the Retail Store ETF,ARCA
 EMX,EMX Royalty Corporation,AMEX
 EMXC,"iShares, Inc. iShares MSCI Emerging Markets ex China ETF",NASDAQ
@@ -2558,7 +2556,6 @@ ESE,"ESCO Technologies, Inc.",NYSE
 ESEA,Euroseas Ltd. Common Stock (Marshall Islands),NASDAQ
 ESEB,Xtrackers J.P. Morgan ESG Emerging Markets Sovereign ETF,BATS
 ESEFF,Easyetf Epra Eurozone Fcp Units Distribution (Luxembourg),U
-ESEIF,"E-SEIKATSU CO LTD, TOKYO SHS (Japan)",U
 ESEXF,Essex Bio-Technology Ltd Ordinary Shares (Cayman Islands),U
 ESFS,"Eco-Safe Systems USA, Inc. Common Stock",U
 ESG,FlexShares Trust FlexShares STOXX US ESG Impact Index Fund,BATS
@@ -3520,6 +3517,7 @@ FLRG,Fidelity U.S. Multifactor ETF,ARCA
 FLRN,SPDR Bloomberg Barclays Investment Grade Floating Rate ETF,ARCA
 FLRT,Pacific Global Senior Loan ETF,ARCA
 FLRU,Franklin FTSE Russia ETF,ARCA
+FLRYY,Fleury SA American Depositary Receipts - Unsponsored,U
 FLS,Flowserve Corporation,NYSE
 FLSA,Franklin FTSE Saudi Arabia ETF,ARCA
 FLSP,Franklin Liberty Systematic Style Premia ETF,ARCA
@@ -4848,7 +4846,6 @@ GMGSF,Goodman Group Sydney NSW Stapled Security (Australia),U
 GMGT,GAMING TECHNOLOGIES INC Common Stock,U
 GMHLF,Gam Holding Ag Ordinary Shares Namen AKT (Switzerland),U
 GMHLY,"Gam Holding Ag, Zuerich Unsponsored ADR (Switzerland)",U
-GMICF,SAGEN MI CDA INC Common Shares,U
 GMII,"Gores Metropoulos II, Inc. Class A Common Stock",NASDAQ
 GMIIU,"Gores Metropoulos II, Inc. Unit",NASDAQ
 GMIIW,"Gores Metropoulos II, Inc. Warrants",NASDAQ
@@ -5439,3 +5436,4 @@ GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
