@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
@@ -166,7 +165,6 @@ SISPF,SCIENCE IN SPORT PLC Shs (United Kingdom),U
 SISXF,Savaria Corporation Ordinary Shares (Canada),U
 SITC,SITE Centers Corp. Common Shares,NYSE
 SITC PRA,"SITE Centers Corp. Depositary Shares, each representing a 1/20th interest in a share of 6.375% Class",NYSE
-SITC PRK,"SITE Centers Corp. Depositary Shares, each representing a 1/20 of a share of 6.25% Class K Cumulativ",NYSE
 SITE,"SiteOne Landscape Supply, Inc.",NYSE
 SITIY,SITC International Holdings Co Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
 SITKF,Sitka Gold Corporation Ordinary Shares (Canada),U
@@ -1332,6 +1330,7 @@ STRA,"Strategic Education, Inc. Common Stock",NASDAQ
 STRB,Strasbaugh Common Stock,U
 STRE U,"Supernova Partners Acquisition Company III, Ltd. Units, each consisting of one Class A ordinary shar",NYSE
 STREF,Sthree Group Limited London Ordinary Shares (United Kingdom),U
+STRFF,Star Royalties Ltd Common Shares (Canada),U
 STRH,Star8 Corp. Common Stock,U
 STRI,"STR Holdings, Inc. Common Stock",U
 STRL,Sterling Construction Company Inc Common Stock,NASDAQ
@@ -2238,6 +2237,7 @@ TINO,Tamino Minerals Inc. Common Stock,U
 TINV,Tiga Acquisition Corp.,NYSE
 TINV U,"Tiga Acquisition Corp. Units, each consisting of one Class A ordinary share and one half of one warr",NYSE
 TINV WS,"Tiga Acquisition Corp. Warrants, each warrant exercisable for one Class A ordinary share at an exerc",NYSE
+TIOAU,Tio Tech A Units,NASDAQ
 TIOIF,Cholamandalam Financial Holdings Limited Global Depositary Shares - Sponsored,U
 TIP,iShares TIPS Bond ETF,ARCA
 TIPGF,TITAN PETROCHEMICALS GROUP LTD Common Stock,U
@@ -4242,6 +4242,7 @@ VULNF,Vulcan Energy Resources Ltd. Ordinary Shares (Australia),U
 VUME,VuMee Inc. Common Stock,U
 VUOC,Vu1 Corporation Common Stock,U
 VUPPF,Verwaltungs Unf Privat Bank Ag Vaduz Ordinary Shares (Liechtenstein),U
+VUSB,Vanguard Ultra-Short Bond ETF,BATS
 VUSE,Vident Core U.S. Equity Fund,ARCA
 VUVAF,Texton Ppty Fund Ltd. Accum Units Zar (South Africa),U
 VUZI,Vuzix Corporation Common Stock,NASDAQ

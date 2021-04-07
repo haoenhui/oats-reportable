@@ -852,12 +852,9 @@ NOW,"SERVICENOW, INC.",NYSE
 NOXL,Noxel Corp Common Stock,U
 NOXOF,Noxopharm Limited Ordinary Shares (Australia),U
 NP,"Neenah, Inc. Common Stock",NYSE
-NPA,New Providence Acquisition Corp. Class A Common Stock,NASDAQ
 NPACF,Quadient SA Ordinary Shares,U
 NPACY,Quadient S.A. American Depositary Receipts - Unsponsored,U
 NPAKF,North Pacific Bank Ltd. Ordinary Shares (Japan),U
-NPAUU,New Providence Acquisition Corp. Unit,NASDAQ
-NPAWW,New Providence Acquisition Corp. Warrant,NASDAQ
 NPCDF,"NIPPON COMMERCIAL DEVELOPEMNT CO LTD, OSAKA Ordinary Shares",U
 NPCPF,Nippon Paint HLDGS Co Ltd Ord Ordinary Shares,U
 NPCUF,Allon Therapeutics Inc Ordinary Shares (Canada),U
@@ -3095,7 +3092,6 @@ PRYMY,"Prysmian S.P.A., Milano Unsponsored ADR (Italy)",U
 PRYNF,Backstageplay Inc Common Shares,U
 PRZFF,BOUNDARY GOLD & COPPER MNG LTD Ordinary Shares,U
 PRZM,PRISM TECHNOLOGIES GROUP INC Common Stock,U
-PS,"Pluralsight, Inc. Class A Common Stock",NASDAQ
 PSA,Public Storage,NYSE
 PSA PRC,Public Storage  Depositary Shares Each Representing 1/1000 of a 5.125% Cumulative Preferred Share of,NYSE
 PSA PRD,Public Storage,NYSE
@@ -3935,6 +3931,7 @@ RDRIF,New Stratus Energy Inc Common Shares,U
 RDRUY,Neometals Ltd. American Depositary Receipts - Sponsored,U
 RDS A,Royal Dutch Shell PLC ADS Class A,NYSE
 RDS B,Royal Dutch Shell PLC ADS Class B,NYSE
+RDSKF,RED SKY ENERGY PTY LTD Ordinary Shares,U
 RDSMY,Royal DSM NV Sponsored ADR (Netherlands),U
 RDTCF,RAPID DOSE THERAPEUTICS CORP Ordinary Shares (Canada),U
 RDTMF,Red Tiger Mng Inc. Ordinary Shares (Canada),U
@@ -4475,6 +4472,7 @@ RRC,Range Resources Corp,NYSE
 RRD,RR Donnelley & Sons Co.,NYSE
 RRDMF,Royal Road Minerals Ltd Ordinary Shares (Jersey),U
 RREIF,Regal Real Estate Investment Trust Units (Hong Kong),U
+RREO,Resource Real Estate Opportunity REIT II Inc. Common Shares,U
 RRETY,Robinsons Retail Holdings Inc Unsponsored ADR (Phillipines),U
 RRGB,"Red Robin Gourmet Burgers, Inc. Common Stock",NASDAQ
 RRGI,"Reality Racing, Inc. New Common Stock",U
@@ -4517,6 +4515,7 @@ RSLS,ReShape Lifesciences Inc. Common Stock,U
 RSMDF,Resmed Inc Ordinary Shares,U
 RSNAY,RSA Insurance Group PLC Sponsored ADR,U
 RSNHF,Resona Holdings Inc Osaka Ordinary Shares (Japan),U
+RSNUF,RENASCOR RES LTD Ordinary Shares,U
 RSNVF,Reyna Silver Corp Common Shares  (Canada),U
 RSP,Invesco S&P 500 Equal Weight ETF,ARCA
 RSPI,RespireRx Pharmaceuticals Inc. Common Stock,U
@@ -4562,6 +4561,7 @@ RTNB,"root9B Holdings, Inc. Common Stock",U
 RTNTF,Rio Tinto Ltd (Nz)(Clob) Ordinary Shares,U
 RTNXF,Renalytix AI PLC ORD GBP0.0025 Reg S Ordinary Shares   United Kingdom (GB),U
 RTOBF,Ratos Ab Shs-B Ordinary Shares,U
+RTOEF,Ratio Oil Exploration Warrant 1992 Ltd Partnership Exp 10/20/2021 (Israel),U
 RTOKY,Rentokil Initial Plc (Fgn) American Depositary Shares,U
 RTON,"Right On Brands, Inc. Common Stock",U
 RTOXF,Rotork Plc Ord 5p Ordinary Shares,U
@@ -5437,3 +5437,4 @@ SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U

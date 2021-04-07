@@ -1,4 +1,9 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPER,United States Copper Index Fund,ARCA
+CPEU,"Chapeau, Inc. Common Stock",U
+CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
+CPF,Central Pacific Financial Corporation,NYSE
+CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
@@ -136,6 +141,7 @@ CREVF,Carbon Revolution Ltd Ordinary Shares (Australia),U
 CREX,"Creative Realities, Inc. Common Stock",NASDAQ
 CREXW,"Creative Realities, Inc. Warrant",NASDAQ
 CRF,"Cornerstone Total Return Fund, Inc",AMEX
+CRFCF,CARD FACTORY PLC Ordinary Shares,U
 CRFQF,Zedcor Inc. Ordinary Shares,U
 CRFTF,BC CRAFT SUPPLY CO LTD Common Shares,U
 CRFU,"Carefree Group, Inc. Common Stock New",U
@@ -764,7 +770,6 @@ CZNC,Citizens & Northern Corp Common Stock,NASDAQ
 CZNI,Cruzani Inc. Common Stock,U
 CZNL,Citizens National Corporation (KY) Common Stock,U
 CZR,"Caesars Entertainment, Inc. Common Stock",NASDAQ
-CZSVF,Green Battery Minerals Inc Ordinary Shares,U
 CZWI,"Citizens Community Bancorp, Inc. Common Stock",NASDAQ
 D,"Dominion Energy, Inc Common Stock",NYSE
 DAAT,"DAC Technologies Group International, Inc. Common Stock",U
@@ -975,7 +980,6 @@ DESP,"Despegar.com, Corp.",NYSE
 DESTQ,Destination Maternity Corp Common Stock,U
 DETNF,Aker BP Asa Ordinary Shares,U
 DETRF,DETERRA ROYALTIES LTD ORDINARY FULLY PAID (Australia),U
-DEUBF,Deutsche Beteiligungs Ag Unternehmensbeteiligungsgesell Ordinary Shares (Germany),U
 DEUIF,Deutsche Industrie Grundbesitz AG REIT Germany (DE),U
 DEUS,Xtrackers Russell US Multifactor ETF,ARCA
 DEUZF,Deutz Ag Ordinary Shares (Germany),U
@@ -1316,7 +1320,6 @@ DNIEF,Danieli & Cofficine Meccaniche Spa Buttrio Udine Shs Di Svgs Non Conv (Ita
 DNIF,Dividend and Income Fund Common Stock,U
 DNIFY,Danieli S.P.A. Unsponsored ADR (Italy),U
 DNIYY,Danieli S.P.A. Unsponsored ADR Representing 1 Risparmio Shares,U
-DNK,"Phoenix Tree Holdings Limited American Depositary Shares, each representing ten (10) Class A ordinar",NYSE
 DNKEY,Danske Bank A\/S Bearer Shs Ord American Depositary Receipts - Sponsored (Denmark),U
 DNKLY,Danakali Ltd. American Depositary Receipts - Sponsored,U
 DNL,WisdomTree Global ex-US Quality Dividend Growth Fund,ARCA
@@ -2193,6 +2196,7 @@ EMFM,Global X MSCI Next Emerging & Frontier ETF,ARCA
 EMGCQ,"Emergent Capital, Inc. Common Stock",U
 EMGE,Emergent Health Corp. Common Stock,U
 EMGF,iShares MSCI Emerging Markets Multifactor ETF,BATS
+EMHC,SPDR Bloomberg Barclays Emerging Markets USD Bond ETF,ARCA
 EMHI,East Morgan Holdings Inc  Common Stock,U
 EMHLF,EUROPEAN METALS HLDGS LTD Ordinary Shares,U
 EMHTF,EMERALD HEALTH THERAPEUTICS INC  Ordinary Shares,U
@@ -3863,7 +3867,6 @@ FRGY,Frontier Energy Corporation,U
 FRHC,Freedom Holding Corp. Common Stock,NASDAQ
 FRHHF,"Freshii, Inc. Class A Sub Vtg Ordinary Shares (Canada)",U
 FRHLF,Freehold Royalty Ltd Ordinary Shares,U
-FRHVD,"Innovative MedTech, Inc. Common Stock",U
 FRI,First Trust S&P REIT Index Fund,ARCA
 FRIIF,France M.G.I. MGI Digital Graphic Technology Ordinary Shares (France),U
 FRIVF,Fortune Real Estate Investment Trust Units (Hong Kong),U
@@ -4322,6 +4325,7 @@ GBLO,Global Beta Low Beta ETF,ARCA
 GBLP,"Global Pharmatech, Inc. Common Stock",U
 GBLTF,GBLT Corporation Common Shares,U
 GBLX,"GB Sciences, Inc. Common Stock",U
+GBMIF,Green Battery Minerals Inc Ordinary Shares,U
 GBMRF,"GBM RESOURCES LTD, NEDLANDS WA Ordinary Shares",U
 GBMS,"Global Materials & Services, Inc. Common Stock",U
 GBNH,Greenbrook TMS Inc. Common Shares,NASDAQ
@@ -5410,7 +5414,6 @@ GVA,Granite Construction Inc.,NYSE
 GVAL,Cambria Global Value ETF,BATS
 GVBT,Green Vision Biotechnology Corp. Common Stock,U
 GVCPF,Geovencap Inc. Ordinary Shares (Canada),U
-GVCXF,GVIC Communications Corporation Class C Common Shares,U
 GVDBF,Givaudan Ag Ordinary Shares,U
 GVDI,"Golden Valley Development, Inc.  NEW Common Stock",U
 GVDNY,Givaudan SA Unsponsored ADR (Switzerland),U
@@ -5422,7 +5425,6 @@ GVI,iShares Intermediate Government/Credit Bond ETF,BATS
 GVIP,Goldman Sachs Hedge Industry VIP ETF,ARCA
 GVLMF,Greenvale Mining N L  Ord Ordinary Shares,U
 GVLMY,Greenvale Mining Limited American Depositary Receipts - Unsponsored,U
-GVMUF,GVIC Communications Corp New Cl B Vtg Common shares (Canada),U
 GVP,"GSE Systems, Inc. Common Stock",NASDAQ
 GVSI,Good Vibrations Shoes Inc. Common Stock,U
 GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
@@ -5436,4 +5438,3 @@ GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U

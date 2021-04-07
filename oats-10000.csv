@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
@@ -379,7 +380,7 @@ HHKSY,DFCITY Group Berhad American Depositary Receipts - Sponsored,U
 HHLA,HH&L Acquisition Co.,NYSE
 HHLA U,"HH&L Acquisition Co. Units, each consisting of one Class A ordinary share and one-half of one redeem",NYSE
 HHLA WS,"HH&L Acquisition Co. Redeemable warrants, each warrant exercisable for one Class A ordinary share at",NYSE
-HHLKF,"HOT CHILI LTD, KALGOORLIE Ordinary Shares (Australia)",U
+HHLKF,HOT CHILI LTD SHS (Australia),U
 HHNNF,Hannans Ltd Ordinary Shares (Australia),U
 HHOLF,Herald Holdings Limited Ordinary Shares (Bermuda),U
 HHPHD,Mojave Brands Inc Ordinary Shares,U
@@ -761,7 +762,6 @@ HRSHF,HAIER SMART HOME CO LTD BEARER 06690 (China),U
 HRSPY,HERA Spa American Depositary Receipts - Unsponsored,U
 HRSR,Horrison Resources Inc. Common Stock,U
 HRST,Harvest Oil & Gas Corporation Common Stock,U
-HRSTW,Harvest Oil & Gas Corporation Warrants Expiring 06/04/2023,U
 HRTFF,Harte Gold Corp Ordinary Shares (Canada),U
 HRTG,HERITAGE INSURANCE HOLDINGS INC,NYSE
 HRTH,HARTE HANKS INC Common Stock,U
@@ -840,6 +840,7 @@ HTD,John Hancock Tax-Advantaged Dividend Income Fund,NYSE
 HTDS,"Hard to Treat Diseases, Inc. Common Stock",U
 HTEC,ROBO Global Healthcare Technology and Innovation ETF,ARCA
 HTFA,Horizon Technology Finance Corporation 6.25 Percent Notes due 2022,NYSE
+HTFB,Horizon Technology Finance Corporation 4.875% Notes due 2026,NYSE
 HTGC,"Hercules Capital, Inc.",NYSE
 HTGM,"HTG Molecular Diagnostics, Inc. Common Stock",NASDAQ
 HTH,HILLTOP HOLDINGS INC.,NYSE
@@ -1640,6 +1641,7 @@ IMSXF,iShares V PLC MSCI World Industrials USD ETF (Ireland),U
 IMTB,iShares Core 5-10 Year USD Bond ETF,ARCA
 IMTE,Integrated Media Technology Limited Ordinary Shares,NASDAQ
 IMTFF,MARVEL DISCOVERY CORP Ordinary Shares,U
+IMTH,"Innovative MedTech, Inc. Common Stock",U
 IMTL,"Image Protect, Inc Common Stock",U
 IMTM,iShares MSCI Intl Momentum Factor ETF,ARCA
 IMTO,"InterMetro Communications, Inc. Common Stock",U
@@ -1935,7 +1937,6 @@ IRCC,Indigenous Roots Corp. Common Stock,U
 IRCKF,Inter Rock Minerals Inc (Canada) Ordinary Shares,U
 IRCLF,Intercure Ltd Ordinary Shares (Israel),U
 IRCP,IRSA Propiedades Comerciales S.A. American Depositary Shares,NASDAQ
-IRCSF,Irce Industria Romagnola Conduttori Elettrici Spa Imola Bo Ordinary Shares (Italy),U
 IRCUF,Irish Continental Group Plc Units (Ireland),U
 IRCWF,IRC Ltd Hong Kong Ordinary Shares (Hong Kong),U
 IRDEF,Iren SPA Ordinary shares (Italy),U
@@ -2240,7 +2241,6 @@ IUSV,iShares Core S&P U.S. Value ETF,NASDAQ
 IUSZF,ISHARES IV PLC EDGE MSCI ETF (Ireland),U
 IUTCF,iShares S&P/TSX Global Gold Index ETF (Canada),U
 IUTIL,Ishares Ubs Treasury Index Fd Units Exchange Traded Fund,U
-IUTMF,Inui Tetemono Co Ltd Fgn Ordinary Shares,U
 IUTSF,iShares S&P/TSX 60 Index ETF (Canada),U
 IUVDF,iShares Edge MSCI USA Value Factor UCITS ETF USD Dist (Ireland),U
 IUYBF,iShares US High Yield Bond Index ETF Unit (Canada),U
@@ -3063,7 +3063,7 @@ KLDIW,KLDISCOVERY RED WT EXP 12/01/2025,U
 KLDO,"Kaleido Biosciences, Inc. Common Stock",NASDAQ
 KLDW,Knowledge Leaders Developed World ETF,ARCA
 KLEEF,Kleeman Hellas Sa Kilkis Ordinary Shares,U
-KLEG,KL Energy Corporation Common Stock,U
+KLGDF,Kalo Gold Holdings Corp. Ordinary Shares (Canada),U
 KLGG,"Klegg Electronics, Inc. Common Stock",U
 KLGSY,Kerry Logistics Network Ltd Unpsonsored ADR (Bermuda),U
 KLIB,"Killbuck Bancshares, Inc. (Ohio) Common Stock",U
@@ -3964,7 +3964,7 @@ LPL,LG Display Co. Ltd.,NYSE
 LPLA,LPL Financial Holdings Inc. Common Stock,NASDAQ
 LPMDF,Lippo Malls Indonesia Tr Units (Singapore),U
 LPPI,"LEEP, Inc. Common Stock",U
-LPPPD,LOOPSHARE LTD Ordinary Shares,U
+LPPPF,LOOPSHARE LTD Ordinary Shares,U
 LPPSY,LPP SA Unsponsored ADR (Poland),U
 LPRO,Open Lending Corporation Class A Common Stock,NASDAQ
 LPRRF,Laurent Perrier Tours-Sur-Marne Act. Shares (France),U
@@ -4226,7 +4226,9 @@ MAASF,Matas A S Ordinary Shares (Denmark),U
 MAAX,VanEck Vectors Muni Allocation ETF,BATS
 MABHF,Mortgage Advice Bureau Holdings Ltd Common Stock (United Kingdom),U
 MAC,The Macerich Company,NYSE
+MACA,Moringa Acquisition Corp Class A Ordinary Shares,NASDAQ
 MACAU,Moringa Acquisition Corp Units,NASDAQ
+MACAW,Moringa Acquisition Corp Warrant,NASDAQ
 MACC U,"Mission Advancement Corp. Units, each consisting of one share of Class A Common Stock and one-third",NYSE
 MACE,"Mace Security International, Inc. Common Stock",U
 MACK,"Merrimack Pharmaceuticals, Inc. Common Stock",NASDAQ
@@ -5336,7 +5338,6 @@ MS PRL,"Morgan Stanley Depositary Shares, each representing 1/1,000th of a share
 MSA,Mine Safety Incorporated,NYSE
 MSAAF,"M&C Saatchi PLC, London Ordinary Shares (United Kingdom)",U
 MSAC,Medicus Sciences Acquisition Corp. Class A Ordinary Share,NASDAQ
-MSACU,Medicus Sciences Acquisition Corp. Unit,NASDAQ
 MSACW,Medicus Sciences Acquisition Corp. Warrant,NASDAQ
 MSADF,"MS & AD Insurance Group Holdings, Inc. Ordinary Shares (Japan)",U
 MSADY,"MS&AD Insurance Group Holdings, Inc. Unsponsored ADR (Japan)",U

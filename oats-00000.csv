@@ -228,6 +228,7 @@ ACIO,Aptus Collared Income Opportunity ETF,BATS
 ACITF,Asian Citrus Holdings Ltd Ordinary Shares (Bermuda),U
 ACIU,AC Immune SA Common Stock,NASDAQ
 ACIW,"ACI Worldwide, Inc. Common Stock",NASDAQ
+ACJJF,Acom Co Ltd Ordinary Shares (Japan),U
 ACKAY,Arcelik A S Unsponsored ADR (Turkey),U
 ACKDF,Auckland International Airport Ltd Ordinary Shares (New Zealand),U
 ACKIT,Ackrell SPAC Partners I Co. Subunits,NASDAQ
@@ -1810,6 +1811,8 @@ ASTE,"Astec Industries, Inc. Common Stock",NASDAQ
 ASTI,ASCENT SOLAR TECHNOLOGIES INC Common Stock,U
 ASTO,Astro Communications Inc Common Stock,U
 ASTPF,ASTM SPA Ordinary Shares (Italy),U
+ASTS,"AST SpaceMobile, Inc. Class A Common Stock",NASDAQ
+ASTSW,"AST SpaceMobile, Inc. Warrant",NASDAQ
 ASTTF,Australis Oil & Gas Ltd Ordinary Shares (Australia),U
 ASTVF,Austevoll Seafood ASA Ordinary Shares (Norway),U
 ASUR,"Asure Software, Inc Common Stock",NASDAQ
@@ -2719,6 +2722,7 @@ BGOPF,Bango plc Cambridge Ordinary Shares (United Kingdom),U
 BGOUF,Bang & Olufsen B Ord Ordinary Shares,U
 BGPAF,BGP ACQUISITION CORP Warrant   05/01/2026,U
 BGPBF,BTS Group AB Ordinary Shares (Sweden),U
+BGPPF,BGP Acquisition Corp. Class A Restricted Voting Shares (Canada),U
 BGR,Blackrock Energy and Resources Trust,NYSE
 BGRDF,BRAINGRID LTD Common Shares,U
 BGRN,iShares Trust iShares Global Green Bond ETF,NASDAQ
@@ -2816,6 +2820,7 @@ BIO,"Bio-Rad Laboratories, Inc.Class A",NYSE
 BIO B,"Bio-Rad Laboratories, Inc. Class B",NYSE
 BIOAF,"Bioasis Technologies, Inc. Ordinary Shares (Canada)",U
 BIOC,"Biocept, Inc. Common Stock",NASDAQ
+BIOGF,BIOCARTIS GROUP NV Ordinary Shares,U
 BIOGY,Biogaia AB Unsponsored ADR,U
 BIOIF,"Biome Grow, Inc.  Ordinary Shares",U
 BIOL,"Biolase, Inc. Common Stock",NASDAQ
@@ -3973,6 +3978,7 @@ CAULF,Cauldron Energy Ltd Ordinary Shares (Austrailia),U
 CAUTF,"Cambria Automobiles PLC, Swindon Ordinary Shares (United Kingdom)",U
 CAVEF,"Cavotec SA, Lugano Ordinary Shares Nom",U
 CAVR,CAVU Resources Inc Common Stock,U
+CAVVF,CAVU Mining Corp Ordinary Shares (Canada),U
 CAWLF,CWC Energy Services Corp. Common Shares (Canada),U
 CAWRF,CARAWINE RES LTD Ordinary Shares,U
 CAWW,"CCA Industries, Inc. Common Stock",U
@@ -5358,7 +5364,7 @@ COMP,"Compass, Inc.",NYSE
 COMS,ComSovereign Holding Corp. Common Stock,NASDAQ
 COMSW,ComSovereign Holding Corp. Warrants,NASDAQ
 COMT,iShares U.S. ETF Trust iShares GSCI Commodity Dynamic Roll Strategy ETF,NASDAQ
-CONCD,ConectiSys Corporation Common Stock,U
+CONC,ConectiSys Corporation Common Stock,U
 CONE,CyrusOne Inc Common Stock,NASDAQ
 CONIF,"Celltrion, Inc. Ordinary Shares (South Korea)",U
 CONN,"Conn's, Inc. Common Stock",NASDAQ
@@ -5433,8 +5439,3 @@ CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
-CPER,United States Copper Index Fund,ARCA
-CPEU,"Chapeau, Inc. Common Stock",U
-CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
-CPF,Central Pacific Financial Corporation,NYSE
-CPFH,"Capital Financial Holdings, Inc. Common Stock",U
