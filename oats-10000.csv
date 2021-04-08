@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
@@ -3538,7 +3537,9 @@ LCRTF,Leucrotta Exploration Inc Ordinary Shares (Canada),U
 LCSHF,Lancashire Holdings Limited Ordinary Shares (Bermuda),U
 LCSHY,LANCASHIRE HLDGS LTD ADR (Bermuda),U
 LCTC,"Lifeloc Technologies, Inc. Common Stock",U
+LCTD,BlackRock World ex U.S. Carbon Transition Readiness ETF,ARCA
 LCTSF,Lectra Ordinary Shares (France),U
+LCTU,BlackRock U.S. Carbon Transition Readiness ETF,ARCA
 LCTX,"Lineage Cell Therapeutics, Inc.",AMEX
 LCUT,"Lifetime Brands, Inc. Common Stock",NASDAQ
 LCY,"Landcadia Holdings III, Inc. Class A Common Stock",NASDAQ
@@ -4305,6 +4306,7 @@ MAUGF,Magnetic Resources NL Ord Shs (Australia),U
 MAURF,Marui Group Co Ltd Ordinary Shares (Japan),U
 MAURY,Marui Group Co Ltd ADR (Japan),U
 MAUSY,Matsui Securities Company Ltd Tokyo Unsponsored American Depositary Receipt,U
+MAUTF,MONTAGE GOLD CORP COM (Canada),U
 MAV,Pioneer Municipal High Income Advantage Trust,NYSE
 MAVBF,Mav Beauty Brands Inc Common Shares (Canada),U
 MAWAF,MARUWA CO LTD Common Shares,U
@@ -5437,4 +5439,3 @@ MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
-MTENY,Mahanagar Telephone Nigam Ltd ADS,U

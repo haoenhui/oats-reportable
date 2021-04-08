@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
@@ -367,7 +368,6 @@ CSTI,"Costar Technologies, Inc. Common Stock",U
 CSTJ,"Creston Resources, Ltd. Common Stock",U
 CSTL,"Castle Biosciences, Inc. Common Stock",NASDAQ
 CSTM,Constellium SE Class A Ordinary shares,NYSE
-CSTMF,CST Group Ltd Ordinary Shares,U
 CSTNL,IShares VII PLC Core S&P 500 Ucits ETF (Ireland),U
 CSTPF,Arrow Expl Corp Common Shares,U
 CSTR,"CapStar Financial Holdings, Inc. Common Stock",NASDAQ
@@ -606,7 +606,6 @@ CVSY,Convergence Systems Inc Class A Common Stock,U
 CVTGF,Clairvest Group Ordinary Shares,U
 CVTTF,Coventive Technologies Ltd. Common Shares (Bermuda),U
 CVTV,China VTV LTD Common Stock,U
-CVTYF,Coventry Group Ltd Ordinary Shares (Australia),U
 CVU,"CPI Aerostructures, Inc.",AMEX
 CVUEF,CLEARVUE TECHNOLOGIES LT Ordinary Fully Paid (Australia),U
 CVV,CVD Equipment Corporation Common Stock,NASDAQ
@@ -642,7 +641,7 @@ CWLDF,CROWN RESORTS LTD Ordinary Shares,U
 CWLDY,Crown Resorts Ltd.  Unsponsored ADR (Australia),U
 CWLPF,Caldwell Partners International Inc. Common Shares (Canada),U
 CWMCF,Consolidated Woodjam Copper Corp Ordinary Shares (Canada),U
-CWMZF,Crown Mining Corp. Ordinary Shares (Canada),U
+CWMZF,US Copper Corp. Ordinary Shares,U
 CWNOF,ChineseWorldNet.com Inc. Common Shares (Caymen Islands),U
 CWNR,Crosswind Renewable Energy Corp. Common Stock,U
 CWPE,CW Petroleum Corporation Common Stock,U
@@ -2193,7 +2192,6 @@ EMEXF,Emerald Plantation Holdings Ltd Ordinary Shares (Cayman Islands),U
 EMF,Templeton Emerging Markets Fund,NYSE
 EMFGF,Fluence Corp Ltd. Ordinary Shares,U
 EMFM,Global X MSCI Next Emerging & Frontier ETF,ARCA
-EMGCQ,"Emergent Capital, Inc. Common Stock",U
 EMGE,Emergent Health Corp. Common Stock,U
 EMGF,iShares MSCI Emerging Markets Multifactor ETF,BATS
 EMHC,SPDR Bloomberg Barclays Emerging Markets USD Bond ETF,ARCA
@@ -2585,6 +2583,7 @@ ESIGF,ESI Group SA Ordinary Shares (France),U
 ESINQ,ITT EDL SVCS INC Common Stock,U
 ESIV,Essential Innovations Technology Corp.  Common Stock,U
 ESKEF,Esker Sa Lyon Ordinary Shares (France),U
+ESKNF,ESKEN LTD ORD GBP0.10 (Guernsey),U
 ESKYF,Eskay Mining Corporation Ordinary Shares 4 Month Hold (Canada),U
 ESLGF,Logistics Development Group plc Ordinary Shares,U
 ESLOF,Essilor Luxottica Ordinary Shares,U
@@ -3776,7 +3775,7 @@ FPCPF,FP Corp Ordinary Shares (Japan),U
 FPE,First Trust Preferred Securities and Income ETF,ARCA
 FPEI,First Trust Institutional Preferred Securities and Income ETF,ARCA
 FPF,FIRST TRUST INTERMEDIATE DURATION PREFERRED & INCOME FUND,NYSE
-FPFI,"Fresh Promise Foods, Inc. Common Stock",U
+FPFID,"Rogue One, Inc. Common Stock",U
 FPH,"Five Point Holdings, LLC Class A Common Shares",NYSE
 FPHAF,Faron Pharmaceuticals OY Ordinary Shares (Finland),U
 FPHHF,First Philippine Holdings Corp FPHC Ordinary Shares (Phillippines),U
@@ -4338,6 +4337,7 @@ GBOOY,"Grupo Financiero Banorte, S.A.B. De C.V Sponsored ADR (Mexico)",U
 GBOX,Greenbox POS Common Stock,NASDAQ
 GBPT,"Globe Photos, Inc.   Common Stock",U
 GBR,New Concept Energy Inc,AMEX
+GBRBF,GREAT BEAR ROYALTIES CORP CL A (Canada),U
 GBRGU,Goldenbridge Acquisition Limited Unit,NASDAQ
 GBRIF,Golden Band Resources Inc (F) Ordinary Shares,U
 GBRRF,Gabriel Resources Ltd Ordinary Shares,U
@@ -4371,7 +4371,7 @@ GCEI,"Global Clean Energy, Inc Common Stock",U
 GCFB,Granite City Food & Brewery Ltd,U
 GCFFF,Goldcliff Resource Corp Ordinary Shares,U
 GCGMF,Great Canadian Gaming Corp Ordinary Shares,U
-GCGXD,"Global Consortium, Inc. Common Stock",U
+GCGX,"Global Consortium, Inc. Common Stock",U
 GCHEF,Grupo Comercial Chedrui SAB CV Ordinary Shares Series -B- (Mexico),U
 GCHHF,Gooch & Housego PLC Ordinary Shares (United Kingdom),U
 GCHK,Greenchek Technology Inc,U
@@ -5438,3 +5438,4 @@ GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U

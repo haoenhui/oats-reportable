@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
@@ -53,7 +54,6 @@ MTRT,Metal Arts Inc Common Stock,U
 MTRX,Matrix Service Company Common Stock,NASDAQ
 MTSAF,Metsa Board Corporation SHS B (Finland),U
 MTSBF,Mitsuba Corp Common Shares,U
-MTSC,MTS Systems Corporation Common Stock,NASDAQ
 MTSEF,MATSUI SECURITIES CO LTD TOKYO SHS (Japan),U
 MTSFF,Mitsui Fudosan Co Ltd Ordinary Shares,U
 MTSFY,Mitsui Fudosan Co Ltd Unsponsored ADR (Japan),U
@@ -612,6 +612,7 @@ NICXF,Nicox Sa Eur Ord Common Shares,U
 NID,NUVEEN INTERMEDIATE DURATION MUNICIPAL TERM FUND,NYSE
 NIDB,"Northeast Indiana Bancorp, Inc. Common Stock",U
 NIE,Virtus AllianzGI Equity & Convertible Income Fund,NYSE
+NIFCF,NIFCO INC COM (Japan),U
 NIFCY,Nifco Inc Ord American Depositary Shares,U
 NIFE,Direxion Fallen Knives ETF,ARCA
 NIHK,"Video River Networks, Inc. Common Stock",U
@@ -2662,6 +2663,7 @@ PLSB,The Pulse Beverage Corporation. Common Stock,U
 PLSDF,Pulse Seismic Inc Ordinary Shares,U
 PLSE,"Pulse Biosciences, Inc Common Stock (DE)",NASDAQ
 PLSI,Phoenix Life Sciences International Ltd. Common Stock,U
+PLSNF,PLASSON LTD TEL AVIV SHS (Israel),U
 PLSQF,Plus500 Ltd. Ordinary Shares (Israel),U
 PLT,"Plantronics, Inc.",NYSE
 PLTI,"Platcom, Inc. Common Stock",U
@@ -2731,7 +2733,7 @@ PMMLY,Premium Leisure Corp Unsponsored ADR (Philippines),U
 PMMTF,Precious Metals & Mng TR TR Unit (Canada),U
 PMNXF,Perseus Mining Ltd Ordinary Shares (Austrailia),U
 PMO,Putnam Municipal Opportunities Trust,NYSE
-PMOIF,Premier Oil plc New Ordinary Shares (United Kingdom),U
+PMOIF,HARBOUR ENERGY PLC Ordinary Shares,U
 PMOZ,"PrismOne Group, Inc. Common Stock",U
 PMPG,"Premier Products Group, Inc. Common Stock",U
 PMRTY,Pop Mart International Group Limited American Depositary Receipts - Unsponsored (Cayman Islands),U
@@ -5437,4 +5439,3 @@ SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
-SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
