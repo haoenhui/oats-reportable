@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
-SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
-SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
 SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
@@ -921,7 +918,9 @@ SPSTY,Singapore Post Ltd Unsponsored ADR (Singapore),U
 SPT,"Sprout Social, Inc Class A Common Stock",NASDAQ
 SPTI,SPDR Portfolio Intermediate Term Treasury ETF,ARCA
 SPTJF,Sinopec Shanghai Petrochemical Ordinary Shares,U
+SPTK,SportsTek Acquisition Corp. Class A Common Stock,NASDAQ
 SPTKU,SportsTek Acquisition Corp. Unit,NASDAQ
+SPTKW,SportsTek Acquisition Corp. Warrant,NASDAQ
 SPTL,SPDR Portfolio Long Term Treasury ETF,ARCA
 SPTM,SPDR Portfolio S&P 1500 Composite Stock Market ETF,ARCA
 SPTN,SpartanNash Company Common Stock,NASDAQ
@@ -1027,6 +1026,7 @@ SRGHY,Shoprite Holdings Ltd Ord SPONSORED ADR,U
 SRGMF,SRG MNG INC Ordinary Shares (Canada),U
 SRGPF,"Sri Trang Agro Industry Public Co Ltd, NVDR Shares (Thailand)",U
 SRGRF,Sunpower Group Ltd. Ordinary Shares (Bermuda),U
+SRGXF,Surge Copper Corp Ordinary Shares,U
 SRGZ,Star Gold Corp. Common Stock,U
 SRHBF,Starhub Ltd Ordinary Shares (Singapore),U
 SRHBY,Starhub Ltd Unsponsored ADR (Singapore),U
@@ -1153,7 +1153,6 @@ SSMXY,Sysmex Corporation Unsponsored ADR (Japan),U
 SSNC,"SS&C Technologies Holdings, Inc. Common Stock",NASDAQ
 SSNEF,Sansin Electronics Co Ltd Ordinary Shares (Japan),U
 SSNLF,Samsung Elec Co Ltd N-Vtg Ordinary Shares,U
-SSNNF,Samsung Electronics Co Ltd Pfd Shares Non Voting,U
 SSNT,"SilverSun Technologies, Inc. Common Stock",NASDAQ
 SSO,ProShares Ultra S&P500,ARCA
 SSOF,"Sixty Six Oilfield Services, Inc. Common Stock",U
@@ -2598,6 +2597,7 @@ TPDNF,Topdanmark AS Common Shares (Denmark),U
 TPFDF,THAI PRESIDENT FOODS PUB CO LTD NVDR SHARES Depositary Receipts,U
 TPFPF,Thai President Foods Pcl Common Shares (Thailand),U
 TPGPF,TP GROUP PLC SHS (United Kingdom),U
+TPGS,TPG Pace Solutions Corp.,NYSE
 TPGTF,TPG Telecom Ltd Ordinary Shares (Australia),U
 TPGVF,Top Glove Corporation BHD Ordinary Shares (Malaysia),U
 TPGY,TPG Pace Beneficial Finance Corp.,NYSE
@@ -3031,7 +3031,9 @@ TWND,Tailwind Acquisition Corp.,NYSE
 TWND U,"Tailwind Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half",NYSE
 TWND WS,"Tailwind Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Clas",NYSE
 TWNE,"Towne Bancorp, Inc. (AZ) Common Stock",U
+TWNI,Tailwind International Acquisition Corp.,NYSE
 TWNI U,"Tailwind International Acquisition Corp. Units, each consisting of one Class A ordinary share and on",NYSE
+TWNI WS,"Tailwind International Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one",NYSE
 TWNK,"Hostess Brands, Inc. Class A Common Stock",NASDAQ
 TWNKW,"Hostess Brands, Inc. Warrants",NASDAQ
 TWNT U,"Tailwind Two Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of",NYSE
@@ -3716,6 +3718,7 @@ VDXI,VeriDetx Corp. Common Stock,U
 VEA,Vanguard FTSE Developed Markets ETF,ARCA
 VEC,"Vectrus, Inc.",NYSE
 VECO,Veeco Instruments Inc. Common Stock,NASDAQ
+VECT,VectivBio Holding AG Ordinary Shares,NASDAQ
 VEDL,Vedanta Limited  American Depostary Shares (Each representing four equity shares),NYSE
 VEEV,Veeva Systems Inc.,NYSE
 VEGA,AdvisorShares STAR Global Buy-Write ETF,ARCA
@@ -3898,13 +3901,12 @@ VKEMF,VEF LTD - SDR Depositary Receipts,U
 VKGLF,VIKING LINE AB SHS (Finland),U
 VKI,Invesco Advantage Municipal Income Trust II,AMEX
 VKIN,"Viking Energy Group, Inc. Common Stock",U
-VKMTF,Victory Metals Inc Common Shares (Canada),U
+VKMTF,NEVADA KING GOLD CORP Common Shares,U
 VKPPF,Vukile Property Fund Ltd Ordinary Shares (South Africa),U
 VKQ,Invesco Municipal Trust,NYSE
 VKSC,Viskase Companies Inc Common Stock,U
 VKSKF,VITAL KSK HLDGS INC Common Shares,U
 VKTX,"Viking Therapeutics, Inc. Common Stock",NASDAQ
-VKTXW,"Viking Therapeutics, Inc. Warrants",NASDAQ
 VKVEF,Vaneck Vectors Wells Fargo Pfd A Usd Exchange Traded Fund (Bermuda),U
 VLBI,"Valentine Beauty, Inc. NEW Common Stock",U
 VLCJF,VELOCITY MINERALS LTD Common Shares,U

@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
@@ -525,7 +522,7 @@ HLPPF,Hang Lung Properties Ltd Ordinary Shares,U
 HLPPY,Hang Lung Properties Ltd American Depositary Shares,U
 HLPXF,Hellenic Petroleum SA Sponsored GDR Reg S (Greece),U
 HLRD,Hilliard Corp Common Stock,U
-HLRTF,HILLCREST PETROLEUM LTD. Ordinary Shares,U
+HLRTF,HILLCREST ENERGY TECHNOLOGIES LTD Ordinary Shares,U
 HLSPF,HELIOSPECTRA AB  Ordinary Shares (Sweden),U
 HLSPY,Heliospectra AB Sponsored American Depository Receipt (Sweden),U
 HLSTF,HALLENSTEIN GLASSONS HOLDINGS LTD Ordinary Shares (New Zealand),U
@@ -1084,7 +1081,6 @@ IAK,iShares U.S. Insurance ETF,ARCA
 IALS,"InterActive Leisure Systems, Inc. Common Stock",U
 IAPR,Innovator MSCI EAFE Power Buffer ETF-April,ARCA
 IARE,INVENTRUST PPTYS CORP Common Stock,U
-IARSF,I A R  Systems Group AB Ordinary Shares (Sweden),U
 IART,Integra LifeSciences Holdings Corporation Common Stock,NASDAQ
 IAT,iShares U.S. Regional Banks ETF,ARCA
 IAU,iShares Gold Trust,ARCA
@@ -1934,7 +1930,7 @@ IRBS,"IR Biosciences Holdings, Inc. Common Stock",U
 IRBT,iRobot Corporation Common Stock,NASDAQ
 IRCC,Indigenous Roots Corp. Common Stock,U
 IRCKF,Inter Rock Minerals Inc (Canada) Ordinary Shares,U
-IRCLF,Intercure Ltd Ordinary Shares (Israel),U
+IRCLF,INTERCURE LTD Ordinary Shares,U
 IRCP,IRSA Propiedades Comerciales S.A. American Depositary Shares,NASDAQ
 IRCUF,Irish Continental Group Plc Units (Ireland),U
 IRCWF,IRC Ltd Hong Kong Ordinary Shares (Hong Kong),U
@@ -4478,6 +4474,7 @@ MDBS,"Master Distribution Systems, Inc. Common Stock",U
 MDC,"M.D.C. Holdings, Inc.",NYSE
 MDCA,MDC Partners Inc. CL A Subordinate Voting Shares,NASDAQ
 MDCE,Medical Care Technologies Inc. Common Stock,U
+MDCKF,"MEDICAL COLUMBUS AG, KOENIGSTEIN I.TS Ordinary Shares",U
 MDCLF,Medincell Ordinary Shares (France),U
 MDCN,Medican Enterprises Inc Common Stock,U
 MDDCF,MEDIA DO CO LTD Ordinary Shares Japan(JP ),U
@@ -5439,3 +5436,9 @@ MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
+MTENY,Mahanagar Telephone Nigam Ltd ADS,U
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
+MTFC,Minster Financial Corporation,U
+MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U

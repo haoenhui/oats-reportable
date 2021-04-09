@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPCC,"Striper Energy, Inc. Common Stock",U
+CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
@@ -419,7 +421,7 @@ CTDN,"Capital Directions, Inc. Common Stock",U
 CTDT,"Centaurus Diamond Technologies, Inc.  Common Stock",U
 CTEC,Global X Funds Global X CleanTech ETF,NASDAQ
 CTEK,"CynergisTek, Inc.",AMEX
-CTEQF,Clean TeQ Holdings Ltd Ordinary Shares,U
+CTEQF,"CLEAN TEQ HOLDINGS LTD, MELBOURNE Ordinary Shares",U
 CTEUY,Centerenergo Sponsored ADR,U
 CTFHF,Chinatrust Financial Holdings Co Ltd Ordinary Shares (Taiwan),U
 CTG,"Computer Task Group, Inc. Common Stock",NASDAQ
@@ -2668,7 +2670,6 @@ ETJ,Eaton Vance Risk - Managed Diversified Equity Income Fund,NYSE
 ETKKU,East Kans Agri-Energy LLC Unit Ltd Partnership Cl C,U
 ETKNU,East Kans Agri-Energy LLC Unit Ltd Partnership Int Cl B,U
 ETKR,"Evolution Technology Resources, Inc. Common Stock",U
-ETM,Entercom Communications,NYSE
 ETMLF,ETF Metal Securities Ltd St Helier 0% Notes 2007- Without Fixed Maturity on Silver (Jersey),U
 ETMSF,ETF Metal Securities Ltd St Helier 0% Notes 2007 - Without fixed maturity on Palladium (Jersey),U
 ETN,"Eaton Corporation, plc Ordinary Shares",NYSE
@@ -2809,7 +2810,7 @@ EVTP,"EV Transportation, Inc. Common Stock",U
 EVTZF,Evertz Technologies Ltd Common Shares (Canada),U
 EVUS,"EV Charging USA, Inc. Common Stock",U
 EVV,Eaton Vance Limited Duration Income Fund,AMEX
-EVVRF,MELODYVR GROUP PLC Ordinary Shares,U
+EVVRF,NAPSTER GROUP PLC Ordinary Shares,U
 EVVTY,Evolution Gaming Group AB ADR Unsponsored (Sweden),U
 EVVVY,Enav S P A American Depositary Receipts - Unsponsored,U
 EVX,VanEck Vectors Environmental Services ETF,ARCA
@@ -5137,7 +5138,6 @@ GRHY,"GREEN HYGIENICS, INC. Common Stock",U
 GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,NASDAQ
 GRIL,"Muscle Maker, Inc Common Stock",NASDAQ
 GRIN,Grindrod Shipping Holdings Ltd. Ordinary Shares,NASDAQ
-GRJVF,Surge Copper Corp Ordinary Shares,U
 GRKZF,Greek Organisation of Football Prognostics S.A. Opap Ordinary Shares (Greece),U
 GRLB,"GL Brands, Inc. Common Stock",U
 GRLF,"Green Leaf Innovations, Inc. Common Stock",U
@@ -5439,3 +5439,6 @@ GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
