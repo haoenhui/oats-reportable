@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
@@ -2804,7 +2802,9 @@ KAEPY,Kansai Electric Power Inc Unsponsored ADR (Japan),U
 KAHC U,"KKR Acquisition Holdings I Corp. Units, each consisting of one share of Class A Common Stock and one",NYSE
 KAHL,Kahala Corporation (Florida) New Common Stock,U
 KAI,Kadant Inc.,NYSE
+KAII,Kismet Acquisition Two Corp. Class A Ordinary Shares,NASDAQ
 KAIIU,Kismet Acquisition Two Corp. Unit,NASDAQ
+KAIIW,Kismet Acquisition Two Corp. Warrant,NASDAQ
 KAIKY,Kawasaki Kisen Kaisha Ltd American Depositary Receipts - Unsponsored,U
 KAIR,Kairos Acquisition Corp. Class A Ordinary Shares,NASDAQ
 KAIRU,Kairos Acquisition Corp. Unit,NASDAQ
@@ -2817,7 +2817,7 @@ KALA,"Kala Pharmaceuticals, Inc. Common Stock",NASDAQ
 KALG,"KAL Energy, Inc. Common Stock",U
 KALL,KraneShares MSCI All China Index ETF,ARCA
 KALO,Kallo Inc. Common Stock,U
-KALTF,Kalytera Therapeutics Inc Common Shares,U
+KALTF,CLARITAS PHARMACEUTICALS INC Common Shares,U
 KALU,Kaiser Aluminum Corporation Common Stock,NASDAQ
 KALV,"KalVista Pharmaceuticals, Inc. Common Stock",NASDAQ
 KALY,"Kali, Inc. Common Stock",U
@@ -2998,7 +2998,9 @@ KIDS,OrthoPediatrics Corp. Common Stock,NASDAQ
 KIE,SPDR S&P Insurance ETF,ARCA
 KIERF,Kier Group Plc Ordinary Shares United Kingdom(GB ),U
 KIGRY,KION GROUP AG Unsponsored ADR (Germany),U
+KIII,Kismet Acquisition Three Corp. Class A Ordinary Shares,NASDAQ
 KIIIU,Kismet Acquisition Three Corp. Unit,NASDAQ
+KIIIW,Kismet Acquisition Three Corp. Warrant,NASDAQ
 KIKOF,Kikkoman Corp Ordinary Shares,U
 KIKOY,Kikkoman Corp Unsponsored ADR (Japan),U
 KIM,Kimco Realty Corp.,NYSE
@@ -3232,6 +3234,7 @@ KRDXF,Kardex Ag Zuerich Ordinary Shares,U
 KRE,SPDR S&P Regional Banking ETF,ARCA
 KRED,KonaRed Corporation. NEW Common Stock,U
 KREF,KKR Real Estate Finance Trust Inc.,NYSE
+KREFP,KKR Real Estate Financial Trust Inc Cum Red Preferred Series A,U
 KREVF,Keppel REIT Unit REIT  (Singapore),U
 KRFG,King Resources Inc. Common Stock,U
 KRG,Kite Realty Group Trust,NYSE
@@ -3266,6 +3269,7 @@ KRRGF,Karora Resources Inc. Common Shares,U
 KRRTF,Korres SA Natural Products Regular Shares (Greece),U
 KRRYF,KERRY LOGISTICS NETWORK LTD Ordinary Shares HK$ (Bermuda),U
 KRSOF,KARSAN OTOMOTIV SANAYII VE TICARET AS Ordinary Shares,U
+KRT,Karat Packaging Inc. Common Stock,NASDAQ
 KRTX,"Karuna Therapeutics, Inc. Common Stock",NASDAQ
 KRUS,"Kura Sushi USA, Inc. Class A Common Stock",NASDAQ
 KRYAF,Kerry Group Plc Ordinary Shares A (Ireland),U
@@ -4650,7 +4654,6 @@ MFOYY,MegaFon PJSC Global Depositary Receipts - Sponsored,U
 MFPBF,MFEC PUB CO LTD NVDR SHARES Depositary Receipts,U
 MFRVF,Minera Frisco SaB CV Ordinary Shares- Class A (Mexico),U
 MFST,Medifirst Solutions Inc Common Stock,U
-MFT,BLACKROCK MUNIYIELD INVESTMENT QUALITY FUND,NYSE
 MFUS,PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF,ARCA
 MFV,MFS SPECIAL VALUE TRUST,NYSE
 MG,Mistras Group Inc.,NYSE
@@ -4840,7 +4843,7 @@ MITT PRC,"AG Mortgage Investment Trust, Inc. 8.00% Series C Fixed-to-Floating Ra
 MITUF,Mitsui Chemicals Inc Ordinary Shares,U
 MITUY,Mitsui Chemicals Inc Unsponsored ADR (Japan),U
 MIUFF,Mitsubishi UFJ Lease & Finance Co Ltd Ordinary shares (Japan),U
-MIUFY,Mitsubishi UFJ Lease & Finance Co Ltd Unsponsored ADR (Japan),U
+MIUFY,Mitsubishi HC Capital Inc American Depositary Receipts - Unsponsored,U
 MIURF,Miura Co Ltd Ordinary Shares (Japan),U
 MIXIF,"Mixi Inc., Tokyo Ordinary Shares (Japan)",U
 MIXT,MIX TELEMATICS LIMITED,NYSE

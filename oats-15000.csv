@@ -162,7 +162,6 @@ MXMG,"Maxima Group, Inc. Common Stock",U
 MXMSF,"Maxim Resources, Ltd. Ordinary Shares (Canada)",U
 MXMTY,Maxcom Telecomunicaciones S.A.B. de C.V. American Depositary Receipts - Sponsored,U
 MXROF,Max Resource Corp. Common Shares,U
-MXRSF,"Coin Hodl, Inc. Common Shares",U
 MXSG,MEXUS GOLD US Common Stock,U
 MXSPF,MONDO TV SPA MILANO SHS (Italy),U
 MXTLF,Metalex Ventures Ltd New Ordinary Shares (Canada),U
@@ -743,7 +742,6 @@ NMTLF,New Age Metals Inc. Ordinary Shares,U
 NMTR,"9 Meters Biopharma, Inc. Common Stock",NASDAQ
 NMTT,NIMTECH CORP  Common Stock,U
 NMXS,"Net Medical Xpress Solutions, Inc. Common Stock",U
-NMY,Nuveen Maryland Quality Municipal Income Fund,NYSE
 NMYSF,"Namsys, Inc. Ordinary Shares (Canada)",U
 NMZ,Nuveen Municipal High Income Opportunity Fund,NYSE
 NNA,Navios Maritime Acquisition Corporation,NYSE
@@ -786,7 +784,7 @@ NNVUF,NANOVEU LTD Ordinary Shares,U
 NNWWF,"The North West Company, Inc Var Vtg & Com Vtg Sh (Canada)",U
 NNXPF,Nanoxplore Inc Ordinary Shares (Canada),U
 NNXXY,Nexity SA American Depositary Receipts - Unsponsored (France),U
-NNY,Nuveen NY Municipal Value,NYSE
+NNY,Nuveen New York Municipal Value Fund,NYSE
 NNYAF,Nanya Technology Corp Ordinary Shares (Taiwan),U
 NNYR,Northamerican Energy Group Corporation New Common Stock,U
 NOA,North American Construction Group Ltd.,NYSE
@@ -977,6 +975,7 @@ NSBK,Northern Star Financial Inc. Common Stock,U
 NSC,Norfolk Southern Corp.,NYSE
 NSCIF,Nanalysis Scientific Corp Common Shares (Canada),U
 NSEC,"National Security Group, Inc. Common Stock",NASDAQ
+NSEIF,Nippon Seiki Co Ltd Ordinary Shares (Japan),U
 NSEO,NS8 Corporation Common Stock,U
 NSFDF,NXT Energy Solutions Inc. Ordinary Shares (Canada),U
 NSFMF,NISSHIN SEIFUN GROUP INC  Ltd Ordinary Shares  Japan(JP ),U
@@ -1189,7 +1188,9 @@ NVR,"NVR, Inc.",NYSE
 NVRO,NEVRO CORP.,NYSE
 NVRVF,Novra Technologies Inc Ordinary Shares (Canada),U
 NVS,Novartis AG,NYSE
+NVSA,New Vista Acquisition Corp Class A Ordinary Shares,NASDAQ
 NVSAU,New Vista Acquisition Corp Unit,NASDAQ
+NVSAW,New Vista Acquisition Corp. Warrant,NASDAQ
 NVSEF,Novartis AS Basel Namen AKT (Switzerland),U
 NVSGF,Nevada Sunrise Gold Corp. Ordinary Shares (Common Shares),U
 NVST,"Envista Holdings Corporation Common stock, $0.01 par value per share",NYSE
@@ -1341,7 +1342,6 @@ NYOM,NYC on the Move Inc Common Stock,U
 NYRSY,"Nyrstar NV, Bruxelles American Depositary Receipts - Unsponsored",U
 NYT,New York Times Co.,NYSE
 NYUKF,Nippon Yusen Kabushiki Kaisha Ordinary Shares,U
-NYV,Nuveen New York Municipal Value Fund 2,NYSE
 NYVA,Nyvatex Oil Corp Common Stock,U
 NYWKF,NTG Clarity Networks Inc Ordinary Shares,U
 NYXFF,NYXOAH S A  Ordinary Shares,U
@@ -2712,8 +2712,10 @@ PMEHF,Primeline Energy Holdings Inc Ordinary Shares,U
 PMF,PIMCO MUNICIPAL INCOME FUND COMMON SHARES OF BENEFICIAL INTERST,NYSE
 PMFIF,PIMCO ETFS PLC Exchange Traded Fund,U
 PMFXF,PIMCO ETFS PLC Exchange Traded Fund,U
+PMGM,Priveterra Acquisition Corp. Class A Common Stock,NASDAQ
 PMGMF,PLAY MAGNUS AS Ordinary Shares (Norway),U
 PMGMU,Priveterra Acquisition Corp. Units,NASDAQ
+PMGMW,Priveterra Acquisition Corp. Warrant,NASDAQ
 PMGYF,Perpetual Energy Inc. Common Shares,U
 PMHG,Prime Meridian Holding Co Common Shares,U
 PMIR,"PMI Group, Inc. (The) Com New",U
@@ -3876,7 +3878,7 @@ RCMGF,RUICHENG CHINA MEDIA GROUP LTD Ordinary Shares,U
 RCMH,"Reach Messaging Holdings, Inc. Common Stock",U
 RCMT,"RCM Technologies, Inc. Common Stock",NASDAQ
 RCMW,"RCMW Group, Inc. Common Stock",U
-RCON,"Recon Technology, Ltd. Ordinary Shares",NASDAQ
+RCON,"Recon Technology, Ltd. Class A Ordinary Shares",NASDAQ
 RCPHF,RECIPHARM AB SHS -B- (Sweden),U
 RCPIQ,"Rock Creek Pharmaceuticals, Inc. Common Stock",U
 RCPUF,RECIPE UNLIMITED CORP Common Shares  Canada(CA ),U
@@ -5441,3 +5443,5 @@ SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
+SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
+SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U

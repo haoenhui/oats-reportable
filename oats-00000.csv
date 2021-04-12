@@ -966,6 +966,7 @@ ALKHF,Alaska Hydro Corp. Ordinary Shares (Canada),U
 ALKM,"Alkame Holdings, Inc. Common Stock",U
 ALKN,"Alkane, Inc. Common Stock",U
 ALKS,Alkermes plc Ordinary Shares,NASDAQ
+ALKT,"Alkami Technology, Inc. Common Stock",NASDAQ
 ALL,The Allstate Corporation,NYSE
 ALL PRB,The Allstate Corporation 5.100%  Fixed-To-Floating Rate Subordinated Debentures due 2053,NYSE
 ALL PRG,"The Allstate Corporation Depositary Shares each representing a 1/1,000th interest in a share of Fixe",NYSE
@@ -1035,7 +1036,6 @@ ALTB,Alpine Auto Brokers Inc Common Stock,U
 ALTD,"Altitude International, Inc. Common Stock",U
 ALTG,Alta Equipment Group Inc.,NYSE
 ALTG PRA,Alta Equipment Group Inc. Depositary Shares (each representing 1/1000th in a share of 10% Series A C,NYSE
-ALTG WS,"Alta Equipment Group Inc. Warrants, each whole warrant exercisable for one share of Common Stock, ea",NYSE
 ALTGF,Altagas Ltd Preference Shares  Series C Canada (CA),U
 ALTHF,Altech Chemicals Ltd. Ordinary Shares (Australia),U
 ALTL,Pacer Lunt Large Cap Alternator ETF,ARCA
@@ -1781,8 +1781,10 @@ ASOMF,ASOS Plc Ordinary Shares (United Kingdom),U
 ASOMY,ASOS Plc Unsponsored ADR (United Kingdom),U
 ASOZF,Asseco Poland S.A. Ordinary Shares (Poland),U
 ASOZY,Asseco Poland S.A. Sponsored ADR (Poland),U
+ASPC,Alpha Capital Acquisition Company One Class A Ordinary Share,NASDAQ
 ASPCF,ACERUS PHARMACEUTICALS CORP Common Shares,U
 ASPCU,Alpha Capital Acquisition Company Unit,NASDAQ
+ASPCW,Alpha Capital Acquisition Company Warrant,NASDAQ
 ASPD,"ASPEN DIGITAL, INC. DIGITAL TOKEN REPSTG COM Other",U
 ASPGF,ASPIRE GLOBAL PLC GBP 0.0025 Ordinary Shares (Malta),U
 ASPHF,ASCENTAGE PHARMA GROUP INTL HKD SHS (Cayman Islands),U
@@ -1956,6 +1958,7 @@ ATRRF,Altarea Paris Ordinary Shares (France),U
 ATRS,"Antares Pharma, Inc. Common Stock",NASDAQ
 ATRTF,ALTAREIT ORD (France),U
 ATRVF,Activa Resources AG Ordinary Shares After Cap Reduction (Germany),U
+ATRWF,Altius Renewable Royalties Corp Ordinary Shares (Canada),U
 ATRX,Adhera Therapeutics Inc Common Stock,U
 ATSAF,Ats Automated Tooling Ordinary Shares,U
 ATSG,"Air Transport Services Group, Inc",NASDAQ
@@ -2209,7 +2212,7 @@ AXLX,"Axiologix, Inc. Common Stock",U
 AXMIF,"AXMIN, Inc. Ordinary Shares (Canada)",U
 AXMP,"AXM Pharma, Inc. Common Stock",U
 AXNVF,Axion Ventures Inc. Ordinary Shares (Canada),U
-AXNX,"Axonics Modulation Technologies, Inc. Common Stock",NASDAQ
+AXNX,"Axonics, Inc. Common Stock",NASDAQ
 AXON,"Axon Enterprise, Inc. Common Stock",NASDAQ
 AXP,American Express Company,NYSE
 AXPRF,Amseco Expl Ltd Ordinary Shares,U
@@ -2398,7 +2401,6 @@ BBDO,"Banco Bradesco S.A. American Depositary Shares (Each representing one  Com
 BBEDF,Beter Bed Holding NV Uden Ordinary Shares (Netherlands),U
 BBEDY,BETER BED HLDG NV American Depositary Receipts - Unsponsored (Netherlands),U
 BBEU,JPMorgan BetaBuilders Europe ETF,BATS
-BBF,BlackRock Municipal Income Investment Trust,NYSE
 BBGI,"Beasley Broadcast Group, Inc. Class A Common Stock",NASDAQ
 BBH,VanEck Vectors Biotech ETF,NASDAQ
 BBI,"Brickell Biotech, Inc. Common Stock",NASDAQ
@@ -2690,7 +2692,6 @@ BFTI,"Befut Global, Inc. Common Stock",U
 BFTL,Bank Fincastle Va Common,U
 BFTR,BlackRock Future Innovators ETF,ARCA
 BFWWF,Burger Fuel Worldwide Ltd. Shs (New Zealand),U
-BFY,BlackRock New York Municipal Income Trust II,NYSE
 BFZ,BLACKROCK CA MUNICIPAL INC TR,NYSE
 BG,Bunge Limited,NYSE
 BGACF,BIONEUTRA GLOBAL CORP Common Shares,U
@@ -3499,11 +3500,9 @@ BSCR,Invesco BulletShares 2027 Corporate Bond ETF,NASDAQ
 BSCS,Invesco BulletShares 2028 Corporate Bond ETF,NASDAQ
 BSCT,Invesco BulletShares 2029 Corporate Bond ETF,NASDAQ
 BSCU,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco BulletShares 2030 Corporate Bond ETF,NASDAQ
-BSD,The BlackRock Strategic Municipal Trust,NYSE
 BSDE,Invesco BulletShares 2024 USD Emerging Markets Debt ETF,NASDAQ
 BSDGF,Bosideng International Holdings Limited Ordinary shares (Cayman Islands),U
 BSDGY,Bosideng International Holdings Limited Unsponsored ADR (Cayman Islands),U
-BSE,BLACKROCK NEW YORK MUNICIPAL INCOME QUALITY TRUST,NYSE
 BSEAF,Braemar Shipping Services PLC  Ordinary Shares,U
 BSEFF,"Benesse Holdings, Inc. Ordinary Shares (Japan)",U
 BSEFY,"Benesse Holdings, Inc. Unsponsored ADR (Japan)",U
@@ -4449,7 +4448,9 @@ CFSU,"Complete Financial Solutions, Inc. Common Stock",U
 CFTLF,Chinasoft International Ltd Ordinary Shares (Cayman Islands),U
 CFTN,Clifton Mining Co Common Stock,U
 CFV,CF Acquisition Corp. V Class A Common Stock,NASDAQ
+CFVI,CF Acquisition Corp. VI Class A Common Stock,NASDAQ
 CFVIU,CF Acquisition Corp. VI Unit,NASDAQ
+CFVIW,CF Acquisition Corp. VI Warrant,NASDAQ
 CFWFF,Calfrac Well Services Ltd Common Shares,U
 CFX,Colfax Corporation,NYSE
 CFXA,Colfax Corporation 5.75% Tangible Equity Units,NYSE
@@ -4757,6 +4758,7 @@ CIIX,Chineseinvestors.com Inc Common Stock,U
 CIK,Credit Suisse Asset Management Income Fund Inc.,AMEX
 CIL,VictoryShares International Volatility Wtd ETF,NASDAQ
 CILJF,China Life Ins Co Ltd Shares H (China),U
+CILLF,Capital Limited Ordinary Shares (Bermuda),U
 CILZ,Carolina Mills Inc Common Stock,U
 CIM,Chimera Investment Corp.,NYSE
 CIM PRA,Chimera Investment Corporation 8.00% Series A Cumulative Redeemable Preferred Stock,NYSE
@@ -5442,3 +5444,5 @@ CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
+CPCC,"Striper Energy, Inc. Common Stock",U
+CPE,Callon Petroleum Company,NYSE

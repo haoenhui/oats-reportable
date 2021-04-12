@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPCC,"Striper Energy, Inc. Common Stock",U
-CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
@@ -2951,7 +2949,9 @@ F PRC,"Ford Motor Company 6.000% Notes due December 1, 2059",NYSE
 FAAR,First Trust Exchange-Traded Fund VII First Trust Alternative Absolute Return Strategy ETF,NASDAQ
 FAB,First Trust Multi Cap Value AlphaDEX Fund,NASDAQ
 FABP,Farmers Bancorp (The) (IN) Common Stock,U
+FACA,Figure Acquisition Corp. I,NYSE
 FACA U,"Figure Acquisition Corp. I Units, each consisting of one share of Class A common stock and one-fourt",NYSE
+FACA WS,"Figure Acquisition Corp. I Redeemable warrants, each whole warrant exercisable for one share of Clas",NYSE
 FACCF,First Asset Cambridge Core CDN Equity ETF Unit (Canada),U
 FACO,First Acceptance Corp. Common Stock,U
 FACT U,"Freedom Acquisition I Corp. Units, each consisting of one Class A ordinary share and one-fourth of o",NYSE
@@ -3982,7 +3982,9 @@ FSRPF,Frasers Ppty Ltd Ordinary Shares,U
 FSRV,FinServ Acquisition Corp. Class A Common Stock,NASDAQ
 FSRVU,FinServ Acquisition Corp. Unit,NASDAQ
 FSRVW,FinServ Acquisition Corp. Warrant,NASDAQ
+FSRX,FinServ Acquisition Corp. II Class A Common Stock,NASDAQ
 FSRXU,FinServ Acquisition Corp. II Unit,NASDAQ
+FSRXW,FinServ Acquisition Corp. II Warrant,NASDAQ
 FSS,Federal Signal Corp.,NYSE
 FSSI,Fortistar Sustainable Solutions Corp. Class A Common Stock,NASDAQ
 FSSIU,Fortistar Sustainable Solutions Corp. Unit,NASDAQ
@@ -5442,3 +5444,5 @@ GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U

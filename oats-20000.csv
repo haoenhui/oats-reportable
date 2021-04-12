@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
-SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
 SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
 SHLDQ,Sears Holdings Corporation Common Stock,U
 SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
@@ -509,6 +507,7 @@ SMTS,Sierra Metals Inc. Common Stock,AMEX
 SMTUF,Sumitomo Rubber Industries Ltd Ordinary Shares,U
 SMTYF,SAMTY RESIDENTIAL INVT CORP SHS (Japan),U
 SMUPF,Sims Metal Management Ltd Ordinary Shares (Australia),U
+SMURF,"Coin Hodl, Inc. Common Shares",U
 SMUUY,Siam Commercial Bank Public Co Ltd Unsponsored ADR (Thailand),U
 SMVE,"Smart Move, Inc. Common Stock",U
 SMVI,Social Media Ventures Inc Common Stock,U
@@ -812,7 +811,9 @@ SPGHF,SINO PROSPER GROUP HLDGS LTD Ordinary Shares,U
 SPGI,S&P Global Inc.,NYSE
 SPGM,SPDR Portfolio MSCI Global Stock Market ETF,ARCA
 SPGP,Invesco S&P 500 GARP ETF,ARCA
+SPGS,"Simon Property Group Acquisition Holdings, Inc.",NYSE
 SPGS U,"Simon Property Group Acquisition Holdings, Inc. Units, each consisting of one share of Class A commo",NYSE
+SPGS WS,"Simon Property Group Acquisition Holdings, Inc. Warrants, each exercisable for one Class A common st",NYSE
 SPGX,Sustainable Projects Group Inc. Common Stock,U
 SPGYF,"Whitecap Resources, Inc. Common shares (Canada)",U
 SPGZ,Spectrum Group International Inc. Common Stock,U
@@ -1532,7 +1533,6 @@ SVTLQ,"SiVault Systems, Inc. Common Stock",U
 SVTMF,SM Investments Corporation Ordinary Shares (Phillippines),U
 SVTPF,S VENTURES PLC Ordinary Shares,U
 SVTRF,Severn Trent Plc Ordinary Shares,U
-SVUFF,Sun International Ltd Ordinary Shares (South Africa),U
 SVVB,Savi Financial Corporation Common Stock,U
 SVVC,"Firsthand Technology Value Fund, Inc. Common Stock",NASDAQ
 SVXA,"Sovereign Exploration Associates International, Inc. Common Stock",U
@@ -2722,6 +2722,7 @@ TRNO,Terreno Realty Corporation,NYSE
 TRNPF,TRANSALTA CORP 1ST PFD SER G 5.3% (Canada),U
 TRNS,"Transcat, Inc. Common Stock",NASDAQ
 TRNX,TARONIS TECHNOLOGIES INC Common Stock,U
+TRNY U,"Trinity Acquisition Corporation Units, each consisting of one Class A ordinary share, and one third",NYSE
 TROG,Triumph Oil & Gas Common Stock,U
 TROIF,Tri Origin Exp Ltd Ordinary Shares,U
 TROLB,"Tootsie Roll Industries, Inc. Class B Common Stock",U
@@ -3908,6 +3909,7 @@ VKSC,Viskase Companies Inc Common Stock,U
 VKSKF,VITAL KSK HLDGS INC Common Shares,U
 VKTX,"Viking Therapeutics, Inc. Common Stock",NASDAQ
 VKVEF,Vaneck Vectors Wells Fargo Pfd A Usd Exchange Traded Fund (Bermuda),U
+VLATU,Valor Latitude Acquisition Corp. Unit,NASDAQ
 VLBI,"Valentine Beauty, Inc. NEW Common Stock",U
 VLCJF,VELOCITY MINERALS LTD Common Shares,U
 VLCNF,VOLCAN COMPANIA MINERA SA VOLCAN LIMA PFD SHS -B  Preference Shares,U
@@ -4460,7 +4462,7 @@ WFC PRR,"WELLS FARGO & COMPANY Depositary Shares, each representing a 1/1,000th 
 WFC PRX,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cu",NYSE
 WFC PRY,Wells Fargo & Company,NYSE
 WFC PRZ,"Wells Fargo & Company Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cu",NYSE
-WFCF,"Where Food Comes From, Inc. Common Stock",U
+WFCF,"Where Food Comes From, Inc. Common Stock",NASDAQ
 WFCL,1867 Westn Finl Corp Common Stock (United States),U
 WFCNP,Wells Fargo & Company Dividend Equalization Preferred Stock,U
 WFG,West Fraser Timber Co. Ltd,NYSE
@@ -5003,6 +5005,7 @@ XNYIF,Xinyi Solar Holdings Limited Ordinary Shares (Cayman Islands),U
 XOG,"Extraction Oil & Gas, Inc. Common Stock",NASDAQ
 XOM,Exxon Mobil Corporation,NYSE
 XOMA,XOMA Corporation Common Stock,NASDAQ
+XOMAO,XOMA Corporation Depositary Shares Rep Series B 8.375% Cumulative Preferred Stock,NASDAQ
 XOMAP,XOMA Corporation 8.625% Series A Cumulative Perpetual Preferred Stock,NASDAQ
 XONE,The ExOne Company Common Stock,NASDAQ
 XOP,SPDR S&P Oil & Gas Exploration & Production ETF,ARCA
@@ -5272,6 +5275,7 @@ ZCMD,Zhongchao Inc. Class A Ordinary Shares,NASDAQ
 ZCOM,"Impreso, Inc. Common Stock",U
 ZCPRF,Zinccorp Res Inc Common shares (Canada),U
 ZCRMF,Zincore Metals Inc Common Shares,U
+ZCTSF,Zacatecas Silver Corp Common Shares (Canada),U
 ZDAOF,Zhidao International Holdings Ltd,U
 ZDEC,Zenovia Digital Exchange Corporation Common Stock,U
 ZDEXF,"Sintana Energy, Inc.  Ordinary Shares",U
