@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
@@ -138,6 +137,7 @@ MWK,"Mohawk Group Holdings, Inc. Common Stock",NASDAQ
 MWSNF,Mawson Gold Ltd Common Shares,U
 MWTCF,Manila Water Company Inc Ordinary Shares (Phillippines),U
 MWTCY,Manila Water Company Inc Unsponsored ADR (Phillippines),U
+MWTRF,MELTWATER HLDG B V (Netherlands),U
 MWWC,Marketing Worldwide Corporation Common Stock,U
 MWXRD,Mineworx Technologies Ltd. Ordinary Shares,U
 MX,Magnachip Semiconductor Corp.,NYSE
@@ -616,6 +616,7 @@ NIKLF,Nickel Rock Resources Inc. Ordinary Shares,U
 NILA,Nilam Resources Inc. Common Stock,U
 NILSY,MMC Norilsk Nickel PJSC American Depositary Receipts - Sponsored,U
 NIM,Nuveen Select Maturities Municipal Fund,NYSE
+NIMMU,NISOURCE INC CORP UNIT,U
 NIMU,"Non-Invasive Monitoring Systems, Inc. Common Stock",U
 NINE,"Nine Energy Service, Inc.",NYSE
 NINK,Nami Corp. Common Stock,U
@@ -2548,7 +2549,6 @@ PIPP,Pine Island Acquisition Corp.,NYSE
 PIPP U,"Pine Island Acquisition Corp. Units, each consisting of one share of Class A common stock and one-th",NYSE
 PIPP WS,"Pine Island Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one share of C",NYSE
 PIPR,Piper Sandler Companies,NYSE
-PIRGF,Premier Gold Mines Ltd Common Shares (Canada),U
 PIRS,"Pieris Pharmaceuticals, Inc. Common Stock",NASDAQ
 PITAF,Poste Italiane SPAQ Azioni Ordinaire Senza Valore (Italy),U
 PITPF,Pt Indocement Tunggal Prakasa Ordinary Shares,U
@@ -2659,7 +2659,7 @@ PLSB,The Pulse Beverage Corporation. Common Stock,U
 PLSDF,Pulse Seismic Inc Ordinary Shares,U
 PLSE,"Pulse Biosciences, Inc Common Stock (DE)",NASDAQ
 PLSI,Phoenix Life Sciences International Ltd. Common Stock,U
-PLSNF,PLASSON LTD TEL AVIV SHS (Israel),U
+PLSNF,PLASSON INDS LTD SHS Ordinary Shares,U
 PLSQF,Plus500 Ltd. Ordinary Shares (Israel),U
 PLT,"Plantronics, Inc.",NYSE
 PLTI,"Platcom, Inc. Common Stock",U
@@ -2859,7 +2859,7 @@ POWRU,Powered Brands Units,NASDAQ
 POWRW,Powered Brands Warrants,NASDAQ
 POWW,"AMMO, Inc. Common Stock",NASDAQ
 POYN,"Po Yuen Cultural Holdings (Hong Kong) Co., Ltd. Common Stock",U
-POYYF,"Polymetal International PLC, St Helier Ordinary Shares (Jersey)",U
+POYYF,Polymetal International PLC Ordinary Shares,U
 PPA,Invesco Aerospace & Defense ETF,ARCA
 PPAAF,PT Perusahaan Gas Negara Persaro Tbk Ordinary Shares (Indonesia),U
 PPAAY,PT Perusahaan Gas Negara Persaro Tbk Unsponsored ADR (Indonesia),U
@@ -3962,6 +3962,7 @@ RECOF,Reconstruction Capital II Limited Ordinary Shares (Cayman Islands),U
 RECS,Columbia Research Enhanced Core ETF,ARCA
 REDFY,Rediff.com India Limited American Depositary Shares - Sponsored,U
 REDIF,"Redhill Biopharma Ltd, Ramat Gan Ordinary Shares (Israel)",U
+REDLF,RED 5 LTD ORDINARY FULLY PAID (Australia),U
 REDU,RISE Education Cayman Ltd American Depositary Shares,NASDAQ
 REDW,Redwood Financial Inc Common Stock,U
 REECF,Reece Ltd Ordinary Shares,U
@@ -5445,3 +5446,5 @@ SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
+SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
+SHLDQ,Sears Holdings Corporation Common Stock,U

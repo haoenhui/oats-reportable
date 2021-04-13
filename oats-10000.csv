@@ -4561,6 +4561,7 @@ MDYV,SPDR S&P 400 Mid Cap Value ETF (based on S&P MidCap 400 Value Index--symbol
 MEAR,BlackRock Short Maturity Municipal Bond ETF,BATS
 MEBUF,Mebuki Financial Group Inc Ordinary Shares (Japan),U
 MEC,"Mayville Engineering Company, Inc.",NYSE
+MECGF,MEC CO LTD AMAGASAKI SHS (Japan),U
 MECNY,MENICON CO LTD American Depositary Receipts - Unsponsored,U
 MECVF,MDF Commerce Inc Ordinary Shares,U
 MED,"Medifast, Inc.",NYSE
@@ -4885,6 +4886,7 @@ MKKGY,"Merck KGaA, Darmstadt, Germany American Depositary Receipts - Sponsored",
 MKKOF,Marimekko Oy Ordinary Shares (Finland),U
 MKL,Markel Corporation,NYSE
 MKLNF,M1 KLINIKEN AG O N (Germany Federal Republic),U
+MKMIF,MURAKAMI CORP SHS (Japan),U
 MKMLF,Makino Milling Ordinary Shares,U
 MKNGF,MKANGO RES LTD Common Shares,U
 MKOEF,Meiko Electronics Co Ltd Ayase SHS (Japan),U
@@ -4934,7 +4936,6 @@ MLN,VanEck Vectors Long Muni ETF,BATS
 MLND,"Millendo Therapeutics, Inc. Common Stock",NASDAQ
 MLNHF,Midland Holdings Ltd Ordinary Shares (Hong Kong),U
 MLNLF,Millennial Lithium Corp. Common Shares,U
-MLOOF,Molopo Energy Ltd Ordinary Shares,U
 MLORF,Montello Resources Ltd Ordinary Shares (Canada),U
 MLP,Maui Land & Pineapple Co.,NYSE
 MLPA,Global X MLP ETF,ARCA
@@ -5184,6 +5185,7 @@ MOVE,Movano Inc. Common Stock,NASDAQ
 MOVYY,Movida Participacoes SA Sponsored ADR (Brazil),U
 MOXC,"Moxian, Inc. Common Stock",NASDAQ
 MOYFF,Mynaric AG Ordinary Shares (Germany),U
+MOZBF,MOSAIC BRANDS LTD ORDINARY FULLY PAID (Australia),U
 MP,MP Materials Corp.,NYSE
 MP WS,"MP Materials Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at",NYSE
 MPA,BLACKROCK MUNIYIELD PENNSYLVANIA QUALITY FUND,NYSE
@@ -5445,3 +5447,4 @@ MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
+MTG,MGIC Investment Corp.,NYSE

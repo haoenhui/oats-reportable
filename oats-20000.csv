@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
-SHLDQ,Sears Holdings Corporation Common Stock,U
 SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
 SHLOQ,"Shiloh Industries, Inc. Common Stock",U
 SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
@@ -1163,6 +1161,7 @@ SSPK,Silver Spike Acquisition Corp. Class A Ordinary Shares,NASDAQ
 SSPKU,Silver Spike Acquisition Corp. Units,NASDAQ
 SSPKW,Silver Spike Acquisition Corp. Warrants,NASDAQ
 SSPPF,SSP GROUP PLC Ordinary Shares,U
+SSPRF,SSP GROUP PLC NIL PAID 21 04 21 (United Kingdom),U
 SSPT,Shot Spirits Corporation Common Stock,U
 SSPY,Syntax Stratified LargeCap ETF,ARCA
 SSRAP,Saturns Sears Roebuck Accep Corp 7.250% Tr Unit Cl A 06/01/2032,U
@@ -2722,7 +2721,6 @@ TRNO,Terreno Realty Corporation,NYSE
 TRNPF,TRANSALTA CORP 1ST PFD SER G 5.3% (Canada),U
 TRNS,"Transcat, Inc. Common Stock",NASDAQ
 TRNX,TARONIS TECHNOLOGIES INC Common Stock,U
-TRNY U,"Trinity Acquisition Corporation Units, each consisting of one Class A ordinary share, and one third",NYSE
 TROG,Triumph Oil & Gas Common Stock,U
 TROIF,Tri Origin Exp Ltd Ordinary Shares,U
 TROLB,"Tootsie Roll Industries, Inc. Class B Common Stock",U
@@ -3389,6 +3387,7 @@ UNVC,"Univec, Inc. Common Stock",U
 UNVR,Univar Solutions Inc.,NYSE
 UNXLQ,UNI-PIXEL INC Common Stock,U
 UNXP,UNITED EXPRESS INC Common Stock,U
+UOADF,UOA DEVELOPMENT BHD SHS (Malaysia),U
 UOCT,Innovator S&P 500 Ultra Buffer ETF - October,BATS
 UOLGF,UOL Group Limited Ordinary Shares (Singapore),U
 UOLGY,UOL Group Limited Sponsored ADR (Singapore),U
@@ -3736,7 +3735,10 @@ VELOU,Velocity Acquisition Corp. Units,NASDAQ
 VELXF,Canadian Overseas Petroleum Limited New Ordinary Shares  (Canada),U
 VEMLF,Venture Corp. Ltd. Ordinary Shares (Singapore),U
 VEMLY,Venture Corp. Ltd. Unsponsored ADR (Singapore),U
+VENA,Ordinary Shares,NASDAQ
+VENAR,Rights,NASDAQ
 VENAU,Venus Acquisition Corporation Units,NASDAQ
+VENAW,Warrant,NASDAQ
 VEND,Generation Next Franchise Brands Inc Common Stock,U
 VENV,Venture Vanadium Inc. Common Stock,U
 VEOEF,Veolia Environnement Ordinary Shares (France),U
