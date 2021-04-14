@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
+SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
+SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
+SHLDQ,Sears Holdings Corporation Common Stock,U
 SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
 SHLOQ,"Shiloh Industries, Inc. Common Stock",U
 SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
@@ -140,7 +144,6 @@ SINGY,Singapore Airlines Ltd Unsponsored ADR (Singapore),U
 SINO,"Sino-Global Shipping America, Ltd. Common Stock",NASDAQ
 SINT,"SiNtx Technologies, Inc. Common Stock",NASDAQ
 SINX,Sionix Corporation Common Stock,U
-SIOCF,Enduro Metals Corporation Common Shares,U
 SIOLF,Sino-Ocean Land Ordinary Shares (Hong-Kong),U
 SIOLY,Sino-Ocean Group Holdings Ltd American Depositary Receipts - Unsponsored,U
 SIOPF,SHIMAO GROUP HOLDINGS LIMITED  Ordinary Shares,U
@@ -1440,7 +1443,6 @@ SUPV,Grupo Supervielle S.A.,NYSE
 SURDF,Sumitomo Realty & Development Co Ltd Ordinary Shares (Japan),U
 SURF,"Surface Oncology, Inc. Common Stock",NASDAQ
 SURG,SURGEPAYS INC Common Stock,U
-SURJF,SURGE BATTERY METALS INC Ordinary Shares,U
 SURRF,Sun Art Retail GP Ltd. Ordinary Shares (Hong Kong),U
 SURRY,Sun Art Retail GP Ltd. Unsponsored ADR (Honk Kong),U
 SURVF,Suntec Real Estate Investment Trust Units (Singapore),U
@@ -3735,10 +3737,10 @@ VELOU,Velocity Acquisition Corp. Units,NASDAQ
 VELXF,Canadian Overseas Petroleum Limited New Ordinary Shares  (Canada),U
 VEMLF,Venture Corp. Ltd. Ordinary Shares (Singapore),U
 VEMLY,Venture Corp. Ltd. Unsponsored ADR (Singapore),U
-VENA,Ordinary Shares,NASDAQ
-VENAR,Rights,NASDAQ
+VENA,Venus Acquisition Corporation Ordinary Shares,NASDAQ
+VENAR,Venus Acquisition Corporation Rights,NASDAQ
 VENAU,Venus Acquisition Corporation Units,NASDAQ
-VENAW,Warrant,NASDAQ
+VENAW,Venus Acquisition Corporation Warrant,NASDAQ
 VEND,Generation Next Franchise Brands Inc Common Stock,U
 VENV,Venture Vanadium Inc. Common Stock,U
 VEOEF,Veolia Environnement Ordinary Shares (France),U
@@ -3856,7 +3858,6 @@ VIIAW,7GC & Co. Holdings Inc. Warrant,NASDAQ
 VIIXF,Credit Suisse AG Nassau Brh VelocityShares VIX Short Term ETN 500,U
 VILGF,Yourgene Health PLC Ordinary Shares (United Kingdom),U
 VINC,"Vincerx Pharma, Inc. Common Stock",NASDAQ
-VINCU,"Vincerx Pharma, Inc. Unit",NASDAQ
 VINCW,"Vincerx Pharma, Inc. Warrant",NASDAQ
 VINO,"Gaucho Group Holdings, Inc. Common Stock",NASDAQ
 VINP,Vinci Partners Investments Ltd. Class A Common Shares,NASDAQ
@@ -4397,7 +4398,6 @@ WDHR,"WeedHire International, Inc. Common Stock",U
 WDIV,SPDR S&P Global Dividend ETF,ARCA
 WDKA,Panache Beverage Inc. (DE) Common Stock,U
 WDLF,"Social Life Network, Inc. Common Stock",U
-WDMSF,Wisdom Ed Intl Hldgs Co Ltd Common Shares (Cayman Islands),U
 WDOFF,Wesdome Gold Mines Ltd Ordinary Shares (Canada),U
 WDPSF,WAREHOUSES DE PAUW NV Ordinary Shares,U
 WDR,"Waddell & Reed Financial, Inc.",NYSE
@@ -5229,6 +5229,7 @@ YTHL,Yingtui Holdings Limited. Common Stock,U
 YTLCF,YTL Corp Berhad Ordinary Shares (Malaysia),U
 YTLPF,Ytl Power International Bhd Ordinary Shares,U
 YTOEF,YTO EXPRESS INTL HLDGS LTD Ordinary Shares,U
+YTPG,TPG Pace Beneficial II Corp.,NYSE
 YTRA,"Yatra Online, Inc. Ordinary Shares",NASDAQ
 YTRGF,"Y.T. Realty Group, Ltd. Ordinary Shares (Bermuda) HKD",U
 YTROF,"Yatra Online, Inc. Warrant Exp 12/16/2021 (Cayman Islands)",U

@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTFC,Minster Financial Corporation,U
+MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
+MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
@@ -614,6 +617,7 @@ NIIRF,Nichirin Co Ltd Kobe City Hyogo Prefecture Ordinary Shares (Japan),U
 NIJPF,Nippon Paper Industries Co Ltd Ordinary Shares (Japan),U
 NIKLF,Nickel Rock Resources Inc. Ordinary Shares,U
 NILA,Nilam Resources Inc. Common Stock,U
+NILIF,SURGE BATTERY METALS INC Ordinary Shares,U
 NILSY,MMC Norilsk Nickel PJSC American Depositary Receipts - Sponsored,U
 NIM,Nuveen Select Maturities Municipal Fund,NYSE
 NIMMU,NISOURCE INC CORP UNIT,U
@@ -3198,6 +3202,7 @@ PSSKF,"Pressance Corp, Osaka Common Stock (Japan)",U
 PSSR,"PASSUR Aerospace, Inc. Common Stock",U
 PSSS,"Puissant Industries, Inc. Common Stock",U
 PSSTF,PT SELAMAT SEMPURNA TBK Ordinary Shares,U
+PSSWF,PSI SOFTWARE AG Ordinary Shares,U
 PST,ProShares Trust UltraShort Lehman 7-10 Year Treasury,ARCA
 PSTG,"Pure Storage, Inc. Class A",NYSE
 PSTH,"Pershing Square Tontine Holdings, Ltd.",NYSE
@@ -3275,7 +3280,7 @@ PTGX,"Protagonist Therapeutics, Inc. Common Stock",NASDAQ
 PTH,Invesco Exchange-Traded Fund Trust Invesco DWA Healthcare Momentum ETF,NASDAQ
 PTHIF,PT Solusi Bangun Indonesia TBK Ordinary Shares,U
 PTHIY,PT SOLUSI BANGUN INDONESIA TBK  American Depositary Receipts - Unsponsored,U
-PTHRF,"Pantheon Resources Plc, London Shs (United Kingdom)",U
+PTHRF,Pantheon Resources Plc Ordinary Shares,U
 PTHXF,PT HEXINDO ADIPERKASA Ordinary Shares,U
 PTIC,PropTech Investment Corporation II Class A Common Stock,NASDAQ
 PTICU,PropTech Investment Corporation II Unit,NASDAQ
@@ -3627,7 +3632,6 @@ QMIS,QMIS Finance Securities Corporation Common Stock,U
 QMJ,Direxion S&P 500 High minus Low Quality ETF,ARCA
 QMN,IQ Hedge Market Neutral Tracker ETF,ARCA
 QMOM,Alpha Architect U.S. Quantitative Momentum ETF,BATS
-QMXGF,QMX Gold Corporation Ordinary Shares (Canada),U
 QNBC,Qnb Corp Common Stock,U
 QNCCF,Quantum Numbers Corp. Ordinary Shares (Canada),U
 QNDPF,QINGDAO PORT INTL CO LTD SHS -H-Common Shares China(CN ),U
@@ -5010,6 +5014,7 @@ SCON,Superconductor Technologies Inc. Common Stock,U
 SCOO,"School Specialty, Inc. Com",U
 SCOR,"comScore, Inc. Common Stock",NASDAQ
 SCOTF,Scout24 AG Ordinary Shares (Germany),U
+SCOUF,SCOUT24 AG ANDIEN Rights (Germany),U
 SCPAF,Shopping Centres Australasia Property Group Stapled Security (Australia),U
 SCPE,SC Health Corporation,NYSE
 SCPE U,"SC Health Corporation Units, each consisting of one Class A ordinary share, $0.0001 par value, and o",NYSE
@@ -5444,7 +5449,3 @@ SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
-SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
-SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
-SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
-SHLDQ,Sears Holdings Corporation Common Stock,U

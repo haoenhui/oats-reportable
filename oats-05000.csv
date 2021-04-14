@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
+CPCC,"Striper Energy, Inc. Common Stock",U
+CPE,Callon Petroleum Company,NYSE
+CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
@@ -418,7 +422,7 @@ CTDN,"Capital Directions, Inc. Common Stock",U
 CTDT,"Centaurus Diamond Technologies, Inc.  Common Stock",U
 CTEC,Global X Funds Global X CleanTech ETF,NASDAQ
 CTEK,"CynergisTek, Inc.",AMEX
-CTEQF,"CLEAN TEQ HOLDINGS LTD, MELBOURNE Ordinary Shares",U
+CTEQF,Sunrise Energy Metals Ltd Ordinary Shares,U
 CTEUY,Centerenergo Sponsored ADR,U
 CTFHF,Chinatrust Financial Holdings Co Ltd Ordinary Shares (Taiwan),U
 CTG,"Computer Task Group, Inc. Common Stock",NASDAQ
@@ -795,6 +799,7 @@ DAN,Dana Incorporated,NYSE
 DANOY,Danone Sponsored ADR (France),U
 DANR,Dana Resources Common Stock,U
 DAO,"Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share",NYSE
+DAPP,VanEck Vectors ETF Trust VanEck Vectors Digital Transformation ETF,NASDAQ
 DAR,DARLING INGREDIENTS INC.,NYSE
 DARE,"Dare Bioscience, Inc. Common Stock",NASDAQ
 DASH,"DoorDash, Inc.",NYSE
@@ -907,7 +912,7 @@ DCYHF,Discovery Ltd Ordinary Shares (South Africa),U
 DCYHY,Discovery Holdings Ltd Unsponsored ADR (South Africa),U
 DD,"DuPont de Nemours, Inc. Common Stock",NYSE
 DDAIF,Daimler AG Common Stock,U
-DDCCF,Dic Asset Ag Erlangen Ordinary Shares Aset Ag NA On (Germany),U
+DDCCF,Dic Asset Ag Ordinary Shares Aset Ag NA On (Germany),U
 DDD,3D Systems Corp,NYSE
 DDDA,"Digital Day Agency, Inc. Common Stock",U
 DDDX,3DX Industries Inc. Common Stock,U
@@ -1166,7 +1171,6 @@ DJP,"iPath Bloomberg Commodity Index Total Return ETN due June 12, 2036",ARCA
 DJSP,"DJSP Enterprises, Inc",U
 DJUL,FT Cboe Vest U.S. Equity Deep Buffer ETF - July,BATS
 DJUN,FT Cboe Vest U.S. Equity Deep Buffer ETF - June,BATS
-DJXEF,"ISHARES STOXX EUR 600 HEALTH CARE DE, SHS HLDGS  (Germany)",U
 DJXMF,Dow Jones Stoxx Ish S Euro Mid 200 U Etf Exchange Traded Fund (Germany Federal Republic),U
 DJXXF,ISHARES STOXX EUROPE 600 UCITS ETF  Ordinary Shares,U
 DK,"Delek US Holdings, Inc.",NYSE
@@ -1519,7 +1523,7 @@ DSTX,Distillate International Fundamental Stability & Value ETF,ARCA
 DSTZF,Distell Group Holdings (South Africa),U
 DSU,"Blackrock Debt Strategies Fund, Inc.",NYSE
 DSUS,"Drone Services USA, Inc. Common Stock",U
-DSVMF,Discovery Metals Corp Ordinary Shares,U
+DSVSF,Discovery Silver Corp Ordinary Shares,U
 DSVTF,"Divestco, Inc. Ordinary Shares CL A (Canada)",U
 DSWL,"Deswell Industries, Inc. Common Shares",NASDAQ
 DSWR,Deseo Swimwear Inc Common Stock,U
@@ -2276,6 +2280,7 @@ ENCTF,Encanto Potash Corporation Common Shares,U
 ENCUF,Encore Energy Corp. Ordinary Shares (Canada),U
 ENCW,Enchanted World  Inc Common Stock,U
 ENDGF,Endurance Gold Corp Common shares (Canada),U
+ENDMF,Enduro Metals Corporation Common Shares,U
 ENDO,Endocan Corporation Common Stock,U
 ENDP,Endo International plc Ordinary Shares,NASDAQ
 ENDRF,ENDOR AG SHS (Germany Federal Republic),U
@@ -2966,7 +2971,6 @@ FAII,Fortress Value Acquisition Corp. II,NYSE
 FAII U,"Fortress Value Acquisition Corp. II Units, each consisting of one share of Class A common stock and",NYSE
 FAII WS,"Fortress Value Acquisition Corp. II Warrants, each whole warrant exercisable for one share of Class",NYSE
 FAIL,Cambria Global Tail Risk ETF,BATS
-FAITF,Faith Inc Kyoto Ordinary Shares (Japan),U
 FAKC,FaceKey Corp. Common Stock,U
 FALC,FALCONSTOR SOFTWARE INC Common Stock,U
 FALN,iShares Trust iShares Fallen Angels USD Bond ETF,NASDAQ
@@ -4042,6 +4046,7 @@ FTFY,"Fit After Fifty, Inc. Common Stock",U
 FTGC,First Trust Exchange-Traded Fund VII First Trust Global Tactical Commodity Strategy Fund,NASDAQ
 FTGFF,Firan Technology Group Corp Ordinary Shares (Canada),U
 FTGPF,First Tr Global Fds Plc A Dow Jones Internet UCITS ETF A USD ACC Exchange Traded Fund (Ireland),U
+FTHCY,FRONTAGE HLDGS CORP American Depositary Receipts - Unsponsored,U
 FTHI,First Trust Exchange-Traded Fund VI First Trust BuyWrite Income ETF,NASDAQ
 FTHM,Fathom Holdings Inc. Common Stock,NASDAQ
 FTHY,First Trust High Yield Opportunities 2027 Term Fund,NYSE
@@ -5411,7 +5416,6 @@ GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,ARCA
 GUT,GABELLI UTILITY TRUST,NYSE
 GUT PRA,Gabelli Utility Trust 5.625% Ser A Cumul Pfd Shs,NYSE
 GUT PRC,Gabelli Utility Trust   5.375% Series C Cumulative Preferred Shares,NYSE
-GUT RT,"Gabelli Utility Trust (The) Rights (expiring April 14, 2021)",NYSE
 GUYGF,G2 Goldfields Inc Common Shares,U
 GUZOF,Grupo Herdez Sab de CV Ordinary Shares (Mexico),U
 GVA,Granite Construction Inc.,NYSE
@@ -5445,6 +5449,3 @@ GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U

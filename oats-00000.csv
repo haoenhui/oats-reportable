@@ -630,6 +630,7 @@ AGHC,Aeon Global Health Corp. Common Stock,U
 AGI,Alamos Gold Inc. Class A Common Shares,NYSE
 AGIN,American Graphite Technologies Inc. Common Stock,U
 AGIO,"Agios Pharmaceuticals, Inc. Common Stock",NASDAQ
+AGL,"agilon health, inc.",NYSE
 AGLAF,Aguila Amern Gold Ltd Common Shares,U
 AGLDF,Austral Gold Ltd Ordinary shares (Australia),U
 AGLE,"Aeglea BioTherapeutics, Inc. Common Stock",NASDAQ
@@ -929,9 +930,11 @@ ALEC,"Alector, Inc. Common Stock",NASDAQ
 ALEDY,Allied Group Limited Unsponsored ADR (Hong Kong),U
 ALEGF,ALLEGRO EU SA ORD BR (Luxembourg),U
 ALEX,"Alexander & Baldwin, Inc.",NYSE
+ALF,"ALFI, Inc. Common Stock",NASDAQ
 ALFA,AlphaClone Alternative Alpha ETF,BATS
 ALFDF,Astral Foods Ltd Ordinary Shares (South Africa),U
 ALFFF,Alfa S.A.B. de C.V. Ordinary Shares A (Mexico),U
+ALFIW,"ALFI, Inc. Warrant",NASDAQ
 ALFNF,Alfen NV Ordinary Shares,U
 ALFRY,Alfresa Hldgs Corp American Depositary Shares (Unsponsored)(Japan),U
 ALFVF,Alfa-Laval Ab Ordinary shares (Sweden),U
@@ -1429,6 +1432,7 @@ APOG,"Apogee Enterprises, Inc. Common Stock",NASDAQ
 APOOF,Apollo Tourism & Leisure Limited Ordinary Shares (Australia),U
 APOP,Cellect Biotechnology Ltd. American Depositary Shares,NASDAQ
 APOPW,Cellect Biotechnology Ltd. Warrants to Purchase ADRs,NASDAQ
+APP,Applovin Corporation Class A Common Stock,NASDAQ
 APPB,Applied Biosciences Corp. Common Stock,U
 APPCF,APAC RESOURCES LTD Ordinary Shares,U
 APPDW,APPLIED DNA SCIENCES INC WT EXP 11/15/2024,U
@@ -1963,7 +1967,9 @@ ATRX,Adhera Therapeutics Inc Common Stock,U
 ATSAF,Ats Automated Tooling Ordinary Shares,U
 ATSG,"Air Transport Services Group, Inc",NASDAQ
 ATSKF,Allied Telesis Holdings KK  Ordinary Shares,U
+ATSPT,Archimedes Tech SPAC Partners Co. Subunit,NASDAQ
 ATSPU,Archimedes Tech SPAC Partners Co. Unit,NASDAQ
+ATSPW,Archimedes Tech SPAC Partners Co. Warrant,NASDAQ
 ATTBF,Abattis Bioceuticals Corp. Ordinary Shares (Canada),U
 ATTGF,Auto Italia Hldgs Ltd SHS HKD (Bermuda),U
 ATTLF,Atlas Copco Aktiebolag Ordinary Shares,U
@@ -2142,7 +2148,6 @@ AVSR,Avistar Communications Corporation Common Stock,U
 AVT,"Avnet, Inc. Common Stock",NASDAQ
 AVTD,"Artventive Medical Group, Inc. Common Stock",U
 AVTI,"Avitar, Inc. Common Stock",U
-AVTLF,Addvalue Technologies Ltd Ordinary Shares (Singapore),U
 AVTR,"Avantor, Inc.",NYSE
 AVTR PRA,"Avantor, Inc. Series A Mandatory Convertible Preferred Stock",NYSE
 AVTTY,Avast Plc American Depositary Receipts - Unsponsored,U
@@ -4258,7 +4263,6 @@ CDLDY,Companhia de Locacao Das Americas American Depositary Receipts - Sponsored
 CDLX,"Cardlytics, Inc. Common Stock",NASDAQ
 CDMGF,Icade SA Ordinary Shares (France),U
 CDMO,"Avid Bioservices, Inc. Common Stock",NASDAQ
-CDMOP,"Avid Bioservices, Inc. 10.50% Series E Convertible Preferred Stock",NASDAQ
 CDNA,"CareDx, Inc. Common Stock",NASDAQ
 CDNAF,Canadian Tire Ltd Cl-A Ordinary Shares,U
 CDNIF,COMPANIA DE DISTRIBUCION INTEGRAL LOGISTA HLDGS S A U GRUPO LOGISTA/AC 0.20 (Spain),U
@@ -5350,6 +5354,7 @@ COHU,"Cohu, Inc. Common Stock",NASDAQ
 COIHF,Croda Intl Plc Ord Ordinary Shares,U
 COIHY,Croda Intl Plc Ord American Depositary Receipts - Unsponsored,U
 COIL,"Citadel Exploration, Inc. Common",U
+COIN,"Coinbase Global, Inc. Class A Common Stock",NASDAQ
 COIVF,Cosco Corporation (Singapore) Limited Ordinary Shares (Singapore),U
 COKE,"Coca-Cola Consolidated, Inc. Common Stock",NASDAQ
 COLB,"Columbia Banking System, Inc. Common Stock",NASDAQ
@@ -5444,7 +5449,3 @@ CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
-CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
-CPCC,"Striper Energy, Inc. Common Stock",U
-CPE,Callon Petroleum Company,NYSE
-CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
