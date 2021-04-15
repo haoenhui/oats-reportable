@@ -595,6 +595,7 @@ NHYKF,Norsk Hydro Asa Ord Ordinary Shares,U
 NHZHF,New Horizon Health Ltd. USD Ordinary Shares (Cayman Islands),U
 NI,NiSource Inc.,NYSE
 NI PRB,"NiSource Inc. Depositary Shares representing 1/1,000th ownership interest in a share of 6.50% Series",NYSE
+NIAKF,Niitaka Co Ltd Osaka Ordinary Shares (Japan),U
 NIB,"iPath Bloomberg Cocoa Subindex Total Return ETN due June 24, 2038",ARCA
 NIBHF,"NIB Holdings Ltd, New Castle NSW Ordinary Shares (Australia)",U
 NICE,NICE Ltd American Depositary Shares,NASDAQ
@@ -1923,7 +1924,6 @@ OXINF,Oxford Instruments PLC Ordinary Shares (United Kingdom),U
 OXLC,Oxford Lane Capital Corp. Common Stock,NASDAQ
 OXLCL,Oxford Lane Capital Corp. 6.75% Notes due 2031,NASDAQ
 OXLCM,Oxford Lane Capital Corp. 6.75% Series 2024 Term Preferred Stock,NASDAQ
-OXLCO,"Oxford Lane Capital Corp. Term Preferred Shares, 7.50% Series 2023",NASDAQ
 OXLCP,Oxford Lane Capital Corp. 6.25% Series 2027 Term Preferred Shares,NASDAQ
 OXM,"Oxford Industries, Inc.",NYSE
 OXNXF,Onxeo SA Ordinary Shares Cat P (France),U
@@ -1947,6 +1947,7 @@ PAA,"Plains All American Pipeline, L.P. Common Units representing Limited Partne
 PAAFF,Pharmaust Ltd. Ordinary Shares  (Australia),U
 PAAS,Pan American Silver Corp. Common Stock,NASDAQ
 PAASF,PAN AMERN SILVER CORP Contingent Value Rights   02/22/2029,U
+PAB,PGIM Active Aggregate Bond ETF,ARCA
 PABN,"Panamerican Bancorp (DE) fka Pure Water Sciences International, Inc. Common Stock",U
 PAC,"Grupo Aeroportuario del Pacifico, S.A.B. de C.V. Amer. Dep. Shares (each rep. 10 Ser. B shares)",NYSE
 PACB,"Pacific Biosciences of California, Inc. Common Stock",NASDAQ
@@ -2487,7 +2488,7 @@ PHPPY,Signify N.V. American Depositary Receipts - Unsponsored,U
 PHPRF,Primary Health Properties Plc Ordinary Shares (United Kingdom),U
 PHPYF,PUSHPAY HLDGS LTD  Ordinary Shares,U
 PHR,"Phreesia, Inc.",NYSE
-PHRRF,Newscope Cap Corp Common Stock (Canada),U
+PHRRF,PHARMATHER HLDGS LTD Common Stock,U
 PHRX,"Pharmagen, Inc. Common Stock",U
 PHRZF,PHAROL SGPS SA Ordinary Shares (Portugal),U
 PHSL,"Penthouse International, Inc. Common Stock",U
@@ -2542,7 +2543,6 @@ PINC,"Premier, Inc. Class A Common Stock",NASDAQ
 PINE,"Alpine Income Property Trust, Inc",NYSE
 PING,Ping Identity Holding Corp.,NYSE
 PINS,"Pinterest, Inc. Class A Common Stock",NYSE
-PINWF,Pinnacle Renewable Energy Inc Common Shares (Canada),U
 PINXF,Peoples Insurance Co Group of China Ltd. Ordinary Shares (China),U
 PINXY,Peoples Insurance Company Group China Ltd Unsponsored ADR (China),U
 PIO,Invesco Exchange-Traded Fund Trust II Invesco Global Water ETF,NASDAQ
@@ -4670,6 +4670,7 @@ RXMD,"Progressive Care, Inc. Common Stock",U
 RXN,REXNORD CORPORATION,NYSE
 RXRAU,RXR Acquisition Corp. Units,NASDAQ
 RXRLF,"Rex Minerals Ltd, Melbourne Ordinary Shares (Australia)",U
+RXRX,"Recursion Pharmaceuticals, Inc. Class A Common Stock",NASDAQ
 RXT,"Rackspace Technology, Inc. Common Stock",NASDAQ
 RXXRF,Rox Resources Ltd Ordinary Shares (Australia),U
 RY,Royal Bank of Canada,NYSE
@@ -5449,3 +5450,5 @@ SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
+SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
+SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U

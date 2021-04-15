@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -989,7 +991,7 @@ HYG,iShares iBoxx $ High Yield Corporate Bond ETF,ARCA
 HYGH,iShares Interest Rate Hedged High Yield Bond ETF,ARCA
 HYGN,Hydrogenetics Inc Common Stock,U
 HYGV,FlexShares High Yield Value-Scored Bond Index Fund,ARCA
-HYHDF,Hydro66 Hldgs Corp Ordinary Shares (Cameroon),U
+HYHDF,SIXTY SIX CAP INC Ordinary Shares,U
 HYHG,ProShares High Yield-Interest Rate Hedged ETF,BATS
 HYHY,"Hydrogen  Hybrid Technologies, Inc. Common Stock",U
 HYI,Western Asset High Yield Defined Opportunity Fund Inc.,NYSE
@@ -1079,7 +1081,6 @@ IAHL,IAHL Corporation Common Stock,U
 IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,ARCA
 IAIC,Information Analysis Incorporated Common Stock,U
 IAK,iShares U.S. Insurance ETF,ARCA
-IALS,"InterActive Leisure Systems, Inc. Common Stock",U
 IAPR,Innovator MSCI EAFE Power Buffer ETF-April,ARCA
 IARE,INVENTRUST PPTYS CORP Common Stock,U
 IART,Integra LifeSciences Holdings Corporation Common Stock,NASDAQ
@@ -1633,6 +1634,7 @@ IMSCF,IShares VII Plc Msci Japan Ucits Etf Accum Ptg Shs Exchange Traded Fund (I
 IMSEF,iShares II plc MSCI Europe EUR UCITS ETF Inc. (Ireland),U
 IMSIF,iShares II Public Limited Company - iShares MSCI Europe SRI UCITS ETF ISHS II/SHS CL-DIS USD Exchange Traded Fund,U
 IMSJF,ISHARES V PLC MSCI JAPAN GBP HDG UCITS ETF ACCUM (Ireland),U
+IMSNF,Imasen Electric Ind Co Ltd Ordinary Shares (Japan),U
 IMSXF,iShares V PLC MSCI World Industrials USD ETF (Ireland),U
 IMTB,iShares Core 5-10 Year USD Bond ETF,ARCA
 IMTE,Integrated Media Technology Limited Ordinary Shares,NASDAQ
@@ -2960,6 +2962,7 @@ KGEIF,Kolibri Global Energy Inc Common Shares,U
 KGET,"Kleangas Energy Technologies, Inc.  Common Stock",U
 KGFHF,Kingfisher plc Ordinary Shares (United Kingdom),U
 KGFHY,Kingfisher plc Sponsored American Depositary Receipt,U
+KGFMF,KINGFISHER METEALS CORP  Common Shares,U
 KGFTY,"Kingsoft Corp Ltd, ADR (Cayman Islands)",U
 KGGNF,Kogan Com Ltd Ordinary Shares (Australia),U
 KGHI,"Kaiser Group Holdings, Inc Common Stock",U
@@ -4647,7 +4650,6 @@ MFGI,Merchants Financial Group Inc Common Stock,U
 MFGP,"Micro Focus International plc. American Depositary Shares, each representing One Ordinary Share",NYSE
 MFH,Mercurity Fintech Holding Inc. ADS,NASDAQ
 MFIN,Medallion Financial Corp. Common Stock,NASDAQ
-MFINL,Medallion Financial Corp. 9.000% Notes due 2021,NASDAQ
 MFL,BLACKROCK MUNIHOLDINGS INVESTMENT QUALITY FUND,NYSE
 MFLPF,MITSUI FUDOSAN LOGISTICS PK INC REIT,U
 MFM,MFS Municipal Income Trust Shares of Beneficial Interest,NYSE
@@ -4820,6 +4822,7 @@ MINT,PIMCO Enhanced Short Maturity Active Exchange-Traded Fund,ARCA
 MINXF,Mercantile Investment Trust PLC Ordinary Shares,U
 MIOFF,Milbon Co Ltd Ordinary Shares (Japan),U
 MIPCF,MINOR INTERNATIONAL PUBLIC CO LTD NVDR SHARES (Thailand),U
+MIRAF,Mirai Corp Unit (Japan),U
 MIRHF,MEILLEURE HEALTH INTL IND GROUP LTD Ordinary Shares Bermuda(BM ),U
 MIRM,"Mirum Pharmaceuticals, Inc. Common Stock",NASDAQ
 MIRXF,SERRANO RES LTD  Common Shares,U

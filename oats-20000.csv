@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
-SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
 SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
 SHLDQ,Sears Holdings Corporation Common Stock,U
 SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
@@ -189,7 +187,6 @@ SJB,ProShares Short High Yield,ARCA
 SJGFF,SCHRODER JAPAN GROWTH FUND PLC SHS (United Kingdom),U
 SJI,"South Jersey Industries, Inc.",NYSE
 SJIJ,"South Jersey Industries, Inc. 5.625% Junior Subordinated Notes due 2079",NYSE
-SJIU,"South Jersey Industries, Inc.",NYSE
 SJIV,"South Jersey Industries, Inc. Corporate Units",NYSE
 SJJIY,Shanghai Jin Jiang Capital Company Ltd  American Depositary Receipts - Unsponsored,U
 SJM,The J.M. Smucker Company,NYSE
@@ -284,7 +281,9 @@ SLAC,Social Leverage Acquisition Corp I,NYSE
 SLAC U,"Social Leverage Acquisition Corp I Units, each consisting of one share of Class A common stock and o",NYSE
 SLAC WS,"Social Leverage Acquisition Corp I Redeemable warrants, each whole warrant exercisable for one share",NYSE
 SLAHF,Stella Chemifa Corp Osaka Ordinary Shares (Japan),U
+SLAM,Slam Corp. Class A Ordinary Share,NASDAQ
 SLAMU,Slam Corp. Unit,NASDAQ
+SLAMW,Slam Corp. warrant,NASDAQ
 SLB,Schlumberger Limited,NYSE
 SLBG,Slinger Bag Inc. Common Stock,U
 SLCA,"U.S. SILICA HOLDINGS, INC.",NYSE
@@ -973,7 +972,6 @@ SQFT,"Presidio Property Trust, Inc. Class A Common Stock",NASDAQ
 SQIDF,SQI Diagnostics Inc Ordinary Shares (Canada),U
 SQLV,Legg Mason ETF Investment Trust Legg Mason Small-Cap Quality Value ETF,NASDAQ
 SQM,Sociedad Quimica y Minera de Chile SA,NYSE
-SQM RT,"Sociedad Quimica y Minera de Chile S.A. Rights (expires April 19, 2021)",NYSE
 SQNNY,Square Enix Hldgs Co Ltd American Depositary Receipts - Unsponsored Repstg Com Stk (Japan),U
 SQNS,"Sequans Communications S.A. American Depositary Shares, each representing four Ordinary Shares",NYSE
 SQNXF,Square Enix Co Ltd Ordinary Shares (Japan),U
@@ -2024,6 +2022,7 @@ TEXC,Texcom Inc. Common Stock,U
 TEXG,"Terax Energy, Inc. Common Stock",U
 TEZNY,Terna Rete Elettrica Nazionale SPA Unsponsored American Depository Receipt (Italy),U
 TFACF,"Treasure Factory Co Ltd, Tokyo Ordinary Shares  (Japan)",U
+TFAN,"TradeFan, Inc. Common Stock",U
 TFAOF,Telefonica Czech Republic AS Ordinary Shares (Czech Republic),U
 TFBN,TFN Football Network (The) Common Stock,U
 TFC,Truist Financial Corporation,NYSE
@@ -2695,6 +2694,8 @@ TRIQ,"TraqIQ, Inc. Common Stock",U
 TRIT,"Triterras, Inc. Class A Ordinary Shares",NASDAQ
 TRITF,Tri-Tech Holding Inc. Ordinary Shares,U
 TRITW,"Triterras, Inc. Warrant",NASDAQ
+TRKA,"Troika Media Group, Inc. Common Stock",NASDAQ
+TRKAW,"Troika Media Group, Inc. Warrant",NASDAQ
 TRKCF,Trackya Cam SanayII AS Common Stock Turkey(TR),U
 TRKCY,Trakya Cam Sanayii AS Unsponsored ADR (Turkey),U
 TRKNF,Turk Telekomunikasyon AS Ordinary Shares (Turkey),U
@@ -2821,6 +2822,7 @@ TSEM,Tower Semiconductor Ltd. Ordinary Shares,NASDAQ
 TSEQF,Tosei Reit Invt Corp Shs (Japan),U
 TSETF,Thai Stanley Electric Thailand Public Co Ltd. Units Non-Voting Depository Receipt (Thailand),U
 TSFGN,South Financial Group Inc. (The) Pfd Mandatory Conv Ser (2008D-V),U
+TSGMF,Tsugami Corp Ordinary Shares (Japan),U
 TSGMY,Tsugami Corp American Depositary Shares,U
 TSGTF,Tsingtao Brewery Ser H Ordinary Shares,U
 TSGTY,Tsingtao Brewery Ltd Sponsored ADR Representing Cl H Shs (China),U
@@ -2856,6 +2858,7 @@ TSNLF,"Tristel PLC, Snailwell Ordinary Shares (United Kingdom)",U
 TSOC,Innovator Triple Stacker ETF - October,BATS
 TSOCF,Taisei Oncho Co Ltd Ordinary Shares (Japan),U
 TSOI,"Therapeutic Solutions International, Inc. Common Stock",U
+TSP,TuSimple Holdings Inc. Class A Common Stock,NASDAQ
 TSPCF,CLEANAWAY WASTE MGMT LTD Ordinary Shares,U
 TSPG,TGI Solar Power Group Inc Common Stock,U
 TSPPF,Torishima Pump Mfg Co Ordinary Shares (Japan),U
@@ -3615,7 +3618,6 @@ VACNY,VAT Group AG American Depositary Receipts - Unsponsored (Switzerland),U
 VACQ,Vector Acquisition Corporation Class A Common Stock,NASDAQ
 VACQU,Vector Acquisition Corporation Unit,NASDAQ
 VACQW,Vector Acquisition Corporation Warrant,NASDAQ
-VADPD,"TradeFan, Inc. Common Stock",U
 VAIAF,Vaisala Oy Ordinary Shares -A- (Finland),U
 VALE,VALE S.A.,NYSE
 VALPQ,VALARIS PLC Ordinary Shares,U
@@ -3733,7 +3735,9 @@ VEGYF,Virginia Energy Resources Inc Common Shares (Canada),U
 VEI,Vine Energy Inc.,NYSE
 VEII,"Value Exchange International, Inc. Common Stock",U
 VEL,"Velocity Financial, Inc.",NYSE
+VELO,Velocity Acquisition Corp. Class A Common Stock,NASDAQ
 VELOU,Velocity Acquisition Corp. Units,NASDAQ
+VELOW,Velocity Acquisition Corp. Warrant,NASDAQ
 VELXF,Canadian Overseas Petroleum Limited New Ordinary Shares  (Canada),U
 VEMLF,Venture Corp. Ltd. Ordinary Shares (Singapore),U
 VEMLY,Venture Corp. Ltd. Unsponsored ADR (Singapore),U

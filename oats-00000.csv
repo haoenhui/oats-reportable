@@ -1250,7 +1250,9 @@ AMZA,InfraCap MLP ETF,ARCA
 AMZN,"Amazon.com, Inc. Common Stock",NASDAQ
 AN,"AutoNation, Inc.",NYSE
 ANAB,"AnaptysBio, Inc. Common Stock",NASDAQ
+ANAC,Arctos NorthStar Acquisition Corp.,NYSE
 ANAC U,"Arctos NorthStar Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fou",NYSE
+ANAC WS,"Arctos NorthStar Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary",NYSE
 ANAS,"Alternaturals, Inc Common Stock",U
 ANAT,"American National Group, Inc. Common Stock",NASDAQ
 ANAV,Alpha Network Alliance Ventures Inc. Com,U
@@ -2688,7 +2690,6 @@ BFMOF,Befimmo SA Ordinary Shares (Belgium),U
 BFNH,"BioForce Nanosciences Holdings, Inc. Common Stock",U
 BFOR,Barron's 400 ETF,ARCA
 BFRA,Biofrontera AG American Depositary Shares,NASDAQ
-BFRE,"BlueFire Renewables, Inc. Common Stock",U
 BFS,"Saul Centers, Inc.",NYSE
 BFS PRD,"Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.125% Series D Cumula",NYSE
 BFS PRE,"Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.000% Series E Cumula",NYSE
@@ -3109,6 +3110,7 @@ BMCS,BioTech Medics Inc. New Common Stock,U
 BMDLF,BMO Covered Call Canadian Banks ETF Unit (Canada),U
 BMDPF,BANCA MONTE DEI PASCHI DI SIENA SPA Ordinary Shares,U
 BME,Blackrock Health Sciences Trust,NYSE
+BMEA,"Biomea Fusion, Inc. Common Stock",NASDAQ
 BMED,BlackRock Future Health ETF,ARCA
 BMEXF,Banco Santander Mexico SA Institucion De Banca Multiple Grupo Financiero Santander Ordinary Shares (Mexico),U
 BMEZ,BlackRock Health Sciences Trust II,NYSE
@@ -3127,6 +3129,7 @@ BML PRG,Bank Of America Corporation Depositary Shares(Each representing a 1/1200
 BML PRH,Bank Of America Corporation Depositary Shares(Each representing a 1/1200th interest in a share of Ba,NYSE
 BML PRJ,Bank of America Depositary Shares(Each representing 1/1200th interest in a share of Bank of America,NYSE
 BML PRL,Bank of America Depositary Shares(Each representing 1/1200th interest in a share of Bank of America,NYSE
+BMLKF,Bml Inc (Japan),U
 BMLLF,BioMed-Lubin Wytwornia Surowic SA Ordinary Shares (Poland),U
 BMLWF,BMO Low Volatility US Equity ETF USD Unit (Canada),U
 BMMCF,Kbridge Energy Corp. Ordinary Shares (Canada),U
@@ -3138,7 +3141,7 @@ BMMX,"Biomimix, Inc. Common Stock",U
 BMNM,"Bimini Capital Management, Inc. Class A Common Stock",U
 BMO,Bank of Montreal,NYSE
 BMOIF,BMO India Equity Index ETF Unit (Canada),U
-BMOOF,Blue Moon Zinc Corp. Common Shares,U
+BMOOF,BLUE MOON METALS INC Common Shares,U
 BMOZF,"BMO Asia High Dividend ETF Unit Trust, Fund Manager: BMO Global Asset Management Asia Ltd (Hong Kong)",U
 BMPAF,Brampton Brick Ltd        Cl A Ordinary Shares,U
 BMQWF,BMO Equal Weight REITS Index ETF Tr Unit (Canada),U
@@ -3400,6 +3403,7 @@ BRGAY,Borregaard AS American Depositary Receipts (Unsponsored)(Norway),U
 BRGC,BrightRock Gold Corporation Common Stock NEW,U
 BRGGF,Bragg Gaming Group Inc. Ordinary Shares,U
 BRGO,"Bergio International, Inc. Common Stock",U
+BRGSF,BERGS TIMBER AB Ordinary Shares,U
 BRID,Bridgford Foods Corporation Common Stock,NASDAQ
 BRIOF,Magna Terra Minerals Inc Ordinary Shares,U
 BRK A,Berkshire Hathaway Inc.,NYSE
@@ -3558,6 +3562,7 @@ BSPB,BOSP Bancshares Inc Common Stock,U
 BSPDF,PT Bumi Serpong Damai Ordinary Shares (Indonesia),U
 BSPDY,PT Bumi Serpong Damai Tbk Unsponsored ADR (Indonesia),U
 BSPE,Bespoke Capital Acquisition Corp. Class A Restricted Voting Shares,NASDAQ
+BSPI,"Business Solutions Plus, Inc. Common Stock",U
 BSPK,"Bespoke Extracts, Inc. Common Stock",U
 BSPM,BIOSTAR PHARMACEUTICALS INC Common Stock,U
 BSPOF,Bespoke Cap Acquisition Corp Warrant Exp 08/16/2027 (Canada),U
@@ -3872,7 +3877,6 @@ CAFI,"Consumer Automotive Finance, Inc. Common Stock",U
 CAFS,"Cafe Serendipity Holdings, Inc. Common Stock",U
 CAFZF,Canaf Invts Inc Ordinary Shares,U
 CAG,"Conagra Brands, Inc.",NYSE
-CAGDF,Centerra Gold Inc Common Shares (Canada),U
 CAGPF,CRYPTOLOGY ASSET GROUP PLC Ordinary Shares,U
 CAGR,"California Grapes International, Inc. NEW Common Stock",U
 CAGU,"The Castle Group, Inc. Common Stock",U
@@ -3927,6 +3931,7 @@ CANSF,Willow Biosciences Inc Ordinary Shares,U
 CANWF,Orca Gold Inc. Ordinary Shares (Canada),U
 CANX,CannAwake Corporation Common Stock,U
 CANY,Canyon Silver Mines Inc Unclassified,U
+CAOEF,Canon Electronics Inc Ordinary Shares (Japan),U
 CAOHF,FDG Electric Vehicles Ltd. Ordinary Shares,U
 CAOLF,China Aviation Oil Singapore Corp Ltd Ordinary Shares (Singapore),U
 CAOVF,China Overseas Land&Invt Ltd Ordinary Shares,U
@@ -4113,7 +4118,6 @@ CCAC,CITIC Capital Acquisition Corp. Class A Ordinary Shares,NYSE
 CCAC U,"CITIC Capital Acquisition Corp. Units, each consisting of one Class A ordinary share, $0.0001 par va",NYSE
 CCAC WS,"CITIC Capital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary sh",NYSE
 CCAJ,Coastal Capital Acquisition Corp (GA) Common Stock,U
-CCAN,Gold Party Payday Inc Common Stock,U
 CCAP,"Crescent Capital BDC, Inc. Common stock",NASDAQ
 CCAQ,Committed Capital Acquisition Corporation II Common Stock,U
 CCARF,Colonial Coal International Corp Ordinary Shares (Canada),U
@@ -4467,6 +4471,7 @@ CGAAY,A2B Australia Ltd American Depositary Receipts - Unsponsored,U
 CGAC,Code Green Apparel Corp. Common Stock,U
 CGAM,Concorde Gaming Corp Common Stock,U
 CGASY,China Resources Gas Group Ltd Unsponsored ADR (Bermuda),U
+CGAU,Centerra Gold Inc.,NYSE
 CGBD,"TCG BDC, Inc. Common Stock",NASDAQ
 CGBLF,iShares Gold Bullion ETF Hedged Common Unit (Canada),U
 CGC,Canopy Growth Corporation Common Shares,NASDAQ
@@ -5058,7 +5063,9 @@ CMHHY,China Merchants Port Holdings Company Limited American Depositary Receipts
 CMHZ,"Banny Cosmic International Holdings, Inc. Common Stock",U
 CMI,Cummins Inc.,NYSE
 CMICF,CMIC Holding Co Ltd Ordinary Shares,U
+CMII,CM Life Sciences II Inc. Class A Common Stock,NASDAQ
 CMIIU,CM Life Sciences II Inc. Unit,NASDAQ
+CMIIW,CM Life Sciences II Inc. Warrant,NASDAQ
 CMIM,Changming Industrial Management Group Holding Common Stock,U
 CMIT,CMARK International Inc Common Stock,U
 CMKI,"CMK Gaming International, Inc. Common Stock",U
@@ -5446,6 +5453,3 @@ CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
-CPBLF,ALS Ltd. Ordinary Shares (Australia),U
-CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
-CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U

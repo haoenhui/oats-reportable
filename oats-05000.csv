@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPBLF,ALS Ltd. Ordinary Shares (Australia),U
+CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
+CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
@@ -1758,6 +1761,7 @@ EBC,"Eastern Bankshares, Inc. Common Stock",NASDAQ
 EBCDF,Wisdomtree Commodity Sec Ltd. Silver Other,U
 EBCOF,Ebara Corp Ord Ordinary Shares,U
 EBCOY,Ebara Corp Ord American Depositary Shares,U
+EBET,"Esports Technologies, Inc. Common Stock",NASDAQ
 EBF,"Ennis, Inc.",NYSE
 EBGEF,ENBRIDGE INC Re Pref Shs Ser 5 (Canada),U
 EBINF,"EBOOK INITIATIVE JAPAN CO LTD, TOKYO SHS (Japan)",U
@@ -5265,7 +5269,9 @@ GSDT,GSDT Fintech Group Inc. Common Stock,U
 GSEE,Goldman Sachs MarketBeta Emerging Markets Equity ETF,BATS
 GSEFF,Convivio Ordinary Shares,U
 GSEU,Goldman Sachs ActiveBeta Europe Equity ETF,ARCA
+GSEV,"Gores Holdings VII, Inc. Class A Common Stock",NASDAQ
 GSEVU,"Gores Holdings VII, Inc. Units",NASDAQ
+GSEVW,"Gores Holdings VII, Inc. Warrant",NASDAQ
 GSEW,Goldman Sachs Equal Weight U.S. Large Cap Equity ETF,BATS
 GSFD,"Global Seafood Technologies, Inc. Common Stock",U
 GSFI,"Green Stream Holdings, Inc. Common Stock",U
@@ -5447,5 +5453,3 @@ GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
