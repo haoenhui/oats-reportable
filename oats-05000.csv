@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
+CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
@@ -504,7 +506,6 @@ CTUY,Century Next Financial Corp Common Stock,U
 CTVA,"Corteva, Inc. Common Stock",NYSE
 CTVEF,"Certive Solutions, Inc. Ordinary Shares (Canada)",U
 CTVIF,China Travel International Investment Hk Ltd Ordinary Shares,U
-CTVZ,"China Travel Resort Holdings, Inc. Common Stock",U
 CTXAF,AMPOL LTD Ordinary Shares,U
 CTXAY,Ampol Ltd American Depositary Receipts - Unsponsored,U
 CTXDF,Cantex Mine Development Corp Ordinary Shares,U
@@ -923,6 +924,7 @@ DDEC,FT Cboe Vest U.S. Equity Deep Buffer ETF - December,BATS
 DDEJF,Dundee Corporation Class A Sub Voting Ordinary Shares (Canada),U
 DDF,"Delaware Investments Dividend & Income Fund, Inc.",NYSE
 DDG,Proshares Short Oil & Gas,ARCA
+DDHLF,DDH1 LTD ORDINARY FULLY PAID (Australia),U
 DDHRF,Dream Impact Trust Unit,U
 DDIAF,Margaret Lake Diamond Inc Ordinary Shares (Canada),U
 DDIV,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright Momentum & Dividend ETF,NASDAQ
@@ -2226,6 +2228,7 @@ EMMLF,OKYO PHARMA LTD  Ordinary Shares,U
 EMMRF,"Emmerson Resources Ltd., Subiaco Wa Ordinary Shares (Australia)",U
 EMMS,EMMIS COMMUNICATIONS CORP COM NEW CL A Common Stock,U
 EMN,Eastman Chemical Company,NYSE
+EMNAF,EURO MANAGANESE INC CHESS DEPOSITARY INTERESTS 1:1 (Canada),U
 EMNC,"E-monee.com, Inc. Common Stock",U
 EMNSF,Elementis 1998 Plc Ordinary Shares,U
 EMNT,PIMCO Enhanced Short Maturity Active ESG ETF,ARCA
@@ -3147,6 +3150,7 @@ FDEU,First Trust Dynamic Europe Equity Income Fund,NYSE
 FDEV,Fidelity International Multifactor ETF,BATS
 FDFT,"Foodfest International 2000, Inc.  Common Stock",U
 FDG,American Century Focused Dynamic Growth ETF,BATS
+FDGKF,FDG KINETIC LTD SHS (Bermuda),U
 FDGMF,SOUTHSTONE MINERALS LTD Common Shares,U
 FDHC,Fidelity Holding Corp. (NEW) Common Stock,U
 FDHY,Fidelity High Yield Factor ETF,ARCA
@@ -3208,6 +3212,7 @@ FELTF,Fuji Electric Holdings Co Ltd Ordinary Shares (Japan),U
 FELTY,Fuji Electric Holdings Co Ltd Unsponsored ADR (Japan),U
 FEM,First Trust Emerging Markets AlphaDEX Fund,NASDAQ
 FEMB,First Trust Exchange-Traded Fund III First Trust Emerging Markets Local Currency Bond ETF,NASDAQ
+FEMFF,First Energy Metals Ltd Common Shares,U
 FEMPF,Food Empire Holdings Ltd Ordinary Shares (Singapore),U
 FEMS,First Trust Developed Markets Small Cap AlphaDex Fund,NASDAQ
 FEN,First Trust Energy Income and Growth Fund,AMEX
@@ -3378,7 +3383,7 @@ FIOGF,Fiore Gold Ltd Ordinary Shares (Canada),U
 FIORF,Fiore Cannabais Ltd  Ordinary Shares,U
 FIRRF,First Tractor Co Ltd Cny Ordinary Shares,U
 FIRRY,First Tractor Co Ltd Cny Unsponsored ADR (China),U
-FIRZF,Aiml Resources Inc.  Ordinary Shares,U
+FIRZF,AI / ML Innovations Inc. Ordinary Shares,U
 FIS,"Fidelity National Information Services, Inc.",NYSE
 FISB,1ST CAP BANCORP Common Stock,U
 FISI,"Financial Institutions, Inc. Common Stock",NASDAQ
@@ -4020,7 +4025,9 @@ FSYSF,"Flight System Consulting Inc, Tokyo Ordinary Shares (Japan)",U
 FSZ,First Trust Switzerland AlphaDex Fund,NASDAQ
 FT,Franklin Universal Trust Shares of Beneficial Interest,NYSE
 FTA,First Trust Large Cap Value AlphaDEX Fund,NASDAQ
+FTAA,FTAC Athena Acquisition Corp. Class A Ordinary Share,NASDAQ
 FTAAU,FTAC Athena Acquisition Corp. Unit,NASDAQ
+FTAAW,FTAC Athena Acquisition Corp. Warrant,NASDAQ
 FTAG,First Trust Exchange-Traded Fund II First Trust Indxx Global Agriculture ETF,NASDAQ
 FTAI,Fortress Transportation and Infrastructure Investors LLC,NYSE
 FTAI PRA,Fortress Transportation and Infrastructure Investors LLC 8.25% Fixed-to-Floating Rate Series A Cumul,NYSE
@@ -4351,7 +4358,10 @@ GBOX,Greenbox POS Common Stock,NASDAQ
 GBPT,"Globe Photos, Inc.   Common Stock",U
 GBR,New Concept Energy Inc,AMEX
 GBRBF,GREAT BEAR ROYALTIES CORP CL A (Canada),U
+GBRG,Goldenbridge Acquisition Limited Ordinary Shares,NASDAQ
+GBRGR,Goldenbridge Acquisition Limited Right,NASDAQ
 GBRGU,Goldenbridge Acquisition Limited Unit,NASDAQ
+GBRGW,Goldenbridge Acquisition Limited Warrant,NASDAQ
 GBRIF,Golden Band Resources Inc (F) Ordinary Shares,U
 GBRRF,Gabriel Resources Ltd Ordinary Shares,U
 GBS,GBS Inc. Common Stock,NASDAQ
@@ -4725,7 +4735,9 @@ GLBB,Global Quest Ltd Common Stock,U
 GLBD,Global Seed Corp Common Stock,U
 GLBH,"Global Tech Holdings, Inc. Common Stock",U
 GLBKF,Goldbank Mining Corporation Ordinary Shares (Canada),U
+GLBL,Cartesian Growth Corporation Class A Ordinary Share,NASDAQ
 GLBLU,Cartesian Growth Corporation Unit,NASDAQ
+GLBLW,Cartesian Growth Corporation Warrant,NASDAQ
 GLBR,Global Brokerage Inc. Class A Common Stock,U
 GLBRF,Global Brands Group Holding Ltd. Ordinary Shares,U
 GLBS,Globus Maritime Limited Common Stock,NASDAQ
@@ -4868,7 +4880,6 @@ GMIIU,"Gores Metropoulos II, Inc. Unit",NASDAQ
 GMIIW,"Gores Metropoulos II, Inc. Warrants",NASDAQ
 GMJOF,"Gamecard-Joyco Holdings Inc, Tokyo Ordinary Shares  (Japan)",U
 GMKKY,Gruma SAB DE C V American Depositary Receipts - Unsponsored (Mexico),U
-GMLP,Golar LNG Partners LP Common Units Representing Limited Partnership,NASDAQ
 GMLPP,Golar LNG Partners LP 8.75% Series A Cumulative Redeemable Preferred Units,NASDAQ
 GMMVF,G MED INNOVATIONS Ordinary Shares,U
 GMND,Green Mountain Development Corp Common Stock,U
@@ -4931,7 +4942,6 @@ GNFTF,Genfit Ordinary Shares (France),U
 GNGBF,Getinge AB Ordinary Shares B (Sweden),U
 GNGBY,Getinge AB Unsponsored ADR (Sweden),U
 GNGR,"Gunther Grant, Inc. Common Stock",U
-GNGT,"Golden Gate Partners, Inc. Common Stock",U
 GNGXF,INVENTUS MNG CORP  Common Shares,U
 GNGYF,Guangshen Railway Co H Shs Ordinary Shares,U
 GNHAF,Vifor Pharma AG Common Shares,U
@@ -5177,7 +5187,6 @@ GRNVU,GreenVision Acquisition Corp Unit,NASDAQ
 GRNVW,GreenVision Acquisition Corp Warrant,NASDAQ
 GRNWF,Greenlane Renewables Inc Common Stock (Canada),U
 GRODF,GREEN ORGANIC DUTCHMAN HLDGS LTD  WT EXP 12/19/2022 Canada(CA ),U
-GROG,"GroGenesis, Inc. Common Stock",U
 GROLF,Petrotarg AB Ordinary Shares,U
 GROUF,Grafton Group plc Unit (Ireland),U
 GROUY,Grafton Group plc Unsponsored ADR representing Units (Ireland),U
@@ -5444,12 +5453,3 @@ GVSI,Good Vibrations Shoes Inc. Common Stock,U
 GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
 GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
 GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
-GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
-GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
-GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
-GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U

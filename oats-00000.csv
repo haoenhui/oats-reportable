@@ -738,7 +738,7 @@ AHL PRD,Aspen Insurance Holdings Limited 5.625% Perpetual Non-Cumulative Prefere
 AHL PRE,"Aspen Insurance Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share",NYSE
 AHLD,ATD NEW HOLDINGS INC Common Stock,U
 AHNMF,Archon Minerals Ltd Ordinary Shares,U
-AHNR,Athena Silver Corporation Common Stock,U
+AHNR,Athena Gold Corporation Common Stock,U
 AHODF,Koninklijke Ahold Delhaize N V  Ordinary Shares,U
 AHPI,"Allied Healthcare Products, Inc. Common Stock",NASDAQ
 AHROQ,"Atheronova, Inc.Common Stock",U
@@ -895,6 +895,7 @@ AKU,Akumin Inc. Common Shares,NASDAQ
 AKUS,"Akouos, Inc. Common Stock",NASDAQ
 AKVA,Arkanova Energy Corporation Common Stock,U
 AKWCF,Arakawa Chemical Industries Ltd Ordinary Shares,U
+AKYA,"Akoya BioSciences, Inc. Common Stock",NASDAQ
 AKZOF,Akzo Nobel N.V. Ordinary Shares,U
 AKZOY,Akzo Nobel N.V. American Depositary Receipts - Sponsored,U
 AL,Air Lease Corporation,NYSE
@@ -1634,7 +1635,6 @@ ARRAF,Arria Nlg Plc Ordinary Shares (United Kingdom),U
 ARREF,"Amerigo Resources, Ltd. Ordinary Shares (Canada)",U
 ARRHW,"Arch Resources, Inc. Warrant",U
 ARRJF,ARJO AB Ordinary Shares (Sweden),U
-ARRLF,ALROSA CJSC SHS (Russia),U
 ARRPY,Aeroports de Paris SA American Depositary Receipts - Unsponsored (France),U
 ARRRF,Ardea Res Ltd Ordinary Shares (Australia),U
 ARRT,"Artisan Consumer Goods, Inc. Common Stock",U
@@ -1755,7 +1755,6 @@ ASHTY,Ashtead Group Plc Unsponsored ADR (United Kingdom),U
 ASHX,Xtrackers MSCI China A Inclusion Equity ETF,ARCA
 ASHXF,Progressive Planet Solutions Inc. Common Shares,U
 ASIX,AdvanSix Inc.,NYSE
-ASKDF,First Energy Metals Ltd Common Shares,U
 ASKE,Alaska Pacific Energy Corporation Common Stock,U
 ASKH,"Astika Holdings, Inc. Com",U
 ASKTF,Asetek A S Ordinary Shares (Denmark),U
@@ -2016,6 +2015,7 @@ AUHEF,Anhui Expressway Co Ltd Shares -H- (China),U
 AUIAF,"Aurania Resources, Ltd. Ordinary Shares (Bermuda)",U
 AUKNY,Auckland International Airport Limited American Depositary Receipts - Sponsored,U
 AUKUF,AMS AG Ordinary Shares (Austria),U
+AULDF,ANGLOGOLD ASHANTI LIMITED CHESS UNITS FOR FOREIGN SECURITIES REPRESENTING 0.2 (ORD SHS)(South Africa),U
 AULGF,Anglogold Ashanti Ltd Reg Shares (South Africa),U
 AULRF,Aurelius Equity Opportunities SE & Co Ordinary Shares,U
 AUMBF,1911 Gold Corp Ordinary Shares,U
@@ -2280,7 +2280,6 @@ AZGSQ,"Aztec Oil & Gas, Inc. Common Stock",U
 AZIHF,Azimut Holding Spa Ordinary Shares (Italy),U
 AZIHY,Azimut Holding Spa Unsponsored ADR (Italy),U
 AZIL,Aziel Corporation Common Stock,U
-AZKLF,Brainchip Holdings Ltd Ordinary Shares,U
 AZLCZ,Aztec Land & Cattle Ltd combined Certificate Common Stock,U
 AZLOF,Azelio AB Ordinary Shares (Sweden),U
 AZMCF,Arizona Metals Corp. Common Stock (Canada),U
@@ -2646,6 +2645,7 @@ BEOB,BEO Bancorp (OR) Common Stock,U
 BEP,Brookfield Renewable Partners L.P.,NYSE
 BEP PRA,"Brookfield Renewable Partners L.P. 5.25% Class A Preferred Limited Partnership Units, Series 17",NYSE
 BEPC,Brookfield Renewable Corporation Class A Subordinate Voting Shares,NYSE
+BEPH,Brookfield BRP Holdings (Canada) Inc. 4.625% Perpetual Subordinated Notes,NYSE
 BEPTF,Beach Petroleum Ltd Ordinary Shares (Australia),U
 BERI,"Blue Earth Resources, Inc. Common Stock",U
 BERK,"Berkshire Bancorp, Inc. Common Stock",U
@@ -3378,6 +3378,7 @@ BRBS,"Blue Ridge Bankshares, Inc.",AMEX
 BRBW,Brunswick Bancorp Common Stock,U
 BRBYF,"Bronco Billy o Ltd, Nagoya Ordinary shares (Japan)",U
 BRC,Brady Corporation,NYSE
+BRCHF,Brainchip Holdings Ltd Ordinary Shares,U
 BRCKF,BROCKHAUS CAP MGMT AG Ordinary Shares,U
 BRCOQ,Beard Company (The) Common Stock,U
 BRCPF,Brasilagro Cia Brasileira De Propriedades Agricolas Ordinary Shares (Brazil),U
@@ -3604,6 +3605,7 @@ BTAVF,Batm Advanced Commun Ltd Ordinary Shares,U
 BTBD,BT BRANDS INC Common Stock  (United States),U
 BTBIF,BTB Real Estate Invt Tr Tr Unit (Canada),U
 BTBT,"Bit Digital, Inc. Ordinary Shares",NASDAQ
+BTC,ClearShares Piton Intermediate Fixed Income ETF,ARCA
 BTCA,"Bactolac Pharmaceutical, Inc. Common Stock New",U
 BTCS,BTCS Inc. Common Stock,U
 BTCWF,Bluesky Digital Assets Corp Ordinary Shares,U
@@ -4823,7 +4825,6 @@ CJREF,Corus Entertainmt Incorporated Common Stock,U
 CKCB,Clark County Bancorporation Common Stock,U
 CKDXF,Opthea Ltd Ordinary Shares (Australia),U
 CKGDF,Kalnorth Gold Mines Ltd.  Ordinary Shares (Australia),U
-CKH,Seacor Holdings Inc.,NYSE
 CKHGF,Capitec Bank Holdings Ltd Ordinary Shares (South Africa),U
 CKHGY,Capitec Bank Holdings Ltd Unsponsored ADR (South Africa),U
 CKHUF,CK HUTCHISON HLDGS LTD Ordinary Shares (Cayman Islands),U
@@ -4938,7 +4939,6 @@ CLNH,"Clinigence Holdings, Inc. Common Stock",U
 CLNMF,CLEAN MOTION AB SHARE AK (Sweden),U
 CLNN,Clene Inc. Common Stock,NASDAQ
 CLNNW,Clene Inc. Warrant,NASDAQ
-CLNRF,CELLNEX TELECOM S A DERECHOS (Spain),U
 CLNXF,Cellnex Telecom SA Ordinary Shares (Spain),U
 CLNY,"Colony Capital, Inc. Class A Common Stock",NYSE
 CLNY PRG,"Colony Capital, Inc.  7.50% Series G Cumulative Redeemable Perpetual Preferred Stock",NYSE
@@ -5007,6 +5007,7 @@ CLWD,"CloudCommerce, Inc. Common Stock",U
 CLWT,Euro Tech Holdings Company Limited Common Stock,NASDAQ
 CLWY,"Calloway's Nursery, Inc. Common Stock",U
 CLX,Clorox Company,NYSE
+CLXLF,CALIX LTD ORDINARY FULLY PAID (Australia),U
 CLXPF,"Cybin, Inc. Common Shares",U
 CLXS,"Collexis Holdings, Inc. Common Stock",U
 CLXT,"Calyxt, Inc. Common Stock",NASDAQ
@@ -5025,7 +5026,6 @@ CMBM,Cambium Networks Corporation Ordinary Shares,NASDAQ
 CMBS,iShares CMBS ETF,ARCA
 CMBXF,"Cambium Global Timberland Limited, St Helier Ordinary Shares (United Kingdom)",U
 CMC,Commercial Metals Company,NYSE
-CMCI,China Modern Agricultural Information Inc. Common,U
 CMCL,Caledonia Mining Corporation Plc,AMEX
 CMCLF,China Molybdenum Co Ltd Shares - H - (China),U
 CMCM,CHEETAH MOBILE INC.,NYSE
@@ -5370,7 +5370,9 @@ COLD,Americold Realty Trust,NYSE
 COLDF,Cardno Ltd Ordinary shares (Australia),U
 COLE,Cole Office and Industrial REIT CCIT II Inc Common Class A Shares,U
 COLFF,Colabor Group Inc Ordinary Shares(Canada),U
+COLI,Colicity Inc. Class A Common Stock,NASDAQ
 COLIU,Colicity Inc. Units,NASDAQ
+COLIW,Colicity Inc. Warrant,NASDAQ
 COLL,"Collegium Pharmaceutical, Inc. Common Stock",NASDAQ
 COLM,Columbia Sportswear Company Common Stock,NASDAQ
 COLTF,Colt Resources Inc Ordinary Shares (Canada),U
@@ -5451,5 +5453,3 @@ CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAI,Champion Pain Care Corporation Common Stock,U
-CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
-CPB,Campbell Soup Company,NYSE
