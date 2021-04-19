@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
@@ -93,6 +92,7 @@ HADV,Health Advance Inc Common Stock,U
 HAE,Haemonetics Corporation,NYSE
 HAFC,Hanmi Financial Corporation Common Stock,NASDAQ
 HAFG,"Holistic Asset Finance Group Co., Ltd. Common Stock",U
+HAGHY,HENSOLDT AG AMERICAN DEPOSITARY RECEIPTS - Unsponsored (Germany),U
 HAGN,Haha Generation Corp. Common Stock,U
 HAHI,"Help At Home, Inc. Common Stock",U
 HAHRF,Harel Hamishmar Investment Ltd Ordinary Shares (Israel),U
@@ -467,6 +467,7 @@ HKHDY,HKC Holdings Ltd Unsponsored ADR (Bermuda),U
 HKHGF,Hongkong Land Holdings Ltd Ord Ordinary Shares,U
 HKHHF,Heineken Holding NV Ordinary Shares  (Netherlands),U
 HKHHY,Heineken Holding NV Sponsored ADR (Netherlands),U
+HKHKF,Hokuhoku Financial Group Inc Toyama (Japan),U
 HKHUY,"Hokuhoku Financial Group, Inc. American Depositary Receipts - Unsponsored (Japan)",U
 HKIB,AMTD International Inc.,NYSE
 HKMPF,"Hikma Pharmaceuticals plc, London Ordinary Shares (United Kingdom)",U
@@ -900,7 +901,9 @@ HUFAF,Hufvudstaden Ab Shs A Ordinary Shares,U
 HUFUF,Huifu PMT Ltd Ordinary Shares (Cayman Islands),U
 HUGE,FSD Pharma Inc. Class B Subordinate Voting Shares,NASDAQ
 HUGPF,Hugo Boss AG NA O N,U
+HUGS,USHG Acquisition Corp.,NYSE
 HUGS U,"USHG Acquisition Corp. Units, each consisting of one share of Class A Common Stock, and one-third of",NYSE
+HUGS WS,"USHG Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stoc",NYSE
 HUICF,HULIC REIT INC Shs (Japan),U
 HUIHY,Huabao International Holdings Ltd Unsponsored ADR (Bermuda),U
 HUIVF,House Of Investments Inc Shs (Philippines),U
@@ -1121,7 +1124,9 @@ IBDSF,Iberdrola SA Bilbao Ordinary Shares,U
 IBDT,iShares iBonds Dec 2028 Term Corporate ETF,ARCA
 IBDU,iShares iBonds Dec 2029 Term Corporate ETF,ARCA
 IBDV,iShares iBonds Dec 2030 Term Corporate ETF,ARCA
+IBER,Ibere Pharmaceuticals,NYSE
 IBER U,"Ibere Pharmaceuticals Units, each consisting of one Class A ordinary share and one-half of one Redee",NYSE
+IBER WS,"Ibere Pharmaceuticals Redeemable Warrants, each whole warrant exercisable for one Class A ordinary s",NYSE
 IBEX,IBEX Limited Common Shares,NASDAQ
 IBGAF,ISHARES III PLC BARCLAYS GBL AGGREGATE BD USD Exchange Traded Fund,U
 IBGR,"Nexus Energy Services, Inc. Common Stock",U
@@ -1341,6 +1346,7 @@ IFABF,Ifabric Corporation Common Shares (Canada),U
 IFAM,Infrastructure Materials Corp. Common Stock,U
 IFAN,"IFAN Financial, Inc . Common Stock",U
 IFBC,Italian Food & Beverage Corp Common Stock,U
+IFBD,"Infobird Co., Ltd Ordinary Shares",NASDAQ
 IFBH,"IFB Holdings, Inc. Common Stock",U
 IFCI,IFCI International Corporation Common Stock,U
 IFCPF,Intact Financial Corp Non Cumulative Floating Rate Preference Shares Class A Series 4 (Canada),U
@@ -2461,7 +2467,6 @@ JDHIF,JD HEALTH INTL INC Ordinary Shares,U
 JDHIY,JD Health International Inc. American Depositary Receipts - Unsponsored (Cayman Islands),U
 JDIV,JPMorgan U.S. Dividend ETF,ARCA
 JDQTF,"Jasdaq-Top20 ETF, Tokyo UNITS 2010 -without fixed maturity (Japan)",U
-JDSHF,Jardine Strategic Hldgs Ordinary Shares,U
 JDSPY,JD Sports Fashion PLC American Depositary Receipts - Unsponsored (United Kingdom),U
 JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,ARCA
 JDVB,JD BANCSHARES INC Common Stock,U
@@ -2887,7 +2892,9 @@ KBWR,Invesco Exchange-Traded Fund Trust II Invesco KBW Regional Banking ETF,NASD
 KBWY,Invesco Exchange-Traded Fund Trust II Invesco KBW Premium Yield Equity REIT ETF,NASDAQ
 KBYPF,Kobayashi Pharmaceutical Co Ltd Osaka Ordinary Shares (Japan),U
 KC,Kingsoft Cloud Holdings Limited American Depositary Shares,NASDAQ
+KCAC,Kensington Capital Acquisition Corp. II,NYSE
 KCAC U,"Kensington Capital Acquisition Corp. II Units, each consisting of one share of Class A common stock,",NYSE
+KCAC WS,"Kensington Capital Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one",NYSE
 KCAPL,"KCAP Financial, Inc. 6.125% Notes due 2022",NASDAQ
 KCCB,KraneShares CCBS China Corporate High Yield Bond USD Index ETF,ARCA
 KCCFF,Kutcho Copper Corp Ordinary Shares,U
@@ -3218,6 +3225,7 @@ KPCUF,Kasikornbank Public Co Ltd Units Non-Voting Depositary Receipt (Thailand),
 KPDCF,Keppel DC Reit Mgmt Pte Ltd Units REIT Reg S (Singapore),U
 KPELF,Keppel Corp Ltd Cl A Ordinary Shares,U
 KPELY,Keppel Corp Ltd Spons ADR,U
+KPGHF,KELLY PARTNERS GROUP HLDGS LTD Ordinary Shares,U
 KPHWF,"Key Petroleum Ltd, Perth Wa Common Shares (Australia)",U
 KPIFF,"Edgewater Wireless Systems, Inc. Ordinary Shares (Canada)",U
 KPJHF,Kpj Healthcare Bhd Ordinary Shares,U
@@ -3599,7 +3607,7 @@ LECNF,Leclanche SA Yverdon Shs Nom (Switzerland),U
 LECO,"Lincoln Electric Holdings, Inc. Common Shares",NASDAQ
 LECRF,LEOCOR GOLD INC Common Shares,U
 LEDS,SemiLEDS Corporation Common Stock,NASDAQ
-LEE,"Lee Enterprises, Inc.",NYSE
+LEE,"Lee Enterprises, Incorporated Common Stock",NASDAQ
 LEFUF,Leons Furniture Ltd Ordinary Shares,U
 LEG,"Leggett & Platt, Inc.",NYSE
 LEGAU,"Lead Edge Growth Opportunities, Ltd Units",NASDAQ
@@ -3707,7 +3715,7 @@ LGNRF,Legend Holdings Corp Registered\Shares H\Cny 1.00 (China),U
 LGNXZ,Ligand Pharmaceuticals Incorporated Glucagon Contingent Value Rt,U
 LGNYZ,Ligand Pharmaceuticals Incorporated General Contingent Value Right,U
 LGNZZ,Ligand Pharmaceuticals Incorporated Tr Beta Continngent Value Right,U
-LGORF,Largo Resources Ltd Ordinary Shares,U
+LGO,Largo Resources Ltd. Common Shares,NASDAQ
 LGOV,First Trust Long Duration Opportunities ETF,ARCA
 LGOYF,Logo Yazilim Sanayi Ve Ticaret AS Ordinary Shares (Turkey),U
 LGRDY,LEGRAND SA Unsponsored ADR (France),U
@@ -3751,7 +3759,9 @@ LIGA,"LIG Assets, Inc. Common Stock",U
 LIHC,Liberty International Holding Corporation Common Stock,U
 LIHLU,"LARCHMONT INTER HOLDCO, LLC UNIT LTD LIABILITY CO INT Unit",U
 LII,Lennox International Inc.,NYSE
+LIII,Leo Holdings III Corp,NYSE
 LIII U,"Leo Holdings III Corp Units, each consisting of one Class A ordinary share, and one-fifth of one red",NYSE
+LIII WS,"Leo Holdings III Corp Redeemable Warrants, each whole warrant exercisable for one Class A ordinary s",NYSE
 LILA,Liberty Latin America Ltd. Class A Common Stock,NASDAQ
 LILAB,Liberty Latin Amer Ltd Common Stock Cl B,U
 LILAK,Liberty Latin America Ltd. Class C Common Stock,NASDAQ
@@ -4245,8 +4255,10 @@ MACC U,"Mission Advancement Corp. Units, each consisting of one share of Class A
 MACE,"Mace Security International, Inc. Common Stock",U
 MACK,"Merrimack Pharmaceuticals, Inc. Common Stock",NASDAQ
 MACLF,"Maca Ltd, West Perth WA Ordinary Shares (Austrailia)",U
+MACQ,MCAP Acquisition Corporation Class A Common Stock,NASDAQ
 MACQF,Themac Resources Group Limited Ordinary Shares (Canada),U
 MACQU,MCAP Acquisition Corporation Unit,NASDAQ
+MACQW,MCAP Acquisition Corporation Warrants,NASDAQ
 MACU,Mallard Acquisition Corp. Common stock,NASDAQ
 MACUU,Mallard Acquisition Corp. Unit,NASDAQ
 MACUW,Mallard Acquisition Corp. Warrant,NASDAQ
@@ -4606,7 +4618,6 @@ MEJHY,"Meiji Holdings Co. Ltd, Tokyo Unsponsored ADR (Japan)",U
 MEKTF,Mie Kotsu Group Holdings Inc Ordinary Shares (Japan),U
 MELI,"MercadoLibre, Inc. Common Stock",NASDAQ
 MEMI,Miracle Entertainment Inc Common Stock,U
-MEN,"Blackrock Muni Enhanced Fund, Inc.",NYSE
 MENB,"Mendocino Brewing Company, Inc. Common Stock",U
 MENC,Millennium Energy Corp Common Stock,U
 MENEF,Mene Inc Ordinary Shares,U
@@ -4749,7 +4760,6 @@ MH PRA,"MAIDEN HOLDINGS, LTD. 8.25% Non-Cumulative Preference Shares, Series A",
 MH PRC,"Maiden Holdings North America, Ltd. 7.125% Non-Cumulative Preference Shares, Series C",NYSE
 MH PRD,"Maiden Holdings North America, Ltd. 6.700% Non-Cumulative Preference Shares, Series D",NYSE
 MHD,"Blackrock Muniholdings Fund, Inc.",NYSE
-MHE,BlackRock Massachusetts Tax-Exempt Trust,NYSE
 MHF,"Western Asset Municipal High Income Fund, Inc",NYSE
 MHGI,"Midnight Holdings Group, Inc. Common Stock",U
 MHGTU,Michigan Ethanol LLC Cap Unit Cl C,U
@@ -5449,7 +5459,3 @@ MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
-MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
-MTENY,Mahanagar Telephone Nigam Ltd ADS,U
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ

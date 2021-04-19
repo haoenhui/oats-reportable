@@ -1,11 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
-CPB,Campbell Soup Company,NYSE
-CPBLF,ALS Ltd. Ordinary Shares (Australia),U
-CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
-CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
-CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
-CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
@@ -196,6 +189,7 @@ CRMZ,"CreditRiskMonitor.com, Inc. Common Stock",U
 CRNC,Cerence Inc. Common Stock,NASDAQ
 CRNCY,Cairn Energy Plc American Depositary Receipts - Unsponsored,U
 CRNHY,Crest Nicholson Holdings PLC Unsponsored ADR (United Kingdom),U
+CRNLF,CAPRICORN METALS LTD Ordinary Shares,U
 CRNT,Ceragon Networks Ltd. Ordinary Shares,NASDAQ
 CRNX,"Crinetics Pharmaceuticals, Inc. Common Stock",NASDAQ
 CRNY,"China Renyuan International, Inc. Common Stock",U
@@ -448,6 +442,8 @@ CTJHY,Citic Resources Holdings Ltd Unsponsored ADR (Bermuda),U
 CTK,CooTek (Cayman) Inc.,NYSE
 CTLE,Nano Labs Corp. Common,U
 CTLGF,China Tian Lun Gas Holdings Ltd Common Shares (Cayman Islands),U
+CTLP,"Cantaloupe, Inc. Common Stock",NASDAQ
+CTLPP,CANTALOUPE INC Preferred Stock,U
 CTLT,"CATALENT, INC.",NYSE
 CTMCF,Canterra Minerals Corp. Ordinary Shares,U
 CTMLF,Corporate Travel Management Ltd Ordinary Shares (Australia),U
@@ -804,6 +800,7 @@ DANOY,Danone Sponsored ADR (France),U
 DANR,Dana Resources Common Stock,U
 DAO,"Youdao, Inc. American Depositary Shares, each representing one Class A Ordinary Share",NYSE
 DAPP,VanEck Vectors ETF Trust VanEck Vectors Digital Transformation ETF,NASDAQ
+DAPR,FT Cboe Vest U.S. Equity Deep Buffer ETF - April,BATS
 DAR,DARLING INGREDIENTS INC.,NYSE
 DARE,"Dare Bioscience, Inc. Common Stock",NASDAQ
 DASH,"DoorDash, Inc.",NYSE
@@ -2071,7 +2068,9 @@ EIS,iShares MSCI Israel ETF,ARCA
 EITWY,EI Tower Spa Unsponsored ADR (Italy),U
 EIX,Edison International,NYSE
 EJAN,Innovator MSCI Emerging Markets Power Buffer ETF-January,ARCA
+EJFA,EJF Acquisition Corp. Class A Ordinary Share,NASDAQ
 EJFAU,EJF Acquisition Corp. Unit,NASDAQ
+EJFAW,EJF Acquisition Corp. Warrant,NASDAQ
 EJPRF,East Japan Railway Co Ordinary Shares,U
 EJPRY,East Japan Railway Co Unsponsored ADR (Japan),U
 EJTTF,Easyjet Plc Ordinary Shares GBP 0.27285714 (United Kingdom),U
@@ -2966,7 +2965,9 @@ FACA U,"Figure Acquisition Corp. I Units, each consisting of one share of Class 
 FACA WS,"Figure Acquisition Corp. I Redeemable warrants, each whole warrant exercisable for one share of Clas",NYSE
 FACCF,First Asset Cambridge Core CDN Equity ETF Unit (Canada),U
 FACO,First Acceptance Corp. Common Stock,U
+FACT,Freedom Acquisition I Corp.,NYSE
 FACT U,"Freedom Acquisition I Corp. Units, each consisting of one Class A ordinary share and one-fourth of o",NYSE
+FACT WS,"Freedom Acquisition I Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordi",NYSE
 FACYF,Fancl Corp Yokohama Ordinary Shares (Japan),U
 FAD,First Trust Multi Cap Growth AlphaDEX Fund,NASDAQ
 FADCF,First Asset Cdn Divid Opportunity Fd Units (Canada),U
@@ -2993,6 +2994,7 @@ FANH,Fanhua Inc. American Depositary Shares,NASDAQ
 FANUF,Fanuc Limited Ordinary Shares,U
 FANUY,Fanuc Corporation Unsponsored ADR (Japan),U
 FAPPF,CI First Asset Active Util & Infrastructure ETF Common Shares,U
+FAPR,FT Cboe Vest U.S. Equity Buffer ETF - April,BATS
 FARE,"World Moto, Inc. Common Stock",U
 FARM,Farmer Brothers Company Common Stock,NASDAQ
 FARO,"FARO Technologies, Inc. Common Stock",NASDAQ
@@ -3497,7 +3499,9 @@ FLLV,Franklin Liberty U.S. Low Volatility ETF,ARCA
 FLLZ,Fellazo Corp Common Stock,U
 FLM,First Trust Global Engineering and Construction ETF,ARCA
 FLMB,Franklin Liberty Federal Tax-Free Bond ETF,ARCA
+FLME,Flame Acquisition Corp.,NYSE
 FLME U,"Flame Acquisition Corp. Units, each consisting of one share of Class A Common Stock, and one-half of",NYSE
+FLME WS,"Flame Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Sto",NYSE
 FLMI,Franklin Liberty Federal Intermediate Tax-Free Bond Opportunities ETF,ARCA
 FLMMF,Filo Mining Corp Common Shares (Canada),U
 FLMN,Falcon Minerals Corporation Class A Common Stock,NASDAQ
@@ -3810,7 +3814,6 @@ FPRGF,Falco Resources Ltd. Common Shares (Canada),U
 FPRO,Fidelity Real Estate Investment ETF,BATS
 FPRUF,Fraport AG Ordinary Shares (Germany),U
 FPRUY,Fraport AG Unsponsored ADR (Germany),U
-FPRX,"Five Prime Therapeutics, Inc. Common Stock",NASDAQ
 FPSUF,Capha Pharmaceuticals Inc Common Shares,U
 FPVD,Force Protection Video Equipment Corp. Common Stock,U
 FPVTF,Golden Pursuit Resources Ltd. Common Shares,U
@@ -3978,7 +3981,9 @@ FSMEN,"Fresenius Medical Care Holdings, Inc. Series B 8% Preferred Stock",U
 FSMEO,"Fresenius Medical Care Holdings, Inc. Series A 8% Preferred Stock",U
 FSMK,1st Summit Bancorp Johnstown Inc Common Stock,U
 FSMO,Fidelity Small-Mid Cap Opportunities ETF,BATS
+FSNB,Fusion Acquisition Corp. II,NYSE
 FSNB U,"Fusion Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-thir",NYSE
+FSNB WS,"Fusion Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one share of Cla",NYSE
 FSNJ,First State Bank (NJ) Common Stock,U
 FSNR,"Freestone Resources, Inc. Common Stock",U
 FSNUF,FRESENIUS SE & CO KGAA  Ordinary Shares,U
@@ -3989,7 +3994,6 @@ FSP,Franklin Street Properties Corp,AMEX
 FSPKF,Fisher & Paykel Healthcare Corporation Limited Ordinary Shares,U
 FSPM,"Fusion Pharm, Inc. Common Stock",U
 FSR,Fisker Inc.,NYSE
-FSR WS,"Fisker Inc. Warrants, each whole warrant exercisable for one Class A common stock at an exercise pri",NYSE
 FSRCY,First Resources Ltd Unsponsored ADR (Singapore),U
 FSRL,"First Reliance Bancshares, Inc. (SC) Common Stock",U
 FSRPF,Frasers Ppty Ltd Ordinary Shares,U
@@ -4677,7 +4681,9 @@ GIGNF,GENTING SINGAPORE LTD Ordinary Shares,U
 GIGNY,Genting Singapore Limited American Depositary Receipts - Unsponsored,U
 GII,SPDR S&P Global Infrastructure ETF,ARCA
 GIII,"G-III Apparel Group, LTD. Common Stock",NASDAQ
+GIIX,"Gores Holdings VIII, Inc. Class A Common Stock",NASDAQ
 GIIXU,"Gores Holdings VIII, Inc. Unit",NASDAQ
+GIIXW,"Gores Holdings VIII, Inc. Warrant",NASDAQ
 GIIZF,Global Diversified Investment Grade Income Trust II 2005-1 Fixed/Resetting Rate Unit (Canada),U
 GIK,"GigCapital3, Inc.",NYSE
 GIK U,"GigCapital3, Inc. Units, each consisting of one share of Common Stock and three-fourths of one Redee",NYSE
@@ -5453,3 +5459,4 @@ GVSI,Good Vibrations Shoes Inc. Common Stock,U
 GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
 GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
 GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
+GWACW,Good Works Acquisition Corp. Warrant,NASDAQ

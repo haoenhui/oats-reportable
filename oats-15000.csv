@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
+MTENY,Mahanagar Telephone Nigam Ltd ADS,U
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
@@ -143,7 +147,7 @@ MWTCF,Manila Water Company Inc Ordinary Shares (Phillippines),U
 MWTCY,Manila Water Company Inc Unsponsored ADR (Phillippines),U
 MWTRF,MELTWATER HLDG B V (Netherlands),U
 MWWC,Marketing Worldwide Corporation Common Stock,U
-MWXRD,Mineworx Technologies Ltd. Ordinary Shares,U
+MWXRF,Mineworx Technologies Ltd. Ordinary Shares,U
 MX,Magnachip Semiconductor Corp.,NYSE
 MXAAF,M.A.X. Automation SE Ordinary Shares (Germany),U
 MXBGF,Multi Units Luxemboug Sicav L.E. 1-3 Y I.G. (DR) UCITS Exchange Traded Fund (Luxembourg),U
@@ -187,16 +191,15 @@ MYD,"Blackrock Muniyield Fund, Inc.",NYSE
 MYDIF,MYCONIC CAP CORP COM (Canada),U
 MYDX,"MyDx, Inc. Common Stock",U
 MYE,"Myers Industries, Inc.",NYSE
-MYF,"Blackrock Muni Yield Investment Fund, Inc.",NYSE
 MYFT,"My Freightworld Technologies, Inc. Common Stock",U
 MYFW,"First Western Financial, Inc. Common Stock",NASDAQ
-MYGG,MyGo Games Holding Co. Common Stock,U
 MYGN,"Myriad Genetics, Inc. Common Stock",NASDAQ
 MYHI,Mountain High Acquisitions Corp. COM,U
 MYI,"BLACKROCK MUNIYIELD QUALITY FUND III, INC.",NYSE
 MYIDD,KILLI LTD Common Shares,U
 MYJ,"Blackrock Muni Yield New Jersey Fund, Inc.",NYSE
 MYLUY,Malayan Utd Inds Berhad Ord American Depositary Shares,U
+MYMD,"MyMD Pharmaceuticals, Inc. Common Stock",NASDAQ
 MYMMF,MYM Nutraceuticals Inc Ordinary Shares (Canada),U
 MYMRF,Myanmar Metals Ltd Ordinary Shares (Austrailia),U
 MYMX,Mymetics Corporation Common Stock,U
@@ -224,7 +227,6 @@ MYTHF,Mytilineos Hldgs Sa Ordinary Shares,U
 MYTHY,Mytilineos S.A. American Depositary Receipts - Unsponsored,U
 MYY,ProShares Short MidCap400,ARCA
 MYZQF,Advanced Human Imaging Ltd Ordinary Shares,U
-MZA,"BlackRock MuniYield Arizona Fund, Inc",NYSE
 MZDAF,Mazda Motor Corp Ordinary Shares (Japan),U
 MZDAY,Mazda Motor Corp Unsponsored ADR (Japan),U
 MZEIQ,"Medizone International, Inc. Common Stock",U
@@ -859,6 +861,7 @@ NPACF,Quadient SA Ordinary Shares,U
 NPACY,Quadient S.A. American Depositary Receipts - Unsponsored,U
 NPAKF,North Pacific Bank Ltd. Ordinary Shares (Japan),U
 NPCDF,"NIPPON COMMERCIAL DEVELOPEMNT CO LTD, OSAKA Ordinary Shares",U
+NPCE,"Neuropace, Inc. Common Stock",NASDAQ
 NPCPF,Nippon Paint HLDGS Co Ltd Ord Ordinary Shares,U
 NPCUF,Allon Therapeutics Inc Ordinary Shares (Canada),U
 NPDCF,New Placer Dome Gold Corp. Common Shares,U
@@ -2291,7 +2294,7 @@ PEJ,Invesco Dynamic Leisure and Entertainment ETF,ARCA
 PEMC,Pacific Energy & Mining Co New Common Stock,U
 PEMIF,Pure Energy Minerals Ltd. Ordinary Shares,U
 PEMSF,Pacific Empire Minerals Corporation Common Shares (Canada),U
-PEMTF,Thoughful Brands Inc.  Common Shares,U
+PEMTF,Thoughtful Brands Inc.  Common Shares,U
 PEN,"Penumbra, Inc.",NYSE
 PENMF,Peninsula Energy Ltd Ordinary Shares,U
 PENN,"Penn National Gaming, Inc. Common Stock",NASDAQ
@@ -2912,7 +2915,6 @@ PPMH,"Point to Point Methodics, Inc. Common Stock",U
 PPMT,"Profit Planners Management, Inc. Common Stock",U
 PPOKF,PT Charoen Pokphand Indonesia Tbk Ordinary Shares (Indonesia),U
 PPOTF,Pacific Silk Road Resources Group Inc.  Common Shares,U
-PPPS,"iSocialy, Inc. Common Stock",U
 PPR,VOYA PRIME RATE TRUST,NYSE
 PPRG,"Patient Portal Technologies, Inc. New  Common Stock",U
 PPRQF,Choice Pptys Real Estate Invt Tr TR Unit (Canada),U
@@ -2951,7 +2953,6 @@ PRBDF,Personal Group Holdings Ordinary Shares (United Kingdom),U
 PRBZF,Premium Brands Holdings Corporation (Canada),U
 PRCF,Protein Reactor Combined Fuels Inc Common Stock,U
 PRCH,"Porch Group, Inc. Common Stock",NASDAQ
-PRCHW,"Porch Group, Inc. Warrant",NASDAQ
 PRCK,Placer Creek Mining Co Common Stock,U
 PRCNF,Pure Global Cannabis Inc Common Shares,U
 PRCRF,PROCURRI CORP LTD Ordinary Shares,U
@@ -3086,6 +3087,7 @@ PRTY,Party City Holdco Inc.,NYSE
 PRU,"Prudential Financial, Inc.",NYSE
 PRVB,"Provention Bio, Inc. Common Stock",NASDAQ
 PRVCF,PreveCeutical Medical Inc. Ordinary Shares (Canada),U
+PRVRF,PROVINCE RES LTD Ordinary Shares,U
 PRVU,"PreVu, Incorporated Common Stock",U
 PRWWW,PRWireless PR Inc Wt Expiring 06/27/2024,U
 PRWYF,Prodways Group Common Stock (France),U
@@ -4565,6 +4567,7 @@ RTLLF,Rational Ag Landsberg Am Lech Ordinary Shares,U
 RTLR,Rattler Midstream LP Common Units,NASDAQ
 RTM,Invesco S&P 500 Equal Weight Materials ETF,ARCA
 RTMAF,"Reitmans (Canada), Ltd. Class A (Canada)",U
+RTME,RTCORE INC Common Stock,U
 RTMFF,RT Minerals Corp Common Shares,U
 RTMNF,"Reitmans (Canada), Ltd. Ordinary Shares (Canada)",U
 RTMVF,Rightmove PLC Ordinary Shares,U
@@ -4853,7 +4856,9 @@ SBCF,Seacoast Banking Corporation of Florida Common Stock,NASDAQ
 SBDCF,SBD Capital Corp Common Shares,U
 SBDG,"Small Business Development Group, Inc. Common Stock",U
 SBDKP,Stanley Black & Decker Inc. 4.75% Perp Cum Convertible Pfd Series B,U
+SBEA,SilverBox Engaged Merger Corp I Class A Common Stock,NASDAQ
 SBEAU,SilverBox Engaged Merger Corp I Units,NASDAQ
+SBEAW,SilverBox Engaged Merger Corp I Warrant,NASDAQ
 SBES,"South Beach Spirits, Inc. Common Stock",U
 SBEV,SPLASH BEVERAGE GROUP INC Common Stock,U
 SBFFF,SBM Offshore Nv Ordinary Shares (Netherlands),U
@@ -5019,7 +5024,6 @@ SCON,Superconductor Technologies Inc. Common Stock,U
 SCOO,"School Specialty, Inc. Com",U
 SCOR,"comScore, Inc. Common Stock",NASDAQ
 SCOTF,Scout24 AG Ordinary Shares (Germany),U
-SCOUF,SCOUT24 AG ANDIEN Rights (Germany),U
 SCPAF,Shopping Centres Australasia Property Group Stapled Security (Australia),U
 SCPE,SC Health Corporation,NYSE
 SCPE U,"SC Health Corporation Units, each consisting of one Class A ordinary share, $0.0001 par value, and o",NYSE
@@ -5443,6 +5447,7 @@ SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
+SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
@@ -5453,3 +5458,4 @@ SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
+SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U

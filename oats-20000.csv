@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
 SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
@@ -274,6 +273,7 @@ SKYE,"Skye Bioscience, Inc. Common Stock",U
 SKYF,SKY440 Inc Common Stock,U
 SKYI,"Sky Century Investment, Inc. Common Stock",U
 SKYL,Sky Resort International Ltd. Common Stock,U
+SKYT,"SkyWater Technology, Inc. Common Stock",NASDAQ
 SKYU,ProShares Trust ProShares Ultra Nasdaq Cloud Computing ETF,NASDAQ
 SKYW,"SkyWest, Inc. Common Stock",NASDAQ
 SKYY,First Trust Cloud Computing ETF,NASDAQ
@@ -974,6 +974,7 @@ SQFT,"Presidio Property Trust, Inc. Class A Common Stock",NASDAQ
 SQIDF,SQI Diagnostics Inc Ordinary Shares (Canada),U
 SQLV,Legg Mason ETF Investment Trust Legg Mason Small-Cap Quality Value ETF,NASDAQ
 SQM,Sociedad Quimica y Minera de Chile SA,NYSE
+SQMRF,SOCIEDAD QUIMICA Y MINERA DE CHILE S A RT REPSTG SPONSORED ADR (Chile),U
 SQNNY,Square Enix Hldgs Co Ltd American Depositary Receipts - Unsponsored Repstg Com Stk (Japan),U
 SQNS,"Sequans Communications S.A. American Depositary Shares, each representing four Ordinary Shares",NYSE
 SQNXF,Square Enix Co Ltd Ordinary Shares (Japan),U
@@ -1053,7 +1054,9 @@ SRMUF,Shear Diamonds Ltd New Ordinary Shares (Canada),U
 SRMX,"Saddle Ranch Media, Inc. Common Stock",U
 SRNA,Surna Inc. Common,U
 SRNE,"Sorrento Therapeutics, Inc.  Common Stock",NASDAQ
+SRNG,Soaring Eagle Acquisition Corp. Class A Ordinary Share,NASDAQ
 SRNGU,Soaring Eagle Acquisition Corp. Unit,NASDAQ
+SRNGW,Soaring Eagle Acquisition Corp. Warrant,NASDAQ
 SRNN,"Southern Banc Company, Inc. (The) Common Stock",U
 SRNW,Stratos Renewables Corporation Common Stock,U
 SRNXF,Sourcenext Corp Ordinary Shares,U
@@ -1562,6 +1565,7 @@ SWGI,Star Wealth Group Inc. Common Stock,U
 SWGNF,Swatch Group Ag (The) Namen AKT (Switzerland)Ordinary Shares,U
 SWGRF,SWORD GROUP Ordinary Shares  France(FR ),U
 SWI,SolarWinds Corporation Common Stock,NYSE
+SWIM,"Latham Group, Inc. Common Stock",NASDAQ
 SWIOU,Southwest Iowa Renewable Energy LLC Units Class A,U
 SWIR,"Sierra Wireless, Inc. Common Stock",NASDAQ
 SWISF,GlobeX Data Ltd. Common Stock,U
@@ -2069,8 +2073,8 @@ TGGI,"Trans Global Group, Inc. Common Stock",U
 TGGLF,Tegel Group Holdings Ltd Ordinary Shares (New Zealand),U
 TGGRF,Taruga Gold Ltd Ordinary Shares (Australia),U
 TGH,Textainer Group Holdings limited,NYSE
+TGH PRA,"Textainer Group Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share",NYSE
 TGHI,"Touchpoint Group Holdings, Inc. Common Stock",U
-TGHLF,TEXTAINER GROUP HLDGS LTD DEP SHS REPSTG 1/1000TH PERP PREF SHS SER A Depositary Shares,U
 TGI,"Triumph Group, Inc.",NYSE
 TGIC,Triad Guaranty Inc. Common Stock,U
 TGIF,SoFi Weekly Income ETF,ARCA
@@ -3026,7 +3030,9 @@ TWIN,"Twin Disc, Incorporated Common Stock",NASDAQ
 TWIO,Trajan Wealth Income Opportunities ETF,ARCA
 TWIRF,Tree Island Steel Ltd. Ordinary Shares (Canada),U
 TWLO,Twilio Inc.,NYSE
+TWLV,Twelve Seas Investment Company II Class A Common Stock,NASDAQ
 TWLVU,Twelve Seas Investment Company II Unit,NASDAQ
+TWLVW,Twelve Seas Investment Company II Warrant,NASDAQ
 TWM,ProShares UltraShort Russell2000,ARCA
 TWMIF,Tidewater Midstream & Infrastructure Ltd. Ordinary Shares (Canada),U
 TWN,"Taiwan Fund, Inc.",NYSE
@@ -3468,8 +3474,6 @@ USAM,U.S. Automotive Manufacturing Inc. Common Stock,U
 USAP,"Universal Stainless & Alloy Products, Inc. Common Stock",NASDAQ
 USAQ,USA Equities Corp. Common Stock,U
 USAS,Americas Gold and Silver Corporation,AMEX
-USAT,"USA Technologies, Inc. Common Stock",NASDAQ
-USATP,"USA Technologies, Inc. Series A Convertible Preferred Stock",U
 USAU,U.S. Gold Corp. Common Stock,NASDAQ
 USB,U.S. Bancorp,NYSE
 USB PRA,U.S. Bancorp Depositary Shares (each representing a 1/100th interest in a share of Series A Non-Cumu,NYSE
@@ -3582,6 +3586,7 @@ UURAF,"Ucore Rare Metals, Inc. Common Shares",U
 UUU,"Universal Security Instruments, Inc.",AMEX
 UUUU,Energy Fuels Inc.,AMEX
 UUUU WS,Energy Fuels Inc.,AMEX
+UVBIL,UNIVERSAL BIOSENSOR INC CHESS DEPOSITARY INTERESTS 1:1 Other,U
 UVCL,"UniverCell Holdings, Inc. Common Stock",U
 UVE,"UNIVERSAL INSURANCE HLDG, INC.",NYSE
 UVFT,"UV Flu Technologies, Inc. Common Stock",U
@@ -3928,7 +3933,6 @@ VLEEY,Valeo Sa Ord American Depositary Shares,U
 VLEOF,Voleo Trading Sys Inc Ordinary Shares,U
 VLGDF,VALUE GOLD ETF UNITS EXCHANGE -TRADED FUND (Hong Kong),U
 VLGEA,"Village Super Market, Inc. Class A Common Stock",NASDAQ
-VLGGF,"VOLGA GAS PLC, LONDON SHS (United Kingdom)",U
 VLKAF,Volkswagen A G Ord Ordinary Shares,U
 VLKPF,Volkswagen A G Ord Ordinary Shares,U
 VLLX,Valley Republic Bancorp Common Stock,U
@@ -4332,7 +4336,9 @@ WARFF,Wharf Holdings Ltd Ordinary Shares,U
 WARFY,Wharf Holdings Ltd Ord Unsponsored ADR (Hong Kong),U
 WARGF,Warrior Gold Inc Ordinary Shares,U
 WARM,"Cool Technologies, Inc. Common Stock",U
+WARR,Warrior Technologies Acquisition Company,NYSE
 WARR U,"Warrior Technologies Acquisition Company Units, each consisting of one share of Class A common stock",NYSE
+WARR WS,"Warrior Technologies Acquisition Company Warrants, each whole warrant exercisable for one share of C",NYSE
 WASEF,WAH SEONG CORPORATION BHD Ordinary Shares,U
 WASH,"Washington Trust Bancorp, Inc. Common Stock",NASDAQ
 WAT,Waters Corp,NYSE

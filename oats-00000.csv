@@ -868,7 +868,6 @@ AKBTY,Akbank Turk Anonim Sirketi ADR (Turkey),U
 AKCCF,AKER CARBON CAPTURE AS Ordinary Shares,U
 AKCPF,Asustek Computer Inc Ord Ordinary Shares,U
 AKEJF,Ariake Japan Ordinary Shares,U
-AKER,Akers Biosciences Inc. Common Stock,NASDAQ
 AKHOF,Aker Horizons AS Common Shares (Norway),U
 AKIC,Sports Ventures Acquisition Corp. Class A Ordinary Shares,NASDAQ
 AKICU,Sports Ventures Acquisition Corp. Unit,NASDAQ
@@ -1835,7 +1834,9 @@ ASXFY,ASX Ltd Unsponsored ADR (Australia),U
 ASXH,"Aspen International Holdings, Inc. Common Stock",U
 ASXSF,Elysee Development Corp. Common Shares,U
 ASYS,"Amtech Systems, Inc. Common Stock",NASDAQ
+ASZ,Austerlitz Acquisition Corporation II,NYSE
 ASZ U,"Austerlitz Acquisition Corporation II Units, each consisting of one Class A ordinary share and one-f",NYSE
+ASZ WS,"Austerlitz Acquisition Corporation II Warrants, each whole Warrant exercisable for one Class A Ordin",NYSE
 ASZP,"JV Group, Inc. Common Stock",U
 AT,Atlantic Power Corporation,NYSE
 ATA,Americas Technology Acquisition Corp.,NYSE
@@ -2033,7 +2034,9 @@ AURI,"Auri, Inc. New Common Stock",U
 AURQF,Aurelius Minerals Inc Common Shares (Canada),U
 AURT,Attune RTD Common Stock,U
 AURX,"Nuo Therapeutics, Inc Common Stock",U
+AUS,Austerlitz Acquisition Corporation I,NYSE
 AUS U,"Austerlitz Acquisition Corporation I Units, each consisting of one Class A ordinary share and one-fo",NYSE
+AUS WS,"Austerlitz Acquisition Corporation I Warrants, each whole Warrant exercisable for one Class A Ordina",NYSE
 AUSAF,Australis Capital Inc Common Shares (Canada),U
 AUSDF,Perenti Global Ltd.  Ordinary Shares,U
 AUSF,Global X Adaptive U.S. Factor ETF,ARCA
@@ -3160,7 +3163,6 @@ BMTLF,Bemetals Corp Common Shares  (Canada),U
 BMTM,"Bright Mountain Media, Inc. Common Stock",U
 BMTX,"BM Technologies, Inc.",AMEX
 BMTX WS,"BM Technologies, Inc. Warrants, each warrant exercisable for one share of Common Stock at an exercis",AMEX
-BMWLF,Bluma Wellness Inc Common Shares  (Canada),U
 BMWYY,Bayerische Motoren Werke Ag Pf American Depositary Receipts - Sponsored (Germany),U
 BMXC,BEMAX INC Common Stock,U
 BMXI,Brookmount Explorations Inc. Common Stock,U
@@ -3829,7 +3831,6 @@ BZIC,Beamz Interactive Inc Common Stock,U
 BZLFF,Bunzl Plc NEW Ordinary Shares (UK),U
 BZLFY,Bunzl Plc American Depositary Shares,U
 BZLYF,Beazley PLC Ordinary Shares (United Kingdom),U
-BZM,BlackRock Maryland Municipal Bond Trust,NYSE
 BZQ,ProShares UltraShort MSCI Brazil Capped,ARCA
 BZQIF,Bezeq The Israeli Telecommunication Corp Ltd Ordinary Shares,U
 BZQIY,Bezeq The Israeli Telecommunication Corp Ltd Unsponsored ADR (Israel),U
@@ -4967,7 +4968,6 @@ CLPXF,China Longyuan Power Group Ordinary Shares -H- (China),U
 CLPXY,China Longyuan Power Group Unsponsored ADR (China),U
 CLR,CONTINENTAL RESOURCES INC.,NYSE
 CLRB,"Cellectar Biosciences, Inc.  Common Stock",NASDAQ
-CLRBZ,"Cellectar Biosciences, Inc. Series A Warrants",NASDAQ
 CLRG,IndexIQ ETF Trust IQ Chaikin U.S. Large Cap ETF,NASDAQ
 CLRI,"Cleartronic, Inc. Common Stock",U
 CLRM,Clarim Acquisition Corp. Class A Common Stock,NASDAQ
@@ -5244,7 +5244,7 @@ CNO,"CNO Financial Group, Inc.",NYSE
 CNO PRA,"CNO Financial Group, Inc. 5.125% Subordinated Debentures due 2060",NYSE
 CNOB,"ConnectOne Bancorp, Inc. Common Stock",NASDAQ
 CNOBF,HEMLO EXPLORERS INC Common Shares,U
-CNONF,CannaOne Technologies Inc. Canada (CA) Common Stock,U
+CNONF,LYNX GLOBAL DIGITAL FIN CORP Common Stock,U
 CNP,"CenterPoint Energy, Inc.",NYSE
 CNP PRB,"CenterPoint Energy, Inc. Depositary Shares Each Representing a 1/20th Interest in a Share of 7.00% S",NYSE
 CNPAF,CNP Assurances SA Ordinary Shares (France),U
@@ -5453,3 +5453,10 @@ CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAI,Champion Pain Care Corporation Common Stock,U
+CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
+CPB,Campbell Soup Company,NYSE
+CPBLF,ALS Ltd. Ordinary Shares (Australia),U
+CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
+CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
+CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
+CPCC,"Striper Energy, Inc. Common Stock",U
