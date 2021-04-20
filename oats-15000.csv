@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
@@ -773,7 +774,7 @@ NNGPF,NN Group NV Ordinary Shares (Netherlands),U
 NNGRF,NANOREPRO AG SHS (Germany Federal Republic),U
 NNGRY,NN Group NV American Depositary Receipts - Unsponsored (Netherlands),U
 NNGVF,Tesoro Minerals Corp. Common Shares (Canada),U
-NNHHD,NHS INDUSTRIES LTD Ordinary Shares,U
+NNHHF,NHS INDUSTRIES LTD Ordinary Shares,U
 NNI,"Nelnet, Inc. Class A",NYSE
 NNLX,"NanoLogix, Inc. Common Stock",U
 NNMIF,Nearctic Nickel Mines Inc Ordinary Shares (Canada),U
@@ -1106,6 +1107,7 @@ NTTHF,Neo Lithium Corp  Ordinary Shares (Canada),U
 NTTIF,Novatti Group Ltd Ordinary Shares (Australia),U
 NTTNP,National Gen Hldgs Corp Depository Sh Repstg 1/40th Pfd Ser C 7.50%,U
 NTTYY,Nippon Telegraph and Telephone Corporation American Depositary Shares - Sponsored,U
+NTULF,Nihon Unisys Ltd Ordinary Shares (Japan),U
 NTUR,"Natural Blue Resources, Inc. Common Stock",U
 NTUS,Natus Medical Incorporated Common Stock,NASDAQ
 NTWB,Northwest Bk & Tr Co Davenport New Common Stock,U
@@ -1328,7 +1330,6 @@ NXTFF,Nextraction Energy Corp Ordinary Shares,U
 NXTG,First Trust Indxx NextG ETF,NASDAQ
 NXTH,"NXT Nutritionals Holdings, Inc. Common Stock",U
 NXTN,"Next10, Inc. Common Stock",U
-NXTOF,NEXSTIM OYJ Rights   05/31/2021,U
 NXTTF,Namaste Technologies Inc Ordinary Shares (Canada) Common Shares,U
 NXTUF,FIRST TR GLOBAL FDS PLC SHS CLASS -A- JPY ETF (Ireland),U
 NXTYQ,Nexity Financial Corporation Common Stock,U
@@ -2031,6 +2032,7 @@ PASMF,Premier Asset Management Group Ordinary Shares (United Kingdom),U
 PASO,Patient Access Solutions Inc. Common Stock,U
 PASTF,Plastic Omnium Ordinary Shares (France),U
 PASTY,PLASTIC OMNIUM Unsponsored American Depositary Receipts (France),U
+PATH,"UiPath, Inc.",NYSE
 PATI,"Patriot Transportation Holding, Inc. Common Stock",NASDAQ
 PATK,"Patrick Industries, Inc. Common Stock",NASDAQ
 PATLF,"Patrys Limited, Melbourne Ordinary Shares",U
@@ -2977,7 +2979,6 @@ PREKF,Prairiesky Royalty Ltd. Ordinary Shares (Canada),U
 PRENU,Prairie Ethanol LLC  Unit,U
 PRESF,Perpetual Resources Limited Ordinary Shares (Australia),U
 PREUF,Prosperity Real Estate Investment Trust Units (Hong Kong),U
-PREX,Progress Energy Inc Contingent value obligation,U
 PREXF,POWER RESOURCE EXPLORATION INC. NEW Common Stock (Canada),U
 PRF,Invesco FTSE RAFI US 1000 ETF,ARCA
 PRFT,"Perficient, Inc. Common Stock",NASDAQ
@@ -3507,6 +3508,7 @@ PYCFF,Mount Logan Cap Inc Ordinary Shares,U
 PYCT,"Paychest, Inc. Common Stock",U
 PYDPF,Pyramid Petroleum Inc Common Shares (Canada),U
 PYHOF,"Playmates Holdings, Ltd. Ordinary Shares",U
+PYIFF,PYI Corporation Ltd Ordinary Shares (Bermuda),U
 PYIYF,Property For Industry Ltd Shs (New Zealand),U
 PYIYY,Property For Industry Ltd Ord Unsponsored ADR (New Zealand),U
 PYMOF,HYDROCARBON DYNAMICS LTD Ordinary Shares,U
@@ -3588,6 +3590,7 @@ QEGY,Quantum Energy Inc. Common Stock,U
 QELL,Qell Acquisition Corp. Class A Ordinary Shares,NASDAQ
 QELLU,Qell Acquisition Corp. Unit,NASDAQ
 QELLW,Qell Acquisition Corp. Warrant,NASDAQ
+QEMFF,Qem Ltd Ordinary Shares (Australia),U
 QEMM,SPDR MSCI Emerging Markets StrategicFactors ETF,ARCA
 QENC,Queench Inc Common Stock,U
 QEPC,"Q.E.P. Co., Inc. Common Stock",U
@@ -4118,7 +4121,7 @@ RGMP,Regnum Corp Common Stock,U
 RGNNF,RENERGEN LTD Ordinary Shares  South Africa(ZA ),U
 RGNTF,"RENERGEN LTD, CHESS DEPOSITARY INTERESTS  (South Africa)",U
 RGNX,REGENXBIO Inc. Common Stock,NASDAQ
-RGOZD,"Range Energy Resources, Inc. Common Shares",U
+RGOZF,"Range Energy Resources, Inc. Common Shares",U
 RGP,"Resources Connection, Inc. Common Stock",NASDAQ
 RGPCF,RATCH GROUP PUB CO LTD Ordinary Shares  (Thailand),U
 RGPMF,Enwell Energy Plc Common Shares,U
@@ -4421,6 +4424,7 @@ ROLL,RBC Bearings Incorporated Common Stock,NASDAQ
 ROM,ProShares Ultra Technology,ARCA
 ROMJF,Rubicon Organics Inc Common Shares (Canada),U
 ROMO,Strategy Shares Newfound/ReSolve Robust Momentum ETF,BATS
+ROMWF,Rubicon Organics Inc Warrant Exp 02/26/2024 (Canada),U
 RONWF,"Roan Holdings Group Co., Ltd. Warrant   07/06/2021",U
 ROOF,IQ US REAL ESTATE SMALL CAP ETF,ARCA
 ROOT,"Root, Inc. Class A Common Stock",NASDAQ
@@ -4588,6 +4592,7 @@ RTPYU,Reinvent Technology Partners Y Unit,NASDAQ
 RTPZ,Reinvent Technology Partners Z,NYSE
 RTPZ U,"Reinvent Technology Partners Z Units, each consisting of one Class A ordinary share and one-fifth o",NYSE
 RTPZ WS,"Reinvent Technology Partners Z Redeemable warrants, each whole warrant exercisable for one Class A o",NYSE
+RTRFF,"Rumble Resources Ltd, Subiaco, WA Ordinary Shares (Australia)",U
 RTRK,Red Truck Entertainment Inc. Common Stock,U
 RTRZY,Rieter Holding AG Unsponsored ADR (Switzerland),U
 RTSL,"Rapid Therapeutic Science Laboratories, Inc. Common Stock",U
@@ -4790,7 +4795,7 @@ SALRY,Salmar ASA Unsponsored ADR (Norway),U
 SAM,Boston Beer Company,NYSE
 SAMAU,Schultze Special Purpose Acquisition Corp. II Units,NASDAQ
 SAMG,Silvercrest Asset Management Group Inc. Class A Common Stock,NASDAQ
-SAMLD,"Samsara Luggage, Inc. Common Stock",U
+SAML,"Samsara Luggage, Inc. Common Stock",U
 SAMMF,Sama Resources Inc./Ressources Sama Inc Ordinary Shares (Canada),U
 SAMOF,Sangoma Technologies Corporation Ordinary Shares,U
 SAMZF,Samui Airport Property Fund Units (Thailand),U
@@ -5456,6 +5461,3 @@ SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
-SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
-SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
-SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U

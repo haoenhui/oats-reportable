@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
@@ -834,6 +835,7 @@ DBEH,iM DBi Hedge Strategy ETF,ARCA
 DBEM,Xtrackers MSCI Emerging Markets Hedged Equity ETF,ARCA
 DBEU,Xtrackers MSCI Europe Hedged Equity ETF,ARCA
 DBEZ,Xtrackers MSCI Eurozone Hedged Equity ETF,ARCA
+DBGCF,"DB ETC PLC, JERSEY ETC SECURITIES PHYSICAL GOLD COMMODITY Other",U
 DBGF,Panex Resources Inc. Common Stock,U
 DBGR,Xtrackers MSCI Germany Hedged Equity ETF,ARCA
 DBI,Designer Brands Inc.,NYSE
@@ -2503,7 +2505,6 @@ EQXWF,Equinox Gold Corp Warrant,U
 ERAO,"Energy Revenue America, Inc. Common Stock",U
 ERBB,"American Green, Inc. Common Stock",U
 ERC,Wells Fargo  Multi-Sector Income Fund,AMEX
-ERCHF,EARTH CORP Ordinary Shares (Japan),U
 ERCLY,EUROCELL PLC American Depositary Receipts - Unsponsored (United Kingdom),U
 ERCTF,SSGA SPDR ETFS EUROPE II PLC MSCI EUROPE CONSUMER STAPLES (UCITS) Exchange Traded Fund,U
 ERDCF,Erdene Resource Development Corporation Common Shares (Canada),U
@@ -2535,6 +2536,7 @@ ERMAF,Eramet SA Ordinary Shares (France),U
 ERMAY,Eramet SA Unsponsored ADR (France),U
 ERMG,ERecord Management Inc (NV) Common Stock,U
 ERNXY,Euronext NV American Depositary Receipts - Unsponsored (Netherlands),U
+EROFF,Eurofins Scientific SA SE JCE 01012021 (Luxembourg),U
 EROTF,Barclays Bk PLC iPath EUR/USD Exchange Rate ETN due 05/14/2037 (United Kingdom),U
 EROX,Human Pheromone Sciences Inc. Common Stock,U
 ERPNF,European Metals Hldgs Ltd Chess Depositary Interests 1:1,U
@@ -3496,6 +3498,7 @@ FLLA,Franklin FTSE Latin America,ARCA
 FLLHF,Fullshare Holdings Ltd Ordinary Shares (Cayman Islands),U
 FLLIY,Folli Follie Group Unsponsored ADR (Greece),U
 FLLV,Franklin Liberty U.S. Low Volatility ETF,ARCA
+FLLWF,Fullwealth International Group Holdings Ltd Ordinary Shares (Cayman Islands),U
 FLLZ,Fellazo Corp Common Stock,U
 FLM,First Trust Global Engineering and Construction ETF,ARCA
 FLMB,Franklin Liberty Federal Tax-Free Bond ETF,ARCA
@@ -4433,7 +4436,6 @@ GCYO,Gold Canyon Bank (AZ) Common Stock,U
 GD,General Dynamics Corporation,NYSE
 GDAR,"Golden Age Resources, Inc. Common Stock",U
 GDASY,Goldas Kuyumculuk Sanayii Ithalat Ve Ihracat A.S. Goldas Kuyumculuk Sanayii Ithalat Ve Ihracat A.S. Sponsored ADR,U
-GDDCF,Goldspot Discoveries Corp  Common Shares (Canada),U
 GDDFF,Goodfood Mkt Corp Ordinary Shares (Canada),U
 GDDN,Gadsden Corp CDT-Cl A,U
 GDDY,GoDaddy Inc,NYSE
@@ -5459,4 +5461,3 @@ GVSI,Good Vibrations Shoes Inc. Common Stock,U
 GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
 GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
 GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
-GWACW,Good Works Acquisition Corp. Warrant,NASDAQ

@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
+SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
+SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
 SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
@@ -289,7 +292,6 @@ SLAMW,Slam Corp. warrant,NASDAQ
 SLB,Schlumberger Limited,NYSE
 SLBG,Slinger Bag Inc. Common Stock,U
 SLCA,"U.S. SILICA HOLDINGS, INC.",NYSE
-SLCFF,BPLI Holdings Inc Ordinary Shares,U
 SLCH,"Spotlight Capital Holdings, Inc Common Stock",U
 SLCJF,SLC Agricola Sa Ordinary shares (Brazil),U
 SLCJY,SLC Agricola Sa Sponsored American Depository Receipt (Brazil),U
@@ -875,6 +877,7 @@ SPNV U,"Supernova Partners Acquisition Company, Inc. Units, each consisting of o
 SPNV WS,"Supernova Partners Acquisition Company, Inc. Warrants, each whole warrant exercisable for one share",NYSE
 SPNZF,South Port New Zealand Ltd Ordinary Shares,U
 SPOC,Spectrum Oil Corp New Common Stock,U
+SPOFF,Goldspot Discoveries Corp  Common Shares (Canada),U
 SPOI,"SPO Networks, Inc. Common Stock",U
 SPOK,"Spok Holdings, Inc. Common Stock",NASDAQ
 SPOM,SPO Global Inc. Common Stock,U
@@ -974,7 +977,6 @@ SQFT,"Presidio Property Trust, Inc. Class A Common Stock",NASDAQ
 SQIDF,SQI Diagnostics Inc Ordinary Shares (Canada),U
 SQLV,Legg Mason ETF Investment Trust Legg Mason Small-Cap Quality Value ETF,NASDAQ
 SQM,Sociedad Quimica y Minera de Chile SA,NYSE
-SQMRF,SOCIEDAD QUIMICA Y MINERA DE CHILE S A RT REPSTG SPONSORED ADR (Chile),U
 SQNNY,Square Enix Hldgs Co Ltd American Depositary Receipts - Unsponsored Repstg Com Stk (Japan),U
 SQNS,"Sequans Communications S.A. American Depositary Shares, each representing four Ordinary Shares",NYSE
 SQNXF,Square Enix Co Ltd Ordinary Shares (Japan),U
@@ -1622,7 +1624,6 @@ SXYAY,SIKA AG American Depositary Share (Switzerland),U
 SY,So-Young International Inc. American Depository Shares,NASDAQ
 SYAAF,Syrah Resources Limited Ordinary Shares (Australia),U
 SYANY,Sydbank A/S Unsponsored ADR (Denmark),U
-SYARF,SAYONA MNG LTD RIGHTS APPLICATIONS CLOSE 20 APR 2021 (Australia),U
 SYBF,Syntec Biofuel Inc. Common Stock,U
 SYBJF,Security Bank Corp Ordinary Shares,U
 SYBRQ,Synergy Brands Inc. Common Stock,U
@@ -1752,7 +1753,7 @@ TANNI,TravelCenters of America Inc. 8.25% Senior Notes due 2028,NASDAQ
 TANNL,TravelCenters of America Inc. 8.00% Senior Notes due 2029,NASDAQ
 TANNZ,TravelCenters of America Inc. 8.00% Senior Notes due 2030,NASDAQ
 TANVF,Tanvex Biopharma Inc,U
-TAOFF,Tao Commodities Ltd. Ordinary Shares (Australia),U
+TAOFF,Hyperion Metals Ltd Ordinary Shares,U
 TAOHY,Tao Heung Holdings Limited Unsponsored ADR (Cayman Islands),U
 TAOIF,"TAG Oil, Ltd. Ordinary Shares (Canada)",U
 TAOP,Taoping Inc. Ordinary Shares,NASDAQ
@@ -2796,7 +2797,6 @@ TRXA,Trex Acquisition Corp. Common Stock,U
 TRXDW,ASENSUS SURGICAL INC Warrant,U
 TRXO,"Columbine Valley Resources, Inc. Common Stock",U
 TRXPF,Torii Pharmaceutical Co Ordinary Shares,U
-TRYGF,TRYG A S T RET (Denmark),U
 TRYIF,Toray Inds Inc Ord Ordinary Shares,U
 TRYIY,Toray Industries Inc ADR,U
 TRYPF,Tryp Therapeutics Inc Common Stock (Canada),U
@@ -3952,7 +3952,7 @@ VLPNY,Voestalpine AG Unsponsored ADR (Austria),U
 VLRS,"CONTROLADORA VUELA COMPAniA DE AVIACIoN, S.A.B. DE C.V.",NYSE
 VLRZF,VALOR HLDGS CO LTD Ordinary Shares,U
 VLT,Invesco  High Income Trust II,NYSE
-VLTAF,"VOLTALIA, NEUILLY-SUR-SEINE ORDINARY SHARE EUR 5,70 (France)",U
+VLTAF,VOLTALIA SA ORDINARY SHARE (France),U
 VLTFF,Volta Finance Ltd. Shs (Guernsey),U
 VLTLF,VAULT INTELLIGENCE LTD Ordinary Shares,U
 VLTRF,VOLT RES LTD Ordinary Shares,U
@@ -4203,6 +4203,7 @@ VTAQR,Ventoux CCM Acquisition Corp. Right,NASDAQ
 VTAQU,Ventoux CCM Acquisition Corp. Unit,NASDAQ
 VTAQW,Ventoux CCM Acquisition Corp. Warrant,NASDAQ
 VTC,Vanguard Scottsdale Funds Vanguard Total Corporate Bond ETF,NASDAQ
+VTCIF,VANGUARD ETF SER TOTAL CHINA INDEX ETF (HONG KONG LIMITED) Exchange Traded Fund,U
 VTDRF,Vantage Drilling International Ord Shs (Cayman Islands),U
 VTEB,Vanguard Tax-Exempt Bond Index Fund,ARCA
 VTEQ,VeriTeQ Corporation Common Stock,U
@@ -4348,7 +4349,6 @@ WAYN,Wayne Savings Bancshares Inc. - Common Stock,U
 WAYS,Wave Sync Corp. Common Stock,U
 WB,Weibo Corporation American Depositary Share,NASDAQ
 WBA,"Walgreens Boots Alliance, Inc. Common Stock",NASDAQ
-WBAI,500.com Limited,NYSE
 WBBW,WESTBURY BANCORP INC Common Stock,U
 WBEMF,Winbond Electronic Corp Par Ord Sponsored GDR Reg S (Taiwan),U
 WBHC,Wilson Bank Holding Company (TN) Common Stock,U
@@ -5448,6 +5448,7 @@ ZWRKU,Z-Work Acquisition Corp. Units,NASDAQ
 ZWRKW,Z-Work Acquisition Corp. Warrant,NASDAQ
 ZWTYF,"Zhongde Waste Technology Ag, Hamburg Ordinary shares (Germany)",U
 ZXAIY,CHINA ZENIX AUTO INTERNATIONAL LIMITED American Depositary Shares - Sponsored,U
+ZY,Zymergen Inc. Common Stock,NASDAQ
 ZYJT,Zhong Ya International Limited Common Stock,U
 ZYME,Zymeworks Inc.,NYSE
 ZYNE,"Zynerba Pharmaceuticals, Inc. Common Stock",NASDAQ

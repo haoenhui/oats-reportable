@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
@@ -764,6 +765,7 @@ HRNBF,Hornby Plc Ordinary Shares (United Kingdom),U
 HRNNF,Hydro One Ltd Ordinary Shares (Canada),U
 HRNTF,HRNETGROUP LTD SHS (Singapore),U
 HROEY,HIROSE ELEC CO LTD American Depositary Receipts - Unsponsored,U
+HROGF,Hirogin Holdings Inc Common Stock (Japan),U
 HROW,"Harrow Health, Inc. Common Stock",NASDAQ
 HRPMF,Herantis Pharma OYJ Ordinary Shares (Finland),U
 HRRB,"Horizon Bancorp, Inc. AZ Common Stock",U
@@ -2519,7 +2521,6 @@ JGHHY,Jungheinrich AG American Depositary Receipts - Unsponsored (Germany),U
 JGLCF,JS GLOBAL LIFESTYLE CO LTD Common Stock  (Cayman Islands),U
 JGLD,Amplify Pure Junior Gold Miners ETF,ARCA
 JGLDF,JAPAN GOLD CORP Common Shares,U
-JGRRF,"Jinchuan Group International Resources Co., Ltd SHS (Cayman Islands)",U
 JGSHF,J G Summit Hldgs Cl B Shs Ordinary Shares,U
 JGSMY,JG Summit Holdings Inc Unsponsored ADR (Phillippines),U
 JHAA,Nuveen Corporate Income 2023 Target Term Fund,NYSE
@@ -2648,6 +2649,7 @@ JOF,JAPAN SMALLER CAPITALIZATION FUND,NYSE
 JOFF,JOFF Fintech Acquisition Corp. Class A Common Stock,NASDAQ
 JOFFU,JOFF Fintech Acquisition Corp. Unit,NASDAQ
 JOFFW,JOFF Fintech Acquisition Corp. Warrant,NASDAQ
+JORFF,Jourdan Resources Inc. Common Stock (Canada),U
 JOSMF,Josemaria Res Inc Ordinary Shares,U
 JOUT,Johnson Outdoors Inc. Class A Common Stock,NASDAQ
 JOYY,Infusive Compounding Global Equities ETF,ARCA
@@ -3140,6 +3142,7 @@ KMX,CarMax Inc.,NYSE
 KN,KNOWLES CORPORATION,NYSE
 KNAMF,Konami Hldgs Corp Ordinary Shares,U
 KNBA,"Kinbasha Gaming International, Inc. Common Stock",U
+KNBE,"KnowBe4, Inc. Class A Common Stock",NASDAQ
 KNBHF,Knorr Bremse Ag Common Shares (Germany Federal Republic),U
 KNBIF,Kane Biotech Inc Common Shares,U
 KNBWF,"Kirin Holdings Company, Limited Ordinary Shares (Japan)",U
@@ -3568,7 +3571,7 @@ LCYFF,Legal & Gen Ucits ETF Plc L&G CYBER SECURITY UCITS ETF USD ACCUMULATING ET
 LD,"iPath Bloomberg Lead Subindex Total Return ETN due June 24, 2038",ARCA
 LDBTY,Lebanese Co For Dev & Recon of Beirut Cent Dist SAL American Depositary Receipts - Unsponsored (Lebanon),U
 LDDAF,Lida Resources Inc. Common Stock (Canada),U
-LDDFD,LIBERTY DEFENSE HOLDINGS LTD Common Shares,U
+LDDFF,LIBERTY DEFENSE HOLDINGS LTD Common Shares,U
 LDEM,iShares Trust iShares ESG MSCI EM Leaders ETF,NASDAQ
 LDGYY,Landis Gyr Group AG - Unsponsored ADR (Switzerland),U
 LDHAU,LDH Growth Corp I Units,NASDAQ
@@ -5458,4 +5461,3 @@ MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
-MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
