@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTD,Mettler-Toledo International,NYSE
+MTDR,MATADOR RESOURCES COMPANY,NYSE
+MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
+MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
@@ -4269,7 +4273,6 @@ RLLY,"ARC Group, Inc. Common",U
 RLMD,"Relmada Therapeutics, Inc. Common Stock",NASDAQ
 RLMLF,RESOLUTION MINERALS LTD Ordinary Shares  (Australia),U
 RLNCF,Rolinco NV Ordinary Shares (Netherlands),U
-RLNTF,Resilient Reit Ltd Ordinary Shares,U
 RLPHQ,RAILPOWER TECHNOLOGIES CORP Ordinary Shares,U
 RLTKF,REALTEK SEMICONDUCTOR CORP SHS (Taiwan),U
 RLTOF,Calima Energy Ltd. Ordinary Shares,U
@@ -4348,7 +4351,6 @@ RNET,"RigNet, Inc. Common Stock",NASDAQ
 RNFTF,"Rosneft Oil Company OJSC, Moscow Ordinary shares (Russia)",U
 RNG,"RINGCENTRAL, INC.",NYSE
 RNGG,Reno Gold Corp. NewCommon Stock,U
-RNGOF,Rengo Co Ltd Ordinary Shares (Japan),U
 RNGR,"Ranger Energy Services, Inc.",NYSE
 RNGTF,OSISKO DEV CORP Common Shares,U
 RNGUF,Regeneus Ltd Ordinary Shares (Australia),U
@@ -4609,7 +4611,6 @@ RUBY,"Rubius Therapeutics, Inc. Common Stock",NASDAQ
 RUDQF,RBC Quant US Dividend Leaders ETF Unit USD (Canada),U
 RUEXF,Ruentex Development Co Ltd Ordinary Shares (Taiwan),U
 RUFIF,Ruffer Investment Company Ltd. Part Red Pref Shs Guernsey (GG),U
-RUHN,Ruhnn Holding Limited American Depositary Shares,NASDAQ
 RUMOF,Rumo SA Common Stock,U
 RUN,Sunrun Inc. Common Stock,NASDAQ
 RUNI,Reunion Industries Inc. Common Stock,U
@@ -4856,7 +4857,6 @@ SBBI,"S.B.C.P. Bancorp, Inc. Common Stock",U
 SBBP,Strongbridge Biopharma plc Ordinary Shares,NASDAQ
 SBBSF,Sabana Shariah Compliant Industrial Real Estate Investment Trust Ordinary Shares (Singapore),U
 SBBTF,Schibsted  ASA Ordinary Shares B (Norway),U
-SBBZF,Soilbuild business Space Units REIT (Singapore),U
 SBCF,Seacoast Banking Corporation of Florida Common Stock,NASDAQ
 SBDCF,SBD Capital Corp Common Shares,U
 SBDG,"Small Business Development Group, Inc. Common Stock",U
@@ -5460,4 +5460,3 @@ SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U

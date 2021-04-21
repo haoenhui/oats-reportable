@@ -1296,9 +1296,6 @@ DMTK,"DermTech, Inc. Common Stock",NASDAQ
 DMTKW,DERMTECH INC Warrant   08/29/2024,U
 DMTRF,"3-D Matrix, Ltd. Shs (Japan)",U
 DMXF,iShares Trust iShares ESG Advanced MSCI EAFE ETF,NASDAQ
-DMYD,"dMY Technology Group, Inc. II",NYSE
-DMYD U,"dMY Technology Group, Inc. II Units, each consisting of one share of Class A common stock and one-th",NYSE
-DMYD WS,"dMY Technology Group, Inc. II Redeemable Warrants, each whole warrant exercisable for one share of C",NYSE
 DMYI,"dMY Technology Group, Inc. III",NYSE
 DMYI U,"dMY Technology Group, Inc. III Units, each consisting of one share of Class A common stock and one-f",NYSE
 DMYI WS,"dMY Technology Group, Inc. III Redeemable warrants, each whole warrant exercisable for one share of",NYSE
@@ -1612,6 +1609,7 @@ DUSYF,DUESENBERG TECHNOLOGIES INC Common Shares,U
 DUTV,Digital Utilities Ventures Inc Common Stock,U
 DUUO,Duo World Inc Common Stock,U
 DUVNF,Peruvian Metals Corp. Common Shares,U
+DV,"DoubleVerify Holdings, Inc.",NYSE
 DVA,DaVita Inc.,NYSE
 DVAR,Dovarri Inc Common Stock,U
 DVAX,Dynavax Technologies Corporation Common Stock,NASDAQ
@@ -1748,6 +1746,7 @@ EAT,"Brinker International, Inc.",NYSE
 EATBF,EAT BEYOND GLOBAL HLDGS INC Common Stock (Canada),U
 EATOF,Evolve Automobile Innovation Index Fd Exchange Traded Fund,U
 EATR,"Eastern Asteria, Inc. Common Stock",U
+EATZ,AdvisorShares Restaurant ETF,ARCA
 EAUI,"EAU Technologies, Inc. Common Stock",U
 EAUSF,ETFS Metal Securities Austrailia Ltd Redeemable Pref Shs,U
 EAWC,Ecco Auto World Corporation Common Stock,U
@@ -2014,6 +2013,7 @@ EGKLF,Elringklinger Ag Dettingen Erms Namen AKT (Germany),U
 EGKPF,EAGLE BULK SHIPPING INC Warrant  10/15/2021,U
 EGLE,Eagle Bulk Shipping Inc. Common Stock,NASDAQ
 EGLNF,Euglena Co Ltd Ordinary Shares (Japan),U
+EGLX,Enthusiast Gaming Holdings Inc. Common Stock,NASDAQ
 EGMCF,Emgold Mining Corp Ordinary Shares,U
 EGMLF,Engineer Gold Mines Ltd. Ordinary Shares (Canada),U
 EGMMF,EAGLE MTN MNG LTD Ordinary Shares,U
@@ -2308,7 +2308,6 @@ ENGGF,Enagas sa Ordinary Shares,U
 ENGGY,Enagas sa Unsponsored ADR (Spain),U
 ENGH,ENERGY HBR CORP COM,U
 ENGIY,ENGIE  American Depositary Receipts - Sponsored,U
-ENGMF,ENTHUSIAST GAMING HLDGS INC NEW COM (Canada),U
 ENGQF,ENGIE SA Ordinary Shares (France),U
 ENGT,Energy & Technology Corp Common Stock,U
 ENGY,Central Energy Partners L.P. Common Units,U
@@ -3900,7 +3899,6 @@ FRMC,Formcap Corp. Common Stock,U
 FRME,First Merchants Corporation Common Stock,NASDAQ
 FRMO,FRMO Corporation Common Stock,U
 FRMUF,Firm Capital Property Trust Unit (Canada),U
-FRNFF,"Feronia, Inc Ordinary Shares (Canada)",U
 FRNV,"Frontera Investment, Inc. Common Stock",U
 FRNWF,Future Plc ORD GBP0.15  (United Kingdom),U
 FRO,Frontline Ltd.,NYSE
@@ -4521,6 +4519,8 @@ GENC,"Gencor Industries, Inc. Common Stock",NASDAQ
 GENE,Genetic Technologies Ltd  Sponsored ADR,NASDAQ
 GENGF,Gear Energy Ltd Common Shares (Canada),U
 GENH,"Generation Hemp, Inc. Common Stock",U
+GENI,Genius Sports Limited,NYSE
+GENI WS,"Genius Sports Limited Redeemable Warrants, each whole warrant exercisable for one Ordinary Share eac",NYSE
 GENMF,Generation Mining Limited  Common Shares,U
 GENN,"Genesis Healthcare, Inc.",U
 GENPF,GENIX PHARMACEUTICALS CORP COM (Canada),U
@@ -4579,7 +4579,6 @@ GFNCP,General Finance Corporation Cumulative Redeemable Perpetual Preferred Seri
 GFNSZ,General Finance Corporation 7.875% Senior Notes due 2025,NASDAQ
 GFOO,Genufood Energy Enzymes Corporation Common Stock,U
 GFPTF,Gfpt Public Co Ltd (F) Units Non-Voting Depository Receipt (Thailand),U
-GFRTF,"Good Friend International Holdings, Inc SHS (Cayman Islands)",U
 GFSZF,G4S Plc Ordinary Shares (United Kingdom),U
 GFSZY,G4S Plc Unsponsored ADR (UK),U
 GFTRF,Gold'n Futures Mineral Corp. Common Shares,U

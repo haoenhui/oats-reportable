@@ -1102,6 +1102,7 @@ IARE,INVENTRUST PPTYS CORP Common Stock,U
 IART,Integra LifeSciences Holdings Corporation Common Stock,NASDAQ
 IAT,iShares U.S. Regional Banks ETF,ARCA
 IAU,iShares Gold Trust,ARCA
+IAUCF,I-80 GOLD CORP COM (Canada),U
 IAUF,iShares Gold Strategy ETF,BATS
 IAUFF,AIC Mines Ltd Ordinary Shares,U
 IAUGF,Insurance Australia Group Ltd Ordinary Shares,U
@@ -1395,6 +1396,7 @@ IGAP,Integrity Applications Incorporation Com,U
 IGBH,iShares Interest Rate Hedged Long-Term Corporate Bond ETF,ARCA
 IGC,"India Globalization Capital, Inc.",AMEX
 IGD,VOYA GLOBAL EQUITY DIVIDEND AND PREMIUM OPPORTUNITY FUND,NYSE
+IGDFF,IG Design Group PLC Ordinary Shares (United Kingdom),U
 IGE,iShares North American Natural Resources ETF,BATS
 IGEB,iShares Investment Grade Bond Factor ETF,BATS
 IGEN,iGen Networks Corp. Common Stock,U
@@ -1631,6 +1633,7 @@ IMPCF,Impact Coatings AB Ordinary Shares (Sweden),U
 IMPHO,"Impac Mortgage Holdings, Inc. Preferred Series C",U
 IMPHP,"Impac Mortgage Holdings, Inc. Preferred Series B",U
 IMPJY,Webuild SpA American Depositary Receipts - Unsponsored,U
+IMPL,"Impel NeuroPharma, Inc. Common Stock",NASDAQ
 IMPNF,Imperial Mining Group Ordinary Shares (Canada),U
 IMPPF,INVESCO MKTS II PLC INVESCO PREFERRED SHARES UCITS ETF ACC Exchange Traded Fund,U
 IMPUF,Impala Platinum Holdings Ltd Ordinary Shares (South Africa),U
@@ -1867,7 +1870,6 @@ IPGDF,IGO Ltd Ordinary Shares,U
 IPGP,IPG Photonics Corporation Common Stock,NASDAQ
 IPGYY,Interpump Group Spa Unsponsored ADR (Italy),U
 IPHA,Innate Pharma S.A. ADS,NASDAQ
-IPHI,Inphi Corporation Common Stock,NASDAQ
 IPHLF,IPH LTD Ordinary Shares  Australia(AU ),U
 IPHYF,"Innate Pharma, Marseille Shares Nom Cat -A- (France)",U
 IPI,"Intrepid Potash, Inc",NYSE
@@ -3064,6 +3066,7 @@ KKR PRA,KKR & Co. Inc. 6.75% Series A Preferred Units,NYSE
 KKR PRB,KKR & Co. Inc. 6.50% Series B Preferred Unit,NYSE
 KKR PRC,KKR & Co. Inc. 6.00% Series C Mandatory Convertible Preferred Stock,NYSE
 KKRAF,Katakura Industries Co Ltd Ordinary Shares (Japan),U
+KKRS,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061,NYSE
 KKUOF,Kyokuto Securities Co Ltd SHS (Japan),U
 KKUR,"Chromocure, Inc. Common Stock",U
 KKWFF,Koninklijke Boskalis Westminster N V Ordinary Shares  (Netherlands),U
@@ -3413,7 +3416,6 @@ KWIK,"KwikClick, Inc. Common Stock",U
 KWIPF,Kiwi Property Group Ltd. Ordinary Shares (New Zealand) Ordinary Shares,U
 KWLDY,Kowloon Dvlpmnt Co Unsponsored ADR (Hong Kong),U
 KWLGF,KWG LIVING GROUP HLDGS LTD HKD Ordinary Shares - (Cayman Islands),U
-KWPCF,Kewpie Corp Ordinary Shares (Japan),U
 KWPCY,Kewpie Corp Sponsored ADR (Japan),U
 KWR,Quaker Chemical Corp.,NYSE
 KWT,iShares MSCI Kuwait ETF,BATS
@@ -4324,6 +4326,7 @@ MARZ,TrueShares Structured Outcome (March) ETF,BATS
 MARZF,Marston's PLC Ordinary Shares (United Kingdom),U
 MAS,Masco Corporation,NYSE
 MASI,Masimo Corporation Common Stock,NASDAQ
+MASN,MAISON LUXE INC Common Stock,U
 MASS,908 Devices Inc. Common Stock,NASDAQ
 MAT,"Mattel, Inc. Common Stock",NASDAQ
 MATW,Matthews International Corporation Class A Common Stock,NASDAQ
@@ -5346,7 +5349,7 @@ MRVCF,METROVACESA SA METROVACESA S A ACCIONES CONTRASPLIT Ordinary Shares,U
 MRVFF,Nuvo Pharmaceuticals Inc Ordinary Shares,U
 MRVGF,Mirvac Group Ordinary Shares,U
 MRVI,"Maravai LifeSciences Holdings, Inc. Class A Common Stock",NASDAQ
-MRVL,Marvell Technology Group Ltd. Common Stock,NASDAQ
+MRVL,"Marvell Technology, Inc. Common Stock",NASDAQ
 MRVOF,Murray River Organics Group Ltd. Ordinary Shares (Australia),U
 MRVSY,Minerva SA Sponsored ADR (Brazil),U
 MRVT,Miravant Medical Technologies Common Stock,U
@@ -5457,7 +5460,3 @@ MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
-MTD,Mettler-Toledo International,NYSE
-MTDR,MATADOR RESOURCES COMPANY,NYSE
-MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
-MTEI,Mountain Energy Inc Common Stock,U
