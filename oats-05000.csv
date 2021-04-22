@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
+CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
@@ -28,7 +30,6 @@ CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U
 CPKPY,C P Pokphand Co Ltd Sponsored ADR (Bermuda) USD,U
 CPLCF,IShares VII PLC Exchange Traded Fund,U
 CPLG,CorePoint Lodging Inc. Common Stock,NYSE
-CPLHF,Capitol Health Limited Ordinary Shares (Australia),U
 CPLLF,"Colopl, Inc. Common Stock (Japan)",U
 CPLP,Capital Product Partners L.P. Common Units,NASDAQ
 CPLT,"CommercePlanet, Inc. Common Stock",U
@@ -64,7 +65,6 @@ CPSR,Capstar Special Purpose Acquisition Corp.,NYSE
 CPSR U,"Capstar Special Purpose Acquisition Corp. Units, each consisting of one share of Class A Common Stoc",NYSE
 CPSR WS,"Capstar Special Purpose Acquisition Corp. Warrants, each whole warrant exercisable for one share of",NYSE
 CPSS,"Consumer Portfolio Services, Inc. Common Stock",NASDAQ
-CPST,Capstone Turbine Corporation Common Stock,NASDAQ
 CPSV,"Consumer Products Services Group, Inc. Common Stock",U
 CPT,Camden Property Trust,NYSE
 CPTA,Capitala Finance Corp. Common Stock,NASDAQ
@@ -646,7 +646,6 @@ CWLDF,CROWN RESORTS LTD Ordinary Shares,U
 CWLDY,Crown Resorts Ltd.  Unsponsored ADR (Australia),U
 CWLPF,Caldwell Partners International Inc. Common Shares (Canada),U
 CWMCF,Consolidated Woodjam Copper Corp Ordinary Shares (Canada),U
-CWMZF,US Copper Corp. Ordinary Shares,U
 CWNOF,ChineseWorldNet.com Inc. Common Shares (Caymen Islands),U
 CWNR,Crosswind Renewable Energy Corp. Common Stock,U
 CWPE,CW Petroleum Corporation Common Stock,U
@@ -1092,9 +1091,13 @@ DGWPF,"Draegerwerk Ag & Co., KGAA Ordinary Shares (Germany Federal Republic)",U
 DGWR,"Deep Green Waste & Recycling, Inc. Common Stock",U
 DGX,Quest Diagnostics Inc.,NYSE
 DGZ,"DB Gold Short ETN due February 15, 2038",ARCA
+DHBC,DHB Capital Corp. Class A common stock,NASDAQ
 DHBCU,DHB Capital Corp. Unit,NASDAQ
+DHBCW,DHB Capital Corp. Warrant,NASDAQ
 DHC,Diversified Healthcare Trust Common Shares of Beneficial Interest,NASDAQ
+DHCA,DHC Acquisition Corp. Class A ordinary share,NASDAQ
 DHCAU,DHC Acquisition Corp. Unit,NASDAQ
+DHCAW,DHC Acquisition Corp. Warrant,NASDAQ
 DHCC,Diamondhead Casino Corporation Common Stock,U
 DHCNI,Diversified Healthcare Trust 5.625% Senior Notes due 2042,NASDAQ
 DHCNL,Diversified Healthcare Trust 6.25% Senior Notes Due 2046,NASDAQ
@@ -2019,7 +2022,6 @@ EGMLF,Engineer Gold Mines Ltd. Ordinary Shares (Canada),U
 EGMMF,EAGLE MTN MNG LTD Ordinary Shares,U
 EGO,Eldorado Gold Corporation,NYSE
 EGOC,Energy 1 Corporation Common Stock,U
-EGOV,NIC Inc Common Stock,NASDAQ
 EGP,EastGroup Properties Inc.,NYSE
 EGPLF,"Eagle Plains Resources, Ltd. (Canada) Ordinary Shares",U
 EGPT,VanEck Vectors Egypt Index ETF,ARCA
@@ -2894,6 +2896,7 @@ EXI,iShares Global Industrials ETF,ARCA
 EXK,Endeavour Silver Corp.,NYSE
 EXLA,Helmer Directional Drilling Corp. Common Stock,U
 EXLGF,Exasol AG Ordinary Shares (Germany),U
+EXLMF,EXCELLENCE COML PPTY & FACS MGMT GOUP LTD Ordinary Shares,U
 EXLS,"ExlService Holdings, Inc. Common Stock",NASDAQ
 EXMGF,Excelsior Mining Corp Ordinary Shares (Canada),U
 EXMT,Anything Technologies Media Inc. Common Stock,U
@@ -2994,7 +2997,7 @@ FANG,"Diamondback Energy, Inc. Commmon Stock",NASDAQ
 FANH,Fanhua Inc. American Depositary Shares,NASDAQ
 FANUF,Fanuc Limited Ordinary Shares,U
 FANUY,Fanuc Corporation Unsponsored ADR (Japan),U
-FAPPF,CI First Asset Active Util & Infrastructure ETF Common Shares,U
+FAPPF,CI ACTIVE UTILITY & INFRASTRUCTURE ETF Common Shares,U
 FAPR,FT Cboe Vest U.S. Equity Buffer ETF - April,BATS
 FARE,"World Moto, Inc. Common Stock",U
 FARM,Farmer Brothers Company Common Stock,NASDAQ
@@ -3720,7 +3723,7 @@ FNMFN,Federal National Mortgage Association Pfd Ser O Var Rate,U
 FNMFO,Federal National Mortgage Association Pfd Conv Ser 2004-I 5.375%,U
 FNNCF,FINANCIAL FIFTEEN SPLIT CORP Ordinary Shares,U
 FNNGF,HEALTH LOGIC INTERACTIVE INC Ordinary Shares,U
-FNNNF,Finnair OYJ AKT Ordinary Shares,U
+FNNNF,Finnair OYJ Ordinary Shares,U
 FNNTF,FLATEXDEGIRO AG Ordinary Shares,U
 FNNZF,Fincanna Capital Corp Common Stock,U
 FNOV,FT Cboe Vest U.S. Equity Buffer ETF - November,BATS
@@ -4010,7 +4013,7 @@ FSSIU,Fortistar Sustainable Solutions Corp. Unit,NASDAQ
 FSSIW,Fortistar Sustainable Solutions Corp. Warrant,NASDAQ
 FSSLY,Fossal SAA American Depositary Receipts - Sponsored (Peru),U
 FSSN,Fision Corp Common Stock,U
-FSSTF,CI First Asset Morningstar CDA Momentum Index ETF Unit,U
+FSSTF,CI MORNINGSTAR CANADA MOMENTUM INDEX ETF Unit,U
 FST,FAST Acquisition Corp.,NYSE
 FST U,"FAST Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of o",NYSE
 FST WS,"FAST Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stoc",NYSE
@@ -4055,7 +4058,9 @@ FTDR,"frontdoor, inc. Common Stock",NASDAQ
 FTEC,Fidelity MSCI Information Technology Index ETF,ARCA
 FTEG,For The Earth Corporation Common Stock,U
 FTEK,"Fuel Tech, Inc. Common Stock",NASDAQ
+FTEV,FinTech Evolution Acquisition Group,NYSE
 FTEV U,"FinTech Evolution Acquisition Group Units, each consisting of one Class A Ordinary Share, and one-th",NYSE
+FTEV WS,"FinTech Evolution Acquisition Group Redeemable Warrants, each whole warrant exercisable for one Clas",NYSE
 FTF,Franklin Limited Duration Income Trust Common Shrs. of Beneficial Interest,AMEX
 FTFT,Future FinTech Group Inc. Common Stock,NASDAQ
 FTFY,"Fit After Fifty, Inc. Common Stock",U
@@ -4341,6 +4346,7 @@ GBIO,Generation Bio Co. Common Stock,NASDAQ
 GBL,"GAMCO Investors, Inc.",NYSE
 GBLBF,Groupe Bruxelles Lambert New Ordinary Shares,U
 GBLBY,Groupe Bruxelles Lambert SA Unsponsored ADR (Belgium),U
+GBLD,Invesco MSCI Green Building ETF,ARCA
 GBLEF,GLOBAL ENERGY METALS CORP Ordinary Shares,U
 GBLHF,Global Hunter Corp Common Shares (Canada),U
 GBLI,"Global Indemnity Group, LLC Class A Common Stock (DE)",NASDAQ
@@ -4979,7 +4985,6 @@ GNPK,Genesis Park Acquisition Corp.,NYSE
 GNPK U,"Genesis Park Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of",NYSE
 GNPK WS,"Genesis Park Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A o",NYSE
 GNPR,Genius Products Inc Common Stock New,U
-GNPT,"Green Parts International, Inc. Common Stock",U
 GNPX,"Genprex, Inc. Common Stock",NASDAQ
 GNR,SPDR S&P Global Natural Resources ETF,ARCA
 GNRC,GENERAC HOLDINGS INC,NYSE

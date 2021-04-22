@@ -53,7 +53,7 @@ AAPT,"All American Pet Company, Inc. Common Stock",U
 AAQC U,"Accelerate Acquisition Corp. Units, each consisting of one Class A common stock, and one-third of on",NYSE
 AASCF,ALL ACTIVE ASSET CAP LTD Ordinary Shares,U
 AASL,"America's Suppliers, Inc. Common Stock",U
-AASP,"All-American SportPark, Inc. Common Stock",U
+AASP,Global Acquisitions Corporation Common Stock,U
 AASZF,Atlantic Sapphire AS Common Shares,U
 AAT,"AMERICAN ASSETS TRUST, INC.",NYSE
 AATDF,AA LTD Ordinary Shares (United Kingdom),U
@@ -637,7 +637,7 @@ AGLE,"Aeglea BioTherapeutics, Inc. Common Stock",NASDAQ
 AGLNF,AGL Energy Ltd Ordinary Shares,U
 AGLT,Angel Telecom Corporation. Common Stock,U
 AGLXY,AGL Energy Ltd American Depositary Receipts - Sponsored (Australia),U
-AGLY,AGILITI INC Common Stock  Delaware,U
+AGLY,Agiliti Inc Common Stock,U
 AGM,Federal Agricultural Mortgage Corporation,NYSE
 AGM A,Federal Agricultural Mortgage Corporation Class A Voting,NYSE
 AGM PRC,Federal Agricultural Mortgage Corporation 6.000% Fixed-to-Floating Rate Non-Cumulative Preferred Sto,NYSE
@@ -1194,7 +1194,9 @@ AMPE,"Ampio Pharmaceuticals, Inc",AMEX
 AMPG,"Amplitech Group, Inc. Common Stock",NASDAQ
 AMPGW,"Amplitech Group, Inc. Warrants",NASDAQ
 AMPH,"Amphastar Pharmaceuticals, Inc. Common Stock",NASDAQ
+AMPI,"Advanced Merger Partners, Inc.",NYSE
 AMPI U,"Advanced Merger Partners, Inc. Units, each consisting of one share of Class A common stock and one-s",NYSE
+AMPI WS,"Advanced Merger Partners, Inc. Warrants, each whole warrant exercisable for one share of Class A Com",NYSE
 AMPO,Amperico Corp Com,U
 AMPY,Amplify Energy Corp.,NYSE
 AMPYW,Amplify Energy Corp. Warrant,U
@@ -1334,7 +1336,9 @@ ANYYY,Aena SME S.A. American Depositary Receipts - Unsponsored,U
 ANZBY,Australia and New Zealand Banking Group Limited Common Stock,U
 ANZFF,Air New Zealand Ltd Ordinary Shares,U
 ANZLY,Air New Zealand Ltd American Depositary Receipts - Sponsored,U
+ANZU,Anzu Special Acquisition Corp I Class A Common Stock,NASDAQ
 ANZUU,Anzu Special Acquisition Corp I Units,NASDAQ
+ANZUW,Anzu Special Acquisition Corp I Warrant,NASDAQ
 AOA,iShares Core Aggressive Allocation ETF,ARCA
 AOBI,"American Oriental Bioengineering, Inc. Common Stock",U
 AOCIF,Autocanada Inc Common Shares (Canada),U
@@ -1398,7 +1402,6 @@ APG,APi Group Corporation,NYSE
 APGB,Apollo Strategic Growth Capital II,NYSE
 APGB U,"Apollo Strategic Growth Capital II Units, each consisting of one Class A ordinary share, and one-fif",NYSE
 APGB WS,"Apollo Strategic Growth Capital II Warrants, each exercisable for one Class A Ordinary Share at an e",NYSE
-APGEF,APPLEGREEN PLC SHS (Ireland),U
 APGI,American Power Group Corp. Common Stock,U
 APGMF,Applied Graphene Matls PLC Ordinary Shares (United Kingdom),U
 APGOF,Apollo Gold & Silver Corp Common Shares,U
@@ -1638,7 +1641,9 @@ ARRJF,ARJO AB Ordinary Shares (Sweden),U
 ARRPY,Aeroports de Paris SA American Depositary Receipts - Unsponsored (France),U
 ARRRF,Ardea Res Ltd Ordinary Shares (Australia),U
 ARRT,"Artisan Consumer Goods, Inc. Common Stock",U
+ARRW,Arrowroot Acquisition Corp. Class A common stock,NASDAQ
 ARRWU,Arrowroot Acquisition Corp. Unit,NASDAQ
+ARRWW,Arrowroot Acquisition Corp. Warrant,NASDAQ
 ARRXF,Archer Materials Ltd Ordinary Shares,U
 ARRY,"Array Technologies, Inc. Common Stock",NASDAQ
 ARSC,American Security Resources Corporation Common Stock,U
@@ -2193,7 +2198,7 @@ AWRRF,A&W Rev Royalties Income Fund Unit,U
 AWRS,All World Resources Corp. Common Stock (NV),U
 AWRY,Allegheny & West Ry Cap 6 Gtd Common Stock,U
 AWSI,Aria Wireless Systems Inc Common Stock,U
-AWSL,"Atlantic Wind & Solar, Inc. Common Stock",U
+AWSL,Atlantic Power & Infrastructure Corp. Common Stock,U
 AWTM,Aware Ultra-Short Duration Enhanced Income ETF,ARCA
 AWTRF,Air Water Inc Osaka Ordinary Shares,U
 AWWC,"Access Worldwide Communications, Inc. Common Stock",U
@@ -3709,6 +3714,7 @@ BUUZ,"CalEthos, Inc.  Common Stock",U
 BUYZ,Franklin Disruptive Commerce ETF,BATS
 BUZZ,VanEck Vectors Social Sentiment ETF,ARCA
 BV,"BrightView Holdings, Inc. Common Stock",NYSE
+BVAXF,BioVaxys Technology Corp Common Shares,U
 BVDRF,MARIE BRIZARD WINE & SPIRITS SA Ordinary Shares,U
 BVERS,Beaver Coal Co Ltd Sbi Common Stock,U
 BVFL,"BV Financial, Inc. (MD) Common Stock",U
@@ -3826,7 +3832,6 @@ BYSI,BeyondSpring Inc. Ordinary Shares,NASDAQ
 BYTSU,BYTE Acquisition Corp. Units,NASDAQ
 BYWLF,"BAYWA BAYERISCHE WARENVERMITTLUNG LANDWIRTSCHAFTLICHER (GENOSSENSCHAFTEN AG, MUENCHEN) (Germany)",U
 BYYLF,Balyo SA Ordinary Shares (France),U
-BYZN,Byzen Digital Inc. Common Stock,U
 BZDLF,Kincora Copper Limited Common Shares,U
 BZH,"Beazer Homes USA, Inc. New",NYSE
 BZIC,Beamz Interactive Inc Common Stock,U
@@ -4217,7 +4222,7 @@ CCTL,Coin Citadel Common Stock,U
 CCTR,"China Crescent Enterprises, Inc. Common Stock",U
 CCTTF,CITIC TELECOM INTERNATIONAL HOLDINGS LTD SHS (Hong Kong),U
 CCU,Compania Cervecerias Unidas S.A.,NYSE
-CCUR,"CCUR Holdings, Inc. Common Stock",U
+CCURD,"CCUR Holdings, Inc. Common Stock Common Stock",U
 CCV,Churchill Capital Corp V,NYSE
 CCV U,"Churchill Capital Corp V Units, each consisting of one share of Class A common stock, and one-fourth",NYSE
 CCV WS,"Churchill Capital Corp V Warrants, each exercisable for one share of Class A common stock at an exer",NYSE
@@ -4314,6 +4319,7 @@ CEBTF,Citychamp Watch & Jewellery Group Ltd. Ordinary Shares (Cayman Islands),U
 CEBUF,Cebu Air Inc Shs (Phillippines),U
 CEBUY,Cebu Air Inc Unsponsored ADR (Phillipines),U
 CECBF,Cellcube Energy Storage Sys Inc Ordinary Shares,U
+CECBW,CEC BRANDS LLC WT,U
 CECE,CECO Environmental Corp. Common Stock,NASDAQ
 CECL,"Cecil Bancorp, Inc. Common Stock",U
 CEDWF,CENTRAIS ELETRICAS SANTA CATARINA SA REGISTERED SHARES PREFERENCIALS PREFERRED SHARES Prefered Shares (Brazil),U
@@ -4526,6 +4532,7 @@ CGPVF,CGG Ordinary Shares,U
 CGPZF,C&C Group plc Ordinary Shares (Ireland),U
 CGRA,"CGrowth Capital, Inc. Common Stock",U
 CGRIF,Canadian Genl Invts Ltd Ordinary Shares,U
+CGRN,Capstone Green Energy Corporation Common Stock,NASDAQ
 CGROF,Character Group Plc Ordinary Shares (United Kingdom),U
 CGRW,"Cannagrow Holdings, Inc Common Stock",U
 CGSHY,COUNTRY GARDEN SVCS HLDGS CO LTD American Depositary Receipts - Unsponsored,U
@@ -4941,6 +4948,7 @@ CLNH,"Clinigence Holdings, Inc. Common Stock",U
 CLNMF,CLEAN MOTION AB SHARE AK (Sweden),U
 CLNN,Clene Inc. Common Stock,NASDAQ
 CLNNW,Clene Inc. Warrant,NASDAQ
+CLNV,Clean Vision Corporation Common Stock,U
 CLNXF,Cellnex Telecom SA Ordinary Shares (Spain),U
 CLNY,"Colony Capital, Inc. Class A Common Stock",NYSE
 CLNY PRG,"Colony Capital, Inc.  7.50% Series G Cumulative Redeemable Perpetual Preferred Stock",NYSE
@@ -5458,5 +5466,3 @@ CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
-CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
-CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U

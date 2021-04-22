@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
@@ -571,7 +572,9 @@ SNHHF,SANICHI TECHNOLOGY BHD Ordinary Shares (Malaysia),U
 SNHO,SHONGHOYA INTL GROUP INC Common Stock,U
 SNHPF,"Sanei Architecture Planning Co Ltd, Tokyo Ordinary Shares (Japan)",U
 SNHR,Seguin Natural Hair Products Inc. Common Stock,U
+SNII,"Supernova Partners Acquisition Company II, Ltd.",NYSE
 SNII U,"Supernova Partners Acquisition Company II, Ltd. Units, each consisting of one Class A ordinary share",NYSE
+SNII WS,"Supernova Partners Acquisition Company II, Ltd. Redeemable warrants, each whole warrant exercisable",NYSE
 SNIOF,Sensio Technologies Inc Common shares (Canada),U
 SNIPF,Snipp Interactive Inc Common Shares (Canada),U
 SNIRF,Senior Plc Ordinary Shares,U
@@ -1169,7 +1172,6 @@ SSPK,Silver Spike Acquisition Corp. Class A Ordinary Shares,NASDAQ
 SSPKU,Silver Spike Acquisition Corp. Units,NASDAQ
 SSPKW,Silver Spike Acquisition Corp. Warrants,NASDAQ
 SSPPF,SSP GROUP PLC Ordinary Shares,U
-SSPRF,SSP GROUP PLC NIL PAID 21 04 21 (United Kingdom),U
 SSPT,Shot Spirits Corporation Common Stock,U
 SSPY,Syntax Stratified LargeCap ETF,ARCA
 SSRAP,Saturns Sears Roebuck Accep Corp 7.250% Tr Unit Cl A 06/01/2032,U
@@ -1464,7 +1466,6 @@ SUTNY,"Sumitomo Mitsui Trust Holdings, Inc. Sponsored American Depository Receip
 SUUB,"Sub-Urban Brands, Inc. Common Stock",U
 SUUIF,Superior Plus Corp. Ordinary Shares (Canada),U
 SUVPF,Sartorius Ag Preferred Stock,U
-SUVRF,MODERN PLT BASED FOODS INC Ordinary Shares,U
 SUVZ,Suvanza Common Stock,U
 SUWN,"Sunwin Stevia International, Inc. Common Stock",U
 SUWTF,Sun Wa Technos Corp SHS (Japan),U
@@ -1607,7 +1608,6 @@ SWZCF,Swisscom Ag Ittigen Reg Shs Ordinary Shares,U
 SWZNF,Schweizerische Nationalbank SNB Reg Sh,U
 SXC,SUNCOKE ENERGY INC,NYSE
 SXERF,Ishares Euro Stoxx Banks 30 15 UCITS ETF ESTXX BNKS(Germany),U
-SXGAF,Scapa Group Plc Ordinary Shares,U
 SXHHF,Sonomax Technologies Inc Ordinary Shares,U
 SXI,Standex International Corporation,NYSE
 SXLBF,SSGA SPDR ETFS EUROPE II S&P US MATERIALS SEL SEC USD PLC Exchange Traded Fund (Ireland),U
@@ -1678,7 +1678,6 @@ SYXZF,Synnex Technology International Global Depositary Shares Reg S,U
 SYY,Sysco Corporation,NYSE
 SYYGF,STANLEY GIBBONS GROUP PLC Ordinary Shares,U
 SYZLF,"Sylogist, Ltd Ordinary Shares (Canada)",U
-SZBI,"SouthFirst Bancshares, Inc. Common Stock",U
 SZC,The Cushing NextGen Infrastructure Income Fund,NYSE
 SZCRF,Scor Shs Prov Regpt (France),U
 SZDEF,Dongjiang Environmental Co Ltd Shares H,U
@@ -2398,6 +2397,7 @@ TMBIF,TOMBADOR IRON LTD Ordinary Shares,U
 TMBR,"Timber Pharmaceuticals, Inc.",AMEX
 TMBXF,Tombstone Exploration Corporation Common Shares,U
 TMCGF,Tomco Energy Plc Ordinary Shares,U
+TMCI,"Treace Medical Concepts, Inc. Common Stock",NASDAQ
 TMCV,Temecula Valley Bancorp Inc. (CA) Common Stock,U
 TMDI,Titan Medical Inc. Ordinary Shares,NASDAQ
 TMDV,ProShares Russell US Dividend Growers ETF,BATS
@@ -2642,6 +2642,7 @@ TPTJY,Topps Tiles Plc Unsponsored ADR (United Kingdom),U
 TPTW,"TPT Global Tech, Inc. Common Stock",U
 TPTX,"Turning Point Therapeutics, Inc. Common Stock",NASDAQ
 TPVG,TRIPLEPOINT VENTURE GROWTH BDC CORP.,NYSE
+TPWRF,TRUSTPOWER LTD SHS NEW (New Zealand),U
 TPX,"TEMPUR SEALY INTERNATIONAL, INC.",NYSE
 TPXXF,Topix Exchange Traded Fund Tokyo ETF (Japan),U
 TPYP,Tortoise North American Pipeline ETF,ARCA
@@ -2865,7 +2866,9 @@ TSP,TuSimple Holdings Inc. Class A Common Stock,NASDAQ
 TSPCF,CLEANAWAY WASTE MGMT LTD Ordinary Shares,U
 TSPG,TGI Solar Power Group Inc Common Stock,U
 TSPPF,Torishima Pump Mfg Co Ordinary Shares (Japan),U
+TSPQ,TCW Special Purpose Acquisition Corp.,NYSE
 TSPQ U,"TCW Special Purpose Acquisition Corp. Units, each consisting of one share of Class A common stock an",NYSE
+TSPQ WS,"TCW Special Purpose Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one sh",NYSE
 TSQ,"TOWNSQUARE MEDIA, INC.",NYSE
 TSRI,"TSR, Inc. Common Stock",NASDAQ
 TSRMF,Treasury Metals Inc Common Shares,U
@@ -3489,6 +3492,7 @@ USBL,"United States Basketball League, Inc. Common Stock",U
 USCI,US Commodity Index,ARCA
 USCR,"U.S. Concrete, Inc. Common Stock",NASDAQ
 USCS,USCorp Common Stock,U
+USCUF,US Copper Corp. Ordinary Shares,U
 USCZF,United Silver Corp. Ordinary Shares (Canada),U
 USD,ProShares Ultra Semiconductors,ARCA
 USDC,USDATA Corporation Common Stock,U
@@ -3784,6 +3788,7 @@ VFLQ,Vanguard U.S. Liquidity Factor ETF,BATS
 VFMF,Vanguard U.S. Multifactor ETF,BATS
 VFMO,Vanguard U.S. Momentum Factor ETF,BATS
 VFMV,Vanguard U.S. Minimum Volatility ETF,BATS
+VFPAF,VANGUARD FUNDS PLC FTSE DEV ASIA PACIFIC EX JAPAN UCITS ETF ACCUM USD Exchange Traded Fund,U
 VFPEF,Vanguard Funds PLC Msci Acwi Exchange Traded Fund,U
 VFQY,Vanguard U.S. Quality Factor ETF,BATS
 VFRM,"Veritas Farms, Inc. Common Stock",U
@@ -4572,7 +4577,7 @@ WITIF,Witan Investment Co PLC Ordinary Shares (United Kingdom),U
 WIW,Western Asset Inflation-Linked Opportunities & Income Fund,NYSE
 WIX,Wix.com Ltd. Ordinary Shares,NASDAQ
 WIZ,Merlyn.AI Bull-Rider Bear-Fighter ETF,ARCA
-WIZD,"Wizard Entertainment, Inc. Common Stock",U
+WIZD,WIZARD BRANDS INC Common Stock,U
 WIZP,"Wize Pharma, Inc. Common Stock",U
 WJRYF,West Japan Railway Co Ordinary Shares,U
 WJRYY,West Japan Railway Co Unsponsored ADR (Japan),U
@@ -5089,6 +5094,7 @@ XTTRF,XTrackers MSCI China UCITs ETF 1C (Ireland),U
 XTXXF,Phyto Extractions Inc Common Shares (Canada),U
 XUFNF,XTRACKERS IE PLC DBXTRACK S&P500 FINANCIAL UCIT ETFDR 1D (Ireland),U
 XVIPF,Xvivo Perfusion AB Ordinary Shares (Sweden),U
+XVOL,Acruence Active Hedge U.S. Equity ETF,ARCA
 XVV,iShares ESG Screened S&P 500 ETF,BATS
 XVZ,iPath S&P 500 Dynamic VIX ETN,BATS
 XWEB,SPDR S&P Internet ETF,ARCA

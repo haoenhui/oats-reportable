@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTD,Mettler-Toledo International,NYSE
-MTDR,MATADOR RESOURCES COMPANY,NYSE
-MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
@@ -379,7 +376,9 @@ NCWAF,Nichiwa Sangyo Co Ltd Ordinary Shares,U
 NCXS,"NBC Bancorp, Inc. Common Stock",U
 NCZ,Virtus AllianzGI Convertible & Income Fund II,NYSE
 NCZ PRA,Virtus AllianzGI Convertible & Income Fund II 5.50% Series A Cumulative Preferred Shares,NYSE
+NDAC,NightDragon Acquisition Corp. Class A Common stock,NASDAQ
 NDACU,NightDragon Acquisition Corp. SCALE Units,NASDAQ
+NDACW,NightDragon Acquisition Corp. Warrants to purchase Class A common stock,NASDAQ
 NDAQ,"Nasdaq, Inc. Common Stock",NASDAQ
 NDBKF,Nedbank Group Limited Ordinary Shares (South Africa),U
 NDBKY,Nedbank Group Limited Sponsored ADR (South Africa),U
@@ -632,7 +631,7 @@ NILA,Nilam Resources Inc. Common Stock,U
 NILIF,SURGE BATTERY METALS INC Ordinary Shares,U
 NILSY,MMC Norilsk Nickel PJSC American Depositary Receipts - Sponsored,U
 NIM,Nuveen Select Maturities Municipal Fund,NYSE
-NIMMU,NISOURCE INC CORP UNIT,U
+NIMC,NiSource Inc. Series A Corporate Units,NYSE
 NIMU,"Non-Invasive Monitoring Systems, Inc. Common Stock",U
 NINE,"Nine Energy Service, Inc.",NYSE
 NINK,Nami Corp. Common Stock,U
@@ -766,7 +765,6 @@ NNAX,New Momentum Corporation Common Stock,U
 NNBP,"Nanobac Pharmaceuticals, Inc. Common Stock",U
 NNBR,"NN, Inc. Common Stock",NASDAQ
 NNBXF,"Nanobiotix, Labege Common Shares (France)",U
-NNCHF,Nissan Chemical Inds Ltd Ordinary Shares (Japan),U
 NNCHY,Nissan Chemical Corporation American Depositary Receipts - Unsponsored,U
 NNCSF,"Nanosonics Ltd, Sydney Ordinary Shares (Australia)",U
 NNDIF,Noranda Income Fund Ordinary Shares (Canada),U
@@ -1037,8 +1035,12 @@ NSSXF,NS Solutions Corp Tokyo Ordinary Shares (Japan),U
 NSTB,Northern Star Investment Corp. II,NYSE
 NSTB U,"Northern Star Investment Corp. II Units, each consisting of one share of Class A common stock and on",NYSE
 NSTB WS,"Northern Star Investment Corp. II Redeemable warrants, each whole warrant exercisable for shares of",NYSE
+NSTC,Northern Star Investment Corp. III,NYSE
 NSTC U,"Northern Star Investment Corp. III Units, each consisting of one share of Class A common stock and o",NYSE
+NSTC WS,"Northern Star Investment Corp. III Redeemable Warrants, each whole warrant exercisable for shares of",NYSE
+NSTD,Northern Star Investment Corp. IV,NYSE
 NSTD U,"Northern Star Investment Corp. IV Units, each consisting of one share of Class A common stock and on",NYSE
+NSTD WS,"Northern Star Investment Corp. IV Redeemable Warrants, each whole warrant exercisable for shares of",NYSE
 NSTG,"NanoString Technologies, Inc. Common Stock",NASDAQ
 NSTKF,Novatek Joint Stock Company Ordinary Shares (Russia),U
 NSTM,NovelStem International Corp. Common Stock,U
@@ -1522,7 +1524,9 @@ OHBK,Old Harbor Bank (FL) Common Stock,U
 OHBTF,OHB SE Ordinary Shares,U
 OHI,Omega Healthcare Investors Inc.,NYSE
 OHMGF,Ohmoto Gumi Co Ltd Ordinary Shares (Japan),U
+OHPA,Orion Acquisition Corp. Class A common stock,NASDAQ
 OHPAU,Orion Acquisition Corp. Unit,NASDAQ
+OHPAW,Orion Acquisition Corp. Warrant,NASDAQ
 OHPB,Ohana Pacific Bank (HI) Common Stock,U
 OHTR,Oasis Hotel Resort & Casino - I Inc Common Stock,U
 OI,"O-I Glass, Inc.",NYSE
@@ -2464,7 +2468,7 @@ PHBR,"PhoneBrasil International, Inc. Common Stock",U
 PHCF,"Puhui Wealth Investment Management Co., Ltd. Ordinary Shares",NASDAQ
 PHCG,"Pure Harvest Cannabis Group, Inc. Common Stock",U
 PHCUF,Photocure Asa Ordinary Shares,U
-PHD,Pioneer Floating Rate Trust,NYSE
+PHD,"Pioneer Floating Rate Fund, Inc.",NYSE
 PHDG,Invesco S&P 500 Downside Hedged ETF,ARCA
 PHDVF,Prince Housing Development Corp Ordinary Shares (Taiwan),U
 PHDWY,"PT Ace Hardware Indonesia, TBK American Depositary Receipts - Unsponsored",U
@@ -2506,7 +2510,7 @@ PHRRF,PHARMATHER HLDGS LTD Common Stock,U
 PHRX,"Pharmagen, Inc. Common Stock",U
 PHRZF,PHAROL SGPS SA Ordinary Shares (Portugal),U
 PHSL,"Penthouse International, Inc. Common Stock",U
-PHT,PIONEER HIGH INCOME TRUST,NYSE
+PHT,"Pioneer High Income Fund, Inc.",NYSE
 PHTCF,PLDT Inc. Ordinary Shares,U
 PHUN,"Phunware, Inc. Common Stock",NASDAQ
 PHUNW,"Phunware, Inc. Warrants",NASDAQ
@@ -3234,6 +3238,7 @@ PSWW,"Principal Solar, Inc Common Stock",U
 PSX,PHILLIPS 66,NYSE
 PSXP,PHILLIPS 66 PARTNERS LP,NYSE
 PSXRF,Pasinex Res Ltd. Ordinary Shares (Canada),U
+PSYBF,PSYBIO THERAPEAUTICS CORP SUB VTG SHS (Canada),U
 PSYC,"Global Trac Solutions, Inc. Common Stock",U
 PSYCF,Psyched Wellness Ltd. Common Shares,U
 PSYS,"Paradigm System Solutions, Inc. Common Stock",U
@@ -3512,7 +3517,7 @@ PYCFF,Mount Logan Cap Inc Ordinary Shares,U
 PYCT,"Paychest, Inc. Common Stock",U
 PYDPF,Pyramid Petroleum Inc Common Shares (Canada),U
 PYHOF,"Playmates Holdings, Ltd. Ordinary Shares",U
-PYIFF,PYI Corporation Ltd Ordinary Shares (Bermuda),U
+PYIFF,PYI CORP LTD Ordinary Shares,U
 PYIYF,Property For Industry Ltd Shs (New Zealand),U
 PYIYY,Property For Industry Ltd Ord Unsponsored ADR (New Zealand),U
 PYMOF,HYDROCARBON DYNAMICS LTD Ordinary Shares,U
@@ -3784,6 +3789,7 @@ RAHGF,"Roan Holdings Group Co., Ltd. Ordinary Shares",U
 RAIFF,Raiffeisen Bank International Ag Wien Ordinary Shares (Austria),U
 RAIFY,Raiffeisen Bank International Ag Unsponsored ADR (Austria),U
 RAIL,"FreightCar America, Inc. Common Stock",NASDAQ
+RAIN,Rain Therapeutics Inc. Common Stock,NASDAQ
 RAIO,"Radioio, Inc. Common Stock",U
 RAKR,Rainmaker Worldwide Inc. Common Stock,U
 RALS,ProShares RAFI Long/Short,ARCA
@@ -5459,4 +5465,3 @@ SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U

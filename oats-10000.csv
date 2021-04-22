@@ -390,7 +390,6 @@ HHLA,HH&L Acquisition Co.,NYSE
 HHLA U,"HH&L Acquisition Co. Units, each consisting of one Class A ordinary share and one-half of one redeem",NYSE
 HHLA WS,"HH&L Acquisition Co. Redeemable warrants, each warrant exercisable for one Class A ordinary share at",NYSE
 HHLKF,HOT CHILI LTD SHS (Australia),U
-HHNNF,Hannans Ltd Ordinary Shares (Australia),U
 HHOLF,Herald Holdings Limited Ordinary Shares (Bermuda),U
 HHPHD,Mojave Brands Inc Ordinary Shares,U
 HHR,HeadHunter Group PLC American Depositary Shares,NASDAQ
@@ -647,7 +646,7 @@ HNTM,HuntMountain Resources Ltd. Common Stock,U
 HNTUF,Hunter Maritime Acquisition Corp Unit 1 CL A & 1/2 WT EXP 11/17/2021,U
 HNTWF,u Warrant   11/17/2021,U
 HNUZF,BETAPRO NAT GAS LEVERAGED DAILY BULL ETF Unit,U
-HNW,Pioneer Diversified High Income Trust,AMEX
+HNW,"Pioneer Diversified High Income Fund, Inc.",AMEX
 HNWAF,Hanwa Co Ltd Ordinary Shares (Japan),U
 HNWDF,HONWORLD GROUP LTD USD SHS (Cayman Islands),U
 HNWEF,Hanwei Energy Svcs Corp Common Shares (Canada),U
@@ -878,7 +877,7 @@ HTPRF,HTC Purenergy Inc Ordinary Shares (Canada),U
 HTRB,Hartford Total Return Bond ETF,ARCA
 HTRC,Hunter Creek Mng Co Unclassified,U
 HTRE,"H3 Enterprises, Inc. Common Stock",U
-HTRRF,Heatherdale Resources Limited Common Shares,U
+HTRRF,BLACKWOLF COPPER & GOLD LTD Common Shares,U
 HTSC,Here to Serve Holding Corp. Common Stock (DE),U
 HTSF,"Heartsoft, Inc. Common Stock",U
 HTSLF,Hitachi Transport System Ltd. Ordinary Shares (Japan),U
@@ -985,7 +984,9 @@ HXPN,Harris Exploration Inc. New Common Stock,U
 HXPR,Hispanic Express Inc Common Stock,U
 HXXPY,HEXPOL AB American Depositary Receipts - Unsponsored (Sweden),U
 HY,"HYSTER-YALE MATERIALS HANDLING, INC",NYSE
+HYAC,Haymaker Acquisition Corp. III Class A common stock,NASDAQ
 HYACU,Haymaker Acquisition Corp. III Unit,NASDAQ
+HYACW,Haymaker Acquisition Corp. III Warrant,NASDAQ
 HYB,"New America High Income Fund, Inc.",NYSE
 HYBB,iShares BB Rated Corporate Bond ETF,ARCA
 HYBE,"Hybrid Energy Holdings, Inc. Common Stock",U
@@ -1341,7 +1342,6 @@ IETC,iShares Evolved U.S. Technology ETF,BATS
 IEUR,iShares Core MSCI Europe ETF,ARCA
 IEUS,iShares MSCI Europe Small-Cap ETF,NASDAQ
 IEV,iShares Europe ETF,ARCA
-IEVM,"Integrated Environmental Technologies, Ltd. Common Stock",U
 IEX,IDEX Corporation,NYSE
 IEXA,"iExalt, Inc. Common Stock",U
 IEZ,iShares U.S. Oil Equipment & Services ETF,ARCA
@@ -2859,6 +2859,7 @@ KATA,Katana Broadband Corporation Common Stock,U
 KATOF,Kato Sangyo Co Ltd Ordinary Shares (Japan),U
 KATSF,Katsuragawa Electric Co Ltd Ordinary Shares (Japan),U
 KATX,KAT Exploration Inc.  Common Stock,U
+KAURF,KAISER REEF LTD ORDINARY FULLY PAID (Australia),U
 KAVL,"Kaival Brands Innovations Group, Inc. Common Stock",U
 KAYS,"Kaya Holdings, Inc. Common Stock",U
 KB,KB Financial Group Inc,NYSE
@@ -3219,7 +3220,6 @@ KOTMF,Koito Manufacturing Co Ltd Ordinary Shares (Japan),U
 KOTMY,Koito Manufacturing Unsponsored ADR (Japan),U
 KOVR,Korver Corp. Common Stock,U
 KOYJF,Kemira Oyj Ordinary Shares (Finland),U
-KOYWF,"Kootenay Silver, Inc. Warrant Exp 04/21/2021 (Canada)",U
 KOZAY,Koza Altin Islemeleri A S Unsponsored American Depository Receipt (Turkey),U
 KOZZF,Koza Altin Isletmeleri AS Ordinary Shares   (Turkey),U
 KPAY,KinerjaPay Corp Common Stock,U
@@ -3866,7 +3866,6 @@ LMMFF,Lithium Australia NL Ordinary Shares (Australia),U
 LMMHF,Langham Hospitality Invts Ltd Ordinary Shares Stapled Unit (Hong Kong),U
 LMMPF,Lithium Australia NL Ordinary Shares Partly Paid (Australia),U
 LMND,"Lemonade, Inc.",NYSE
-LMNGF,BioVaxys Technology Corp Common Shares,U
 LMNL,Liminal BioSciences Inc. Common Shares,NASDAQ
 LMNR,Limoneira Co Common Stock,NASDAQ
 LMNX,Luminex Corporation Common Stock,NASDAQ
@@ -3950,7 +3949,9 @@ LOIMY,"Loomis AB, Solna Unsponsored ADR (Sweden)",U
 LOKB,Live Oak Acquisition Corp. II,NYSE
 LOKB U,"Live Oak Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-th",NYSE
 LOKB WS,"Live Oak Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one share of C",NYSE
+LOKM,Live Oak Mobility Acquisition Corp.,NYSE
 LOKM U,"Live Oak Mobility Acquisition Corp. Units, each consisting of one share of Class A common stock, and",NYSE
+LOKM WS,"Live Oak Mobility Acquisition Corp. Warrants, exercisable for one share of Class A common stock at a",NYSE
 LOMA,"Loma Negra Compania Industrial Argentina Sociedad Anonima American Depositary Shares (ADSs), each re",NYSE
 LOMLF,Lion One Metals Ltd. Ordinary Shares (Canada),U
 LONCF,Loncor Resources Inc. Ordinary Shares,U
@@ -4336,7 +4337,7 @@ MAURF,Marui Group Co Ltd Ordinary Shares (Japan),U
 MAURY,Marui Group Co Ltd ADR (Japan),U
 MAUSY,Matsui Securities Company Ltd Tokyo Unsponsored American Depositary Receipt,U
 MAUTF,MONTAGE GOLD CORP COM (Canada),U
-MAV,Pioneer Municipal High Income Advantage Trust,NYSE
+MAV,"Pioneer Municipal High Income Advantage Fund, Inc.",NYSE
 MAVBF,Mav Beauty Brands Inc Common Shares (Canada),U
 MAWAF,MARUWA CO LTD Common Shares,U
 MAWHF,Man Wah Holdings Limited New Ordinary Shares (Bermuda),U
@@ -4562,6 +4563,7 @@ MDPCF,Madison Pac Ppts- B Ordinary Shares,U
 MDPEB,Meredith Corporation Common Stock Class B,U
 MDRA,Medra Corporation Common Stock,U
 MDRM,"Modern Mobility Aids, Inc Common Stock",U
+MDRNF,MODERN PLT BASED FOODS INC Ordinary Shares,U
 MDRR,"Medalist Diversified REIT, Inc. Common Stock",NASDAQ
 MDRRP,"Medalist Diversified REIT, Inc. Series A Cumulative Redeemable Preferred Stock",NASDAQ
 MDRSF,MEDARTIS HOLDING AG Namen AKT (Switzerland),U
@@ -4774,7 +4776,7 @@ MHGUP,Meritage Hospitality Group Inc. Convertible Preferred Series B,U
 MHGVY,Mowi ASA American Depositary Receipts - Sponsored,U
 MHH,"Mastech Digital, Inc.",AMEX
 MHHC,"MHHC Enterprises, Inc. Common Stock",U
-MHI,Pioneer Municipal High Income Trust,NYSE
+MHI,"Pioneer Municipal High Income Fund, Inc.",NYSE
 MHIHF,Million Hope Inds Holdings Ltd. Ordinary Shares (Cayman Islands),U
 MHIVF,Invesque Inc. Ordinary Shares,U
 MHK,"Mohawk Industries, Inc.",NYSE
@@ -5460,3 +5462,6 @@ MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
+MTD,Mettler-Toledo International,NYSE
+MTDR,MATADOR RESOURCES COMPANY,NYSE
+MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
