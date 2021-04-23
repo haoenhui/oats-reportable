@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
@@ -161,7 +160,6 @@ CRHCF,CRH PLC Ordinary Shares,U
 CRHHF,Cross Harbour Holdings Ltd Ordinary Shares (Hong Kong),U
 CRHKF,"China Resources Enterprise, Ltd. Ordinary Shares (Hong Kong)",U
 CRHKY,China Resources Beer Holdings Company Limited American Depositary Receipts - Sponsored,U
-CRHM,CRH Medical Corporation,AMEX
 CRI,Carter's Inc.,NYSE
 CRIS,"Curis, Inc. Common Stock",NASDAQ
 CRJI,China Runji Cement Inc. Common Stock,U
@@ -956,6 +954,7 @@ DEER,"Deer Consumer Products, Inc. Common Stock",U
 DEF,Invesco Defensive Equity ETF,ARCA
 DEFA,iShares Adaptive Currency Hedged MSCI EAFE ETF,BATS
 DEFN,Emles Protective Allocation ETF,BATS
+DEFTF,DEFI TECHNOLOGIES INC Ordinary Shares,U
 DEH,D8 Holdings Corp. Class A Ordinary Shares,NYSE
 DEH U,"D8 Holdings Corp. Units, each consisting of one Class A ordinary share and one-half of one redeemabl",NYSE
 DEH WS,"D8 Holdings Corp. Warrants, each whole warrant exercisable for one Class A ordinary share at an exer",NYSE
@@ -2310,6 +2309,7 @@ ENGGF,Enagas sa Ordinary Shares,U
 ENGGY,Enagas sa Unsponsored ADR (Spain),U
 ENGH,ENERGY HBR CORP COM,U
 ENGIY,ENGIE  American Depositary Receipts - Sponsored,U
+ENGPF,Engie EPS Ordinary Shares (France),U
 ENGQF,ENGIE SA Ordinary Shares (France),U
 ENGT,Energy & Technology Corp Common Stock,U
 ENGY,Central Energy Partners L.P. Common Units,U
@@ -3293,6 +3293,7 @@ FFZY,Fansfrenzy Corporation Common Stock,U
 FGB,First Trust Specialty Finance and Financial Opportunities Fund,NYSE
 FGBDF,First Global Data Ltd. Common Stock (Canada),U
 FGBI,"First Guaranty Bancshares, Inc. Common Stock",NASDAQ
+FGBIL,FIRST GTY BANCSHARES INC DEPOSITARY SHS EACH REPSTG 1/40TH SH OF SER A FXD RATE (NON-CUMULATIVE PERPETUAL PFD STK) Depositary Shares,U
 FGCN,Flagship Global Corporation Common Stock,U
 FGCO,"Financial Gravity Companies, Inc. Common Stock",U
 FGD,First Trust Dow Jones Global Select Dividend Index Fund,ARCA
@@ -4970,7 +4971,6 @@ GNLAF,Genesis Land Development Corporation Canada Ordinary Shares,U
 GNLKQ,"Genelink, Inc. Common Stock",U
 GNLN,"Greenlane Holdings, Inc. Class A Common Stock",NASDAQ
 GNMA,iShares GNMA Bond ETF,NASDAQ
-GNMK,"GenMark Diagnostics, Inc. Common Stock",NASDAQ
 GNMLF,Genoma Lab International SAB DE CV Ordinary Shares (Mexico),U
 GNMP,General Chemical Group Inc.  (The) Common Stock,U
 GNMSF,Genmab A/S Ordinary Shares,U
@@ -5465,3 +5465,4 @@ GVSI,Good Vibrations Shoes Inc. Common Stock,U
 GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
 GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
 GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
+GWACW,Good Works Acquisition Corp. Warrant,NASDAQ

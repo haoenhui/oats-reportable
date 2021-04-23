@@ -637,7 +637,6 @@ AGLE,"Aeglea BioTherapeutics, Inc. Common Stock",NASDAQ
 AGLNF,AGL Energy Ltd Ordinary Shares,U
 AGLT,Angel Telecom Corporation. Common Stock,U
 AGLXY,AGL Energy Ltd American Depositary Receipts - Sponsored (Australia),U
-AGLY,Agiliti Inc Common Stock,U
 AGM,Federal Agricultural Mortgage Corporation,NYSE
 AGM A,Federal Agricultural Mortgage Corporation Class A Voting,NYSE
 AGM PRC,Federal Agricultural Mortgage Corporation 6.000% Fixed-to-Floating Rate Non-Cumulative Preferred Sto,NYSE
@@ -688,6 +687,7 @@ AGT,iShares MSCI Argentina and Global Exposure ETF,BATS
 AGTAF,AGRITERRA LTD Ordinary Shares,U
 AGTC,Applied Genetic Technologies Corporation Common Stock,NASDAQ
 AGTEF,Agtech Holdings Ltd Ordinary Shares (Bermuda),U
+AGTI,"Agiliti, Inc.",NYSE
 AGTK,"Agritek Holdings, Inc Common Stock",U
 AGTRF,Agta Record AG Fehraltorf Ordinary Shares (Switzerland),U
 AGTT,"Angstrom Technologies, Inc. Common Stock",U
@@ -4002,6 +4002,7 @@ CATY,Cathay General Bancorp Common Stock,NASDAQ
 CAUFF,Capral Ltd Ordinary Shares (Australia),U
 CAULF,Cauldron Energy Ltd Ordinary Shares (Austrailia),U
 CAUTF,"Cambria Automobiles PLC, Swindon Ordinary Shares (United Kingdom)",U
+CAUUF,Centaur Media PLC Common Stock (United Kingdom),U
 CAVEF,"Cavotec SA, Lugano Ordinary Shares Nom",U
 CAVR,CAVU Resources Inc Common Stock,U
 CAVVF,CAVU Mining Corp Ordinary Shares (Canada),U
@@ -4428,7 +4429,6 @@ CFFHF,Cifi Hldgs Group Co Ltd Ordinary Shares (Cayman Islands),U
 CFFI,C&F Financial Corporation Common Stock,NASDAQ
 CFFMF,Cfoam Ltd Ordinary Shares (Australia),U
 CFFN,"Capitol Federal Financial, Inc. Common Stock",NASDAQ
-CFFSU,CF Acquisition Corp. VII Unit,NASDAQ
 CFFVU,CF Acquisition Corp. V Unit,NASDAQ
 CFFVW,CF Acquisition Corp. V Warrant,NASDAQ
 CFG,"Citizens Financial Group, Inc.",NYSE
@@ -5450,7 +5450,6 @@ COW,iPath Series B Bloomberg Livestock Subindex Total ReturnSM ETN,ARCA
 COWI,"CoroWare, Inc. Common Stock",U
 COWN,Cowen Inc. Class A Common Stock,NASDAQ
 COWNL,Cowen Inc. 7.75% Senior Notes due 2033,NASDAQ
-COWNZ,Cowen Inc. 7.35% Senior Notes Due 2027,NASDAQ
 COWP,Canal Capital Corporation Common Stock,U
 COWPP,Canal Capital Corporation $1.30 Exchangeable Preferred Stock,U
 COWTF,Barclays Bk PLC iPath Bloomberg Livestock Subindex Total Return ETN due 10/22/2037 (United Kingdom),U
@@ -5466,3 +5465,4 @@ CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
+CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U

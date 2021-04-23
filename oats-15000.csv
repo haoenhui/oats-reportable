@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTEI,Mountain Energy Inc Common Stock,U
-MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
@@ -1427,6 +1425,7 @@ OCBM,Preferred Commerce Inc. Common Stock,U
 OCC,Optical Cable Corporation Common Stock,NASDAQ
 OCCI,"OFS Credit Company, Inc. Common Stock",NASDAQ
 OCCIP,"OFS Credit Company, Inc. 6.875% Series A Term Preferred Stock",NASDAQ
+OCCPP,OFS CR CO INC PFD STK SER C 6.125% Preferred Stock,U
 OCDDY,OCADO GROUP PLC  American Depositary Receipts - Sponsored (United Kingdom),U
 OCDGF,"Ocado Group PLC, Hatfield Ordinary Shares (United Kingdom)",U
 OCDX,Ortho Clinical Diagnostics plc Ordinary Shares,NASDAQ
@@ -3752,7 +3751,6 @@ QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068",NYSE
 QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067",NYSE
 QWIKF,Qwick Media Inc. Ordinary Shares (Cayman Islands),U
 QWLD,SPDR MSCI World StrategicFactors ETF,ARCA
-QWNBU,Queen's Gambit Growth Capital II Unit,NASDAQ
 QWTR,Quest Water Global Inc. Common,U
 QYBX,"Qian Yuan Baixing, Inc. Common Stock",U
 QYLD,Global X Funds Global X NASDAQ-100 Covered Call ETF,NASDAQ
@@ -3947,7 +3945,6 @@ RDLYF,READLY INTL AB Ordinary Shares,U
 RDML,"Red Mile Entertainment, Inc. Common Stock",U
 RDMR,Road Marshall Inc Common Stock,U
 RDN,Radian Group Inc.,NYSE
-RDNAF,DEFI TECHNOLOGIES INC Ordinary Shares,U
 RDNT,"RadNet, Inc. Common Stock",NASDAQ
 RDOG,ALPS REIT Dividend Dogs ETF,ARCA
 RDOIF,Rodinia Oil Corp. Ordinary Shares (Canada),U
@@ -4344,6 +4341,7 @@ RMTI,"Rockwell Medical, Inc. (DE) Common Stock",NASDAQ
 RMTN,"Rocky Mountain Ayre, Inc. Common Stock",U
 RMYHY,RAMSAY HEALTH CARE LTD  American Depositary Receipts - Unsponsored (Australia),U
 RNA,"Avidity Biosciences, Inc. Common Stock",NASDAQ
+RNAZ,"TransCode Therapeutics, Inc. Common Stock",NASDAQ
 RNBI,Rainbow International Corp Common Stock,U
 RNDB,"Randolph Bancorp, Inc. Common Stock",NASDAQ
 RNDM,First Trust Exchange-Traded Fund VI Developed International Equity Select ETF,NASDAQ
@@ -4463,7 +4461,6 @@ ROYMF,Royal Mail Plc Shs (United Kingdom),U
 ROYMY,Royal Mail PLC Unsponsored ADR (United Kingdom),U
 ROYTL,Pacific Coast Oil Trust Units Beneficial Int,U
 ROYUF,Royal Unibrew A S Common Shares,U
-RP,"RealPage, Inc. Common Stock",NASDAQ
 RPAI,"RETAIL PROPERTIES OF AMERICA, INC.",NYSE
 RPAR,RPAR Risk Parity ETF,ARCA
 RPAY,Repay Holdings Corporation Class A Common Stock,NASDAQ
@@ -4513,13 +4510,14 @@ RRRDF,Red River Resource Ltd Ordinary Shares (Australia),U
 RRRI,"Rock Ridge Resources, Inc. Common Stock",U
 RRRLF,ROCKRIDGE RES LTD Common Shares  Canada (CA),U
 RRRT,"R-Three Technologies, Inc. Common Stock",U
+RRSFF,RRITUAL SUPERFOODS INC Common Shares,U
 RRSSF,NEOMETALS LTD  Ordinary Shares,U
 RRTS,ROADRUNNER TRANSN SYS INC Common Stock,U
 RS,Reliance Steel & Aluminium Co.,NYSE
 RSAIF,RSA Insurance Group PLC  Ordinary Shares,U
 RSAM,"Rising Sun Bancorp (Rising Sun, MD) Common Stock",U
 RSASF,"Resaas Services, Inc. Ordinary Shares (Canada)",U
-RSAU,Rooshine Inc. Common Stock,U
+RSAUD,Rooshine Inc. Common Stock,U
 RSBSF,REACH SUBSEA ASA Ordinary Shares,U
 RSCF,"Reflect Scientific, Inc. Common Stock",U
 RSCI,"Redwood Scientific Technologies, Inc. Common Stock",U
@@ -5465,3 +5463,6 @@ SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U

@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
@@ -229,7 +228,6 @@ HCM,Hutchison China MediTech Limited American Depositary Shares,NASDAQ
 HCMC,Healthier Choices Management Corp. Common Shares,U
 HCMLF,LAFARGEHOLCIM LTD  Ordinary Shares,U
 HCMLY,LafargeHolcim Ltd. American Depositary Receipts - Unsponsored,U
-HCNEU,Jaws Hurricane Acquisition Corp. Unit,NASDAQ
 HCPHF,Holcim Philippines Inc Ordinary Shares (Philippines),U
 HCPHY,Holcim Philippines Inc Unsponsored ADR (Philippines),U
 HCRB,Hartford Core Bond ETF,BATS
@@ -1512,7 +1510,6 @@ IIM,INVESCO VALUE MUNICIPAL INCOME TRUST,NYSE
 IIN,Intricon Corporation Common Stock,NASDAQ
 IINDF,INTEGRA INDOCABINET TBK PT Ordinary Shares (Indonesia),U
 IINHF,Imagi International Holdings Ltd Ordinary Shares,U
-IINN,Inspira Technologies Oxy B.H.N. Ltd. Ordinary Shares,NASDAQ
 IINX,"Ionix Technology, Inc. Common Stock",U
 IIPR,"Innovative Industrial Properties, Inc. Common stock",NYSE
 IIPR PRA,"Innovative Industrial Properties, Inc.9.00 Percent Series A Cumulative Redeemable Preferred Stock",NYSE
@@ -1805,7 +1802,6 @@ INTG,Intergroup Corporation (The) Common Stock,NASDAQ
 INTH,InnoTech Corporation Common Stock,U
 INTI,"Inhibitor Therapeutics, Inc. Common Stock",U
 INTK,Industrial Nanotech Inc Common Stock,U
-INTM,"Intermedia Cloud Communications, Inc. Common Stock",NASDAQ
 INTO,"Initio, Inc. Common Stock",U
 INTP,"Integrated Pharmaceuticals, Inc. Common Stock",U
 INTT,inTEST Corporation,AMEX
@@ -2080,7 +2076,9 @@ ISNS,"Image Sensing Systems, Inc. Common Stock",NASDAQ
 ISOL,Image Software Inc. Common Stock,U
 ISOLF,Isodiol International Inc. Ordinary Shares,U
 ISON,Isonics Corporation Common Stock,U
+ISOS,Isos Acquisition Corporation,NYSE
 ISOS U,"Isos Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third of",NYSE
+ISOS WS,"Isos Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share",NYSE
 ISPCF,Ishares Plc Shs (Ireland),U
 ISPD,"Interspeed, Inc. Common Stock",U
 ISPFF,ISHARE II PLC Developed Mkts Pt Yld ETF Shs USD (Ireland),U
@@ -2985,7 +2983,7 @@ KGHI,"Kaiser Group Holdings, Inc Common Stock",U
 KGHPF,Kghm Polska Miedz Sa Reg S Gdr Ordinary Shares,U
 KGHZF,Pangolin Diamonds Corp. Ordinary Shares (Canada),U
 KGJI,Kingold Jewelry Inc.,U
-KGKG,"Kona Gold Solutions, Inc. Common Stock",U
+KGKG,KONA GOLD BEVERAGE INC Common Stock,U
 KGLDF,King Global Ventures Inc Common Shares,U
 KGLLF,KGL Resources Ltd Ordinary Shares,U
 KGMEF,Kagome Co Ltd Ordinary Shares (Japan),U
@@ -3102,7 +3100,6 @@ KLRGF,Keller Group Plc Ord 10 Par Ordinary Shares,U
 KLSVF,Klondike Silver Corp Common Shares (Canada),U
 KLTHF,Koolearn Technology Hldg Ltd Common Shares (Cayman Islands),U
 KLTI,"KlausTech, Inc. Common Stock",U
-KLTR,"Kaltura, Inc. Common Stock",NASDAQ
 KLXE,"KLX Energy Services Holdings, Inc. Common Stock",NASDAQ
 KLYCY,Kunlun Energy Co. Ltd Unsponsored ADR (Hong Kong),U
 KLYG,"Kelyniam Global, Inc. Common Stock",U
@@ -4257,7 +4254,9 @@ MAC,The Macerich Company,NYSE
 MACA,Moringa Acquisition Corp Class A Ordinary Shares,NASDAQ
 MACAU,Moringa Acquisition Corp Units,NASDAQ
 MACAW,Moringa Acquisition Corp Warrant,NASDAQ
+MACC,Mission Advancement Corp.,NYSE
 MACC U,"Mission Advancement Corp. Units, each consisting of one share of Class A Common Stock and one-third",NYSE
+MACC WS,"Mission Advancement Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class",NYSE
 MACE,"Mace Security International, Inc. Common Stock",U
 MACK,"Merrimack Pharmaceuticals, Inc. Common Stock",NASDAQ
 MACLF,"Maca Ltd, West Perth WA Ordinary Shares (Austrailia)",U
@@ -5336,7 +5335,7 @@ MRRCF,Wayland Group Corp Ordinary Shares,U
 MRRDF,Meridian Mng S E  Ordinary Shares (Netherlands),U
 MRRHF,Marret High Yield Strategies Fund Class A Unit (Canada),U
 MRRTY,Marfrig Global Foods SA Sponsored ADR (Brazil),U
-MRSK,Agility Shares Managed Risk ETF,BATS
+MRSK,Toews Agility Shares Managed Risk ETF,BATS
 MRSKF,DMG MORI CO LTD Ordinary Shares,U
 MRSN,"Mersana Therapeutics, Inc. Common Stock",NASDAQ
 MRTI,Maxus Realty Trust Inc Common Stock,U
@@ -5465,3 +5464,5 @@ MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
+MTEI,Mountain Energy Inc Common Stock,U
+MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U

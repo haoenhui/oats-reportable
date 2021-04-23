@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
-SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
@@ -143,7 +140,7 @@ SIMS,SPDR S&P Kensho Intelligent Structures ETF,ARCA
 SIMTF,Sim Technology Group Limited Ordinary Shares (Bermuda),U
 SIMYF,Singapore Myanmar Investco LTD SHS (Singapore),U
 SINC,Sincerity Applied Materials Holdings Corp. Common Stock,U
-SINGD,Singpoint Inc. Common Stock,U
+SING,Singpoint Inc. Common Stock,U
 SINGF,Singapore Airlines Ltd Ordinary shares (Singapore),U
 SINGY,Singapore Airlines Ltd Unsponsored ADR (Singapore),U
 SINO,"Sino-Global Shipping America, Ltd. Common Stock",NASDAQ
@@ -304,7 +301,7 @@ SLCRW,Silver Crest Acquisition Corporation Warrant,NASDAQ
 SLCT,"Select Bancorp, Inc. Common Stock",NASDAQ
 SLDB,Solid Biosciences Inc. Common Stock,NASDAQ
 SLDGF,Solidusgold Inc. Ordinary Shares (Canada),U
-SLDMF,SOLDERA MNG CORP COM (Canada),U
+SLDMF,AmmPower Corp Common Stock,U
 SLDX,STELLA DIAGNOSTICS INC Common Stock,U
 SLF,Sun Life Financial Inc.,NYSE
 SLFFF,Future Mobility Solutions Ltd.  Ordinary Shares,U
@@ -1729,6 +1726,7 @@ TAGMF,Tag Master AB Ordinary Shares (Sweden),U
 TAGOF,TAG Immobilien AG Shs (Germany Federal Republic),U
 TAGP,Tristar Acquisition Group Common Stock,U
 TAGS,Teucrium Agricultural Fund,ARCA
+TAGYY,TAG Immobilien AG American Depositary Receipts - Unsponsored,U
 TAHEF,Tahera Diamond Corporation Ordinary Shares (Canada),U
 TAHIF,"TAI HING GROUP HOLDINGS LTD, HKD SHS, (Cayman Islands)",U
 TAHKF,Tracker Fund Of Hong Kong Units (Hong Kong),U
@@ -2206,7 +2204,7 @@ THVUF,Thai Vegetable oil Public Co Ltd Units Non Voting Depository Receipt (Thai
 THW,Tekla World Healthcare Fund,NYSE
 THWWW,Target Hospitality Corp. Warrant expiring 3/15/2024,NASDAQ
 THXPF,THOR EXPLORATION LTD  Common Shares,U
-THY,Agility Shares Dynamic Tactical Income ETF,BATS
+THY,Toews Agility Shares Dynamic Tactical Income ETF,BATS
 THYCF,Taiheiyo Cement Corporation Ordinary Shares,U
 THYCY,Taiheiyo Cement Corporation American Depositary Shares,U
 TIACF,Tian An China Investments Co Ltd Ordinary Shares (Hong Kong),U
@@ -3048,7 +3046,9 @@ TWNI U,"Tailwind International Acquisition Corp. Units, each consisting of one C
 TWNI WS,"Tailwind International Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one",NYSE
 TWNK,"Hostess Brands, Inc. Class A Common Stock",NASDAQ
 TWNKW,"Hostess Brands, Inc. Warrants",NASDAQ
+TWNT,Tailwind Two Acquisition Corp.,NYSE
 TWNT U,"Tailwind Two Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of",NYSE
+TWNT WS,"Tailwind Two Acquisition Corp. Redeemable warrants included as part of the units, each whole warrant",NYSE
 TWO,Two Harbors Investment Corp.,NYSE
 TWO PRA,Two Harbors Investment Corp 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred S,NYSE
 TWO PRB,Two Harbors Investment Corp 7.625% Series B Fixed-to-Floating Rate Cumulative Redeemable Preferred S,NYSE
@@ -4661,6 +4661,7 @@ WNARF,Western Areas NL Ordinary Shares (Australia),U
 WNBD,Winning Brands Corporation Common Stock,U
 WNC,Wabash National Corp.,NYSE
 WNCG,"Wyncrest Group, Inc. NEW Common Stock",U
+WNCHF,Wan Cheng Metal Packaging Co Ltd. Ordinary Shares New (Cayman Islands),U
 WNCNY,Wincanton PLC Unsponsored ADR (United Kingdom),U
 WNCP,Wineco Productions Inc Common Stock,U
 WNDLF,Wendel Ordinary Shares,U
