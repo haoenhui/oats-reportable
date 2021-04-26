@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
-GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
-GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
@@ -308,7 +303,9 @@ HEP,"Holly Energy Partners, L.P.",NYSE
 HEPA,"Hepion Pharmaceuticals, Inc. Common Stock",NASDAQ
 HEPZF,HORIZONS ENHANCED INCOME GOLD PRODUCERS ETF Unit,U
 HEQ,JOHN HANCOCK HEDGED EQUITY & INCOME FUND,NYSE
+HERA,FTAC Hera Acquisition Corp. Class A Ordinary Shares,NASDAQ
 HERAU,FTAC Hera Acquisition Corp. Units,NASDAQ
+HERAW,FTAC Hera Acquisition Corp. Warrant,NASDAQ
 HERB,Yasheng Group Common Stock (CA),U
 HERC,H.E.R.C. Products Incorporated Common Stock,U
 HERD,Pacer Funds Pacer Cash Cows Fund of Funds ETF,NASDAQ
@@ -849,7 +846,6 @@ HTCXF,HTC Corporation Ordinary Shares (China),U
 HTD,John Hancock Tax-Advantaged Dividend Income Fund,NYSE
 HTDS,"Hard to Treat Diseases, Inc. Common Stock",U
 HTEC,ROBO Global Healthcare Technology and Innovation ETF,ARCA
-HTFA,Horizon Technology Finance Corporation 6.25 Percent Notes due 2022,NYSE
 HTFB,Horizon Technology Finance Corporation 4.875% Notes due 2026,NYSE
 HTGC,"Hercules Capital, Inc.",NYSE
 HTGM,"HTG Molecular Diagnostics, Inc. Common Stock",NASDAQ
@@ -1907,9 +1903,15 @@ IPSOF,Ipsos Ordinary Shares,U
 IPTK,"AS-IP Tech, Inc. Common Stock",U
 IPTV,IPTV Corporation Common Stock,U
 IPUB,"indiePub Entertainment, Inc. Common Stock",U
+IPVA,InterPrivate II Acquisition Corp.,NYSE
 IPVA U,"InterPrivate II Acquisition Corp. Units, each consisting of one share of Class A common stock and on",NYSE
+IPVA WS,"InterPrivate II Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A",NYSE
+IPVF,InterPrivate III Financial Partners Inc.,NYSE
 IPVF U,"InterPrivate III Financial Partners Inc. Units, each consisting of one share of Class A common stock",NYSE
+IPVF WS,"InterPrivate III Financial Partners Inc. Warrants, each whole warrant exercisable for one share of C",NYSE
+IPVI,InterPrivate IV InfraTech Partners Inc. Class A Common Stock,NASDAQ
 IPVIU,InterPrivate IV InfraTech Partners Inc. Units,NASDAQ
+IPVIW,InterPrivate IV InfraTech Partners Inc. Warrant,NASDAQ
 IPWG,International Power Group Ltd Common Stock,U
 IPWLG,Indianapolis Power & Light 4.60% Preferred Stock,U
 IPWLK,Indianapolis Power & Light 5.65% Preferred Stock,U
@@ -3256,7 +3258,7 @@ KRDXF,Kardex Ag Zuerich Ordinary Shares,U
 KRE,SPDR S&P Regional Banking ETF,ARCA
 KRED,KonaRed Corporation. NEW Common Stock,U
 KREF,KKR Real Estate Finance Trust Inc.,NYSE
-KREFP,KKR Real Estate Financial Trust Inc Cum Red Preferred Series A,U
+KREF PRA,KKR Real Estate Finance Trust Inc. 6.50% Series A Cumulative Redeemable Preferred Stock,NYSE
 KREVF,Keppel REIT Unit REIT  (Singapore),U
 KRFG,King Resources Inc. Common Stock,U
 KRG,Kite Realty Group Trust,NYSE
@@ -3758,7 +3760,6 @@ LIFS,Life Stem Genetics Inc. Com,U
 LIFX,Life360 Inc CHESS Depositary Interest,U
 LIFZF,Labrador Iron Ore Royalty Corp. (Canada),U
 LIGA,"LIG Assets, Inc. Common Stock",U
-LIHC,Liberty International Holding Corporation Common Stock,U
 LIHLU,"LARCHMONT INTER HOLDCO, LLC UNIT LTD LIABILITY CO INT Unit",U
 LII,Lennox International Inc.,NYSE
 LIII,Leo Holdings III Corp,NYSE
@@ -4353,7 +4354,9 @@ MAXSF,Maxis BHD Ordinary Shares (Malaysia),U
 MAYNF,Mayne Pharma Group Ltd Ordinary Shares (Austrailia),U
 MAYS,"J. W. Mays, Inc. Common Stock",NASDAQ
 MAYX,Mayex Usa Inc Common Stock,U
+MBAC,M3-Brigade Acquisition II Corp.,NYSE
 MBAC U,"M3-Brigade Acquisition II Corp. Units, each consisting of one share of Class A common stock, and one",NYSE
+MBAC WS,"M3-Brigade Acquisition II Corp. Redeemable Warrants, each whole warrant exercisable for one share of",NYSE
 MBAIF,CIBT Education Group Inc. Ordinary Shares (Canada),U
 MBAKF,mBank SA Ordinary Shares (Poland),U
 MBAY,"MediaBay, Inc. Common Stock",U
@@ -5163,7 +5166,7 @@ MOHCF,MOTOR OIL HELLAS CORINTH REFINERIES SA REG SHS (Greece),U
 MOHCY,Motor Oil Hellas Corinth Refineries SA Unsponsored ADR (Greece),U
 MOHO,ECMOHO Limited American Depositary Shares,NASDAQ
 MOIFF,MOBEUS INCOME & GROWTH 4 VCT PLC Ordinary Shares  United Kingdom(GB ),U
-MOJGF,MOJAVE GOLD CORP Common Shares,U
+MOJGF,Benjamin Hill Mining Corp. Common Shares,U
 MOJO,"Mojo Organics, Inc.  Common Stock",U
 MOMO,Momo Inc. American Depositary Shares,NASDAQ
 MOMT,"MoneyOnMobile, Inc Common Stock",U
@@ -5466,3 +5469,6 @@ MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
+MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
+MTENY,Mahanagar Telephone Nigam Ltd ADS,U
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U

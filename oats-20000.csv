@@ -1,10 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
-SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
-SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
-SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
-SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
-SHLDQ,Sears Holdings Corporation Common Stock,U
 SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
 SHLOQ,"Shiloh Industries, Inc. Common Stock",U
 SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
@@ -1534,6 +1528,7 @@ SVT,"Servotronics, Inc.",AMEX
 SVTE,"Service Team, Inc. COMMON",U
 SVTLQ,"SiVault Systems, Inc. Common Stock",U
 SVTMF,SM Investments Corporation Ordinary Shares (Phillippines),U
+SVTNF,SILVERTON METALS CORP COM (Canada),U
 SVTPF,S VENTURES PLC Ordinary Shares,U
 SVTRF,Severn Trent Plc Ordinary Shares,U
 SVVB,Savi Financial Corporation Common Stock,U
@@ -1772,7 +1767,6 @@ TASZF,TAS TECNOLOGIA AVANZATA DEI SISTEMI SPA ROMA Ordinary Shares (Italy),U
 TATD,"Tatyana Designs, Inc. Common Stock",U
 TATLY,Tata Steel Ltd.,U
 TATT,TAT Technologies Ltd. Ordinary Shares,NASDAQ
-TATUF,Tatung Co Ltd Ordinary Shares (Taiwan),U
 TATYF,Tate & Lyle Plc  25 P Ord Ordinary Shares,U
 TATYY,Tate & Lyle Plc  Sponsored ADR (UK),U
 TAUG,"Tauriga Sciences, Inc. Common Stock",U
@@ -2661,7 +2655,9 @@ TRBMF,Torq Resources Inc. Common Shares,U
 TRBO,"Turbo Global Partners, Inc. Common Stock",U
 TRBX,"TRB Systems International, Inc. Common Stock",U
 TRC,Tejon Ranch Co.,NYSE
+TRCA,Twin Ridge Capital Acquisition Corp.,NYSE
 TRCA U,"Twin Ridge Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-th",NYSE
+TRCA WS,"Twin Ridge Capital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordina",NYSE
 TRCH,"Torchlight Energy Resources, Inc. Common Stock",NASDAQ
 TRCK,"Track Group, Inc. Common Stock",U
 TRCLF,"Trans Cosmos, Inc. Ordinary Shares (Japan)",U
@@ -3780,6 +3776,7 @@ VEXTF,Vext Science Inc Common Shares,U
 VFAWF,VANGUARD FUNDS PLC FTSE ALL WORLD UCITS ETF ACCUM USD Exchange Traded Fund,U
 VFC,V.F. Corporation,NYSE
 VFDEF,Vanguard Funds PLC Vanguard FTSE Developed Europe UCITS ETF,U
+VFEAF,VANGUARD FUNDS PLC FTSE EMERGING MKTS UCITS ETF ACCUM USD (Ireland),U
 VFF,"Village Farms International, Inc. Common Shares",NASDAQ
 VFH,Vanguard Financials ETF,ARCA
 VFIN,Simplify Volt Fintech Disruption ETF,ARCA
@@ -4084,8 +4081,12 @@ VOYRF,Valor Res Ltd Ordinary Shares,U
 VOYT,Voyant International Corporation Common Stock,U
 VPAHF,Volpara Health Technologies Ltd Ordinary Shares (New Zealand),U
 VPC,Virtus Private Credit Strategy ETF,ARCA
+VPCB,VPC Impact Acquisition Holdings II Class A ordinary shre,NASDAQ
 VPCBU,VPC Impact Acquisition Holdings II Unit,NASDAQ
+VPCBW,VPC Impact Acquisition Holdings II Warrant,NASDAQ
+VPCC,"VPC Impact Acquisition Holdings III, Inc.",NYSE
 VPCC U,"VPC Impact Acquisition Holdings III, Inc. Units, each consisting of one share of Class A common stoc",NYSE
+VPCC WS,"VPC Impact Acquisition Holdings III, Inc. Redeemable warrants, each whole warrant exercisable for on",NYSE
 VPER,"Viper Networks, Inc. Common Stock",U
 VPG,"Vishay Precision Group, Inc.",NYSE
 VPGI,"Velocity Portfolio Group, Inc.",U
@@ -4702,8 +4703,12 @@ WOWI,"Metro One Telecommunications, Inc. Common Stock",U
 WOWMF,WOW Unlimited Media Inc Common Shares  (Canada),U
 WOWU,"WOWI, Inc Common Stock",U
 WPC,W.P. Carey Inc. (REIT),NYSE
+WPCA,Warburg Pincus Capital Corporation I-A,NYSE
 WPCA U,"Warburg Pincus Capital Corporation I-A Units, each consisting of one Class A ordinary share, and one",NYSE
+WPCA WS,"Warburg Pincus Capital Corporation I-A Warrants, each whole warrant exercisable for one Class A ordi",NYSE
+WPCB,Warburg Pincus Capital Corporation I-B,NYSE
 WPCB U,"Warburg Pincus Capital Corporation I-B Units, each consisting of one Class A ordinary share, and one",NYSE
+WPCB WS,"Warburg Pincus Capital Corporation I-B Warrants, each whole warrant exercisable for one Class A ordi",NYSE
 WPCZF,Blue Star Gold Corp Ordinary Shares,U
 WPDPF,"WPD Pharmaceuticals, Inc. Common Shares",U
 WPEC,Wei Pai Electronic Commerce Company Ltd. Common Stock,U

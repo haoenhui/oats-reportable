@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
-CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
@@ -1301,7 +1299,9 @@ DMXF,iShares Trust iShares ESG Advanced MSCI EAFE ETF,NASDAQ
 DMYI,"dMY Technology Group, Inc. III",NYSE
 DMYI U,"dMY Technology Group, Inc. III Units, each consisting of one share of Class A common stock and one-f",NYSE
 DMYI WS,"dMY Technology Group, Inc. III Redeemable warrants, each whole warrant exercisable for one share of",NYSE
+DMYQ,"dMY Technology Group, Inc. IV",NYSE
 DMYQ U,"dMY Technology Group, Inc. IV Units, each consisting of one share of Class A common stock and one-fi",NYSE
+DMYQ WS,"dMY Technology Group, Inc. IV Redeemable warrants, each whole warrant exercisable for one share of C",NYSE
 DMZPY,DOMINOS PIZZA ENTERPRISES LTD  American Depositary Receipts - Unsponsored (Australia),U
 DNACF,Dena Co Ltd Tokyo Ordinary Shares (Japan),U
 DNAG,"DNAPrint Genomics, Inc. Common Stock",U
@@ -1366,7 +1366,6 @@ DOCT,FT Cboe Vest U.S. Equity Deep Buffer ETF - October,BATS
 DOCU,"DocuSign, Inc. Common Stock",NASDAQ
 DODXF,DB AG London Lkd to Dow Jones High Yield Select 10 (Germany),U
 DOEGF,Dor Alon Energy In Israel 1988 Ltd Ordinary Shares (Israel),U
-DOFSQ,DIAMOND OFFSHORE DRILLING INC Common Stock,U
 DOG,ProShares Short Dow30,ARCA
 DOGEF,Orsted A/S Ordinary Shares,U
 DOGZ,Dogness (International) Corporation Class A Common Stock,NASDAQ
@@ -3921,7 +3920,9 @@ FRRVF,Ferrovial SA Ordinary Shares (Spain),U
 FRRVY,Ferrovial SA Unsponsored ADR (Spain),U
 FRSAF,FIRST AU LTD Ordinary Shares,U
 FRSB,First Resource Bank (PA) Common Stock,U
+FRSG,First Reserve Sustainable Growth Corp. Class A Common Stock,NASDAQ
 FRSGU,First Reserve Sustainable Growth Corp. Unit,NASDAQ
+FRSGW,First Reserve Sustainable Growth Corp. Warrant,NASDAQ
 FRSHY,China Jinmao Holdings Group Ltd. American Depositary Receipts - Unsponsored,U
 FRSI,FIRST RATE STAFFING CORP Common Stock,U
 FRSRF,Frasers Hospitality Tr Stapled Security (Singapore),U
@@ -4401,7 +4402,7 @@ GCCFF,Golden Cariboo Resources Ltd Ordinary Shares,U
 GCCO,Garden City Co (Co) Common Stock,U
 GCEA,GRIFFIN CAP ESSENTIAL ASSET REIT INC COM CL E Common Stock,U
 GCEC,GS FIN CORP Other,U
-GCEHD,"Global Clean Energy Holdings, Inc. Common Stock",U
+GCEH,"Global Clean Energy Holdings, Inc. Common Stock",U
 GCEI,"Global Clean Energy, Inc Common Stock",U
 GCFB,Granite City Food & Brewery Ltd,U
 GCFFF,Goldcliff Resource Corp Ordinary Shares,U
@@ -5466,3 +5467,8 @@ GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
 GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
 GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
+GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
+GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
+GWB,"Great Western Bancorp, Inc.",NYSE
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
+GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U

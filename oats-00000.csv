@@ -164,7 +164,9 @@ ACAC,Acies Acquisition Corp. Class A Ordinary Share,NASDAQ
 ACACU,Acies Acquisition Corp. Unit,NASDAQ
 ACACW,Acies Acquisition Corp. Warrant,NASDAQ
 ACAD,ACADIA Pharmaceuticals Inc. Common Stock,NASDAQ
+ACAH,Atlantic Coastal Acquisition Corp. Class A Common Stock,NASDAQ
 ACAHU,Atlantic Coastal Acquisition Corp. Unit,NASDAQ
+ACAHW,Atlantic Coastal Acquisition Corp. Warrant,NASDAQ
 ACAI,Safeplus International Holdings Limited Common Stock,U
 ACAN,"Americann, Inc. Common Stock",U
 ACAVF,ACE Aviation Holdings Inc Common Shares (Canada),U
@@ -1854,7 +1856,9 @@ ATAC U,"Altimar Acquisition Corporation Units, each consisting of one Class A or
 ATAC WS,"Altimar Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A",NYSE
 ATADF,Atac Resources Ltd Ordinary Shares,U
 ATAO,Altair International Corp Common Stock,U
+ATAQ,Altimar Acquisition Corp. III,NYSE
 ATAQ U,"Altimar Acquisition Corp. III Units, each consisting of one Class A ordinary share, and one-fourth o",NYSE
+ATAQ WS,"Altimar Acquisition Corp. III Warrants, each whole warrant exercisable for one Class A Ordinary Shar",NYSE
 ATAR,Avatar Ventures Corp. Common Stock,U
 ATASF,Atlantia SPA Ordinary shares (Italy),U
 ATASY,Atlantia SPA Unsponsored ADR (Italy),U
@@ -2035,7 +2039,9 @@ AUNXF,Fremont Pete Corp Lt Ordinary Shares,U
 AUOTF,AU OPTRONICS CORP SHS (Taiwan),U
 AUOTY,AU Optronics Corp American Depositary Receipts - Sponsored,U
 AUPH,Aurinia Pharmaceuticals Inc Ordinary Shares,NASDAQ
+AURC,Aurora Acquisition Corp. Class A Ordinary Shares,NASDAQ
 AURCU,Aurora Acquisition Corp. Unit,NASDAQ
+AURCW,Aurora Acquisition Corp. Warrant,NASDAQ
 AURI,"Auri, Inc. New Common Stock",U
 AURQF,Aurelius Minerals Inc Common Shares (Canada),U
 AURT,Attune RTD Common Stock,U
@@ -2070,6 +2076,7 @@ AVA,Avista Corporation,NYSE
 AVAAF,Ava Risk Group Ltd. Ordinary Shares (Australia),U
 AVACF,Avance Gas Holding Ltd. Com Shs (Bermuda),U
 AVACU,Avalon Acquisition Inc. Units,NASDAQ
+AVAH,Aveanna Healthcare Holdings Inc. Common Stock,NASDAQ
 AVAL,GRUPO AVAL ACCIONES Y VALORES S.A.,NYSE
 AVAN,Avanti Acquisition Corp.,NYSE
 AVAN U,"Avanti Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of one re",NYSE
@@ -2325,7 +2332,6 @@ BABL,Buildablock Corp. Common Stock,U
 BABWF,International Consolidated Airlines Group SA Ordinary Shares (Spain),U
 BABYF,"Else Nutrition Holdings, Inc. Common Stock",U
 BAC,Bank of America Corporation,NYSE
-BAC PRA,"Bank of America Corporation Depositary Shares, each representing a 1/1,000 th interest in a share of",NYSE
 BAC PRB,"Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of",NYSE
 BAC PRE,"Bank of America Corporation Depositary Shares (representing 1/1,000th of a share of Floating Rate No",NYSE
 BAC PRK,"Bank of America Corporation Depositary Shares, each representing a 1/1,000th interest in a share of",NYSE
@@ -3043,7 +3049,6 @@ BLKLF,Blackline Safety Corp Ordinary Shares (Canada),U
 BLL,Ball Corporation,NYSE
 BLLB,"Bell Buckle Holdings, Inc. Common Stock",U
 BLLI,"Bell Industries, Inc. (DEL) Common Stock",U
-BLLRF,Bollore Ordinary Shares (France),U
 BLLSF,BioLight Life Sciences Ltd. Ordinary shares (Israel),U
 BLLXF,Sire Bioscience Inc. Ordinary Shares,U
 BLLYF,Bluejay Mng PLC Ordinary Shares (United Kingdom),U
@@ -5053,7 +5058,6 @@ CMEIF,China Meidong Auto Hldgs Ordinary Shares (Cayman Islands),U
 CMETF,Chilean Metals Inc. Ordinary Shares,U
 CMEY,"cMoney, Inc. Common Stock",U
 CMF,iShares California Muni Bond ETF,ARCA
-CMFNL,CM Finance Inc 6.125% Notes due 2023,NASDAQ
 CMFO,China Marine Food Group Limited Common Stock,U
 CMFV,"ComF5 International, Inc.  Common Stock",U
 CMG,"Chipotle Mexican Grill, Inc.",NYSE
@@ -5466,3 +5470,5 @@ CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
+CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
+CPCC,"Striper Energy, Inc. Common Stock",U

@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
-MTENY,Mahanagar Telephone Nigam Ltd ADS,U
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
@@ -243,7 +240,7 @@ NABA,National Bancshares Inc (IA) Common Shares,U
 NABXF,Nabaltec AG Ordinary Shares (Germany),U
 NABZY,National Australia Bank Limited Common Stock,U
 NAC,Nuveen California Quality Municipal Income Fund,NYSE
-NACB,National Capital Bank of Washington (DC) Common Stock,U
+NACB,NATIONAL CAP BANCORP INC Common Stock,U
 NACOF,"Nacional Financiera S N C Shares of Industrial, Retail and service Companies Indexes (Mexico)",U
 NACP,Impact Shares NAACP Minority Empowerment ETF,ARCA
 NACQF,NEXTPOINT ACQUISITION CORP CL A RESTRICTED VOTING SH (Canada),U
@@ -2256,6 +2253,7 @@ PDO,PIMCO Dynamic Income Opportunities Fund,NYSE
 PDOS,"Platinum Studios, Inc. Common Stock",U
 PDOT U,"Peridot Acquisition Corp. II Units, each consisting of one Class A ordinary share, and one-fifth of",NYSE
 PDP,Invesco Exchange-Traded Fund Trust Invesco DWA Momentum ETF,NASDAQ
+PDPG,"Performance Drink Group, Inc. Common Stock",U
 PDPR,Marathon Group Corporation.  Common Stock,U
 PDPTF,PUDO INC  Common Shares,U
 PDRDF,Pernod Ricard Ord Ordinary Shares,U
@@ -4685,7 +4683,9 @@ RXL,ProShares Ultra Health Care,ARCA
 RXLSF,Rexel SA Paris Ordinary shares (France),U
 RXMD,"Progressive Care, Inc. Common Stock",U
 RXN,REXNORD CORPORATION,NYSE
+RXRA,RXR Acquisition Corp. Class A Common Stock,NASDAQ
 RXRAU,RXR Acquisition Corp. Units,NASDAQ
+RXRAW,RXR Acquisition Corp. Warrants to purchase Class A common stock,NASDAQ
 RXRLF,"Rex Minerals Ltd, Melbourne Ordinary Shares (Australia)",U
 RXRX,"Recursion Pharmaceuticals, Inc. Class A Common Stock",NASDAQ
 RXT,"Rackspace Technology, Inc. Common Stock",NASDAQ
@@ -5466,3 +5466,9 @@ SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
+SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
+SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
+SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
+SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
+SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
+SHLDQ,Sears Holdings Corporation Common Stock,U
