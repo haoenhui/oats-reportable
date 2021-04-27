@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
 MTG,MGIC Investment Corp.,NYSE
@@ -861,6 +859,7 @@ NPAKF,North Pacific Bank Ltd. Ordinary Shares (Japan),U
 NPCDF,"NIPPON COMMERCIAL DEVELOPEMNT CO LTD, OSAKA Ordinary Shares",U
 NPCE,"Neuropace, Inc. Common Stock",NASDAQ
 NPCPF,Nippon Paint HLDGS Co Ltd Ord Ordinary Shares,U
+NPCT,Nuveen Core Plus Impact Fund,NYSE
 NPCUF,Allon Therapeutics Inc Ordinary Shares (Canada),U
 NPDCF,New Placer Dome Gold Corp. Common Shares,U
 NPEGF,Nippon Electric Glass Ordinary Shares,U
@@ -1013,8 +1012,8 @@ NSP,"Insperity, Inc",NYSE
 NSPDF,Naturally Splendid Enterprises Ltd. Ordinary Shares (Canada),U
 NSPKF,9 Spokes International Ltd. Ordinary Shares (Australia),U
 NSPR,"InspireMD, Inc.",AMEX
-NSPR WS,InspireMD Inc. Warrants,AMEX
-NSPR WSB,InspireMD Inc. Series B Warrants,AMEX
+NSPR WS,"InspireMD Inc. Warrant to purchase one-twenty six thousand two hundred fiftieth (1/ 26,250) of one s",AMEX
+NSPR WSB,"InspireMD Inc. Series B Warrants to purchase one-twenty six thousand two hundred fiftieth (1/ 26,250",AMEX
 NSPT,Newron Sport  Common Stock,U
 NSPX,"Inspyr Therapeutics, Inc.  Common Stock",U
 NSRCF,"Nextsource Materials, Inc. (CAN) Common Stock",U
@@ -1168,6 +1167,7 @@ NUVM,"NuVim, Inc. Common Stock",U
 NUVR,"Nuvera Communications, Inc. Common Stock",U
 NUVSF,Nuvista Energy Ltd Ordinary Shares (Canada),U
 NUW,Nuveen AMT-Free Municipal Value Fund,NYSE
+NUWE,"Nuwellis, Inc. Common Stock",NASDAQ
 NUWHF,NU-WORLD HOLDINGS SHS (South Africa),U
 NUZE,"NuZee, Inc. Common Stock",NASDAQ
 NVAAF,Nova Minerals Ltd. Ordinary Shares,U
@@ -1563,6 +1563,7 @@ OKEPF,Okinawa Electric Power Co Ltd Ordinary Shares (Japan),U
 OKIEF,OKI Electric Industry Co Ltd Ordinary Shares (Japan),U
 OKIEY,OKI Electric Industry Co Ltd Unsponsored ADR (Japan),U
 OKLOF,Oklo RES Ltd Ordinary Shares (Austrailia),U
+OKSCF,OKASAN SECURITIES CO LTD Ordinary Shares,U
 OKSWF,Osisko Gold Royalties Ltd Warrant EXP Restricted 4 Month Hold Expiring 02/18/2022 (Canada),U
 OKTA,"Okta, Inc. Class A Common Stock",NASDAQ
 OKUMF,Okuma Corporation Ordinary Shares (Japan),U
@@ -1676,7 +1677,6 @@ ONZBF,Organicacion Soriana S A Ordinary Shares,U
 OOAG,OMDA Oil and Gas Inc New Common Stock,U
 OOBHF,On the Beach Group Ordinary Shares (United Kingdom),U
 OODH,Orion Diversified Holding Co Inc. COMM,U
-OODVF,Oooedo Onsen Reit Invt Corp Reit (Japan),U
 OOGI,"C2E Energy, Inc. Common Stock",U
 OOIL,Perkins Oil & Gas Inc. Common Stock,U
 OOMA,"Ooma, Inc. Common Stock",NYSE
@@ -3300,7 +3300,8 @@ PTICW,PropTech Investment Corporation II Warrant,NASDAQ
 PTIFF,Petroceltic International Plc Ordinary Shares (IE),U
 PTIN,Pacer Trendpilot International ETF,ARCA
 PTITF,PT Indosat Tbk Ordinary Shares (Indonesia),U
-PTIX,"Protagenic Therapeutics, Inc. Common Stock",U
+PTIX,"Protagenic Therapeutics, Inc. Common Stock",NASDAQ
+PTIXW,"Protagenic Therapeutics, Inc. Warrant",NASDAQ
 PTIZF,PT Indo Tambangraya Megah Ordinary Shares (Indonesia),U
 PTJSF,PT Jasa Marga (Persero) TBK Ordinary Shares Series B (Indonesia),U
 PTJSY,PT Jasa Marga (Persero) TBK Unsponsored ADR (Indonesia),U
@@ -4039,7 +4040,7 @@ RESD,WisdomTree International ESG Fund,BATS
 RESE,WisdomTree Emerging Markets ESG Fund,BATS
 RESN,Resonant Inc. Common Stock,NASDAQ
 RESP,WisdomTree U.S. ESG Fund,ARCA
-RESS,"Renewable Energy Solution Systems, Inc. Common Stock",U
+RESSD,"Sandy Springs Holdings, Inc. Common Stock",U
 RETA,"Reata Pharmaceuticals, Inc. Class A Common Stock",NASDAQ
 RETC,12 Retech Corporation Common Stock,U
 RETDF,REIT 1 LTD SHS REIT (Israel),U
@@ -4095,6 +4096,7 @@ RFMZ,"RiverNorth Flexible Municipal Income Fund II, Inc.",NYSE
 RFNDF,Rural Funds Group Stapled Securities (Australia),U
 RFNS,Reliant Financial Service Corporation Common Stock,U
 RFP,Resolute Forest Products Inc.,NYSE
+RFPEL,REGIONS FINL CORP NEW DEPOSITARY SHS REPSTG 1/40TH PERP PFD SER E Depositary Shares,U
 RFUN,RiverFront Dynamic Unconstrained Income,ARCA
 RFV,Invesco S&P MidCap 400 Pure Value ETF,ARCA
 RFXRF,Running Fox Resource Corporation Ordinary Shares (Canada),U
@@ -4852,7 +4854,6 @@ SB PRC,"SAFE BULKERS, INC. 8.00%  SER C",NYSE
 SB PRD,"Safe Bulkers, Inc. 8.00% Series D",NYSE
 SBAC,SBA Communications Corporation Class A Common Stock,NASDAQ
 SBAGY,Strabag Se-Br Unsponsored ADR (Austria),U
-SBAQF,SUBVERSIVE ACQUISITION LP Rights   01/08/2025,U
 SBAY,"Subaye, Inc.  Common Stock",U
 SBB,ProShares Short SmallCap600,ARCA
 SBBA,Scorpio Tankers Inc. 7.00% Senior Notes due 2025,NYSE
@@ -4931,7 +4932,6 @@ SBUDF,Sugarbud Craft Growers Corp Ordinary Shares,U
 SBUG,iPath Silver ETN,ARCA
 SBUM,Silver Buckle Mines Inc Common Stock,U
 SBUX,Starbucks Corporation Common Stock,NASDAQ
-SBVRF,SUBVERSIVE ACQUISITION LP Unit,U
 SBWFF,CORNISH METALS INC Ordinary Shares,U
 SBYSF,SIBANYE STILLWATER LTD Ordinary Shares,U
 SC,SANTANDER CONSUMER USA HOLDINGS INC,NYSE
@@ -5471,4 +5471,3 @@ SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
 SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
-SHLDQ,Sears Holdings Corporation Common Stock,U

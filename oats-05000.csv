@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
@@ -3774,7 +3775,6 @@ FOSUF,Fosun International Ltd Ordinary shares (China),U
 FOSUY,Fosun International Ltd Unsponsored ADR (Hong Kong),U
 FOSYF,Forsys Metals Corp Common Shares (Canada),U
 FOTB,First Ottawa Bancshares Inc (Delaware) First Ottawa Bancshares Inc (DE),U
-FOTRF,"Frontier Real Estate Invest, Tokyo Ordinary Shares (Japan)",U
 FOTXY,Fotex First Amer Hungar(100hf) American Depositary Shares,U
 FOUR,"Shift4 Payments, Inc.",NYSE
 FOVL,iShares Focused Value Factor ETF,ARCA
@@ -4152,7 +4152,6 @@ FUNFF,FansUnite Entertainment Inc Common Shares,U
 FUNL,CornerCap Fundametrics Large-Cap ETF,BATS
 FUNN,Amfil Technologies Inc. Common Stock,U
 FUNWF,"4FUN MEDIA SA, Warszawa Shs (Poland)",U
-FUORF,"Fukuoka Reit Corp, Fukuoka SHS (Japan)",U
 FUPBY,Fuchs Petrolub SE Unsponsored American Depository ReceiptRepresenting Preferenced Shares  (Germany),U
 FUPEF,Fuchs Petrolub AG Ordinary Shares,U
 FUPEY,Fuchs Petrolub SE Unsponsored ADR Representing Ordinary Shares (Germany Federal Republic),U
@@ -4707,6 +4706,7 @@ GINBF,Grupo Industrial Maseca Sa De Cv Ordinary Shares,U
 GINN,Goldman Sachs Innovate Equity ETF,ARCA
 GIPR,Generation Income Properties Inc Common Stock,U
 GIS,"General Mills, Inc.",NYSE
+GISMF,GRUPO INDUSTRIAL SALTILLO SAB DE CV SHS SERIES -A- (Mexico),U
 GITH,"Global IT Holdings, Inc. New Common Stock",U
 GIVPY,Grupo de Inversiones Suramericana S.A. Sponsored ADR Representing Level 1 Preferred Shares (Columbia),U
 GIVSY,Grupo De Inversiones Suramericana S.A. Sponsored ADR (Colombia),U
@@ -4759,7 +4759,6 @@ GLBS,Globus Maritime Limited Common Stock,NASDAQ
 GLBXF,Globex Mining Enterprises Inc. Ordinary Shares (Canada),U
 GLBZ,Glen Burnie Bancorp Common Stock,NASDAQ
 GLCC,Good Life China Corporation Common Stock,U
-GLCDF,GL Events Brignais Ordinary Shares (France),U
 GLCN,VanEck Vectors China Growth Leaders ETF,ARCA
 GLCNF,"Glencore Xstrata PLC, St. Helier Ordinary Shares (Jersey)",U
 GLCO,Global Links Corporation Common Stock,U
@@ -4795,6 +4794,7 @@ GLKFF,"Raise Production, Inc Ordinary Shares (Canada)",U
 GLKIF,"Great Lakes Graphite, Inc. Common Shares (Canada)",U
 GLL,ProShares UltraShort Gold,ARCA
 GLLA,Gilla Inc. Common Stock,U
+GLLDF,Global Dining Inc Tokyo Ordinary Shares (Japan),U
 GLLGF,Global Graphics SE Ordinary Shares (United Kingdom),U
 GLLHF,Goldlion Holding Ltd Ordinary Shares (Hong Kong),U
 GLLL,Glacial Lakes Corn Processors Unit Com & Cap Unit,U
@@ -5471,4 +5471,3 @@ GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U

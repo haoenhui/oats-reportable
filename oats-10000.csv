@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
@@ -617,7 +618,6 @@ HNHAF,Hon Hai Precision Industries Co Ltd Ordinary Shares,U
 HNHPF,Hon Hai Precision Industries Co Ltd Global Depositary Receipts - Sponsored,U
 HNI,HNI Corporation,NYSE
 HNKLY,Hisense Kelon Electrical Holdings Co Ltd ADR Unsponsored (China),U
-HNKYF,"Hankyu Reit Inc, Osaka Ordinary Shares (Japan)",U
 HNLGF,"Hang Lung Group, Ltd. Ordinary Shares",U
 HNLGY,"Hang Lung Group, Ltd. American Depositary Shares",U
 HNMGF,Honma Golf Ltd. Ordinary Shares (Cayman Islands),U
@@ -1491,7 +1491,6 @@ IIAC WS,"Investindustrial Acquisition Corp. Redeemable Warrants, each whole warr
 IICN,"China Intelligence Information Systems, Inc. Common Stock",U
 IIDDY,IGO LTD American Depositary Receipts - Sponsored,U
 IIF,"Morgan Stanley India Investment Fund, Inc.",NYSE
-IIFIF,"Industrial & Infrastructure Fund Investment Corp., Tokyo Ordinary Shares (Japan)",U
 IIGD,Invesco Investment Grade Defensive ETF,ARCA
 IIGV,Invesco Investment Grade Value ETF,ARCA
 III,"Information Services Group, Inc. Information Services Group Inc. Common Stock",NASDAQ
@@ -1859,6 +1858,7 @@ IPFF,iShares International Preferred Stock ETF,BATS
 IPFPF,"International Personal Finance Plc, Leeds Ordinary shares (United Kingdom)",U
 IPG,"The Interpublic Group of Companies, Inc.",NYSE
 IPGDF,IGO Ltd Ordinary Shares,U
+IPGGF,IMPERIUM GROUP GLOBAL HOLDINGS LTD Ordinary Shares,U
 IPGP,IPG Photonics Corporation Common Stock,NASDAQ
 IPGYY,Interpump Group Spa Unsponsored ADR (Italy),U
 IPHA,Innate Pharma S.A. ADS,NASDAQ
@@ -2591,7 +2591,6 @@ JKS,JINKOSOLAR HOLDINGS CO,NYSE
 JKSM,Jacksam Corporation Common Stock,U
 JKSSY,Jinke Smart Services Group Company Limited American Depositary Receipts - Unsponsored (China),U
 JLFNF,Japan Lifeline Co Ltd Ordinary Shares (Japan),U
-JLGFF,"Japan Logistics Fund Inc, Tokyo Ordinary Shares (Japan)",U
 JLL,"Jones Lang LaSalle, Inc.",NYSE
 JLMC,JLM Couture Inc. Common Stock,U
 JLMKF,Jolimark Holdings Limited Ordinary Shares (Cayman Islands),U
@@ -3721,7 +3720,6 @@ LGNYZ,Ligand Pharmaceuticals Incorporated General Contingent Value Right,U
 LGNZZ,Ligand Pharmaceuticals Incorporated Tr Beta Continngent Value Right,U
 LGO,Largo Resources Ltd. Common Shares,NASDAQ
 LGOV,First Trust Long Duration Opportunities ETF,ARCA
-LGOYF,Logo Yazilim Sanayi Ve Ticaret AS Ordinary Shares (Turkey),U
 LGRDY,LEGRAND SA Unsponsored ADR (France),U
 LGRTY,Lai Sun Garment Intl Ltd American Depositary Receipts - Sponsored (Hong Kong),U
 LGRVF,Legrand Sa Ord Shs Prov Opo (France),U
@@ -4817,6 +4815,7 @@ MIESF,Mitsui E&S Hldgs Co Ltd Ordinary Shares,U
 MIESY,"Mitsui E&S Holdings Co., Ltd. American Depositary Receipts - Unsponsored",U
 MIFF,"Mifflinburg Bancorp, Inc. Common Stock",U
 MIG,VanEck Vectors Moody's Analytics IG Corporate Bond ETF,BATS
+MIGI,Mawson Infrastructure Group Inc. Common Stock,U
 MIHDF,Misc Bhd Ordinary Shares (Malaysia),U
 MIHL,MONTAGUE INTERNATIONAL HOLDING LTD. Common Stock New,U
 MIILF,Minor International Public Co Limited Local Warrants Expiring 09/30/2021 (Thailand),U
@@ -5011,7 +5010,6 @@ MMD,MainStay MacKay DefinedTerm Municipal Opportunities Fund,NYSE
 MMDCF,MIND MEDICINE MINDMED INC Warrant   01/07/2024,U
 MMDDF,Mirriad Advertising Ltd Ordinary Shares (United Kingdom),U
 MMDWF,Mind Medicine Mindmed Inc Warrant Exp 05/22/2022 (Canada),U
-MMEDF,MIND MEDICINE MINDMED INC COM SUB VTG (Canada),U
 MMEX,MMEX Resources Corporation Common Stock,U
 MMHEF,Malaysia Marine & Heavy Engineering SDN BHD Ordinary Shares (Malaysia),U
 MMHTF,Miramar Hotel & Invvest Ordinary Shares,U
@@ -5098,6 +5096,7 @@ MNKKQ,MALLINCKRODT PUB LTD CO Ordinary Shares,U
 MNLCF,"MANULIFE FINL CORP, NON-CUM RATE RESET PFD CL 1 SHS SER 19 (Canada)",U
 MNLFF,MANULIFE FINL CORP NON CUMULATIVE RATE RESET PFD SHS SER 4 CL 1 (Canada),U
 MNMB,Merchants & Marine Bancorp Inc. Common Stock,U
+MNMD,Mind Medicine (MindMed) Inc. Subordinate Voting Shares,NASDAQ
 MNMT,MOTIVATING THE MASSES INC Common Shares,U
 MNNFF,MINFOCUS EXPLORATION Ordinary Shares,U
 MNNGF,Affluent Partners Holdings Ltd. Ordinary Shares,U
@@ -5196,7 +5195,6 @@ MOSAF,"Mid REIT Inc, Osaka (Japan)",U
 MOSIF,RELIA INC Ordinary Shares,U
 MOST,"MobileSmith, Inc. Common Stock",U
 MOSY,"MoSys, Inc. Common Stock",NASDAQ
-MOTHF,MORI TR HOTEL REIT INC SHS (Japan),U
 MOTI,VanEck Vectors Morningstar International Moat ETF,BATS
 MOTN,Motion Acquisition Corp. Class A Common Stock,NASDAQ
 MOTNF,Clean Pwr Cap Corp Ordinary Shares,U
@@ -5391,7 +5389,6 @@ MSEZ,Media Sentiment Inc Common Stock,U
 MSFAW,Morgan Stanley Fin Warrants Based On Euro Stoxx 50 Index Expiring 05/27/2021,U
 MSFDW,Morgan Stanley Fin LLC Call Warrants Based On Euro Stoxx 50 Index Expiring 05/20/2021,U
 MSFHW,Morgan Stanley Fin LLC Call Warrant Based On Euro Stoxx 50 Index Expiring 05/06/2021,U
-MSFIW,Morgan Stanley Fin LLC Call Warrants Based On Euro Stoxx 50 Index Expiring 04/26/2021,U
 MSFKW,Morgan Stanley Fin LLC Call Warrants Based on Euro Stoxx 50 Index Expiring 04/29/2021,U
 MSFN,Mainstreet Financial Corp. Common Stock,U
 MSFT,Microsoft Corporation Common Stock,NASDAQ
@@ -5472,3 +5469,5 @@ MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U

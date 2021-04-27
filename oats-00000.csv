@@ -2857,7 +2857,7 @@ BIOT,Biotech Acquisition Company Class A Ordinary Shares,NASDAQ
 BIOTU,Biotech Acquisition Company Unit,NASDAQ
 BIOTW,Biotech Acquisition Company Warrant,NASDAQ
 BIOVF,Swedish Orphan Biovitrum AB Ordinary Shares (Sweden),U
-BIOX,Bioceres Crop Solutions Corp. Ordinary Shares,AMEX
+BIOX,Bioceres Crop Solutions Corp. Ordinary Shares,NASDAQ
 BIOYF,BioSyent Inc Ordinary Shares (Canada),U
 BIP,Brookfield Infrastructure Partners L.P. Limited Partnership Units,NYSE
 BIP PRA,"Brookfield Infrastructure Partners L.P. 5.125% Class A Preferred Limited Partnership Units, Series 1",NYSE
@@ -3829,7 +3829,7 @@ BYOGF,Bounty Oil Ordinary Shares (Australia),U
 BYPLF,"Bodycote Plc, Macclesfield, Cheshire Ordinary Shares (United Kingdom)",U
 BYRG,Buyer Group International Inc. Common Stock,U
 BYRLF,BII Railway Transportation Technology Holdings Co Ltd. Ordinary Shares (Cayman Islands),U
-BYRN,BYRNA TECHNOLOGIES INC Common Stock,U
+BYRND,BYRNA TECHNOLOGIES INC Common Stock,U
 BYROF,Byron Energy Ltd Ordinary Shares (Austrailia),U
 BYRSF,PT Bayan Resources Tbk Ordinary Shares (Indonesia),U
 BYSD,Bayside Corporation. Common Stock,U
@@ -4113,6 +4113,7 @@ CBT,Cabot Corporation,NYSE
 CBTC,XTRA Bitcoin Inc. Common Stock,U
 CBTG,Cabot Growth ETF,BATS
 CBTH,"Citizens B & T Holdings, Inc. Com",U
+CBTN,CITIZENS BANCORP INVT INC Common Stock,U
 CBTRP,CORPORATE BACKED CALL TR CTFS J C PENNEY DEB BACKED SER 2007-1 CTF A-1 (United States)S,U
 CBTX,"CBTX, Inc. Common Stock",NASDAQ
 CBU,Community Bank System,NYSE
@@ -4598,7 +4599,6 @@ CHFHF,CHINA ART FINL HLDG LTD Ordinary Shares,U
 CHFHY,China Foods Ltd Unsponsored ADR (China),U
 CHFI,"China Finance, Inc. Common Stock",U
 CHFLF,CHINA FEIHE LTD Ordinary Shares,U
-CHFS,"CHF Solutions, Inc. Common Stock",NASDAQ
 CHFSW,CHF SOLUTIONS INC Warrant   08/21/2025,U
 CHFW,Consonance-HFW Acquisition Corp.,AMEX
 CHFW U,"Consonance-HFW Acquisition Corp. Units, each consisting of one Class A Ordinary Share, and one-third",AMEX
@@ -4750,6 +4750,7 @@ CIA,"Citizens, Inc.",NYSE
 CIADF,China Mengniu Dairy Company Ltd Ordinary Shares (Cayman Islands),U
 CIADY,China Mengniu Dairy Company Ltd Unsponsored ADR (Cayman Islands),U
 CIAFF,"Champion Iron, Ltd. Ordinary Shares (Australia)",U
+CIAHY,CIA HERING American Depositary Receipts - Unsponsored,U
 CIAS,China Score Inc Common Stock,U
 CIAU,"CIAO Group, Inc. Common Stock",U
 CIB,Bancolombia S.A.,NYSE
@@ -5471,4 +5472,3 @@ CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
-CPCC,"Striper Energy, Inc. Common Stock",U

@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHLDQ,Sears Holdings Corporation Common Stock,U
 SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
 SHLOQ,"Shiloh Industries, Inc. Common Stock",U
 SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
@@ -536,7 +537,6 @@ SNCVF,RASSINI SAB DE CV Ordinary Shares,U
 SNCY,"Sun Country Airlines Holdings, Inc. Common Stock",NASDAQ
 SND,"Smart Sand, Inc. Common Stock",NASDAQ
 SNDD,RedHawk Holdings Corp. Common Stock,U
-SNDEQ,SUNDANCE ENERGY INC Common Stock,U
 SNDFY,Sandfire Res NL American Depositary Receipts - Unsponsored (Australia),U
 SNDH,"Standard Holdings Group, Ltd. Common Stock",U
 SNDL,Sundial Growers Inc. Common Shares,NASDAQ
@@ -2166,7 +2166,6 @@ THNUY,Thanachart Capital Public Co Ltd Unsponsored ADR (Thailand),U
 THNVF,THANACHART CAPITAL PUBLIC CO  LTD Ordinary Shares  (Thailand),U
 THO,"Thor Industries, Inc.",NYSE
 THOGF,Toho Gas Co Ltd Ordinary Shares,U
-THOPF,Thai Oil Public Co Ltd NVDR Sh (Thailand),U
 THORF,"THOR MINING PLC, BUCKINGHAMSHIRE ORD GBP0.0001 (United Kingdom)",U
 THOXF,BIOPORTO A/S Ordinary Shares,U
 THPFF,Thai President Food Unit Non Voting Depository Receipt (Thailand),U
@@ -2291,6 +2290,7 @@ TKGL,"TekeGldMpire, Inc. Common Stock",U
 TKGSF,Tokyo Gas Co Ltd Ordinary Shares,U
 TKGSY,Tokyo Gas Co Ltd Unsponsored ADR (Japan),U
 TKGZY,Turkiye Garanti Bankasi A S Sponsored ADR representing 2000 Shs (Turkey),U
+TKHIF,TAKARA HOLDINGS INC SHS (Japan),U
 TKHVY,Turk Hava Yallari Ao Unsponsored ADR (Turkey),U
 TKIAF,TAIKISHA LTD SHS (Japann),U
 TKIDU,Tru Kids Parent LLC Unit,U
@@ -2533,6 +2533,7 @@ TOEYF,Toro Energy Ltd Ordinary Shares (Australia),U
 TOFB,Tofutti Brands Inc Common Stock,U
 TOGL,Toga Limited Common Stock,U
 TOGOF,Tomagold Corporation Common Shares Class A (Canada),U
+TOHZF,Toho Zinc Co Ltd Common Stock,U
 TOILF,"3D Oil Ltd, Melbourne Ordinary Shares (Australia)",U
 TOIPF,Thai Oil Public Co Ltd Shares Foreign Registered (Thailand),U
 TOIPY,Thai Oil Public Co Ltd Unsponsored American Depository Receipt (Thailand),U
@@ -4178,7 +4179,6 @@ VSL,Volshares Large Cap ETF,ARCA
 VSMD,"Vasamed, Inc. Common Stock",U
 VSMR,Verify Smart Corp. Common Stock,U
 VSMV,Victory Portfolios II VictoryShares US Multi-Factor Minimum Volatility ETF,NASDAQ
-VSNDF,Vastned Retail NV Ordinary Shares (Netherlands),U
 VSOGF,"VISTA OIL & GAS SAB DE CV SHARES OF FINANCIAL GROUPS AND INDUSTRIAL, RETAIL Ordinary Shares",U
 VSPC,Viaspace Inc. Common Stock,U
 VSPR,Vesper Healthcare Acquisition Corp. Class A Common Stock,NASDAQ
@@ -4579,7 +4579,6 @@ WIW,Western Asset Inflation-Linked Opportunities & Income Fund,NYSE
 WIX,Wix.com Ltd. Ordinary Shares,NASDAQ
 WIZ,Merlyn.AI Bull-Rider Bear-Fighter ETF,ARCA
 WIZD,WIZARD BRANDS INC Common Stock,U
-WIZP,"Wize Pharma, Inc. Common Stock",U
 WJRYF,West Japan Railway Co Ordinary Shares,U
 WJRYY,West Japan Railway Co Unsponsored ADR (Japan),U
 WJXFF,Wajax Corp. Ordinary Shares (Canada),U
@@ -4676,6 +4675,7 @@ WNRS,WINNERS INC Common Stock,U
 WNS,WNS Holdings Limited,NYSE
 WNW,Wunong Net Technology Company Limited Ordinary Shares,NASDAQ
 WNWG,"Wentworth Energy, Inc. Common Stock",U
+WNWSF,WEATHERNEWS INC TOKYO Ordinary Shares,U
 WNXDF,Diebold Nixdorf AG Ordinary Shares,U
 WOAM,"World Am, Inc. Common Stock",U
 WOBK,WOODSBORO BK MD Common Stock,U
