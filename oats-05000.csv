@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
@@ -762,7 +761,7 @@ CZBC,"Citizens Bancorp (Corvallis, OR) Common Stock",U
 CZBS,Citizens Bancshares Corporation (GA) Common Stock,U
 CZBT,"Citizens Bancorp of Virginia, Inc. Common Stock",U
 CZFS,"Citizens Financial Services, Inc. Common Stock",U
-CZGZF,EHC CZUB SE Ordinary Shares (Czech Republic),U
+CZGZF,CZG CESKA ZBROJOVKA GROUP SE Ordinary Shares,U
 CZMWF,Carl Zeiss Meditec AG AKT (Germany),U
 CZMWY,Carl Zeiss Meditec AG Unsponsored ADR (Germany),U
 CZNB,Citizens Bancorp (CA) Common Stock,U
@@ -1627,7 +1626,6 @@ DVLN,DVL Inc.  Common Stock,U
 DVLP,"Golden Developing Solutions, Inc. Common Stock",U
 DVLTF,Drone Volt SA Ordinary Shares (France),U
 DVLU,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright Momentum & Value ETF,NASDAQ
-DVLY,Deer Valley Corporation Common Stock,U
 DVN,Devon Energy Corporation,NYSE
 DVNGF,Devin Energy Corp Ordinary Shares,U
 DVNHF,Frontier Services Group Ltd Ordinary Shares,U
@@ -1889,6 +1887,7 @@ EDOG,ALPS Emerging Sector Dividend Dogs ETF,ARCA
 EDONF,ENDOMINES AB Share AK (Sweden),U
 EDOW,First Trust Dow 30 Equal Weight ETF,ARCA
 EDPFY,"Energias De Portugal, S.A.",U
+EDR,"Endeavor Group Holdings, Inc.",NYSE
 EDRVF,"EDP Renovais, SA Ordinary Shares (Spain)",U
 EDRVY,EDP Renovaveis SA Unsponsored ADR (Spain),U
 EDRWY,Electric Pwr Dev Co Ltd ADR (Japan),U
@@ -2148,9 +2147,8 @@ ELOAF,EMERGENCE GLOBAL ENTERPRISES INC Ordinary Shares,U
 ELOKY,Enel Russia PJSC Global Depositary Receipts - Sponsored,U
 ELORY,Elior Unsponsored American Depository Receipt (France),U
 ELOX,"Eloxx Pharmaceuticals, Inc. Common Stock",NASDAQ
-ELP,Companhia Paranaense de Energia,NYSE
+ELP,Companhia Paranaense de Energia American Depositary Shares (each representing one Unit consisting o,NYSE
 ELPQF,El Puerto Liverpool Sa Shs 1 Ordinary Shares,U
-ELPVY,Companhia Paranaense de Energia Cople Sponsored American Depositary Shares representing Common Shares (brazil),U
 ELRA,"Elray Resources, Inc. Common Stock",U
 ELRE,Yinfu Gold Corp Common Stock,U
 ELRFF,Eastern Platinum Limited New Ordinary Shares (Canada),U
@@ -2236,7 +2234,7 @@ EMNSF,Elementis 1998 Plc Ordinary Shares,U
 EMNT,PIMCO Enhanced Short Maturity Active ESG ETF,ARCA
 EMO,ClearBridge Energy Midstream Opportunity Fund Inc.,NYSE
 EMOC,Extreme Motorsports of California Inc New Common Stock,U
-EMOR,Emerald Organic Products Inc. Common Stock,U
+EMOR,"Healixa, Inc. Common Stock",U
 EMOTF,Emerita Resources Corp Common Shares (Canada),U
 EMP,"Entergy Mississippi, LLC First Mortgage Bonds, 4.90% Series due October 1, 2066",NYSE
 EMPM,"Empire Post Media, Inc. Common",U
@@ -3343,6 +3341,7 @@ FHN PRB,"First Horizon Corporation Depositary Shares, each representing a 1/400t
 FHN PRC,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-",NYSE
 FHN PRD,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-",NYSE
 FHN PRE,"First Horizon Corporation Depositary Shares, Each Representing a 1/ 4000th Interest in a Share of No",NYSE
+FHNNP,First Horizon Corp Depositary Shares Rep 1/4000TH Perp Pfd Series F,U
 FHRT,First Hartford Corp Unclassified,U
 FHS,"First High-School Education Group Co., Ltd. American Depositary Shares (each representing three (3)",NYSE
 FHTF,FHT FUTURE TECHNOLOGY LTD Common Stock,U
@@ -3872,6 +3871,7 @@ FREQ,"Frequency Therapeutics, Inc. Common Stock",NASDAQ
 FRERF,Fremont Gold Ltd.  Ordinary Shares,U
 FREVS,First Real Estate Investment Trust of New Jersey Shares of Beneficial Interest,U
 FREWF,Far Eastern New Century Corp. Global Depositary Shares Reg S,U
+FRF,"The Fortegra Group, Inc.",NYSE
 FRFC,First Robinson Financial Corporation Common Stock,U
 FRFFF,Fairfax Financial Holdings Ltd Cum 5 Yr Rate Reset Pfd Shs Ser K,U
 FRFGF,Fairfax Financial Holdings Ltd Preferred Shs Ser E 5 Yr Rate Reset (Canada),U
@@ -4048,6 +4048,7 @@ FTBYF,Fortune Bay Corp NEW Ordinary Shares (Canada),U
 FTC,First Trust Large Cap Growth AlphaDEX Fund,NASDAQ
 FTCGF,FST TR GBL FDS PLC Cloud Computing UCITS ETF Class A Shs (Ireland),U
 FTCH,Farfetch Limited Class A Ordinary Shares,NYSE
+FTCI,"FTC Solar, Inc. Common Stock",NASDAQ
 FTCO,FORTITUDE GOLD CORP COM,U
 FTCPF,FIRST TR GLOBAL FDS PLC FIRST TRUST CAPITAL STRENGTH UCITS ETFCLASS A Exchange Traded Fund,U
 FTCS,First Trust Capital Strength ETF,NASDAQ
@@ -4156,7 +4157,7 @@ FUPBY,Fuchs Petrolub SE Unsponsored American Depository ReceiptRepresenting Pref
 FUPEF,Fuchs Petrolub AG Ordinary Shares,U
 FUPEY,Fuchs Petrolub SE Unsponsored ADR Representing Ordinary Shares (Germany Federal Republic),U
 FUPPF,Fuchs Petrolub AG OEL & Chemie Preference Shares Voting Rights (Germany),U
-FURCF,Faurecia SA Ordinary Shares,U
+FURCF,FAURECIA SE Ordinary Shares,U
 FURGF,Furgo Nv Ordinary Shares,U
 FURY,Fury Gold Mines Limited,AMEX
 FUSB,"First US Bancshares, Inc. Common Stock",NASDAQ

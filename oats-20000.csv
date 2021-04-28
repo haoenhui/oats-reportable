@@ -68,7 +68,7 @@ SHYD,VanEck Vectors Short High Yield Muni ETF,BATS
 SHYF,"The Shyft Group, Inc. Common Stock",NASDAQ
 SHYG,iShares 0-5 Year High Yield Corporate Bond ETF,ARCA
 SHYL,Xtrackers Short Duration High Yield Bond ETF,ARCA
-SHYMF,Shefa Yamin Ltd. Shs (Israel),U
+SHYMF,Nala Digital Comm Ltd Ordinary Shares,U
 SHYYF,Shakeys Pizza Asia Ventures Inc Ordinary Shares (Philippines),U
 SHZHY,SHENZHOU INTL GROUP HLDGS LTD American Depositary Receipts - Unsponsored,U
 SHZNF,Shenzhen Express Co Ltd H Shs Ordinary Shares,U
@@ -526,7 +526,6 @@ SNBH,"Sentient Brands Holdings, Inc. Common Stock",U
 SNBIF,Sanbio Co Ltd. Common Stock (Japan),U
 SNBOY,Sanbio Co Ltd. American Depositary Receipts - Unsponsored (Japan),U
 SNBR,Sleep Number Corporation Common Stock,NASDAQ
-SNCA,"Seneca Biopharma, Inc. Common Stock",NASDAQ
 SNCAF,Snc Lavalin Group Inc Cl A Ordinary Shares,U
 SNCHY,Sunac China Holdings Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
 SNCJF,SNT CORP FORMERLY SHIN NIPPON DROP FORGING CO LTD Ordinary SHS (Japan),U
@@ -2519,7 +2518,7 @@ TNYYF,Tinybeans Group Pty Ltd. Ordinary Shares (Australia),U
 TOAGF,Toagosei Co Ltd Ordinary Shares (Japan),U
 TOAOF,TOA OIL CO LTD TOKYO Ordinary Shares (Japan),U
 TOAVF,TOA VALVE ENGR INC Ordinary Shares (Japan),U
-TOBAF,Taat Lifestyle & Wellness Ltd. Common Shares,U
+TOBAF,TAAT Global Alternatives Inc. Common Shares,U
 TOCOF,Tom Group Limited Ordinary Shares,U
 TODCF,TODA CORP FORMERLY TODA CONSTRUCTION CO LTD Ordinary Shares,U
 TODGF,Tods Spa Ordinary Shares,U
@@ -2725,7 +2724,7 @@ TRNPF,TRANSALTA CORP 1ST PFD SER G 5.3% (Canada),U
 TRNS,"Transcat, Inc. Common Stock",NASDAQ
 TRNX,TARONIS TECHNOLOGIES INC Common Stock,U
 TROG,Triumph Oil & Gas Common Stock,U
-TROIF,Tri Origin Exp Ltd Ordinary Shares,U
+TROIF,NEWORIGIN GOLD CORP Ordinary Shares,U
 TROLB,"Tootsie Roll Industries, Inc. Class B Common Stock",U
 TROUF,Troubadour Resources Inc Common Shares (Canada),U
 TROW,"T. Rowe Price Group, Inc. Common Stock",NASDAQ
@@ -2965,6 +2964,7 @@ TUERF,TRUE NORTH COMMERICAL REIT (Canada),U
 TUFBY,Thai Union Group Public Company Limited American Depositary Receipts - Unsponsored,U
 TUFN,Tufin Software Technologies Ltd.,NYSE
 TUFUF,Thai Union Group PLC Ltd Depositary Receipts,U
+TUGCU,TradeUP Global Corporation Unit,NASDAQ
 TUGHF,Tungtex Holding Ordinary Shares,U
 TUIFF,TUI AG Namen AKT (Germany) EUR,U
 TUIFY,TUI AG Unsponsored ADR representing Namen AKT (Germany),U
@@ -3443,7 +3443,6 @@ URBDF,Urbi Desarrollos Urbanos SAB de CV Ordinary Shares,U
 URBF,Urban Barns Foods Inc. Common Stock,U
 URBN,"Urban Outfitters, Inc. Common Stock",NASDAQ
 URBT,Urban Television Network Corporation Common Stock,U
-URCCF,Uranium Rty Corp Common Shares (Canada),U
 URCFF,Vanadian Energy Corp.  Common Shares,U
 URE,ProShares Ultra Real Estate,ARCA
 UREQF,Devex Res Ltd Ordinary Shares,U
@@ -3457,6 +3456,7 @@ URMCY,UNIBAIL-RODAMCO SE / WFD UNIBAIL-RODAMCO N V American Depositary Receipts 
 URNAF,Urbana Corp Ordinary Shares,U
 URNM,NorthShore Global Uranium Mining ETF,ARCA
 URNXF,Magnis Energy Technologies Ltd Ordinary Shares,U
+UROY,Uranium Royalty Corp. Common Stock,NASDAQ
 URPLF,New Klondike Exploration Ltd. Ordinary Shares,U
 URPTF,Uranium Participation Corp Common Shares (Canada),U
 URTH,iShares MSCI World ETF,ARCA
@@ -3626,7 +3626,6 @@ VACQU,Vector Acquisition Corporation Unit,NASDAQ
 VACQW,Vector Acquisition Corporation Warrant,NASDAQ
 VAIAF,Vaisala Oy Ordinary Shares -A- (Finland),U
 VALE,VALE S.A.,NYSE
-VALPQ,VALARIS PLC Ordinary Shares,U
 VALQ,American Century STOXX U.S. Quality Value ETF,ARCA
 VALT,ETFMG Sit Ultra Short ETF,ARCA
 VALU,"Value Line, Inc. Common Stock",NASDAQ
@@ -3744,6 +3743,7 @@ VELO,Velocity Acquisition Corp. Class A Common Stock,NASDAQ
 VELOU,Velocity Acquisition Corp. Units,NASDAQ
 VELOW,Velocity Acquisition Corp. Warrant,NASDAQ
 VELXF,Canadian Overseas Petroleum Limited New Ordinary Shares  (Canada),U
+VEMCU,Velocity Merger Corp. Units,NASDAQ
 VEMLF,Venture Corp. Ltd. Ordinary Shares (Singapore),U
 VEMLY,Venture Corp. Ltd. Unsponsored ADR (Singapore),U
 VENA,Venus Acquisition Corporation Ordinary Shares,NASDAQ
@@ -4203,6 +4203,7 @@ VSYNF,VESYNC CO LTD Ordinary Shares,U
 VSYS,"Viscount Systems, Inc. Common Stock",U
 VT,Vanguard Total World Stock ETF,ARCA
 VTA,INVESCO DYNAMIC CREDIT OPPORTUNITIES FUND,NYSE
+VTAGY,Vantage Towers AG American Depositary Receipts - Unsponsored,U
 VTAQ,Ventoux CCM Acquisition Corp. Common Stock,NASDAQ
 VTAQR,Ventoux CCM Acquisition Corp. Right,NASDAQ
 VTAQU,Ventoux CCM Acquisition Corp. Unit,NASDAQ
@@ -4551,7 +4552,6 @@ WILC,"G. Willi-Food International,  Ltd. Ordinary Shares",NASDAQ
 WILLF,Demant AS Ordinary Shares,U
 WILWY,Wallenius Wilhelmsen ASA American Depositary Receipts - Unsponsored,U
 WILYY,Demant A/S American Depositary Receipts - Unsponsored,U
-WIMHF,William Hill Plc Ordinary Shares,U
 WIMHY,William Hill Plc Unsponsored ADR (UK),U
 WIMI,WiMi Hologram Cloud Inc. American Depositary Share,NASDAQ
 WINA,Winmark Corporation Common Stock,NASDAQ
@@ -4596,7 +4596,7 @@ WKPYF,PT Waskita Karya Persero Tbk Pt Shs Series B (Indonesia),U
 WKRCF,Wacker Neuson SE Namen-Akt (Germany),U
 WKSP,WORKSPORT LTD Common Stock,U
 WKSVF,WORK SVC S A Ordinary Shares,U
-WKULF,Weekend Unlimited Industries Inc. Ordinary Shares,U
+WKULF,Potent Ventures Inc. Ordinary Shares,U
 WKYN,"WebSky, Inc. New Common Stock",U
 WLAB,"White Label Liquid, Inc. Common Stock",U
 WLAN,"Wialan Technologies, Inc. Common Stock",U
