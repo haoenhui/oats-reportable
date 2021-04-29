@@ -1,4 +1,11 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
+CPB,Campbell Soup Company,NYSE
+CPBLF,ALS Ltd. Ordinary Shares (Australia),U
+CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
+CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
+CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
+CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
@@ -509,7 +516,6 @@ CTXV,"CTX Virtual Technologies, Inc. Common Stock",U
 CTXXF,Cematrix Corp Ordinary Shares (Canada),U
 CTYO,CathayOnline Inc. Common Stock,U
 CTYP,"Community Bankers Corporation (Marion, PA) Common Stock",U
-CTYX,"Connectyx Technologies Holdings Group, Inc. NEW Common Stock",U
 CUAEF,China Shenhua Energy Company Ltd Shares -H- (China),U
 CUB,Cubic Corporation,NYSE
 CUBA,"Herzfeld Caribbean Basin Fund, Inc. (The) Common Stock",NASDAQ
@@ -521,6 +527,7 @@ CUBI PRC,"Customers Bancorp, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetua
 CUBI PRD,"Customers Bancorp, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D",NYSE
 CUBI PRE,"Customers Bancorp, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series E",NYSE
 CUBI PRF,"Customers Bancorp, Inc  Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F",NYSE
+CUBT,CURATIVE BIOTECHNOLOGY INC Common Stock,U
 CUBV,CUBA Beverage Company Common Stock,U
 CUBXF,CubicFarm Systems Corporation Common Shares (Canada),U
 CUCSF,China Communications Service Ordinary Shares -H-,U
@@ -998,7 +1005,6 @@ DFAE,Dimensional Emerging Core Equity Market ETF,ARCA
 DFAI,Dimensional International Core Equity Market ETF,ARCA
 DFASF,Dof Asa Ordinary Shares,U
 DFAU,Dimensional US Core Equity Market ETF,ARCA
-DFBRY,Deutsche Bk Mexico SA Institucion De Banca Multiple Div Fiduciaria TR No F/1616 American Depositary Receipts - Sponsored (Mexico),U
 DFCO,Dalrada Financial Corporation Common Stock,U
 DFDDF,DFDS A\/S Copenhagen Ordinary Shares (Denmark),U
 DFE,WisdomTree Europe SmallCap Dividend Fund,ARCA
@@ -1909,7 +1915,7 @@ EDVMF,Endeavour Mining Corporation Ordinary Shares,U
 EDVR,Endeavor Bk Common Stock,U
 EDWZF,Edgewater Exploration Ltd. Common Shares,U
 EDXC,Endexx Corporation Common Stock,U
-EDYYF,Enerdynamic Hybrid Technologies Corp Ordinary Shares (Canada),U
+EDYYD,Enerdynamic Hybrid Technologies Corp Ordinary Shares,U
 EDZ,Direxion Daily Emerging Markets Bear 3x Shares,ARCA
 EDZR,E-Direct Inc Common Stock,U
 EEA,"The European Equity Fund, Inc.",NYSE
@@ -3870,8 +3876,6 @@ FREL,Fidelity MSCI Real Estate Index ETF,ARCA
 FREQ,"Frequency Therapeutics, Inc. Common Stock",NASDAQ
 FRERF,Fremont Gold Ltd.  Ordinary Shares,U
 FREVS,First Real Estate Investment Trust of New Jersey Shares of Beneficial Interest,U
-FREWF,Far Eastern New Century Corp. Global Depositary Shares Reg S,U
-FRF,"The Fortegra Group, Inc.",NYSE
 FRFC,First Robinson Financial Corporation Common Stock,U
 FRFFF,Fairfax Financial Holdings Ltd Cum 5 Yr Rate Reset Pfd Shs Ser K,U
 FRFGF,Fairfax Financial Holdings Ltd Preferred Shs Ser E 5 Yr Rate Reset (Canada),U
@@ -4839,7 +4843,6 @@ GLRY,Inspire Faithward Mid Cap Momentum ESG ETF,ARCA
 GLSEF,GLORIOUS SUN ENTERPRISES LTD Ordinary Shares,U
 GLSI,"Greenwich LifeSciences, Inc. Common Stock",NASDAQ
 GLSPU,Global SPAC Partners Co. Unit,NASDAQ
-GLSSP,GOLDMAN SACHS GROUP INC Pfd Ser M,U
 GLT,Glatfelter Corporation,NYSE
 GLTC,"GelTech Solutions, Inc. Common Stock",U
 GLTO,"Galecto, Inc. Common Stock",NASDAQ

@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTFC,Minster Financial Corporation,U
 MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
@@ -596,6 +595,7 @@ NHYDY,Norsk Hydro ASA Common Stock,U
 NHYF,Natural Harmony Foods Inc Common Stock,U
 NHYKF,Norsk Hydro Asa Ord Ordinary Shares,U
 NHZHF,New Horizon Health Ltd. USD Ordinary Shares (Cayman Islands),U
+NHZHY,NEW HORIZON HEALTH LTD American Depositary Receipts - Unsponsored (Cayman Islands),U
 NI,NiSource Inc.,NYSE
 NI PRB,"NiSource Inc. Depositary Shares representing 1/1,000th ownership interest in a share of 6.50% Series",NYSE
 NIAKF,Niitaka Co Ltd Osaka Ordinary Shares (Japan),U
@@ -1421,8 +1421,8 @@ OCBI,"Orange County Bancorp, Inc. Common Stock",U
 OCBM,Preferred Commerce Inc. Common Stock,U
 OCC,Optical Cable Corporation Common Stock,NASDAQ
 OCCI,"OFS Credit Company, Inc. Common Stock",NASDAQ
+OCCIO,"OFS Credit Company, Inc. 6.125% Series C Term Preferred Stock",NASDAQ
 OCCIP,"OFS Credit Company, Inc. 6.875% Series A Term Preferred Stock",NASDAQ
-OCCPP,OFS CR CO INC PFD STK SER C 6.125% Preferred Stock,U
 OCDDY,OCADO GROUP PLC  American Depositary Receipts - Sponsored (United Kingdom),U
 OCDGF,"Ocado Group PLC, Hatfield Ordinary Shares (United Kingdom)",U
 OCDX,Ortho Clinical Diagnostics plc Ordinary Shares,NASDAQ
@@ -2252,7 +2252,9 @@ PDNLA,Presidential Realty Corporation Class A Common Stock,U
 PDNLB,Presidential Realty Corporation Class B Common Stock,U
 PDO,PIMCO Dynamic Income Opportunities Fund,NYSE
 PDOS,"Platinum Studios, Inc. Common Stock",U
+PDOT,Peridot Acquisition Corp. II,NYSE
 PDOT U,"Peridot Acquisition Corp. II Units, each consisting of one Class A ordinary share, and one-fifth of",NYSE
+PDOT WS,"Peridot Acquisition Corp. II Redeemable warrants included as part of the units, each whole warrant e",NYSE
 PDP,Invesco Exchange-Traded Fund Trust Invesco DWA Momentum ETF,NASDAQ
 PDPG,"Performance Drink Group, Inc. Common Stock",U
 PDPR,Marathon Group Corporation.  Common Stock,U
@@ -2464,7 +2466,7 @@ PHB,Invesco Fundamental High Yield Corporate Bond ETF,ARCA
 PHBI,Pharmagreen Biotech Inc. Common Stock,U
 PHBR,"PhoneBrasil International, Inc. Common Stock",U
 PHCF,"Puhui Wealth Investment Management Co., Ltd. Ordinary Shares",NASDAQ
-PHCG,"Pure Harvest Cannabis Group, Inc. Common Stock",U
+PHCG,"Pure Harvest Corporate Group, Inc. Common Stock",U
 PHCUF,Photocure Asa Ordinary Shares,U
 PHD,"Pioneer Floating Rate Fund, Inc.",NYSE
 PHDG,Invesco S&P 500 Downside Hedged ETF,ARCA
@@ -2685,6 +2687,7 @@ PLTK,Playtika Holding Corp. Common Stock,NASDAQ
 PLTM,GraniteShares Platinum Shares,ARCA
 PLTR,Palantir Technologies Inc. Class A Common Stock,NYSE
 PLTT,"Pilot Therapeutics Holdings, Inc. Common Stock",U
+PLTWF,PLANET 13 HLDGS INC WT EXP 02/02/2023 (Canada),U
 PLTXF,PlantX Life Inc Common Shares (Canada),U
 PLTYF,"Plastec Technologies, Ltd Ordinary Shares (Cayman Islands)",U
 PLUG,"Plug Power, Inc. Common Stock",NASDAQ
@@ -2812,6 +2815,7 @@ PNOCF,Penta Ocean Construction Co Ordinary Shares (Japan),U
 PNOV,Innovator S&P 500 Power Buffer ETF - November,BATS
 PNPFF,Pinetree Capital Ltd Ordinary Shares,U
 PNPL,"Pineapple Express, Inc. Common Stock",U
+PNPPF,Pinetree Capital Ltd Rights 05/13/2021 (Canada),U
 PNQI,Invesco Exchange-Traded Fund Trust Invesco Nasdaq Internet ETF,NASDAQ
 PNR,Pentair plc,NYSE
 PNRC,Premier Energy Corp. (FL) Common Stock,U
@@ -2987,6 +2991,7 @@ PREUF,Prosperity Real Estate Investment Trust Units (Hong Kong),U
 PREXF,POWER RESOURCE EXPLORATION INC. NEW Common Stock (Canada),U
 PRF,Invesco FTSE RAFI US 1000 ETF,ARCA
 PRFT,"Perficient, Inc. Common Stock",NASDAQ
+PRFUF,PROSPEROUS FUTURE HLDGS LTD SHS (Cayman Islands),U
 PRFX,PainReform Ltd. Ordinary Shares,NASDAQ
 PRFZ,Invesco Exchange-Traded Fund Trust Invesco FTSE RAFI US 1500 Small-Mid ETF,NASDAQ
 PRG,"PROG Holdings, Inc.",NYSE
@@ -3091,6 +3096,7 @@ PRTT,Protect Pharmaceutical Corporation Common Stock,U
 PRTX,"Protalex, Inc. Common Stock",U
 PRTY,Party City Holdco Inc.,NYSE
 PRU,"Prudential Financial, Inc.",NYSE
+PRVA,"Privia Health Group, Inc. Common Stock",NASDAQ
 PRVB,"Provention Bio, Inc. Common Stock",NASDAQ
 PRVCF,PreveCeutical Medical Inc. Ordinary Shares (Canada),U
 PRVRF,PROVINCE RES LTD Ordinary Shares,U
@@ -3433,7 +3439,6 @@ PVBC,"Provident Bancorp, Inc. (MD) Common Stock",NASDAQ
 PVBK,"Pacific Valley Bank (Salinas, CA) Common Stock",U
 PVCRF,"PV Crystalox Solar Plc, Wantage Ordinary shares (United Kingdom)",U
 PVCT,PROVECTUS BIOPHARMACEUTICALS INC Common Stock,U
-PVDG,"Poverty Dignified, Inc. Common Stock",U
 PVDRF,Providence Resources Ordinary Shares,U
 PVEG,"Pacific Vegas Global Strategies, Inc. (CO) Common Stock",U
 PVEN,Press Ventures Inc Common Stock,U
@@ -3912,6 +3917,7 @@ RCTRF,Trans Canada Gold Corp.  Ordinary Shares,U
 RCTUF,Reef Casino Trust Units (Australia),U
 RCTY,"Rocket City Enterprises, Inc.  Common Stock",U
 RCUS,"Arcus Biosciences, Inc.",NYSE
+RCWDF,Rightcrowd Ltd Ordinary Shares (Australia),U
 RCZRF,ARMOR MINERALS INC Ordinary Shares,U
 RDAR,"Raadr, Inc. Common Stock",U
 RDBBF,Redbubble Ltd Ordinary Fully Paid (Australia),U
@@ -4113,7 +4119,6 @@ RGDXQ,"Response Genetics, Inc.",U
 RGEDF,Chemical Wks of Richter Gedeon PLC Ordinary Shares (Hungary),U
 RGEN,Repligen Corporation Common Stock,NASDAQ
 RGEXF,Resource Generation Ltd Ordinary Shares (Australia),U
-RGGGF,Rightcrowd Ltd Ordinary Shares (Australia),U
 RGGI,Resgreen Group International Inc Common Stock,U
 RGGLF,Regional Reit Ltd Ordinary Shares (Guernsey),U
 RGI,Invesco S&P 500 Equal Weight Industrials ETF,ARCA
@@ -4999,6 +5004,7 @@ SCHW PRC,The Charles Schwab Corporation,NYSE
 SCHW PRD,Charles Schwab Corporation Depositary Shares each representing 1/40th interest in a share of 5.95% N,NYSE
 SCHW PRJ,"The Charles Schwab Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of",NYSE
 SCHX,Schwab U.S. Large- Cap ETF,ARCA
+SCHY,Schwab International Dividend Equity ETF,ARCA
 SCHYF,Sands China Ltd Shs (Cayman Islands),U
 SCHYY,Sands China Ltd Unsponsored ADR (Cayman Islands),U
 SCHZ,Schwab US Aggregate Bond ETF,ARCA
@@ -5468,7 +5474,3 @@ SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
-SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
-SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
-SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
-SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ

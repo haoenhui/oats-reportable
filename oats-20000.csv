@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
+SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
+SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
+SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
 SHLDQ,Sears Holdings Corporation Common Stock,U
 SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
 SHLOQ,"Shiloh Industries, Inc. Common Stock",U
@@ -296,7 +300,6 @@ SLCRW,Silver Crest Acquisition Corporation Warrant,NASDAQ
 SLCT,"Select Bancorp, Inc. Common Stock",NASDAQ
 SLDB,Solid Biosciences Inc. Common Stock,NASDAQ
 SLDGF,Solidusgold Inc. Ordinary Shares (Canada),U
-SLDMF,AmmPower Corp Common Stock,U
 SLDX,STELLA DIAGNOSTICS INC Common Stock,U
 SLF,Sun Life Financial Inc.,NYSE
 SLFFF,Future Mobility Solutions Ltd.  Ordinary Shares,U
@@ -331,7 +334,7 @@ SLMXF,Slam Exploration Ltd. Common Shares,U
 SLMZF,Damara Gold Corp. Ordinary Shares (Canada),U
 SLN,Silence Therapeutics Plc American Depository Share,NASDAQ
 SLNCF,Silence Therapeutics Plc Ordinary shares (United Kingdom),U
-SLNG,"Stabilis Solutions, Inc. Common Stock",U
+SLNG,"Stabilis Solutions, Inc. Common Stock",NASDAQ
 SLNLF,Stella International Holdings Limited Ordinary shares (Cayman Islands),U
 SLNLY,Stella International Holdings Limited Unsponsored ADR (Cayman Islands),U
 SLNM,"Salon Media Group, Inc. Common Stock",U
@@ -689,7 +692,6 @@ SOHGF,Sohgo Security Services Co Ltd Tokyo Ordinary Shares (Japan),U
 SOHGY,Sohgo Security Services Co Ltd Tokyo American Depositary Shares (Japan),U
 SOHI,"Sortis Holdings, Inc. Common Stock",U
 SOHL,Southern Trust Securities Holding Corp. Common Stock,U
-SOHMF,Sociedad Holding Mercados Sist Financieros SA Ordinary Shares (Spain),U
 SOHNF,Sanoh Industrial Co Ltd Ordinary Shares (Japan),U
 SOHO,Sotherly Hotels Inc. Common Stock,NASDAQ
 SOHOB,Sotherly Hotels Inc. 8.0% Series B Cumulative Redeemable Perpetual Preferred Stock,NASDAQ
@@ -1236,6 +1238,8 @@ STDAF,Stada Arzneimittel Ag Namen AKT (Germany Federal Republic),U
 STDE,Standard Energy Corp Common Stock,U
 STE,STERIS plc,NYSE
 STECF,SCATEC ASA Ordinary Shares,U
+STEM,"Stem, Inc.",NYSE
+STEM WS,"Stem, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise pri",NYSE
 STEP,StepStone Group Inc. Class A Common Stock,NASDAQ
 STEV,Stevia Corp. Common Stock,U
 STFC,State Auto Financial Corporation Common Stock,NASDAQ
@@ -1319,9 +1323,6 @@ STPC U,"Star Peak Corp II Units, each consisting of one share of Class A common 
 STPC WS,"Star Peak Corp II Warrants, each whole warrant exercisable for one share of Class A common stock at",NYSE
 STPGF,Steppe Gold Limited Common Shares,U
 STPJF,Southern Pacific Resource Corp Ordinary Shares (Canada),U
-STPK,Star Peak Energy Transition Corp.,NYSE
-STPK U,"Star Peak Energy Transition Corp. Units, each consisting of one share of Class A common stock, and o",NYSE
-STPK WS,"Star Peak Energy Transition Corp. Warrants, each whole warrant exercisable for one share of Class A",NYSE
 STPRF,Stenprop Ltd Ordinary Shares (United Kingdom),U
 STPZ,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund,ARCA
 STQN,"Strategic Acquisitions, Inc. Common Stock",U
@@ -3667,6 +3668,7 @@ VC,Visteon Corporation Common Stock,NASDAQ
 VCAR,Simplify Volt RoboCar Disruption and Tech ETF,ARCA
 VCBDQ,"Vitalibis, Inc. Common Stock",U
 VCCLF,"VALUECOMMERCE CO LTD, TOKYO SHS (Japan)",U
+VCCTF,Victoria Plc Ordinary Shares (United Kingdom),U
 VCEB,Vanguard ESG U.S. Corporate Bond ETF,BATS
 VCEL,Vericel Corporation Common Stock,NASDAQ
 VCEX,"Vaccex, Inc. Common Stock",U
@@ -4293,6 +4295,7 @@ VWSYF,Vesta Wind Systems Par Ord Ordinary Shares,U
 VWTR,"Vidler Water Resources, Inc. Common Stock",NASDAQ
 VXEL,Vitaxel Group Limited Common Stock,U
 VXF,Vanguard Extended Market ETF,ARCA
+VXIT,"VirExit Technologies, Inc. Common Stock",U
 VXLLF,Vaxil Bio Ltd Ordinary Shares (Canada),U
 VXRT,"Vaxart, Inc Common Stock",NASDAQ
 VXUS,Vanguard STAR Funds Vanguard Total International Stock ETF,NASDAQ

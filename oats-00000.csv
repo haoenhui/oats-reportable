@@ -93,6 +93,7 @@ ABCZF,Abcam PLC Ordinary Shares (United Kingdom),U
 ABDBY,ALM BRAND A/S ADR (Denmark),U
 ABDDF,Ab Dynamics PLC Ordinary Shares (United Kingdom),U
 ABDR,Ambassador Food Services Corporation New Common Stock,U
+ABDXF,Abingdon Health Ltd. Ordinary Shares (United Kingdom),U
 ABENU,Advanced Bioenergy LLC Membership Unit,U
 ABEO,Abeona Therapeutics Inc. Common Stock,NASDAQ
 ABEPF,Vision Lithium Inc Ordinary Shares,U
@@ -270,7 +271,9 @@ ACPGF,ACACIA PHARMA GROUP PLC ORD GBP0.02 (United Kingdom),U
 ACPIF,AC ENERGY CORP Common Stock,U
 ACPRF,ARCPACIFIC RES CORP Common Shares (Canada),U
 ACPS,AC Partners Inc. Common Stock,U
+ACQR,Independence Holdings Corp. Class A Ordinary Share,NASDAQ
 ACQRU,Independence Holdings Corp. Units,NASDAQ
+ACQRW,Independence Holdings Corp. Warrant,NASDAQ
 ACR,ACRES Commercial Realty Corp.,NYSE
 ACR PRC,ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stoc,NYSE
 ACRB,"Asia Carbon Industries, Inc. Common",U
@@ -411,6 +414,7 @@ ADT,ADT Inc.,NYSE
 ADTC,"Advanced Deposition Technologies, Inc. Common Stock",U
 ADTEF,Advantech Co Ltd Ordinary Shares (Taiwan),U
 ADTFF,Imetal Res Inc Ordinary Shares,U
+ADTLF,Adriatic Metals PLC Ordinary Shares (United Kingdom),U
 ADTM,"Adaptive Medias, Inc. Common Stock",U
 ADTN,"ADTRAN, Inc. Common Stock",NASDAQ
 ADTR,Alliance Media Holdings Inc. Common Stock,U
@@ -473,6 +477,7 @@ AELTF,Adacel Technologies Ltd Ordinary Shares,U
 AEM,Agnico Eagle Mines Ltd.,NYSE
 AEMC,Archer Entertainment Media Communications Incorporated New Common Stock,U
 AEMD,"Aethlon Medical, Inc. Common Stock",NASDAQ
+AEMFF,AEM Holdings Limited Ordinary Shares (Singapore),U
 AEMMF,A2A SpA Ordinary Shares,U
 AEMMY,A2A SpA Unsponsored ADR (Italy),U
 AENG,"Advanced Engine Technologies, Inc. Common Stock",U
@@ -1081,7 +1086,9 @@ AMADF,Amadeus IT Group SA Ordinary Shares,U
 AMADY,Amadeus IT Group SA American Depositary Receipts - Unsponsored,U
 AMAL,Amalgamated Financial Corp. Common Stock (DE),NASDAQ
 AMANF,Amano Corp Ordinary Shares,U
+AMAO,American Acquisition Opportunity Inc. Class A Common Stock,NASDAQ
 AMAOU,American Acquisition Opportunity Inc. Units,NASDAQ
+AMAOW,American Acquisition Opportunity Inc. Warrant,NASDAQ
 AMAR,"Amarillo Biosciences, Inc. Common Stock",U
 AMAT,"Applied Materials, Inc. Common Stock",NASDAQ
 AMAZ,AMAZING ENERGY OIL & GAS CO Common Stock,U
@@ -1171,6 +1178,7 @@ AMLZF,African Minerals Limited Ordinary Shares (Bermuda),U
 AMMCF,Amur Minerals Corporation Ordinary shares (British Virgin Islands),U
 AMMHF,AMMB Holdings BHD Ordinary Shares (Malaysia),U
 AMMJ,"American Cannabis Company, Inc. Common Stock",U
+AMMPF,AmmPower Corp Common Stock,U
 AMMX,AMERAMEX INTERNATIONAL INC Common Stock,U
 AMN,AMN Healthcare Services,NYSE
 AMNA,ETRACS Alerian Midstream Energy Index ETN,ARCA
@@ -3445,7 +3453,7 @@ BRNBF,B R A I N BIOTECHNOLOGY AG Ordinary Shares,U
 BRNCF,BRAINCOOL AB Rights SUBSCRIPTION OPTION  Exp 10/01/2021 Sweden (SE),U
 BRNE,Borneo Resource Investments Ltd. Common Stock,U
 BRNGF,Buru Energy Ltd Ordinary shares (Australia),U
-BRNW,"Brainybrawn, Inc. Common Stock",U
+BRNWD,GEMXX CORP Common Stock,U
 BRO,"Brown & Brown, Inc.",NYSE
 BROE,Baron Energy Inc. Common Stock,U
 BROG,Brooge Energy Limited Ordinary Shares,NASDAQ
@@ -5354,6 +5362,7 @@ COF PRK,"Capital One Financial Corporation Depositary Shares, Each Representing 
 COFE,Cafe Holdings Inc. Common Stock,U
 COFI,"Credit One Financial, Inc. Common Stock",U
 COFJF,COFCO JOYCOME FOODS LTD Ordinary Shares (Cayman Islands),U
+COFPL,CAPITAL ONE FINL CORP DEPOSITARY SHS REPSTG 1/40TH INT PERP PFD SER L,U
 COFRF,COMFORIA RESIDENTIAL REIT INC REIT  (Japan),U
 COFS,"ChoiceOne Financial Services, Inc. Common Stock",NASDAQ
 COFSF,Colour Life Services Group Co HKD Shares (Cayman Islands),U
@@ -5422,6 +5431,7 @@ COPLF,SEAFARMS GROUP LTD  Ordinary Shares,U
 COPRF,MEDIVOLVE INC Common Shares,U
 COPX,Global X Copper Miners ETF (NEW),ARCA
 COR,Coresite Realty Corporation,NYSE
+CORAF,Coreo AG Ordinary Shares (Germany),U
 CORC,"Cornwall Resources, Inc. Common Stock",U
 CORE,Core Mark Holding Co Inc Common Stock,NASDAQ
 CORFF,Life Corp Ltd. Ordinary Shares,U
@@ -5465,10 +5475,3 @@ CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAI,Champion Pain Care Corporation Common Stock,U
-CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
-CPB,Campbell Soup Company,NYSE
-CPBLF,ALS Ltd. Ordinary Shares (Australia),U
-CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
-CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
-CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
-CPCC,"Striper Energy, Inc. Common Stock",U
