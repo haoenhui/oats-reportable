@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
@@ -63,6 +62,7 @@ CPS,Cooper-Standard Automotive Inc.,NYSE
 CPSH,CPS Technologies Corp. Common Stock,NASDAQ
 CPSI,"Computer Programs and Systems, Inc. Common Stock",NASDAQ
 CPSJF,Cerro Mining Corp. Ordinary Shares,U
+CPSL,"Catapult Solutions, Inc. Common Stock",U
 CPSN,Capstone Sys Inc Common Stock,U
 CPSO,"CapSource Financial, Inc. (CO) Common Stock",U
 CPSR,Capstar Special Purpose Acquisition Corp.,NYSE
@@ -170,7 +170,6 @@ CRIS,"Curis, Inc. Common Stock",NASDAQ
 CRJI,China Runji Cement Inc. Common Stock,U
 CRJTF,Crossject Ordinary Shares (France),U
 CRK,"Comstock Resources, Inc.",NYSE
-CRKHF,Cartrack Holdings Ltd Common Stock (South Africa),U
 CRKM,Crank Media Inc  Common Stock,U
 CRKN,Crown Electrokinetics Corp. Common Stock,NASDAQ
 CRKT,Cirmaker Technology Corporation Common Stock,U
@@ -425,7 +424,6 @@ CTDN,"Capital Directions, Inc. Common Stock",U
 CTDT,"Centaurus Diamond Technologies, Inc.  Common Stock",U
 CTEC,Global X Funds Global X CleanTech ETF,NASDAQ
 CTEK,"CynergisTek, Inc.",AMEX
-CTEQF,Sunrise Energy Metals Ltd Ordinary Shares,U
 CTEUY,Centerenergo Sponsored ADR,U
 CTFHF,Chinatrust Financial Holdings Co Ltd Ordinary Shares (Taiwan),U
 CTG,"Computer Task Group, Inc. Common Stock",NASDAQ
@@ -1566,7 +1564,9 @@ DTN,WisdomTree U.S. Dividend ex-Financials Fund,ARCA
 DTNHF,"Doutor Nichires Holdings Co Ltd, Tokyo SHS (Japan)",U
 DTNOF,DNO ASA Ordinary Shares A (Norway),U
 DTNOY,DNO ASA Unsponsored ADR (Norway),U
+DTOC,Digital Transformation Opportunities Corp. Class A Common Stock,NASDAQ
 DTOCU,Digital Transformation Opportunities Corp. Units,NASDAQ
+DTOCW,Digital Transformation Opportunities Corp. Warrant,NASDAQ
 DTP,DTE Energy Company 2019 Corporate Units,NYSE
 DTPKF,DIRECTA PLUS PLC Common Stock (United Kingdom),U
 DTRC,Dakota Territory Resource Corp Common Stock,U
@@ -2602,13 +2602,16 @@ ESINQ,ITT EDL SVCS INC Common Stock,U
 ESIV,Essential Innovations Technology Corp.  Common Stock,U
 ESKEF,Esker Sa Lyon Ordinary Shares (France),U
 ESKNF,ESKEN LTD ORD GBP0.10 (Guernsey),U
+ESKTF,EUSKALTEL S A Ordinary Shares (Spain),U
 ESKYF,Eskay Mining Corporation Ordinary Shares 4 Month Hold (Canada),U
 ESLGF,Logistics Development Group plc Ordinary Shares,U
 ESLOF,Essilor Luxottica Ordinary Shares,U
 ESLOY,EssilorLuxottica American Depositary Receipts - Unsponsored,U
 ESLP,Euro Solar Parks Inc. Common Stock,U
 ESLT,Elbit Systems Ltd. Ordinary Shares,NASDAQ
+ESM,ESM Acquisition Corporation,NYSE
 ESM U,"ESM Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third of on",NYSE
+ESM WS,"ESM Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one Class A ordi",NYSE
 ESMAF,ESPORTS MOGUL ASIA PAC LTD Ordinary Shares,U
 ESMC,ESCALON MED CORP Common Stock,U
 ESML,iShares ESG Aware MSCI USA Small-Cap ETF,BATS
@@ -3769,6 +3772,7 @@ FORE,Foresight Acquisition Corp. Class A Common Stock,NASDAQ
 FOREU,Foresight Acquisition Corp. Units,NASDAQ
 FOREW,Foresight Acquisition Corp. Warrant,NASDAQ
 FORFF,Fortis Inc Ist Preferred Shares Series F (Canada),U
+FORH,Formidable ETF,ARCA
 FORM,"FormFactor, Inc. FormFactor, Inc. Common Stock",NASDAQ
 FORR,"Forrester Research, Inc. Common Stock",NASDAQ
 FORTY,Formula Systems (1985) Ltd. American Depositary Shares,NASDAQ
@@ -3947,12 +3951,16 @@ FRTTF,FORTRESS TECHNOLOGIES INC CDA COM (Canada),U
 FRTXF,Fortnox AB Ordinary Shares (Sweden),U
 FRTY,Alger Mid Cap 40 ETF,ARCA
 FRUTF,Frutarom Industries 1995 Ltd Ordinary Shares,U
+FRW,PWP Forward Acquisition Corp. I Class A Common Stock,NASDAQ
 FRWAU,PWP Forward Acquisition Corp. I Units,NASDAQ
+FRWAW,PWP Forward Acquisition Corp. I Warrant,NASDAQ
 FRWDF,Fairwood Holdings Ltd Ordinary Shares (Bermuda),U
 FRX,Forest Road Acquisition Corp.,NYSE
 FRX U,"Forest Road Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-th",NYSE
 FRX WS,"Forest Road Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of C",NYSE
+FRXB,Forest Road Acquisition Corp. II,NYSE
 FRXB U,"Forest Road Acquisition Corp. II Units, each consisting of one share of Class A common stock, and on",NYSE
+FRXB WS,"Forest Road Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one share o",NYSE
 FRXX,Forecross Corporation Common Stock,U
 FRZCF,Frasers Centrepoint Trust UNITS REAL ESTATE INVESTMENT TRUST (Singapore),U
 FRZT,"Freeze Tag, Inc. Common Stock",U
@@ -3996,6 +4004,7 @@ FSNB U,"Fusion Acquisition Corp. II Units, each consisting of one share of Class
 FSNB WS,"Fusion Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one share of Cla",NYSE
 FSNJ,First State Bank (NJ) Common Stock,U
 FSNR,"Freestone Resources, Inc. Common Stock",U
+FSNTF,FASHIONETTE AG Ordinary Shares,U
 FSNUF,FRESENIUS SE & CO KGAA  Ordinary Shares,U
 FSNUY,Fresenius SE & Co KGaA Sponsored American Depository Receipt (Germany),U
 FSNV,FS INVT CORP III COM,U
@@ -4792,7 +4801,7 @@ GLHAU,Glass Houses Acquisition Corp. Unit,NASDAQ
 GLHD,PSH GROUP HLDG INC Common Stock,U
 GLHRF,Golden Harp Res Inc. Ordinary Shares (Canada),U
 GLIF,AGFiQ Global Infrastructure ETF,ARCA
-GLIIF,Glacier Lake Resources Ordinary Shares,U
+GLIID,Glacier Lake Resources Ordinary Shares,U
 GLIN,VanEck Vectors India Growth Leaders ETF,ARCA
 GLIOF,Gold Lion Resources Inc Common Shares (Canada),U
 GLKFF,"Raise Production, Inc Ordinary Shares (Canada)",U
@@ -4852,7 +4861,6 @@ GLU,The Gabelli Utility & Income Trust,AMEX
 GLU PRA,The Gabelli Global Utility & Income Trust Series A,AMEX
 GLU PRB,The Gabelli Global Utility & Income Trust Series B Cumulative Puttable and Callable Preferred Shares,AMEX
 GLUC,"Glucose Health, Inc Common Stock",U
-GLUU,Glu Mobile Inc. Common Stock,NASDAQ
 GLUX,"Great Lakes Aviation, Ltd. Common Stock",U
 GLV,Clough Global Dividend and Income Fund,AMEX
 GLVHF,Glenveagh Properties Plc Common Stock (Germany Federal Republic),U
@@ -5470,8 +5478,3 @@ GVSI,Good Vibrations Shoes Inc. Common Stock,U
 GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
 GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
 GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
-GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
-GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
-GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
-GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U

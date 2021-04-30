@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTFC,Minster Financial Corporation,U
 MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
@@ -135,7 +136,6 @@ MWA,"Mueller Water Products, Inc.",NYSE
 MWCAF,Matachewan Consolidated Mines Ltd Ordinary Shares,U
 MWFO,MWF Global Inc Common Stock,U
 MWIS,"m-Wise, Inc. Common Stock",U
-MWK,"Mohawk Group Holdings, Inc. Common Stock",NASDAQ
 MWSNF,Mawson Gold Ltd Common Shares,U
 MWTCF,Manila Water Company Inc Ordinary Shares (Phillippines),U
 MWTCY,Manila Water Company Inc Unsponsored ADR (Phillippines),U
@@ -466,6 +466,7 @@ NEW,"Puxin Limited American Depositary Shares, each representing two Ordinary Sh
 NEWA,"Newater Technology, Inc. Ordinary Shares",NASDAQ
 NEWEN,New England Power Company 6% Preferred Stock,U
 NEWG,NewGen BioPharma Corp. Common Stock,U
+NEWH,"NewHydrogen, Inc. Common Stock",U
 NEWR,"New Relic, Inc.",NYSE
 NEWRF,Newmac Resources Inc Common Shares (Canada),U
 NEWT,Newtek Business Services Corp. Common Stock (Maryland),NASDAQ
@@ -746,7 +747,7 @@ NMS,Nuveen Minnesota Quality Municipal Income Fund,NYSE
 NMSCA,Nutrition Management Services Company Class A,U
 NMSEF,Namaste Technologies Inc Ordinary Shares (Canada) Warrant 10/23/2023,U
 NMT,Nuveen Massachusetts Quality Municipal Income Fund,NYSE
-NMTCD,NeuroOne Medical Technologies Corporation Common Stock,U
+NMTC,NeuroOne Medical Technologies Corporation Common Stock,U
 NMTLF,New Age Metals Inc. Ordinary Shares,U
 NMTR,"9 Meters Biopharma, Inc. Common Stock",NASDAQ
 NMTT,NIMTECH CORP  Common Stock,U
@@ -951,6 +952,7 @@ NRRMF,NORRA METALS CORP Common Shares,U
 NRRSF,Norsemont Mining Inc Ordinary Shares,U
 NRRWF,Nuran Wireless Inc Ordinary Shares,U
 NRSCF,NOMURA HLDGS INC Ordinary Shares,U
+NRSDY,NORDIC SEMICONDUCTOR ASA  American Depositary Receipts - Unsponsored,U
 NRSTF,NORSTAR HLDGS INC Ordinary Shares,U
 NRT,North European Oil Royalty Trust,NYSE
 NRTHF,Northern Power Systems Corp Ordinary Shares (Canada),U
@@ -1488,8 +1490,6 @@ OEZVY,Verbund AG Sponsored ADR (Austria),U
 OFC,Corporate Office Properties Trust,NYSE
 OFED,Oconee Federal Financial Corp. Common Stock,NASDAQ
 OFG,OFG BANCORP,NYSE
-OFG PRA,OFG BANCORP Ser. A 7.125%,NYSE
-OFG PRB,OFG BANCORP 7.0%  SER B,NYSE
 OFG PRD,"OFG BANCORP 7.125% Non-Cumulative Perpetual Preferred Stock, Series D",NYSE
 OFIX,Orthofix Medical Inc. Common Stock (DE),NASDAQ
 OFLX,"Omega Flex, Inc. Common Stock",NASDAQ
@@ -2386,6 +2386,7 @@ PFRRF,Petrofrontier Corp Ordinary Shares (Canada),U
 PFS,"Provident Financial Services, Inc.",NYSE
 PFSF,"Pacific Software, Inc. Common Stock",U
 PFSI,"PennyMac Financial Services, Inc. Common Stock",NYSE
+PFSMF,PERFECT SHAPE MEDICAL LTD Ordinary Shares,U
 PFSW,"PFSweb, Inc. Common Stock",NASDAQ
 PFTI,Puradyn Filter Technologies Incorporated Common Stock,U
 PFWIQ,"Petrone Worldwide, Inc. Common Stock",U
@@ -3867,7 +3868,7 @@ RC PRC,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred
 RC PRD,Ready Capital Corporation 7.625% Series D Cumulative Redeemable Preferred Stock,NYSE
 RCA,Ready Capital Corporation 7.00% Convertible Senior Notes due 2023,NYSE
 RCAR,"RenovaCare, Inc. Common Stock",U
-RCAT,"Red Cat Holdings, Inc. Common Stock",U
+RCAT,"Red Cat Holdings, Inc. Common Stock",NASDAQ
 RCB,Ready Capital Corporation 6.20% Senior Notes due 2026,NYSE
 RCBC,River City Bank Common Stock,U
 RCC,Ready Capital Corporation 5.75% Senior Notes due 2026,NYSE
@@ -4892,7 +4893,9 @@ SBHGF,SBI Holdings Inc Ordinary Shares,U
 SBHMY,Sino Biopharmaceutical American Depositary Receipts (Unsponsored)(Caymand Islands),U
 SBI,"Western Asset Intermediate Muni Fund, Inc.",NYSE
 SBIGY,SABRE INS GROUP PLC American Depositary Receipts - Unsponsored  United Kingdom(GB ),U
+SBII,Sandbridge X2 Corp.,NYSE
 SBII U,"Sandbridge X2 Corp. Units, each consisting of one share of Class A common stock and one-third of one",NYSE
+SBII WS,"Sandbridge X2 Corp. Redeemable Warrants, each whole Warrant exercisable for one share of Class A Com",NYSE
 SBIMF,INVESCO MKTS PLC NASDAQ BIOTECHNOLOGY UCITS ETF (Ireland),U
 SBIO,ALPS Medical Breakthroughs ETF,ARCA
 SBIZF,"Symbio Pharmaceuticals Limited, Tokyo Ordinary Shares (Japan)",U
@@ -5474,3 +5477,4 @@ SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
+SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U

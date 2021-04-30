@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
 SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
@@ -489,7 +488,6 @@ SMRH,Superior Marktng Research Crp Common Stock,U
 SMRKF,Sparebanken Telemark Ordinary Shares (Norway),U
 SMRL,"Simtrol, Inc. New Common Stock",U
 SMRN,"Smartag International, Inc. Common Stock",U
-SMRTQ,STEIN MART INC Common Stock,U
 SMRVF,Smooth Rock Ventures Corp Common Shares,U
 SMRZF,NZ Mid Cap FD Unit,U
 SMSEY,Samsonite International S.A Unsponsord ADR (Luxembourg),U
@@ -509,7 +507,7 @@ SMTS,Sierra Metals Inc. Common Stock,AMEX
 SMTUF,Sumitomo Rubber Industries Ltd Ordinary Shares,U
 SMTYF,SAMTY RESIDENTIAL INVT CORP SHS (Japan),U
 SMUPF,Sims Metal Management Ltd Ordinary Shares (Australia),U
-SMURF,"Coin Hodl, Inc. Common Shares",U
+SMURF,TOKENS COM CORP Common Shares,U
 SMUUY,Siam Commercial Bank Public Co Ltd Unsponsored ADR (Thailand),U
 SMVE,"Smart Move, Inc. Common Stock",U
 SMVI,Social Media Ventures Inc Common Stock,U
@@ -1015,6 +1013,7 @@ SRE PRB,"Sempra Energy 6.75% Mandatory Convertible Preferred Stock, Series B",NY
 SREA,Sempra Energy 5.750% Junior Subordinated Notes due 2079,NYSE
 SREDF,Storebrand (F) Ordinary Shares,U
 SREDY,Storebrand ASA Unsponsored ADR (Norway),U
+SREMF,Sunrise Energy Metals Ltd Ordinary Shares,U
 SRET,Global X Funds Global X SuperDividend REIT ETF,NASDAQ
 SREV,"ServiceSource International, Inc. Common Stock",NASDAQ
 SRG,"Seritage Growth Properties Class A common shares of beneficial interest, par value $0.01",NYSE
@@ -2013,6 +2012,7 @@ TEUUF,TR European Growth Trust PLC Ordinary Shares (United Kingdom),U
 TEUZF,Teuza Protected Ordinary shares (Israel),U
 TEVA,Teva Pharmaceutical Industries Limited American Depositary Shares,NYSE
 TEVJF,Teva Pharmaceutical Industries Limited Ordinary Shares 1 Unit Rep 1 Sh (Israel),U
+TEVNF,Tevano Systems Holdings Inc ORDS Ordinary Shares,U
 TEX,Terex Corporation,NYSE
 TEXAF,Teixeira Duarte Engenharia E Construcoes SA Ordinary Shares (Portugal),U
 TEXC,Texcom Inc. Common Stock,U
@@ -3621,6 +3621,7 @@ V,VISA Inc.,NYSE
 VABK,Virginia National Bankshares Corporation Common Stock,NASDAQ
 VABS,Virtus Newfleet ABS/MBS ETF,ARCA
 VAC,MARRIOTT VACATIONS WORLDWIDE CORPORATION,NYSE
+VACC,Vaccitech plc American Depositary Shares,NASDAQ
 VACNY,VAT Group AG American Depositary Receipts - Unsponsored (Switzerland),U
 VACQ,Vector Acquisition Corporation Class A Common Stock,NASDAQ
 VACQU,Vector Acquisition Corporation Unit,NASDAQ
@@ -4178,6 +4179,7 @@ VSGX,Vanguard ESG International Stock ETF,BATS
 VSH,"Vishay Intertechnology, Inc.",NYSE
 VSIOF,VISION INC Common Stock,U
 VSL,Volshares Large Cap ETF,ARCA
+VSLU,Applied Finance Valuation Large Cap ETF,ARCA
 VSMD,"Vasamed, Inc. Common Stock",U
 VSMR,Verify Smart Corp. Common Stock,U
 VSMV,Victory Portfolios II VictoryShares US Multi-Factor Minimum Volatility ETF,NASDAQ
@@ -4963,7 +4965,7 @@ XFOR,"X4 Pharmaceuticals, Inc. Common Stock",NASDAQ
 XFORW,X4 Pharmaceuticals Inc Warrants Expiring 04/16/2024,U
 XFOWW,X4 Pharmaceuticals Inc Warrants Class B Expiring 11/29/2024,U
 XFTB,XFIT BRANDS INC Common Stock,U
-XGEN,NexGen Holdings Corp. Common Stock,U
+XGEND,"Cyber Enviro-Tech, Inc. Common Stock",U
 XGN,Exagen Inc. Common Stock,NASDAQ
 XHB,SPDR S&P Homebuilders ETF,ARCA
 XHE,SPDR S&P Health Care Equipment ETF,ARCA
@@ -5155,6 +5157,7 @@ YCS,ProShares UltraShort Yen,ARCA
 YDEC,FT Cboe Vest International Equity Buffer ETF - December,BATS
 YDRMF,YDX Innovation Corp Ordinary Shares,U
 YDUQY,YDUQS PARTICIPACOES S A American Depositary Receipts - Sponsored,U
+YDUTY,YIDU TECH INC. American Depositary Receipts - Unsponsored,U
 YDVL,Yadkin Valley Company New Common Stock,U
 YDWAF,Yodogawa Steel Works Ordinary Shares (Japan),U
 YECO,YULONG ECO-MATLS LTD Ordinary Shares,U

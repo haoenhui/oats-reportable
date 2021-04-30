@@ -628,7 +628,9 @@ AGGI,"Allied Energy, Inc. Common Stock",U
 AGGKY,Aggreko plc American Depositary Receipts - Unsponsored,U
 AGGL,"AgTech Global International, Inc. Common Stock",U
 AGGNY,Aegean Airls SA American Depositary Receipts - Unsponsored (Greece),U
+AGGR,Agile Growth Corp. Class A Ordinary Share,NASDAQ
 AGGRU,Agile Growth Corp. Units,NASDAQ
+AGGRW,Agile Growth Corp. Warrant.,NASDAQ
 AGGX,"AngioGenex, Inc. Common Stock",U
 AGGY,WisdomTree Yield Enhanced U.S. Aggregate Bond Fund,ARCA
 AGGZF,AG Growth International Inc. Common Shares (Canada),U
@@ -1894,6 +1896,7 @@ ATDRY,AUTO TRADER GROUP PLC American Depositary Receipts - Unsponsored (United K
 ATDS,DATA443 RISK MITIGATION INC NEV Common Stock,U
 ATEC,"Alphatec Holdings, Inc. Common Stock",NASDAQ
 ATEN,A10 NETWORKS INC,NYSE
+ATER,"Aterian, Inc. Common Stock",NASDAQ
 ATEX,Anterix Inc. Common Stock,NASDAQ
 ATEYY,Advantest Corporation American Depositary Receipts - Sponsored (Japan),U
 ATFS,"Altrust Financial Services, Inc. Common Stock",U
@@ -2194,7 +2197,6 @@ AWCMF,Alumina Ltd Ordinary Shares (Australia),U
 AWCMY,Alumina Ltd American Depositary Shares,U
 AWEB,"Areti Web Innovations, Inc. Common Stock",U
 AWF,"ALLIANCEBERSTEIN GLOBAL HIGH INCOME FUND, INC.",NYSE
-AWGI,Ambient Water Corporation,U
 AWGL,"AWG, Ltd. New Common Stock",U
 AWH,Aspira Women's Health Inc. Common Stock,NASDAQ
 AWHI,"ANGO World Holdings, Inc. Common Stock",U
@@ -3056,7 +3058,7 @@ BLL,Ball Corporation,NYSE
 BLLB,"Bell Buckle Holdings, Inc. Common Stock",U
 BLLI,"Bell Industries, Inc. (DEL) Common Stock",U
 BLLSF,BioLight Life Sciences Ltd. Ordinary shares (Israel),U
-BLLXF,Sire Bioscience Inc. Ordinary Shares,U
+BLLXF,PLANTFUEL LIFE INC Ordinary Shares,U
 BLLYF,Bluejay Mng PLC Ordinary Shares (United Kingdom),U
 BLMC,Biloxi Marsh Lands Corp Common Stock,U
 BLMIF,Bank Leumi Le Israel Ordinary Shares,U
@@ -3589,7 +3591,6 @@ BSPM,BIOSTAR PHARMACEUTICALS INC Common Stock,U
 BSPOF,Bespoke Cap Acquisition Corp Warrant Exp 08/16/2027 (Canada),U
 BSPR,Bigsupersearch.com Inc Common Stock,U
 BSQR,BSQUARE Corporation Common Stock,NASDAQ
-BSRC,"BioSolar, Inc. Common Stock",U
 BSRR,Sierra Bancorp Common Stock,NASDAQ
 BSRSF,"BE Res., Inc. Ordinary Shares",U
 BSRTF,Bsr Real Estate Invt Tr Unit (Canada),U
@@ -4870,7 +4871,9 @@ CKX,"CKX Lands, Inc.",AMEX
 CKYS,"CyberKey Solutions, Inc. Common Stock",U
 CKZAF,Chuokeizai-Sha Inc Tokyo Ordinary Shares (Japan),U
 CL,Colgate-Palmolive Company,NYSE
+CLAA,Colonnade Acquisition Corp. II,NYSE
 CLAA U,"Colonnade Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of",NYSE
+CLAA WS,"Colonnade Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary sha",NYSE
 CLABF,Core One Labs Inc Common Shares,U
 CLAD,"China Liaoning Dingxu Ecological Agriculture Development, Inc. Common Stock",U
 CLALF,Clal Insurance CO Ltd. Ordinary Shares (Israel),U
@@ -5072,7 +5075,6 @@ CMG,"Chipotle Mexican Grill, Inc.",NYSE
 CMGGF,Commercial International Bank Ltd Sponsored Reg S GDR (Egypt),U
 CMGHF,Chaoda Modern Agriculture Holdings Inc Ordinary Shares,U
 CMGHY,Chaoda Modern Agriculture Holdings Inc Unsponsored ADR (Cayman Islands),U
-CMGLF,"Changan Minsheng Apll Logistics Co., Ltd. Ordinary Shares (China)",U
 CMGMF,Chemring Group plc Ordinary Shares (United Kingdom),U
 CMGMY,Chemring Group plc Unsponsored American Depository Receipt (United Kingdom),U
 CMGO,"CMG Holdings Group, Inc. Common Stock",U
@@ -5330,7 +5332,7 @@ CNXT,VanEck Vectors ChinaAMC SME-ChiNext ETF,ARCA
 CNYA,iShares MSCI China A ETF,BATS
 CNYCF,Searchlight Res Inc Common Stock,U
 CO,Global Cord Blood Corporation,NYSE
-COBAF,International Cobalt Corp. Ordinary Shares,U
+COBAD,International Cobalt Corp. Ordinary Shares,U
 COBCF,Cobalt Blockchain Inc. Common Shares,U
 COBJF,Comba Telecom Systems Holdings Limited Ordinary Shares (Cayman Islands),U
 COCBF,"Coastal Caribbean Oils & Minerals, Ltd. Ordinary Shares (Bermuda)",U
@@ -5475,3 +5477,4 @@ CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAI,Champion Pain Care Corporation Common Stock,U
+CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
