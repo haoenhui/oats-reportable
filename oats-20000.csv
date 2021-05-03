@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
+SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
 SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
@@ -408,6 +410,7 @@ SMCDF,Strategic Minerals Plc Ordinary Shares (United Kingdom),U
 SMCE,SMC Entertainment Inc. Common Stock,U
 SMCI,"Super Micro Computer, Inc. Common Stock",NASDAQ
 SMCP,ETF Series Solutions Trust AlphaMark Actively Managed Small Cap ETF,NASDAQ
+SMCYY,SIMCORP A/S American Depositary Receipts - Unsponsored,U
 SMDCF,Shl Telemedicine Ltd Ordinary Shares (Israel),U
 SMDD,ProShares UltraPro Short MidCap400,ARCA
 SMDM,"Singing Machine Company, Inc. (The) Common Stock",U
@@ -474,7 +477,7 @@ SMOFF,SONORO GOLD CORP Ordinary Shares,U
 SMOG,VanEck Vectors Low Carbon Energy ETF,ARCA
 SMORF,Smoore International Holdings Ltd. Ordinary Shares,U
 SMP,Standard Motor Products,NYSE
-SMPBF,Blocplay Entertainment Inc  Ordinary Shares,U
+SMPBF,Playground Ventures Inc.  Ordinary Shares,U
 SMPEF,SOUTHERN EMPIRE RES CORP Ordinary Shares,U
 SMPFF,San Miguel Food & Beverage Inc Ordinary Shares,U
 SMPL,The Simply Good Foods Company Common Stock,NASDAQ
@@ -583,7 +586,6 @@ SNLRF,Sentinel Resources Corporation Common Shares (Canada),U
 SNLS,San Luis Trust Bank FSB (CA) Common Stock,U
 SNMBQ,Sona Mobile Holdings Corp. Common Stock,U
 SNMCY,Suncorp Group Ltd American Depositary Receipts - Sponsored,U
-SNMMF,SUNRISE COMMUNICATIONS GROUP LTD Ordinary Shares (Switzerland),U
 SNMN,SNM Global Holdings Common Stock,U
 SNMP,Evolve Transition Infrastructure LP,AMEX
 SNMRF,Snam SPA Ordinary Shares (Italy),U
@@ -835,7 +837,9 @@ SPIDY,Septeni Holdings Co Ltd Tokyo Unsponsored ADR (Japan),U
 SPIN,"Spine Injury Solutions, Inc. Common Stock",U
 SPIP,SPDR Portfolio TIPS ETF,ARCA
 SPIZF,Sparebanken Vest AS Primary Cap Cert (Norway),U
+SPKB,Silver Spike Acquisition Corp II Class A Ordinary Shares,NASDAQ
 SPKBU,Silver Spike Acquisition Corp II Units,NASDAQ
+SPKBW,Silver Spike Acquisition Corp II Warrant,NASDAQ
 SPKE,"Spark Energy, Inc. Class A Common Stock",NASDAQ
 SPKEP,"Spark Energy, Inc. 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 SPKKY,Spark New Zealand Limited ADS,U
@@ -3627,6 +3631,8 @@ VACQ,Vector Acquisition Corporation Class A Common Stock,NASDAQ
 VACQU,Vector Acquisition Corporation Unit,NASDAQ
 VACQW,Vector Acquisition Corporation Warrant,NASDAQ
 VAIAF,Vaisala Oy Ordinary Shares -A- (Finland),U
+VAL,Valaris Limited,NYSE
+VAL WS,Valaris Limited Warrants to purchase Common Shares,NYSE
 VALE,VALE S.A.,NYSE
 VALQ,American Century STOXX U.S. Quality Value ETF,ARCA
 VALT,ETFMG Sit Ultra Short ETF,ARCA
@@ -4421,7 +4427,6 @@ WDKA,Panache Beverage Inc. (DE) Common Stock,U
 WDLF,"Social Life Network, Inc. Common Stock",U
 WDOFF,Wesdome Gold Mines Ltd Ordinary Shares (Canada),U
 WDPSF,WAREHOUSES DE PAUW NV Ordinary Shares,U
-WDR,"Waddell & Reed Financial, Inc.",NYSE
 WDRP,Wanderport Corporation Common Stock,U
 WDSL,Wireless Data Solutions Inc Common Stock (NV),U
 WDSSF,Wisdomtree Issuer PLC US Quality Divid Grow Ucits Usd Acc Exchange Traded Fund (Ireland),U
@@ -5403,7 +5408,6 @@ ZNH,China Southern Airlines Company Limited,NYSE
 ZNKKY,Zenkoku Hosho Co Ltd American Depositary Receipts - Unsponsored (Japan),U
 ZNNC,Zann Corp. Common Stock,U
 ZNNGY,Zhongyuan Bk Co Ltd American Depositary Receipts - Unsponsored,U
-ZNNMF,FUELPOSITIVE CORP Common Shares,U
 ZNOG,ZION OIL & GAS INC Common Stock,U
 ZNOGF,ZOONO GROUP LTD Ordinary Shares Fully Paid ( Australia),U
 ZNOGW,ZION OIL & GAS INC Warrant Exp 01/21/2023,U

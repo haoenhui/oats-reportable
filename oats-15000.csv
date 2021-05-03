@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
 MTG,MGIC Investment Corp.,NYSE
@@ -59,7 +61,6 @@ MTSL,MER Telemanagement Solutions Ltd. Common Shares,NASDAQ
 MTST,"MetaStat, Inc. Common Stock",U
 MTSUY,Mitsubishi Corp American Depositary Receipts - Unsponsored (Japan),U
 MTSYF,Matsuda Sangyo Co Ltd Ordinary Shares,U
-MTT,Western Asset Municipal Defined Opportunity Trust Inc.,NYSE
 MTTCF,MEAT TECH 3D LTD Common Shares,U
 MTTGF,New Energy Minerals Ltd Ordinary Shares,U
 MTTRY,Ceconomy AG American Depositary Receipts - Unsponsored,U
@@ -306,7 +307,6 @@ NBNKF,Nordea Bank ABP Ordinary Shares (Finland),U
 NBO,Neuberger Berman New York Municipal Fund Inc.,AMEX
 NBPVF,NB Private Equity Partners Limited Class A Shares (Guernsey),U
 NBR,Nabors Industries Ltd.,NYSE
-NBR PRA,"Nabors Industries Ltd. 6.00% Mandatory Convertible Preferred Shares, Series A",NYSE
 NBRFF,Nubian Resources Ltd Class A Ordinary Shares (Canada),U
 NBRI,North Bay Resources Inc. Common Stock,U
 NBRNF,NBrown Group Plc Ordinary Shares (United Kingdom),U
@@ -568,6 +568,7 @@ NHF,NexPoint Strategic Opportunities Fund,NYSE
 NHF PRA,NexPoint Strategic Opportunities Fund 5.50% Series A Cumulative Preferred Shares,NYSE
 NHGP,"New Horizon Group, Inc. Common Stock (Wyoming",U
 NHHEF,NH Hotel Group SA Ordinary Shares,U
+NHHHF,FUELPOSITIVE CORP Common Shares,U
 NHHS,NORTHSTAR HEALTHCARE INCOME INC Common Stock,U
 NHI,National Health Investors,NYSE
 NHIC,NewHold Investment Corp. Class A Common Stock,NASDAQ
@@ -2586,7 +2587,7 @@ PJUL,Innovator S&P 500 Power Buffer ETF - July,BATS
 PJUN,Innovator S&P 500 Power Buffer ETF - June,BATS
 PJXRF,PJX Res Inc Common Shares (Canada),U
 PK,Park Hotels & Resorts Inc. Common Stock,NYSE
-PKANF,PUREK HLDGS CORP COM (Canada),U
+PKANF,SIMPLY BETTER BRANDS CORP Common Shares,U
 PKB,Invesco Dynamic Building & Construction ETF,ARCA
 PKBAF,Pt Bakrie & Brothers Tbk Shares Series A (Indonesia),U
 PKBK,"Parke Bancorp, Inc. Common Stock",NASDAQ
@@ -2749,7 +2750,6 @@ PMMBF,Pembina Pipeline Corp Cum Redeemable Minimum Rate Reset Cl A Pfd Shs Ser 2
 PMMCF,PAMPA METALS CORP Common Shares,U
 PMMDF,PIMCO ETFS PLC Exchange Traded Fund,U
 PMMEF,Premium Expl Inc Common Shares (Canada),U
-PMMLY,Premium Leisure Corp Unsponsored ADR (Philippines),U
 PMMTF,Precious Metals & Mng TR TR Unit (Canada),U
 PMNXF,Perseus Mining Ltd Ordinary Shares (Austrailia),U
 PMO,Putnam Municipal Opportunities Trust,NYSE
@@ -2959,6 +2959,7 @@ PRA,ProAssurance Corporation,NYSE
 PRAA,"PRA Group, Inc. Common Stock",NASDAQ
 PRAC,Productivity Technologies Corp. Common Stock,U
 PRAH,"PRA Health Sciences, Inc. Common Stock",NASDAQ
+PRAKF,Perak Corp Bhd Ordinary Shares Malaysia(MY ),U
 PRAX,"Praxis Precision Medicines, Inc. Common Stock",NASDAQ
 PRBCF,Precise Biometrics AB Ordinary Shares,U
 PRBDF,Personal Group Holdings Ordinary Shares (United Kingdom),U
@@ -2975,9 +2976,6 @@ PRDL,"Profitable Developments, Inc. Common Stock",U
 PRDO,Perdoceo Education Corporation Common Stock,NASDAQ
 PRDSF,Prada Spa Ordinary Shares (Italy),U
 PRDSY,Prada Spa Unsponsored ADR (Italy),U
-PRE PRG,"PartnerRe Ltd.  6.50% Series G Cumulative Redeemable Preferred Shares, $1.00 par value",NYSE
-PRE PRH,"PartnerRe Ltd. 7.25% Series H Cumulative Redeemable Preferred Shares, $1.00 par value",NYSE
-PRE PRI,"PartnerRe Ltd.  5.875% Series I Non-Cumulative Redeemable Preferred Shares, $1.00 par value",NYSE
 PRE PRJ,"PartnerRe Ltd. 4.875% Fixed Rate Non-Cumulative Redeemable Preferred Shares, Series J",NYSE
 PREC,Prestige Cars International Common Stock,U
 PRED,"Predictive Technology Group, Inc. Common Stock",U
@@ -3343,7 +3341,9 @@ PTNR,Partner Communications Company Ltd. American Depositary Shares,NASDAQ
 PTNUF,"Platina Resources Ltd, Perth Wa Ordinary Shares (Australia)",U
 PTNYF,Parcelpal Technology Inc Ordinary Shares (Canada),U
 PTOAF,Pieridae Energy Limited Common Shares,U
+PTOC,Pine Technology Acquisition Corp. Class A Common Stock,NASDAQ
 PTOCU,Pine Technology Acquisition Corp. Unit,NASDAQ
+PTOCW,Pine Technology Acquisition Corp. Warrant,NASDAQ
 PTOG,"Petrotech Oil & Gas, Inc. Common Stock",U
 PTOI,"Plastic2Oil, Inc.  Common Stock",U
 PTON,"Peloton Interactive, Inc. Class A Common Stock",NASDAQ
@@ -3501,6 +3501,7 @@ PXLIF,PANAXIA LABS ISREAL LTD SHARE (Israel),U
 PXLW,"Pixelworks, Inc.  Common Stock",NASDAQ
 PXMBF,PAXMAN AB  Share AK (Sweden),U
 PXMFF,Philex Mining Corp Ordinary Shares (Phillippines),U
+PXMVF,PIXIUM VISION Ordinary Shares,U
 PXPEF,PXP Energy Corp Ordinary Shares (Philippines),U
 PXPHF,Pexip Hldg ASA (Norway),U
 PXPP,"Phoenix Apps, Inc. Common Stock",U
@@ -4357,7 +4358,6 @@ RNDXF,"Randgold & Exploration Company, Limited Shs (South Africa)",U
 RNECF,Renesas Electronics Corp (Japan),U
 RNECY,Renesas Electronics Corp Unsponsored ADR (Japan),U
 RNEM,First Trust Exchange-Traded Fund VI Emerging Markets Equity Select ETF,NASDAQ
-RNET,"RigNet, Inc. Common Stock",NASDAQ
 RNFTF,"Rosneft Oil Company OJSC, Moscow Ordinary shares (Russia)",U
 RNG,"RINGCENTRAL, INC.",NYSE
 RNGG,Reno Gold Corp. NewCommon Stock,U
@@ -4446,7 +4446,9 @@ ROSC,Hartford Multifactor Small Cap ETF,ARCA
 ROSGQ,Rosetta Genomics Ltd. Ordinary Shares,U
 ROSMF,PJSC LONG DISTANCE & INTL TELECOMMUNICATIONS ROSTELECOM Ordinary Shares (Russia),U
 ROSN,Rosinbomb Common Stock,U
+ROSS,Ross Acquisition Corp II,NYSE
 ROSS U,"Ross Acquisition Corp II Units, each consisting of one Class A ordinary share and one-third of one r",NYSE
+ROSS WS,"Ross Acquisition Corp II Warrants, each whole warrant exercisable for one Class A ordinary share at",NYSE
 ROSSF,Ross Group PLC Ordinary Shares (United Kingdom),U
 ROST,"Ross Stores, Inc. Common Stock",NASDAQ
 ROSYY,PJSC Rostelecom American Depositary Receipts - Sponsored,U
@@ -4744,6 +4746,7 @@ RZG,Invesco S&P SmallCap 600 Pure Growth ETF,ARCA
 RZLLY,Rizal Coml Bkg Corp American Depositary Receipts - Unsponsored (Phillippines),U
 RZLT,"Rezolute, Inc. Common Stock",NASDAQ
 RZREF,Razer Energy Corp. Ordinary Shares (Canada),U
+RZRLF,RAZOR LABS LTD Ordinary Shares,U
 RZSMF,Rizzoli Corriere della Sera Mediagroup Spa Ordinary Shares (Italy),U
 RZV,Invesco S&P SmallCap 600 Pure Value ETF,ARCA
 RZZN,"JiaLiJia Group Corporation, Ltd. Common Stock",U
@@ -4947,7 +4950,9 @@ SC,SANTANDER CONSUMER USA HOLDINGS INC,NYSE
 SCABY,Svenska Cellulosa Aktiebolaget SCA American Depositary Receipts - Unsponsored,U
 SCAL,Stem Cell Authority Ltd. Common Stock,U
 SCANF,Scandi STD AB Ordinary Shares (Sweden),U
+SCAQ,Stratim Cloud Acquisition Corp. Class A Common Stock,NASDAQ
 SCAQU,Stratim Cloud Acquisition Corp. Unit,NASDAQ
+SCAQW,Stratim Cloud Acquisition Corp. Warrant,NASDAQ
 SCBFF,Standard Chartered Plc Ordinary Shares,U
 SCBFY,Standard Chartered PLC Unsponsored ADR (United Kingdom),U
 SCBGF,SIG COMBIBLOC GROUP AG NAMEN AKT (Switzerland),U
@@ -5476,5 +5481,3 @@ SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
-SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
-SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U

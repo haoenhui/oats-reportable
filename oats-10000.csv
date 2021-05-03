@@ -1475,6 +1475,7 @@ IHLDY,Imperial Logistics Limited American Depositary Receipts - Sponsored,U
 IHLHF,International Bethlehem Mining Corp Common Shares,U
 IHOLF,Imperial Logistics Ltd. Ordinary Shares (South Africa),U
 IHPCF,Ishares Plc Ordinary shares (Ireland),U
+IHPSF,ISHARES PLC Exchange Traded Fund,U
 IHPXF,IShares Plc - Ishares MSCI Europe Ex-UK Fund Ordinary shares (Ireland),U
 IHREF,iShares III plc Accum Shares,U
 IHRMF,IShares MSCI Japan Ordinary shares (Ireland),U
@@ -1652,7 +1653,6 @@ IMSBF,IShares V PLC MSCI World Consumer Staples ETF (Ireland),U
 IMSCF,IShares VII Plc Msci Japan Ucits Etf Accum Ptg Shs Exchange Traded Fund (Ireland),U
 IMSEF,iShares II plc MSCI Europe EUR UCITS ETF Inc. (Ireland),U
 IMSIF,iShares II Public Limited Company - iShares MSCI Europe SRI UCITS ETF ISHS II/SHS CL-DIS USD Exchange Traded Fund,U
-IMSJF,ISHARES V PLC MSCI JAPAN GBP HDG UCITS ETF ACCUM (Ireland),U
 IMSNF,Imasen Electric Ind Co Ltd Ordinary Shares (Japan),U
 IMSXF,iShares V PLC MSCI World Industrials USD ETF (Ireland),U
 IMTB,iShares Core 5-10 Year USD Bond ETF,ARCA
@@ -2112,6 +2112,7 @@ ISRWF,iShares II plc Ordinary Shares (Ireland),U
 ISRZF,iShares II plc Shs Exchange Traded Fund USD (Ireland),U
 ISSC,"Innovative Solutions and Support, Inc. Common Stock",NASDAQ
 ISSDY,Iss A/S American Depositary Receipts - Sponsored (Denmark),U
+ISSEF,iShares II PLC GBP Ordinary Shares (Ireland),U
 ISSFF,CopAur Minerals Inc. Ordinary Shares,U
 ISSGF,iShares 1-10 Yr Laddered Govt Bd Index ETF (Canada),U
 ISSHF,iShares II plc USD Treasury Bond 7-10Yr UCITS ETF (Ireland),U
@@ -2407,7 +2408,6 @@ JACK,Jack In The Box Inc. Common Stock,NASDAQ
 JACO,"Jaco Electronics, Inc. Common Stock",U
 JADA,Jade Art Group Inc. Common Stock,U
 JADG,"Jade Global Holdings, Inc. Common Stock",U
-JADSF,Jadestone Energy Inc. Common Stock (Canada),U
 JAGG,JPMorgan U.S. Aggregate Bond ETF,ARCA
 JAGGF,JAGUAR MNG INC Ordinary Shares,U
 JAGR,Green Street Capital Corporation. Common Stock,U
@@ -3539,7 +3539,9 @@ LBUY,"Leafbuyer Technologies, Inc. Common Shares",U
 LBWR,Labwire Inc. Common Stock,U
 LBYE,Liberty Energy Corp. Common Stock,U
 LC,LendingClub Corporation,NYSE
+LCAA,L Catterton Asia Acquisition Corp Class A Ordinary Shares,NASDAQ
 LCAAU,L Catterton Asia Acquisition Corp Units,NASDAQ
+LCAAW,L Catterton Asia Acquisition Corp Warrant,NASDAQ
 LCAHU,"Landcadia Holdings IV, Inc. Units",NASDAQ
 LCAP,Lionheart Acquisition Corp. II Class A Common Stock,NASDAQ
 LCAPU,Lionheart Acquisition Corp. II Unit,NASDAQ
@@ -4359,6 +4361,7 @@ MAXSF,Maxis BHD Ordinary Shares (Malaysia),U
 MAYNF,Mayne Pharma Group Ltd Ordinary Shares (Austrailia),U
 MAYS,"J. W. Mays, Inc. Common Stock",NASDAQ
 MAYX,Mayex Usa Inc Common Stock,U
+MAYZ,TrueShares Structured Outcome (May) ETF,BATS
 MBAC,M3-Brigade Acquisition II Corp.,NYSE
 MBAC U,"M3-Brigade Acquisition II Corp. Units, each consisting of one share of Class A common stock, and one",NYSE
 MBAC WS,"M3-Brigade Acquisition II Corp. Redeemable Warrants, each whole warrant exercisable for one share of",NYSE
@@ -4405,6 +4408,8 @@ MBSD,FlexShares Disciplined Duration MBS Index Fund,ARCA
 MBSRY,Orange Belgium American Depositary Receipts - Unsponsored,U
 MBST,Mobile Star Corp. Common Stock,U
 MBT,Mobile Telesystems PJSC,NYSE
+MBTC,Nocturne Acquisition Corporation Ordinary Shares,NASDAQ
+MBTCR,Nocturne Acquisition Corporation Right,NASDAQ
 MBTCU,Nocturne Acquisition Corporation Unit,NASDAQ
 MBUMF,Mabuchi Motor Co Ltd Ordinary Shares (Japan),U
 MBUMY,Mabuchi Motor Co Ltd Unsponsored American Depository Receipt (Japan),U
@@ -4564,6 +4569,7 @@ MDNA,Medicenna Therapeutics Corp. Common Shares,NASDAQ
 MDNDF,McDonalds Hldgs Co Japan Ltd Ordinary Shares,U
 MDNGF,Midnight Sun Mining Corp COM (Canada),U
 MDNL,"Maiden Lane Jewelry, Ltd. Common Stock",U
+MDNWF,Mednow Inc. Common Shares Cl A (Canada),U
 MDOMF,Mandom Corp Ordinary Shares (Japan),U
 MDOUF,Maisons Du Monde SA Common Stock (France),U
 MDP,Meredith Corporation,NYSE
@@ -5476,5 +5482,3 @@ MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U

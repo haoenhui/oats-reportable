@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPB,Campbell Soup Company,NYSE
-CPBLF,ALS Ltd. Ordinary Shares (Australia),U
-CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
@@ -1842,7 +1839,6 @@ ECOM,CHANNELADVISOR CORPORATION,NYSE
 ECON,Columbia Emerging Markets Consumer ETF,ARCA
 ECOR,"electroCore, Inc. Common Stock",NASDAQ
 ECORF,Elcora Advanced Materials Corp. Ordinary Shares,U
-ECOS,ECOLOCAP SOLUTIONS INC Common Stock,U
 ECOW,Pacer Funds Pacer Emerging Markets Cash Cows 100 ETF,NASDAQ
 ECOX,"Eco Innovation Group, Inc. Common Stock",U
 ECOZ,TrueShares ESG Active Opportunities ETF,ARCA
@@ -2101,7 +2097,6 @@ EKTAF,Elekta B Shs Ordinary Shares,U
 EKTAY,Elekta B Shs Unsponsored ADR representing B Shares (Sweden),U
 EKTPF,ECKOH PLC Ordinary Shares,U
 EKWX,"Ekwan-X, Inc. Common Stock",U
-EKZRF,Eckert & Ziegler Strahlen Und Medizintechnik Ag Berlin Ordinary Shares (Germany Federal Republic),U
 EL,The Estee Lauder Companies Inc. Class A,NYSE
 ELA,Envela Corporation,AMEX
 ELALF,El Al Ltd Ordinary Shares (Israel),U
@@ -2403,7 +2398,7 @@ EOSE,"Eos Energy Enterprises, Inc. Class A Common Stock",NASDAQ
 EOSEW,"Eos Energy Enterprises, Inc. Warrant",NASDAQ
 EOSGF,EOS Imaging Ordinary Share EUR 0-01,U
 EOSI,"Eos International, Inc. Common Stock",U
-EOSS,EOS Inc Common Stock,U
+EOSSD,EOS Inc Common Stock,U
 EOT,EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST,NYSE
 EOVBF,Airtrip Corp Common Stock,U
 EOXFF,Euromax Resources Ltd Ordinary Shares (Canada),U
@@ -3300,7 +3295,7 @@ FFZY,Fansfrenzy Corporation Common Stock,U
 FGB,First Trust Specialty Finance and Financial Opportunities Fund,NYSE
 FGBDF,First Global Data Ltd. Common Stock (Canada),U
 FGBI,"First Guaranty Bancshares, Inc. Common Stock",NASDAQ
-FGBIL,FIRST GTY BANCSHARES INC DEPOSITARY SHS EACH REPSTG 1/40TH SH OF SER A FXD RATE (NON-CUMULATIVE PERPETUAL PFD STK) Depositary Shares,U
+FGBIP,"First Guaranty Bancshares, Inc. 6.75% Series A Fixed-Rate Non-Cumulative Perpetual Preferred Stock",NASDAQ
 FGCN,Flagship Global Corporation Common Stock,U
 FGCO,"Financial Gravity Companies, Inc. Common Stock",U
 FGD,First Trust Dow Jones Global Select Dividend Index Fund,ARCA
@@ -3740,7 +3735,6 @@ FNQQF,Fineqia Intl Inc Common Shares,U
 FNRC,1st NRG Corp. Common Stock,U
 FNRG,ForceField Energy Inc.,U
 FNRN,First Northern Community Bancorp Common Stock,U
-FNSB,FNS Bancshares Inc Common Stock,U
 FNTOF,FRONTEO INC SHS (Japan),U
 FNV,Franco-Nevada Corporation,NYSE
 FNVAF,Farnova Group Holdings Ltd. Ordinary Shares (Bermuda),U
@@ -3914,7 +3908,9 @@ FRNV,"Frontera Investment, Inc. Common Stock",U
 FRNWF,Future Plc ORD GBP0.15  (United Kingdom),U
 FRO,Frontline Ltd.,NYSE
 FROG,JFrog Ltd. Ordinary Shares,NASDAQ
+FRON,Frontier Acquisition Corp. Class A Ordinary Shares,NASDAQ
 FRONU,Frontier Acquisition Corp. Units,NASDAQ
+FRONW,Frontier Acquisition Corp. Warrant,NASDAQ
 FRPC,First Republic Corporation of America (The) Common Stock,U
 FRPH,"FRP Holdings, Inc. Common Stock",NASDAQ
 FRPRF,4D Pharma PLC Ordinary Shares (United Kingdom),U
@@ -4102,9 +4098,10 @@ FTNT,"Fortinet, Inc. Common Stock",NASDAQ
 FTOC,FTAC Olympus Acquisition Corp. Class A Ordinary Shares,NASDAQ
 FTOCU,FTAC Olympus Acquisition Corp. Unit,NASDAQ
 FTOCW,FTAC Olympus Acquisition Corp. Warrant,NASDAQ
+FTPA,FTAC Parnassus Acquisition Corp. Class A Common Stock,NASDAQ
 FTPAU,FTAC Parnassus Acquisition Corp. Unit,NASDAQ
+FTPAW,FTAC Parnassus Acquisition Corp. Warrant,NASDAQ
 FTPM,"420 Property Management, Inc. Common Stock",U
-FTRCQ,FRONTIER COMMUNICATIONS CORP Common Stock,U
 FTRHF,Future Bright Holdings Ltd. Ordinary Shares (Bermuda),U
 FTRI,First Trust Exchange-Traded Fund II First Trust Indxx Global Natural Resources Income ETF,NASDAQ
 FTROF,First Resources Ltd Ordinary shares (Singapore),U
@@ -4299,7 +4296,9 @@ GAMN,"Great American Food Chain, Inc. (The) Common Stock",U
 GAMR,Wedbush ETFMG Video Game Tech ETF,ARCA
 GAN,GAN Limited Ordinary Shares,NASDAQ
 GANX,"Gain Therapeutics, Inc. Common Stock",NASDAQ
+GAPA,G&P Acquisition Corp.,NYSE
 GAPA U,"G&P Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of on",NYSE
+GAPA WS,"G&P Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A common stock",NYSE
 GAPJ,"Golden Apple Oil & Gas, Inc. Common Stock",U
 GARB,Garb Oil & Power Corporation Common Stock,U
 GARLF,Netcoins Hldgs Inc Ordinary Shares,U
@@ -4384,6 +4383,7 @@ GBOX,Greenbox POS Common Stock,NASDAQ
 GBPT,"Globe Photos, Inc.   Common Stock",U
 GBR,New Concept Energy Inc,AMEX
 GBRBF,GREAT BEAR ROYALTIES CORP CL A (Canada),U
+GBRCF,Gold Bull Resources Corp Common Shares,U
 GBRG,Goldenbridge Acquisition Limited Ordinary Shares,NASDAQ
 GBRGR,Goldenbridge Acquisition Limited Right,NASDAQ
 GBRGU,Goldenbridge Acquisition Limited Unit,NASDAQ
@@ -5406,8 +5406,12 @@ GTN A,"Gray Television, Inc. Class A",NYSE
 GTNLF,"GTN LTD, ORDINARY FULLY PAID (Australia)",U
 GTNM,Golden Time Network Marketing Limited Common Stock,U
 GTO,Invesco Total Return Bond ETF,ARCA
+GTPA,"Gores Technology Partners, Inc. Class A Common Stock",NASDAQ
 GTPAU,"Gores Technology Partners, Inc. Units",NASDAQ
+GTPAW,"Gores Technology Partners, Inc. Warrant",NASDAQ
+GTPB,"Gores Technology Partners II, Inc. Class A Common Stock",NASDAQ
 GTPBU,"Gores Technology Partners II, Inc. Units",NASDAQ
+GTPBW,"Gores Technology Partners II, Inc. Warrant",NASDAQ
 GTPS,"Great American Bancorp, Inc. (DE) Common Stock",U
 GTRL,"Get Real USA, Inc Common Stock",U
 GTRR,GLOBAL TIRE RECYCLING SUMTER CNTY INC Common Stock,U
@@ -5421,7 +5425,7 @@ GTTL,Getelman Corp Common Stock,U
 GTVH,GOLDEN TRIANGLE VENTURES INC Common Stock,U
 GTVI,Joway Health Industries Group Inc. Common Stock,U
 GTWCF,Greentown China Holdings Limited Ordinary Shares (Cayman Islands),U
-GTXMQ,GARRETT MOTION INC Common Stock,U
+GTX,Garrett Motion Inc. Common Stock,NASDAQ
 GTXO,GTX Corp. Common Stock,U
 GTY,Getty Realty Corp.,NYSE
 GTYH,"GTY Technology Holdings, Inc. Common Stock",NASDAQ

@@ -149,7 +149,7 @@ ABTO,AB&T Financial Corporation (NC) Common Stock,U
 ABTX,"Allegiance Bancshares, Inc. Common Stock",NASDAQ
 ABTZY,Aboitiz Equity Ventures Inc. Unsponsored ADR (Phillipines),U
 ABUS,Arbutus Biopharma Corporation Common Stock,NASDAQ
-ABVC,American BriVision (Holding) Corporation Common Stock,U
+ABVC,"ABVC BioPharma, Inc. Common Stock",U
 ABVG,"Affinity Beverage Group, Inc. Common Stock",U
 ABVN,ABV CONSULTING INC Common Stock,U
 ABWN,Airborne Wireless Network Common Stock,U
@@ -959,6 +959,7 @@ ALGS,"Aligos Therapeutics, Inc. Common Stock",NASDAQ
 ALGT,Allegiant Travel Company Common Stock,NASDAQ
 ALGWF,Alliance Growers Corp Ordinary Shares (Canada),U
 ALHC,"Alignment Healthcare, Inc. Common Stock",NASDAQ
+ALHHF,Alco Holdings Ltd Ordinary Shares (Bermuda),U
 ALHLF,ALARIS HLDGS LTD Ordinary Shares,U
 ALHPF,ALPHA HPA LTD Ordinary Fully Paid (Australia),U
 ALID,Allied Corp. Common Stock,U
@@ -1417,7 +1418,6 @@ APGI,American Power Group Corp. Common Stock,U
 APGMF,Applied Graphene Matls PLC Ordinary Shares (United Kingdom),U
 APGOF,Apollo Gold & Silver Corp Common Shares,U
 APH,Amphenol Corporation,NYSE
-APHA,Aphria Inc. Common Shares,NASDAQ
 APHE,Alpha Energy Inc  Common Stock,U
 APHTF,Alphinat Inc Ordinary Shares (Canada),U
 APHWF,APOLLO HEALTHCARE CORP WT EXP 01/03/2022 (Canada),U
@@ -3086,7 +3086,6 @@ BLSA,BCLS Acquisition Corp. Class A Ordinary Shares,NASDAQ
 BLSFF,Bluescope Steel Ltd Ordinary Shares (Australia),U
 BLSFY,Bluescope Steel Ltd Unsponsored ADR (Australia),U
 BLSP,Blue Sphere Corp. Common Stock,U
-BLSSF,Gold Bull Resources Corp Common Shares,U
 BLSTF,Blackstone Minerals Ltd Common Stock (Australia),U
 BLSYF,BELLSYSTEM24 HLDGS INC Ordinary Shares,U
 BLTHF,Blis Technologies Ltd Ordinary Shares (New Zealand),U
@@ -4438,7 +4437,9 @@ CFCV,ClearBridge Focus Value ETF,BATS
 CFCX,Centric Financial Corporation Common Stock,U
 CFEGF,China Nonferrous Gold Ltd Ordinary Shares (Cayman Islands),U
 CFEIY,China Feihe Limited Unsponsored ADR (Cayman Islands),U
+CFFE,CF Acquisition Corp. VIII Class A Common Stock,NASDAQ
 CFFEU,CF Acquisition Corp. VIII Unit,NASDAQ
+CFFEW,CF Acquisition Corp. VIII Warrant,NASDAQ
 CFFHF,Cifi Hldgs Group Co Ltd Ordinary Shares (Cayman Islands),U
 CFFI,C&F Financial Corporation Common Stock,NASDAQ
 CFFMF,Cfoam Ltd Ordinary Shares (Australia),U
@@ -5478,3 +5479,6 @@ CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
+CPB,Campbell Soup Company,NYSE
+CPBLF,ALS Ltd. Ordinary Shares (Australia),U
+CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
