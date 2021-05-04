@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
@@ -1918,7 +1919,6 @@ EEA,"The European Equity Fund, Inc.",NYSE
 EEENF,88 Energy Ltd Ordinary Shares (Australia),U
 EEFT,"Euronet Worldwide, Inc. Common Stock",NASDAQ
 EEGI,"Eline Entertainment Group, Inc. Common Stock",U
-EEGUF,Empire Energy Group Ltd Ordinary Shares (Australia),U
 EEH,ELEMENTS Linked to the SPECTRUM Large Cap U.S.Sector Momentum Index,ARCA
 EEHLF,Emperor Entertainment Hotel Limited Ordinary Shares,U
 EEIQ,Elite Education Group International Ltd. Common Stock,NASDAQ
@@ -3962,6 +3962,7 @@ FRZCF,Frasers Centrepoint Trust UNITS REAL ESTATE INVESTMENT TRUST (Singapore),U
 FRZT,"Freeze Tag, Inc. Common Stock",U
 FSAM,FIFTH STR ASSET MGMT INC Common Stock,U
 FSBB,Fsb Bancorporation Common Stock,U
+FSBC,Five Star Bancorp Common Stock,NASDAQ
 FSBH,FIRST SOUTHN BK PATTERSON GA Common Stock,U
 FSBW,"FS Bancorp, Inc. Common Stock",NASDAQ
 FSCR,Federal Screw Works Common Stock,U
@@ -4246,6 +4247,7 @@ FXU,First Trust Utilities AlphaDEX Fund,ARCA
 FXWZF,FOX WIZEL LTD SHS (Israel),U
 FXY,Invesco CurrencyShares Japanese Yen Trust,ARCA
 FXZ,First Trust Materials AlphaDEX Fund,ARCA
+FYBR,"Frontier Communications Parent, Inc. Common Stock",NASDAQ
 FYC,First Trust Small Cap Growth AlphaDEX Fund,NASDAQ
 FYGGY,Fuyao Glass Ind Group Co American Depositary Receipts - Unsponsored (China),U
 FYIRF,FYI RESOURCES LTD Ordinary Shares,U
@@ -5480,5 +5482,3 @@ GVLMY,Greenvale Mining Limited American Depositary Receipts - Unsponsored,U
 GVP,"GSE Systems, Inc. Common Stock",NASDAQ
 GVSI,Good Vibrations Shoes Inc. Common Stock,U
 GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
-GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
-GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ

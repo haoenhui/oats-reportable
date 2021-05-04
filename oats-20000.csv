@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
@@ -2272,7 +2274,6 @@ TKAGY,Telekom Austria AG Common Stock,U
 TKAMY,Thyssenkrupp AG American Depositary Receipts - Sponsored,U
 TKAT,"Takung Art Co., Ltd.",AMEX
 TKAYF,JUST EAT TAKEAWAY Ordinary Shares,U
-TKAYY,Just Eat Takeaway.com N.V. American Depositary Receipts - Unsponsored,U
 TKBGF,TAKBO GROUP HLDGS LTD Ordinary Shares,U
 TKBIF,Takara Bio Inc Ohtsu Ordinary Shares (Japan),U
 TKC,TURKCELL ILETISIM HIZMETLERI A.S. ADS,NYSE
@@ -2609,6 +2610,7 @@ TPH,"Tri Pointe Homes, Inc.",NYSE
 TPHD,Timothy Plan High Dividend Stock ETF,ARCA
 TPHIF,Top Frontier Investment Holdings Inc Ordinary Shares (Phillipines),U
 TPHS,Trinity Place Holdings Inc.com,AMEX
+TPIA,Mycotopia Therapies Inc. Common Stock,U
 TPIC,"TPI Composites, Inc. Common Stock",NASDAQ
 TPIF,Timothy Plan International ETF,ARCA
 TPII,"Triad Pro Innovators, Inc. Common Stock",U
@@ -2641,7 +2643,6 @@ TPTX,"Turning Point Therapeutics, Inc. Common Stock",NASDAQ
 TPVG,TRIPLEPOINT VENTURE GROWTH BDC CORP.,NYSE
 TPWRF,TRUSTPOWER LTD SHS NEW (New Zealand),U
 TPX,"TEMPUR SEALY INTERNATIONAL, INC.",NYSE
-TPXXF,Topix Exchange Traded Fund Tokyo ETF (Japan),U
 TPYP,Tortoise North American Pipeline ETF,ARCA
 TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc.",NYSE
 TPZEF,TOPAZ ENERGY CORP COM (Canada),U
@@ -2656,6 +2657,7 @@ TRARF,Teras Resources Inc Ordinary Shares (Canada),U
 TRATF,Traton SE INH O N Ordinary Shares (Germany),U
 TRAUF,Transurban Group Stapled Security (Australia),U
 TRBD,"Turbodyne Technologies, Inc. Common Stock",U
+TRBK,Traditions Bancorp Inc. Common Stock,U
 TRBMF,Torq Resources Inc. Common Shares,U
 TRBO,"Turbo Global Partners, Inc. Common Stock",U
 TRBX,"TRB Systems International, Inc. Common Stock",U
@@ -2719,7 +2721,6 @@ TRMLF,Tourmaline Oil Corp. Ordinary Shares (Canada),U
 TRMNF,NEW WAVE HLDGS CORP Ordinary Shares,U
 TRMT,Tremont Mortgage Trust Common Shares of Beneficial Interest,NASDAQ
 TRN,"Trinity Industries, Inc.",NYSE
-TRNAD,WELLTEQ DIGITAL HEALTH INC Common Shares,U
 TRND,Pacer Trendpilot Fund of Funds ETF,ARCA
 TRNF,TARONIS FUELS INC Common Stock,U
 TRNGF,Trendlines Group LTD Ordinary Shares (Israel),U
@@ -3026,7 +3027,6 @@ TWCTU,TWC Tech Holdings II Corp. Unit,NASDAQ
 TWCTW,TWC Tech Holdings II Corp. Warrant,NASDAQ
 TWDLF,TRACKWISE DESIGNS LTD ORD GBP0.04 (United Kingdom),U
 TWER,TOWERSTREAM CORP Common Stock,U
-TWGL,"20/20 Global, Inc. Common Stock",U
 TWI,"Titan International, Inc.(Delaware)",NYSE
 TWIN,"Twin Disc, Incorporated Common Stock",NASDAQ
 TWIO,Trajan Wealth Income Opportunities ETF,ARCA
@@ -4386,6 +4386,7 @@ WBRBY,Wienerberger Baustofindusti Ag American Depositary Shares,U
 WBRE,Wild Brush Energy Inc New Common Stock,U
 WBS,Webster Financial Corporation Waterbury,NYSE
 WBS PRF,"Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of",NYSE
+WBSR,"Webstar Technology Group, Inc. Common Stock",U
 WBT,"Welbilt, Inc.",NYSE
 WBTMU,Westbrook-Thompson CDT - Royalty Unit,U
 WBWB,WU BA Superior Products Holding Group Inc. Common Stock,U
@@ -4833,6 +4834,7 @@ WTCHF,Wisetech Global Ordinary Shares (Australia),U
 WTCRF,Western Troy Capital Resources Inc Common Shares,U
 WTCZF,Copper Lake Resources Ltd. Ordinary Shares (Canada),U
 WTECQ,Westech Capital Corp Common Stock,U
+WTEQF,WELLTEQ DIGITAL HEALTH INC Common Shares,U
 WTER,The Alkaline Water Company Inc. Common Stock,NASDAQ
 WTFC,Wintrust Financial Corporation Common Stock,NASDAQ
 WTFCM,"Wintrust Financial Corporation Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D",NASDAQ
@@ -5244,7 +5246,6 @@ YRBAF,"Yorbeau Resources, Inc. Class A Ordinary Shares (Canada)",U
 YRCCF,Yurtec Corp SHS (Japan),U
 YRD,Yiren Digital Ltd.,NYSE
 YRIV,Yangtze River Port & Logistics Ltd Common Stock,U
-YRKB,York Traditions Bank York County PA Common Stock,U
 YRLLF,Global UAV Technologies Ltd. Ordinary Shares,U
 YSAC,Yellowstone Acquisition Company Class A Common Stock,NASDAQ
 YSACU,Yellowstone Acquisition Company Units,NASDAQ

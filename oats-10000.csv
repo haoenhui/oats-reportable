@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
+GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
@@ -638,6 +640,7 @@ HNRDF,"Hansard Global Plc, Douglas Ordinary shares (Isle of Man)",U
 HNRG,Hallador Energy Company Common Stock,NASDAQ
 HNSBF,"Hansa Medical AB, Malmo Ordinary Shares (Sweden)",U
 HNSPF,Hansoh Pharmaceutical Group Co Ltd HKD Ordinary Shares (Cayman Islands),U
+HNST,"The Honest Company, Inc. Common Stock",NASDAQ
 HNTGF,HENGTEN NETWORKS GROUP LTD Ordinary Shares,U
 HNTHF,High North Resources Ltd Common Shares (Canada),U
 HNTIF,Hunting Group Plc Ord Ordinary Shares,U
@@ -1541,7 +1544,6 @@ IJSHF,IShares PLC Ordinary Shares EUR (Ireland),U
 IJT,iShares S&P SmallCap 600 Growth ETF,NASDAQ
 IJUL,Innovator MSCI EAFE Power Buffer ETF - July,ARCA
 IKGPF,IKEGPS GROUP LTD Ordinary Shares,U
-IKHIF,Ichikoh Industries Ltd Ordinary Shares (Japan),U
 IKMA,"IntelaKare Marketing, Inc. Common Stock",U
 IKNA,"Ikena Oncology, Inc. Common Stock",NASDAQ
 IKNX,Ikonics Corporation,NASDAQ
@@ -2134,6 +2136,7 @@ ISUUF,IShares IV PLC USD Ultrashort BD UCITS ETF (Ireland),U
 ISUZF,Isuzu Motors Ltd Ord Ordinary Shares,U
 ISUZY,Isuzu Motors Ltd Ord American Depositary Shares,U
 ISVAF,IShares VII PLC Nasdaq 100 USD (Ireland),U
+ISVBF,ISHARES IV PLC MSCI China UCITS Exchange Traded Fund USD (Ireland),U
 ISVFF,iShares V Plc S&P 500 Health Care Sector Ucits ETF (Ireland) Exchange Traded Fund,U
 ISVG,Integrated Services Group Inc Common Stock,U
 ISVIF,IShares VII PLC CS ETFIEON IBOXX USD 7 10YR GOVT (Ireland),U
@@ -2500,6 +2503,7 @@ JEQ,ABERDEEN JAPAN EQUITY FUND,NYSE
 JERT,"JER Investors Trust, Inc. New Common Stock",U
 JESCF,JP MORGAN EUROPEAN SMALLER COS TR PLC SHS (United Kingdom),U
 JETGF,JPMorgan Fleming Continental European Investment Trust Plc Shs-Growth-Class (United Kingdom),U
+JETKY,Just Eat Takeaway.com N.V. American Depositary Receipts - Sponsored,U
 JETMF,Global Crossing Airlines Group Inc.  Ordinary Shares,U
 JETR,"Star Jets International, Inc. Common Stock",U
 JETS,U.S. Global Jets ETF,ARCA
@@ -5248,7 +5252,7 @@ MPHBF,MPHB Capital Bhd Common Stock (Malaysia),U
 MPHD,"Media Pal Holdings, Corp.",U
 MPHMF,Callitas Health Inc Common Shares,U
 MPHSF,MEMPHASYS LTD ORDINARY FULLY PAID (Australia),U
-MPHX,Metro Phoenix Bank Inc Arizona Common Stock,U
+MPHX,MPB BHC INC Common Stock,U
 MPHYF,Mcphy Energy Ordinary Shares (France),U
 MPIN,Message Processing Intl Inc Common Stock,U
 MPIR,"Empire Diversified Energy, Inc Common Stock",U
@@ -5478,7 +5482,3 @@ MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
-MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
-MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
-MTENY,Mahanagar Telephone Nigam Ltd ADS,U
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U

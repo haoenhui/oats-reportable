@@ -269,6 +269,7 @@ ACOSF,Archos ACT.NOM,U
 ACP,Aberdeen Income Credit Strategies Fund,NYSE
 ACPGF,ACACIA PHARMA GROUP PLC ORD GBP0.02 (United Kingdom),U
 ACPIF,AC ENERGY CORP Common Stock,U
+ACPPP,ABERDEEN INCOME CR STRATEGIES FD PERP PFD SER A % Preferred Stock,U
 ACPRF,ARCPACIFIC RES CORP Common Shares (Canada),U
 ACPS,AC Partners Inc. Common Stock,U
 ACQR,Independence Holdings Corp. Class A Ordinary Share,NASDAQ
@@ -659,7 +660,7 @@ AGNCN,"AGNC Investment Corp. Depositary Shares Each Representing a 1/1,000th Int
 AGNCO,"AGNC Investment Corp. Depositary Shares, each representing a 1/1,000th interest in a share of 6.50% Series E Fixed-to-Floating Cumulative Redeemable Preferred Stock",NASDAQ
 AGNCP,"AGNC Investment Corp. Depositary Shares Each Representing a 1/1,000th Interest in a Share of 6.125% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NASDAQ
 AGNG,Global X Funds Global X Aging Population ETF,NASDAQ
-AGNMF,ARGONOMICS LTD Ordinary Shares  Isle of Man(IM ),U
+AGNMF,AGRONOMICS LTD Ordinary Shares  Isle of Man(IM ),U
 AGNPF,Algernon Pharmaceuticals Inc Ordinary Shares,U
 AGO,"Assured Guaranty, LTD",NYSE
 AGO PRB,Assured Guaranty Municipal Holdings Inc. 6-7/8% Quarterly Interest Bonds due 2101,NYSE
@@ -1900,6 +1901,7 @@ ATER,"Aterian, Inc. Common Stock",NASDAQ
 ATEX,Anterix Inc. Common Stock,NASDAQ
 ATEYY,Advantest Corporation American Depositary Receipts - Sponsored (Japan),U
 ATFS,"Altrust Financial Services, Inc. Common Stock",U
+ATFV,Alger 35 ETF,ARCA
 ATGAF,AltaGas Ltd Pfd Shs Ser G (Canada),U
 ATGE,Adtalem Global Education Inc. Common Shares,NYSE
 ATGFF,AltaGas Ltd Ordinary Shares (Canada),U
@@ -2052,7 +2054,7 @@ AURC,Aurora Acquisition Corp. Class A Ordinary Shares,NASDAQ
 AURCU,Aurora Acquisition Corp. Unit,NASDAQ
 AURCW,Aurora Acquisition Corp. Warrant,NASDAQ
 AURI,"Auri, Inc. New Common Stock",U
-AURQF,Aurelius Minerals Inc Common Shares (Canada),U
+AURQD,AURELIUS MINERALS INC  Common Shares,U
 AURT,Attune RTD Common Stock,U
 AURX,"Nuo Therapeutics, Inc Common Stock",U
 AUS,Austerlitz Acquisition Corporation I,NYSE
@@ -4021,7 +4023,6 @@ CAVVF,CAVU Mining Corp Ordinary Shares (Canada),U
 CAWLF,CWC Energy Services Corp. Common Shares (Canada),U
 CAWRF,CARAWINE RES LTD Ordinary Shares,U
 CAWW,"CCA Industries, Inc. Common Stock",U
-CAXCF,C A C Corporation Ordinary Shares (Japan),U
 CAXPF,District Copper Corp Common Shares,U
 CAZGF,Catapult Group International Ltd Ordinary Shares (Australia),U
 CB,Chubb Limited,NYSE
@@ -5296,6 +5297,7 @@ CNSL,"Consolidated Communications Holdings, Inc. Common Stock",NASDAQ
 CNSMF,CAENEUS MINERALS LTD Ordinary Shares,U
 CNSNF,Constantine Metal Res Ltd Common Shares,U
 CNSP,"CNS Pharmaceuticals, Inc. Common Stock",NASDAQ
+CNSRF,Coinshares Intl Ltd. Ordinary Shares (Jersey),U
 CNST,"Constellation Pharmaceuticals, Inc. Common Stock",NASDAQ
 CNSUF,Canasil Res Inc Unclassified,U
 CNSWF,Constellation Software Inc Common Shares (Canada),U
@@ -5481,4 +5483,3 @@ CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
-CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
