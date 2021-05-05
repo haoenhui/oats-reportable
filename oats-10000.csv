@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
 GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
@@ -165,6 +164,7 @@ HBGRF,Heidelberger Druck Dem 5 Ordinary Shares,U
 HBGRY,Heidelberger Druckmaschinen AG Unsponsored ADR (Germany),U
 HBI,"Hanesbrands, Inc.",NYSE
 HBIA,Hills Bancorp Of Iowa Common Stock,U
+HBIE,Hai Jia International Limited Company Common Stock,U
 HBIN,Hbancorporation Inc Common Stock,U
 HBIO,"Harvard Bioscience, Inc. Common Stock",NASDAQ
 HBIS,"Home Bistro, Inc. Common Stock",U
@@ -1448,6 +1448,7 @@ IGRXF,Intega Group Limited Ordinary Shares (Australia),U
 IGSB,iShares Trust iShares 1-5 Year Investment Grade Corporate Bond ETF,NASDAQ
 IGSC,IGS Capital Group Ltd. Common Stock,U
 IGT,International Game Technology PLC,NYSE
+IGTAY,Iguatemi Empresa de Shopping Centers SA American Depositary Receipts - Unsponsored,U
 IGUEF,"Iguatemi Empresa Shopping Centers SA, Sao Paulo Ordinary Shares (Brazil)",U
 IGV,iShares Expanded Tech-Software Sector ETF,BATS
 IGXT,IntelGenx Technologies Corp. Common Stock,U
@@ -3683,6 +3684,7 @@ LFSYF,Lifestyle International Holdings Limited Ordinary Shares (Hong Kong),U
 LFSYY,Lifestyle International Holdings Limited Unsponsored ADR (Cayman Islands),U
 LFT,"Lument Finance Trust, Inc.",NYSE
 LFTPF,LEFT FIELD PRTG GROUP LTD SHS (Bermuda),U
+LFTPP,LUMENT FIN TR INC RED PFD SER A,U
 LFTR,Lefteris Acquisition Corp. Class A Common Stock,NASDAQ
 LFTRU,Lefteris Acquisition Corp. Unit,NASDAQ
 LFTRW,Lefteris Acquisition Corp. Warrant,NASDAQ
@@ -4326,6 +4328,7 @@ MAPIF,"Mapletree Industrial Trust, Singapore Units Real Estate Investment Trust 
 MAPL,Maple Press Co Common Stock,U
 MAPT,"Maptelligent, Inc. Common Stock",U
 MAQAF,Atlas Arteria Ltd Ordinary Shares,U
+MAQCU,Maquia Capital Acquisition Corporation Unit,NASDAQ
 MAR,Marriott International Class A Common Stock,NASDAQ
 MARA,"Marathon Digital Holdings, Inc. Common Stock",NASDAQ
 MARB,First Trust Merger Arbitrage ETF,ARCA
@@ -4403,6 +4406,7 @@ MBNKF,Metro Bank PLC Ordinary Shares (Unoted Kingdom),U
 MBNKP,"Medallion Bank Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F",NASDAQ
 MBOF,MARINE BANCORP FLA INC Common Stock,U
 MBOT,Microbot Medical Inc. Common Stock,NASDAQ
+MBOX,Freedom Day Dividend ETF,ARCA
 MBPFF,Mitchells & Butlers Plc Ordinary Shares (UK) NEW,U
 MBPFY,Mitchells & Butlers Plc Unsponsored ADR (UK),U
 MBRFF,"Mo-Bruk SA, Korzenna Ordinary Shares (Poland)",U
@@ -5480,5 +5484,3 @@ MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
-MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
-MTEI,Mountain Energy Inc Common Stock,U

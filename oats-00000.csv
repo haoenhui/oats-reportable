@@ -269,7 +269,7 @@ ACOSF,Archos ACT.NOM,U
 ACP,Aberdeen Income Credit Strategies Fund,NYSE
 ACPGF,ACACIA PHARMA GROUP PLC ORD GBP0.02 (United Kingdom),U
 ACPIF,AC ENERGY CORP Common Stock,U
-ACPPP,ABERDEEN INCOME CR STRATEGIES FD PERP PFD SER A % Preferred Stock,U
+ACPPV,ABERDEEN INCOME CR STRATEGIES FD PERP PFD SER A % Preferred Stock,U
 ACPRF,ARCPACIFIC RES CORP Common Shares (Canada),U
 ACPS,AC Partners Inc. Common Stock,U
 ACQR,Independence Holdings Corp. Class A Ordinary Share,NASDAQ
@@ -920,7 +920,7 @@ ALB,Albemarle Corporation,NYSE
 ALBAF,Alba Minerals Resources PLC London Ordinary Shares (United Kingdom),U
 ALBBY,Alibaba Health Information Technology Ltd Unsponsored ADR (Bermuda),U
 ALBHF,Alibaba Health Information Technology Ltd Ordinary Shares (Bermuda),U
-ALBKF,Alpha Bank SA Ordinary Shares,U
+ALBKF,ALPHA SVCS & HLDGS S A COM REGISTERED WITH VOTE Ordinary Shares,U
 ALBKY,Alpha Bank AE American Depositary Receipts - Sponsored,U
 ALBO,"Albireo Pharma, Inc. Common Stock",NASDAQ
 ALBY,"Community Capital Bancshares, Inc. Common Stock",U
@@ -3424,7 +3424,7 @@ BRG PRC,Bluerock Residential Growth REIT Inc.,AMEX
 BRG PRD,"Bluerock Residential Growth REIT Inc. 7.125% Series D, Cumulative Preferred Stock ($0.01 par value p",AMEX
 BRGAY,Borregaard AS American Depositary Receipts (Unsponsored)(Norway),U
 BRGC,BrightRock Gold Corporation Common Stock NEW,U
-BRGGF,Bragg Gaming Group Inc. Ordinary Shares,U
+BRGGD,Bragg Gaming Group Inc. Ordinary Shares,U
 BRGO,"Bergio International, Inc. Common Stock",U
 BRGSF,BERGS TIMBER AB Ordinary Shares,U
 BRID,Bridgford Foods Corporation Common Stock,NASDAQ
@@ -3452,7 +3452,7 @@ BRMSY,Brmalls Participacoes S A Sponsored ADR (Brazil),U
 BRMT,Bare Metal Std Inc Common Stock,U
 BRMWF,Brand Marvel Worldwide Consumer Products Corp. Ordinary Shares (Canada),U
 BRN,"Barnwell Industries, Inc.",AMEX
-BRNBF,B R A I N BIOTECHNOLOGY AG Ordinary Shares,U
+BRNBF,BRAIN BIOTECH AG Ordinary Shares,U
 BRNCF,BRAINCOOL AB Rights SUBSCRIPTION OPTION  Exp 10/01/2021 Sweden (SE),U
 BRNE,Borneo Resource Investments Ltd. Common Stock,U
 BRNGF,Buru Energy Ltd Ordinary shares (Australia),U
@@ -3762,6 +3762,7 @@ BWAV,Betawave Corporation Common Stock,U
 BWAY,Brainsway Ltd. American Depositary Shares,NASDAQ
 BWB,"Bridgewater Bancshares, Inc. Common Stock",NASDAQ
 BWBA,"BroadWebAsia, Inc. Common Stock",U
+BWCXP,BABCOCK & WILCOX ENTERPRISES INC CUM PERP PFD SER A,U
 BWEL,Boswell J G Co Common Stock,U
 BWEN,"Broadwind, Inc. Common Stock",NASDAQ
 BWERY,BW Energy American Depository Receipts (Bermuda),U
@@ -3838,7 +3839,7 @@ BYOGF,Bounty Oil Ordinary Shares (Australia),U
 BYPLF,"Bodycote Plc, Macclesfield, Cheshire Ordinary Shares (United Kingdom)",U
 BYRG,Buyer Group International Inc. Common Stock,U
 BYRLF,BII Railway Transportation Technology Holdings Co Ltd. Ordinary Shares (Cayman Islands),U
-BYRND,BYRNA TECHNOLOGIES INC Common Stock,U
+BYRN,"Byrna Technologies, Inc. Common Stock",NASDAQ
 BYROF,Byron Energy Ltd Ordinary Shares (Austrailia),U
 BYRSF,PT Bayan Resources Tbk Ordinary Shares (Indonesia),U
 BYSD,Bayside Corporation. Common Stock,U
@@ -4265,7 +4266,7 @@ CDAY,Ceridian HCM Holding,NYSE
 CDBMF,Cordoba Minerals Corp. Common Shares,U
 CDBT,China Dasheng Biotechnology Company  Common Stock,U
 CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,NASDAQ
-CDCLD,AYURCANN HLDGS CORP Ordinary Shares,U
+CDCLF,AYURCANN HLDGS CORP Ordinary Shares,U
 CDCTF,Goldcrest Co Ltd (Tokyo) Ordinary Shares,U
 CDDRF,HEADWATER EXPL INC Ordinary Shares,U
 CDE,"Coeur Mining, Inc.",NYSE
@@ -4609,7 +4610,6 @@ CHFHF,CHINA ART FINL HLDG LTD Ordinary Shares,U
 CHFHY,China Foods Ltd Unsponsored ADR (China),U
 CHFI,"China Finance, Inc. Common Stock",U
 CHFLF,CHINA FEIHE LTD Ordinary Shares,U
-CHFSW,CHF SOLUTIONS INC Warrant   08/21/2025,U
 CHFW,Consonance-HFW Acquisition Corp.,AMEX
 CHFW U,"Consonance-HFW Acquisition Corp. Units, each consisting of one Class A Ordinary Share, and one-third",AMEX
 CHFW WS,"Consonance-HFW Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary S",AMEX
@@ -5483,3 +5483,4 @@ CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
+CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
