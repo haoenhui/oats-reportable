@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
@@ -56,6 +58,7 @@ SHTDF,Sinopharm Group Co. Ltd Ordinary Shares (China),U
 SHTDY,Sinopharm Group Co. Ltd Unsponsored ADR (China),U
 SHTGF,Shun Tak Holdings Ltd Ordinary Shares,U
 SHTLF,SOUTH32 LTD Ordinary Shares (Australia),U
+SHTPF,S HOTELS & RESORTS PUB CO LTD Ordinary Shares,U
 SHTRF,Sunlight Real Estate Investment Trust Units (Hong Kong),U
 SHUFF,Shufersal Ltd Shs B Ordinary Shares,U
 SHUNF,SHUNFENG INTL CLEAN ENERGY LTD  Ordinary Shares,U
@@ -224,6 +227,8 @@ SKHHY,Sonic Healthcare Ltd American Depositary Receipts - Sponsored,U
 SKHRF,Stakeholder Gold Corp. Common Shares,U
 SKHSF,Sekisui House Ltd Ordinary Shares,U
 SKHSY,Sekisui House Ltd American Depositary Shares,U
+SKIN,The Beauty Health Company Class A Common Stock,NASDAQ
+SKINW,The Beauty Health Company Warrant expiring 5/4/2026,NASDAQ
 SKJJF,Streettracks S&P/ASX 200 Fund Ordinary Shares (Australia),U
 SKKAF,Sk Kaken Co Ltd Ordinary Shares (Japan),U
 SKKFF,Strikewell Energy Corp Ordinary Shares (Canada),U
@@ -1496,6 +1501,7 @@ SVFB,SVF Investment Corp. 2 Class A Ordinary Shares,NASDAQ
 SVFC,SVF Investment Corp. 3 Class A Ordinary Shares,NASDAQ
 SVGAF,Silver Grail Resources Ltd. Ordinary Shares (Canada),U
 SVIN,"Scheid Vineyards, Inc. Class A Common Stock",U
+SVIPF,SVI PUBLIC COMPANY LIMITED Ordinary Shares,U
 SVJTY,Severstal PAO Global Depositary Receipts - Sponsored,U
 SVKEF,Skandinaviska Enskilda Banken AB Ordinary Shares (Sweden),U
 SVLKF,Silver Lake Resources Ltd. Ordinary Shares (Australia),U
@@ -2162,6 +2168,7 @@ THMA,Thimble Point Acquisition Corp. Class A Common Stock,NASDAQ
 THMAU,Thimble Point Acquisition Corp. Unit,NASDAQ
 THMAW,Thimble Point Acquisition Corp. Warrant,NASDAQ
 THMG,"Thunder Mountain Gold, Inc. Common Stock",U
+THMHF,Thaicom Public Company Ltd Ordinary Shares (Thailand),U
 THMMF,Thaicom Public Company Ltd SHS (Thailand),U
 THMNF,Thaicom Public Company Ltd UNits Non-Voting Depositary Receipt (Thailand),U
 THMO,"ThermoGenesis Holdings, Inc. Common Stock",NASDAQ
@@ -2515,7 +2522,6 @@ TNSTF,JADE PWR TR Unit,U
 TNTC,Tintic Standard Gold Mines Inc Common Stock,U
 TNTFF,PostNL NV Ordinary Shares (Netherlands),U
 TNTMF,Transition Metals Corp. New Ordinary Shares (Canada),U
-TNTOF,TORONTO DOMINION BK ONT NON CUM 5 YR RATE RESET PFD SHS SER 12 NVCC (Cananda),U
 TNTRQ,TINTRI INC Common Stock,U
 TNTTF,Toronto Dominion Bk Ont Non Cum 5 Yr Rate Reset Pfd Ser 3 (Canada),U
 TNXP,Tonix Pharmaceuticals Holding Corp. Common Stock,NASDAQ
@@ -3635,6 +3641,7 @@ VAIAF,Vaisala Oy Ordinary Shares -A- (Finland),U
 VAL,Valaris Limited,NYSE
 VAL WS,Valaris Limited Warrants to purchase Common Shares,NYSE
 VALE,VALE S.A.,NYSE
+VALN,Valneva SE American Depositary Shares,NASDAQ
 VALQ,American Century STOXX U.S. Quality Value ETF,ARCA
 VALT,ETFMG Sit Ultra Short ETF,ARCA
 VALU,"Value Line, Inc. Common Stock",NASDAQ
@@ -3879,7 +3886,6 @@ VIIAW,7GC & Co. Holdings Inc. Warrant,NASDAQ
 VIIXF,Credit Suisse AG Nassau Brh VelocityShares VIX Short Term ETN 500,U
 VILGF,Yourgene Health PLC Ordinary Shares (United Kingdom),U
 VINC,"Vincerx Pharma, Inc. Common Stock",NASDAQ
-VINCW,"Vincerx Pharma, Inc. Warrant",NASDAQ
 VINO,"Gaucho Group Holdings, Inc. Common Stock",NASDAQ
 VINP,Vinci Partners Investments Ltd. Class A Common Shares,NASDAQ
 VINS,Vindicator Silver-Lead Mng Common Stock,U
@@ -4025,7 +4031,6 @@ VNM,VanEck Vectors Vietnam ETF,BATS
 VNMC,Natixis Vaughan Nelson Mid Cap ETF,ARCA
 VNMHF,Vietnam Holding Ltd. Ordinary Shares,U
 VNNGF,Vanguard Cdn Short Term Bd Index ETF Ordinary Shares (Canada),U
-VNNHF,Belo Sun Mining Corp. Ordinary Shares (Canada),U
 VNNVF,Vonovia SE Ordinary Shares (Germany),U
 VNNYF,VINERGY CAP INC Ordinary Shares,U
 VNO,Vornado Realty Trust,NYSE
@@ -4193,9 +4198,6 @@ VSMR,Verify Smart Corp. Common Stock,U
 VSMV,Victory Portfolios II VictoryShares US Multi-Factor Minimum Volatility ETF,NASDAQ
 VSOGF,"VISTA OIL & GAS SAB DE CV SHARES OF FINANCIAL GROUPS AND INDUSTRIAL, RETAIL Ordinary Shares",U
 VSPC,Viaspace Inc. Common Stock,U
-VSPR,Vesper Healthcare Acquisition Corp. Class A Common Stock,NASDAQ
-VSPRU,Vesper Healthcare Acquisition Corp. Unit,NASDAQ
-VSPRW,Vesper Healthcare Acquisition Corp. Warrant,NASDAQ
 VSQTF,Victory Square Technologies Inc Ordinary Shares,U
 VSRV,"Voiceserve, Inc. Common Stock",U
 VSS,Vanguard FTSE All-World EX-US Small-Cap Index Fund,ARCA
@@ -4424,6 +4426,7 @@ WDFN,Woodlands Financial Services Company (PA) Common Stock,U
 WDGBF,WIDAD GROUP BERHAD Warrant   08/05/2023,U
 WDGJF,Wood Group John plc Ordinary Shares,U
 WDGJY,Wood Group John plc Unsponsored ADR (UK),U
+WDH,Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinar,NYSE
 WDHR,"WeedHire International, Inc. Common Stock",U
 WDIV,SPDR S&P Global Dividend ETF,ARCA
 WDKA,Panache Beverage Inc. (DE) Common Stock,U

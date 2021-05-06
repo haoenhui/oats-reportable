@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
-CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
@@ -1181,6 +1179,7 @@ DJXMF,Dow Jones Stoxx Ish S Euro Mid 200 U Etf Exchange Traded Fund (Germany Fed
 DJXXF,ISHARES STOXX EUROPE 600 UCITS ETF  Ordinary Shares,U
 DK,"Delek US Holdings, Inc.",NYSE
 DKAM,"Drinks Americas Holdings, Ltd.  Common Stock",U
+DKDCU,Data Knights Acquisition Corp. Unit,NASDAQ
 DKDRF,Delek Drilling Ordinary Shares (Israel),U
 DKGH,DKG Capital Inc. Common Stock,U
 DKGR,Universal Apparel & Textile Company Common Stock,U
@@ -2536,6 +2535,7 @@ ERM,EquityCompass Risk Manager ETF,ARCA
 ERMAF,Eramet SA Ordinary Shares (France),U
 ERMAY,Eramet SA Unsponsored ADR (France),U
 ERMG,ERecord Management Inc (NV) Common Stock,U
+ERNXF,Euronext NV EURONEXT PSR 0904 Rights  05/10/2021,U
 ERNXY,Euronext NV American Depositary Receipts - Unsponsored (Netherlands),U
 EROFF,Eurofins Scientific SA SE JCE 01012021 (Luxembourg),U
 EROTF,Barclays Bk PLC iPath EUR/USD Exchange Rate ETN due 05/14/2037 (United Kingdom),U
@@ -3802,7 +3802,7 @@ FPCPF,FP Corp Ordinary Shares (Japan),U
 FPE,First Trust Preferred Securities and Income ETF,ARCA
 FPEI,First Trust Institutional Preferred Securities and Income ETF,ARCA
 FPF,FIRST TRUST INTERMEDIATE DURATION PREFERRED & INCOME FUND,NYSE
-FPFID,"Rogue One, Inc. Common Stock",U
+FPFI,"Rogue One, Inc. Common Stock",U
 FPH,"Five Point Holdings, LLC Class A Common Shares",NYSE
 FPHAF,Faron Pharmaceuticals OY Ordinary Shares (Finland),U
 FPHHF,First Philippine Holdings Corp FPHC Ordinary Shares (Phillippines),U
@@ -4106,6 +4106,7 @@ FTPAW,FTAC Parnassus Acquisition Corp. Warrant,NASDAQ
 FTPM,"420 Property Management, Inc. Common Stock",U
 FTRHF,Future Bright Holdings Ltd. Ordinary Shares (Bermuda),U
 FTRI,First Trust Exchange-Traded Fund II First Trust Indxx Global Natural Resources Income ETF,NASDAQ
+FTRK,"Fast Track Solutions, Inc. Common Stock",U
 FTROF,First Resources Ltd Ordinary shares (Singapore),U
 FTRPF,Field Trip Health Ltd. Common Shares (Canada),U
 FTRRF,Fonterra Shareholders FD Ordinary Units Fully Paid (New Zealand),U
@@ -4197,7 +4198,9 @@ FVCB,"FVCBankcorp, Inc. Common Stock",NASDAQ
 FVD,First Trust Value Line Dividend Fund,ARCA
 FVE,Five Star Senior Living Inc. Common Stock,NASDAQ
 FVGCF,Fire River Gold Corp. Common Shares,U
+FVIV,Fortress Value Acquisition Corp. IV,NYSE
 FVIV U,"Fortress Value Acquisition Corp. IV Units, each consisting of one share of Class A common stock and",NYSE
+FVIV WS,"Fortress Value Acquisition Corp. IV Warrants, each whole warrant exercisable for one share of Class",NYSE
 FVPI,FV Pharma International Corp. Common Stock,U
 FVRG,ForeverGreen Worldwide Corp. Common Stock,U
 FVRR,Fiverr International Ltd.,NYSE
@@ -4260,7 +4263,9 @@ FYX,First Trust Small Cap Core AlphaDEX Fund,NASDAQ
 FYXGF,FIRST TR GLOBAL FDS PLC SMALL CAP CORE ALPHADEX UCITS ETF CL A (Ireland),U
 FZMD,"Fuse Medical, Inc. Common Stock",U
 FZRO,FlashZero Corp. Common Stock,U
+FZT,FAST Acquisition Corp. II,NYSE
 FZT U,"FAST Acquisition Corp. II Units, each consisting of one share of Class A common stock and one-quarte",NYSE
+FZT WS,"FAST Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one share of Class",NYSE
 G,GENPACT LIMITED,NYSE
 GAA,Cambria Global Asset Allocation ETF,BATS
 GAB,The Gabelli Equity Trust Inc.,NYSE
@@ -4744,8 +4749,8 @@ GJST,GEO JS Tech Group Corp. Common,U
 GJT,Synthetic Fixed-Income Securities STRATS 2006-3 AllState Corporation,NYSE
 GKIN,Guskin Gold Corp. Common Stock,U
 GKIT,"Greenkraft, Inc. NEW Common Stock",U
-GKOOF,Geekco Technologies Corporation Common Stock (Canada),U
 GKOS,Glaukos Corporation,NYSE
+GKOTF,Geekco Technologies Corporation Common Stock (Canada),U
 GKPRF,GATEKEEPER SYS INC Ordinary Shares (Canada),U
 GKSDF,Grupo Kuo SAB de CV Cl B Ordinary Shares,U
 GKSGF,Grenekeleasing Ag Baden Ordinary Shares,U
@@ -4880,7 +4885,6 @@ GM,General Motors Company,NYSE
 GMAB,Genmab A/S ADS,NASDAQ
 GMALF,Genting Malaysia Berhad Ordinary Shares (Malaysia),U
 GMALY,Genting Malaysia Berhad Sponsored ADR,U
-GMBKF,Gunma Bank Ltd Ordinary Shares (Japan),U
 GMBL,Esports Entertainment Group Inc. Common Stock,NASDAQ
 GMBLW,Esports Entertainment Group Inc. Warrant,NASDAQ
 GMBT,Queen's Gambit Growth Capital Class A Ordinary Share,NASDAQ
@@ -5077,6 +5081,7 @@ GOSS,"Gossamer Bio, Inc. Common Stock",NASDAQ
 GOSY,Geckosystems Intl Corp Common Stock,U
 GOTNF,GOTENEHUS GROUP AB SHS -B - Ordinary Shares,U
 GOTRF,GOLIATH RESOURCES LTD Ordinary Shares,U
+GOTU,GSX Techedu Inc.,NYSE
 GOTWF,GO2 People Ltd. Ordinary Shares (Australia),U
 GOVB,"Gouverneur Bancorp, Inc. Common Stock",U
 GOVT,iShares U.S. Treasury Bond ETF,BATS
@@ -5362,7 +5367,6 @@ GSUS,Goldman Sachs MarketBeta U.S. Equity ETF,BATS
 GSUXF,Golden Sun Mining Corp. Common Shares,U
 GSV,Gold Standard Ventures Corp.,AMEX
 GSVI,"GSV, Inc. Common Stock",U
-GSX,GSX Techedu Inc.,NYSE
 GSY,Invesco Ultra Short Duration ETF,ARCA
 GT,The Goodyear Tire & Rubber Company Common Stock,NASDAQ
 GTAGF,Golden Tag Res Ltd Ordinary Shares,U

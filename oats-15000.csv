@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
-MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
@@ -1505,6 +1503,7 @@ OFS,OFS Capital Corporation Common Stock,NASDAQ
 OFSI,"Omni Financial Services, Inc. Commmon Stock",U
 OFSSG,OFS Capital Corporation 6.25% Notes Due 2023,NASDAQ
 OFSSI,OFS Capital Corporation 5.95% Notes due 2026,NASDAQ
+OG,Onion Global Limited American Depositary Shares (each ten (10) ADSs representing one (1) Class A Ord,NYSE
 OGAA,Organic Agricultural Company Limited Common Stock,U
 OGCP,"Empire State Realty OP, L.P. Series 60",ARCA
 OGDCF,Oceanagold Corporation Shares CHESS Depositary Interest (Canada),U
@@ -1767,6 +1766,7 @@ ORHB,"ORHUB, Inc. Common Stock",U
 ORHHF,Orthocell Ltd Ordinary Shares (Australia),U
 ORHK,"Orangehook, Inc. Common Stock",U
 ORI,Old Republic International Corporation,NYSE
+ORIAU,Orion Biotech Opportunities Corp. Units,NASDAQ
 ORIC,"Oric Pharmaceuticals, Inc. Common Stock",NASDAQ
 ORIIF,Orion Health Group Ltd (New Zealand),U
 ORINF,Orion Corporation New Shares -B- (Finland),U
@@ -2666,7 +2666,9 @@ PLLMF,Plata Latina Minerals Corp Com (Canada),U
 PLLVF,Palladon Ventures Ltd Ordinary Shares,U
 PLLWF,Polarean Imaging Ltd Ordinary Shares (United Kingdom),U
 PLM,PolyMet Mining Corp.,AMEX
+PLMI,Plum Acquisition Corp. I Class A Ordinary Share,NASDAQ
 PLMIU,Plum Acquisition Corp. I Units,NASDAQ
+PLMIW,Plum Acquisition Corp. I Warrant,NASDAQ
 PLMNF,Palamina Corp Ordinary Shares (Canada),U
 PLMR,"Palomar Holdings, Inc. Common stock",NASDAQ
 PLNBF,Plan B Media Pub Co Ltd Foreign Registered Shares (Thailand),U
@@ -2862,6 +2864,7 @@ POLJF,Polo Resources Ltd Ordinary Shares (British Virgin Islands),U
 POLR,Polar Petroleum Corp. Common Stock,U
 POLXF,Polydex Pharmaceuticals Limited Common Stock,U
 PONB,Pioneer Bancshares Inc Tex Common Stock,U
+POND U,"Angel Pond Holdings Corporation Units, each consisting of one Class A ordinary share and one-third o",NYSE
 PONGF,Atari Shares Prov de Regroupement (France),U
 PONT,Pontiac Bancorp Inc Common Stock,U
 POOL,Pool Corporation Common Stock,NASDAQ
@@ -3630,6 +3633,7 @@ QGRO,American Century STOXX? U.S. Quality Growth ETF,ARCA
 QGRSF,"Q2 Gold Resources, Inc. Ordinary Shares (Canada)",U
 QGSI,QuantGate Systems Inc. Common Stock,U
 QH,Quhuo Limited American Depository Shares,NASDAQ
+QHHRF,QUALITY HSES HOTEL & RESIDENCE FREEHOLD & LEASEHOLD PPTY FD Unit,U
 QHYG,QHY Group Common Stock,U
 QIAN,Qiansui International Group Co. Ltd. Common Stock,U
 QID,ProShares UltraShort QQQ,ARCA
@@ -4084,6 +4088,7 @@ RF,Regions Financial Corp.,NYSE
 RF PRA,REGIONS FINANCIAL CORPORATION Depositary Shares Each Representing a 1/40th Interest in a Share of 6.,NYSE
 RF PRB,REGIONS FINANCIAL CORPORATION,NYSE
 RF PRC,"Regions Financial Corporation Depositary Shares, each Representing a 1/40th Interest in a Share of 5",NYSE
+RF PRE,"Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4",NYSE
 RFAP,First Trust Exchange-Traded Fund III First Trust RiverFront Dynamic Asia Pacific ETF,NASDAQ
 RFBC,Romana Food Brands Corp. Common Stock,U
 RFCI,RiverFront Dynamic Core Income,ARCA
@@ -4111,7 +4116,6 @@ RFMZ,"RiverNorth Flexible Municipal Income Fund II, Inc.",NYSE
 RFNDF,Rural Funds Group Stapled Securities (Australia),U
 RFNS,Reliant Financial Service Corporation Common Stock,U
 RFP,Resolute Forest Products Inc.,NYSE
-RFPEL,REGIONS FINL CORP NEW DEPOSITARY SHS REPSTG 1/40TH PERP PFD SER E Depositary Shares,U
 RFUN,RiverFront Dynamic Unconstrained Income,ARCA
 RFV,Invesco S&P MidCap 400 Pure Value ETF,ARCA
 RFXRF,Running Fox Resource Corporation Ordinary Shares (Canada),U
@@ -4609,7 +4613,9 @@ RTP,Reinvent Technology Partners,NYSE
 RTP U,"Reinvent Technology Partners Units, each consisting of one Class A ordinary share and one-fourth of",NYSE
 RTP WS,"Reinvent Technology Partners Redeemable Warrants, each whole warrant exercisable for one Class A ord",NYSE
 RTPPF,Rio Tinto Plc Ordinary Shares,U
+RTPY,Reinvent Technology Partners Y Class A Ordinary Shares,NASDAQ
 RTPYU,Reinvent Technology Partners Y Unit,NASDAQ
+RTPYW,Reinvent Technology Partners Y Warrant,NASDAQ
 RTPZ,Reinvent Technology Partners Z,NYSE
 RTPZ U,"Reinvent Technology Partners Z Units, each consisting of one Class A ordinary share and one-fifth o",NYSE
 RTPZ WS,"Reinvent Technology Partners Z Redeemable warrants, each whole warrant exercisable for one Class A o",NYSE
@@ -5235,7 +5241,6 @@ SENOF,SENSORION SA ACT. (France),U
 SENR,Strategic Environmental & Energy Resources Inc Common Stock,U
 SENS,"Senseonics Holdings, Inc.",AMEX
 SENT,AdvisorShares Alpha DNA Equity Sentiment ETF,ARCA
-SENY,"Sauer Energy, Inc. Common Stock",U
 SEOAY,Stora Enso Oyj Common Stock,U
 SEOJF,Stora Enso OYJ Ordinary Shares (Finland),U
 SEOTF,Seino Holdings Co Ltd Ordinary Shares (Japan),U
@@ -5482,5 +5487,3 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U

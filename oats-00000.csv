@@ -3429,6 +3429,7 @@ BRGO,"Bergio International, Inc. Common Stock",U
 BRGSF,BERGS TIMBER AB Ordinary Shares,U
 BRID,Bridgford Foods Corporation Common Stock,NASDAQ
 BRIOF,Magna Terra Minerals Inc Ordinary Shares,U
+BRIVU,B. Riley Principal 250 Merger Corp. Units,NASDAQ
 BRK A,Berkshire Hathaway Inc.,NYSE
 BRK B,BERKSHIRE HATHAWAY Class B,NYSE
 BRKCF,BARKSDALE RES CORP Ordinary Shares,U
@@ -3612,6 +3613,7 @@ BSV,Vanguard Short-Term Bond ETF,ARCA
 BSVN,Bank7 Corp. Common stock,NASDAQ
 BSX,Boston Scientific Corp.,NYSE
 BSX PRA,"Boston Scientific Corporation 5.50% Mandatory Convertible Preferred Stock, Series A",NYSE
+BSXGF,Belo Sun Mining Corp. Ordinary Shares (Canada),U
 BSY,"Bentley Systems, Incorporated Class B Common Stock",NASDAQ
 BSYI,"BioSyntech, Inc. Common Stock",U
 BTA,Blackrock Long-Term Municipal Advantage Trust,NYSE
@@ -3774,6 +3776,7 @@ BWLLF,BW Lpg Ltd. Ordinary Shares (Bermuda),U
 BWLLY,BW Lpg Ltd. American Depositary Receipt (Unsponsored)(Bermuda),U
 BWLVF,Bowleven Plc Edinburgh Ordinary Shares (United Kingdom),U
 BWMG,"Brownie's Marine Group, Inc. Common Stock",U
+BWMN,Bowman Consulting Group Ltd. Common Stock,NASDAQ
 BWMTF,BlackRock World Mining Trust Plc  Ordinary Shares (United Kingdom),U
 BWMX,"Betterware de Mexico, S.A.B. de C.V. Ordinary Shares",NASDAQ
 BWMY,"BORROWMONEY.COM, INC Common Shares",U
@@ -3797,7 +3800,6 @@ BX,The Blackstone Group Inc.,NYSE
 BXBLY,Brambles Ltd Sponsored ADR (Australia),U
 BXC,BlueLinx Holdings Inc.,NYSE
 BXDIF,Brookfield Asset Management Inc Preference Shares Series 13 Class A (Canada),U
-BXG,Bluegreen Vacations Corporation Common Stock,NYSE
 BXLC,Bexil Corporation Common Stock,U
 BXMPY,Beximco Pharmaceuticals Ltd. Sponsored GDR Reg S (Bangladesh),U
 BXMT,"Blackstone Mortgage Trust, Inc. (NEW)",NYSE
@@ -5364,10 +5366,10 @@ COF PRH,"Capital One Financial Corporation Depositary Shares, Each Representing 
 COF PRI,Capital One Financial Corporation Depositary shares each representing a 1/40th interest in a share o,NYSE
 COF PRJ,"Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share",NYSE
 COF PRK,"Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Ownership Interest i",NYSE
+COF PRL,"Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share",NYSE
 COFE,Cafe Holdings Inc. Common Stock,U
 COFI,"Credit One Financial, Inc. Common Stock",U
 COFJF,COFCO JOYCOME FOODS LTD Ordinary Shares (Cayman Islands),U
-COFPL,CAPITAL ONE FINL CORP DEPOSITARY SHS REPSTG 1/40TH INT PERP PFD SER L,U
 COFRF,COMFORIA RESIDENTIAL REIT INC REIT  (Japan),U
 COFS,"ChoiceOne Financial Services, Inc. Common Stock",NASDAQ
 COFSF,Colour Life Services Group Co HKD Shares (Cayman Islands),U
@@ -5484,3 +5486,5 @@ CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
+CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
+CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U

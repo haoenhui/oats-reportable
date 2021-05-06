@@ -19,7 +19,6 @@ GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
 GWPD,"GP Solutions, Inc. Common Stock",U
-GWPH,GW Pharmaceuticals Plc American Depositary Shares,NASDAQ
 GWPRF,GW Pharmaceuticals Plc GW Pharmaceuticals Plc,U
 GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
 GWRRF,Engold Mines Ltd Ordinary Shares,U
@@ -1017,6 +1016,7 @@ HYHG,ProShares High Yield-Interest Rate Hedged ETF,BATS
 HYHY,"Hydrogen  Hybrid Technologies, Inc. Common Stock",U
 HYI,Western Asset High Yield Defined Opportunity Fund Inc.,NYSE
 HYII,"All Grade Mining, Inc. Common Stock",U
+HYIN,WisdomTree Alternative Income Fund,BATS
 HYKUF,Hyakugo Bank Ltd Ordinary Shares (Japan),U
 HYLB,Xtrackers USD High Yield Corporate Bond ETF,ARCA
 HYLD,High Yield ETF,ARCA
@@ -1671,7 +1671,7 @@ IMTX,Immatics N.V. Ordinary Shares,NASDAQ
 IMTXW,Immatics N.V. Warrants,NASDAQ
 IMUC,IMMUNOCELLULAR THERAPEUTICS LTD Common Stock,U
 IMUCW,IMMUNOCELLULAR THERAPEUTICS LTD Warrant   08/12/2021,U
-IMUN,"Immune Therapeutics, Inc. Common Stock",U
+IMUND,"Immune Therapeutics, Inc. Common Stock",U
 IMUX,"Immunic, Inc. Common Stock",NASDAQ
 IMV,IMV Inc. Common Shares,NASDAQ
 IMVEF,Ishares Vi Plc Edge Msci Europe Minimum Volatility Ucits Exchange Traded Fund (Ireland),U
@@ -2451,6 +2451,7 @@ JBLU,JetBlue Airways Corporation Common Stock,NASDAQ
 JBSAY,JBS S.A. Sponsored ADR (Brazil),U
 JBSS,"John B. Sanfilippo & Son, Inc. Common Stock",NASDAQ
 JBT,John Bean Technologies Corporation,NYSE
+JBTC,JBT BANCORP INC Common Stock,U
 JBULF,Jubilee Gold Exploration Ltd Common Shares (Canada),U
 JBZY,"JB&ZJMY Holding Company, Inc. Common Stock",U
 JCBXF,JcbNext Berhad Ordinary Shares (Malaysia),U
@@ -2640,7 +2641,6 @@ JNCCF,JNC Res Inc Common Shares (Canada),U
 JNCE,"Jounce Therapeutics, Inc. Common Stock",NASDAQ
 JNDAF,Jindalee Resources Ltd Ordinary Shares (Australia),U
 JNDOF,Jins Hldgs Inc Ordinary Shares,U
-JNES,Jonestown Bk & Tr Co Pa Common Stock,U
 JNEXF,Cuda Oil & Gas Inc Common Shares,U
 JNHMF,JACK NATHAN MED CORP Common Shares (Canada),U
 JNJ,Johnson & Johnson,NYSE
@@ -3901,6 +3901,7 @@ LNBY,"Landbay, Inc. Class A Common Stock",U
 LNC,Lincoln National Corp.,NYSE
 LNCLF,Lincoln Gold Mng Inc Ordinary Shares,U
 LND,BrasilAgro - Companhia Brasileira de Propriedades Agra?colas,NYSE
+LNDAF,LINEA DIRECTA ASEGURADORA SA COMPANIA DE SEGUROS Y Ordinary Shares,U
 LNDC,Landec Corporation Common Stock (DE),NASDAQ
 LNDLF,Landore Resources Limited Ord NPV (Guernsey),U
 LNDNF,Lundin Petroleum AB shs (Sweden),U
@@ -5484,3 +5485,5 @@ MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
+MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
+MTEI,Mountain Energy Inc Common Stock,U
