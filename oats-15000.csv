@@ -1,4 +1,10 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
+MTCR,"Metacrine, Inc. Common Stock",NASDAQ
+MTD,Mettler-Toledo International,NYSE
+MTDR,MATADOR RESOURCES COMPANY,NYSE
+MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
+MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
@@ -515,9 +521,6 @@ NFTI,"NoFire Technologies, Inc. Common Stock",U
 NFTY,First Trust India Nifty 50 Equal Weight ETF,NASDAQ
 NFYEF,NFI Group Inc Common Shares,U
 NG,NovaGold Resources Inc.,AMEX
-NGA,Northern Genesis Acquisition Corp.,NYSE
-NGA U,"Northern Genesis Acquisition Corp. Units, each consisting of one share of common stock and one-half",NYSE
-NGA WS,"Northern Genesis Acquisition Corp. Redeemable Warrants, each warrant exercisable for shares of commo",NYSE
 NGAB,Northern Genesis Acquisition Corp. II,NYSE
 NGAB U,"Northern Genesis Acquisition Corp. II Units, each consisting of one share of common stock and one-th",NYSE
 NGAB WS,"Northern Genesis Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for shares",NYSE
@@ -1630,7 +1633,7 @@ OMVE,"Omni Ventures, Inc. Common Stock",U
 OMVJF,OMV AG Ordinary Shares,U
 OMVKY,Omv Ag Bearer Shs Ats 100 American Depositary Shares,U
 OMWDF,Omega World Inc New Ordinary Shares,U
-OMWSD,OMNIA WELLNESS INC Common Stock,U
+OMWS,OMNIA WELLNESS INC Common Stock,U
 OMZNF,Osisko Metals Inc Common Shares,U
 ON,ON Semiconductor Corporation Common Stock,NASDAQ
 ONB,Old National Bancorp Common Stock,NASDAQ
@@ -2287,6 +2290,7 @@ PEB PRE,Pebblebrook Hotel Trust 6.375% Series E Cumulative Redeemable Preferred 
 PEB PRF,Pebblebrook Hotel Trust 6.3% Series F Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE
 PEBA,Penn Bancshares Inc Common Stock,U
 PEBC,Peoples Bancorp Inc MD Common,U
+PEBHP,PEBBLEBROOK HOTEL TR CUM RED PFD SER G Preferred Stock,U
 PEBK,"Peoples Bancorp of North Carolina, Inc. Common Stock",NASDAQ
 PEBN,Pacific Enterprise Bancorp Irvine California Common Stock,U
 PEBO,Peoples Bancorp Inc. Common Stock,NASDAQ
@@ -2864,7 +2868,6 @@ POLJF,Polo Resources Ltd Ordinary Shares (British Virgin Islands),U
 POLR,Polar Petroleum Corp. Common Stock,U
 POLXF,Polydex Pharmaceuticals Limited Common Stock,U
 PONB,Pioneer Bancshares Inc Tex Common Stock,U
-POND U,"Angel Pond Holdings Corporation Units, each consisting of one Class A ordinary share and one-third o",NYSE
 PONGF,Atari Shares Prov de Regroupement (France),U
 PONT,Pontiac Bancorp Inc Common Stock,U
 POOL,Pool Corporation Common Stock,NASDAQ
@@ -3013,12 +3016,12 @@ PRHL,Premier Holding Corp Common Stock,U
 PRI,"PRIMERICA, INC.",NYSE
 PRIEF,"Paleo Resources, Inc.  Ordinary Shares",U
 PRIF PRA,"Priority Income Fund, Inc. 6.375% Series A Term Preferred Stock due 2025",NYSE
-PRIF PRB,"Priority Income Fund, Inc. 6.25% Series B Term Preferred Stock due 2023, par value $0.01 per share",NYSE
 PRIF PRC,"Priority Income Fund, Inc. 6.625% Series C Term Preferred Stock due 2024, par value $0.01 per share",NYSE
 PRIF PRD,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029",NYSE
 PRIF PRE,"Priority Income Fund, Inc. 6.375% Series E Preferred Stock Due 2024",NYSE
 PRIF PRF,"Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027",NYSE
 PRIF PRG,"Priority Income Fund, Inc. 6.25% Series G Preferred Stock Due 2026",NYSE
+PRIFH,PRIORITY INCOME FD INC TERM PFD SER H Preferred Stock,U
 PRIM,Primoris Services Corporation Common Stock,NASDAQ
 PRISY,Promotora De Informaciones SA American Depositary Receipts - Sponsored,U
 PRK,Park National Corporation,AMEX
@@ -3085,7 +3088,6 @@ PRSEF,Prosafe SE Ordinary Shares,U
 PRSEY,Prosafe SE American Depositary Receipts - Unsponsored,U
 PRSI,Portsmouth Square Inc Common Stock,U
 PRSNF,Personas Social Inc Common Shares,U
-PRSP,Perspecta Inc. Common Stock,NYSE
 PRSR,Prospector Capital Corp. Class A Ordinary Shares,NASDAQ
 PRSRU,Prospector Capital Corp. Unit,NASDAQ
 PRSRW,Prospector Capital Corp. Warrants,NASDAQ
@@ -5487,3 +5489,4 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ

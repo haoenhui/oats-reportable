@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
+CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
+CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
@@ -943,6 +946,7 @@ DE,Deere & Company,NYSE
 DEA,"Easterly Government Properties, Inc.",NYSE
 DECK,Deckers Outdoor Corp,NYSE
 DECN,Decision Diagnostics Corp. Common Stock,U
+DECPF,DIVERSIFIED ENERGY COMPANY PLC Ordinary Shares,U
 DECXF,Decade Resources Ltd Ordinary Shares (Canada),U
 DECZ,TrueShares Structured Outcome (December) ETF,BATS
 DEED,First Trust TCW Securitized Plus ETF,ARCA
@@ -1070,7 +1074,6 @@ DGNR WS,"Dragoneer Growth Opportunities Corp. Redeemable warrants, each whole wa
 DGNS,Dragoneer Growth Opportunities Corp. II Class A Ordinary Shares,NASDAQ
 DGNU,Dragoneer Growth Opportunities Corp. III Class A Ordinary Shares,NASDAQ
 DGNYF,Dignity Plc Sutton Coldfield Ordinary Shares (United Kingdom),U
-DGOCF,Diversified Gas & Oil PLC Ordinary Shares (United Kingdom),U
 DGONF,Dragon Mining NL Ordinary Shares,U
 DGP,"DB Gold Double Long ETN due February 15, 2038",ARCA
 DGPIF,Data Communications Management Corp. Common Shares,U
@@ -2670,7 +2673,6 @@ ETER,Enterra Corporation Common Stock,U
 ETFBF,Wisdomtree Commodity Sec Ltd Gold Other,U
 ETFDF,Wisdomtree Commodity Sec Ltd Cotton Common Shares,U
 ETFLF,Eastfield Res Ltd Ordinary Shares,U
-ETFM,"2050 Motors, Inc. Common Stock",U
 ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,NYSE
 ETH,Ethan Allen Interiors Inc,NYSE
 ETHE,GRAYSCALE ETHEREUM TR ETH Common units of fractional undivided beneficial interest Delaware,U
@@ -3758,6 +3760,7 @@ FOJCF,Fortum Corporation (Finland) Ordinary Shares,U
 FOJCY,Fortum OYJ Unsponsored ADR (Finland),U
 FOLD,"Amicus Therapeutics, Inc. Common Stock",NASDAQ
 FOLGF,Falcon Oil & Gas Ltd Ordinary Shares,U
+FOMC,FOMO CORP Common Stock,U
 FONR,Fonar Corporation Common Stock,NASDAQ
 FONU,FONU2 Inc. Common Stock,U
 FOR,Forestar Group Inc.,NYSE
@@ -4224,7 +4227,7 @@ FWP,Forward Pharma A/S American Depositary Shares,NASDAQ
 FWRD,Forward Air Corporation Common Stock,NASDAQ
 FXA,Invesco CurrencyShares Australian Dollar Trust,ARCA
 FXB,Invesco CurrencyShares British Pound Sterling Trust,ARCA
-FXBY,Foxby Corp Common Stock,U
+FXBYD,FOXBY CORP Common Stock,U
 FXC,Invesco CurrencyShares Canadian Dollar Trust,ARCA
 FXCNF,FIH Mobile Ltd Ordinary Shares (Cayman Islands),U
 FXCNY,FIH Mobile Limited Unsponsored ADR (Cayman Islands),U
@@ -4298,8 +4301,10 @@ GALXF,Galaxy Resources Ltd Common Shares,U
 GALYF,GALA INC TOKYO ORD (Japan),U
 GAM,"General American Investors Company, Inc.",NYSE
 GAM PRB,"General American Investors Company, Inc  5.95% Cumul Pfd Stock, Ser B",NYSE
+GAMC,Golden Arrow Merger Corp. Class A Common Stock,NASDAQ
 GAMCF,"GAMMA COMMUNICATIONS PLC, SHS (United Kingdom)",U
 GAMCU,Golden Arrow Merger Corp. Unit,NASDAQ
+GAMCW,Golden Arrow Merger Corp. Warrant,NASDAQ
 GAMN,"Great American Food Chain, Inc. (The) Common Stock",U
 GAMR,Wedbush ETFMG Video Game Tech ETF,ARCA
 GAN,GAN Limited Ordinary Shares,NASDAQ
@@ -4398,6 +4403,7 @@ GBRGU,Goldenbridge Acquisition Limited Unit,NASDAQ
 GBRGW,Goldenbridge Acquisition Limited Warrant,NASDAQ
 GBRIF,Golden Band Resources Inc (F) Ordinary Shares,U
 GBRRF,Gabriel Resources Ltd Ordinary Shares,U
+GBRSF,Global One Real Estate Investment Corp. Ordinary Shares (Japan),U
 GBS,GBS Inc. Common Stock,NASDAQ
 GBSB,GIBSON BRANDS INC COM,U
 GBT,"Global Blood Therapeutics, Inc. Common Stock",NASDAQ
@@ -4715,9 +4721,6 @@ GIIX,"Gores Holdings VIII, Inc. Class A Common Stock",NASDAQ
 GIIXU,"Gores Holdings VIII, Inc. Unit",NASDAQ
 GIIXW,"Gores Holdings VIII, Inc. Warrant",NASDAQ
 GIIZF,Global Diversified Investment Grade Income Trust II 2005-1 Fixed/Resetting Rate Unit (Canada),U
-GIK,"GigCapital3, Inc.",NYSE
-GIK U,"GigCapital3, Inc. Units, each consisting of one share of Common Stock and three-fourths of one Redee",NYSE
-GIK WS,"GigCapital3, Inc. Redeemable Warrants, each exercisable for one share of Common Stock at an exercise",NYSE
 GIKLY,Grifols Sa Barcelona Sponsored ADR (Spain),U
 GIL,Gildan Activewear Inc.,NYSE
 GILD,"Gilead Sciences, Inc. Common Stock",NASDAQ

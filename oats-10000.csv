@@ -769,6 +769,7 @@ HRNTF,HRNETGROUP LTD SHS (Singapore),U
 HROEY,HIROSE ELEC CO LTD American Depositary Receipts - Unsponsored,U
 HROGF,Hirogin Holdings Inc Common Stock (Japan),U
 HROW,"Harrow Health, Inc. Common Stock",NASDAQ
+HROWL,"Harrow Health, Inc. 8.625% Senior Notes due 2026",NASDAQ
 HRPMF,Herantis Pharma OYJ Ordinary Shares (Finland),U
 HRRB,"Horizon Bancorp, Inc. AZ Common Stock",U
 HRRS,Horsehead Hldg LLC Wt Pur Com Exp 09/30/2022,U
@@ -1923,6 +1924,7 @@ IPVF WS,"InterPrivate III Financial Partners Inc. Warrants, each whole warrant e
 IPVI,InterPrivate IV InfraTech Partners Inc. Class A Common Stock,NASDAQ
 IPVIU,InterPrivate IV InfraTech Partners Inc. Units,NASDAQ
 IPVIW,InterPrivate IV InfraTech Partners Inc. Warrant,NASDAQ
+IPW,"iPower, Inc. Common Stock",NASDAQ
 IPWG,International Power Group Ltd Common Stock,U
 IPWLG,Indianapolis Power & Light 4.60% Preferred Stock,U
 IPWLK,Indianapolis Power & Light 5.65% Preferred Stock,U
@@ -2830,7 +2832,9 @@ K,Kellogg Company,NYSE
 KACPF,Koa Corp Ordinary Shares (Japan),U
 KAEPF,Kansai Electric Power Inc (F) Ordinary Shares,U
 KAEPY,Kansai Electric Power Inc Unsponsored ADR (Japan),U
+KAHC,KKR Acquisition Holdings I Corp.,NYSE
 KAHC U,"KKR Acquisition Holdings I Corp. Units, each consisting of one share of Class A Common Stock and one",NYSE
+KAHC WS,"KKR Acquisition Holdings I Corp. Redeemable Warrants, each whole Warrant exercisable for one share o",NYSE
 KAHL,Kahala Corporation (Florida) New Common Stock,U
 KAI,Kadant Inc.,NYSE
 KAII,Kismet Acquisition Two Corp. Class A Ordinary Shares,NASDAQ
@@ -3326,7 +3330,9 @@ KSHIF,"Konishi Company, Ltd. Ordinary Shares (Japan)",U
 KSHOF,K S Holdings Corporation Ordinary Shares (Japan),U
 KSHTF,KUSHIKATSU TANAKA CO Common Stock,U
 KSHTY,Kuaishou Technology  American Depositary Receipts - Unsponsored (Cayman Islands),U
+KSI,Kadem Sustainable Impact Corporation Class A common stock,NASDAQ
 KSICU,Kadem Sustainable Impact Corporation Unit,NASDAQ
+KSICW,Kadem Sustainable Impact Corporation Warrant,NASDAQ
 KSIH,KS International Holdings Corporation Common Stock,U
 KSKD,Kaskad Corp. Common Stock,U
 KSKGF,Kingsgate Consolidated Nl Ordinary Shares,U
@@ -3658,6 +3664,8 @@ LEOVF,LEOVEGAS AB Ordinary Shares,U
 LESAF,Le Saunda Hldgs Ltd Ordinary Shares,U
 LESL,"Leslie's, Inc. Common Stock",NASDAQ
 LEU,Centrus Energy Corp.,AMEX
+LEV,The Lion Electric Company,NYSE
+LEV WS,"The Lion Electric Company Redeemable Warrants, each whole warrant entitles the holder to purchase on",NYSE
 LEVI,Levi Strauss & Co. Class A Common Stock,NYSE
 LEVL,"Level One Bancorp, Inc. Common Stock",NASDAQ
 LEVLP,"Level One Bancorp, Inc. Depositary Shares, Each Representing a 1/100th Interest in a Share of 7.50% Non-Cumulative Perpetual Preferred Stock, Series B",NASDAQ
@@ -4090,6 +4098,7 @@ LTCO,LONG TERM CARE OPERATIONS 360 INC Common Stock,U
 LTCP,"Life's Time Capsule Services, Inc. Common Stock",U
 LTDH,"Living 3D Holdings, Inc. Common Stock",U
 LTEC,LOUD Technologies Inc. Common Stock,U
+LTELF,LS Telcom AG Lichtenau Ordinary Shares (DE),U
 LTFD,Littlefield Corporation Common Stock,U
 LTGHF,Life Healthcare Group Holdings Ltd Ordinary Shares (South Africa),U
 LTGHY,Life Healthcare Group Holdings Ltd Unsponsored ADR (South Africa),U
@@ -4199,6 +4208,7 @@ LWEL,Luckwel Pharmaceuticals Inc. Common Stock,U
 LWLG,"Lightwave Logic, Inc. Common Stock",U
 LWLW,Longwen Group Corp. Common Stock,U
 LWSCF,SIENNA SR LIVING INC  Common Shares,U
+LWSIY,Locaweb Servicos de Internet S.A American Depositary Receipts - Unsponsored (Brazil),U
 LWSOF,Lawson Inc Ordinary Shares,U
 LWWLY,Lawson Inc American Depositary Receipts - Unsponsored (Japan),U
 LX,LexinFintech Holdings Ltd. American Depositary Shares,NASDAQ
@@ -4634,7 +4644,7 @@ MEG,"Montrose Environmental Group, Inc.",NYSE
 MEGEF,Meg Energy Corp. Common (Canada),U
 MEGGF,Meggitt Plc Ordinary Shares,U
 MEGGY,Meggitt Plc Unsponsored American Depository Receipt (United Kingdom),U
-MEGH,Megalith Corp Common Stock,U
+MEGHD,"MW Investment Holding Group, Inc. Common Stock",U
 MEGPF,Megachips Corp Osaka Ordinary Shares (Japan),U
 MEI,Methode Electronics,NYSE
 MEIL,Methes Energies International Ltd.,U
@@ -5411,7 +5421,6 @@ MSEXP,Middlesex Water Company $7 Preferred Stock,U
 MSEZ,Media Sentiment Inc Common Stock,U
 MSFAW,Morgan Stanley Fin Warrants Based On Euro Stoxx 50 Index Expiring 05/27/2021,U
 MSFDW,Morgan Stanley Fin LLC Call Warrants Based On Euro Stoxx 50 Index Expiring 05/20/2021,U
-MSFHW,Morgan Stanley Fin LLC Call Warrant Based On Euro Stoxx 50 Index Expiring 05/06/2021,U
 MSFN,Mainstreet Financial Corp. Common Stock,U
 MSFT,Microsoft Corporation Common Stock,NASDAQ
 MSGCF,MAS GOLD CORP Ordinary Shares,U
@@ -5481,9 +5490,3 @@ MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
-MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
-MTCR,"Metacrine, Inc. Common Stock",NASDAQ
-MTD,Mettler-Toledo International,NYSE
-MTDR,MATADOR RESOURCES COMPANY,NYSE
-MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
-MTEI,Mountain Energy Inc Common Stock,U

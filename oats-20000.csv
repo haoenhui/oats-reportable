@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
@@ -1751,6 +1750,7 @@ TAL,TAL Education Group,NYSE
 TALC,Tal Cap Inc Unclassified,U
 TALN,"Talon International, Inc Common Stock",U
 TALO,"Talos Energy, Inc. Common Stock",NYSE
+TALS,"Talaris Therapeutics, Inc. Common Stock",NASDAQ
 TAMG,"Transnational Group, Inc. Common Stock",U
 TAN,Invesco Solar ETF,ARCA
 TANH,Tantech Holdings Ltd. Common Stock,NASDAQ
@@ -2014,7 +2014,9 @@ TERRF,Trasmissione Elettricita Rete Nazionale Spa Roma Ordinary Shares (Italy),U
 TESS,TESSCO Technologies Incorporated Common Stock,NASDAQ
 TETAA,Teton Advisors Inc Common Class A,U
 TETAB,Teton Advisors Inc Common Stock Cl B,U
+TETC,Tech and Energy Transition Corporation Class A Common Stock,NASDAQ
 TETCU,Tech and Energy Transition Corporation Unit,NASDAQ
+TETCW,Tech and Energy Transition Corporation Warrant,NASDAQ
 TETHF,Tethys Petroleum Ltd Ordinary Shares,U
 TETOF,Tectonic Metals Inc Common Shares (Canada),U
 TEUCF,Box Ships Inc. Perpetual Preference Shares,U
@@ -2414,6 +2416,7 @@ TMF,Direxion Daily 20+ Year Treasury Bull 3X Shares (based on the NYSE 20 Year P
 TMFC,Motley Fool 100 Index ETF,BATS
 TMFXF,Holidaycheck Group AG Ordinary Shares,U
 TMGEF,Thermal Energy Intl Ltd Ordinary Shares,U
+TMGFF,3D Metal Forge Ltd Ordinary Shares (Australia),U
 TMGI,"The Marquie Group, Inc. Common Stock",U
 TMGY,"Terminus Energy, Inc. Common Stock",U
 TMHC,Taylor Morrison Home Corporation Common Stock,NYSE
@@ -3277,6 +3280,7 @@ UGGYF,Underground Energy Corporation Common Shares (Canada),U
 UGHB,UNIVERSAL GLOBAL HUB INC. Common Stock,U
 UGHL,Union Bridge Holdings Limited Ordinary Shares,U
 UGI,UGI Corporation,NYSE
+UGIIU,UGI Corp New Corp Unit,U
 UGL,ProShares Ultra Gold,ARCA
 UGLDF,Credit Suisse AG Nassau Brh VelocityShares 3x Long Gold ETN,U
 UGP,Ultrapar Participacoes S.A.,NYSE
@@ -3671,7 +3675,6 @@ VBIX,Viewbix Inc. Common Stock,U
 VBIZF,Viva Biotech Holdings Ordinary Shares (Cayman Islands),U
 VBK,Vanguard Small-Cap Growth ETF,ARCA
 VBLT,Vascular Biogenics Ltd. Ordinary Shares,NASDAQ
-VBLTF,VASCULAR BIOGENICS LTD Wt Pur Shs Expiring 05/06/2021 (Israel),U
 VBND,Vident Core US Bond Strategy ETF,ARCA
 VBR,Vanguard Small-Cap Value ETF,ARCA
 VBSCF,Vibe Growth Corporation Common Shares,U
@@ -5242,7 +5245,6 @@ YORUF,Yokohama Rubber Ordinary Shares,U
 YORUY,Yokohama Rubber Unsponsored ADR (Japan),U
 YORW,York Water Company (The) Common Stock,NASDAQ
 YPF,YPF Sociedad Anonima,NYSE
-YPHDF,"Ypsomed Hodling AG, Burgdorf Namen - AKT (Switzerland)",U
 YPPN,YAPPN CORP Common Stock,U
 YQ,17 Education & Technology Group Inc. American Depositary Shares,NASDAQ
 YQUFF,Quonia Socimi SA Ordinary Shares (Spain),U
@@ -5336,6 +5338,8 @@ ZEPP,Zepp Health Corporation,NYSE
 ZEST,"Ecoark Holdings, Inc. Common Stock",U
 ZEUCF,ZEU TECHNOLOGIES INC Common Shares,U
 ZEUS,"Olympic Steel, Inc. Common Stock",NASDAQ
+ZEV,"Lightning eMotors, Inc.",NYSE
+ZEV WS,"Lightning eMotors, Inc. Redeemable Warrants, each exercisable for one share of Common Stock at an ex",NYSE
 ZFPPF,Zambeef Product Plc Ordinary Shares (Zambia),U
 ZFSVF,Zurich Insurance Group AG Ordinary Shares,U
 ZG,"Zillow Group, Inc. Class A Common Stock",NASDAQ
@@ -5482,7 +5486,6 @@ ZYNE,"Zynerba Pharmaceuticals, Inc. Common Stock",NASDAQ
 ZYQG,ZYQC Group Holding Limited Common Stock,U
 ZYRX,"Zyrox Mining International, Inc. Common Stock",U
 ZYXI,"Zynex, Inc. Common Stock",NASDAQ
-ZZCLF,ZZ CAP INTL LTD Ordinary Shares,U
 ZZHGF,Zhongan Online PC Ins Co Ltd. Ordinary Shares (China),U
 ZZHGY,"ZhongAn Online P & C Insurance Co., Ltd American Depositary Receipts - Unsponsored (China)",U
 ZZLL,"ZZLL Information Technology, Inc. Common Stock",U

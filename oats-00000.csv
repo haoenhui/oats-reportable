@@ -1203,6 +1203,7 @@ AMOV,America Movil SAB de CV,NYSE
 AMOVF,"America Movil, S.A. de C.V. Class A Ordinary Shares",U
 AMP,"Ameriprise Financial, Inc.",NYSE
 AMPCF,Amorepacific Group Inc Ordinary Shares (Republic of South Korea),U
+AMPDF,AMPD Ventures Inc Common Stock (Canada),U
 AMPE,"Ampio Pharmaceuticals, Inc",AMEX
 AMPG,"Amplitech Group, Inc. Common Stock",NASDAQ
 AMPGW,"Amplitech Group, Inc. Warrants",NASDAQ
@@ -1290,6 +1291,7 @@ ANDI,Andiamo Corporation Common Stock,U
 ANDMF,ANDROMEDA METALS LTD Ordinary Shares,U
 ANDOF,Alumindo Light Metal Ind TBK PT Ordinary Shares (Indonesia),U
 ANDR,Andrea Electronics Corporation Common Stock,U
+ANEB,"Anebulo Pharmaceuticals, Inc. Common Stock",NASDAQ
 ANET,Arista Networks,NYSE
 ANEW,ProShares MSCI Transformational Changes ETF,ARCA
 ANEWF,Australia & N Z Bkg Grp Ord Ordinary Shares,U
@@ -1922,7 +1924,9 @@ ATHI,"American Transportation Holdings, Inc.  Common Stock",U
 ATHJF,Antisense Therapeutics Ltd Ordinary Shares,U
 ATHJY,Antisense Therapeutics Ltd Sponsored ADR (Australia),U
 ATHM,"Autohome Inc. American Depositary Shares, each representing four Class A Ordinary Shares",NYSE
+ATHN,Athena Technology Acquisition Corp.,NYSE
 ATHN U,"Athena Technology Acquisition Corp. Units, each consisting of one share of Class A Common Stock and",NYSE
+ATHN WS,"Athena Technology Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one shar",NYSE
 ATHOF,Athabasca Oil Corporation Ordinary Shares (Canada),U
 ATHX,"Athersys, Inc. Common Stock",NASDAQ
 ATI,Allegheny Technologies,NYSE
@@ -2284,7 +2288,6 @@ AYRWF,AYR WELLNESS INC Other,U
 AYSI,"Alloy Steel International, Inc. Common Stock",U
 AYTEF,Barclays Bk PLC iPath GEMS Asia 8 ETN due 04/08/2038 (United Kingdom),U
 AYTU,"Aytu BioPharma, Inc. Common Stock",NASDAQ
-AYTUW,"Aytu BioScience, Inc. Warrant",U
 AYTUZ,"Aytu BioScience, Inc. Warrant Exp 11/02/2021",U
 AYX,"Alteryx, Inc.",NYSE
 AYYLF,Ayala Corp Ordinary Shares,U
@@ -2767,7 +2770,9 @@ BGRP,Bluestem Group Inc. Common Stock,U
 BGS,"B&G Foods, Inc.",NYSE
 BGSF,"BGSF, Inc.",NYSE
 BGSWF,Bergesen Worldwide Offshore Limited  Common Shares,U
+BGSX,Build Acquisition Corp.,NYSE
 BGSX U,"Build Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of",NYSE
+BGSX WS,"Build Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A common s",NYSE
 BGT,BlackRock Floating Rate Income Trust,NYSE
 BGUUF,Benguet Corp BC Ordinary Shares (Phillippines),U
 BGX,Blackstone Long-Short Credit Income Fund,NYSE
@@ -3351,8 +3356,8 @@ BPHLF,Bank of the Philippine Islands BPI Ordinary Shares,U
 BPHLY,Bank of the Philippine Islands BPI Unsponsored ADR (Philippines),U
 BPHMF,BIOFERMIN PHARMACEUTICAL CO LTD SHS,U
 BPIGF,"BPI Energy Holdings, Inc. Ordinary Shares (Canada)",U
+BPIRD,Piraeus Financial Holdings S.A. American Depositary Receipts - Sponsored,U
 BPIRF,PIRAEUS FINL HLDGS S A Ordinary Shares,U
-BPIRY,Piraeus Financial Holdings S.A. American Depositary Receipts - Sponsored,U
 BPLNF,AMERICAN RARE EARTHS LTD Ordinary Shares,U
 BPMC,Blueprint Medicines Corporation Common Stock,NASDAQ
 BPMI,"Badger Paper Mills, Inc. Common Stock",U
@@ -4161,6 +4166,7 @@ CCCMF,Cancom AG Ordinary Shares (Germany),U
 CCCP,Crona Corp Common Stock,U
 CCD,Calamos Dynamic Convertible & Income Fund Common Stock,NASDAQ
 CCDBF,Ccl Inds Inc Cl B Cda Ordinary Shares,U
+CCDCF,CHOICE CONSLDTN CORP UNIT 1 CL A RESTRICTED VTG & 1/4 WT EXP Unit,U
 CCEDF,Cascadero Copper Corp Common Shares (Canada),U
 CCEGF,Carclo Engr Grp Plc Ord Ordinary Shares,U
 CCEL,"Cryo-Cell International, Inc. Common Stock",U
@@ -5485,6 +5491,3 @@ CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
-CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
-CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
-CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
