@@ -50,7 +50,9 @@ AAP,ADVANCE AUTO PARTS INC,NYSE
 AAPJ,"AAP, Inc. Common Stock",U
 AAPL,Apple Inc. Common Stock,NASDAQ
 AAPT,"All American Pet Company, Inc. Common Stock",U
+AAQC,Accelerate Acquisition Corp.,NYSE
 AAQC U,"Accelerate Acquisition Corp. Units, each consisting of one Class A common stock, and one-third of on",NYSE
+AAQC WS,"Accelerate Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A commo",NYSE
 AASCF,ALL ACTIVE ASSET CAP LTD Ordinary Shares,U
 AASL,"America's Suppliers, Inc. Common Stock",U
 AASP,Global Acquisitions Corporation Common Stock,U
@@ -269,7 +271,7 @@ ACOSF,Archos ACT.NOM,U
 ACP,Aberdeen Income Credit Strategies Fund,NYSE
 ACPGF,ACACIA PHARMA GROUP PLC ORD GBP0.02 (United Kingdom),U
 ACPIF,AC ENERGY CORP Common Stock,U
-ACPPV,ABERDEEN INCOME CR STRATEGIES FD PERP PFD SER A % Preferred Stock,U
+ACPPP,ABERDEEN INCOME CR STRATEGIES FD PERP PFD SER A % Preferred Stock,U
 ACPRF,ARCPACIFIC RES CORP Common Shares (Canada),U
 ACPS,AC Partners Inc. Common Stock,U
 ACQR,Independence Holdings Corp. Class A Ordinary Share,NASDAQ
@@ -669,6 +671,7 @@ AGO PRF,Assured Guaranty Municipal Holdings Inc. 5.60% Notes due 2103,NYSE
 AGOAF,Abengoa Sa ABG/AC B 0.01 (Spain),U
 AGOL,Andina Gold Corp. Common Stock,U
 AGOWF,Abengoa SA Warrant Expiring 03/31/2025 (Spain),U
+AGOX,Adaptvie Growth Opportunities ETF,ARCA
 AGPDF,Amer Sports Corporation Ordinary Shares (Finland),U
 AGPIF,Anglo Pacific Res Plc Ord Ordinary Shares,U
 AGPL,"Apple Green Holding, Inc. Common",U
@@ -878,7 +881,7 @@ AKBTY,Akbank Turk Anonim Sirketi ADR (Turkey),U
 AKCCF,AKER CARBON CAPTURE AS Ordinary Shares,U
 AKCPF,Asustek Computer Inc Ord Ordinary Shares,U
 AKEJF,Ariake Japan Ordinary Shares,U
-AKHOF,Aker Horizons AS Common Shares (Norway),U
+AKHOF,Aker Horizons ASA Common Shares,U
 AKIC,Sports Ventures Acquisition Corp. Class A Ordinary Shares,NASDAQ
 AKICU,Sports Ventures Acquisition Corp. Unit,NASDAQ
 AKICW,Sports Ventures Acquisition Corp. Warrant,NASDAQ
@@ -1762,7 +1765,7 @@ ASGLF,AGC INC Ordinary Shares,U
 ASGLY,AGC Inc. American Depositary Receipts - Unsponsored,U
 ASGN,ASGN Incorporated,NYSE
 ASGOF,Asante Gold Corporation Common Shares (Canada),U
-ASGRF,Astralis Group A/S Almindelig Aktie (Denmark),U
+ASGRF,Astralis A/S Almindelig Aktie (Denmark),U
 ASGSY,Altri Sgps Sa Unsponsored ADR (Portugal),U
 ASGTF,Altus group Ltd Common Stock,U
 ASGXF,Asia Global Crossing Ltd. Class A Ordinary Shares,U
@@ -2366,6 +2369,7 @@ BAFI,BancAffiliated Inc Common Stock,U
 BAFYY,Balfour Beatty Plc Sponsored ADR (United Kingdom),U
 BAGFF,A G Barr Plc Ordinary Shares (United Kingdom),U
 BAH,Booz Allen Hamilton Holding Corporation,NYSE
+BAIDF,BAIDU INC ORD SHS CL A (Cayman Islands),U
 BAINF,Base Inc Ordinary Shares  (Japan),U
 BAJFF,Camrova Resources Inc Ordinary Shares,U
 BAK,Braskem S.A. American Depositary Shares (Each representing Two Class A  Preferred Shares),NYSE
@@ -3024,6 +3028,8 @@ BLCN,Siren ETF Trust Siren Nasdaq NexGen Economy ETF,NASDAQ
 BLCPF,Bluechiip Ltd Melbourne VIC Ordinary Shares (Australia),U
 BLCT,BlueCity Holdings Limited American Depositary Shares,NASDAQ
 BLD,TopBuild Corp. Common Stock,NYSE
+BLDE,"Blade Air Mobility, Inc. Class A Common Stock",NASDAQ
+BLDEW,"Blade Air Mobility, Inc. Warrants",NASDAQ
 BLDG,Cambria Global Real Estate ETF,BATS
 BLDP,"Ballard Power Systems, Inc. Common Shares",NASDAQ
 BLDR,"Builders FirstSource, Inc. Common Stock",NASDAQ
@@ -3851,7 +3857,9 @@ BYROF,Byron Energy Ltd Ordinary Shares (Austrailia),U
 BYRSF,PT Bayan Resources Tbk Ordinary Shares (Indonesia),U
 BYSD,Bayside Corporation. Common Stock,U
 BYSI,BeyondSpring Inc. Ordinary Shares,NASDAQ
+BYTS,BYTE Acquisition Corp. Class A Ordinary Shares,NASDAQ
 BYTSU,BYTE Acquisition Corp. Units,NASDAQ
+BYTSW,BYTE Acquisition Corp. Warrants,NASDAQ
 BYWLF,"BAYWA BAYERISCHE WARENVERMITTLUNG LANDWIRTSCHAFTLICHER (GENOSSENSCHAFTEN AG, MUENCHEN) (Germany)",U
 BYYLF,Balyo SA Ordinary Shares (France),U
 BZDLF,Kincora Copper Limited Common Shares,U
@@ -4170,7 +4178,7 @@ CCDCF,CHOICE CONSLDTN CORP UNIT 1 CL A RESTRICTED VTG & 1/4 WT EXP Unit,U
 CCEDF,Cascadero Copper Corp Common Shares (Canada),U
 CCEGF,Carclo Engr Grp Plc Ord Ordinary Shares,U
 CCEL,"Cryo-Cell International, Inc. Common Stock",U
-CCEP,Coca-Cola European Partners plc Ordinary Shares,NYSE
+CCEP,Coca-Cola Europacific Partners plc,NYSE
 CCF,Chase Corporation,AMEX
 CCFC,CCSB Financial Corporation Common Stock,U
 CCFN,"CCFNB Bancorp, Inc. Common Stock",U
@@ -4687,6 +4695,7 @@ CHN,CHINA FUND,NYSE
 CHNA,ETF Series Solutions Loncar China BioPharma ETF,NASDAQ
 CHNC,China Infrastructure Construction Corporation Common Stock,U
 CHND,"China Media, Inc. Common Stock",U
+CHNFF,CHINA FOODS LTD SHS (Bermuda),U
 CHNG,Change Healthcare Inc. Common Stock,NASDAQ
 CHNGQ,"China Natural Gas, Inc. Common Stock",U
 CHNGU,Change Healthcare Inc. Tangible Equity Units,NASDAQ
@@ -4865,7 +4874,6 @@ CKHUF,CK HUTCHISON HLDGS LTD Ordinary Shares (Cayman Islands),U
 CKHUY,CK Hutchison Holdings LTD American Depositary Receipts - Unsponsored,U
 CKISF,CK Infrastructure Holdings Limited Ordinary Shares,U
 CKISY,CK Infrastructure Holdings Limited American Depositary Receipts - Unsponsored,U
-CKLSF,CK Life Sciences Int. Holdings Inc Ordinary Shares Cayman Islands(KY ),U
 CKMTF,Carmat Ordinary Shares (France),U
 CKNHF,Clarkson Horace Plc Ordinary Shares,U
 CKNHY,Clarkson PLC American Depositary Receipts - Unsponsored,U
@@ -5487,7 +5495,3 @@ CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAI,Champion Pain Care Corporation Common Stock,U
-CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
-CPB,Campbell Soup Company,NYSE
-CPBLF,ALS Ltd. Ordinary Shares (Australia),U

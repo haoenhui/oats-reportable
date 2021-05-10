@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPAI,Champion Pain Care Corporation Common Stock,U
+CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
+CPB,Campbell Soup Company,NYSE
+CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
@@ -824,7 +828,7 @@ DBBPF,Double Bd Pharmaeutical Intl AB Ordinary Shares B (Sweden),U
 DBC,Invesco DB Commodity Index Tracking Fund,ARCA
 DBCCF,Decibel Cannabis Co Inc Common Shares,U
 DBD,Diebold Nixdorf Incorporated,NYSE
-DBDIF,Debut Diamonds Inc Common Shares,U
+DBDID,WESANA HEALTH HLDGS INC Common Shares,U
 DBDR,Roman DBDR Tech Acquisition Corp. Class A Common Stock,NASDAQ
 DBDRU,Roman DBDR Tech Acquisition Corp. Unit,NASDAQ
 DBDRW,Roman DBDR Tech Acquisition Corp. Warrant,NASDAQ
@@ -2680,7 +2684,6 @@ ETHO,ETF Managers Trust New Issue,ARCA
 ETHOF,Ethos Gold Corp. Ordinary Shares (Canada),U
 ETI PR,"Entergy Texas, Inc. 5.375% Series A Preferred Stock",NYSE
 ETIC,E T I    Int'L  Inc Common Stock,U
-ETIHY,EARTHASIA INTL HLDGS LTD American Depositary Receipts - Sponsored,U
 ETII,"EnviroTechnologies International, Inc. Common Stock",U
 ETIVF,Electra Private Equity PLC Ordinary Shares,U
 ETJ,Eaton Vance Risk - Managed Diversified Equity Income Fund,NYSE
@@ -2913,9 +2916,6 @@ EXNRF,Excellon Resources Inc. Warrant Exp 08/27/2021 (Canada),U
 EXNT,"EnXnet, Inc. Common Stock",U
 EXOPF,Exopharm Ltd  Ordinary Shares (Australia),U
 EXP,"Eagle Materials, Inc.",NYSE
-EXPC,Experience Investment Corp. Class A Common Stock,NASDAQ
-EXPCU,Experience Investment Corp. Unit,NASDAQ
-EXPCW,Experience Investment Corp. Warrants,NASDAQ
 EXPD,"Expeditors International of Washington, Inc. Common Stock",NASDAQ
 EXPE,"Expedia Group, Inc. Common Stock",NASDAQ
 EXPFF,Experion Hldgs Ltd Ordinary Shares,U
@@ -3805,7 +3805,6 @@ FPCPF,FP Corp Ordinary Shares (Japan),U
 FPE,First Trust Preferred Securities and Income ETF,ARCA
 FPEI,First Trust Institutional Preferred Securities and Income ETF,ARCA
 FPF,FIRST TRUST INTERMEDIATE DURATION PREFERRED & INCOME FUND,NYSE
-FPFI,"Rogue One, Inc. Common Stock",U
 FPH,"Five Point Holdings, LLC Class A Common Shares",NYSE
 FPHAF,Faron Pharmaceuticals OY Ordinary Shares (Finland),U
 FPHHF,First Philippine Holdings Corp FPHC Ordinary Shares (Phillippines),U
@@ -4773,6 +4772,7 @@ GLATF,Global Atomic Corp Ordinary Shares,U
 GLAXF,Glaxosmithkline Plc Ord 25p Ordinary Shares,U
 GLBB,Global Quest Ltd Common Stock,U
 GLBD,Global Seed Corp Common Stock,U
+GLBE,Global-E Online Ltd. Ordinary Shares,NASDAQ
 GLBH,"Global Tech Holdings, Inc. Common Stock",U
 GLBKF,Goldbank Mining Corporation Ordinary Shares (Canada),U
 GLBL,Cartesian Growth Corporation Class A Ordinary Share,NASDAQ
@@ -4862,7 +4862,9 @@ GLRP,Glen Rose Petroleum Corporation,U
 GLRY,Inspire Faithward Mid Cap Momentum ESG ETF,ARCA
 GLSEF,GLORIOUS SUN ENTERPRISES LTD Ordinary Shares,U
 GLSI,"Greenwich LifeSciences, Inc. Common Stock",NASDAQ
+GLSPT,Global SPAC Partners Co. Subunit,NASDAQ
 GLSPU,Global SPAC Partners Co. Unit,NASDAQ
+GLSPW,Global SPAC Partners Co. Warrants,NASDAQ
 GLT,Glatfelter Corporation,NYSE
 GLTC,"GelTech Solutions, Inc. Common Stock",U
 GLTO,"Galecto, Inc. Common Stock",NASDAQ
@@ -5186,6 +5188,7 @@ GREZF,"Gree Inc., Tokyo Ordinary Shares (Japan)",U
 GRF,"Eagle Capital Growth Fund, Inc.",AMEX
 GRFFF,GRUPO FINANCIERO BANAMEX SA DE CV CERTIFICADOS BURSATILES FIDUCIARIOS INMOBILIARIOS Ordinary Shar(Mexico),U
 GRFS,"Grifols, S.A. American Depositary Shares",NASDAQ
+GRFXY,Graphex Group Ltd American Depositary Receipts - Sponsored,U
 GRGCF,GEORGIA CAPITAL PLC Ord GBP0.0001 (United Kingdom),U
 GRGG,"Green For Energy, Inc. Common Stock",U
 GRGR,"Green Energy Resources, Inc. Common Stock",U

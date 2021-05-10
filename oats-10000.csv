@@ -40,7 +40,9 @@ GXG,Global X MSCI Colombia ETF,ARCA
 GXGX,GX Acquisiton Corp. Class A Common Stock,NASDAQ
 GXGXU,GX Acquisiton Corp. Unit,NASDAQ
 GXGXW,GX Acquisiton Corp. Warrant,NASDAQ
+GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
 GXIIU,GX Acquisition Corp. II Unit,NASDAQ
+GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
 GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
 GXRFF,Prospera Energy Inc Common Shares,U
 GXSBF,Geox Spa Ordinary Shares (Italy),U
@@ -2754,7 +2756,6 @@ JSFCF,Sistema PJSFC Global Depositary Receipts - Sponsored,U
 JSGCF,Lixil Group Corp. Ordinary Shares (Japan),U
 JSGRY,LIXIL Corp American Depositary Receipts - Unsponsored,U
 JSHG,"Joshua Gold Resources, Inc. Common Stock",U
-JSHLY,Jardine Strategic Holdings Ltd Bermuda Unsponsored ADR,U
 JSLGY,JSL SA ADR (Sponsored) (Brazil),U
 JSM,"Navient Corporation 6% Senior Notes due December 15, 2043",NASDAQ
 JSMD,Janus Detroit Street Trust Janus Henderson Small/Mid Cap Growth Alpha ETF,NASDAQ
@@ -3024,7 +3025,7 @@ KHNGF,Kuehne & Nagel International Ag Schindellegi Namen-Akt. Shares (Switzerlan
 KHNGY,Kuehne & Nagel International Ag Schindellegi Unsponsored ADR (Switzerland),U
 KHNRF,Keihan Electric Railway Co Ltd Ordinary Shares (Japan),U
 KHOLY,Koc Holdings AS Unsponsored ADR (Turkey),U
-KHOTF,KAHOOT AS SHS (Norway),U
+KHOTF,Kahoot! ASA Ordinary Shares,U
 KHRIF,Cypherpunk Hldgs Inc Common Shares,U
 KHRNF,Khiron Life Sciences Corp Common Stock,U
 KHRWF,Khiron Life Sciences Corp Warrant Exp 11/26/2025,U
@@ -3594,7 +3595,9 @@ LDDAF,Lida Resources Inc. Common Stock (Canada),U
 LDDFF,LIBERTY DEFENSE HOLDINGS LTD Common Shares,U
 LDEM,iShares Trust iShares ESG MSCI EM Leaders ETF,NASDAQ
 LDGYY,Landis Gyr Group AG - Unsponsored ADR (Switzerland),U
+LDHA,LDH Growth Corp I Class A Ordinary Shares,NASDAQ
 LDHAU,LDH Growth Corp I Units,NASDAQ
+LDHAW,LDH Growth Corp I Warrant,NASDAQ
 LDHOF,"Land and House Public Co., Ltd. LH Shares Foreign Registered (Thailand)",U
 LDHUF,Land and House Public Co Ltd NVDR Shares (Thailand),U
 LDI,"loanDepot, Inc.",NYSE
@@ -3691,8 +3694,8 @@ LFPI,Lifepoint Inc Common Stock,U
 LFSYF,Lifestyle International Holdings Limited Ordinary Shares (Hong Kong),U
 LFSYY,Lifestyle International Holdings Limited Unsponsored ADR (Cayman Islands),U
 LFT,"Lument Finance Trust, Inc.",NYSE
+LFT PRA,"Lument Finance Trust, Inc. 7.875% Series A Cumulative Redeemable Preferred Stock",NYSE
 LFTPF,LEFT FIELD PRTG GROUP LTD SHS (Bermuda),U
-LFTPP,LUMENT FIN TR INC RED PFD SER A,U
 LFTR,Lefteris Acquisition Corp. Class A Common Stock,NASDAQ
 LFTRU,Lefteris Acquisition Corp. Unit,NASDAQ
 LFTRW,Lefteris Acquisition Corp. Warrant,NASDAQ
@@ -3751,7 +3754,9 @@ LGTHF,Cimic Group LTD Ordinary Shares,U
 LGTS,Lightspace Corporation Common Stock,U
 LGTT,"LIGATT Security International, Inc. Common Stock",U
 LGUPF,LG Uplus Corp Ordinary Shares (South Korea),U
+LGV,Longview Acquisition Corp. II,NYSE
 LGV U,"Longview Acquisition Corp. II Units, each consisting of one share of Class A Common Stock and one-fi",NYSE
+LGV WS,"Longview Acquisition Corp. II Redeemable Warrants, each whole Warrant exercisable for one share of C",NYSE
 LGVN,Longeveron Inc. Class A Common Stock,NASDAQ
 LGYRF,Landis & Gyr Group AG Namen AKT (Switzerland),U
 LGYV,LEGACY VENTURES INTL INC Common Stock,U
@@ -4181,7 +4186,9 @@ LVNSF,"Leonovus, Inc. Common Shares",U
 LVOL,American Century Low Volatility ETF,ARCA
 LVPA,Lvpai Group Limited Common Stock,U
 LVPR,LIGHTSTONE VALUE PLUS REAL ESTATE INVT TR II INC Common Stock,U
+LVRA,Levere Holdings Corp. Class A Ordinary Shares,NASDAQ
 LVRAU,Levere Holdings Corp. Unit,NASDAQ
+LVRAW,Levere Holdings Corp. Warrant,NASDAQ
 LVRLF,CordovaCann Corp. Common Shares,U
 LVRP,Liverpool Group Inc Common Stock,U
 LVS,Las Vegas Sands Corp.,NYSE
@@ -5487,6 +5494,3 @@ MTB,M&T Bank Corp.,NYSE
 MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
-MTC,"MMTec, Inc. Common Shares",NASDAQ
-MTCH,"Match Group, Inc. Common Stock",NASDAQ
-MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE

@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
@@ -47,6 +49,7 @@ SHPNF,Shoal Point Energy Ltd. Common Shares,U
 SHPOF,Shin Poong Pharmaceutical Co Ltd. Ordinary Shares (South Korea),U
 SHPPF,SHOP APOTHEKE EUROPE NV Ordinary Shares,U
 SHPPY,Sophos Group PLC American Depositary Receipts - Unsponsored (United Kingdom),U
+SHQAU,Shelter Acquisition Corporation I Units,NASDAQ
 SHRG,Sharing Services Global Corp. Common Stock,U
 SHRMF,Braxia Scientific Corp.  Common Shares,U
 SHRRF,S HOTELS & RESORTS PUB CO LTD LOCAL SHARES (Thailand),U
@@ -3157,7 +3160,6 @@ UBA,Urstadt Biddle Properties Inc. Class A,NYSE
 UBAAF,Urbana Corp Common Stock Class A Non-Voting,U
 UBAB,"United Bancorporation of Alabama, Inc. Class A Common Stock",U
 UBANF,UBS ETF CH ANTEILE USD A DIS Exchange Traded Fund,U
-UBAXF,UBS ETFs PLC Accum Part Shares Class A ETF (Ireland),U
 UBAZF,Uzabase Inc Common Shares   Japan (JP),U
 UBBSF,UBS ETFS Plc Accum Part Shs Cl A Exchange Traded Fund USD (Ireland),U
 UBCHF,UBS ETF CH Shares Holdings (Switzerland),U
@@ -4352,7 +4354,9 @@ WAKE,"Wake Forest Bancshares, Inc. Common Stock",U
 WAKHF,Wai Kee Holdings Ltd SHS,U
 WAL,Western Alliance Bancorporation,NYSE
 WALA,Western Alliance Bancorporation,NYSE
+WALD,Waldencast Acquisition Corp. Class A Ordinary Share,NASDAQ
 WALDU,Waldencast Acquisition Corp. Units,NASDAQ
+WALDW,Waldencast Acquisition Corp. Warrant,NASDAQ
 WALRF,MEGAWATT LITHIUM & BATTERY METALS CORP Common Shares,U
 WANHY,Seven West Media Ltd.  Unsponsored ADR (Australia),U
 WANSF,Wandisco Plc Ordinary Shares (Jersey),U
@@ -5489,4 +5493,4 @@ ZYXI,"Zynex, Inc. Common Stock",NASDAQ
 ZZHGF,Zhongan Online PC Ins Co Ltd. Ordinary Shares (China),U
 ZZHGY,"ZhongAn Online P & C Insurance Co., Ltd American Depositary Receipts - Unsponsored (China)",U
 ZZLL,"ZZLL Information Technology, Inc. Common Stock",U
-ZZZOF,"Zinc One Resources, Inc. Common Shares",U
+ZZZOD,"Zinc One Resources, Inc. Common Shares",U

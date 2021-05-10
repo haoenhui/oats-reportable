@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTC,"MMTec, Inc. Common Shares",NASDAQ
+MTCH,"Match Group, Inc. Common Stock",NASDAQ
+MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
@@ -2944,6 +2947,7 @@ PPR,VOYA PRIME RATE TRUST,NYSE
 PPRG,"Patient Portal Technologies, Inc. New  Common Stock",U
 PPRQF,Choice Pptys Real Estate Invt Tr TR Unit (Canada),U
 PPRRF,Prontoforms Corp Ordinary Shares (Canada),U
+PPRTF,PEIPORT HLDGS LTD HKD SHS (Cayman Islands),U
 PPRUF,Kering SA Ordinary Shares (France),U
 PPRUY,Kering Unsponsored ADR (France),U
 PPRW,"Premier Power Renewable Energy, Inc. Common Stock",U
@@ -3957,7 +3961,6 @@ RDGMF,RIDGELINE MINERALS CORP Common Shares (Canada),U
 RDHL,Redhill Biopharma Ltd. American Depositary Shares,NASDAQ
 RDI,Reading International Inc Class A Common Stock,NASDAQ
 RDIB,Reading International Inc Class B Common Stock,NASDAQ
-RDIRF,Rdi Reit PLC Ordinary Shares (United Kingdom),U
 RDIV,Invesco S&P Ultra Dividend Revenue ETF,ARCA
 RDLCF,Redline Communications Group Inc. Ordinary Shares (Canada),U
 RDLSF,Relx NV  Ordinary Shares,U
@@ -4069,7 +4072,9 @@ RETL,Direxion Daily Retail Bull 3X Shares,ARCA
 RETO,"ReTo Eco-Solutions, Inc. Common Shares",NASDAQ
 REV,"Revlon, Inc.",NYSE
 REVG,"REV Group, Inc.",NYSE
+REVH,Revolution Healthcare Acquisition Corp. SAIL Class A Common Stock,NASDAQ
 REVHU,Revolution Healthcare Acquisition Corp. SAIL Units,NASDAQ
+REVHW,Revolution Healthcare Acquisition Corp. SAIL Warrant.,NASDAQ
 REVNF,Reinet Investment SCA Ordinary Shares (Luxembourg),U
 REVS,Columbia Research Enhanced Value ETF,ARCA
 REVSF,Riverstone Holdings Ltd. Ordinary Shares (Singapore),U
@@ -4411,6 +4416,7 @@ RNWHF,Renew Holdings PLC Ordinary Shares (United Kingdom),U
 RNWK,"RealNetworks, Inc. Common Stock",NASDAQ
 RNWR,808 Renewable Energy Corp. Common,U
 ROAD,"Construction Partners, Inc. Class A Common Stock",NASDAQ
+ROAG,"Rogue One, Inc. Common Stock",U
 ROAM,Hartford Multifactor Emerging Markets ETF,ARCA
 ROAOF,LGX Oil   Gas Inc. Ordinary Shares,U
 ROBK,ROTATE BLACK INC Common Stock,U
@@ -5488,5 +5494,3 @@ SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
-SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
