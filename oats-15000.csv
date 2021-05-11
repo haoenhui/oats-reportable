@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTC,"MMTec, Inc. Common Shares",NASDAQ
-MTCH,"Match Group, Inc. Common Stock",NASDAQ
-MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
@@ -1252,6 +1249,7 @@ NWEGF,Norwegian Finans Holding ASA Ordinary Shares (Norway),U
 NWFAF,New Focus Auto Tech Holdings Ltd HK Shares (Cayman Islands),U
 NWFL,Norwood Financial Corp. Common Stock,NASDAQ
 NWG,"NatWest Group plc American Depositary Shares, (Each representing 2 ordinary shares)",NYSE
+NWGAF,Norwegian Air Shuttle Asa Rights   05/21/2021,U
 NWGC,New World Gold Corporation Common Stock,U
 NWGIW,ELYS GAME TECHNOLOGY CORP Warrant 08/15/2025 Warrant,U
 NWGN,"NewGen Technologies, Inc. Common Stock",U
@@ -1874,6 +1872,7 @@ OSW,OneSpaWorld Holdings Limited Common Shares,NASDAQ
 OSWWF,OneSpaWorld Holdings Ltd Warrants Expiring 03/19/2024 (Bahamas),U
 OTCKU,Otter Creek Ethanol LLC Cap Unit Class A,U
 OTCM,OTC Markets Group Inc. Common Stock Class A,U
+OTECU,OceanTech Acquisitions I Corp. Units,NASDAQ
 OTED,"Oak Tree Educational Partners, Inc. Common Stock",U
 OTEX,Open Text Corporation Common Shares,NASDAQ
 OTFT,Outfront Companies Common Stock,U
@@ -2382,6 +2381,7 @@ PFIE,"Profire Energy, Inc. Common Stock",NASDAQ
 PFIG,Invesco Fundamental Investment Grade Corporate Bond ETF,ARCA
 PFIN,"P & F Industries, Inc. Class A Common Stock",NASDAQ
 PFIS,Peoples Financial Services Corp. Common Stock,NASDAQ
+PFIX,Simplify Interest Rate Hedge ETF,ARCA
 PFL,PIMCO Income Strategy  Fund,NYSE
 PFLC,Pacific Financial Corporation (WA) Common Stock,U
 PFLD,AAM Low Duration Preferred and Income Securities ETF,ARCA
@@ -2557,6 +2557,7 @@ PID,Invesco Exchange-Traded Fund Trust Invesco International Dividend Achievers 
 PIE,Invesco Exchange-Traded Fund Trust II Invesco DWA Emerging Markets Momentum ETF,NASDAQ
 PIEJF,ROTHSCHILD & CO SCA Ordinary Shares,U
 PIFFY,PT Indofood CBP Sukses Makmur TBK Unsponsored ADR (Indonesia),U
+PIFI,ClearShares Piton Intermediate Fixed Income ETF,ARCA
 PIFLF,Premier Farnell Pfd Ord Ordinary Shares,U
 PIFMF,PT Indofood Sukses Makmur TBK Ordinary Shares,U
 PIFMY,PT Indofood Sukses Makmur TBK Unsponsored ADR (Indonesia),U
@@ -2849,6 +2850,7 @@ PNWDF,PNE WIND AG Ordinary Shares (Germany),U
 PNWRF,Valeura Energy Inc. Common Shares (Canada),U
 PNXGF,Phoenix Group Hldgs Plc Ordinary Shares GBP0.10 (United Kingdom),U
 PNXLF,Argentina Lithium & Energy Corp Common Shares,U
+PNXMF,PNX METALS LTD Ordinary Shares,U
 PNXPF,Planet Ventures Inc Common Shares,U
 PNYTF,Poynt Corp. Ordinary Shares (Canada),U
 POAHF,Porsche Automobil Holding SE Stuttgart Pref No VTG RTS,U
@@ -3025,7 +3027,7 @@ PRIF PRD,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 202
 PRIF PRE,"Priority Income Fund, Inc. 6.375% Series E Preferred Stock Due 2024",NYSE
 PRIF PRF,"Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027",NYSE
 PRIF PRG,"Priority Income Fund, Inc. 6.25% Series G Preferred Stock Due 2026",NYSE
-PRIFH,PRIORITY INCOME FD INC TERM PFD SER H Preferred Stock,U
+PRIF PRH,"Priority Income Fund, Inc. 6.00% Series H Term Preferred Stock due 2026",NYSE
 PRIM,Primoris Services Corporation Common Stock,NASDAQ
 PRISY,Promotora De Informaciones SA American Depositary Receipts - Sponsored,U
 PRK,Park National Corporation,AMEX
@@ -4143,6 +4145,7 @@ RGGI,Resgreen Group International Inc Common Stock,U
 RGGLF,Regional Reit Ltd Ordinary Shares (Guernsey),U
 RGI,Invesco S&P 500 Equal Weight Industrials ETF,ARCA
 RGIN,"Regenicin, Inc. Common Stock",U
+RGKSF,RINGERIKES SPAREBANK PRIMARY CAP CERT Ordinary Shares,U
 RGLD,"Royal Gold, Inc. Common Stock",NASDAQ
 RGLG,"UHF Logistics Group, Inc. Common Stock",U
 RGLS,Regulus Therapeutics Inc. Common Stock,NASDAQ
@@ -5341,6 +5344,7 @@ SFUN,Fang Holdings Limited American Depositary Shares (each representing ten Cla
 SFWJ,Software Effective Solutions Corp. Common Stock,U
 SFY,SoFi Select 500 ETF,ARCA
 SFYF,SoFi Social 50 ETF,ARCA
+SFYLF,Safestyle UK PLC Ordinary Shares (Jersey),U
 SFYX,SoFi Next 500 ETF,ARCA
 SGA,"Saga Communications, Inc. Class A Common Stock (FL)",NASDAQ
 SGACF,SSGA SPDR ETFS EUROPE I PLC ACCUM SHS EXCHANGE TRADED FUND USD Ireland(IE ),U
@@ -5493,4 +5497,3 @@ SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
-SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ

@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GVSI,Good Vibrations Shoes Inc. Common Stock,U
+GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
+GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
 GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
@@ -684,7 +687,7 @@ HOMB,"Home BancShares, Inc. Common Stock",NASDAQ
 HOME,At Home Group Inc.,NYSE
 HOMU,HOUMU HLDGS LTD Common Stock,U
 HOMZ,Hoya Capital Housing ETF,ARCA
-HON,"Honeywell International, Inc.",NYSE
+HON,Honeywell International Inc. Common Stock,NASDAQ
 HONE,"HarborOne Bancorp, Inc. Common Stock",NASDAQ
 HONT,"Honat Bancorp, Inc. Common Stock",U
 HOOB,"Holobeam, Inc. Common Stock",U
@@ -1556,7 +1559,6 @@ IKTO,"iTokk, Inc. Common Stock",U
 IKTSF,Intertek Group Plc Ordinary Shares (UK),U
 IKTSY,Intertek Group Plc Unsponsored ADR (UK),U
 ILAL,"International Land Alliance, Inc. Common Stock",U
-ILATF,VOXTUR ANALYTICS CORP Common Shares,U
 ILCB,iShares Morningstar U.S. Equity ETF,ARCA
 ILCC,International Leaders Capital Corporation Common Stock,U
 ILCG,iShares Morningstar Growth ETF,ARCA
@@ -1909,7 +1911,6 @@ IPPLF,Inter Pipeline Ltd (Canada),U
 IPPTF,"Impat Minerals Limited, Perth Ordinary Shares (Australia)",U
 IPRC,"Imperial Resources, Inc Common Stock",U
 IPSBF,Impulsora del Desarrollo Economico de America Latina Sa de Cv Shares -B-1- (Mexico),U
-IPSBY,Impulsora del Desarrollo Economico de America Latina Sa de Cv Sponsored ADR (Mexico) Reporting Shares Series B,U
 IPSEF,Ipsen Promesses Ordinary Shares (France),U
 IPSEY,Ipsen S.A. Sponsored ADR (France),U
 IPSI,"Innovative Payment Solutions, Inc. Common Stock",U
@@ -5206,8 +5207,8 @@ MOHCF,MOTOR OIL HELLAS CORINTH REFINERIES SA REG SHS (Greece),U
 MOHCY,Motor Oil Hellas Corinth Refineries SA Unsponsored ADR (Greece),U
 MOHO,ECMOHO Limited American Depositary Shares,NASDAQ
 MOIFF,MOBEUS INCOME & GROWTH 4 VCT PLC Ordinary Shares  United Kingdom(GB ),U
-MOJGF,Benjamin Hill Mining Corp. Common Shares,U
 MOJO,"Mojo Organics, Inc.  Common Stock",U
+MOLFF,MOL MAGYAR OLAJ ES GAZIPARI NYILVANOSAN MUKODO RESZVENYTARSASAG Ordinary Shares (Hungary),U
 MOMO,Momo Inc. American Depositary Shares,NASDAQ
 MOMT,"MoneyOnMobile, Inc Common Stock",U
 MON,Monument Circle Acquisition Corp. Class A Common Stock,NASDAQ
@@ -5453,7 +5454,6 @@ MSMGF,Grid Metals Corp.  Ordinary Shares,U
 MSMKF,"Matsumotokiyoshi Holdings Co. Ltd., Matsudo Ordinary Shares (Japan)",U
 MSMY,"MC Endeavors, Inc. Common Stock",U
 MSN,Emerson Radio Corp.,AMEX
-MSNFY,Minera Frisco S A B DE C V SPONSORED ADR REPSTG SER A-1 SHS LEVEL 1 (Mexico),U
 MSNI,"Mon Space Net, Inc. Common Stock",U
 MSNVF,Mission Ready Solutions Inc Ordinary Shares,U
 MSON,"MISONIX, Inc. Common Stock (DE)",NASDAQ
@@ -5494,3 +5494,6 @@ MTB,M&T Bank Corp.,NYSE
 MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
+MTC,"MMTec, Inc. Common Shares",NASDAQ
+MTCH,"Match Group, Inc. Common Stock",NASDAQ
+MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE

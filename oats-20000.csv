@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
@@ -390,7 +391,6 @@ SLVP,iShares MSCI Global Silver and Metals Miners ETF,BATS
 SLVRF,Silver One Resources Inc. Ordinary Shares (Canada),U
 SLVTF,SILVER TIGER METALS INC Ordinary Shares,U
 SLX,VanEck Vectors Steel ETF,ARCA
-SLXSF,Ste Financiere Luxembourgeoise Socfinal Luxembourg Ordinary Shares (Luxembourg),U
 SLXXF,Fintech Select Ltd Common Shares,U
 SLY,SPDR S&P 600 Small Cap ETF (based on S&P SmallCap 600 Index--symbol SML),ARCA
 SLYG,SPDR S&P 600 Small Cap Growth ETF (based on S&P SmallCap 600 Growth Index--symbol: CKG),ARCA
@@ -510,6 +510,7 @@ SMSOF,"Samsonite International SA, Luxembourg Ordinary Shares (Luxembourg)",U
 SMSSY,SMS CO Ltd. American Depositary Receipts - Unsponsored,U
 SMSZF,"SMS CO LTD, TOKYO SHS (Japan)",U
 SMTC,Semtech Corporation Common Stock,NASDAQ
+SMTEF,Smart Eye Aktiebolag Share AK (Sweden),U
 SMTGF,"SMA Solar Technology Ag, Niestetal Ordinary shares (Germany)",U
 SMTGY,SMA Solar Technology AG Unsponsored ADR (Germany),U
 SMTI,Sanara MedTech Inc. Common Stock,NASDAQ
@@ -526,6 +527,7 @@ SMVE,"Smart Move, Inc. Common Stock",U
 SMVI,Social Media Ventures Inc Common Stock,U
 SMVR,"Smart  Ventures, Inc Common Stock",U
 SMVS,Smave Solutions Inc Common Stock,U
+SMWB,Similarweb Ltd.,NYSE
 SMWFF,SSGA SPDR ETFS EUROPE II PLC SPDR MSCI WORLD ENERGY UCITS ETF SPDR MSCI WORLD ENERGY (UCITS ETF) Exchange Traded Fund,U
 SMWPY,SMITHS NEWS PLC NEW American Depositary Receipts - Unsponsored,U
 SMWZF,Sm Wirtschaftsberatungs Ag Stuttgart Sm Wirtschaftsber.na.o.n Ordinary Shares (Germany),U
@@ -1259,7 +1261,7 @@ STFC,State Auto Financial Corporation Common Stock,NASDAQ
 STFR,STEADFAST APT REIT INC Common Stock,U
 STFYF,Standard Foods Taiwan Ltd Reg S GDR,U
 STG,"Sunlands Technology Group, American Depositary Shares,  each 25 representing one Class A Ordinary Sh",NYSE
-STGAF,Sterling Energy PLC Ordinary Shares (United Kingdom),U
+STGAF,AFENTRA PLC Ordinary Shares,U
 STGC,STARTENGINE CROWDFUNDING INC Common Stock,U
 STGGQ,"STG Group, Inc. Common Stock",U
 STGPF,Scentre Group STAPLED SECURITY Australia (AU ),U
@@ -1621,6 +1623,7 @@ SXMVF,VIOR INC Ordinary Shares,U
 SXNTF,Sixty North Gold Mining Ltd. Ordinary Shares (Canada),U
 SXOOF,St Georges Eco Mng Corp Common Shares,U
 SXPHF,Shandong Xinhua Pharmaceutical Co Ltd Ordinary Shares (China),U
+SXQG,6 Meridian Quality Growth ETF,ARCA
 SXRIU,Sioux River Ethanol LLC Cap Unit Class A,U
 SXRRU,Sioux River Ethanol LLC Cap Unit Class B,U
 SXT,Sensient Technology Corporation,NYSE
@@ -1908,7 +1911,6 @@ TCVA,TCV Acquisition Corp. Class A Ordinary Shares,NASDAQ
 TCX,Tucows Inc. Class A Common Stock,NASDAQ
 TCYBY,TietoEvry Corp American Depositary Receipts - Unsponsored,U
 TCYMF,Tingyi Cayman Islands Hldgs Cp Ordinary Shares,U
-TCYMY,Tingyi Cayman Islands Hldgs Cp Sponsored ADR (Cayman Islands),U
 TCYSF,Tecsys Inc Ordinary Shares,U
 TD,Toronto Dominion Bank,NYSE
 TDA,"TELEPHONE AND DATA SYSTEMS, INC. 5.875% Senior Notes due 2061",NYSE
@@ -2929,7 +2931,6 @@ TTDKF,TDK Corp Ordinary Shares (Japan),U
 TTDKY,TDK Corporation Common Stock,U
 TTEC,"TTEC Holdings, Inc. Common Stock",NASDAQ
 TTEK,"Tetra Tech, Inc. Common Stock",NASDAQ
-TTEN,"Titan Energy, LLC Common Stock Repstg Ltd Liability Co Int",U
 TTEXF,Bullion Gold Resources Corp. Common Shares,U
 TTEZ,3AM TECHNOLOGIES INC Common Stock,U
 TTFNF,Total SA Ordinary Shares (France),U
@@ -3106,6 +3107,7 @@ TY PR,Tri-Continental Corporation $2.50 Cumulative Preferred,NYSE
 TYBT,"Trinity Bank, N.A. (TX) Common Stock",U
 TYCB,"Taylor Calvin B Bankshares, Inc. (Maryland) Common Stock",U
 TYCLF,TOKYU CONSTR CO LTD Ordinary Shares (Japan),U
+TYCMY,TINGYI CAYMAN ISLANDS HLDG CORP American Depositary Receipts - Unsponsored (Cayman Island),U
 TYCOF,TOYO CONSTRUCTION CO LTD Ordinary Shares Japan(JP ),U
 TYD,Direxion Daily 7-10 Year Treasury Bull 3X Shares (based on the NYSE 7-10 Year Treasury Bond Index; s,ARCA
 TYEKF,Thyssen Krupp Ag Dusesseldorf Ordinary Shares,U
@@ -4315,6 +4317,7 @@ VXF,Vanguard Extended Market ETF,ARCA
 VXIT,"VirExit Technologies, Inc. Common Stock",U
 VXLLF,Vaxil Bio Ltd Ordinary Shares (Canada),U
 VXRT,"Vaxart, Inc Common Stock",NASDAQ
+VXTRF,VOXTUR ANALYTICS CORP Common Shares,U
 VXUS,Vanguard STAR Funds Vanguard Total International Stock ETF,NASDAQ
 VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,BATS
 VXZ,iPath Series B S&P 500 VIX Mid-Term Futures ETN,BATS
@@ -4575,7 +4578,6 @@ WILC,"G. Willi-Food International,  Ltd. Ordinary Shares",NASDAQ
 WILLF,Demant AS Ordinary Shares,U
 WILWY,Wallenius Wilhelmsen ASA American Depositary Receipts - Unsponsored,U
 WILYY,Demant A/S American Depositary Receipts - Unsponsored,U
-WIMHY,William Hill Plc Unsponsored ADR (UK),U
 WIMI,WiMi Hologram Cloud Inc. American Depositary Share,NASDAQ
 WINA,Winmark Corporation Common Stock,NASDAQ
 WINC,Legg Mason ETF Investment Trust Western Asset Short Duration Income ETF,NASDAQ
@@ -4614,6 +4616,7 @@ WKGFF,Westkam Gold Corp. Common Shares,U
 WKHS,"Workhorse Group, Inc. Common Stock",NASDAQ
 WKISF,Workman Co Ltd Isezaki City Gunma Prefecture Ordinary Shares (Japan),U
 WKLN,"Walker Lane Exploration, Inc. Common Stock",U
+WKLY,SoFi Weekly Dividend ETF,ARCA
 WKPPF,Workspace Group Plc Ordinary Shares (United Kingdom),U
 WKPYF,PT Waskita Karya Persero Tbk Pt Shs Series B (Indonesia),U
 WKRCF,Wacker Neuson SE Namen-Akt (Germany),U
@@ -4747,6 +4750,7 @@ WPHM,"Winston Pharmaceuticals, Inc. Common Stock",U
 WPKS,"World Poker Store, Inc. (The) Common Stock",U
 WPM,Wheaton Precious Metals Corp. Common Stock,NYSE
 WPMLF,Western Pacific Minerals Ltd Common Shares (Canada),U
+WPNDF,Wishpond Technologies Ltd. Common Shares (Canada),U
 WPNNF,FIRST RESPONDER TECHNOLOGIES INC Common Shares  Canada(CA ),U
 WPNTF,WARPAINT LONDON PLC Common Shares  United Kingdom(GB ),U
 WPP,WPP PLC,NYSE
@@ -4808,7 +4812,6 @@ WSFS,WSFS Financial Corporation Common Stock,NASDAQ
 WSFT,Wikisoft Corp. Common Stock,U
 WSGF,"World Series of Golf, Inc. Common Stock",U
 WSHE,GreenLink International Inc. Common Stock,U
-WSHPF,Wishpond Technologies Ltd. Common Shares (Canada),U
 WSIOF,Wasion Holdings Ltd Ordinary Shares (Cayman Islands),U
 WSKEF,Wisekey International Holdings Ltd. Ordinary Shares (Switzerland),U
 WSM,"Williams-Sonoma, Inc.",NYSE

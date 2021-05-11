@@ -284,7 +284,7 @@ CRZY,Crazy Woman Creek Bancorp Incorporated Common Stock,U
 CS,Credit Suisse Group,NYSE
 CSA,VictoryShares US Small Cap Volatility Wtd ETF,NASDAQ
 CSAIF,COSAN S A INDUSTRIA E COMERCIO Ordinary Shares,U
-CSAN,Cosan S.A. American Depositary Shares (each representing one Common Share),NYSE
+CSAN,Cosan S.A. American Depositary Shares (each representing four Common Shares),NYSE
 CSASF,Credit Saison Co Ltd Ordinary Shares (Japan),U
 CSASY,Credit Saison Co Ltd Unsponsored ADR (Japan),U
 CSAY,China SheSays Medical Cosmetology Inc.  Common Stock,U
@@ -1549,6 +1549,7 @@ DTCGF,Dometic Group AB Ordinary Shares (Sweden),U
 DTCO,"Direct Coating, Inc. Common Stock",U
 DTCWY,Deutsche Wohnen SE American Depositary Receipts - Unsponsored,U
 DTD,WisdomTree U.S. Total Dividend Fund,ARCA
+DTDJF,DELTA DJAKARTA TBK PT Ordinary Shares,U
 DTE,DTE Energy Company,NYSE
 DTEA,DAVIDsTEA Inc. Common Stock,NASDAQ
 DTEC,ALPS Disruptive Technologies ETF,ARCA
@@ -1764,7 +1765,9 @@ EAWC,Ecco Auto World Corporation Common Stock,U
 EAWD,ENERGY & WTR DEV CORP Common Stock,U
 EAXR,EALIXIR INC Common Stock,U
 EB,"Eventbrite, Inc. Class A Common Stock",NYSE
+EBAC,European Biotech Acquisition Corp. Class A Ordinary Shares,NASDAQ
 EBACU,European Biotech Acquisition Corp. Units,NASDAQ
+EBACW,European Biotech Acquisition Corp. Warrant,NASDAQ
 EBAY,eBay Inc. Common Stock,NASDAQ
 EBBGF,Enbridge Inc Cum Redeemable Pref Shares Series 1 (Canada),U
 EBBNF,Enbridge Inc Cum Redeemable Pref Shs Ser L (Canada),U
@@ -2417,8 +2420,8 @@ EPAZ,"EPAZZ, Inc. Common Stock",U
 EPC,Edgewell Personal Care Company,NYSE
 EPCFF,Empiric Student Property PLC Ordinary Shares (United Kingdom),U
 EPD,Enterprise Products Partners L.P.,NYSE
-EPEC,EP ENERGY CORP CL A NEW,U
 EPEO,E'Prime Aerospace Corporation New Common Stock,U
+EPGAF,EPIGENOMICS AG Rights   05/17/2021,U
 EPGC,ECom Products Group Common Stock,U
 EPGG,Empire Global Gaming Inc Common Stock,U
 EPGNF,EPIGENOMICS AG Ordinary Shares,U
@@ -2542,7 +2545,6 @@ ERM,EquityCompass Risk Manager ETF,ARCA
 ERMAF,Eramet SA Ordinary Shares (France),U
 ERMAY,Eramet SA Unsponsored ADR (France),U
 ERMG,ERecord Management Inc (NV) Common Stock,U
-ERNXF,Euronext NV EURONEXT PSR 0904 Rights  05/10/2021,U
 ERNXY,Euronext NV American Depositary Receipts - Unsponsored (Netherlands),U
 EROFF,Eurofins Scientific SA SE JCE 01012021 (Luxembourg),U
 EROTF,Barclays Bk PLC iPath EUR/USD Exchange Rate ETN due 05/14/2037 (United Kingdom),U
@@ -3481,6 +3483,7 @@ FLFF,"Flagstaff Holdings, Inc. Common",U
 FLFG,"Federal Life Group, Inc. Common Stock",U
 FLFR,Franklin FTSE France ETF,ARCA
 FLGB,Franklin FTSE United Kingdom ETF,ARCA
+FLGC,Flora Growth Corp. Common Stock,NASDAQ
 FLGE,Credit Suisse FI Large Cap Growth Enhanced Exchange Traded Notes,ARCA
 FLGMF,Flagship Communities Real Estate Investment Trust Unit (Canada),U
 FLGR,Franklin FTSE Germany ETF,ARCA
@@ -4642,7 +4645,9 @@ GGLDF,Getchell Gold Corporation Common Shares (Canada),U
 GGLT,"Giant Group, Ltd. Common Stock",U
 GGLXF,GGL Resources Corporation Ordinary Shares,U
 GGM,GUGGENHEIM CREDIT ALLOCATION FUND,NYSE
+GGMC,Glenfarne Merger Corp. Class A Common Stock,NASDAQ
 GGMCU,Glenfarne Merger Corp. Unit,NASDAQ
+GGMCW,Glenfarne Merger Corp. Warrant,NASDAQ
 GGN,"GAMCO Global Gold, Natural Resources & Income Trust",AMEX
 GGN PRB,GAMCO Global Gold Natural Resources & Income Trust 5.00% Series B,AMEX
 GGNDF,GN Great Nordic Ltd Ordinary Shares,U
@@ -5048,6 +5053,7 @@ GOAU,US Global GO Gold and Precious Metal Miners ETF,ARCA
 GOCH,"Geeks On Call Holdings, Inc. Common Stock",U
 GOCO,"GoHealth, Inc. Class A Common Stock",NASDAQ
 GOCOF,Go Metals Corp Common Shares,U
+GODWF,GREEN ORGANIC DUTCHMAN HLDGS LTD WT EXP 06/12/2024 (Canada),U
 GODYF,"Deer Horn Capital, Inc. Ordinary Shares",U
 GODZF,GOLDHILLS HLDG LTD Ordinary Shares,U
 GOED,1847 Goedeker Inc.,AMEX
@@ -5491,6 +5497,3 @@ GVIP,Goldman Sachs Hedge Industry VIP ETF,ARCA
 GVLMF,Greenvale Mining N L  Ord Ordinary Shares,U
 GVLMY,Greenvale Mining Limited American Depositary Receipts - Unsponsored,U
 GVP,"GSE Systems, Inc. Common Stock",NASDAQ
-GVSI,Good Vibrations Shoes Inc. Common Stock,U
-GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
-GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
