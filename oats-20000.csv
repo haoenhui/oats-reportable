@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
@@ -282,6 +281,7 @@ SKWG,Skywealth Group Inc. Common Stock,U
 SKX,"Skechers U.S.A., Inc.",NYSE
 SKXJF,Sankyo Co Ltd Gunma Ordinary Shares (Japan),U
 SKY,Skyline Champion Corporation Common Stock,NYSE
+SKYAU,Skydeck Acquisition Corp. Units,NASDAQ
 SKYE,"Skye Bioscience, Inc. Common Stock",U
 SKYF,SKY440 Inc Common Stock,U
 SKYI,"Sky Century Investment, Inc. Common Stock",U
@@ -652,6 +652,7 @@ SNSKF,Sanko Sangyo Co Ltd Ordinary Shares (Japan),U
 SNSR,Global X Funds Global X Internet of Things ETF,NASDAQ
 SNST,"Sunset Capital Assets, Inc. Common Stock",U
 SNTE,Sante Technology Holdings Inc. Common Stock,U
+SNTHP,SUNSTONE HOTEL INVS INC NEW PFD RED SER H % Preference Shares,U
 SNTNF,Santana Minerals Ltd Ordinary Shares (Australia),U
 SNTW,SUMMIT NETWORKS INC  Common Stock,U
 SNTX,"Suntex Enterprises, Inc. Common Stock",U
@@ -790,6 +791,7 @@ SPASY,SATS Ltd Unsponsored ADR (Singapore),U
 SPAZF,Spanish Mountain Gold Ltd. Common Shares (Canada),U
 SPB,"Spectrum Brands Holdings, Inc.",NYSE
 SPBBF,Speakeasy Cannabis Club Ltd Ordinary Shares (Canada),U
+SPBGF,SSGA SPDR ETFS EUROPE I PLC SHS EXCHANGE TRADED FUND USD Exchange Traded Fund,U
 SPBO,SPDR Portfolio Corporate Bond ETF,ARCA
 SPBV,"Sports Pouch Beverage Company, Inc. Common Stock",U
 SPCB,"SuperCom, Ltd. Ordinary Shares (Israel)",NASDAQ
@@ -849,6 +851,7 @@ SPIDY,Septeni Holdings Co Ltd Tokyo Unsponsored ADR (Japan),U
 SPIN,"Spine Injury Solutions, Inc. Common Stock",U
 SPIP,SPDR Portfolio TIPS ETF,ARCA
 SPIZF,Sparebanken Vest AS Primary Cap Cert (Norway),U
+SPKAU,SPK Acquisition Corp Unit,NASDAQ
 SPKB,Silver Spike Acquisition Corp II Class A Ordinary Shares,NASDAQ
 SPKBU,Silver Spike Acquisition Corp II Units,NASDAQ
 SPKBW,Silver Spike Acquisition Corp II Warrant,NASDAQ
@@ -1926,7 +1929,6 @@ TDCAF,TDC A/S Ordinary Shares,U
 TDCB,Third Century Bancorp Common Stock,U
 TDCH,"30DC, Inc. Common Stock",U
 TDDWW,Tidewater Inc Wt Expires 07/31/2042,U
-TDE,"TELEPHONE AND DATA SYSTEMS, INC. 6.875% SER NTS DUE 2059",NYSE
 TDF,Templeton Dragon Fund,NYSE
 TDG,TransDigm Group Incorporated,NYSE
 TDGDF,Transportadora De Gas Del Norte Sa Tgn Shares -C- 1 Vote (Argentina),U
@@ -1936,7 +1938,6 @@ TDHOF,T&D Holdings Inc Tokyo Ordinary Shares (Japan),U
 TDHOY,T&D Holdings Inc Tokyo Unsponsored ADR (Japan),U
 TDI,"Telephone and Data Systems, Inc. 6.625% Senior Notes Due 03-31-2045",NYSE
 TDIV,First Trust Exchange-Traded Fund VI First Trust NASDAQ Technology Dividend Index Fund,NASDAQ
-TDJ,"TELEPHONE AND DATA SYSTEMS, INC. 7% Senior Notes due 2060,",NYSE
 TDLAF,TBG Diagnostics Ltd Ordinary Shares,U
 TDLDF,T.RAD CO LTD SHS (Japan),U
 TDMMF,Mach7 Technologies Ltd Ordinary Shares,U
@@ -3415,6 +3416,7 @@ UNTN,"United Tennessee Bankshares, Inc. Common Stock",U
 UNTOF,Unitronics (1989) Ltd. Ordinary Shares (Israel),U
 UNTY,"Unity Bancorp, Inc. Common Stock",NASDAQ
 UNVC,"Univec, Inc. Common Stock",U
+UNVOF,Univo Pharmaceuticals Ltd Ordinary Shares (Israel),U
 UNVR,Univar Solutions Inc.,NYSE
 UNXLQ,UNI-PIXEL INC Common Stock,U
 UNXP,UNITED EXPRESS INC Common Stock,U
@@ -3632,7 +3634,6 @@ UYG,ProShares Ultra Financials,ARCA
 UYM,ProShares Ultra Basic Materials,ARCA
 UZA,United States Cellular Corp. 6.95% Senior Notes due 2060,NYSE
 UZAPF,Flughafen Zuerich Ag Kloten Common Shares,U
-UZB,United States Cellular Corporation 7.25% Senior Notes due 2063,NYSE
 UZC,United States Cellular Corporation 7.25% Senior Notes due 2064,NYSE
 UZD,United States Cellular Corporation 6.250% Senior Notes due 2069,NYSE
 UZE,United States Cellular Corporation 5.500% Senior Notes due 2070,NYSE
@@ -5337,6 +5338,7 @@ ZEAL,Zealand Pharma A/S American Depositary Shares,NASDAQ
 ZEN,ZENDESK INC,NYSE
 ZENG,Zenergy International Inc. Common Stock,U
 ZENO,"Zenosense, Inc. (NV) Common Stock",U
+ZENV,Zenvia Inc. Class A Common Stock,NASDAQ
 ZENYF,Zen Graphene Solutions Ltd Common Shares,U
 ZEON,Zeons Corporation. Common Stock,U
 ZEOOF,Zeon Corp. Tokyo Ordinary Shares (Japan),U

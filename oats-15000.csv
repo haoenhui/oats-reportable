@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
@@ -310,7 +311,6 @@ NBIAY,Nobia AB Unsponsored ADR (Sweden),U
 NBIO,Nascent Biotech Inc. Common Stock,U
 NBIX,"Neurocrine Biosciences, Inc. Common Stock",NASDAQ
 NBKCF,NATIONAL BK CDA MONTREAL QUE 1ST PFD SHS SER 38 NVCC Preferred Stock Canada(CA ),U
-NBLX,Noble Midstream Partners LP Common Units Representing Limited Partner Interests,NASDAQ
 NBMLF,Noble Metal Group Inc Ordinary Shares,U
 NBN,Northeast Bank Common Stock,NASDAQ
 NBNKF,Nordea Bank ABP Ordinary Shares (Finland),U
@@ -1840,6 +1840,7 @@ OSGSY,Osaka Gas Co Ltd Unsponsored ADR (Japan),U
 OSH,"Oak Street Health, Inc.",NYSE
 OSHDF,OSHIDORI INTL HLDGS LTD SHS (Bermuda),U
 OSHIF,Oishi Group Public Co Ltd Foreign Shares (Thailand),U
+OSI U,"Osiris Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half o",NYSE
 OSIIF,Osino Resources Corporation (Canada),U
 OSIN,"Optimum Source International, Ltd. Common Stock",U
 OSIS,"OSI Systems, Inc. Common Stock (DE)",NASDAQ
@@ -2577,6 +2578,7 @@ PINC,"Premier, Inc. Class A Common Stock",NASDAQ
 PINE,"Alpine Income Property Trust, Inc",NYSE
 PING,Ping Identity Holding Corp.,NYSE
 PINS,"Pinterest, Inc. Class A Common Stock",NYSE
+PINVF,Pinnacle Invt Mgmt Group Ltd Common Shares (Australia),U
 PINXF,Peoples Insurance Co Group of China Ltd. Ordinary Shares (China),U
 PINXY,Peoples Insurance Company Group China Ltd Unsponsored ADR (China),U
 PIO,Invesco Exchange-Traded Fund Trust II Invesco Global Water ETF,NASDAQ
@@ -2680,7 +2682,6 @@ PLMIW,Plum Acquisition Corp. I Warrant,NASDAQ
 PLMNF,Palamina Corp Ordinary Shares (Canada),U
 PLMR,"Palomar Holdings, Inc. Common stock",NASDAQ
 PLNBF,Plan B Media Pub Co Ltd Foreign Registered Shares (Thailand),U
-PLNCF,Platinium Cap Limited PMC Ordinary Shares (Australia),U
 PLNE,"Planet Signal, Inc. Common Stock",U
 PLNHF,Planet 13 Holdings Inc Common Stock,U
 PLNT,"Planet Fitness, Inc.",NYSE
@@ -5497,3 +5498,4 @@ SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
+SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
