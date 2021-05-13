@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GVSI,Good Vibrations Shoes Inc. Common Stock,U
-GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
-GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
-GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
-GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
@@ -448,7 +443,7 @@ HISJF,H I S Co Ltd (Jpn) Ordinary Shares,U
 HISNF,Hi Sun Technology China Ltd Ordinary Shares (Bermuda),U
 HITC,Healthcare Integrated Technologies Inc. Common Stock,U
 HITD,"Houston Interweb Design, Inc. Common Stock",U
-HITIF,HIGH TIDE INC REG SHS Common Stock (Canada),U
+HITID,HIGH TIDE INC REG SHS Common Stock,U
 HITTF,High Tide Inc Warrant Exp 02/06/2023 (Canada),U
 HIUH,Hero International USA Holding Corp Common Stock,U
 HIW,Highwoods Properties Inc.,NYSE
@@ -1928,7 +1923,7 @@ IPVF WS,"InterPrivate III Financial Partners Inc. Warrants, each whole warrant e
 IPVI,InterPrivate IV InfraTech Partners Inc. Class A Common Stock,NASDAQ
 IPVIU,InterPrivate IV InfraTech Partners Inc. Units,NASDAQ
 IPVIW,InterPrivate IV InfraTech Partners Inc. Warrant,NASDAQ
-IPW,"iPower, Inc. Common Stock",NASDAQ
+IPW,iPower Inc. Common Stock,NASDAQ
 IPWG,International Power Group Ltd Common Stock,U
 IPWLG,Indianapolis Power & Light 4.60% Preferred Stock,U
 IPWLK,Indianapolis Power & Light 5.65% Preferred Stock,U
@@ -2951,6 +2946,7 @@ KDP,Keurig Dr Pepper Inc. Common Stock,NASDAQ
 KDSKF,Koninklijke DSM NV Ordinary Shares (Netherlands),U
 KE,"Kimball Electronics, Inc. Common Stock",NASDAQ
 KEFI,Keweenaw Financial Corp (Mich) Common Stock,U
+KEGS,"1812 Brewing Company, Inc. Common Stock",U
 KEGX,KEY ENERGY SVCS INC DEL Common Shares,U
 KEIHF,KEIHANSHIN BLDG CO LTD Ordinary Shares,U
 KEJI,Global X Funds Global X China Innovation ETF,NASDAQ
@@ -3638,7 +3634,9 @@ LEDS,SemiLEDS Corporation Common Stock,NASDAQ
 LEE,"Lee Enterprises, Incorporated Common Stock",NASDAQ
 LEFUF,Leons Furniture Ltd Ordinary Shares,U
 LEG,"Leggett & Platt, Inc.",NYSE
+LEGA,"Lead Edge Growth Opportunities, Ltd Class A Ordinary Shares",NASDAQ
 LEGAU,"Lead Edge Growth Opportunities, Ltd Units",NASDAQ
+LEGAW,"Lead Edge Growth Opportunities, Ltd Warrant",NASDAQ
 LEGH,Legacy Housing Corporation Common Stock (TX),NASDAQ
 LEGIF,Leg Immobilien AG Namens - Aktien ON (Germany Federal Republic),U
 LEGN,Legend Biotech Corporation American Depositary Shares,NASDAQ
@@ -4346,6 +4344,7 @@ MAOTF,Maroc Telecom Shares Itissalat Al-Maghrib (France),U
 MAPGF,Mapletree Logistics Trust Units Real Estate Investment Trust (Singapore),U
 MAPIF,"Mapletree Industrial Trust, Singapore Units Real Estate Investment Trust (Singapore)",U
 MAPL,Maple Press Co Common Stock,U
+MAPPF,PROSTAR HLDGS INC CDA Common Shares,U
 MAPT,"Maptelligent, Inc. Common Stock",U
 MAQAF,Atlas Arteria Ltd Ordinary Shares,U
 MAQCU,Maquia Capital Acquisition Corporation Unit,NASDAQ
@@ -4451,6 +4450,7 @@ MCA,"BLACKROCK MUNIYIELD CALIFORNIA QUALITY FUND, INC",NYSE
 MCAD,Mountain Crest Acquisition Corp. II Common Stock,NASDAQ
 MCADR,Mountain Crest Acquisition Corp. II Right,NASDAQ
 MCADU,Mountain Crest Acquisition Corp. II Unit,NASDAQ
+MCAEU,Mountain Crest Acquisition Corp. III Unit,NASDAQ
 MCAP,"Mango Capital, Inc. Common Stock",U
 MCARY,Mercari Inc. American Depositary Receipts - Unsponsored   (Japan),U
 MCB,"Metropolitan Bank Holding Corp. Common Stock, $0.01 par value per share",NYSE
@@ -4939,6 +4939,7 @@ MJO,MicroSectors Cannabis 2X Leveraged ETNs,ARCA
 MJPNF,Micronics Japan Co Ltd Ordinary Shares,U
 MJSCZ,Majectic Holdco LLC Unit,U
 MJTV,"Michael James Enterprises, Inc. Common Stock",U
+MJUS,ETFMG U.S. Alternative Harvest ETF,ARCA
 MJWL,Majic Wheels Corp. Common Stock,U
 MJWNF,Naked Wines PLC Ordinary Shares,U
 MJWNY,NAKED WINES PLC American Depositary Receipts - Unsponsored (United Kingdom),U
@@ -5499,3 +5500,7 @@ MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred St
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
+MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
+MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
+MTCR,"Metacrine, Inc. Common Stock",NASDAQ
+MTD,Mettler-Toledo International,NYSE

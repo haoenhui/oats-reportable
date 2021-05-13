@@ -108,7 +108,6 @@ ABFRF,Aberforth Smaller Companies Trust PLC Ordinary Shares (United Kingdom),U
 ABFXF,ABF Pan Asia Bond Index Fund Units (Singapore),U
 ABG,"Asbury Automotive Group, Inc.",NYSE
 ABGI,ABG Acquisition Corp. I Class A Ordinary Shares,NASDAQ
-ABGLF,ACACIA MNG PLC Common Shares,U
 ABGOF,Abengoa Sa Ordinary Shares (Spain),U
 ABGOY,Abengoa Sa Unsponsored ADR (Spain),U
 ABGSF,ABG Sundal Collier ASA Ordinary Shares (Norway),U
@@ -711,6 +710,7 @@ AGVYY,Avangardco Invts. Pub. Ltd. Sponsored GDR Reg S (Ukraine),U
 AGX,"Argan, Inc",NYSE
 AGXKF,Anglo Asian Mining Plc Ordinary Shares (UK),U
 AGXLW,Agiliti Inc Warrant 07/24/2022,U
+AGXTF,ARGENTEX GROUP PLC ORD GBP0.0001 (United Kingdom),U
 AGXXF,Agilyx AS Ordinary Shares (Norway),U
 AGYP,Allied Energy Corporation. Common Stock,U
 AGYS,"Agilysys, Inc. Common Stock",NASDAQ
@@ -1902,6 +1902,7 @@ ATDEF,Montana Exploration Corp. Common Shares,U
 ATDRF,AUTO TRADER GROUP PLC Ordinary Shares GBP (United Kingdom),U
 ATDRY,AUTO TRADER GROUP PLC American Depositary Receipts - Unsponsored (United Kingdom),U
 ATDS,DATA443 RISK MITIGATION INC NEV Common Stock,U
+ATEAY,ATEA ASA American Depositary Receipts - Unsponsored (Norway),U
 ATEC,"Alphatec Holdings, Inc. Common Stock",NASDAQ
 ATEN,A10 NETWORKS INC,NYSE
 ATER,"Aterian, Inc. Common Stock",NASDAQ
@@ -3227,7 +3228,6 @@ BNED,"Barnes & Noble Education, Inc",NYSE
 BNEFF,Bonterra Energy Corp. Ordinary Shares (Canada),U
 BNET,"Bion Environmental Technologies, Inc. Common Stock",U
 BNFT,"Benefitfocus, Inc. Common Stock",NASDAQ
-BNFTF,"BENEFIT ONE INC, TOKYO SHS (Japan)",U
 BNGFF,Bengo4 Com Inc Common Stock (Japan),U
 BNGI,"Bangi, Inc. Common Stock",U
 BNGLF,Bengal Energy Ltd Ordinary Shares (Canada),U
@@ -3770,6 +3770,7 @@ BVVBY,Bureau Veritas SA American Depositary Receipts - Unsponsored (France),U
 BVXV,BiondVax Pharmaceuticals Ltd. American Depositary Shares,NASDAQ
 BVZHF,BVZ Holding AG Zermatt Namen AKT (Switzerland),U
 BW,"Babcock & Wilcox Enterprises, Inc.",NYSE
+BW PRA,"Babcock & Wilcox Enterprises, Inc. 7.75% Series A Cumulative Perpetual Preferred Stock",NYSE
 BWA,BorgWarner Inc.,NYSE
 BWAC,Better World Acquisition Corp. Common Stock,NASDAQ
 BWACU,Better World Acquisition Corp. Unit,NASDAQ
@@ -3780,7 +3781,6 @@ BWAV,Betawave Corporation Common Stock,U
 BWAY,Brainsway Ltd. American Depositary Shares,NASDAQ
 BWB,"Bridgewater Bancshares, Inc. Common Stock",NASDAQ
 BWBA,"BroadWebAsia, Inc. Common Stock",U
-BWCXP,BABCOCK & WILCOX ENTERPRISES INC CUM PERP PFD SER A,U
 BWEL,Boswell J G Co Common Stock,U
 BWEN,"Broadwind, Inc. Common Stock",NASDAQ
 BWERY,BW Energy American Depository Receipts (Bermuda),U
@@ -5499,3 +5499,8 @@ COZIF,CZR RES LTD Ordinary Shares,U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
+CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAI,Champion Pain Care Corporation Common Stock,U
+CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
+CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
+CPB,Campbell Soup Company,NYSE

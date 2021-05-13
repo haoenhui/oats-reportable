@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAI,Champion Pain Care Corporation Common Stock,U
-CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
-CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
-CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
@@ -20,7 +15,6 @@ CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
-CPGZF,CG Power & Industrial Ltd. Global Depositary Receipts - Sponsored,U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
 CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
 CPHI,"China Pharma Holdings, Inc.",AMEX
@@ -1684,7 +1678,6 @@ DWWEF,Diamond Estates Wines & Spirits LTD Ordinary Shares (Canada),U
 DWX,SPDR S&P International Dividend ETF,ARCA
 DX,"Dynex Capital, Inc.",NYSE
 DX PRC,"Dynex Capital, Inc. 6.900% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NYSE
-DXAEF,PROSTAR HLDGS INC CDA Common Shares,U
 DXBGY,Dexia SA Belgium American Depositary Receipts - Unsponsored,U
 DXBRF,BellRock Brands Inc Common Shares,U
 DXC,DXC Technology Company,NYSE
@@ -2088,6 +2081,7 @@ EJAN,Innovator MSCI Emerging Markets Power Buffer ETF-January,ARCA
 EJFA,EJF Acquisition Corp. Class A Ordinary Share,NASDAQ
 EJFAU,EJF Acquisition Corp. Unit,NASDAQ
 EJFAW,EJF Acquisition Corp. Warrant,NASDAQ
+EJH,E-Home Household Service Holdings Limited Ordinary Shares,NASDAQ
 EJPRF,East Japan Railway Co Ordinary Shares,U
 EJPRY,East Japan Railway Co Unsponsored ADR (Japan),U
 EJTTF,Easyjet Plc Ordinary Shares GBP 0.27285714 (United Kingdom),U
@@ -2121,6 +2115,7 @@ ELBSF,Engagement Labs Inc Ordinary Shares,U
 ELC,"Entergy Louisiana, LLC Collateral Trust Mortgage Bonds, 4.875 % Series due September 1, 2066",NYSE
 ELCGF,ELECTRA STONE LTD  Ordinary Shares,U
 ELCI,"Eastern Light Capital, Incorporated Common Stock",U
+ELCMF,ELECOM CO LTD OSAKA SHS (Japan),U
 ELCO,"Elcom International, Inc.  Common Stock",U
 ELCPF,EDP Energias de Portugal SA Ordinary Reg Shares (Portugal),U
 ELCR,"Electric Car Company, Inc. Common Stock",U
@@ -3352,7 +3347,7 @@ FHN PRB,"First Horizon Corporation Depositary Shares, each representing a 1/400t
 FHN PRC,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-",NYSE
 FHN PRD,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-",NYSE
 FHN PRE,"First Horizon Corporation Depositary Shares, Each Representing a 1/ 4000th Interest in a Share of No",NYSE
-FHNNP,First Horizon Corp Depositary Shares Rep 1/4000TH Perp Pfd Series F,U
+FHN PRF,"First Horizon Corporation Depositary Shares, each representing 1/4000th Interest in a Share of Non-C",NYSE
 FHRT,First Hartford Corp Unclassified,U
 FHS,"First High-School Education Group Co., Ltd. American Depositary Shares (each representing three (3)",NYSE
 FHTF,FHT FUTURE TECHNOLOGY LTD Common Stock,U
@@ -3443,7 +3438,6 @@ FJTSF,Fujitsu Ltd Ordinary Shares,U
 FJTSY,Fujitsu Ltd ADR,U
 FJUL,FT Cboe Vest U.S. Equity Buffer ETF - July,BATS
 FJUN,FT Cboe Vest U.S. Equity Buffer ETF - June,BATS
-FJVPF,Fidelity Japan Trust Plc Ordinary Shares,U
 FKCIF,Fukui Computer Holdings Inc Ordinary Shares (Japan),U
 FKKEF,Charter Hall Ed Tr Unit,U
 FKKFF,"Fukuoka Financial Group Inc, Fukuoka Common Shares (Japan)",U
@@ -3643,11 +3637,14 @@ FMHI,First Trust Exchange-Traded Fund III First Trust Municipal High Income ETF,
 FMHS,"Farmhouse, Inc. Common Stock",U
 FMIA,First Miami Bancorp Inc Common Stock,U
 FMIL,Fidelity New Millennium ETF,BATS
+FMIV,Forum Merger IV Corporation Class A Common stock,NASDAQ
 FMIVU,Forum Merger IV Corporation Unit,NASDAQ
+FMIVW,Forum Merger IV Corporation Warrant,NASDAQ
 FMMFF,Fuji corp Ordinary Shares,U
 FMN,Federated Hermes Premier Municipal Income Fund,NYSE
 FMNB,Farmers National Banc Corp. Common Stock,NASDAQ
 FMNJ,"Franklin Mining, Inc. Common Stock",U
+FMNY,First Trust New York Municipal High Income ETF,ARCA
 FMO,Fiduciary/Claymore Energy Infrastructure Fund,NYSE
 FMOCF,Fomento de Construcciones y Contratas Sa FCC Barcelona Ordinary Shares,U
 FMOCY,Fomento de Construcciones y Contratas Sa FCC Barcelona Unsponsored ADR (Spain),U
@@ -4657,7 +4654,9 @@ GGNNW,Genocea Biosciences Inc Wt Cl A Expires  01/09/2023,U
 GGNPF,Pt Gudang Garam PT Gudang Garam IDR,U
 GGO,The Gabelli Go Anywhere Trust,AMEX
 GGO PRA,The Gabelli Go Anywhere Trust Series A Cumulative Puttable and Callable Preferred Shares,AMEX
+GGPI,"Gores Guggenheim, Inc. Class A Common Stock",NASDAQ
 GGPIU,"Gores Guggenheim, Inc. Unit",NASDAQ
+GGPIW,"Gores Guggenheim, Inc. Warrant",NASDAQ
 GGPXF,G-Resources Group Ltd Ordinary Shares (Bermuda),U
 GGRGF,GROUPE GORGE SA Ordinary Shares (France),U
 GGRN,Global Green Solutions Inc. Common Stock,U
@@ -4815,7 +4814,9 @@ GLG,"TD Holdings, Inc. Common Stock",NASDAQ
 GLGDF,"GoGold Resources, Inc. Ordinary Shares (Canada)",U
 GLGI,"Greystone Logistics, Inc. Common Stock",U
 GLGLF,GLG Life Tech Corp. Ordinary Shares (Canada),U
+GLHA,Glass Houses Acquisition Corp. Class A common stock,NASDAQ
 GLHAU,Glass Houses Acquisition Corp. Unit,NASDAQ
+GLHAW,Glass Houses Acquisition Corp. Warrant,NASDAQ
 GLHD,PSH GROUP HLDG INC Common Stock,U
 GLHRF,Golden Harp Res Inc. Ordinary Shares (Canada),U
 GLIF,AGFiQ Global Infrastructure ETF,ARCA
@@ -4926,7 +4927,7 @@ GMIIU,"Gores Metropoulos II, Inc. Unit",NASDAQ
 GMIIW,"Gores Metropoulos II, Inc. Warrants",NASDAQ
 GMJOF,"Gamecard-Joyco Holdings Inc, Tokyo Ordinary Shares  (Japan)",U
 GMKKY,Gruma SAB DE C V American Depositary Receipts - Unsponsored (Mexico),U
-GMLPP,Golar LNG Partners LP 8.75% Series A Cumulative Redeemable Preferred Units,NASDAQ
+GMLPF,Golar LNG Partners LP 8.75% Series A Cumulative Redeemable Preferred Units (Marshall Islands),U
 GMMVF,G MED INNOVATIONS Ordinary Shares,U
 GMND,Green Mountain Development Corp Common Stock,U
 GMNFF,GobiMin Inc Ordinary Shares (Canada),U
@@ -5040,7 +5041,6 @@ GNUS,"Genius Brands International, Inc. Common Stock",NASDAQ
 GNW,"Genworth Financial, Inc.",NYSE
 GNWSF,Stagezero Life Sciences Ltd Common Shares,U
 GNWTY,GENWORTH MTG INS AUSTRALIA LTD American Depositary Receipts - Unsponsored (Australia),U
-GNXCF,Genexin Co Ltd Ordinary Shares (South Korea),U
 GNYPF,MASIVO SILVER CORP Ordinary Shares,U
 GNZR,"Generation Zero Gorup, Inc. Common Stock",U
 GNZUF,GUANGZHOU AUTOMOBILE GROUP CO LTD Ordinary Shares,U
@@ -5499,3 +5499,8 @@ GVIP,Goldman Sachs Hedge Industry VIP ETF,ARCA
 GVLMF,Greenvale Mining N L  Ord Ordinary Shares,U
 GVLMY,Greenvale Mining Limited American Depositary Receipts - Unsponsored,U
 GVP,"GSE Systems, Inc. Common Stock",NASDAQ
+GVSI,Good Vibrations Shoes Inc. Common Stock,U
+GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
+GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
+GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
+GWACW,Good Works Acquisition Corp. Warrant,NASDAQ

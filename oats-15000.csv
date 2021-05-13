@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
-MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
-MTCR,"Metacrine, Inc. Common Stock",NASDAQ
-MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
@@ -529,7 +525,9 @@ NGACU,NextGen Acquisition Corporation Units,NASDAQ
 NGACW,NextGen Acquisition Corporation Warrants,NASDAQ
 NGBL,"Notis Global, Inc. Common Stock",U
 NGC U,"Northern Genesis Acquisition Corp. III Units, each consisting of one share of common stock and one-q",NYSE
+NGCA,NextGen Acquisition Corp. II Class A Ordinary Shares,NASDAQ
 NGCAU,NextGen Acquisition Corp. II Units,NASDAQ
+NGCAW,NextGen Acquisition Corp. II Warrant,NASDAQ
 NGCG,"New Generation Consumer Group, Inc. Common Stock",U
 NGCRF,Nagacorp Ltd Ordinary Shares (Cayman Islands),U
 NGCRY,Nagacorp Ltd Unsponsored ADR (Cayman Islands),U
@@ -2258,6 +2256,7 @@ PDI,PIMCO Dynamic Income Fund,NYSE
 PDIV,"Premier Development & Investment, Inc. Class A Common Stock",U
 PDIYF,Predictive Discovery Ltd Melbourne Ordinary Shares (Australia),U
 PDLB,PDL Community Bancorp Common Stock,NASDAQ
+PDLMF,PETRA DIAMONDS LIMITED SHS NEW GBP (Bermuda),U
 PDM,"Piedmont Office Realty Trust, Inc.",NYSE
 PDMI,"Paradigm Medical Industries, Inc. Common Stock",U
 PDN,Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF,ARCA
@@ -3377,7 +3376,7 @@ PTPIF,PT Chandra Asri PetroChemical Ordinary Shares (Indonesia),U
 PTPKF,PT Pakuwon Jati TBK Ordinary Shares (Indonesia),U
 PTPLF,PT PURADELTA LESTARI TBK Ordinary Shares,U
 PTPPF,PT PP Persero TBK Ordinary Shares (Indonesia),U
-PTQQF,Protech Home Med Corp Ordinary Shares,U
+PTQQD,Quipt Home Medical Corp. Ordinary Shares,U
 PTR,PETROCHINA COMPANY LIMITED ADS (REP 100 H SHARES),NYSE
 PTRC,Petro River Oil Corp Common Shares,U
 PTRDF,ROK Resources Inc Common Shares,U
@@ -4274,7 +4273,9 @@ RKOS,Arkose Energy Corp. Common Stock,U
 RKSCF,Rocksheild Capital Corp. Ordinary Shares (Canada),U
 RKSLF,RAKSUL INC Ordinary Shares,U
 RKT,"Rocket Companies, Inc.",NYSE
+RKTA,Rocket Internet Growth Opportunities Corp.,NYSE
 RKTA U,"Rocket Internet Growth Opportunities Corp. Units, each consisting of one Class A ordinary share and",NYSE
+RKTA WS,"Rocket Internet Growth Opportunities Corp. Warrants, each whole warrant exercisable for one Class A",NYSE
 RKTE,"Reflectkote, Inc. Common Stock",U
 RKUNF,Rakuten Group Inc Ordinary Shares,U
 RKUNY,"Rakuten Group, Inc American Depositary Receipts - Sponsored",U
@@ -5089,6 +5090,7 @@ SCRCQ,ScripsAmerica Inc Common Stock,U
 SCRH,Scores Holding Company Inc. Common Stock,U
 SCRPF,Sembcorp Industries Limited Ordinary Shares,U
 SCRRF,SCHRODER REAL RETURN FUND TRADING MANAGED FUND UNITS FULLY PAID Australia(AU ),U
+SCRSF,SCREENPRO SEC INC COM (Canada),U
 SCRYY,SCOR S.A. American Depositary Shares,U
 SCS,"Steelcase, Inc.",NYSE
 SCSC,"ScanSource, Inc. Common Stock",NASDAQ
@@ -5273,7 +5275,6 @@ SESN,"Sesen Bio, Inc. Common Stock",NASDAQ
 SETO,Seto Holdings Inc Common Stock,U
 SETUF,Shin-Etsu Polymer Co Ltd (Japan) Ordinary Shares,U
 SETY,"Star Entertainment Group, Inc. Common Stock New",U
-SEVA,Seaway Valley Capital Corporation Inc. Common Stock NEW,U
 SEVM,STS Evermedia Corporation New  Common Stock,U
 SEVT,"Summit Environmental Corporation, Inc. Common Stock",U
 SEXHF,Sichaun Expressway Co Ltd Ordinary Shares,U
@@ -5499,3 +5500,7 @@ SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
+SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
