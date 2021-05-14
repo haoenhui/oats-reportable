@@ -280,6 +280,7 @@ ACR,ACRES Commercial Realty Corp.,NYSE
 ACR PRC,ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stoc,NYSE
 ACRB,"Asia Carbon Industries, Inc. Common",U
 ACRDF,"Acreage Holdings, Inc. Class D Sub Vtg Ord Shs (Canada)",U
+ACRDP,ACRES COML RLTY CORP CUM RED PFD SER D Preferred Stock,U
 ACRE,Ares Commercial Real Estate Corporation,NYSE
 ACRFF,Accor S A (F) Ordinary Shares,U
 ACRHF,"Acreage Holdings, Inc. Class E Sub Vtg Ord Shs (Canada)",U
@@ -358,7 +359,6 @@ ADFT,"Adfitech, Inc. Common Stock",U
 ADGCF,ADVANCE GOLD CORP Common Shares,U
 ADGL,"AllDigital Holdings, Inc. Common Stock",U
 ADGO,Advantego Corporation Common Stock,U
-ADGS,"ADGS Advisory, Inc. Common Stock",U
 ADHC,American Diversified Holdings Corporation Common Stock,U
 ADHG,Ando Holdings Ltd. Common Stock,U
 ADHLF,Applied Development Holdings Limited Ordinary Shares (Bermuda),U
@@ -925,7 +925,7 @@ ALBAF,Alba Minerals Resources PLC London Ordinary Shares (United Kingdom),U
 ALBBY,Alibaba Health Information Technology Ltd Unsponsored ADR (Bermuda),U
 ALBHF,Alibaba Health Information Technology Ltd Ordinary Shares (Bermuda),U
 ALBKF,ALPHA SVCS & HLDGS S A COM REGISTERED WITH VOTE Ordinary Shares,U
-ALBKY,Alpha Bank AE American Depositary Receipts - Sponsored,U
+ALBKY,Alpha Services and Holdings SA American Depositary Receipts - Sponsored,U
 ALBO,"Albireo Pharma, Inc. Common Stock",NASDAQ
 ALBY,"Community Capital Bancshares, Inc. Common Stock",U
 ALC,Alcon Inc. Ordinary Shares,NYSE
@@ -4209,7 +4209,6 @@ CCJMF,"Melior Resources, Inc Ordinary Shares",U
 CCK,Crown Holdings Inc.,NYSE
 CCKWF,CCK CONS HOLDINGS BERHAD WARRANTS EXP 6/18/2023 (Malaysia),U
 CCL,Carnival Corporation,NYSE
-CCLAF,Coca Cola Amatil Ltd Ord .50 P Ordinary Shares,U
 CCLAY,Coca Cola Amatil Limited Sponsored ADR,U
 CCLLF,CCL Inds Inc Cl A Ordinary Shares (Canada),U
 CCLP,CSI Compressco LP Common Units,NASDAQ
@@ -5504,3 +5503,8 @@ CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
 CPB,Campbell Soup Company,NYSE
+CPBLF,ALS Ltd. Ordinary Shares (Australia),U
+CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
+CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
+CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
+CPCC,"Striper Energy, Inc. Common Stock",U

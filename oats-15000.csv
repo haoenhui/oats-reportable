@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
@@ -260,7 +259,6 @@ NAIL,Direxion Daily Homebuilders & Supplies Bull 3X Shares,ARCA
 NAJSF,North Atlantic Smaller Companies Investment Trust plc Ordinary Shares (United Kingdom),U
 NAK,"Northern Dynasty Minerals, Ltd.",AMEX
 NAKD,Naked Brand Group Limited Ordinary Shares,NASDAQ
-NAKOF,Nakano Refrigerators Co Ltd Ordinary Shares (Japan),U
 NAMX,North Amern Explorn  Corp New Common Stock,U
 NAN,Nuveen New York Quality Municipal Income Fund,NYSE
 NANHF,Nan Hai Corp Ltd Ordinary Shares (Bermuda) HKD,U
@@ -423,7 +421,6 @@ NEE PRN,"NextEra Energy Capital Holdings, Inc. Series N Junior Subordinated Debe
 NEE PRO,"NextEra Energy, Inc. 4.872% Corporate Units",NYSE
 NEE PRP,"NextEra Energy, Inc. 5.279% Corporate Units",NYSE
 NEE PRQ,"NextEra Energy, Inc. 6.219% Corporate Units",NYSE
-NEEB,"Nebraska Book Holdings, Inc. Common Stock",U
 NEFB,Neffs Bancorp Inc Common Stock,U
 NEFBP,Neffs Bancorp Inc PFD SER A,U
 NEGXF,"Nexgenrx, Inc. Ordinary Shares (Canada)",U
@@ -524,7 +521,9 @@ NGAC,NextGen Acquisition Corporation Class A Ordinary Shares,NASDAQ
 NGACU,NextGen Acquisition Corporation Units,NASDAQ
 NGACW,NextGen Acquisition Corporation Warrants,NASDAQ
 NGBL,"Notis Global, Inc. Common Stock",U
+NGC,Northern Genesis Acquisition Corp. III,NYSE
 NGC U,"Northern Genesis Acquisition Corp. III Units, each consisting of one share of common stock and one-q",NYSE
+NGC WS,"Northern Genesis Acquisition Corp. III Redeemable Warrants, each whole warrant exercisable for share",NYSE
 NGCA,NextGen Acquisition Corp. II Class A Ordinary Shares,NASDAQ
 NGCAU,NextGen Acquisition Corp. II Units,NASDAQ
 NGCAW,NextGen Acquisition Corp. II Warrant,NASDAQ
@@ -1517,6 +1516,7 @@ OGFGY,Origin Energy Ltd Ord Unsponsored ADR (Australia),U
 OGGFF,Organic Garage Ltd. Common Stock (Canada),U
 OGI,Organigram Holdings Inc. Common Shares,NASDAQ
 OGIG,OShares Global Internet Giants ETF,BATS
+OGN WI,Organon & Co.,NYSE
 OGNG,Bravo Enterprises Ltd. Common Stock,U
 OGNT,Organa Technologies Group Inc New Common Stock,U
 OGOFF,Organto Foods Inc Common Shares,U
@@ -1690,7 +1690,9 @@ OOGI,"C2E Energy, Inc. Common Stock",U
 OOIL,Perkins Oil & Gas Inc. Common Stock,U
 OOMA,"Ooma, Inc. Common Stock",NYSE
 OONEF,01 Communique Lab Inc Common Shares (Canada),U
+OPA,Magnum Opus Acquisition Limited,NYSE
 OPA U,"Magnum Opus Acquisition Limited Units, each consisting of one Class A ordinary share and one-half re",NYSE
+OPA WS,"Magnum Opus Acquisition Limited Redeemable Warrants, each warrant exercisable for one Class A ordina",NYSE
 OPBK,OP Bancorp Common Stock,NASDAQ
 OPCGF,Organic Potash Corp Common Shares (Canada),U
 OPCH,"Option Care Health, Inc. Common Stock",NASDAQ
@@ -2290,9 +2292,9 @@ PEB PRC,Pebblebrook Hotel Trust 6.50% Series C,NYSE
 PEB PRD,Pebblebrook Hotel Trust 6.375% Series D Cumulative Redeemable Preferred Shares of Beneficial Interes,NYSE
 PEB PRE,Pebblebrook Hotel Trust 6.375% Series E Cumulative Redeemable Preferred Shares of Beneficial Interes,NYSE
 PEB PRF,Pebblebrook Hotel Trust 6.3% Series F Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE
+PEB PRG,Pebblebrook Hotel Trust 6.375% Series G Cumulative Redeemable Preferred Shares of Beneficial Interes,NYSE
 PEBA,Penn Bancshares Inc Common Stock,U
 PEBC,Peoples Bancorp Inc MD Common,U
-PEBHP,PEBBLEBROOK HOTEL TR CUM RED PFD SER G Preferred Stock,U
 PEBK,"Peoples Bancorp of North Carolina, Inc. Common Stock",NASDAQ
 PEBN,Pacific Enterprise Bancorp Irvine California Common Stock,U
 PEBO,Peoples Bancorp Inc. Common Stock,NASDAQ
@@ -2612,6 +2614,7 @@ PKCOY,Park 24 Co Ltd Sponsored ADR (Japan),U
 PKCPF,PT AKR Corporindo Tbk Ordinary Shares (Indonesia),U
 PKCPY,PT AKR Corporindo Tbk ADR (Indonesia),U
 PKDC,PARKER DRILLING CO Common Stock,U
+PKDCW,PARKER DRILLING CO Warrant   09/25/2024,U
 PKE,Park Aerospace Corp. Common Stock,NYSE
 PKG,Packaging Corp of America,NYSE
 PKI,"PerkinElmer, Inc.",NYSE
@@ -2833,7 +2836,6 @@ PNOCF,Penta Ocean Construction Co Ordinary Shares (Japan),U
 PNOV,Innovator S&P 500 Power Buffer ETF - November,BATS
 PNPFF,Pinetree Capital Ltd Ordinary Shares,U
 PNPL,"Pineapple Express, Inc. Common Stock",U
-PNPPF,Pinetree Capital Ltd Rights 05/13/2021 (Canada),U
 PNQI,Invesco Exchange-Traded Fund Trust Invesco Nasdaq Internet ETF,NASDAQ
 PNR,Pentair plc,NYSE
 PNRC,Premier Energy Corp. (FL) Common Stock,U
@@ -3685,6 +3687,7 @@ QNTO,"Quaint Oak Bancorp, Inc. Common Stock",U
 QNTQF,Qinetiq Group plc London Ordinary Shares (United Kingdom),U
 QNTQY,Qinetiq Group plc London Unsponsored ADR (UK),U
 QNXC,"Qenex Communications, Inc. Common Stock",U
+QOEG,Quality Online Education Group Inc. Common Stock,U
 QOIL,Quest Oil Corporation Common Stock,U
 QOWI,Quality One Wireless Inc,U
 QPFF,American Century Quality Preferred ETF,BATS
@@ -4805,7 +4808,6 @@ SAFE,Safehold Inc.,NYSE
 SAFLF,Safilo Group Spa Vicenza Ordinary Shares (Italy),U
 SAFLY,Safilo Group Spa Vicenza American Depositary Shares (Italy),U
 SAFM,"Sanderson Farms, Inc. Common Stock",NASDAQ
-SAFO,"Save Foods, Inc. Common Stock",U
 SAFRF,Safran S.A. Ordinary Shares (France),U
 SAFRY,Safran S.A. Unsponsored ADR (France),U
 SAFS,"Safer Shot, Inc. Common Stock",U
@@ -5504,3 +5506,4 @@ SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U

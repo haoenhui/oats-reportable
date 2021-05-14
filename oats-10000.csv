@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
+GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
@@ -226,7 +228,7 @@ HCKG,"Hocking Valley Bancshares, Inc (OH) Common Shares",U
 HCKT,Hackett Group Inc (The). Common Stock,NASDAQ
 HCLC,Health Chemical Corporation Common Stock,U
 HCLHF,Holista Colltech Limited Ordinary Shares (Australia),U
-HCM,Hutchison China MediTech Limited American Depositary Shares,NASDAQ
+HCM,HUTCHMED (China) Limited American Depositary Shares,NASDAQ
 HCMC,Healthier Choices Management Corp. Common Shares,U
 HCMLF,LAFARGEHOLCIM LTD  Ordinary Shares,U
 HCMLY,LafargeHolcim Ltd. American Depositary Receipts - Unsponsored,U
@@ -2154,6 +2156,7 @@ ISWH,"ISW Holdings, Inc.  Common Stock",U
 ISWN,Amplify BlackSwan ISWN ETF,ARCA
 ISXAF,IShares ETF (Switzerland),U
 ISXIF,Ishares BSE Sensex India Tracker Ordinary Shares,U
+ISXOF,ISHARES STOXX EUR 600 OIL & GAS SHS HLDGS Exchange Traded Fund,U
 ISXPF,Ishares PLC Ptg Shs Exchange Traded Fund USD (Ireland),U
 ISXVF,Ishares IV PLC Digitalization UCITS Exchange Traded Fund (Ireland),U
 ISXXF,Ishares PLC - Ishares Euro Dividend UCITS ETF (Ireland),U
@@ -2693,6 +2696,7 @@ JPM PRJ,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th int
 JPM PRK,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 4.55% Non",NYSE
 JPMB,JPMorgan USD Emerging Markets Sovereign Bond ETF,ARCA
 JPME,JPMorgan Diversified Return US Mid Cap Equity ETF,ARCA
+JPMLP,JPMORGAN CHASE & CO DEP SHS REPSTG 1/400TH INT NON CUM PFD SER LL,U
 JPN,Xtrackers Japan JPX-Nikkei 400 Equity ETF,ARCA
 JPNPY,Japan Post Ins Co Ltd ADS Repstg Com Stk (Japan),U
 JPNRF,Japan Airlines Co Ltd JAL Ordinary Shares (Japan),U
@@ -3466,7 +3470,6 @@ KYYWY,Keywords Studios PLC Unsponsored ADR (United Kingdom),U
 KYZN,Kyzen Corporation Common Stock,U
 KZHXY,Kazakhtelecom Ord American Depositary Shares,U
 KZIA,Kazia Therapeutics Limited American Depositary Shares,NASDAQ
-KZMYF,Kazakhmys Limited London Ordinary Shares (United Kingdom),U
 KZMYY,Kaz Minerals Plc American Depositary Receipts - Unsponsored,U
 KZR,"Kezar Life Sciences, Inc. Common Stock",NASDAQ
 L,Loews Corporation,NYSE
@@ -4945,7 +4948,6 @@ MJWNF,Naked Wines PLC Ordinary Shares,U
 MJWNY,NAKED WINES PLC American Depositary Receipts - Unsponsored (United Kingdom),U
 MKC,"McCormick & Company, Incorporated Non-VTG CS",NYSE
 MKC V,"McCormick & Company, Incorporated Voting CS",NYSE
-MKCLF,Medikit Co Ltd Ordinary Shares (Japan),U
 MKCOF,Makoto Construction Co Ltd. Ordinary Shares   (Japan),U
 MKD,Molecular Data Inc. American Depositary Shares,NASDAQ
 MKEAF,Mauna Kea Technologies Shs Nom Categorie - O - (France),U
@@ -5351,12 +5353,12 @@ MRGR,ProShares Merger ETF,BATS
 MRGRY,Mirgor SaCifia Sponsored ADR representing Class C shares (Argentina),U
 MRHIF,"Mori Hills REIT Investment Corp., Tokyo Ordinary Shares (Japan)",U
 MRIB,"Marani Brands, Inc. Common Stock",U
-MRIIF,Mehadrin Ltd Ordinary Shares (Israel),U
 MRIN,Marin Software Incorporated Common Stock,NASDAQ
 MRIRF,BMEX Gold Inc Ordinary Shares,U
 MRJOF,Purpose Marijuana Opportunities Fd Exchange Traded Fund,U
 MRJT,3D MAKERJET INC  Common Stock,U
 MRK,"Merck & Co., Inc.",NYSE
+MRK WI,"Merck & Co., Inc.",NYSE
 MRKR,"Marker Therapeutics, Inc. Common Stock",NASDAQ
 MRLLF,Minera IRL Ltd Shs (Jersey),U
 MRLLY,Minera IRL Ltd Unsponsored ADR (Jersey),U
@@ -5463,7 +5465,7 @@ MSNVF,Mission Ready Solutions Inc Ordinary Shares,U
 MSON,"MISONIX, Inc. Common Stock (DE)",NASDAQ
 MSOS,AdvisorShares Pure US Cannabis ETF,ARCA
 MSP,Datto Holding Corp.,NYSE
-MSPAF,Mailup SPA Ordinary Shares (Italy),U
+MSPAF,GROWENS SPA Ordinary Shares,U
 MSPC,"Metrospaces, Inc. Common Stock",U
 MSPVF,Mansei Corp. Osaka City Ordinary Shares (Japan),U
 MSRDF,MASTRAD Ordinary Shares,U
@@ -5504,3 +5506,4 @@ MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYS
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
+MTDR,MATADOR RESOURCES COMPANY,NYSE

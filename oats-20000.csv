@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
@@ -587,6 +586,7 @@ SNKUF,SANKYU INC TOKYO Ordinary Shares Japan(JP ),U
 SNLAF,Sino Land Co Ltd Ord H $1 Par Ordinary Shares,U
 SNLAY,Sino Land Company Ltd Sponsored ADR,U
 SNLC,"Security National Corporation (Sioux City, Iowa) Common Stock",U
+SNLGF,SAN LORENZO GOLD CORP Common Shares,U
 SNLKF,Sinolink Worldwide Hldgs Ordinary Shares,U
 SNLM,Homestead Gold and Silver Ltd. Common Stock (NV),U
 SNLN,Highland/iBoxx Senior Loan ETF,NASDAQ
@@ -1505,6 +1505,7 @@ SVFAU,SVF Investment Corp. Unit,NASDAQ
 SVFAW,SVF Investment Corp. Warrant,NASDAQ
 SVFB,SVF Investment Corp. 2 Class A Ordinary Shares,NASDAQ
 SVFC,SVF Investment Corp. 3 Class A Ordinary Shares,NASDAQ
+SVFD,"Save Foods, Inc. Common Stock",NASDAQ
 SVGAF,Silver Grail Resources Ltd. Ordinary Shares (Canada),U
 SVIN,"Scheid Vineyards, Inc. Class A Common Stock",U
 SVIPF,SVI PUBLIC COMPANY LIMITED Ordinary Shares,U
@@ -1587,7 +1588,7 @@ SWK,"Stanley Black & Decker, Inc.",NYSE
 SWKH,SWK Holdings Corporation Common Stock,NASDAQ
 SWKS,"Skyworks Solutions, Inc. Common Stock",NASDAQ
 SWM,"Schweitzer-Mauduit International, Inc.",NYSE
-SWMAF,Swedish Match AB Frueher Svenska Taendsticks AB Ordinary Shares,U
+SWMAF,SWEDISH MATCH AB Ordinary Shares,U
 SWMAY,Swedish Match AB Frueher Svenska Taendsticks AB Unsponsored ADR (Sweden),U
 SWMD,Starwin Media Holdings Inc Common Stock,U
 SWN,Southwestern Energy Company,NYSE
@@ -5043,6 +5044,7 @@ XMLV,Invesco S&P MidCap Low Volatility ETF,ARCA
 XMMO,Invesco S&P MidCap Momentum ETF,ARCA
 XMMRF,Xmrealty AB Ordinary Shares  (Sweden),U
 XMPT,VanEck Vectors CEF Municipal Income ETF,BATS
+XMTCF,XMTCH IE ON FTSE 100 ACCUM PART SHS EXCHANGE TRADED FUND GBP Exchange Traded Fund,U
 XMTIF,IShares VII PLC Exchange Traded Fund,U
 XMTTF,"Xmet, Inc. Ordinary Shares (Canada)",U
 XMVM,Invesco S&P MidCap Value with Momentum ETF,ARCA
@@ -5180,6 +5182,7 @@ YBGJ,Yubo International Biotech Limited Common Stock,U
 YBRHF,Yellow Brick Road Holdings Ltd (Australia),U
 YCBD,"cbdMD, Inc. Common Stock",AMEX
 YCBD PRA,"cbdMD, Inc. 8.0% Series A Cumulative Convertible Preferred Stock",AMEX
+YCGPF,YANCHANG PETE INTL LTD Ordinary Shares,U
 YCL,ProShares Ultra Yen,ARCA
 YCS,ProShares UltraShort Yen,ARCA
 YDEC,FT Cboe Vest International Equity Buffer ETF - December,BATS
@@ -5422,7 +5425,7 @@ ZMPLF,ZIMPLATS HLDGS LTD Ordinary Shares,U
 ZMRK,Zalemark Holding Company Inc Common Stock,U
 ZMSPF,Zecotek Photonics Inc Ordinary Shares (Canada),U
 ZMTBY,Zumtobel Ag Dornbirn Unsponsored ADR (Austria),U
-ZMWYD,Zoomaway Technologies Inc Common Shares,U
+ZMWYF,Zoomaway Technologies Inc Common Shares,U
 ZNAE,Zane Interactive Publishng Inc Common Stock,U
 ZNCM,"Zunicom, Inc. Common Stock",U
 ZNCXF,Zincx Res Corp Common Shares,U

@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPBLF,ALS Ltd. Ordinary Shares (Australia),U
-CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
-CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
-CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
-CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
@@ -274,8 +269,10 @@ CRYYF,China Railway Signal & Communications Corp Ltd Ordinary Shares Reg H (Chin
 CRZBF,Commerzbank Junge Shs Ordinary Shares,U
 CRZBY,Commerzbank Junge Shs American Depositary Shares,U
 CRZHF,Rockwealth Res Corp Common Shares,U
+CRZN,Corazon Capital V838 Monoceros Corp Class A Ordinary Shares,NASDAQ
 CRZNF,Corazon Mining Ltd Ordinary Shares (Australia),U
 CRZNU,Corazon Capital V838 Monoceros Corp Unit,NASDAQ
+CRZNW,Corazon Capital V838 Monoceros Corp Warrant,NASDAQ
 CRZY,Crazy Woman Creek Bancorp Incorporated Common Stock,U
 CS,Credit Suisse Group,NYSE
 CSA,VictoryShares US Small Cap Volatility Wtd ETF,NASDAQ
@@ -329,7 +326,6 @@ CSM,ProShares Large Cap Core Plus,BATS
 CSML,IndexIQ ETF Trust IQ Chaikin U.S. Small Cap ETF,NASDAQ
 CSMYF,Cosmos Pharmaceutical Corp Miyazaki Ordinary Shares (Japan),U
 CSNBF,Credit Suisse AG Nassau Brh Call WT Lkd Eruo Stoxx 50 Index (Switzerland),U
-CSNSF,Credit Suisse Ag Nassau Brh Call WT Lkd Euro Stoxx 50 Warrant 05/13/2021 (Switzerland),U
 CSNVF,Corbion NV Ordinary Shares,U
 CSNVY,Corbion NV Unsponsored ADR (Netherlands),U
 CSOC,Caduceus Software Systems Corp. Common Stock,U
@@ -836,6 +832,8 @@ DBEU,Xtrackers MSCI Europe Hedged Equity ETF,ARCA
 DBEZ,Xtrackers MSCI Eurozone Hedged Equity ETF,ARCA
 DBGCF,"DB ETC PLC, JERSEY ETC SECURITIES PHYSICAL GOLD COMMODITY Other",U
 DBGF,Panex Resources Inc. Common Stock,U
+DBGI,"Digital Brands Group, Inc. Common Stock",NASDAQ
+DBGIW,"Digital Brands Group, Inc. Warrant",NASDAQ
 DBGR,Xtrackers MSCI Germany Hedged Equity ETF,ARCA
 DBI,Designer Brands Inc.,NYSE
 DBIN,"Dacotah Banks, Inc. Common Stock",U
@@ -902,7 +900,9 @@ DCPH,"Deciphera Pharmaceuticals, Inc. Common Stock",NASDAQ
 DCRB,Decarbonization Plus Acquisition Corporation Class A Common Stock,NASDAQ
 DCRBU,Decarbonization Plus Acquisition Corporation Unit,NASDAQ
 DCRBW,Decarbonization Plus Acquisition Corporation Warrant,NASDAQ
+DCRC,Decarbonization Plus Acquisition Corporation III Class A Common Stock,NASDAQ
 DCRCU,Decarbonization Plus Acquisition Corporation III Unit,NASDAQ
+DCRCW,Decarbonization Plus Acquisition Corporation III Warrant,NASDAQ
 DCRN,Decarbonization Plus Acquisition Corporation II Class A Common stock,NASDAQ
 DCRNU,Decarbonization Plus Acquisition Corporation II Unit,NASDAQ
 DCRNW,Decarbonization Plus Acquisition Corporation II Warrant,NASDAQ
@@ -1152,7 +1152,9 @@ DIPGF,Datang International Power Generation Co Ltd Ordinary Shares H (China),U
 DIPGY,Datang International Power Generation Co Ltd Sponsored ADR representing H Shs (China),U
 DIRV,DIRECTVIEW HLDGS INC Common Stock,U
 DIS,The Walt Disney Company,NYSE
+DISA,Disruptive Acquisition Corporation I Class A Ordinary Shares,NASDAQ
 DISAU,Disruptive Acquisition Corporation I Unit,NASDAQ
+DISAW,Disruptive Acquisition Corporation I Warrant,NASDAQ
 DISCA,"Discovery, Inc. Series A Common Stock",NASDAQ
 DISCB,"Discovery, Inc. Series B Common Stock",NASDAQ
 DISCK,"Discovery, Inc. Series C Common Stock",NASDAQ
@@ -1542,6 +1544,7 @@ DT,"Dynatrace, Inc.",NYSE
 DTARF,Delta Res Ltd. Ordinary Shares,U
 DTATF,DATA 3 LTD ORDINARY FULLY PAID (Australia),U
 DTB,DTE Energy Company 2020 Series G 4.375% Junior Subordinated Debentures due 2080,NYSE
+DTCFF,DEFENCE THERAPEUTICS INC Common Shares,U
 DTCGF,Dometic Group AB Ordinary Shares (Sweden),U
 DTCO,"Direct Coating, Inc. Common Stock",U
 DTCWY,Deutsche Wohnen SE American Depositary Receipts - Unsponsored,U
@@ -1581,7 +1584,8 @@ DTSL,"Delivery Technology Solutions, Inc. Common Stock",U
 DTSOF,DTS Corp Ordinary Shares (Japan),U
 DTSRF,Ether Cap Corp Common Shares,U
 DTSS,Datasea Inc. Common Stock,NASDAQ
-DTST,Data Storage Corporation Common Stock,U
+DTST,Data Storage Corporation Common Stock,NASDAQ
+DTSTW,Data Storage Corporation Warrant,NASDAQ
 DTTLY,Datatec Ltd (Sa) Unsponsored ADR (South Africa),U
 DTTOF,Dito CME Holdings Corp Ordinary Shares (Philippines),U
 DTTVY,Dish TV India Sponsored GDR (India),U
@@ -2362,7 +2366,6 @@ ENSRF,Enseco Energy Services Corp. New Ordinary Shares,U
 ENSV,Enservco Corp.,AMEX
 ENTA,"Enanta Pharmaceuticals, Inc. Common Stock",NASDAQ
 ENTBF,ENTHEON BIOMEDICAL CORP Common Shares,U
-ENTCF,Entrec Corp Com (Canada),U
 ENTEF,ESE ENTMT INC Common Shares,U
 ENTG,"Entegris, Inc. Common Stock",NASDAQ
 ENTI,Encounter Technologies Inc  Common Stock,U
@@ -3323,6 +3326,7 @@ FGOVF,"Freegold Ventures, Ltd. Ordinary Shares (Canada)",U
 FGPHF,First Graphene Ltd Ordinary Shares,U
 FGPPF,Frontier IP Group Plc Common Shares (United Kingdom),U
 FGPR,Ferrellgas Partners LP Unit New,U
+FGPRB,FERRELLGAS PARTNERS L P UNIT LTD PARTNERSHIP INT CL B Unit,U
 FGRBF,Sa Fromageries Bel La Vache Qui Rit  Ordinary Shares (France),U
 FGRO,Fidelity Growth Opportunities ETF,BATS
 FGROF,Firstgroup Plc Ordinary Shares,U
@@ -4890,6 +4894,7 @@ GLVNF,Gallant Venture Ltd Ordinary Shares (Singapore),U
 GLW,Corning Incorporated,NYSE
 GLWA,Global Water Asset Corporation Common Stock,U
 GLWHF,Globalworth Real Estate Invts Ltd Ordinary Shares (Guernsey),U
+GLWLF,GLOW LIFETECH CORP Common Shares,U
 GLXZ,"Galaxy Gaming, Inc. Common Stock New",U
 GLYC,"GlycoMimetics, Inc. Common Stock",NASDAQ
 GLYE,"GlyEco, Inc. Common Stock",U
@@ -5271,7 +5276,7 @@ GRSVU,"Gores Holdings V, Inc. Unit",NASDAQ
 GRSVW,"Gores Holdings V, Inc. Warrant",NASDAQ
 GRSXY,Grasim Inds Ltd Ords 10par American Depositary Shares,U
 GRTNF,GREENTOWN SVC GROUP CO LTD Ordinary Shares,U
-GRTS,"Gritstone Oncology, Inc. Common Stock",NASDAQ
+GRTS,"Gritstone bio, Inc. Common Stock",NASDAQ
 GRTX,"Galera Therapeutics, Inc. Common Stock",NASDAQ
 GRTYA,Guarnty Corporation Class A,U
 GRU,ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Grains Total Return,ARCA
@@ -5502,5 +5507,3 @@ GVP,"GSE Systems, Inc. Common Stock",NASDAQ
 GVSI,Good Vibrations Shoes Inc. Common Stock,U
 GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
 GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
-GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
-GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
