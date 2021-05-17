@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
@@ -1490,6 +1491,7 @@ SVAKF,Sevak Ltd. Ordinary Shares (Singapore),U
 SVAL,iShares US Small Cap Value Factor ETF,BATS
 SVAP,STANDARD VAPE CORP Common Stock,U
 SVAUF,Storagevault Cda Inc. Ordinary Shares (Canada),U
+SVBDF,SVEDBERGS I DALSTORP AB SHS B Ordinary Shares,U
 SVBI,Severn Bancorp Inc,NASDAQ
 SVBL,SILVER BULL RES INC Common Stock,U
 SVBM,Silver Belt Mines Inc Common Stk,U
@@ -1934,7 +1936,6 @@ TDCH,"30DC, Inc. Common Stock",U
 TDDWW,Tidewater Inc Wt Expires 07/31/2042,U
 TDF,Templeton Dragon Fund,NYSE
 TDG,TransDigm Group Incorporated,NYSE
-TDGDF,Transportadora De Gas Del Norte Sa Tgn Shares -C- 1 Vote (Argentina),U
 TDGFF,Tongda Group Holdings Ltd Ordinary Shares (Cayman Islands),U
 TDGMW,Tidewater Inc. Warrant 11/14/2042,U
 TDHOF,T&D Holdings Inc Tokyo Ordinary Shares (Japan),U
@@ -3088,6 +3089,7 @@ TX,Ternium S.A. American Depositary Shares,NYSE
 TXBUF,TOPIX Banks Exchange Traded Fund Units ETF (Japan),U
 TXCB,"Cang Bao Tian Xia International Art Trade Center, Inc. Common Stock",U
 TXCCQ,TranSwitch Corporation Common Stock New,U
+TXEMF,Templeton Emerging Markets Investment Trust PLC Ordinary Shares (United Kingdom),U
 TXG,"10x Genomics, Inc. Class A Common Stock",NASDAQ
 TXGE,"Texas Gulf Energy, Incorporated. Common Stock",U
 TXGWU,TEXGEN PWR LLC Units (Delaware),U
@@ -3304,7 +3306,7 @@ UIBGF,UIB Group Limited Ordinary Shares (Cayman Islands),U
 UIFD,Unifunds Limited Common Stock,U
 UIHC,United Insurance Holdings Corp. Common Stock,NASDAQ
 UILCF,United Industrial Corp Ltd Ordinary Shares (Singapore),U
-UILCY,United Industrial Corporation Ltd Unsponsored ADR (Singapore),U
+UILCY,SINGAPORE LD GROUP LTD American Depositary Receipts - Unsponsored,U
 UIS,Unisys Corporation,NYSE
 UITA,"Utilicraft Aerospace Industries, Inc. Common Stock",U
 UITB,VictoryShares USAA Core Intermediate-Term Bond ETF,ARCA
@@ -4390,12 +4392,10 @@ WBA,"Walgreens Boots Alliance, Inc. Common Stock",NASDAQ
 WBBW,WESTBURY BANCORP INC Common Stock,U
 WBEMF,Winbond Electronic Corp Par Ord Sponsored GDR Reg S (Taiwan),U
 WBHC,Wilson Bank Holding Company (TN) Common Stock,U
-WBIE,WBI BullBear Rising Income 3000 ETF,ARCA
 WBIF,WBI BullBear Value 3000 ETF,ARCA
 WBIG,WBI BullBear Yield 3000 ETF,ARCA
 WBII,WBI BullBear Global Income ETF,ARCA
 WBIL,WBI BullBear Quality 3000 ETF,ARCA
-WBIN,WBI BullBear Trend Switch US Total Return ETF,ARCA
 WBIT,WBI BullBear Trend Switch US 3000 Total Return ETF,ARCA
 WBIY,WBI Power FactorTM High Dividend ETF,ARCA
 WBK,Westpac Banking Corporation,NYSE
@@ -4427,6 +4427,7 @@ WCIG,Wee-Cig International Corporation Common Stock,U
 WCLD,WisdomTree Trust WisdomTree Cloud Computing Fund,NASDAQ
 WCN,"Waste Connections, Inc.",NYSE
 WCRS,"Western Capital Resources, Inc. Common Stock",U
+WCUFF,World Copper Ltd Common Shares (Canada),U
 WCUI,Wellness Center USA Inc Common Stock,U
 WCVC,West Coast Ventures Group Corp. Common Stock,U
 WCYN,West Canyon Energy Corp. Common Stock,U
@@ -4862,7 +4863,6 @@ WTFC,Wintrust Financial Corporation Common Stock,NASDAQ
 WTFCM,"Wintrust Financial Corporation Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D",NASDAQ
 WTFCP,"Wintrust Financial Corporation Depositary Shares, Each Representing a 1/1,000th Interest in a Share of 6.875% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series E",NASDAQ
 WTGRF,Westgold Resources Ltd Ordinary Shares (Australia),U
-WTHEF,Wing Tai Holdings Ltd Ordinary Shares (Singapore),U
 WTHVF,Westhaven Gold Corp Ordinary Shares,U
 WTI,"W&T Offshore, Inc.",NYSE
 WTII,"Water Technologies International,Inc Common Stock",U

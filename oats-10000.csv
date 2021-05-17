@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
-GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
@@ -2952,6 +2950,7 @@ KE,"Kimball Electronics, Inc. Common Stock",NASDAQ
 KEFI,Keweenaw Financial Corp (Mich) Common Stock,U
 KEGS,"1812 Brewing Company, Inc. Common Stock",U
 KEGX,KEY ENERGY SVCS INC DEL Common Shares,U
+KEIBF,Keiyo Bank Ltd Ordinary Shares (Japan),U
 KEIHF,KEIHANSHIN BLDG CO LTD Ordinary Shares,U
 KEJI,Global X Funds Global X China Innovation ETF,NASDAQ
 KELRF,Keisei Electric Rail Ord Ordinary Shares (Japan),U
@@ -3552,10 +3551,12 @@ LBUY,"Leafbuyer Technologies, Inc. Common Shares",U
 LBWR,Labwire Inc. Common Stock,U
 LBYE,Liberty Energy Corp. Common Stock,U
 LC,LendingClub Corporation,NYSE
+LCA,"Landcadia Holdings IV, Inc. Class A Common Stock",NASDAQ
 LCAA,L Catterton Asia Acquisition Corp Class A Ordinary Shares,NASDAQ
 LCAAU,L Catterton Asia Acquisition Corp Units,NASDAQ
 LCAAW,L Catterton Asia Acquisition Corp Warrant,NASDAQ
 LCAHU,"Landcadia Holdings IV, Inc. Units",NASDAQ
+LCAHW,"Landcadia Holdings IV, Inc. Warrant",NASDAQ
 LCAP,Lionheart Acquisition Corp. II Class A Common Stock,NASDAQ
 LCAPU,Lionheart Acquisition Corp. II Unit,NASDAQ
 LCAPW,Lionheart Acquisition Corp. II Warrant,NASDAQ
@@ -5351,7 +5352,6 @@ MRGN,Mergence Corporation Common Stock,U
 MRGO,Margo Caribe Inc. Common Stock,U
 MRGR,ProShares Merger ETF,BATS
 MRGRY,Mirgor SaCifia Sponsored ADR representing Class C shares (Argentina),U
-MRHIF,"Mori Hills REIT Investment Corp., Tokyo Ordinary Shares (Japan)",U
 MRIB,"Marani Brands, Inc. Common Stock",U
 MRIN,Marin Software Incorporated Common Stock,NASDAQ
 MRIRF,BMEX Gold Inc Ordinary Shares,U
@@ -5428,7 +5428,9 @@ MSC,"Studio City International Holdings Limited American depositary shares, each
 MSCI,"MSCI, Inc.",NYSE
 MSCZF,MESCO INC TOKYO Ordinary Shares,U
 MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc.",NYSE
+MSDA,MSD Acquisition Corp. Class A Ordinary Shares,NASDAQ
 MSDAU,MSD Acquisition Corp. Unit,NASDAQ
+MSDAW,MSD Acquisition Corp. Warrant,NASDAQ
 MSET,Madison Sports & Entmt Group Common Stock,U
 MSEX,Middlesex Water Company Common Stock,NASDAQ
 MSEXP,Middlesex Water Company $7 Preferred Stock,U
@@ -5506,4 +5508,3 @@ MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYS
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
-MTDR,MATADOR RESOURCES COMPANY,NYSE

@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
@@ -1237,7 +1238,6 @@ DLPN,"Dolphin Entertainment, Inc. Common Stock",NASDAQ
 DLPTF,LIAONING PORT CO LTD Ordinary Shares,U
 DLPX,Delphax Technologies Inc. Common Stock,U
 DLR,"Digital Realty Trust, Inc.",NYSE
-DLR PRC,"Digital Realty Trust, Inc.  6.625 Percent Series C Cumulative Redeemable Perpetual Preferred Stock",NYSE
 DLR PRJ,"Digital Realty Trust, Inc. 5.250% Series J Cumulative Redeemable Preferred Stock",NYSE
 DLR PRK,"Digital Realty Trust, Inc. 5.850% Series K Cumulative Redeemable Preferred Stock, par value $0.01 pe",NYSE
 DLR PRL,"Digital Realty Trust, Inc. 5.200% Series L Cumulative Redeemable Preferred Stock",NYSE
@@ -1529,6 +1529,7 @@ DSSMY,DS Smith plc Unpsonsored ADR (United Kingdom),U
 DSSPF,"Deep Sea Supply Plc, Cyprus Reg Shares (Finland)",U
 DSTFF,Distinct Infrastructure Group Inc Ordinary Shares (Canada),U
 DSTL,Distillate U.S. Fundamental Stability & Value ETF,ARCA
+DSTTF,DISTIT AB Ordinary Shares,U
 DSTX,Distillate International Fundamental Stability & Value ETF,ARCA
 DSTZF,Distell Group Holdings (South Africa),U
 DSU,"Blackrock Debt Strategies Fund, Inc.",NYSE
@@ -3428,7 +3429,6 @@ FIZZ,National Beverage Corp. Common Stock,NASDAQ
 FJAN,FT Cboe Vest U.S. Equity Buffer ETF - January,BATS
 FJHL,"Fovea Jewelry Holdings, Ltd. Common Stock",U
 FJIOF,"Fujicco Co., Ltd. Ordinary Shares (Japan)",U
-FJJKF,Fuji Kyuko Co Ltd Ordinary Shares (Japan),U
 FJLLF,Fuji Oil Holdings Inc Common Stock,U
 FJNK,Pacific Global Focused High Yield ETF,ARCA
 FJP,First Trust Japan AlphaDEX Fund,NASDAQ
@@ -3497,7 +3497,6 @@ FLIC,First of Long Island Corporation (The) Common Stock,NASDAQ
 FLIDF,FLSmidth & Co. A/S Shares -B- (Denmark),U
 FLIDY,FLSmidth & Co A/S Sponsored ADR (Denmark),U
 FLIN,Franklin FTSE India ETF,ARCA
-FLIR,"FLIR Systems, Inc. (DE) Common Stock",NASDAQ
 FLIVF,F&C Investment Trust Plc Ordinary Shares,U
 FLIY,Franklin FTSE Italy ETF,ARCA
 FLJH,Franklin FTSE Japan Hedged ETF,ARCA
@@ -3735,7 +3734,6 @@ FNMFM,Federal National Mortgage Association Preferred Series E,U
 FNMFN,Federal National Mortgage Association Pfd Ser O Var Rate,U
 FNMFO,Federal National Mortgage Association Pfd Conv Ser 2004-I 5.375%,U
 FNNCF,FINANCIAL FIFTEEN SPLIT CORP Ordinary Shares,U
-FNNGF,HEALTH LOGIC INTERACTIVE INC Ordinary Shares,U
 FNNNF,Finnair OYJ Ordinary Shares,U
 FNNTF,FLATEXDEGIRO AG Ordinary Shares,U
 FNNZF,Fincanna Capital Corp Common Stock,U
@@ -4288,6 +4286,7 @@ GABLF,GABY INC Common Shares,U
 GACR,Green Automotive Company Corporation Common Stock,U
 GADS,"Gadsden Properties, Inc. Common Stock",U
 GAEC,Gulf Alternative Energy Corporation Common Stock,U
+GAEGF,Gage Growth Corp Sub Voting Shs (Canada),U
 GAERF,Grupo Aeroportuario del Centro Norte Shares B (Mexico),U
 GAEX,"GA eXpress, Inc. Common Stock",U
 GAFL,Great American Financial Corporation Common Stock,U
@@ -5507,3 +5506,5 @@ GVP,"GSE Systems, Inc. Common Stock",NASDAQ
 GVSI,Good Vibrations Shoes Inc. Common Stock,U
 GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
 GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
+GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
+GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
