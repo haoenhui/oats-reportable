@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
@@ -644,7 +647,6 @@ SNRR,Super Nova Resources Inc  Common Stock,U
 SNRS,Sunrise Consulting Group Inc Common Stock,U
 SNRY,"Solar Energy Initiatives, Inc. Common Stock",U
 SNSE,"Sensei Biotherapeutics, Inc. Common Stock",NASDAQ
-SNSFF,Venzee Technologies Inc. Ordinary Shares,U
 SNSGF,"Sense Technologies, Inc. Common Shares",U
 SNSKF,Sanko Sangyo Co Ltd Ordinary Shares (Japan),U
 SNSR,Global X Funds Global X Internet of Things ETF,NASDAQ
@@ -703,7 +705,6 @@ SOHGF,Sohgo Security Services Co Ltd Tokyo Ordinary Shares (Japan),U
 SOHGY,Sohgo Security Services Co Ltd Tokyo American Depositary Shares (Japan),U
 SOHI,"Sortis Holdings, Inc. Common Stock",U
 SOHL,Southern Trust Securities Holding Corp. Common Stock,U
-SOHNF,Sanoh Industrial Co Ltd Ordinary Shares (Japan),U
 SOHO,Sotherly Hotels Inc. Common Stock,NASDAQ
 SOHOB,Sotherly Hotels Inc. 8.0% Series B Cumulative Redeemable Perpetual Preferred Stock,NASDAQ
 SOHOF,Soho China Limited Ordinary shares (Cayman Islands),U
@@ -992,6 +993,7 @@ SQNNY,Square Enix Hldgs Co Ltd American Depositary Receipts - Unsponsored Repstg
 SQNS,"Sequans Communications S.A. American Depositary Shares, each representing four Ordinary Shares",NYSE
 SQNXF,Square Enix Co Ltd Ordinary Shares (Japan),U
 SQQQ,ProShares UltraPro Short QQQ,NASDAQ
+SQSP,"Squarespace, Inc.",NYSE
 SQTI,"Solar Quartz Technologies, Inc Common Stock",U
 SQZ,SQZ Biotechnologies Company,NYSE
 SQZZF,Serica Energy Plc Ordinary Shares (UK),U
@@ -1945,7 +1947,6 @@ TDIV,First Trust Exchange-Traded Fund VI First Trust NASDAQ Technology Dividend 
 TDLAF,TBG Diagnostics Ltd Ordinary Shares,U
 TDLDF,T.RAD CO LTD SHS (Japan),U
 TDMMF,Mach7 Technologies Ltd Ordinary Shares,U
-TDNOF,Tadano Ltd Ordinary Shares (Japan),U
 TDNT,Trident Brands Incorporated Common Stock,U
 TDOC,"Teladoc Health, Inc.",NYSE
 TDPAY,TODS S P A Unsponsored ADR Repstg 1/10 SHS(Italy),U
@@ -2574,7 +2575,6 @@ TOL,"Toll Brothers, Inc.",NYSE
 TOLWF,TRICAN WELL SERVICE LTD Ordinary Shares,U
 TOLZ,ProShares DJ Brookfield Global Infrastructure ETF,ARCA
 TOMDF,Todos Med Ltd Ordinary Shares (Israel),U
-TOMYF,Tomy Co Ltd Ordinary Shares (Japan),U
 TOMYY,Tomy Co Ltd American Depositary Receipts - Unsponsored,U
 TOMZ,"TOMI Environmental Solutions, Inc. Common Stock",NASDAQ
 TONPF,Toppan Printing Ltd Ord Ordinary Shares,U
@@ -2650,7 +2650,7 @@ TPPRF,Top Strike Res Corp Ordinary Shares (Canada),U
 TPPTY,TPG TELECOM LTD American Depositary Receipts - Unsponsored (Australia),U
 TPR,"Tapestry, Inc. Common Stock",NYSE
 TPRFF,Gran Colombia Gold Corp. Ordinary Shares,U
-TPRKY,Travis Perkins PLC Sponsored ADR (United Kingdom),U
+TPRKD,Travis Perkins Plc Ord 10p American Depositary Receipts - Sponsored,U
 TPRP,Tower Properties Company New Common Stock,U
 TPRXF,Gran Colombia Gold Corp Warrant 04/30/2024,U
 TPSC,Timothy Plan US Small Cap Core ETF,ARCA
@@ -2698,6 +2698,7 @@ TREB U,"Trebia Acquisition Corp. Units, each consisting of one Class A Ordinary 
 TREB WS,"Trebia Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary Share at",NYSE
 TREC,Trecora Resources,NYSE
 TREE,"LendingTree, Inc. Common Stock",NASDAQ
+TREIF,TREATMENT COM INTL INC COM (Canada),U
 TREN,Trend Innovations Holding Inc. Common Stock,U
 TREP,"Trucept, Inc. Common Stock",U
 TREVF,Trevali Mining Corp. Common shares (Canada),U
@@ -3626,6 +3627,7 @@ UVSS,"Universal Systems, Inc. Washington New Common Stock",U
 UVSTF,Universal Star Holdings Ltd. Ordinary Shares (Cayman Islands),U
 UVV,Universal Corporation,NYSE
 UVXY,ProShares Ultra VIX Short-Term Futures ETF,BATS
+UWCBF,UWC BERHAD ORDINARY SHARE (Malaysia),U
 UWEFF,U3O8 Corp Common Shares,U
 UWHGF,United World Holding Group Ltd Ordinary Shares,U
 UWHR,Uwharrie Capital Corp Common Stock,U
@@ -3782,6 +3784,7 @@ VENAU,Venus Acquisition Corporation Units,NASDAQ
 VENAW,Venus Acquisition Corporation Warrant,NASDAQ
 VEND,Generation Next Franchise Brands Inc Common Stock,U
 VENV,Venture Vanadium Inc. Common Stock,U
+VENZF,Venzee Technologies Inc. Ordinary Shares,U
 VEOEF,Veolia Environnement Ordinary Shares (France),U
 VEOEY,Veolia Environnement American Depositary Receipts - Sponsored,U
 VEON,VEON Ltd. ADS,NASDAQ
@@ -4007,6 +4010,7 @@ VMBS,Vanguard Mortgage-Backed Securities ETF,NASDAQ
 VMC,Vulcan Materials Company(Holding Company),NYSE
 VMCS,VisualMED Clinical Solutions CorporationCommon Stock,U
 VMD,"Viemed Healthcare, Inc. Common Shares",NASDAQ
+VMEOV,"Vimeo, Inc. Common Stock When Issued",NASDAQ
 VMHG,Victory Marine Holdings Corp. Common Stock,U
 VMI,"Valmont Industries, Inc.",NYSE
 VMII,"Voice Mobility International, Inc. Common Stock",U
@@ -5228,7 +5232,6 @@ YLD,Principal Active Income ETF,ARCA
 YLDE,Legg Mason ETF Investment Trust ClearBridge Dividend Strategy ESG ETF,NASDAQ
 YLDGF,Yanlord Land Group Ltd Ordinary Shares (Singapore),U
 YLDGY,Yanlord Land Group Ltd Unsponsored ADR (Singapore),U
-YLLWF,Yellow Hat Limited Ordinary Shares (Japan),U
 YLLXF,Yellow Cake Plc Ordinary Shares,U
 YLWDF,YELLOW PAGES LTD  Common Shares,U
 YLWWF,YELLOW PAGES LTD  Warrant  11/30/2022,U
@@ -5278,7 +5281,7 @@ YSGG,1399 INTERNET TECHNOLOGY APPLICATION GROUP INC Common Stock,U
 YSHCF,YESTAR HEALTHCARE HLDGS CO LTD Common Shares Cayman Islands(KY ),U
 YSHLF,Yangzijiang Shipbuilding Holdings Ltd Ordinary shares (Singapore),U
 YSHOF,Yoshitake Inc Ordinary Shares (Japan),U
-YSSCD,NOVA CANNABIS INC Ordinary Shares,U
+YSSCF,NOVA CANNABIS INC Ordinary Shares,U
 YTAYF,Yatak Ve Yorgan Sanayi Ve Ticaret Yatas Ordinary Shares (Turkey),U
 YTEN,"Yield10 Bioscience, Inc. Common Stock",NASDAQ
 YTFD,"Yacht Finders, Inc. Common Stock",U

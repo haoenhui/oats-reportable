@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
+MTCR,"Metacrine, Inc. Common Stock",NASDAQ
+MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
@@ -199,7 +202,7 @@ MYFW,"First Western Financial, Inc. Common Stock",NASDAQ
 MYGN,"Myriad Genetics, Inc. Common Stock",NASDAQ
 MYHI,Mountain High Acquisitions Corp. COM,U
 MYI,"BLACKROCK MUNIYIELD QUALITY FUND III, INC.",NYSE
-MYIDD,KILLI LTD Common Shares,U
+MYIDF,KILLI LTD Common Shares,U
 MYJ,"Blackrock Muni Yield New Jersey Fund, Inc.",NYSE
 MYLUY,Malayan Utd Inds Berhad Ord American Depositary Shares,U
 MYMD,"MyMD Pharmaceuticals, Inc. Common Stock",NASDAQ
@@ -1869,6 +1872,7 @@ OSTO,Original Sixteen To One Mine Common Stock,U
 OSTR,Oyster Enterprises Acquisition Corp. Class A Common Stock,NASDAQ
 OSTRU,Oyster Enterprises Acquisition Corp. Unit,NASDAQ
 OSTRW,Oyster Enterprises Acquisition Corp. Warrant,NASDAQ
+OSTTF,OSAKA TITANIUM TECHNOLOGIES CO LTD SHS (Japan),U
 OSUKF,Otsuka Corp Ordinary Shares (Japan),U
 OSUR,"OraSure Technologies, Inc. Common Stock",NASDAQ
 OSW,OneSpaWorld Holdings Limited Common Shares,NASDAQ
@@ -2672,7 +2676,7 @@ PLHCF,Plant Health Care Plc London Ordinary Shares (United Kingdom),U
 PLHNF,Paul Hartmann AG Heidenheim An Der Brenz Ordinary Shares (Germany),U
 PLIN,"China Xiangtai Food Co., Ltd. Ordinary Shares",NASDAQ
 PLKT,Solar Gold Ltd. Common Stock,U
-PLL,Piedmont Lithium Limited American Depositary Receipts,NASDAQ
+PLL,Piedmont Lithium Limited Common Stock,NASDAQ
 PLLDF,The Philodrill Corporation Ov Ordinary Shares,U
 PLLHF,Gemfields Group Ltd Ordinary Shares,U
 PLLIF,Pirelli & Co SPA Ordinary Shares (Italy),U
@@ -2877,6 +2881,7 @@ POLJF,Polo Resources Ltd Ordinary Shares (British Virgin Islands),U
 POLR,Polar Petroleum Corp. Common Stock,U
 POLXF,Polydex Pharmaceuticals Limited Common Stock,U
 PONB,Pioneer Bancshares Inc Tex Common Stock,U
+POND U,"Angel Pond Holdings Corporation Units, each consisting of one Class A ordinary share and one-third o",NYSE
 PONGF,Atari Shares Prov de Regroupement (France),U
 PONT,Pontiac Bancorp Inc Common Stock,U
 POOL,Pool Corporation Common Stock,NASDAQ
@@ -3101,6 +3106,7 @@ PRSNF,Personas Social Inc Common Shares,U
 PRSR,Prospector Capital Corp. Class A Ordinary Shares,NASDAQ
 PRSRU,Prospector Capital Corp. Unit,NASDAQ
 PRSRW,Prospector Capital Corp. Warrants,NASDAQ
+PRSTF,PROSPECT RES LTD SHS (Australia),U
 PRT,PermRock Royalty Trust Trust Unit,NYSE
 PRTA,Prothena Corporation plc Ordinary Shares,NASDAQ
 PRTC,PureTech Health plc American Depositary Shares,NASDAQ
@@ -3347,7 +3353,6 @@ PTLPF,PT LIPPO CIKARANG TBK Ordinary Shares,U
 PTMC,Pacer Trendpilot US Mid Cap ETF,BATS
 PTMEF,PT MEDIA NUSANTARA CITRA TBK Ordinary Shares (Indonesia),U
 PTMEY,PT Media Nusantara Citra TBK Unsponsored ADR (Indonesia),U
-PTMGF,Platinum Asset Management Ltd Ordinary Shares (Australia),U
 PTMIF,PT MANDOM INDONESIA TBK Ordinary Shares  (Indonesia),U
 PTMKF,PT Ultrajaya Milk Industry and Trading Co Ordinary Shares (Indonesia),U
 PTMN,Portman Ridge Finance Corporation Common Stock,NASDAQ
@@ -5505,6 +5510,3 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U

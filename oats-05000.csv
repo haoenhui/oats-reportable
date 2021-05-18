@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
@@ -2423,7 +2422,6 @@ EPC,Edgewell Personal Care Company,NYSE
 EPCFF,Empiric Student Property PLC Ordinary Shares (United Kingdom),U
 EPD,Enterprise Products Partners L.P.,NYSE
 EPEO,E'Prime Aerospace Corporation New Common Stock,U
-EPGAF,EPIGENOMICS AG Rights   05/17/2021,U
 EPGC,ECom Products Group Common Stock,U
 EPGG,Empire Global Gaming Inc Common Stock,U
 EPGNF,EPIGENOMICS AG Ordinary Shares,U
@@ -2503,7 +2501,7 @@ EQSMF,EQUUS MNG LTD SHS (Australia),U
 EQT,EQT CORP,NYSE
 EQTD,Equal Trading Inc.Common Stock,U
 EQTE,"EQM Technologies & Energy, Inc. Common Stock",U
-EQTL,Equitech Intl Corp Common Stock,U
+EQTLD,Equitech Intl Corp Common Stock,U
 EQTRF,Altamire Gold Corp Ordinary Shares,U
 EQTXF,Lake Winn Resources Corp.  Ordinary Shares,U
 EQUEY,Equatorial Energia S.A. Sponsored ADR (Brazil),U
@@ -3759,7 +3757,7 @@ FOE,Ferro Corporation,NYSE
 FOEAF,Dolphin Drilling ASA Ordinary Shares,U
 FOECF,Foster Electric Co Ltd Ordinary Shares (Japan),U
 FOF,Cohen & Steers Closed End Opportunity Fund,NYSE
-FOGCF,Fogchain Corp Common Shares,U
+FOGCD,Avisa Diagnostics Inc. Common Shares,U
 FOJCF,Fortum Corporation (Finland) Ordinary Shares,U
 FOJCY,Fortum OYJ Unsponsored ADR (Finland),U
 FOLD,"Amicus Therapeutics, Inc. Common Stock",NASDAQ
@@ -3767,6 +3765,7 @@ FOLGF,Falcon Oil & Gas Ltd Ordinary Shares,U
 FOMC,FOMO CORP Common Stock,U
 FONR,Fonar Corporation Common Stock,NASDAQ
 FONU,FONU2 Inc. Common Stock,U
+FONWF,FLOWER ONE HLDGS INC WT EXP 9/18/2023 (Canada),U
 FOR,Forestar Group Inc.,NYSE
 FORA,Forian Inc. Common Stock,NASDAQ
 FORD,"Forward Industries, Inc. Common Stock",NASDAQ
@@ -4217,6 +4216,7 @@ FVT WS,"Fortress Value Acquisition Corp. III Warrants, each whole warrant exerci
 FVTI,"Fortune Valley Treasures, Inc. Common Stock",U
 FVVSF,Aranjin Resources Ltd.  Ordinary Shares,U
 FWAA,Fifth Wall Acquisition Corp. I Class A Common Stock,NASDAQ
+FWAC,Fifth Wall Acquisition Corp. III Class A Ordinary Shares,NASDAQ
 FWAV,FOURTH WAVE ENERGY INC Common Stock,U
 FWDB,AdvisorShares FolioBeyond Smart Core Bond ETF,ARCA
 FWDEQ,"Fieldwood Energy, Inc Common Stock  Delaware",U
@@ -4743,6 +4743,7 @@ GISMF,GRUPO INDUSTRIAL SALTILLO SAB DE CV SHS SERIES -A- (Mexico),U
 GITH,"Global IT Holdings, Inc. New Common Stock",U
 GIVPY,Grupo de Inversiones Suramericana S.A. Sponsored ADR Representing Level 1 Preferred Shares (Columbia),U
 GIVSY,Grupo De Inversiones Suramericana S.A. Sponsored ADR (Colombia),U
+GIWWU,"GigInternational1, Inc. Units",NASDAQ
 GIX,"GigCapital2, Inc. Common Stock",NYSE
 GIX RT,"GigCapital2, Inc. Rights, each exchangeable into one-twentieth of a share of Common Stock",NYSE
 GIX U,"GigCapital2, Inc.",NYSE
@@ -4798,6 +4799,7 @@ GLCNF,"Glencore Xstrata PLC, St. Helier Ordinary Shares (Jersey)",U
 GLCO,Global Links Corporation Common Stock,U
 GLD,"SPDR Gold Trust, SPDR Gold Shares",ARCA
 GLDAF,GLOBALDATA PLC SHS (United Kingdom),U
+GLDB,Strategy Shares Gold-Hedged Bond ETF,BATS
 GLDD,Great Lakes Dredge & Dock Corporation Common Stock,NASDAQ
 GLDFF,Golden Leaf Hldgs Ltd Ordinary Shares (Canada),U
 GLDG,GoldMining Inc.,AMEX
@@ -5147,7 +5149,7 @@ GPMTF,GPM Metals Inc. Ordinary Shares,U
 GPN,"Global Payments, Inc.",NYSE
 GPOLF,Grupa Lotos SA Ordinary Shares (Poland),U
 GPOPF,PROMOTORA DE INFORMACIONES SA Ordinary Shares,U
-GPORQ,Gulfport Energy Corporation Common Stock,U
+GPOR,Gulfport Energy Corporation,NYSE
 GPOTF,Gold Port Corp Common Shares (Canada),U
 GPOVF,Grupo Carso Sa Spon 144a Adr Ordinary Shares,U
 GPOVY,Grupo Carso S A de C V Sponsored ADR representing Partn Ctf,U

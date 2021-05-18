@@ -228,7 +228,7 @@ HCLC,Health Chemical Corporation Common Stock,U
 HCLHF,Holista Colltech Limited Ordinary Shares (Australia),U
 HCM,HUTCHMED (China) Limited American Depositary Shares,NASDAQ
 HCMC,Healthier Choices Management Corp. Common Shares,U
-HCMLF,LAFARGEHOLCIM LTD  Ordinary Shares,U
+HCMLF,HOLCIM LTD Ordinary Shares,U
 HCMLY,LafargeHolcim Ltd. American Depositary Receipts - Unsponsored,U
 HCPHF,Holcim Philippines Inc Ordinary Shares (Philippines),U
 HCPHY,Holcim Philippines Inc Unsponsored ADR (Philippines),U
@@ -1214,6 +1214,7 @@ ICGL,"Image Chain Group Limited, Inc. Common Stock",U
 ICGUF,Intermediate Cap Grp Plc Ordinary Shares,U
 ICHBF,Industrias Ch Sa de Cv Ich Shares B,U
 ICHGF,Intercontinental Hotels Group Ordinary Shares,U
+ICHHF,ICHINEN HLDGS CO LTD SHS (Japan),U
 ICHIF,Ichigo Group Holdings Co Ltd Ordinary Shares (Japan),U
 ICHMF,Ise Chemicals Corp Ordinary Shares (Japan),U
 ICHR,Ichor Holdings Ordinary Shares,NASDAQ
@@ -2105,7 +2106,7 @@ ISRCF,iShares V Plc S&P 500 Information Technology Sector (Ireland) Exchange Tra
 ISRG,"Intuitive Surgical, Inc. Common Stock",NASDAQ
 ISRHF,iShares V Plc S&P Energy Sector Ucits Etf (Ireland) Exchange Traded Fund,U
 ISRIF,IShares IV PLC Ptg Shs Exchange Traded Fund USD (Ireland),U
-ISRJF,Gen III Oil Corporation Ordinary Shares,U
+ISRJF,Regen III Corp Ordinary Shares,U
 ISRMF,Isramco Negev 2 Ltd Partnership UTS LP (Israel),U
 ISRNF,iShares V PLC S&P 500 Consumer Discretionary Sector Ucits ETF (Ireland) Exchange Traded Fund,U
 ISRPF,Ishares Plc Ordinary shares (Ireland),U
@@ -2650,6 +2651,7 @@ JNK,SPDR Bloomberg Barclays High Yield Bond ETF,ARCA
 JNMB,"Jinhua Marine Biological (USA), Inc. Common Stock",U
 JNNDF,JAPAN DISPLAY INC Ordinary Shares (Japan),U
 JNNLY,JOINN LABORATORIES CHINA CO. LTD. American Depositary Receipts - Unsponsored,U
+JNOMF,JUNO MINERALS LTD ORDINARY FULLY PAID (Australia),U
 JNPKF,Jenoptik AG Ordinary Shares,U
 JNPR,Juniper Networks Inc,NYSE
 JNSH,JNS Holdings Corporation Common Stock,U
@@ -2827,6 +2829,7 @@ JYSKF,Jyske Bank A/S Silkeborg Ordinary Shares (Denmark),U
 JYSKY,Jyske Bank A/S Silkeborg Unsponsored ADR (Denmark),U
 JYUAF,JIAYUAN INTERNATIONAL GROUP Ltd. Shs (Cayman Islands),U
 JZCLF,"JZ Capital Partners Limited, Guernsey Ordinary shares (Guernsey)",U
+JZXN,"Jiuzi Holdings, Inc. Ordinary Shares",NASDAQ
 JZZI,"JZZ Technologies, Inc. Common Stock",U
 K,Kellogg Company,NYSE
 KACPF,Koa Corp Ordinary Shares (Japan),U
@@ -3212,7 +3215,7 @@ KOD,Kodiak Sciences Inc Common Stock,NASDAQ
 KODK,EASTMAN KODAK COMPANY,NYSE
 KOF,"Coca-Cola FEMSA, S.A.B DE C.V",NYSE
 KOGL,Kopp Glass Inc Common Stock,U
-KOGMD,KGL RES LTD Ordinary Shares,U
+KOGMF,KGL RES LTD Ordinary Shares,U
 KOIN,Capital Link NextGen Protocol ETF,ARCA
 KOJAF,Kojamo PLC Ordinary Shares (Finland),U
 KOKU,Xtrackers MSCI Kokusai Equity ETF,ARCA
@@ -3714,6 +3717,7 @@ LGACW,Lazard Growth Acquisition Corp. I Warrants,NASDAQ
 LGAH,"LGA Holdings, Inc. Common Stock",U
 LGBI,"Cannabiz Mobile, Inc .Common Stock",U
 LGBS,"Legends Business Group, Inc. Common Stock",U
+LGBT,Procure ETF Trust I LGBTQ + ESG100 ETF,NASDAQ
 LGCHF,LCT Hldgs Ltd Ordinary Shares,U
 LGCLF,LG Chem Ltd Ordinary Shares (South Korea),U
 LGCP,LEGION CAP CORP Common Stock,U
@@ -4215,6 +4219,7 @@ LWACW,Locust Walk Acquisition Corp. Warrant,NASDAQ
 LWAY,"Lifeway Foods, Inc. Common Stock",NASDAQ
 LWCL,LEWIS & CLARK BANCORP Common Stock,U
 LWCTF,"LCTI Low Carbon Technologies, Inc. Shs (Canada)",U
+LWDEF,LAKEWOOD EXPL INC COM (Canada),U
 LWEL,Luckwel Pharmaceuticals Inc. Common Stock,U
 LWLG,"Lightwave Logic, Inc. Common Stock",U
 LWLW,Longwen Group Corp. Common Stock,U
@@ -4543,6 +4548,7 @@ MCVT,"Mill City Ventures III, Ltd. Common Stock",U
 MCY,Mercury General Corp.,NYSE
 MCZAF,Mad Catz Interactive Inc Common Shares,U
 MD,"Mednax, Inc (Holding Company)",NYSE
+MDALF,MDA LTD COM (Canada),U
 MDAV,"Davi Luxury Brand Group, Inc. Common Stock",U
 MDAW,Media Way Corporation Common Stock,U
 MDB,"MongoDB, Inc. Class A Common Stock",NASDAQ
@@ -5126,7 +5132,6 @@ MNDJF,Mandalay Resources Corporation Common Shares,U
 MNDMF,Firefly Res Ltd Ordinary Shares,U
 MNDO,MIND C.T.I. Ltd. Ordinary Shares,NASDAQ
 MNDP,"Mundus Group, Inc. Common Stock",U
-MNELF,Mission NewEnergy Limited Ordinary Shares,U
 MNESP,MSA Safety Inc 4.50% Preferred Stock,U
 MNFSF,Manifestseven Holdings Common Shares,U
 MNGG,"Mining Global, Inc. Common Stock",U
@@ -5505,6 +5510,3 @@ MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
-MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
-MTCR,"Metacrine, Inc. Common Stock",NASDAQ
-MTD,Mettler-Toledo International,NYSE

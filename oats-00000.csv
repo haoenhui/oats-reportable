@@ -269,6 +269,7 @@ ACOR,"Acorda Therapeutics, Inc. Common Stock",NASDAQ
 ACOSF,Archos ACT.NOM,U
 ACP,Aberdeen Income Credit Strategies Fund,NYSE
 ACP PRA,Aberdeen Income Credit Strategies Fund 5.250% Series A Perpetual Preferred Stock,NYSE
+ACP RTWI,"Aberdeen Income Credit Strategies Fund Rights (expiring June 16, 2021)",NYSE
 ACPGF,ACACIA PHARMA GROUP PLC ORD GBP0.02 (United Kingdom),U
 ACPIF,AC ENERGY CORP Common Stock,U
 ACPRF,ARCPACIFIC RES CORP Common Shares (Canada),U
@@ -463,7 +464,6 @@ AEF,"Aberdeen Emerging Markets Equity Income Fund, Inc.",AMEX
 AEFC,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,NYSE
 AEG,AEGON N.V.,NYSE
 AEGG,"American Energy Group, Ltd. New Common Stock",U
-AEGN,Aegion Corp Common Stock,NASDAQ
 AEGOF,Aegon NV Ordinary Shares (Netherlands),U
 AEGXF,AECON GROUP INC Ordinary Shares,U
 AEGY,Alternative Energy Partners Inc. Common Stock,U
@@ -523,7 +523,9 @@ AEYE,"AudioEye, Inc. Common Stock",NASDAQ
 AEYYF,Alpha Energy Holdings Ltd Ordinary Shares (Singapore),U
 AEZS,Aeterna Zentaris Inc. Common Stock,NASDAQ
 AFAP,AFA Protective Systems Inc. Common Stock,U
+AFAQ,AF Acquisition Corp. Class A Common Stock,NASDAQ
 AFAQU,AF Acquisition Corp. Units,NASDAQ
+AFAQW,AF Acquisition Corp. Warrants,NASDAQ
 AFB,"Alliance National Municipal Income Fund, Inc.",NYSE
 AFBA,"Allied First Bancorp, Inc. (Maryland) Common Stock",U
 AFBG,"American Fiber Green Products, Inc. Common Stock",U
@@ -1199,7 +1201,6 @@ AMNE,American Green Group Inc New Common Stock,U
 AMNF,"Armanino Foods of Distinction, Inc. New Common Stock",U
 AMNL,"Applied Minerals, Inc. Common Stock",U
 AMNP,American Sierra Gold Corp. Common Stock,U
-AMNTF,ASIA CEMENT CHINA HOLDINGS CORPORATION SHS (Cayman Islands),U
 AMNZF,AMBRIAN PLC Ordinary Shares (United Kingdom),U
 AMOM,Qraft AI-Enhanced US Large Cap Momentum ETF,ARCA
 AMOSF,Atomos Ltd Ordinary Shares (Australia),U
@@ -1895,6 +1896,7 @@ ATCO PRE,Atlas Corp. 8.25% Series E Cumulative Redeemable Perpetual Preferred Sh
 ATCO PRG,Atlas Corp. 8.20% Cumulative Redeemable Perpetual Preferred Shares - Series G,NYSE
 ATCO PRH,Atlas Corp. 7.875% Cumulative Redeemable Perpetual Preferred Shares - Series H,NYSE
 ATCO PRI,Atlas Corp. Series I Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares,NYSE
+ATCOL,Atlas Corp. 7.125% Notes due 2027,NASDAQ
 ATCV,ATC Venture Group Inc.,U
 ATCX,"Atlas Technical Consultants, Inc. Class A Common Stock",NASDAQ
 ATDEF,Montana Exploration Corp. Common Shares,U
@@ -2012,7 +2014,9 @@ ATURF,Sixth Wave Innovations Inc Ordinary Shares,U
 ATUS,"Altice USA, Inc. Class A Common Stock",NYSE
 ATUSF,Altius Minerals Corp Ordinary Shares (Canada),U
 ATUUF,Altura Energy Inc Ordinary Shares (Canada),U
+ATVC,Tribe Capital Growth Corp I Class A common stock,NASDAQ
 ATVCU,Tribe Capital Growth Corp I Units,NASDAQ
+ATVCW,Tribe Capital Growth Corp I Warrant,NASDAQ
 ATVDY,Atresmedia Corporacion De Medios De Comunicacion  American Depositary Receipts - Unsponsored,U
 ATVI,"Activision Blizzard, Inc. Common Stock",NASDAQ
 ATVK,Ameritek Ventures Common Stock,U
@@ -2362,6 +2366,7 @@ BAC PRP,"Bank of America Corporation Depositary Shares, each representing a 1/1,
 BACHF,Bank of China Ltd Beijing Shares -H- (China),U
 BACHY,Bank of China Ltd Beijing Unsponsored ADR representing H shares (China),U
 BACRP,Bank of America Corp 7% Cumulative Redeemable Preferred Stock,U
+BADEF,BALD EAGLE GOLD CORP COM (Canada),U
 BADFF,BADGER INFRASTRUCTURE SOLUTIONS LTD Common Shares,U
 BADG,Badger St Ethanol LLC Cap Unit Class A,U
 BADGA,Badger St Ethanol LLC Unit CL A-1,U
@@ -2969,7 +2974,6 @@ BKHY,BNY Mellon High Yield Beta ETF,ARCA
 BKHYY,Bank Hapoalim BM Sponsored ADR (Israel),U
 BKI,"Black Knight, Inc.  Common Stock",NYSE
 BKIE,BNY Mellon International Equity ETF,ARCA
-BKIFF,Brookfield Infrastructure Fin ULC Sub Nt Exp 05/24/2081 (Canada),U
 BKIMF,Bankinter SA Madrid Registered Shares (Spain),U
 BKIRF,Black Iron Inc Com (Canada),U
 BKISF,ISHARES IV PLC Ishares US Mortgage Backed Securities UCITS ETF (Ireland),U
@@ -3741,7 +3745,7 @@ BURL,"BURLINGTON STORES, INC.",NYSE
 BUROF,Burcon NutraScience Corporation Ordinary Shares,U
 BUSC,"Blue Star Global, Inc. Common Stock",U
 BUSE,First Busey Corporation Class A Common Stock,NASDAQ
-BUSXD,VICINITY MTR CORP Ordinary Shares,U
+BUSXF,VICINITY MTR CORP Ordinary Shares,U
 BUUZ,"CalEthos, Inc.  Common Stock",U
 BUYZ,Franklin Disruptive Commerce ETF,BATS
 BUZZ,VanEck Vectors Social Sentiment ETF,ARCA
@@ -3778,7 +3782,7 @@ BWACW,Better World Acquisition Corp. Warrants,NASDAQ
 BWAGF,BAWAG Group AG Ordinary Shares (Austria),U
 BWAL,Beach Community Bank Fort Walton Beach Florida Common Stock,U
 BWAV,Betawave Corporation Common Stock,U
-BWAY,Brainsway Ltd. American Depositary Shares,NASDAQ
+BWAY,BrainsWay Ltd. American Depositary Shares,NASDAQ
 BWB,"Bridgewater Bancshares, Inc. Common Stock",NASDAQ
 BWBA,"BroadWebAsia, Inc. Common Stock",U
 BWEL,Boswell J G Co Common Stock,U
@@ -4209,7 +4213,6 @@ CCJMF,"Melior Resources, Inc Ordinary Shares",U
 CCK,Crown Holdings Inc.,NYSE
 CCKWF,CCK CONS HOLDINGS BERHAD WARRANTS EXP 6/18/2023 (Malaysia),U
 CCL,Carnival Corporation,NYSE
-CCLAY,Coca Cola Amatil Limited Sponsored ADR,U
 CCLLF,CCL Inds Inc Cl A Ordinary Shares (Canada),U
 CCLP,CSI Compressco LP Common Units,NASDAQ
 CCLX,"CableClix (USA), Inc. Common Stock",U
@@ -4635,7 +4638,6 @@ CHFW U,"Consonance-HFW Acquisition Corp. Units, each consisting of one Class A O
 CHFW WS,"Consonance-HFW Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary S",AMEX
 CHGCF,Chugai Pharmaceutical Co Ltd Ordinary Shares (Japan),U
 CHGCY,Chugai Pharmaceutical Ltd Unsponsored ADR (Japan),U
-CHGDF,China Lilang Ltd Ordinary Shares (Cayman Islands),U
 CHGG,"CHEGG, INC.",NYSE
 CHGI,"China Carbon Graphite Group, Inc. Common Stock",U
 CHGS,"China GengSheng Minerals, Inc. Common Stock",U
@@ -5508,3 +5510,4 @@ CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
+CPCC,"Striper Energy, Inc. Common Stock",U
