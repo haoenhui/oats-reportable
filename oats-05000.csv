@@ -1520,6 +1520,7 @@ DSOC,Innovator Double Stacker ETF - October,BATS
 DSOL,Drug Free Solution Inc. Common Stock,U
 DSOX,Triton Emission Solutions Inc. Common Stock,U
 DSP,Viant Technology Inc. Class A Common Stock,NASDAQ
+DSPC,The De-SPAC ETF,ARCA
 DSPG,"DSP Group, Inc. Common Stock",NASDAQ
 DSRLF,Diasorin S.R.L. Shares (Italy),U
 DSS,"Document Security Systems, Inc.",AMEX
@@ -2932,7 +2933,7 @@ EXRG,"Ecologix Resource Group, Inc. Common Stock",U
 EXROF,Exro Technologies Inc Ordinary Shares (Canada),U
 EXRTF,Exactearth Ltd Ordinary Shares (Canada),U
 EXSO,Cons Eco-Systems Inc Common Stock,U
-EXSPF,EXPERT SYSTEM S P A AZIONI ORDINARIE SENZA VALORE (NOMINALE - ORDINARY SHARES) (Italy),U
+EXSPF,EXPERT AI SPA Ordinary Shares,U
 EXSR,"Exchange Bank (Santa Rosa, CA) Common Stock",U
 EXTC,Exide Technologies Common Stock,U
 EXTDF,European Exchange Traded Fund Company Ordinary shares (United Kingdom),U
@@ -3653,7 +3654,6 @@ FMOO,F & M Bancorp  (Ohio) Common Stock,U
 FMPR,Fame Productions Inc. Common Stock,U
 FMS,Fresenius Medical Care AG & Co. KGaA,NYSE
 FMSVF,Forth Smart Svc Co Ltd Units Non-Voting Dep Rcpt (Thailand),U
-FMTNF,Point Loma Resources Ltd. Ordinary Shares,U
 FMTX,"Forma Therapeutics Holdings, Inc. Common Stock",NASDAQ
 FMX,"FOMENTO ECONOMICO MEXICANO, S.A.B. DE C.V.",NYSE
 FMXUF,Fomento Economico Mexicano SAB DE Units Cons of 1 Shs-B & 4 Shs-D,U
@@ -3755,7 +3755,6 @@ FOCS,Focus Financial Partners Inc. Class A Common Stock,NASDAQ
 FOCT,FT Cboe Vest U.S. Equity Buffer ETF - October,BATS
 FOE,Ferro Corporation,NYSE
 FOEAF,Dolphin Drilling ASA Ordinary Shares,U
-FOECF,Foster Electric Co Ltd Ordinary Shares (Japan),U
 FOF,Cohen & Steers Closed End Opportunity Fund,NYSE
 FOGCD,Avisa Diagnostics Inc. Common Shares,U
 FOJCF,Fortum Corporation (Finland) Ordinary Shares,U
@@ -3948,6 +3947,7 @@ FRTD,"Fortitude Group, Inc. Common Stock",U
 FRTEU,Frontier Ethanol LLC Cap Unit Class A,U
 FRTG,FRONTERA GROUP INC Common Stock,U
 FRTHF,Fruitas Holdings Inc. Ordinary Shares (Philippines),U
+FRTM,FORTIUM HLDGS CORP Common Stock,U
 FRTN,Fortran Corporation Common Stock,U
 FRTTF,FORTRESS TECHNOLOGIES INC CDA COM (Canada),U
 FRTXF,Fortnox AB Ordinary Shares (Sweden),U
@@ -5220,7 +5220,7 @@ GRLGF,"Greatland Gold PLC, London, Ordinary Shares  (United Kingdom)",U
 GRLT,"Grillit, Inc. Common Stock",U
 GRLVF,Group Eleven Res Corp Ordinary Shares (Canada),U
 GRMC,Goldrich Mining Company Common Stock,U
-GRMM,"Grom Social Enterprises, Inc. Common Stock",U
+GRMMD,"Grom Social Enterprises, Inc. Common Stock",U
 GRMN,Garmin Ltd. Common Stock (Switzerland),NASDAQ
 GRMWF,TPCO HLDG CORP WT EXP 01/15/2026 Warrant,U
 GRN,iPath Series B Carbon Exchange-Traded Notes,ARCA
@@ -5312,7 +5312,6 @@ GS PRC,"Goldman Sachs Group Dep. Shares (1/1000 Int. of Floating Rate Non-Cum. P
 GS PRD,"Goldman Sachs Group, Inc. (Each representing 1/1000th Interest in a Share of Floating Rate Non-cumul",NYSE
 GS PRJ,"GOLDMAN SACHS GROUP, INC. 5.50%  SER J",NYSE
 GS PRK,"GOLDMAN SACHS GROUP, INC. THE 6.375%",NYSE
-GS PRN,"Goldman Sachs Group, Inc., The Depositary Shares, Each Representing 1/1,000th Interest in a Share of",NYSE
 GSAC,GelStat Corporation Common Stock,U
 GSAH,GS Acquisition Holdings Corp II,NYSE
 GSAH U,"GS Acquisition Holdings Corp II Units, each consisting of one share of Class A Common Stock and one-",NYSE
@@ -5510,3 +5509,5 @@ GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
 GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
 GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
+GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
+GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U

@@ -300,7 +300,9 @@ ACT,"Enact Holdings, Inc. Common Stock",NASDAQ
 ACTC,ArcLight Clean Transition Corp. Class A Ordinary Shares,NASDAQ
 ACTCU,ArcLight Clean Transition Corp. Unit,NASDAQ
 ACTCW,ArcLight Clean Transition Corp. Warrant,NASDAQ
+ACTD,ArcLight Clean Transition Corp. II Class A Ordinary Share,NASDAQ
 ACTDU,ArcLight Clean Transition Corp. II Unit,NASDAQ
+ACTDW,ArcLight Clean Transition Corp. II Warrant,NASDAQ
 ACTG,Acacia Research Corporation (Acacia Tech) Common Stock,NASDAQ
 ACTL,"Artec Global Media, Inc. Common Stock",U
 ACTV,LeaderShares Activist Leaders ETF,ARCA
@@ -1482,9 +1484,7 @@ APRE,"Aprea Therapeutics, Inc. Common stock",NASDAQ
 APRM,American Pacific Rim Commerce Corp. (FL) Common Stock,U
 APRN,"Blue Apron Holdings, Inc. Class A Common Stock",NYSE
 APRO,"Allegiant Professional Business Services, Inc. Common Stock",U
-APRRF,Atlantic Pwr Pfd Equity Ltd Cum Redeemable Reset Pfd Ser 2 (Canada),U
 APRU,Apple Rush Company Inc Common Stock,U
-APRWF,Atlantic Pwr Pfd Equity Ltd Cumulative Redeemable Pfd Shares Series 1 (Canada),U
 APRZ,TrueShares Structured Outcome (April) ETF,BATS
 APSG,Apollo Strategic Growth Capital,NYSE
 APSG U,"Apollo Strategic Growth Capital Units, each consisting of one Class A Ordinary Share and one-third W",NYSE
@@ -1981,7 +1981,6 @@ ATOXF,"Durango Resources, Inc.  Common Shares (Canada)",U
 ATPGQ,ATP Oil & Gas Corporation PERP PFD CONV 8% SER B,U
 ATPHF,AUSTRALIAN PRIM HEMP LTD Ordinary Shares,U
 ATPL,"Atlantis Plastics, Inc. Common Stock",U
-ATPWF,Atlantic Pwr Pfd Equity Ltd Cum Pfd Ser 3 Fltg (Canada),U
 ATR,"AptarGroup, Inc.",NYSE
 ATRA,"Atara Biotherapeutics, Inc. Common Stock",NASDAQ
 ATRBF,Atrium European Real Estate Limited Ordinary Shares (Jersey),U
@@ -2399,7 +2398,6 @@ BANF,BancFirst Corporation Common Stock,NASDAQ
 BANFP,BancFirst Corporation - BFC Capital Trust II Cumulative Trust Preferred Securities,NASDAQ
 BANGN,VERSANT PWR Preferred Stock,U
 BANI,Banneker Inc. Common Stock,U
-BANM,BANNER ENERGY SVCS CORP Common Stock,U
 BANR,Banner Corporation Common Stock,NASDAQ
 BANT,Bantec Inc. Common Stock,U
 BANX,StoneCastle Financial Corp Common Stock,NASDAQ
@@ -4519,6 +4517,7 @@ CFYFF,iShares Canadian Fundamental Index ETF Common Unit (Canada),U
 CG,The Carlyle Group Inc. Common Stock,NASDAQ
 CGA,CHINA GREEN AGRICULTURE INC,NYSE
 CGAAY,A2B Australia Ltd American Depositary Receipts - Unsponsored,U
+CGABL,The Carlyle Group Inc. 4.625% Subordinated Notes due 2061,NASDAQ
 CGAC,Code Green Apparel Corp. Common Stock,U
 CGAM,Concorde Gaming Corp Common Stock,U
 CGASY,China Resources Gas Group Ltd Unsponsored ADR (Bermuda),U
@@ -5187,6 +5186,7 @@ CMWCF,Cromwell Corporation Ltd. Stapled Security (Australia),U
 CMXC,Cell MedX Corp. Common Stock,U
 CMXHF,Csl Ltd Ordinary Shares,U
 CMYYY,China Machy Engr Corp Unsponsored ADR (China),U
+CMZOF,Corporacion Moctezuma Sa de CV Cmoctez Ordinary Shares (Mexico),U
 CMZZF,Cairo Mezz PLC Ord (Cyprus),U
 CN,Xtrackers MSCI All China Equity ETF,ARCA
 CNA,CNA Financial Corporation,NYSE

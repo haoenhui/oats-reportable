@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
-MTCR,"Metacrine, Inc. Common Stock",NASDAQ
-MTD,Mettler-Toledo International,NYSE
-MTDR,MATADOR RESOURCES COMPANY,NYSE
-MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
@@ -969,6 +964,7 @@ NRTHF,Northern Power Systems Corp Ordinary Shares (Canada),U
 NRTSF,Nobilis Health Corporation Common Shares (Canada),U
 NRTZF,Noritz Corp Ordinary Shares (Japan),U
 NRUC,National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordi,NYSE
+NRUNF,Northern Uranium Corp Common Stock (Canada),U
 NRVTF,Noram Ventures Inc. Common Shares,U
 NRWEF,"NORWEGIAN ENERGY COMPANY AS, STAVENGER SHS (Norway)",U
 NRWRF,Newriver Reit Plc Reit (United Kingdom),U
@@ -1812,7 +1808,7 @@ ORSX,"Orsus Xelent Technolgies, Inc. New Common Stock",U
 ORTIF,Ortho Regenerative Technologies Ordinary Shares (Canada),U
 ORTX,Orchard Therapeutics plc American Depositary Shares,NASDAQ
 ORVMF,Orvana Minerals Corp Ordinary Shares,U
-ORVRD,ORCHID VENTURES INC  Ordinary Shares,U
+ORVRF,ORCHID VENTURES INC  Ordinary Shares,U
 ORWHF,Oriental Watch Holdings Ltd Ordinary Shares (Bermuda),U
 ORXCF,Orix Corporation Ordinary Shares,U
 ORXGF,Orca Energy Group Inc Ordinary Shares,U
@@ -2203,6 +2199,7 @@ PCOGF,Pancontinental Oil and Gas NL Ordinary Shares (Australia),U
 PCOK,"Pacific Oak Strategic Opportunity REIT, Inc. Common Shares",U
 PCOLF,Pacific Online Limited Ordinary shares (Cayman Islands),U
 PCOM,Points International Ltd. Common Shares,NASDAQ
+PCOR,"Procore Technologies, Inc.",NYSE
 PCPC,Periphas Capital Partnering Corporation,NYSE
 PCPC U,"Periphas Capital Partnering Corporation CAPS, each consisting of one share of Class A common stock a",NYSE
 PCPC WS,"Periphas Capital Partnering Corporation Warrants, each whole warrant exercisable for one share of Cl",NYSE
@@ -2251,7 +2248,6 @@ PDBC,Invesco Actively Managed Exch-Traded Commodity Fd Tr Invesco Optimum Yield 
 PDCE,"PDC Energy, Inc. Common Stock (Delaware)",NASDAQ
 PDCO,"Patterson Companies, Inc. Common Stock",NASDAQ
 PDD,Pinduoduo Inc. American Depositary Shares,NASDAQ
-PDDTF,Piedmont Lithium Ltd Ordinary Shares (Australia),U
 PDEC,Innovator S&P 500 Power Buffer ETF - December,BATS
 PDER,Pardee Resources Co Inc Common Stock,U
 PDEV,Principal Exchange-Traded Funds Principal International Multi-Factor ETF,NASDAQ
@@ -2676,7 +2672,7 @@ PLHCF,Plant Health Care Plc London Ordinary Shares (United Kingdom),U
 PLHNF,Paul Hartmann AG Heidenheim An Der Brenz Ordinary Shares (Germany),U
 PLIN,"China Xiangtai Food Co., Ltd. Ordinary Shares",NASDAQ
 PLKT,Solar Gold Ltd. Common Stock,U
-PLL,Piedmont Lithium Limited Common Stock,NASDAQ
+PLL,Piedmont Lithium Inc. Common Stock,NASDAQ
 PLLDF,The Philodrill Corporation Ov Ordinary Shares,U
 PLLHF,Gemfields Group Ltd Ordinary Shares,U
 PLLIF,Pirelli & Co SPA Ordinary Shares (Italy),U
@@ -2721,7 +2717,6 @@ PLTYF,"Plastec Technologies, Ltd Ordinary Shares (Cayman Islands)",U
 PLUG,"Plug Power, Inc. Common Stock",NASDAQ
 PLUNF,Pt Lautan Luas Tbk Ordinary Shares,U
 PLUS,ePlus inc. Common Stock,NASDAQ
-PLUUF,Plateau Energy Metals Inc Common Shares,U
 PLW,Invesco Exchange-Traded Fund Trust II Invesco 1-30 Laddered Treasury ETF,NASDAQ
 PLWN,Pinelawn Cemetery Common Stock,U
 PLWY,"Peoplesway.Com, Inc. Common Stock",U
@@ -2866,6 +2861,7 @@ POAHY,Porsche Automobile Holding SE Unsponsored ADR (Germany),U
 POAI,Predictive Oncology Inc. Common Stock,NASDAQ
 POCEF,Photon Control Inc Common Shares (Canada),U
 POCT,Innovator S&P 500 Power Buffer ETF - October,BATS
+PODAF,PODA Lifestyle and Wellness Ltd. Subordinate Voting Shs (Canada),U
 PODD,Insulet Corporation Common Stock,NASDAQ
 POEFF,Pan Orient Energy Corp Ordinary Shares (Canada),U
 POELF,PORTUCEL - EMPRESA PRODUTORA DE PASTA E PAPEL Rg Shs (Portugal),U
@@ -2943,6 +2939,7 @@ PPIH,"Perma-Pipe International Holdings, Inc. Common Stock",NASDAQ
 PPII,Coenzyme A Inc. Common Stock,U
 PPINF,Philippine Naitonal Bank PNB Ordinary Shares (Philippines),U
 PPJE,"PPJ Healthcare Enterprises, Inc. Common Stock",U
+PPKRF,Pepkor Holdings Ltd. Ordinary Shares (South Africa),U
 PPKTF,PT Pabrik Kertas Tjiwi Kimia Ordinary Shares,U
 PPL,PPL Corporation,NYSE
 PPLFF,PT Perusahaan Perkebunan London Sumatera Tbk Ordinary Shares (Indonesia),U
@@ -5200,7 +5197,7 @@ SEAC,"SeaChange International, Inc. Common Stock",NASDAQ
 SEAH,Sports Entertainment Acquisition Corp.,NYSE
 SEAH U,"Sports Entertainment Acquisition Corp. Units, each consisting of one share of Class A Common Stock,",NYSE
 SEAH WS,"Sports Entertainment Acquisition Corp. Redeemable Warrants, each whole Warrant exercisable for one s",NYSE
-SEAMF,SEAMICO CAP PUB CO LTD Ordinary Shares,U
+SEAMF,XSPRING CAP PUB CO LTD Ordinary Shares,U
 SEAOF,Seaco Ltd Ordinary Shares (Bermuda),U
 SEAS,SEAWORLD ENTERTAINMENT INC,NYSE
 SEAV,SEATECH VENTURES CORP Common Stock,U
@@ -5510,3 +5507,6 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U

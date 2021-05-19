@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
-GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
@@ -96,7 +94,6 @@ HAFG,"Holistic Asset Finance Group Co., Ltd. Common Stock",U
 HAGHY,HENSOLDT AG AMERICAN DEPOSITARY RECEIPTS - Unsponsored (Germany),U
 HAGN,Haha Generation Corp. Common Stock,U
 HAHI,"Help At Home, Inc. Common Stock",U
-HAHRF,Harel Hamishmar Investment Ltd Ordinary Shares (Israel),U
 HAIIF,Haitian International Holdings Ltd Ordinary Shares (Cayman Islands),U
 HAIL,SPDR S&P Kensho Smart Mobility ETF,ARCA
 HAIN,"Hain Celestial Group, Inc. (The) Common Stock",NASDAQ
@@ -1867,6 +1864,7 @@ IPCFF,International Petroleum Corp CDA Ordinary Shares (Canada),U
 IPCIF,INTELLIPHARMACEUTICS INTL INC Common Shares,U
 IPDN,"Professional Diversity Network, Inc. Common Stock",NASDAQ
 IPDQF,Impedimed Ltd Ordinary Shares (Australia),U
+IPEU,IPE Universal Inc Common Stock,U
 IPFF,iShares International Preferred Stock ETF,BATS
 IPFPF,"International Personal Finance Plc, Leeds Ordinary shares (United Kingdom)",U
 IPG,"The Interpublic Group of Companies, Inc.",NYSE
@@ -3456,7 +3454,6 @@ KYMCF,Kyoritsu Maintenance Co Ltd. Ordinary Shares (Japan),U
 KYMR,"Kymera Therapeutics, Inc. Common Stock",NASDAQ
 KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.",NYSE
 KYNC,"KYN Capital Group, Inc. Common Stock",U
-KYNS,Keynes Technology Co. Ltd. Common Stock,U
 KYOCF,Kyocera Corp Ordinary Shares,U
 KYOCY,Kyocera Corp American Depositary Receipts - Sponsored (Japan),U
 KYOEF,"Kyosan Electric Manufacturing Co Ltd, SHS (Japan)",U
@@ -4273,7 +4270,6 @@ LYYXF,Lyxor International Asset Management FCP Units D Eur of Capitalisation ET/
 LZAGF,Lonza Group Ag Zuerich Namen AKT (Switzerland(,U
 LZAGY,Lonza Group Ag Zuerich Unsponsored ADR (Switzerland),U
 LZB,La-Z-Boy Incorporated,NYSE
-LZDLF,LUZ DEL SUR SA SHS -COMUN  Peru(PE ),U
 LZENF,Lizhan Environmental Corporation Ordinary Shares,U
 LZGI,LZG International Inc Common Stock,U
 LZNN,Lazuriton Nano Biotechnology USA Inc Common Stock,U
@@ -5510,3 +5506,8 @@ MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
+MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
+MTCR,"Metacrine, Inc. Common Stock",NASDAQ
+MTD,Mettler-Toledo International,NYSE
+MTDR,MATADOR RESOURCES COMPANY,NYSE
+MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U

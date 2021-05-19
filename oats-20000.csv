@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
@@ -493,7 +490,7 @@ SMPFF,San Miguel Food & Beverage Inc Ordinary Shares,U
 SMPL,The Simply Good Foods Company Common Stock,NASDAQ
 SMPNY,Sompo Japan Nipponkoa Hldgs Inc American Depositary Receipts - Unsponsored (Japan),U
 SMPP,Strategic Management & Opportunity Corporation Common Stock,U
-SMPR,"Standard Metals Processing, Inc. Common Stock",U
+SMPRD,"Standard Metals Processing, Inc Common Stock",U
 SMRAF,Sociedad Minera Cerro Verde SAA Lima Shs - Comun (Peru),U
 SMREF,Sun Summit Minerals Corp Common Shares,U
 SMRGF,SMAREGI INC Common Stock,U
@@ -634,7 +631,7 @@ SNPRY,Sinopec Engr Group Co Ltd ADR Repstg H Shs (China),U
 SNPS,"Synopsys, Inc. Common Stock",NASDAQ
 SNPTF,Sunny Optical Technology (Group) Co Ltd Shs (Cayman Islands),U
 SNPW,Sun Pacific Holding Corp. Common Stock,U
-SNPX,SYNAPTOGENIX INC Common Stock,U
+SNPXD,SYNAPTOGENIX INC Common Stock,U
 SNPXF,SNP Schneider Neureither & Partner AG Ordinary Shares (Germany),U
 SNR,NEW SENIOR INVESTMENT GROUP INC.,NYSE
 SNRAF,Tisdale Resources Corp Ordinary Shares,U
@@ -700,6 +697,7 @@ SOFSF,SOFTLAB9 TECHNOLOGIES INC Common Stock,U
 SOFT,"SofTech, Inc. Common Stock",U
 SOGFF,Strategic Oil & Gas Ltd Ordinary Shares,U
 SOGO,"Sogou Inc. American Depositary Shares, each representing one Class A Ordinary Share",NYSE
+SOGU,The Short De-SPAC ETF,ARCA
 SOHFF,Telson Mng Corp Ordinary Shares,U
 SOHGF,Sohgo Security Services Co Ltd Tokyo Ordinary Shares (Japan),U
 SOHGY,Sohgo Security Services Co Ltd Tokyo American Depositary Shares (Japan),U
@@ -1397,7 +1395,7 @@ STWO,ACON S2 Acquisition Corp. Class A Ordinary Shares,NASDAQ
 STWOU,ACON S2 Acquisition Corp. Unit,NASDAQ
 STWOW,ACON S2 Acquisition Corp. Warrant,NASDAQ
 STWRY,Software AG Sponsored ADR (Germany Federal Republic),U
-STX,Seagate Technology PLC Ordinary Shares (Ireland),NASDAQ
+STX,Seagate Technology Holdings PLC Ordinary Shares (Ireland),NASDAQ
 STXB,"Spirit of Texas Bancshares, Inc. Common Stock",NASDAQ
 STXMF,Starrex International Ltd Ordinary Shares,U
 STXPF,"STUHINI EXPL LTD, COM (Canada)",U
@@ -1489,7 +1487,7 @@ SVAC,Starboard Value Acquisition Corp. Class A Common Stock,NASDAQ
 SVACU,Starboard Value Acquisition Corp. Unit,NASDAQ
 SVACW,Starboard Value Acquisition Corp. Warrant,NASDAQ
 SVAD,"Silverton Adventures, Inc. Common Stock",U
-SVAKF,Sevak Ltd. Ordinary Shares (Singapore),U
+SVAKF,DIGILIFE TECHNOLOGIES LTD Ordinary Shares,U
 SVAL,iShares US Small Cap Value Factor ETF,BATS
 SVAP,STANDARD VAPE CORP Common Stock,U
 SVAUF,Storagevault Cda Inc. Ordinary Shares (Canada),U
@@ -2512,7 +2510,6 @@ TNMAF,Tenma Corp Ordinary Shares (Japan),U
 TNMCF,Titan Mining Corp Ordinary Shares,U
 TNMD,"Tianrong Med Group, Inc. Common",U
 TNMLF,White Metal Resources Corp. Ordinary Shares (Canada),U
-TNNFF,Tenon Limited Ordinary Shares (New Zealand),U
 TNNLF,Ten Lifestyle Group GBPO.001 Ordinary Shares (United Kingdom),U
 TNOXF,TENOX CORP SHS (Japan),U
 TNP,Tsakos Energy Navigation Ltd.,NYSE
@@ -3040,7 +3037,9 @@ TVTY,"Tivity Health, Inc. Common Stock",NASDAQ
 TW,Tradeweb Markets Inc. Class A Common Stock,NASDAQ
 TWAC,T W A Corp Common Stock,U
 TWAPF,Towa Pharmaceutical Co Ltd. Ordinary Shares (Japan),U
+TWCBU,Bilander Acquisition Corp. Unit,NASDAQ
 TWCF,Town and Country Financial Corporation (IL) Common Stock,U
+TWCGU,Galliot Acquisition Corp. Unit,NASDAQ
 TWCI,"T.W. Christian, Inc. Common Stock",U
 TWCT,TWC Tech Holdings II Corp. Class A Common Stock,NASDAQ
 TWCTU,TWC Tech Holdings II Corp. Unit,NASDAQ
@@ -3306,7 +3305,7 @@ UI,Ubiquiti Inc. Common Stock,NYSE
 UIBGF,UIB Group Limited Ordinary Shares (Cayman Islands),U
 UIFD,Unifunds Limited Common Stock,U
 UIHC,United Insurance Holdings Corp. Common Stock,NASDAQ
-UILCF,United Industrial Corp Ltd Ordinary Shares (Singapore),U
+UILCF,SINGAPORE LD GROUP LTD Ordinary Shares,U
 UILCY,SINGAPORE LD GROUP LTD American Depositary Receipts - Unsponsored,U
 UIS,Unisys Corporation,NYSE
 UITA,"Utilicraft Aerospace Industries, Inc. Common Stock",U
@@ -3832,6 +3831,7 @@ VGAC U,"VG Acquisition Corp. Units, each consisting of one Class A ordinary shar
 VGAC WS,"VG Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary sh",NYSE
 VGANF,PLANT & CO BRANDS LTD Common Shares,U
 VGAPF,Vanguard Australian Property Securities Index ETF Units (Australia),U
+VGDFF,Vanguard Funds PLC US Treasury 0-1 Yr Bd UCITS ETF USD Accum (Ireland),U
 VGDVF,VANGUARD FUNDS PLC FTSE DEVELOPED UCITS ETF USD (Ireland),U
 VGFPF,Vanguard Funds Plc S&P 500 UCITS Accum Usd Exchange Traded Fund (Ireland),U
 VGFUF,Vanguard Funds PLC Emerging Markets Government Bond UCITS ETF (Ireland),U
