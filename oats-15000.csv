@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTEI,Mountain Energy Inc Common Stock,U
-MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
-MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
-MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
@@ -423,6 +419,7 @@ NEE PRP,"NextEra Energy, Inc. 5.279% Corporate Units",NYSE
 NEE PRQ,"NextEra Energy, Inc. 6.219% Corporate Units",NYSE
 NEFB,Neffs Bancorp Inc Common Stock,U
 NEFBP,Neffs Bancorp Inc PFD SER A,U
+NEGG,"Newegg Commerce, Inc. Common Shares",NASDAQ
 NEGXF,"Nexgenrx, Inc. Ordinary Shares (Canada)",U
 NEIK,"Northstar Electronics, Inc. Common Stock",U
 NEM,Newmont Corporation,NYSE
@@ -470,6 +467,7 @@ NEWA,"Newater Technology, Inc. Ordinary Shares",NASDAQ
 NEWEN,New England Power Company 6% Preferred Stock,U
 NEWG,NewGen BioPharma Corp. Common Stock,U
 NEWH,"NewHydrogen, Inc. Common Stock",U
+NEWP,New Pacific Metals Corp.,AMEX
 NEWR,"New Relic, Inc.",NYSE
 NEWRF,Newmac Resources Inc Common Shares (Canada),U
 NEWT,Newtek Business Services Corp. Common Stock (Maryland),NASDAQ
@@ -623,7 +621,6 @@ NIFCY,Nifco Inc Ord American Depositary Shares,U
 NIFE,Direxion Fallen Knives ETF,ARCA
 NIHK,"Video River Networks, Inc. Common Stock",U
 NIHL,"New Infinity Holdings, Ltd. Common Stock",U
-NIIRF,Nichirin Co Ltd Kobe City Hyogo Prefecture Ordinary Shares (Japan),U
 NIJPF,Nippon Paper Industries Co Ltd Ordinary Shares (Japan),U
 NIKLF,Nickel Rock Resources Inc. Ordinary Shares,U
 NILA,Nilam Resources Inc. Common Stock,U
@@ -1104,11 +1101,13 @@ NTRR,Neutra Corporation Common Stock,U
 NTRS,Northern Trust Corporation Common Stock,NASDAQ
 NTRSO,"Northern Trust Corporation Depositary Shares Each Representing a 1/1,000th Interest in a Share of Series E Non-Cumulative Perpetual Preferred Stock",NASDAQ
 NTRU,Natur International Corp. Common Stock,U
+NTSE,WisdomTree Emerging Markets Efficient Core Fund,ARCA
 NTSFF,Nanotech Security Corp Ordinary Shares (Canada),U
 NTSGF,NATIONAL STORAGE REIT STAPLED SECURITY Australia(AU ),U
+NTSI,WisdomTree International Efficient Core Fund,ARCA
 NTSLU,Northstar Ethanol LLC Cap Unit Class A,U
 NTST,NetSTREIT Corp.,NYSE
-NTSX,WisdomTree 90/60 U.S. Balanced Fund,ARCA
+NTSX,WisdomTree U.S. Efficient Core Fund,ARCA
 NTTCF,Netcents Technology Inc Ordinary Shares (Canada),U
 NTTDF,NTT Data Corporation Ordinary Shares (Japan),U
 NTTHF,Neo Lithium Corp  Ordinary Shares (Canada),U
@@ -1151,7 +1150,6 @@ NUMG,Nuveen ESG Mid-Cap Growth ETF,BATS
 NUMV,Nuveen ESG Mid-Cap Value ETF,BATS
 NUNZ,Nunzia Pharmaceutical Corporation Common Stock,U
 NUO,Nuveen Ohio Quality Municipal Income Fund,NYSE
-NUPMF,NEW PAC METALS CORP Ordinary Shares,U
 NURAF,Nomura Research Institute Ltd Ordinary Shares,U
 NURE,Nuveen Short-Term REIT ETF,BATS
 NURO,"NeuroMetrix, Inc. Common Stock",NASDAQ
@@ -1887,6 +1885,7 @@ OTIVF,On Track Innovations Ltd Common Stock,U
 OTLC,"Oncotelic Therapeutics, Inc. Common Stock",U
 OTLK,"Outlook Therapeutics, Inc. Common Stock",NASDAQ
 OTLKW,"Outlook Therapeutics, Inc. Series A Warrant Expiring 02/18/2022",NASDAQ
+OTLY,Oatly Group AB American Depositary Shares,NASDAQ
 OTMN,O T Mining Corp Common Stock,U
 OTOW,"O2 Secure Wireless, Inc. Common Stock",U
 OTPBF,OTP Bank Ltd Ordinary Shares (Hungary),U
@@ -1937,6 +1936,8 @@ OVWRF,OVER THE WIRE HOLDINGS LTD Ordinary Fully Paid (Australia),U
 OVZM,Overland Management Inc Common Stock,U
 OWCP,OWC Pharmaceutical Research Corp. Common Stock,U
 OWECF,Odawara Engineering Co Ltd Ordinary Shares (Japan),U
+OWL,Blue Owl Capital Inc.,NYSE
+OWL WS,"Blue Owl Capital Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A C",NYSE
 OWPC,"One World Pharma, Inc.  Common Stock",U
 OWRDF,One World Lithium Inc Ordinary Shares,U
 OWUV,One World Universe Inc. Common Stock,U
@@ -2696,6 +2697,7 @@ PLPHF,"POLETOWIN PITCREW HOLDINGS INC, TOKYO Ordinary Shares",U
 PLPKF,PPK Group Ltd Ordinary Shares,U
 PLPL,"Plandai Biotechnology, Inc. Common Stock",U
 PLPRF,Plus Prods Inc Common Shares  (Canada),U
+PLRG,Principal U.S. Large-Cap Adaptive Multi-Factor ETF,BATS
 PLRRF,Polar Capital Holdings PLC London Ordinary Shares (United Kingdom),U
 PLRTF,Plymouth Rock Technologies Inc Ordinary Shares,U
 PLRX,"Pliant Therapeutics, Inc. Common Stock",NASDAQ
@@ -2708,6 +2710,7 @@ PLSQF,Plus500 Ltd. Ordinary Shares (Israel),U
 PLT,"Plantronics, Inc.",NYSE
 PLTI,"Platcom, Inc. Common Stock",U
 PLTK,Playtika Holding Corp. Common Stock,NASDAQ
+PLTL,Principal U.S. Small-Cap Adaptive Multi-Factor ETF,BATS
 PLTM,GraniteShares Platinum Shares,ARCA
 PLTR,Palantir Technologies Inc. Class A Common Stock,NYSE
 PLTT,"Pilot Therapeutics Holdings, Inc. Common Stock",U
@@ -3706,6 +3709,7 @@ QQEW,First Trust NASDAQ-100 Equal Weighted Index Fund,NASDAQ
 QQFSF,Qinqin Foodstuffs Group Cayman Co Ltd Ordinary Shares (Cayman Islands),U
 QQH,HCM Defender 100 Index ETF,ARCA
 QQQ,"Invesco QQQ Trust, Series 1",NASDAQ
+QQQA,ProShares Trust ProShares Nasdaq-100 Dorsey Wright Momentum ETF,NASDAQ
 QQQE,Direxion NASDAQ-100 Equal Weighted Index Shares,ARCA
 QQQFF,Quizam Media Corporation Ordinary Shares,U
 QQQJ,Invesco Exchange-Traded Fund Trust II Invesco NASDAQ Next Gen 100 ETF,NASDAQ
@@ -4556,7 +4560,7 @@ RS,Reliance Steel & Aluminium Co.,NYSE
 RSAIF,RSA Insurance Group PLC  Ordinary Shares,U
 RSAM,"Rising Sun Bancorp (Rising Sun, MD) Common Stock",U
 RSASF,"Resaas Services, Inc. Ordinary Shares (Canada)",U
-RSAUD,Rooshine Inc. Common Stock,U
+RSAU,Rooshine Inc. Common Stock,U
 RSBSF,REACH SUBSEA ASA Ordinary Shares,U
 RSCF,"Reflect Scientific, Inc. Common Stock",U
 RSCI,"Redwood Scientific Technologies, Inc. Common Stock",U
@@ -5508,5 +5512,3 @@ SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U

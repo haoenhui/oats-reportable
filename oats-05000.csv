@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPE,Callon Petroleum Company,NYSE
-CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
-CPER,United States Copper Index Fund,ARCA
-CPEU,"Chapeau, Inc. Common Stock",U
-CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
@@ -1188,7 +1183,6 @@ DKDCU,Data Knights Acquisition Corp. Unit,NASDAQ
 DKDRF,Delek Drilling Ordinary Shares (Israel),U
 DKGH,DKG Capital Inc. Common Stock,U
 DKGR,Universal Apparel & Textile Company Common Stock,U
-DKIAF,Daiki Aluminum Industry Co Ltd Ordinary Shares (Japan),U
 DKILF,Daikin Inds Ltd Ordinary Shares,U
 DKILY,Daikin Inds Ltd Unsponsored ADR (Japan),U
 DKKGF,Duck Yang Industry Co Ltd Ordinary Shares (South Korea),U
@@ -4832,6 +4826,7 @@ GLKFF,"Raise Production, Inc Ordinary Shares (Canada)",U
 GLKIF,"Great Lakes Graphite, Inc. Common Shares (Canada)",U
 GLL,ProShares UltraShort Gold,ARCA
 GLLA,Gilla Inc. Common Stock,U
+GLLBF,GOLDEN LAND BHD SHS (Malaysia),U
 GLLDF,Global Dining Inc Tokyo Ordinary Shares (Japan),U
 GLLGF,Global Graphics SE Ordinary Shares (United Kingdom),U
 GLLHF,Goldlion Holding Ltd Ordinary Shares (Hong Kong),U
@@ -5312,6 +5307,7 @@ GS PRC,"Goldman Sachs Group Dep. Shares (1/1000 Int. of Floating Rate Non-Cum. P
 GS PRD,"Goldman Sachs Group, Inc. (Each representing 1/1000th Interest in a Share of Floating Rate Non-cumul",NYSE
 GS PRJ,"GOLDMAN SACHS GROUP, INC. 5.50%  SER J",NYSE
 GS PRK,"GOLDMAN SACHS GROUP, INC. THE 6.375%",NYSE
+GSABF,GRUPO SIMEC SAB DE C.V. SHS -B- (Mexico),U
 GSAC,GelStat Corporation Common Stock,U
 GSAH,GS Acquisition Holdings Corp II,NYSE
 GSAH U,"GS Acquisition Holdings Corp II Units, each consisting of one share of Class A Common Stock and one-",NYSE
@@ -5511,3 +5507,9 @@ GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
+GWB,"Great Western Bancorp, Inc.",NYSE
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
+GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
+GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U

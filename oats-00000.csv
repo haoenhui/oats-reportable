@@ -658,6 +658,7 @@ AGM PRC,Federal Agricultural Mortgage Corporation 6.000% Fixed-to-Floating Rate 
 AGM PRD,"Federal Agricultural Mortgage Corporation 5.700% Non-Cumulative Preferred Stock, Series D",NYSE
 AGM PRE,"Federal Agricultural Mortgage Corporation 5.750% Non-Cumulative Preferred Stock, Series E",NYSE
 AGM PRF,"Federal Agricultural Mortgage Corporation 5.250% Non-Cumulative Preferred Stock, Series F",NYSE
+AGMGP,FEDERAL AGRIC MTG CORP NON CUMULATIVE PFD STK SER G,U
 AGMH,AGM Group Holdings Inc. Class A Ordinary Shares,NASDAQ
 AGMJF,Algoma Cent Corp (F) Ordinary Shares,U
 AGNC,AGNC Investment Corp. Common Stock,NASDAQ
@@ -1569,7 +1570,6 @@ ARCS,Arcis Resources Corporation Common Stock,U
 ARCT,Arcturus Therapeutics Holdings Inc. Common Stock,NASDAQ
 ARCUF,Arcus Development Group Inc. Common Shares (Canada),U
 ARCVF,Arcadis NV Ordinary Shares,U
-ARCW,"ARC Group Worldwide, Inc. Common Stock",U
 ARCXF,ArcelorMittal South Africa Ordinary Shares (South Africa (ZA)),U
 ARD,Ardagh Group S.A. Class A Common Shares,NYSE
 ARDC,"ARES DYNAMIC CREDIT ALLOCATION FUND, INC.",NYSE
@@ -1868,9 +1868,6 @@ ATA,Americas Technology Acquisition Corp.,NYSE
 ATA U,"Americas Technology Acquisition Corp. Units, each consisting of one Ordinary Share and one half of R",NYSE
 ATA WS,"Americas Technology Acquisition Corp.Redeemable Warrants, each whole warrant exercisable for one Ord",NYSE
 ATAAY,Atacadao SA American Depositary Receipts - Unsponsored,U
-ATAC,Altimar Acquisition Corporation,NYSE
-ATAC U,"Altimar Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third o",NYSE
-ATAC WS,"Altimar Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for one Class A",NYSE
 ATADF,Atac Resources Ltd Ordinary Shares,U
 ATAO,Altair International Corp Common Stock,U
 ATAQ,Altimar Acquisition Corp. III,NYSE
@@ -2941,7 +2938,6 @@ BKAHF,Bank Of Ayudhya Public Co Ltd Units Non-Voting Depository Receipt (Thailan
 BKAMF,BROOKFIELD ASSET MGMT INC PFD CL A SER 30 Preferred Stock Canada(CA ),U
 BKAYY,Bank Of Ayudhya Pub Limited Co Unsponsored ADR (Thailand),U
 BKBEF,Pipestone Energy Corp Common Shares,U
-BKBFF,Pipestone Energy Corp Warrant,U
 BKBLF,Magnetic North Acquisition Corp Ordinary Shares,U
 BKCC,BlackRock Capital Investment Corporation Common Stock,NASDAQ
 BKCYF,Bank Cyprus Hldgs Pub Ltd Co Ordinary Shares (Ireland),U
@@ -4259,7 +4255,7 @@ CCTL,Coin Citadel Common Stock,U
 CCTR,"China Crescent Enterprises, Inc. Common Stock",U
 CCTTF,CITIC TELECOM INTERNATIONAL HOLDINGS LTD SHS (Hong Kong),U
 CCU,Compania Cervecerias Unidas S.A.,NYSE
-CCURD,"CCUR Holdings, Inc. Common Stock Common Stock",U
+CCUR,"CCUR Holdings, Inc. Common Stock Common Stock",U
 CCV,Churchill Capital Corp V,NYSE
 CCV U,"Churchill Capital Corp V Units, each consisting of one share of Class A common stock, and one-fourth",NYSE
 CCV WS,"Churchill Capital Corp V Warrants, each exercisable for one share of Class A common stock at an exer",NYSE
@@ -4828,7 +4824,7 @@ CIM PRC,Chimera Investment Corporation 7.75% Series C Fixed-to-Floating Rate  Cu
 CIM PRD,Chimera Investment Corporation 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred,NYSE
 CIMDF,CIMB Group Holdings BHD Ordinary Shares (Malaysia),U
 CIMEF,CIMC Enric Holdings Ltd Ordinary Shares (Cayman Islands),U
-CIMVD,Ikanik Farms Inc. Common Shares,U
+CIMVF,Ikanik Farms Inc. Common Shares,U
 CIMXP,CIMAREX ENERGY CO 8 1/8% SER A CUM PERPETUAL PFD Preferred Stock,U
 CIND,China Industrial Gp Inc Unclassified,U
 CINF,Cincinnati Financial Corporation Common Stock,NASDAQ
@@ -5089,6 +5085,7 @@ CMDRF,Commander Resources Ltd Ordinary Shares,U
 CMDXF,Computer Modelling Group Ordinary Shares,U
 CMDY,iShares Bloomberg Roll Select Commodity Strategy ETF,ARCA
 CME,CME Group Inc. Class A Common Stock,NASDAQ
+CMECF,COMPUTER ENGINEERING & CONSULTING LTD SHS (Japan),U
 CMEIF,China Meidong Auto Hldgs Ordinary Shares (Cayman Islands),U
 CMETF,Chilean Metals Inc. Ordinary Shares,U
 CMEY,"cMoney, Inc. Common Stock",U
@@ -5511,3 +5508,8 @@ CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
+CPE,Callon Petroleum Company,NYSE
+CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
+CPER,United States Copper Index Fund,ARCA
+CPEU,"Chapeau, Inc. Common Stock",U
+CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
