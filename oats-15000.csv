@@ -326,6 +326,7 @@ NBY,"NovaBay Pharmaceuticals, Inc.",AMEX
 NBYCF,Niobay Metals Inc Common Shares,U
 NC,"NACCO Industries, Inc.",NYSE
 NCA,Nuveen California Municipal Value Fund,NYSE
+NCABF,NCAB Group AB Common Stock (Sweden),U
 NCAP,"Northsight Capital, Inc. Common Stock",U
 NCAUF,Newcore Gold Ltd Ordinary Shares,U
 NCBDF,"Bandai Namco Holdings, Inc. Ordinary Shares (Korea South Republic of Korea)",U
@@ -1016,7 +1017,7 @@ NSNHF,"Nissan Shatai Company, Ltd. Ordinary Shares (Japan)",U
 NSP,"Insperity, Inc",NYSE
 NSPDF,Naturally Splendid Enterprises Ltd. Ordinary Shares (Canada),U
 NSPKF,9 Spokes International Ltd. Ordinary Shares (Australia),U
-NSPR,"InspireMD, Inc.",AMEX
+NSPR,InspireMD Inc. Common Stock,NASDAQ
 NSPR WS,"InspireMD Inc. Warrant to purchase one-twenty six thousand two hundred fiftieth (1/ 26,250) of one s",AMEX
 NSPR WSB,"InspireMD Inc. Series B Warrants to purchase one-twenty six thousand two hundred fiftieth (1/ 26,250",AMEX
 NSPT,Newron Sport  Common Stock,U
@@ -1381,6 +1382,7 @@ NZRFY,The New Zealand Refining Company Ltd Unsponsored ADR (New Zealand),U
 NZSTF,NZX Ordinary shares (New Zealand),U
 NZSTY,NZX Unsponsored American Depository Receipt (New Zealand),U
 NZTCF,Spark New Zealand Ltd. Ordinary Shares (New Zealand),U
+NZWFF,"New Zealand Windfarms, Ltd. Ordinary Shares (New Zealand)",U
 O,Realty Income Corporation,NYSE
 OACB,Oaktree Acquisition Corp. II,NYSE
 OACB U,"Oaktree Acquisition Corp. II Units, each consisting of one Class A ordinary share, and one-fourth of",NYSE
@@ -1957,6 +1959,7 @@ OXLCP,Oxford Lane Capital Corp. 6.25% Series 2027 Term Preferred Shares,NASDAQ
 OXM,"Oxford Industries, Inc.",NYSE
 OXNXF,Onxeo SA Ordinary Shares Cat P (France),U
 OXSQ,Oxford Square Capital Corp. Common Stock,NASDAQ
+OXSQG,Oxford Square Capital Corp. 5.50% Notes due 2028,NASDAQ
 OXSQL,Oxford Square Capital Corp. 6.50% Notes due 2024,NASDAQ
 OXSQZ,Oxford Square Capital Corp. 6.25% Notes due 2026,NASDAQ
 OXXTF,OCTANEX LTD SHS (Australia),U
@@ -2466,7 +2469,6 @@ PGSVY,PGS ASA American Depositary Receipts - Sponsored,U
 PGSWF,"PGS SOFTWARE SA, WROCLAW Shs (Poland)",U
 PGTI,"PGT, Inc.",NYSE
 PGTK,Pacific Green Technologies Inc. NEW Common Stock,U
-PGTMF,Luff Enterprises Ltd Common Shares,U
 PGTRF,Pegatron Corp. Ordinary Shares (Taiwan),U
 PGUCY,Prosegur Cash S.A. American Depositary Receipts - Unsponsored (Spain),U
 PGUUF,Prosegur Cash (Spain),U
@@ -2907,6 +2909,7 @@ POWL,"Powell Industries, Inc. Common Stock",NASDAQ
 POWRU,Powered Brands Units,NASDAQ
 POWRW,Powered Brands Warrants,NASDAQ
 POWW,"AMMO, Inc. Common Stock",NASDAQ
+POWWP,"AMMO, Inc. 8.75% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 POYN,"Po Yuen Cultural Holdings (Hong Kong) Co., Ltd. Common Stock",U
 POYYF,Polymetal International PLC Ordinary Shares,U
 PPA,Invesco Aerospace & Defense ETF,ARCA
@@ -4414,6 +4417,7 @@ RNR PRF,"RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,
 RNRG,Global X Funds Global X Renewable Energy Producers ETF,NASDAQ
 RNRTF,Reunert Ltd Ordinary Shares (South Africa),U
 RNRTY,Reunert Ltd Unsponsored ADR (South Africa),U
+RNSBF,Rimbunan Sawit Berhad Ordinary Shares (Malaysia),U
 RNSC,First Trust Exchange-Traded Fund VI Small Cap US Equity Select ETF,NASDAQ
 RNSDF,Renault Sa Regie Natl 25 Par Ordinary Shares,U
 RNSFF,Renaissance Oil Corp. Ordinary Shares (Canada),U
@@ -5414,7 +5418,7 @@ SGLJF,Strauss Group Ltd Ordinary Shares (Israel),U
 SGLLF,RICEGROWERS LTD Ordinary Shares,U
 SGLMF,Starhill Global Real Estate Investment Trust Ordinary Shares (Singapore),U
 SGLN,"SurgLine International, Inc. Common Stock",U
-SGLOF,Sushiro Global Holdings Ltd,U
+SGLOF,FOOD & LIFE COS LTD Ordinary Shares,U
 SGLRF,Spyglass Resources Corp. Common Shares (Canada),U
 SGLS,"Signature Leisure, Inc. Common Stock",U
 SGMA,"SigmaTron International, Inc. Common Stock",NASDAQ
@@ -5511,4 +5515,3 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ

@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
@@ -49,7 +50,6 @@ SHPPF,SHOP APOTHEKE EUROPE NV Ordinary Shares,U
 SHPPY,Sophos Group PLC American Depositary Receipts - Unsponsored (United Kingdom),U
 SHQAU,Shelter Acquisition Corporation I Units,NASDAQ
 SHRG,Sharing Services Global Corp. Common Stock,U
-SHRMF,Braxia Scientific Corp.  Common Shares,U
 SHRRF,S HOTELS & RESORTS PUB CO LTD LOCAL SHARES (Thailand),U
 SHRSF,iShares II PLC Govt Bond 7-10yr UCITS Exchange Traded Fund EUR Dist (Ireland),U
 SHSMF,Shima Seiki Manufacturing Ltd Ordinary Shares (Japan),U
@@ -1319,7 +1319,7 @@ STMH,Stem Hldgs Inc Common Shares,U
 STMM,Stemcell Hldgs Inc Common Stock,U
 STMNF,Sumitomo Metal Mng Wt 12/24/97 Ordinary Shares,U
 STMP,Stamps.com Inc.  Common Stock ($0.001 Par Value),NASDAQ
-STMRF,"Stanmore Coal Ltd., Brisbane Ordinary Shares (Austrailia)",U
+STMRF,Stanmore Res Ltd Ordinary Shares,U
 STMWF,St Mowden Properties PLC Ordinary Shares (United Kingdom),U
 STMZF,Scottish Mortgage Invt Tr PLC Ordinary Shares GBP,U
 STN,"Stantec, Inc.",NYSE
@@ -2237,6 +2237,7 @@ TICSF,Tisco Finanacial Group Pub Co Ltd. NVDR Shs (Thailand),U
 TIDE,Tidelands Oil & Gas Corporation Common Stock,U
 TIEKF,TIE KINETIX N V (Netherlands),U
 TIEMF,"Tiemco Co., Ltd. Ordinary Shares (Japan)",U
+TIETF,Tietto Minerals Ltd. Ordinary Shares (Australia),U
 TIEUF,THAI REINSURANCE PUBLIC CO LTD NVDR SHARES (Thailand0,U
 TIG,"Trean Insurance Group, Inc. Common Stock",NASDAQ
 TIGCF,Triumph Gold Corp Ordinary Shares,U
@@ -2877,6 +2878,7 @@ TSLTF,Transalta Corp 1st Pfd Ser E (Canada),U
 TSLX,"Sixth Street Specialty Lending, Inc.",NYSE
 TSM,Taiwan Semiconductor Manufacturing Company Ltd.,NYSE
 TSMRF,Tsumura & Co Ordinary Shares,U
+TSMTF,AS Tallinna Sadam Port of Tallinn Ordinary Shares (Estonia),U
 TSN,"Tyson Foods, Inc.",NYSE
 TSNI,"TechniScan, Inc. Common Stock",U
 TSNLF,"Tristel PLC, Snailwell Ordinary Shares (United Kingdom)",U
@@ -3475,6 +3477,7 @@ URBT,Urban Television Network Corporation Common Stock,U
 URCFF,Vanadian Energy Corp.  Common Shares,U
 URE,ProShares Ultra Real Estate,ARCA
 UREQF,Devex Res Ltd Ordinary Shares,U
+URFFF,US Masters Residential Property Fund CNT Pref 6.25% Perp Semi Sub Cum Step Unit Exp 01/01/2023 (Australia),U
 URG,Ur-Energy Inc.,AMEX
 URGN,UroGen Pharma Ltd. Ordinary Shares,NASDAQ
 URGYF,"Academy Metals, Inc.  Common Shares",U

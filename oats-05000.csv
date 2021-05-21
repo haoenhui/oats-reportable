@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
@@ -834,7 +835,7 @@ DBI,Designer Brands Inc.,NYSE
 DBIN,"Dacotah Banks, Inc. Common Stock",U
 DBJA,Innovator Double Stacker 9 Buffer ETF - January,BATS
 DBJP,Xtrackers MSCI Japan Hedged Equity ETF,ARCA
-DBKSF,Digicrypts Blockchain Solutions Inc. Ordinary Shares (Canada),U
+DBKSF,DIGIMAX GLOBAL INC Ordinary Shares,U
 DBL,DOUBLELINE OPPORTUNISTIC CREDIT FUND,NYSE
 DBLV,AdvisorShares DoubleLine Value Equity ETF,ARCA
 DBLVF,Doubleview Gold Corp. Ordinary Shares,U
@@ -1832,7 +1833,7 @@ ECLMF,Ecolomondo Corp. Ordinary Shares (Canada),U
 ECLN,First Trust EIP Carbon Impact ETF,ARCA
 ECMH,"Encompass Holdings, Inc. Common Stock",U
 ECMLF,Ecometals Limited  Ordinary Shares CAD,U
-ECMT,"Ecomat, Inc. Common Stock",U
+ECMTD,"Ecomax, Inc. Common Stock",U
 ECMXF,Universal Copper Ltd.  Ordinary Shares,U
 ECNCF,ECN Capital Corp Ordinary Shares (Canada),U
 ECNRF,WORLDWIDE RES CORP  Common Shares,U
@@ -2141,7 +2142,7 @@ ELLKF,Ellaktor SA Ordinary Shares (Greece),U
 ELLKY,Ellaktor SA Unsponsored ADR (Greece),U
 ELLO,Ellomay Capital LTD,AMEX
 ELLRY,ElringKlinger AG American Depositary Receipts - Unsponsored (Germany),U
-ELLXF,Elixinol Global Ltd Ordinary Shares (Australia),U
+ELLXF,Elixinol Wellness Ltd Ordinary Shares,U
 ELMA,Elmer Bancorp Inc Common Stock,U
 ELMD,"Electromed, Inc.",AMEX
 ELMFF,Elmo Software Ltd. Ordinary Shares Fully Paid (Australia),U
@@ -3857,7 +3858,6 @@ FRCN,"Firemans Contractors, Inc. Common",U
 FRCOF,Fast Retailing Co Ltd Ordinary Shares,U
 FRCOY,Fast Retailing Co Ltd Unsponsored ADR (Japan),U
 FRD,"Friedman Industries, Inc",AMEX
-FRDIF,Firestone Diamonds plc Ordinary Shares,U
 FRDM,Freedom 100 Emerging Markets ETF,BATS
 FRDSF,4DS Memory Ltd Ordinary Shares (Australia),U
 FRDZF,Freedom Foods Group Ltd Ordinary Shares,U
@@ -4611,6 +4611,7 @@ GFN,General Finance Corporation General Finance Corporation Common Stock,NASDAQ
 GFNCP,General Finance Corporation Cumulative Redeemable Perpetual Preferred Series C,NASDAQ
 GFNSZ,General Finance Corporation 7.875% Senior Notes due 2025,NASDAQ
 GFOO,Genufood Energy Enzymes Corporation Common Stock,U
+GFOR U,"Graf Acquisition Corp. IV Units, each consisting of one share of common stock, and one-fifth of one",NYSE
 GFPTF,Gfpt Public Co Ltd (F) Units Non-Voting Depository Receipt (Thailand),U
 GFSZF,G4S Plc Ordinary Shares (United Kingdom),U
 GFSZY,G4S Plc Unsponsored ADR (UK),U
@@ -4842,6 +4843,7 @@ GLNG,Golar Lng Ltd,NASDAQ
 GLNS,Golden Star Resources Corporation Common Stock,U
 GLNV,Glenville Bk Hldg Co Inc Common,U
 GLO,Clough Global Opportunities Fund,AMEX
+GLO RTWI,"Clough Global Opportunities Fund Rights (expiring June 22, 2021)",AMEX
 GLOB,GLOBANT S.A.,NYSE
 GLOFF,ContourGlobal PLC Ord GBP0.01 (United Kingdom),U
 GLOG,GASLOG LTD,NYSE
@@ -4863,6 +4865,7 @@ GLPI,"Gaming and Leisure Properties, Inc. Common Stock",NASDAQ
 GLPJF,GLP J REIT SHS (Japan),U
 GLPT,Global Profit Technologies Inc FL Common Stock,U
 GLQ,Clough Global Equity Fund,AMEX
+GLQ RTWI,"Clough Global Equity Fund Rights (expiring June 22, 2021)",AMEX
 GLRE,"Greenlight Capital Re, Ltd. Class A Ordinary Shares",NASDAQ
 GLRI,GLORI ENERGY INC Common Stock,U
 GLROY,Glorious Property Holdings Limited Unsponsored ADR (Cayman Islands),U
@@ -4884,6 +4887,7 @@ GLU PRB,The Gabelli Global Utility & Income Trust Series B Cumulative Puttable a
 GLUC,"Glucose Health, Inc Common Stock",U
 GLUX,"Great Lakes Aviation, Ltd. Common Stock",U
 GLV,Clough Global Dividend and Income Fund,AMEX
+GLV RTWI,"Clough Global Dividend and Income Fund Rights (expiring June 22, 2021)",AMEX
 GLVHF,Glenveagh Properties Plc Common Stock (Germany Federal Republic),U
 GLVMF,Golden Valley Mines Ltd Common Shares,U
 GLVNF,Gallant Venture Ltd Ordinary Shares (Singapore),U
@@ -4919,6 +4923,7 @@ GMER,"Good Gaming, Inc. Common Stock",U
 GMEV,"GME Innotainment, Inc. Common Stock",U
 GMF,SPDR S&P Emerging Asia Pacific ETF,ARCA
 GMGI,"Golden Matrix Group, Inc. Common Stock",U
+GMGMF,GRAPHENE MFG GROUP LTD SHS (Australia),U
 GMGSF,Goodman Group Sydney NSW Stapled Security (Australia),U
 GMGT,GAMING TECHNOLOGIES INC Common Stock,U
 GMHLF,Gam Holding Ag Ordinary Shares Namen AKT (Switzerland),U
@@ -5510,6 +5515,3 @@ GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U

@@ -174,7 +174,9 @@ ACAN,"Americann, Inc. Common Stock",U
 ACAVF,ACE Aviation Holdings Inc Common Shares (Canada),U
 ACAZF,Acadian Timber Corporation Ordinary Shares (Canada),U
 ACB,Aurora Cannabis Inc. Common Shares,NYSE
+ACBA,Ace Global Business Acquisition Limited Ordinary Shares,NASDAQ
 ACBAU,Ace Global Business Acquisition Limited Unit,NASDAQ
+ACBAW,Ace Global Business Acquisition Limited Warrant,NASDAQ
 ACBCQ,Albina Community Bancorp (OR) Common Stock,U
 ACBD,Annabidiol Corp. Common Stock,U
 ACBI,"Atlantic Capital Bancshares, Inc. Common Stock",NASDAQ
@@ -2039,6 +2041,7 @@ AUDC,AudioCodes Ltd. Common Stock,NASDAQ
 AUDGF,Audinate Group LTD Ordinary Shs Fully Paid (Australia),U
 AUDVF,Audi Ag Vormals Audi-Nsu Auto Ordinary Shares,U
 AUDYF,AUSNUTRIA DAIRY CORPORATION LTD SHS (Cayman Islands),U
+AUEEF,Aura Energy Ltd Ordinary Shares (Australia),U
 AUGG,Augusta Gold Corp. Common Stock,U
 AUGX,AUGMEDIX INC COM,U
 AUGZ,TrueShares Structured Outcome (August) ETF,BATS
@@ -2949,7 +2952,7 @@ BKEAY,Bank East Asia Ltd Sponsored ADR,U
 BKEM,BNY Mellon Emerging Markets Equity ETF,ARCA
 BKEN,Bakken Energy Corp. Common Stock,U
 BKEP,Blueknight Energy Partners L.P. Common Units,NASDAQ
-BKEPP,"Blueknight Energy Partners L.P., L.L.C. Series A Preferred Units",NASDAQ
+BKEPP,Blueknight Energy Partners L.P. Series A Preferred Units,NASDAQ
 BKESF,Banco Espirito Santo E Ord Ordinary Shares,U
 BKESY,Banco Espirito Santo E Ord Unsponsored ADR (Portugal),U
 BKF,iShares MSCI BRIC Index Fund,ARCA
@@ -3062,7 +3065,7 @@ BLIBQ,BB Liquidating Inc. Class B Common Stock,U
 BLILF,Bearing Lithium Corp. Common Shares,U
 BLIN,"Bridgeline Digital, Inc. Common Stock",NASDAQ
 BLIS,Beliss Corporation Common Stock,U
-BLITF,INTERACTIVE GAME TECHNOLOGIES INC Common Shares,U
+BLITF,I3 INTERACTIVE INC Common Shares,U
 BLIXF,Blina Minerals NL,U
 BLJZY,Berli Jucker Pub Co Ltd Unsponsored ADR(Thailand),U
 BLK,"Blackrock, Inc.",NYSE
@@ -3205,7 +3208,6 @@ BMXMF,Biomerieux 69 Marcy L'Etoile Ordinary Shares,U
 BMXXY,BIOMERIEUX S A American Depositary Receipts - Unsponsored (France),U
 BMY,Bristol-Myers Squibb Co.,NYSE
 BMYMP,Bristol-Myers Squibb Company Preferred Stock,U
-BNAUF,Battle North Gold Corporation Common Shares,U
 BNBVY,Banco Nacional De Bolivia Bs10 American Depositary Shares,U
 BNCC,"Bnccorp, Inc. Common Stock",U
 BNCDY,Banca Mediolanum SPA American Depositary Receipts - Unsponsored (Italy),U
@@ -3406,6 +3408,7 @@ BR,Broadridge Financial Solutions Inc,NYSE
 BRAGF,Bauer Ag Ordinary Shares (Germany),U
 BRANF,"Baran Group, Ltd. Ordinary Shares",U
 BRAV,"Bravada International, Ltd. Common Stock",U
+BRAXF,Braxia Scientific Corp.  Common Shares,U
 BRBMF,Big Rock Brewery Inc. Ordinary Shares (Canada),U
 BRBOF,Brembo Spa Curneo Ordinary Shares,U
 BRBOY,BREMBO SPA American Depositary Receipts - Unsponsored (Italy),U
@@ -5512,4 +5515,3 @@ CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
-CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
