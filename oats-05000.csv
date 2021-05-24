@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
@@ -129,7 +130,6 @@ CREAY,Creative Technology Ltd. Unsponsored ADR (Singapore),U
 CRECF,Critical Elements Lithium Corporation Common Shares,U
 CREE,"Cree, Inc. Common Stock",NASDAQ
 CREG,China Recycling Energy Corporation Common Stock,NASDAQ
-CREJF,CRE Inc. Ordinary Shares (Japan),U
 CREQF,China Rare Earth Holdings Ltd Ordinary Shares,U
 CRERF,Carrefour S A (F) Ordinary Shares,U
 CRESF,Cresud SA Comercial Industrial Financiera Ordinary Shares (Argentina),U
@@ -488,7 +488,6 @@ CTTMF,Catena Media PLC Ordinary Shares (Malta),U
 CTTOF,CTT Correios Portugal SA Ordinary Shares (Portugal),U
 CTTPY,CTT-Correios de Portugal S.A. American Depositary Receipts - Unsponsored,U
 CTTQF,Costa Group Hldgs Ltd Ordinary Shares (Australia),U
-CTTRF,Controladora Vuela Compania De Aviacion SAB De CV Ordinary Shares (Mexico),U
 CTTZF,Centaurus Metals Ltd. Ordinary Shares (Australia),U
 CTUNF,Clean Seas Seafood Ltd Ordinary Shares,U
 CTUY,Century Next Financial Corp Common Stock,U
@@ -2310,7 +2309,6 @@ ENFAW,"890 5th Avenue Partners, Inc. Warrant",NASDAQ
 ENFR,Alerian Energy Infrastructure ETF,ARCA
 ENG,ENGlobal Corporation Common Stock,NASDAQ
 ENGA,"Engage Mobility, Inc. Com",U
-ENGBF,ENGAGE BDR LTD Ordinary Fully Paid (Australia),U
 ENGFF,Energulf Resources Inc Ordinary Shares,U
 ENGGF,Enagas sa Ordinary Shares,U
 ENGGY,Enagas sa Unsponsored ADR (Spain),U
@@ -2623,7 +2621,6 @@ ESOA,Energy Services of America Corporation,U
 ESOCF,Enel-Societa Per Azioni Ordinary Shares,U
 ESP,Espey Mfg. & Electronics Corp,AMEX
 ESPGY,Esprit Holdings Ltd-Hkd Sponsored ADR (Bermuda),U
-ESPHQ,"Ecosphere Technologies, Inc. Common Stock",U
 ESPIQ,"ESP Resources, Inc. Common Stock",U
 ESPO,VanEck Vectors Video Gaming and eSports ETF,NASDAQ
 ESPR,"Esperion Therapeutics, Inc. Common Stock",NASDAQ
@@ -3575,6 +3572,7 @@ FLY,Fly Leasing Limited,NYSE
 FLYE,Intl Jet Engine Supply Inc Common Stock,U
 FLYLF,"Flyht Aerospace Solutions, Inc. Ordinary Shares",U
 FLYT,Direxion Flight to Safety Strategy ETF,ARCA
+FLYW,Flywire Corporation Voting Common Stock,NASDAQ
 FLZA,Franklin FTSE South Africa,ARCA
 FM,iShares MSCI Frontier and Select EM ETF,ARCA
 FMAC,FirstMark Horizon Acquisition Corp.,NYSE
@@ -3739,6 +3737,7 @@ FNTOF,FRONTEO INC SHS (Japan),U
 FNV,Franco-Nevada Corporation,NYSE
 FNVAF,Farnova Group Holdings Ltd. Ordinary Shares (Bermuda),U
 FNWB,First Northwest Bancorp Common Stock,NASDAQ
+FNWD,Finward Bancorp Common Stock,U
 FNX,First Trust Mid Cap Core AlphaDEX Fund,NASDAQ
 FNXLF,Fenix Financial Ltd. Common Stock (Bermuda),U
 FNXTF,Fenix Outdoor Intl Ltd. Ordinary Shares Cl B (Switzerland),U
@@ -4277,6 +4276,7 @@ GABA,"Georgia Bancshares, Inc. (GA) Common Stock",U
 GABC,"German American Bancorp, Inc. Common Stock",NASDAQ
 GABK,Grand Bk Corp Common Stock,U
 GABLF,GABY INC Common Shares,U
+GACQU,Global Consumer Acquisition Corp. Unit,NASDAQ
 GACR,Green Automotive Company Corporation Common Stock,U
 GADS,"Gadsden Properties, Inc. Common Stock",U
 GAEC,Gulf Alternative Energy Corporation Common Stock,U

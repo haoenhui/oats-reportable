@@ -224,6 +224,7 @@ ACHKF,ACHIKO AG NAMEN AKT Ordinary Shares,U
 ACHL,Achilles Therapeutics plc American Depositary Shares,NASDAQ
 ACHV,"Achieve Life Sciences, Inc. Common Shares",NASDAQ
 ACI,"Albertsons Companies, Inc.",NYSE
+ACIBF,ACCION IBEX 35 ETF FI Unit,U
 ACIC,Atlas Crest Investment Corp.,NYSE
 ACIC U,"Atlas Crest Investment Corp. Units, each consisting of one Class A common stock, and one-third of on",NYSE
 ACIC WS,"Atlas Crest Investment Corp.Redeemable warrants included as part of the units, each whole warrant ex",NYSE
@@ -271,7 +272,7 @@ ACOR,"Acorda Therapeutics, Inc. Common Stock",NASDAQ
 ACOSF,Archos ACT.NOM,U
 ACP,Aberdeen Income Credit Strategies Fund,NYSE
 ACP PRA,Aberdeen Income Credit Strategies Fund 5.250% Series A Perpetual Preferred Stock,NYSE
-ACP RTWI,"Aberdeen Income Credit Strategies Fund Rights (expiring June 16, 2021)",NYSE
+ACP RT,"Aberdeen Income Credit Strategies Fund Rights (expiring June 16, 2021)",NYSE
 ACPGF,ACACIA PHARMA GROUP PLC ORD GBP0.02 (United Kingdom),U
 ACPIF,AC ENERGY CORP Common Stock,U
 ACPRF,ARCPACIFIC RES CORP Common Shares (Canada),U
@@ -813,6 +814,7 @@ AILQF,"AirlQ, Inc. Ordinary Shares (Canada)",U
 AILTF,ARGENT INDUSTRIAL LIMITED Ordinary Shares,U
 AIM,AIM ImmunoTech Inc.,AMEX
 AIMC,Altra Industrial Motion Corp. Common Stock,NASDAQ
+AIMD,"AINOS, Inc. Common Stock",U
 AIMFF,"Aimia, Inc.  Common Shares (Canada)",U
 AIMH,Aimrite Holdings Corp Common Stock,U
 AIN,Albany International Corp Class A,NYSE
@@ -1105,7 +1107,6 @@ AMANF,Amano Corp Ordinary Shares,U
 AMAO,American Acquisition Opportunity Inc. Class A Common Stock,NASDAQ
 AMAOU,American Acquisition Opportunity Inc. Units,NASDAQ
 AMAOW,American Acquisition Opportunity Inc. Warrant,NASDAQ
-AMAR,"Amarillo Biosciences, Inc. Common Stock",U
 AMAT,"Applied Materials, Inc. Common Stock",NASDAQ
 AMAZ,AMAZING ENERGY OIL & GAS CO Common Stock,U
 AMBA,"Ambarella, Inc. Ordinary Shares",NASDAQ
@@ -2068,6 +2069,7 @@ AURCW,Aurora Acquisition Corp. Warrant,NASDAQ
 AURI,"Auri, Inc. New Common Stock",U
 AURQD,AURELIUS MINERALS INC  Common Shares,U
 AURT,Attune RTD Common Stock,U
+AURWF,AURWEST RES CORP Common Shares,U
 AURX,"Nuo Therapeutics, Inc Common Stock",U
 AUS,Austerlitz Acquisition Corporation I,NYSE
 AUS U,"Austerlitz Acquisition Corporation I Units, each consisting of one Class A ordinary share and one-fo",NYSE
@@ -2081,7 +2083,6 @@ AUSTF,Austin Engineering Ltd Ordinary Shares (Ltd),U
 AUSVF,GOLD79 MINES LTD Common Shares,U
 AUTL,Autolus Therapeutics plc American Depositary Share,NASDAQ
 AUTLF,Austal Limited Ordinary Shares,U
-AUTLY,Austal Limited Sponsored ADR (Australia),U
 AUTO,"AutoWeb, Inc. Common Stock",NASDAQ
 AUTR,Autris Common Stock,U
 AUTYF,AUSTRALIAN UNITY OFFICE FD Unit,U
@@ -3263,7 +3264,7 @@ BNS,Bank of Nova Scotia,NYSE
 BNSO,"Bonso Electronics International, Inc. Common Stock",NASDAQ
 BNSPF,BANK N S HALIFAX NON-CUM 5YR RATE RESET PFD SHS SER 40 (Canada),U
 BNTC,Benitec Biopharma Inc. Common Stock,NASDAQ
-BNTGF,"Brenntag AG, Muehleim/Ruhr Namen - AKT (Germany Federal Republic)",U
+BNTGF,BRENNTAG SE Ordinary Shares,U
 BNTGY,Brenntag SE American Depositary Receipts - Unsponsored,U
 BNTRF,Benton Resources Inc. Com (Canada),U
 BNTT,Bnet Media Group Inc Common Stock,U
@@ -3739,7 +3740,6 @@ BURCA,"Burnham Holdings, Inc. Common Stock Class A",U
 BURCB,"Burnham Holdings, Inc. Common Stock Class B",U
 BURCP,"Burnham Holdings, Inc. Preferred Stock",U
 BURL,"BURLINGTON STORES, INC.",NYSE
-BUROF,Burcon NutraScience Corporation Ordinary Shares,U
 BUSC,"Blue Star Global, Inc. Common Stock",U
 BUSE,First Busey Corporation Class A Common Stock,NASDAQ
 BUSXF,VICINITY MTR CORP Ordinary Shares,U
@@ -4368,6 +4368,7 @@ CEFC,Commercial National Financial Corporation Common Stock,U
 CEFD,ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN,ARCA
 CEFS,Saba Closed-End Funds ETF,BATS
 CEGMF,Cerro Grande Mining Corp. Ordinary Shares (Canada),U
+CEHCF,COSMO ENERGY HLDGS CO LTD Ordinary Shares,U
 CEHD,"China Electronics Holdings, Inc. Common Stock",U
 CEI,"Camber Energy, Inc",AMEX
 CEIX,CONSOL Energy Inc.,NYSE
@@ -4481,7 +4482,7 @@ CFIN,Citizens Financial Corporation Common Stock New,U
 CFIV,CF Acquisition Corp. IV Class A common stock,NASDAQ
 CFIVU,CF Acquisition Corp. IV Unit,NASDAQ
 CFIVW,CF Acquisition Corp. IV Warrant,NASDAQ
-CFLSF,"Cash Financial Services Group, Ltd. Ordinary Shares (Bermdua)",U
+CFLSF,"Cash Financial Services Group, Ltd. Ordinary Shares",U
 CFMS,"Conformis, Inc. Common Stock",NASDAQ
 CFNB,California First Leasing Corporation Common Stock,U
 CFNCF,"Cie Financiere Tradition Lausanne Act, Shares (Switzerland)",U
@@ -5514,4 +5515,3 @@ CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
-CPEU,"Chapeau, Inc. Common Stock",U

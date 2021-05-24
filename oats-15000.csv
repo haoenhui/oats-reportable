@@ -3,7 +3,7 @@ MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
-MTFGF,MOUNTFIELD GROUP PLC Ordinary Shares (United Kingdom),U
+MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
@@ -605,7 +605,6 @@ NI,NiSource Inc.,NYSE
 NI PRB,"NiSource Inc. Depositary Shares representing 1/1,000th ownership interest in a share of 6.50% Series",NYSE
 NIAKF,Niitaka Co Ltd Osaka Ordinary Shares (Japan),U
 NIB,"iPath Bloomberg Cocoa Subindex Total Return ETN due June 24, 2038",ARCA
-NIBHF,"NIB Holdings Ltd, New Castle NSW Ordinary Shares (Australia)",U
 NICE,NICE Ltd American Depositary Shares,NASDAQ
 NICFF,NICHIAS CORP Ordinary Shares (Japan),U
 NICH,"Nitches, Inc. Common Stock",U
@@ -718,9 +717,9 @@ NMDBF,Neonmind Biosciences Inc Common Stock (Canada),U
 NMEHF,Nomura Real Estate Holdings Inc Ordinary Shares (Japan),U
 NMEX,Northern Minerals & Exploration Ltd.  Common Stock,U
 NMFC,New Mountain Finance Corporation Common Stock,NASDAQ
+NMG,Nouveau Monde Graphite Inc.,NYSE
 NMGC,NeoMagic Corporation Common Stock,U
 NMGGF,Network Media Group Inc Common Shares (Canada),U
-NMGRF,Nouveau Monde Graphite Inc Ordinary Shares,U
 NMGX,NANO MAGIC INC Common Stock,U
 NMHLY,NMC HEALTH PLC  American Depositary Receipts - Unsponsored (United Kingdom),U
 NMI,Nuveen Municipal Income,NYSE
@@ -1246,7 +1245,6 @@ NWEGF,Norwegian Finans Holding ASA Ordinary Shares (Norway),U
 NWFAF,New Focus Auto Tech Holdings Ltd HK Shares (Cayman Islands),U
 NWFL,Norwood Financial Corp. Common Stock,NASDAQ
 NWG,"NatWest Group plc American Depositary Shares, (Each representing 2 ordinary shares)",NYSE
-NWGAF,Norwegian Air Shuttle Asa Rights   05/21/2021,U
 NWGC,New World Gold Corporation Common Stock,U
 NWGIW,ELYS GAME TECHNOLOGY CORP Warrant 08/15/2025 Warrant,U
 NWGN,"NewGen Technologies, Inc. Common Stock",U
@@ -1254,7 +1252,6 @@ NWHAF,Handa Mining Corp  Ordinary Shares,U
 NWHM,THE NEW HOME COMPANY INC.,NYSE
 NWHUF,Northwest Healthcare Properties Real Estate Investment Trust Unit (Canada),U
 NWIFF,Nuinsco Resources Limited New Ordinary Shares (Canada),U
-NWIN,Northwest Indiana Bancorp Common Stock,U
 NWITY,Network International Holdings PLC Unsponsored ADR (United Kingdom),U
 NWKHY,Netcare Ltd Unsponsored ADR  (South Africa),U
 NWKLF,Network Int'l Holdings Ltd Ord Gbp 0.10 (United Kingdom),U
@@ -2709,7 +2706,6 @@ PLSE,"Pulse Biosciences, Inc Common Stock (DE)",NASDAQ
 PLSI,Phoenix Life Sciences International Ltd. Common Stock,U
 PLSNF,PLASSON INDS LTD SHS Ordinary Shares,U
 PLSQF,Plus500 Ltd. Ordinary Shares (Israel),U
-PLT,"Plantronics, Inc.",NYSE
 PLTI,"Platcom, Inc. Common Stock",U
 PLTK,Playtika Holding Corp. Common Stock,NASDAQ
 PLTL,Principal U.S. Small-Cap Adaptive Multi-Factor ETF,BATS
@@ -2881,6 +2877,7 @@ POLA,"Polar Power, Inc. Common Stock",NASDAQ
 POLJF,Polo Resources Ltd Ordinary Shares (British Virgin Islands),U
 POLR,Polar Petroleum Corp. Common Stock,U
 POLXF,Polydex Pharmaceuticals Limited Common Stock,U
+POLY,"Plantronics, Inc.",NYSE
 PONB,Pioneer Bancshares Inc Tex Common Stock,U
 POND U,"Angel Pond Holdings Corporation Units, each consisting of one Class A ordinary share and one-third o",NYSE
 PONGF,Atari Shares Prov de Regroupement (France),U
@@ -4690,7 +4687,6 @@ RVPHW,"Reviva Pharmaceuticals Holdings, Inc. Warrants",NASDAQ
 RVRC,"Revium Recovery, Inc. Common Stock",U
 RVRF,River Financial Corp. Common Stock,U
 RVRKF,RAVEN ROCK STRATEGIC INCOME FD Unit (Canada),U
-RVRS,Reverse Cap Weighted US Large Cap ETF,BATS
 RVSB,Riverview Bancorp Inc Common Stock,NASDAQ
 RVSDF,RIVERSIDE RES INC NEW Common Shares,U
 RVSGF,RIVERSGOLD LTD Ordinary Shares,U
@@ -5515,3 +5511,7 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
