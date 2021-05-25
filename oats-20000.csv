@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
-SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
 SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
@@ -23,6 +21,7 @@ SHMUF,Shimizu Corp Ord Ordinary Shares,U
 SHMUY,Shimizu Corp Ord Unsponsored ADR (Japan),U
 SHMY,SYNERGY EMPIRE LTD Common Stock,U
 SHMZF,Shimadzu Corp Ordinary Shares,U
+SHNJF,Rogue Baron PLC Ordinary Shares (United Kingdom),U
 SHNL,"Shentang International, Inc. Common Stock",U
 SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
@@ -1151,6 +1150,7 @@ SSGUF,SPDR S&P US Utilities Select Sector US Energy Select SEC USD (UCITS) Excha
 SSGWF,SSGA SPDR ETFs Europe II PLC MSCI World Materials UCITS ETF (Ireland),U
 SSGXF,SSGA SPDR ETFs Europe II PLC S&P US Industrials ETF SEL SEC (UCITS) (Ireland),U
 SSHC,Southshore Community Bank Apollo Beach Common Stock (Florida),U
+SSHI,"Sandy Springs Holdings, Inc. Common Stock",U
 SSHKF,Senshukai Co Ltd Ordinary Shares (Japan),U
 SSHLF,SUNAC SVCS HLDGS LTD Common Stock,U
 SSHLY,Sunac Services Holdings Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
@@ -1176,6 +1176,8 @@ SSO,ProShares Ultra S&P500,ARCA
 SSOF,"Sixty Six Oilfield Services, Inc. Common Stock",U
 SSOK,Sunstock Inc  Common Stock,U
 SSP,E.W. Scripps Company (The) Class A Common Stock,NASDAQ
+SSPCF,SiriusPoint Ltd. Contingent Value Rights (Bermuda),U
+SSPFF,SiriusPoint Ltd. Warrant Exp 02/26/2026 (Bermuda),U
 SSPK,Silver Spike Acquisition Corp. Class A Ordinary Shares,NASDAQ
 SSPKU,Silver Spike Acquisition Corp. Units,NASDAQ
 SSPKW,Silver Spike Acquisition Corp. Warrants,NASDAQ
@@ -1528,6 +1530,7 @@ SVMRF,Sevan Marine ASA Ordinary Shares (Norway),U
 SVNBY,Seven Bank Ltd Unsponsored ADR (Japan),U
 SVNDF,Seven & I Holdings Co Ltd Ordinary Shares (Japan),U
 SVNDY,Seven & I Holdings Co Ltd Unsponsored ADR (Japan),U
+SVNIU,Seven Islands Inc. Unit,NASDAQ
 SVNJ,"727 Communications, Inc. New Common Stock",U
 SVNLF,SVENSKA HANDELSBANKEN AB PUBL Ordinary Shares,U
 SVNLY,Svenska Handelsbanken Unsponsored ADR representing A Shares (Sweden),U
@@ -2610,7 +2613,6 @@ TPBTF,BETMAKERS TECHNOLOGY GROUP LTD ORDINARY FULLY PAID (Australia),U
 TPC,Tutor Perini Corporation,NYSE
 TPCAF,TIPCO ASPHALT PUB CO LTD Ordinary Shares,U
 TPCFF,Titan Logix Corporation Ordinary Shares (Canada),U
-TPCO,Tribune Publishing Company Common Stock,NASDAQ
 TPCS,Techprecision Corporation Common Stock,U
 TPDDF,Talon Petroleum Ltd Ordinary Shares (Australia),U
 TPDKY,Topdanmark AS Unsponsored ADR (Denmark),U
@@ -2906,6 +2908,7 @@ TSSP,"Trendsetter Solar Products, Inc. Common Stock",U
 TSSZF,Tessi Ordinary Shares (France),U
 TSTEF,LUXE HLDGS LTD Ordinary Shares,U
 TSTS,"That Marketing Solution, Inc. NEW Com",U
+TSUIF,Tse Sui Leun Jewelry Intl Ltd Ordinary Shares (Bermuda),U
 TSUKF,Toyo Suisan Kaisha Ltd Ordinary Shares (Japan),U
 TSUKY,Toyo Suisan Kaisha Ltd American Depositary Shares,U
 TSURF,TSUKURUBA INC COM STK (Japan),U
@@ -2985,7 +2988,7 @@ TTXTF,TEXHONG TEXTILE GROUP LIMITED Ordinary Shares,U
 TTYP,Trinity Petroleum Trust Cbi Common Stock,U
 TU,Telus Corporation,NYSE
 TUALF,Tuas Ltd. Ordinary Shares (Australia),U
-TUEM,Tuesday Morning Corp New Common Stock,U
+TUEM,Tuesday Morning Corp. Common Stock,NASDAQ
 TUERF,TRUE NORTH COMMERICAL REIT (Canada),U
 TUFBY,Thai Union Group Public Company Limited American Depositary Receipts - Unsponsored,U
 TUFN,Tufin Software Technologies Ltd.,NYSE
@@ -4013,7 +4016,7 @@ VMBS,Vanguard Mortgage-Backed Securities ETF,NASDAQ
 VMC,Vulcan Materials Company(Holding Company),NYSE
 VMCS,VisualMED Clinical Solutions CorporationCommon Stock,U
 VMD,"Viemed Healthcare, Inc. Common Shares",NASDAQ
-VMEOV,"Vimeo, Inc. Common Stock When Issued",NASDAQ
+VMEO,"Vimeo, Inc. Common Stock",NASDAQ
 VMHG,Victory Marine Holdings Corp. Common Stock,U
 VMI,"Valmont Industries, Inc.",NYSE
 VMII,"Voice Mobility International, Inc. Common Stock",U
@@ -5093,6 +5096,7 @@ XPPLF,XP Power Ltd Ordinary Shares (Singapore),U
 XRAY,DENTSPLY SIRONA Inc. Common Stock,NASDAQ
 XREG,XR Energy Inc Common Stock,U
 XRESF,Xtierra Inc. Ordinary Shares (Canada),U
+XRFSF,XRF Scientific Ltd. Shs (Australia),U
 XRLV,Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF,ARCA
 XROLF,Xero Ltd. Ordinary Shares (New Zealand),U
 XRSMF,XTRACKERS IE PLC RUSSELL MIDCAP UCITS ETF 1C (Ireland),U
@@ -5251,7 +5255,6 @@ YMZNF,YAMAZEN CORP Ordinary Shares Japan (JP ),U
 YNAJF,Yantai North Andre Juice Co Ltd Ordinary Shs H (Hong Kong),U
 YNDX,Yandex N.V. Class A Ordinary Shares,NASDAQ
 YNGDF,Yingde Gases Group Co Ordinary Shares (Cayman Islands),U
-YNGFF,Veris Gold Corp. Ordinary Shares (Canada),U
 YNNHF,Yihai Intl Hldg Ltd Ordinary Shares (Cayman Islands),U
 YNSKF,King Stone Energy Grop Ltd. Ordinary Shares (Hong Kong),U
 YNVYF,Ynvisible Interactive Inc. Ordinary Shares,U
@@ -5403,6 +5406,7 @@ ZIONN,"Zions Bancorporation, N.A. Dep Shs Repstg 1/40th Int Sh Ser H Perp Pfd St
 ZIONO,"Zions Bancorporation, N.A. Dep Shs Repstg 1/40th Perp Pfd Ser G",NASDAQ
 ZIONP,"Zions Bancorporation, N.A. Depositary Shares (Each representing 1/40th Interest in a Share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock)",NASDAQ
 ZIOP,ZIOPHARM Oncology Inc Common Stock,NASDAQ
+ZIP,"ZipRecruiter, Inc.",NYSE
 ZIPL,"ZipLink, Inc. Common Stock",U
 ZIVO,"Zivo Bioscience, Inc. Common Stock",U
 ZIVZF,Credit Suisse AG Nassau Brh VelocityShares Daily Inverse VIX Lkd to S&P 500 Medium Term ETN,U

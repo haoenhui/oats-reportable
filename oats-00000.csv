@@ -139,6 +139,7 @@ ABR,"Arbor Realty Trust, Inc.",NYSE
 ABR PRA,"Arbor Realty Trust, Inc 8.250% Series A Cumulative Redeemable Preferred Stock",NYSE
 ABR PRB,"Arbor Realty Trust, Inc. 7.75% Series B Preferred",NYSE
 ABR PRC,"Arbor Realty Trust, Inc. 8.50% Series C Cumulative Redeemable Preferred Stock, Liquidation Preferenc",NYSE
+ABRRP,Arbor Realty Trust Inc Preferred Series D,U
 ABRUF,AMERICAN PAC BURATE & LITHIUM LTD Ord Shs Fully Paid (Australia),U
 ABSCF,"AB Science, Paris Ordinary Shares (France)",U
 ABSOF,ABS-CBN  Holdings Corporation Phillipine Depositary Receipts Representing 1 Share (Phillipines),U
@@ -173,7 +174,7 @@ ACAI,Safeplus International Holdings Limited Common Stock,U
 ACAN,"Americann, Inc. Common Stock",U
 ACAVF,ACE Aviation Holdings Inc Common Shares (Canada),U
 ACAZF,Acadian Timber Corporation Ordinary Shares (Canada),U
-ACB,Aurora Cannabis Inc. Common Shares,NYSE
+ACB,Aurora Cannabis Inc. Common Shares,NASDAQ
 ACBA,Ace Global Business Acquisition Limited Ordinary Shares,NASDAQ
 ACBAU,Ace Global Business Acquisition Limited Unit,NASDAQ
 ACBAW,Ace Global Business Acquisition Limited Warrant,NASDAQ
@@ -843,6 +844,7 @@ AIRT,"Air T, Inc. Common Stock",NASDAQ
 AIRTP,"Air T, Inc. Air T Funding Alpha Income Trust Preferred Securities",NASDAQ
 AIRTW,"Air T, Inc. Air T Funding Warrants to Purchase Alpha Income Trust Preferred Expiring 08/30/2021",NASDAQ
 AIRYY,Air China Limited Sponsored ADR (China),U
+AISFF,Amundi IDX Solutions SICAV Floating Rate USD Corp UCITS ETF USD C (Luxembourg),U
 AISSF,AIS Res Ltd Ordinary Shares (Bahamas),U
 AIT,"Applied Industrial Technologies, Inc.",NYSE
 AITA,Wunong Asia Pacific Company Limited Common Stock,U
@@ -1353,6 +1355,7 @@ ANTI,Antigenics Inc (Colorado) Common Stock,U
 ANTM,"ANTHEM, INC.",NYSE
 ANTMF,ANTILLES GOLD LTD Ordinary Shares,U
 ANTOF,IIDA GROUP HLDGS CO LTD Ordinary Shares,U
+ANTVF,Antares Vision SRL SPA Azioni Ordinary Shares (Italy),U
 ANVI,"Anvi Global Holdings, Inc. Common Stock",U
 ANVS,"Annovis Bio, Inc.",AMEX
 ANVV,Anvia Hldgs Corp Common Stock,U
@@ -1501,6 +1504,7 @@ APTL,Alaska Pwr & Tel Co Common Stock,U
 APTO,"Aptose Biosciences, Inc. Common Shares",NASDAQ
 APTPF,Airports of Thailand Pblic Co Ltd Ordinary Shares,U
 APTS,"Preferred Apartment Communities, Inc.",NYSE
+APTSP,PREFERRED APT CMNTYS INC REDEEMABLE PFD SER A Preferred Stock,U
 APTTF,Asian Pay Television Tr Units (Singapore),U
 APTV,Aptiv PLC,NYSE
 APTV PRA,Aptiv PLC 5.50% Series A Mandatory Convertible Preferred Shares,NYSE
@@ -1573,6 +1577,7 @@ ARCS,Arcis Resources Corporation Common Stock,U
 ARCT,Arcturus Therapeutics Holdings Inc. Common Stock,NASDAQ
 ARCUF,Arcus Development Group Inc. Common Shares (Canada),U
 ARCVF,Arcadis NV Ordinary Shares,U
+ARCW,"ARC Group Worldwide, Inc. Common Stock",U
 ARCXF,ArcelorMittal South Africa Ordinary Shares (South Africa (ZA)),U
 ARD,Ardagh Group S.A. Class A Common Shares,NYSE
 ARDC,"ARES DYNAMIC CREDIT ALLOCATION FUND, INC.",NYSE
@@ -1976,7 +1981,7 @@ ATONF,Anton Oilfield Services Group Ordinary shares (Cayman Islands),U
 ATONY,Anton Oilfield Services Group Unsponsored ADR (Cayman Islands),U
 ATOR,Astor Explorations Corp. Common Stock,U
 ATOS,"Atossa Therapeutics, Inc. Common Stock",NASDAQ
-ATOWW,"Atossa Therapeutics, Inc.  Warrant",U
+ATOWW,"Atossa Therapeutics, Inc. Warrant Exp 05/30/2022",U
 ATOXF,"Durango Resources, Inc.  Common Shares (Canada)",U
 ATPGQ,ATP Oil & Gas Corporation PERP PFD CONV 8% SER B,U
 ATPHF,AUSTRALIAN PRIM HEMP LTD Ordinary Shares,U
@@ -3420,6 +3425,7 @@ BRBYF,"Bronco Billy o Ltd, Nagoya Ordinary shares (Japan)",U
 BRC,Brady Corporation,NYSE
 BRCHF,Brainchip Holdings Ltd Ordinary Shares,U
 BRCKF,BROCKHAUS CAP MGMT AG Ordinary Shares,U
+BRCN,Burcon NutraScience Corp. Common Stock,NASDAQ
 BRCOQ,Beard Company (The) Common Stock,U
 BRCPF,Brasilagro Cia Brasileira De Propriedades Agricolas Ordinary Shares (Brazil),U
 BRCSF,Barra Resources Ltd Ordinary Shares (Australia),U
@@ -3484,10 +3490,6 @@ BROGW,Brooge Holdings Limited Warrant expiring 12/20/2024,NASDAQ
 BROOF,Brookfield Renewable Partners LP Preferred Limited Partnership Class A Series 11 (Bermuda),U
 BROXF,Brookfield Asset Management Inc Pref Shares Class A Series 37 4.9%,U
 BRP,"BRP Group, Inc. Class A Common Stock",NASDAQ
-BRPA,Big Rock Partners Acquisition Corp. Common Stock,NASDAQ
-BRPAR,Big Rock Partners Acquisition Corp. Right,NASDAQ
-BRPAU,Big Rock Partners Acquisition Corp. Unit,NASDAQ
-BRPAW,Big Rock Partners Acquisition Corp. Warrant,NASDAQ
 BRPHF,Galaxy Digital Holdings Ltd Common Shares,U
 BRPM,B. Riley Principal 150 Merger Corp. Class A Common Stock,NASDAQ
 BRPMU,B. Riley Principal 150 Merger Corp. Unit,NASDAQ
@@ -3908,7 +3910,6 @@ CACC,Credit Acceptance Corporation Common Stock,NASDAQ
 CACG,Legg Mason ETF Investment Trust ClearBridge All Cap Growth ETF,NASDAQ
 CACH,CACHE Inc Common Stock,U
 CACI,CACI INTERNATIONAL CLA,NYSE
-CACQF,Ayr Wellness Inc Rights Exp 05/24/2021 (Canada),U
 CADE,Cadence Bancorporation,NYSE
 CADGF,Bio Papel Sab de Cv Ordinary Shares (Mexico),U
 CADIF,Cadillac Ventures Inc Common Shares,U
@@ -5515,3 +5516,5 @@ CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
+CPEU,"Chapeau, Inc. Common Stock",U
+CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U

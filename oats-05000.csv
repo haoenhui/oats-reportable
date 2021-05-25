@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPEU,"Chapeau, Inc. Common Stock",U
-CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
@@ -1570,7 +1568,7 @@ DTOCU,Digital Transformation Opportunities Corp. Units,NASDAQ
 DTOCW,Digital Transformation Opportunities Corp. Warrant,NASDAQ
 DTP,DTE Energy Company 2019 Corporate Units,NYSE
 DTPKF,DIRECTA PLUS PLC Common Stock (United Kingdom),U
-DTRC,Dakota Territory Resource Corp Common Stock,U
+DTRCD,Dakota Territory Resource Corp Common Stock,U
 DTREF,DATELINE RESOURCES LTD Shs (Australia),U
 DTRK,"DataTrak International, Inc. Common Stock",U
 DTRL,Detroit Legal News Co Common Stock,U
@@ -2103,6 +2101,7 @@ EKTAF,Elekta B Shs Ordinary Shares,U
 EKTAY,Elekta B Shs Unsponsored ADR representing B Shares (Sweden),U
 EKTPF,ECKOH PLC Ordinary Shares,U
 EKWX,"Ekwan-X, Inc. Common Stock",U
+EKZRF,Eckert & Ziegler Strahlen Und Medizintechnik Ag Berlin Ordinary Shares (Germany Federal Republic),U
 EL,The Estee Lauder Companies Inc. Class A,NYSE
 ELA,Envela Corporation,AMEX
 ELALF,El Al Ltd Ordinary Shares (Israel),U
@@ -2217,7 +2216,6 @@ EMHI,East Morgan Holdings Inc  Common Stock,U
 EMHLF,EUROPEAN METALS HLDGS LTD Ordinary Shares,U
 EMHTF,EMERALD HEALTH THERAPEUTICS INC  Ordinary Shares,U
 EMHY,iShares J.P. Morgan EM High Yield Bond ETF,BATS
-EMICF,EMERA INC Preference Shares 1ST PFD SER F Canada(CA ),U
 EMIF,iShares Emerging Markets Infrastructure ETF,NASDAQ
 EMINF,Kore Potash Ltd Ordinary Shares (Australia) Ordinary Shares,U
 EMITF,Elbit Imaging Ltd. Ordinary Shares,U
@@ -3010,6 +3008,7 @@ FATBP,FAT Brands Inc. 8.25% Series B Cumulative Preferred Stock,NASDAQ
 FATBW,FAT Brands Inc. Warrant,NASDAQ
 FATE,"Fate Therapeutics, Inc. Common Stock",NASDAQ
 FATLF,FATTAL HLDGS 1998 LTD Common Shares Israel(IL ),U
+FATT,Fat Tail Risk ETF,ARCA
 FAUG,FT Cboe Vest U.S. Equity Buffer ETF - August,BATS
 FAURY,FAURECIA SE American Depositary Receipts - Unsponsored,U
 FAVO,"Favo Capital, Inc. Common Stock",U
@@ -3756,6 +3755,7 @@ FOJCY,Fortum OYJ Unsponsored ADR (Finland),U
 FOLD,"Amicus Therapeutics, Inc. Common Stock",NASDAQ
 FOLGF,Falcon Oil & Gas Ltd Ordinary Shares,U
 FOMC,FOMO CORP Common Stock,U
+FOMO,FOMO ETF,BATS
 FONR,Fonar Corporation Common Stock,NASDAQ
 FONU,FONU2 Inc. Common Stock,U
 FONWF,FLOWER ONE HLDGS INC WT EXP 9/18/2023 (Canada),U
@@ -4003,7 +4003,6 @@ FSNR,"Freestone Resources, Inc. Common Stock",U
 FSNTF,FASHIONETTE AG Ordinary Shares,U
 FSNUF,FRESENIUS SE & CO KGAA  Ordinary Shares,U
 FSNUY,Fresenius SE & Co KGaA Sponsored American Depository Receipt (Germany),U
-FSNV,FS INVT CORP III COM,U
 FSOYF,F-Secure Oyj Ordinary Shares,U
 FSP,Franklin Street Properties Corp,AMEX
 FSPKF,Fisher & Paykel Healthcare Corporation Limited Ordinary Shares,U
@@ -4469,6 +4468,7 @@ GDAR,"Golden Age Resources, Inc. Common Stock",U
 GDASY,Goldas Kuyumculuk Sanayii Ithalat Ve Ihracat A.S. Goldas Kuyumculuk Sanayii Ithalat Ve Ihracat A.S. Sponsored ADR,U
 GDDFF,Goodfood Mkt Corp Ordinary Shares (Canada),U
 GDDN,Gadsden Corp CDT-Cl A,U
+GDDPF,Goodpatch Inc Common Stock (Japan),U
 GDDY,GoDaddy Inc,NYSE
 GDEN,"Golden Entertainment, Inc. Common Stock",NASDAQ
 GDET,"GD Entertainment & Technology, Inc. Common Stock",U
@@ -5515,3 +5515,6 @@ GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
+GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U

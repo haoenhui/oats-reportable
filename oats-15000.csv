@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
@@ -289,7 +287,7 @@ NBB,Nuveen Taxable Municipal Income Fund,NYSE
 NBBTF,Natural Beauty Bio Technology Limited Ordinary Shares,U
 NBCO,"Neon Bloom, Inc. Common Stock",U
 NBDR,"No Borders, Inc. Common Stock",U
-NBEV,"NewAge, Inc. Common Stock",NASDAQ
+NBEV,"NewAge, Inc. Common Stock (Delaware)",NASDAQ
 NBFJF,Nippon Building Fund Inc Ordinary Shares (Japan),U
 NBGCY,NATIONAL BK GREECE S A American Depositary Receipts - Unsponsored  Greece(GR ),U
 NBGIF,National Bank of Greece SA Ordinary Shares,U
@@ -322,6 +320,7 @@ NBVAF,Nubeva Technologies Ltd Ordinary Shares,U
 NBVB,Nationwide Beverage Bottling Corp Common Stock,U
 NBVG,Nutripure Beverages Inc New  Common Stock,U
 NBW,Neuberger Berman California Municipal Fund Inc.,AMEX
+NBXG,Neuberger Berman Next Generation Connectivity Fund Inc.,NYSE
 NBY,"NovaBay Pharmaceuticals, Inc.",AMEX
 NBYCF,Niobay Metals Inc Common Shares,U
 NC,"NACCO Industries, Inc.",NYSE
@@ -647,6 +646,7 @@ NIPPF,"Nippon Accommodations Fund Inc, Tokyo Ordinary Shares (Japan)",U
 NIQ,NUVEEN INTERMEDIATE DURATION QUALITY MUNICIPAL TERM FUND,NYSE
 NIROF,Sportshero Ltd Ordinary Shares,U
 NISN,"NiSun International Enterprise Development Group Co., Ltd. Class A Common Shares",NASDAQ
+NISSF,Nissin Electric Co Ltd Ordinary Shares (Japan),U
 NISTF,Nippon Steel & Sumitomo Metal Corp. Ordinary Shares (Japan),U
 NISUY,Nippon Suisan Kaisha Ltd American Depositary Shares,U
 NITMF,HANNA CAP CORP Ordinary Shares,U
@@ -967,6 +967,8 @@ NRWEF,"NORWEGIAN ENERGY COMPANY AS, STAVENGER SHS (Norway)",U
 NRWRF,Newriver Reit Plc Reit (United Kingdom),U
 NRWS,Narrowstep Inc. Common Stock,U
 NRXCF,Neutrisci Intl Inc Ordinary Shares (Canada),U
+NRXP,"NRX Pharmaceuticals, Inc. Common Stock",NASDAQ
+NRXPW,"NRX Pharmaceuticals, Inc. Warrant",NASDAQ
 NRXXY,NORDEX SE American Depositary Receipts - Unsponsored (Germany),U
 NRYYF,Norway Royal Salmon ASA Ordinary Shares (Norway),U
 NRYYY,Norway Royal Salmon ASA Unsponsored ADR (Norway),U
@@ -1021,7 +1023,7 @@ NSPR WS,"InspireMD Inc. Warrant to purchase one-twenty six thousand two hundred 
 NSPR WSB,"InspireMD Inc. Series B Warrants to purchase one-twenty six thousand two hundred fiftieth (1/ 26,250",AMEX
 NSPT,Newron Sport  Common Stock,U
 NSPX,"Inspyr Therapeutics, Inc.  Common Stock",U
-NSRCF,"Nextsource Materials, Inc. (CAN) Common Stock",U
+NSRCD,"Nextsource Materials, Inc. (CAN) Common Stock",U
 NSRGF,Nestle Sa Cham Et Vevey Ordinary Shares,U
 NSRGY,Nestle SA Sponsored ADR representing Registered Shares Series B (Switzerland),U
 NSRPF,Novo Res Corp Common shares (Canada),U
@@ -2068,6 +2070,7 @@ PAWH,Penn Warehouse & Safe Deposit Common Stock,U
 PAWZ,ProShares Pet Care ETF,BATS
 PAX,Patria Investments Limited Class A Common Shares,NASDAQ
 PAXH,PreAxia Health Care Payment Systems Inc. Common Stock,U
+PAY,"Paymentus Holdings, Inc.",NYSE
 PAYA,Paya Holdings Inc. Class A Common Stock,NASDAQ
 PAYAW,Paya Holdings Inc. Warrant,NASDAQ
 PAYC,"PAYCOM SOFTWARE, INC.",NYSE
@@ -2677,6 +2680,7 @@ PLLDF,The Philodrill Corporation Ov Ordinary Shares,U
 PLLHF,Gemfields Group Ltd Ordinary Shares,U
 PLLIF,Pirelli & Co SPA Ordinary Shares (Italy),U
 PLLMF,Plata Latina Minerals Corp Com (Canada),U
+PLLTL,Piedmont Lithium Inc Chess Depositary Int 100:1,U
 PLLVF,Palladon Ventures Ltd Ordinary Shares,U
 PLLWF,Polarean Imaging Ltd Ordinary Shares (United Kingdom),U
 PLM,PolyMet Mining Corp.,AMEX
@@ -2700,7 +2704,6 @@ PLRG,Principal U.S. Large-Cap Adaptive Multi-Factor ETF,BATS
 PLRRF,Polar Capital Holdings PLC London Ordinary Shares (United Kingdom),U
 PLRTF,Plymouth Rock Technologies Inc Ordinary Shares,U
 PLRX,"Pliant Therapeutics, Inc. Common Stock",NASDAQ
-PLSB,The Pulse Beverage Corporation. Common Stock,U
 PLSDF,Pulse Seismic Inc Ordinary Shares,U
 PLSE,"Pulse Biosciences, Inc Common Stock (DE)",NASDAQ
 PLSI,Phoenix Life Sciences International Ltd. Common Stock,U
@@ -4077,7 +4080,6 @@ RESD,WisdomTree International ESG Fund,BATS
 RESE,WisdomTree Emerging Markets ESG Fund,BATS
 RESN,Resonant Inc. Common Stock,NASDAQ
 RESP,WisdomTree U.S. ESG Fund,ARCA
-RESSD,"Sandy Springs Holdings, Inc. Common Stock",U
 RETA,"Reata Pharmaceuticals, Inc. Class A Common Stock",NASDAQ
 RETC,12 Retech Corporation Common Stock,U
 RETDF,REIT 1 LTD SHS REIT (Israel),U
@@ -5164,7 +5166,6 @@ SDIIF,"Scientific Digital Imaging PLC, Cambridge Ordinary Shares (United Kingdom
 SDIPF,FRASERS GROUP PLC Ordinary Shares,U
 SDIV,Global X SuperDividend ETF,ARCA
 SDLDF,"SDI, Ltd. Ordinary Shares (Australia)",U
-SDLPQ,Seadrill Partners LLC Unit Repstg Ltd Liability Co Int,U
 SDMHF,"Sartorius Stedim Biotech, Aubagne Ordinary Shares",U
 SDNI,Scandia Inc Common Stock NEW,U
 SDNSF,Sumitomo Densetsu Co Ltd Ordinary Shares (Japan),U
@@ -5515,3 +5516,5 @@ SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
+SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
+SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U

@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
@@ -1199,6 +1196,7 @@ ICCH,"ICC Holdings, Inc. Common Stock",NASDAQ
 ICCO,"Intercare DX, Inc. Common Stock",U
 ICCT,"iCoreConnect, Inc. Common Stock (United States)",U
 ICD,"Independence Contract Drilling, Inc.",NYSE
+ICDXF,iShares Canadian Real Return Bond Index ETF (Canada),U
 ICDZF,Ishares Canadian Hybrid Corporate Bond Index ETF (Canada),U
 ICE,Intercontinental Exchange  Inc.,NYSE
 ICF,iShares Cohen & Steers REIT ETF,BATS
@@ -1489,6 +1487,7 @@ IHSI,Intelligent Highway Solutions Inc Com,U
 IHSRF,ISHARES VI PLC S&P 500 Minimum Volatility UCTS ETF ( Ireland),U
 IHSWF,INTERNATIONAL HOUSEWARES RETAIL CO LTD HKD SHS (Cayman Islands),U
 IHSXF,Ishares Plc - Ishares MSCI North America Fund Ordinary Shares (Ireland),U
+IHSZF,iShares II plc Ordinary Shares (Ireland),U
 IHT,InnSuites Hospitality Trust,AMEX
 IHTA,Invesco High Income 2024 Target Term Fund,NYSE
 IHTI,"Integrative Health Technologies, Inc. Common Stock",U
@@ -1788,7 +1787,6 @@ INSEW,INSPIRED ENTMT INC Warrant   10/20/2021,U
 INSG,Inseego Corp. Common Stock,NASDAQ
 INSHF,Inner Spirit Holdings Ordinary Shares,U
 INSI,Insight Select Income Fund,NYSE
-INSIF,ERECH FIN CAHALACHA LTD Ordinary Shares,U
 INSM,"Insmed, Inc. Common Stock",NASDAQ
 INSO,"Industry Source Consulting, Inc. Common Stock",U
 INSP,"Inspire Medical Systems, Inc.",NYSE
@@ -2037,6 +2035,7 @@ ISEJF,ISHARES III PLC Exchange Traded Fund ISHARES J P MORGAN EM LOCAL GOVT BOND
 ISELF,Ishares IV PLC Electric Vehicles and Driving Technology UCITS ETF (Ireland),U
 ISEM,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco RAFI Strategic Emerging Markets ETF,NASDAQ
 ISENF,Isoenergy Ltd. Ordinary Shares (Canada),U
+ISESF,iShares S&P/TSX Capped Materials Index ETF (Canada),U
 ISEXF,IShares MSCI AC Far East Ex-Japan Ordinary Shares (Ireland),U
 ISEYF,WI2WI Corp Ordinary Shares,U
 ISFFF,ISS Ordinary Shares (Denmark),U
@@ -2046,6 +2045,7 @@ ISGBF,Ishares PLC VI PLC GLOBAL CORP BOND EUR HEDGED UCITS ETF DIST (Ireland),U
 ISGIF,INSURAGUEST TECHNOLOGIES INC COM (Canada),U
 ISGN,iSign Solutions Inc. Common Stock,U
 ISGPF,IShares V PLC Gold Producers UCITS ETF (Ireland),U
+ISHAF,iShares Diversified Monthly Income ETF Unit (Canada),U
 ISHBF,ISHARES IV PLC ISHARES TREASURY BOND 20+YR UCITS ETF USD ACC Exchange Traded Fund Ireland(IE ),U
 ISHDF,ISHARES IV PLC DIGITAL SECURITY UCITS ETF USD ACC Exchange Traded Fund Ireland(IE ),U
 ISHFF,ISHARES IV PLC Shs Exhange Traded Fund USD (Ireland),U
@@ -2690,9 +2690,9 @@ JPM PRG,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th int
 JPM PRH,JPMorgan Chase & Co.,NYSE
 JPM PRJ,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of JPMorgan",NYSE
 JPM PRK,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 4.55% Non",NYSE
+JPM PRL,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 4.625% No",NYSE
 JPMB,JPMorgan USD Emerging Markets Sovereign Bond ETF,ARCA
 JPME,JPMorgan Diversified Return US Mid Cap Equity ETF,ARCA
-JPMLP,JPMORGAN CHASE & CO DEP SHS REPSTG 1/400TH INT NON CUM PFD SER LL,U
 JPN,Xtrackers Japan JPX-Nikkei 400 Equity ETF,ARCA
 JPNCF,JAPAN CASH MACHINE CO LTD SHS (Japan),U
 JPNPY,Japan Post Ins Co Ltd ADS Repstg Com Stk (Japan),U
@@ -3077,6 +3077,7 @@ KKMSF,Klimasan Klima Sanayi Ve Ticaret Ordinary Shares,U
 KKOYF,Kesko OYJ Wertpapieren Ordinary Shares B (Finland),U
 KKOYY,Kesko OYJ Unsponsored ADR representing B shares (Finland),U
 KKPCF,Kaken Pharmaceutical Co Ltd Ordinary Shares (Japan),U
+KKPFF,Kaisa Prosperity Holdings Ltd. Ordinary Shares (Cayman Islands),U
 KKPNF,Koninklijke Kpn Nv Ordinary Shares,U
 KKPNY,Royal KPN N.V. Common Stock,U
 KKPT,"KoKo Petroleum, Inc. Common Stock (Nevada)",U
@@ -5515,3 +5516,5 @@ MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
