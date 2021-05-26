@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -377,7 +375,6 @@ HHDS,Highlands REIT Inc Common Stock,U
 HHER,Her Imports Common Stock,U
 HHGI,"Hawaiian Hospitality Group, Inc.  Common Stock New",U
 HHHEF,"37 Capital, Inc. Ordinary Shares (Canada)",U
-HHILF,Hopewell Highway Infrastructure Limited Ordinary Shares (Cayman Islands),U
 HHKIY,Hochiki Corp Ord American Depositary Shares,U
 HHKSY,DFCITY Group Berhad American Depositary Receipts - Sponsored,U
 HHLA,HH&L Acquisition Co.,NYSE
@@ -873,7 +870,6 @@ HTPRF,HTC Purenergy Inc Ordinary Shares (Canada),U
 HTRB,Hartford Total Return Bond ETF,ARCA
 HTRC,Hunter Creek Mng Co Unclassified,U
 HTRE,"H3 Enterprises, Inc. Common Stock",U
-HTRRF,BLACKWOLF COPPER & GOLD LTD Common Shares,U
 HTSC,Here to Serve Holding Corp. Common Stock (DE),U
 HTSF,"Heartsoft, Inc. Common Stock",U
 HTSLF,Hitachi Transport System Ltd. Ordinary Shares (Japan),U
@@ -1556,6 +1552,7 @@ ILCM,Illinois Community Bancorp Common Stock,U
 ILCV,iShares Morningstar Value ETF,ARCA
 ILDIA,"Inspiration Lead, Inc. Class A Common Stock",U
 ILDO,Intl Daleco Corp Common Stock,U
+ILDR,First Trust Innovation Leaders ETF,ARCA
 ILF,iShares Latin America 40 ETF,ARCA
 ILHMF,International Lithium Corp. Ordinary Shares (Canada),U
 ILIAF,Iliad Akt (France),U
@@ -5518,3 +5515,8 @@ MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
+MTFC,Minster Financial Corporation,U
+MTFGF,U K SPAC PLC Ordinary Shares,U
+MTG,MGIC Investment Corp.,NYSE
+MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U

@@ -67,7 +67,7 @@ AAU,Almaden Minerals Ltd.,AMEX
 AAUGF,ANGOLD RES LTD COM (Canada),U
 AAUKF,Anglo American plc Ordinary Shares (United Kingdom),U
 AAVMY,Abn Amro BK N V Amsterdam Brh American Depositary Receipts - Unsponsored (Netherlands),U
-AAVVF,Advantage Oil & Gas Ltd Ordinary Shares (Canada),U
+AAVVF,Advantage Energy Ltd. Ordinary Shares,U
 AAVXF,Abivax SA Ordinary Shares (France),U
 AAWW,Atlas Air Worldwide Holdings NEW Common Stock,NASDAQ
 AAXJ,iShares MSCI All Country Asia ex Japan ETF,NASDAQ
@@ -2895,6 +2895,7 @@ BIP PRA,"Brookfield Infrastructure Partners L.P. 5.125% Class A Preferred Limite
 BIP PRB,"Brookfield Infrastructure Partners L.P. 5.000% Class A Preferred Limited Partnership Units, Series 1",NYSE
 BIPAF,Brookfield Infrastructure Partners LP Pref Cum Ltd Partnership Unit Class A Ser (Bermuda),U
 BIPC,Brookfield Infrastructure Corporation Class A Subordinate Voting Shares,NYSE
+BIPH,Brookfield Infrastructure Finance ULC 5.000% Subordinated Notes due 2081,NYSE
 BIQIF,BIQI Intl Hldgs Cp Shs Common Shares,U
 BIRDF,Bird Construction Inc. Common Shares (Canada),U
 BIREF,Birchcliff Energy Ltd. New Ordinary Shares (Canada),U
@@ -3072,7 +3073,6 @@ BLILF,Bearing Lithium Corp. Common Shares,U
 BLIN,"Bridgeline Digital, Inc. Common Stock",NASDAQ
 BLIS,Beliss Corporation Common Stock,U
 BLITF,I3 INTERACTIVE INC Common Shares,U
-BLIXF,Blina Minerals NL,U
 BLJZY,Berli Jucker Pub Co Ltd Unsponsored ADR(Thailand),U
 BLK,"Blackrock, Inc.",NYSE
 BLKB,"Blackbaud, Inc. Common Stock",NASDAQ
@@ -3395,7 +3395,6 @@ BPT,BP Prudhoe Bay Royalty Trust,NYSE
 BPTH,"Bio-Path Holdings, Inc. Common Stock",NASDAQ
 BPTNF,PT Barito Pacific TBK Ordinary Shares (Indonesia),U
 BPTS,Biophytis SA American Depositary Share,NASDAQ
-BPUZF,Eros Resources Corp. Ordinary Shares,U
 BPXXY,BPER BANCA S.P.A American Depositary Receipts - Unsponsored,U
 BPY,Brookfield Property Partners L.P. Limited Partnership Units,NASDAQ
 BPYPN,"Brookfield Property Partners L.P. 5.750% Class A Cumulative Redeemable Perpetual Preferred Units, Series 3",NASDAQ
@@ -3784,6 +3783,7 @@ BWAV,Betawave Corporation Common Stock,U
 BWAY,BrainsWay Ltd. American Depositary Shares,NASDAQ
 BWB,"Bridgewater Bancshares, Inc. Common Stock",NASDAQ
 BWBA,"BroadWebAsia, Inc. Common Stock",U
+BWCGF,BLACKWOLF COPPER & GOLD LTD Common Shares,U
 BWEL,Boswell J G Co Common Stock,U
 BWEN,"Broadwind, Inc. Common Stock",NASDAQ
 BWERY,BW Energy American Depository Receipts (Bermuda),U
@@ -4041,6 +4041,7 @@ CAULF,Cauldron Energy Ltd Ordinary Shares (Austrailia),U
 CAUTF,"Cambria Automobiles PLC, Swindon Ordinary Shares (United Kingdom)",U
 CAUUF,Centaur Media PLC Common Stock (United Kingdom),U
 CAVEF,"Cavotec SA, Lugano Ordinary Shares Nom",U
+CAVG,ACC Aviation Holdings Ltd Common Stock,U
 CAVR,CAVU Resources Inc Common Stock,U
 CAVVF,CAVU Mining Corp Ordinary Shares (Canada),U
 CAWLF,CWC Energy Services Corp. Common Shares (Canada),U
@@ -5360,7 +5361,7 @@ CNXT,VanEck Vectors ChinaAMC SME-ChiNext ETF,ARCA
 CNYA,iShares MSCI China A ETF,BATS
 CNYCF,Searchlight Res Inc Common Stock,U
 CO,Global Cord Blood Corporation,NYSE
-COBAD,International Cobalt Corp. Ordinary Shares,U
+COBAF,International Cobalt Corp. Ordinary Shares,U
 COBCF,Cobalt Blockchain Inc. Common Shares,U
 COBJF,Comba Telecom Systems Holdings Limited Ordinary Shares (Cayman Islands),U
 COCBF,"Coastal Caribbean Oils & Minerals, Ltd. Ordinary Shares (Bermuda)",U
@@ -5518,3 +5519,5 @@ CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
+CPF,Central Pacific Financial Corporation,NYSE
+CPFH,"Capital Financial Holdings, Inc. Common Stock",U

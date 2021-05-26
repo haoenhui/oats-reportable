@@ -29,6 +29,7 @@ SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRF,"Sunstone Hotel Investors, Inc.  6.450% Series F Cumulative Redeemable Preferred Stock",NYSE
+SHO PRH,"Sunstone Hotel Investors, Inc. 6.125% Series H Cumulative Redeemable Preferred Stock",NYSE
 SHOFF,Shoei Co Ltd Ordinary Shares (Japan),U
 SHOLF,Stadio Holdings Ltd Ordinary Shares (South Africa),U
 SHOM,"Southern Home Medical, Inc. Common Stock",U
@@ -647,7 +648,6 @@ SNSKF,Sanko Sangyo Co Ltd Ordinary Shares (Japan),U
 SNSR,Global X Funds Global X Internet of Things ETF,NASDAQ
 SNST,"Sunset Capital Assets, Inc. Common Stock",U
 SNTE,Sante Technology Holdings Inc. Common Stock,U
-SNTHP,SUNSTONE HOTEL INVS INC NEW PFD RED SER H % Preference Shares,U
 SNTNF,Santana Minerals Ltd Ordinary Shares (Australia),U
 SNTW,SUMMIT NETWORKS INC  Common Stock,U
 SNTX,"Suntex Enterprises, Inc. Common Stock",U
@@ -1370,7 +1370,7 @@ STRYF,Storytel AB Ordinary Shares (Sweden),U
 STRZ,"Star Buffet, Inc. Common Stock",U
 STSA,"Satsuma Pharmaceuticals, Inc. Common Stock",NASDAQ
 STSB,iShares Factors US Small Blend Style ETF,BATS
-STSBF,South Star Mining Corp Ordinary Shares,U
+STSBF,South Star Battery Metals Corp. Ordinary Shares,U
 STSC,"Start Scientific, Inc. Common Stock",U
 STSEY,Stratec SE Unsponsored ADR (Germany),U
 STSFF,Smartstop Self Storage REIT Inc Class A Common Shares,U
@@ -2353,7 +2353,6 @@ TLDE,"TLD3 Entertainment Group, Inc. Common Stock",U
 TLDN,Telidyne Inc. Common Stock,U
 TLED,Light Engine Design Corp. Common Stock,U
 TLFA,"Tandy Leather Factory, Inc. Common Stock",U
-TLFE,"Elfato, Inc. Common Stock",U
 TLFX,"Telefix Communications Holdings, Inc. Common Stock",U
 TLGA,TLG Acquisition One Corp.,NYSE
 TLGA U,"TLG Acquisition One Corp. Units, each consisting of one share of Class A common stock and one-third",NYSE
@@ -2753,6 +2752,7 @@ TRNX,TARONIS TECHNOLOGIES INC Common Stock,U
 TROG,Triumph Oil & Gas Common Stock,U
 TROIF,NEWORIGIN GOLD CORP Ordinary Shares,U
 TROLB,"Tootsie Roll Industries, Inc. Class B Common Stock",U
+TRONU,Corner Growth Acquisition Corp. 2 Units,NASDAQ
 TROUF,Troubadour Resources Inc Common Shares (Canada),U
 TROW,"T. Rowe Price Group, Inc. Common Stock",NASDAQ
 TROX,TRONOX LIMITED CL A ORDINARY SHARES,NYSE
@@ -3649,6 +3649,7 @@ UZAPF,Flughafen Zuerich Ag Kloten Common Shares,U
 UZC,United States Cellular Corporation 7.25% Senior Notes due 2064,NYSE
 UZD,United States Cellular Corporation 6.250% Senior Notes due 2069,NYSE
 UZE,United States Cellular Corporation 5.500% Senior Notes due 2070,NYSE
+UZF,United States Cellular Corporation 5.500% Senior Notes due 2070,NYSE
 V,VISA Inc.,NYSE
 VABK,Virginia National Bankshares Corporation Common Stock,NASDAQ
 VABS,Virtus Newfleet ABS/MBS ETF,ARCA
@@ -4252,6 +4253,7 @@ VTC,Vanguard Scottsdale Funds Vanguard Total Corporate Bond ETF,NASDAQ
 VTCIF,VANGUARD ETF SER TOTAL CHINA INDEX ETF (HONG KONG LIMITED) Exchange Traded Fund,U
 VTDRF,Vantage Drilling International Ord Shs (Cayman Islands),U
 VTEB,Vanguard Tax-Exempt Bond Index Fund,ARCA
+VTEPF,VITEC GROUP PLC SHS (United Kingdom),U
 VTEQ,VeriTeQ Corporation Common Stock,U
 VTEXF,VENTUREX RESOURCES LTD Ordinary Shares,U
 VTGDF,Vantage Drilling Company Common Shares,U

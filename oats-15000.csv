@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U
-MTFGF,U K SPAC PLC Ordinary Shares,U
-MTG,MGIC Investment Corp.,NYSE
-MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGOF,MUSTI GROUP OYJ Ordinary Shares,U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
@@ -749,7 +744,7 @@ NMS,Nuveen Minnesota Quality Municipal Income Fund,NYSE
 NMSCA,Nutrition Management Services Company Class A,U
 NMSEF,Namaste Technologies Inc Ordinary Shares (Canada) Warrant 10/23/2023,U
 NMT,Nuveen Massachusetts Quality Municipal Income Fund,NYSE
-NMTC,NeuroOne Medical Technologies Corporation Common Stock,U
+NMTC,NeuroOne Medical Technologies Corporation Common Stock,NASDAQ
 NMTLF,New Age Metals Inc. Ordinary Shares,U
 NMTR,"9 Meters Biopharma, Inc. Common Stock",NASDAQ
 NMTT,NIMTECH CORP  Common Stock,U
@@ -1617,6 +1612,7 @@ OMHE,Omni Health Inc Common Stock,U
 OMHI,"OM HOLDINGS INTERNATIONAL, INC. Common Stock",U
 OMHLF,OM Holdings Limited Ordinary Shares (Bermuda),U
 OMI,"Owens & Minor, Inc.",NYSE
+OMIC,"Singular Genomics Systems, Inc. Common Stock",NASDAQ
 OMID,OMID HLDGS INC Common Stock,U
 OMLAF,Ooh Media Ltd. Ordinary Shares (Australia),U
 OMMH,"Omnimmune Holdings, Inc. Common Stock",U
@@ -2412,6 +2408,7 @@ PFSI,"PennyMac Financial Services, Inc. Common Stock",NYSE
 PFSMF,PERFECT SHAPE MEDICAL LTD Ordinary Shares,U
 PFSW,"PFSweb, Inc. Common Stock",NASDAQ
 PFTI,Puradyn Filter Technologies Incorporated Common Stock,U
+PFUT,Putnam Sustainable Future ETF,ARCA
 PFWIQ,"Petrone Worldwide, Inc. Common Stock",U
 PFX,PhenixFIN Corporation Common Stock,NASDAQ
 PFXF,VanEck Vectors Preferred Securities ex Financials ETF,ARCA
@@ -2461,6 +2458,7 @@ PGQWF,1-PAGE LTD Ordinary Shares (Australia),U
 PGR,Progressive Corporation,NYSE
 PGRCF,PHOENIX GOLD RESOURCES  Common Shares,U
 PGRE,"PARAMOUNT GROUP, INC.",NYSE
+PGRO,Putnam Focused Large Cap Growth ETF,ARCA
 PGRW,Progress Acquisition Corp. Class A Common Stock,NASDAQ
 PGRWU,Progress Acquisition Corp. Units,NASDAQ
 PGRWW,Progress Acquisition Corp. Warrant,NASDAQ
@@ -2664,6 +2662,7 @@ PLCKF,PLURILOCK SEC INC Common Shares,U
 PLCQF,Polar Capital Technology Trust plc Ordinary Shares,U
 PLD,"PROLOGIS, INC.",NYSE
 PLDGP,"ProLogis, Inc. Series Q Preferred Stock",U
+PLDR,Putnam Sustainable Leaders ETF,ARCA
 PLFF,Orpheum Property Inc. Common Stock,U
 PLFRF,Palfinger AG Ordinary Shares (Austria),U
 PLFRY,Palfinger AG Sponsored ADR (Austria),U
@@ -3237,6 +3236,7 @@ PSNL,"Personalis, Inc. Common Stock",NASDAQ
 PSO,Pearson plc,NYSE
 PSORF,"Pearson, Plc Ordinary Shares",U
 PSP,Invesco Global Listed Private Equity ETF,ARCA
+PSPC U,"Post Holdings Partnering Corporation Units, each consisting of one share of Series A common stock, a",NYSE
 PSPSF,Psp Swiss Property Namen-Akt Shares (Switzerland),U
 PSPSY,Psp Swiss Property Unsponsored American Depositary Receipt (Switzerland),U
 PSPW,3Power Energy Group Inc. Common Stock,U
@@ -3465,6 +3465,7 @@ PV,Primavera Capital Acquisition Corporation,NYSE
 PV U,"Primavera Capital Acquisition Corporation Units, each consisting of one Class A ordinary share and o",NYSE
 PV WS,"Primavera Capital Acquisition Corporation Redeemable Warrants, each whole warrant exercisable for on",NYSE
 PVAC,Penn Virginia Corporation Common Stock,NASDAQ
+PVAL,Putnam Focused Large Cap Value ETF,ARCA
 PVARF,Porvair Plc Ord Common Stock,U
 PVBC,"Provident Bancorp, Inc. (MD) Common Stock",NASDAQ
 PVBK,"Pacific Valley Bank (Salinas, CA) Common Stock",U
@@ -3839,6 +3840,7 @@ RANJF,Randstad Holdings Nv Ordinary Shares,U
 RANJY,Randstad NV American Depositary Receipts - Unsponsored,U
 RANKF,Rank Group plc Ordinary Shares (United Kingdom),U
 RAONF,RACE ONCOLOLGY LTD Ordinary Shares (Australia),U
+RAPHF,RESAPP HEALTH LTD ORDINARY FULLY PAID (Australia),U
 RAPT,"RAPT Therapeutics, Inc. Common Stock",NASDAQ
 RARE,Ultragenyx Pharmaceutical Inc. Common Stock,NASDAQ
 RAREF,Canada Rare Earth Corp. Ordinary Shares (Canada),U

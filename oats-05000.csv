@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPF,Central Pacific Financial Corporation,NYSE
-CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
@@ -11,7 +9,7 @@ CPHI,"China Pharma Holdings, Inc.",AMEX
 CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
-CPIVF,Captiva Verde Ld Corp Common Shares (Canada),U
+CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
 CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
 CPK,Chesapeake Utilities,NYSE
 CPKB,Chesapeake Bancorp Common Stock,U
@@ -503,7 +501,6 @@ CTXXF,Cematrix Corp Ordinary Shares (Canada),U
 CTYO,CathayOnline Inc. Common Stock,U
 CTYP,"Community Bankers Corporation (Marion, PA) Common Stock",U
 CUAEF,China Shenhua Energy Company Ltd Shares -H- (China),U
-CUB,Cubic Corporation,NYSE
 CUBA,"Herzfeld Caribbean Basin Fund, Inc. (The) Common Stock",NASDAQ
 CUBB,"Customers Bancorp, Inc. 5.375% Subordinated Notes Due 2034",NYSE
 CUBE,CubeSmart,NYSE
@@ -802,6 +799,7 @@ DAUGF,Desert Gold Ventures Inc Common Shares,U
 DAVA,Endava plc American Depositary Shares (each representing one Class A Ordinary Share),NYSE
 DAVNF,DAVENPORT RES LTD Ordinary Shares,U
 DAWIF,Daiwa Industires Ltd Ordinary Shares (Japan),U
+DAWN,"Day One Biopharmaceuticals, Inc. Common Stock",NASDAQ
 DAWUF,Daiwa House REIT Investment Corp Com REIT (Japan),U
 DAX,Global X Funds Global X DAX Germany ETF,NASDAQ
 DAXXF,Ishares Dax De Ordinary Shares,U
@@ -1708,6 +1706,7 @@ DYNDF,DYE & DURHAM LTD Common Shares,U
 DYNE,DynTek Inc. Common Stock New,U
 DYNF,BlackRock U.S. Equity Factor Rotation ETF,ARCA
 DYNR,Dynaresource Inc Common Stock,U
+DYNS,Dynamics Special Purpose Corp. Class A Common Stock,NASDAQ
 DYNT,Dynatronics Corporation Common Stock,NASDAQ
 DYRFF,Dunes Exploration Ltd. Ordinary Shares (Canada),U
 DYSL,DYNASIL CORP AMERICA Common Stock,U
@@ -2009,6 +2008,7 @@ EGF,"Blackrock Enhanced Government Fund, Inc.",NYSE
 EGFEF,EUROBANK ERGASIAS SVCS AND HOLDINGS SA Ordinary Shares,U
 EGFEY,EUROBANK ERGASIAS SVCS & HLDGS SA American Depositary Receipts - Unsponsored,U
 EGFHF,EFH Holdings Inc Common Shares,U
+EGGF U,"EG Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of on",NYSE
 EGHSF,Enghouse Sys Ltd Ordinary Shares,U
 EGHT,"8x8, Inc. Common Stock",NYSE
 EGIEY,Engie Brasil Energia S A American Depositary Receipts - Sponsored,U
@@ -2441,6 +2441,7 @@ EPR PRE,EPR Properties 9.00% Series E Cumulative Convertible Preferred Shares,NY
 EPR PRG,EPR Properties 5.750% Series G Cumulative Redeemable Preferred Shares,NYSE
 EPRA,"Emporia, Inc. Common Stock",U
 EPRCY,Empiric Student Property PLC American Depositary Receipts - Unsponsored,U
+EPRE,First Trust TCW ESG Premier Equity ETF,ARCA
 EPRF,Innovator S&P Investment Grade Preferred ETF,BATS
 EPRJF,Emperor Watch Ordinary Shares (Hong Kong),U
 EPRSQ,"EPIRUS Biopharmaceuticals, Inc. Common Stock",U
@@ -2539,6 +2540,7 @@ ERMAY,Eramet SA Unsponsored ADR (France),U
 ERMG,ERecord Management Inc (NV) Common Stock,U
 ERNXY,Euronext NV American Depositary Receipts - Unsponsored (Netherlands),U
 EROFF,Eurofins Scientific SA SE JCE 01012021 (Luxembourg),U
+EROSF,Eros Resources Corp. Ordinary Shares,U
 EROTF,Barclays Bk PLC iPath EUR/USD Exchange Rate ETN due 05/14/2037 (United Kingdom),U
 EROX,Human Pheromone Sciences Inc. Common Stock,U
 ERPNF,European Metals Hldgs Ltd Chess Depositary Interests 1:1,U
@@ -3255,7 +3257,6 @@ FFCNF,Fast Finance24 Holdin Ag Common Shares (Germany Federal Republic),U
 FFDF,FFD Financial Corporation Common Stock,U
 FFDGF,1414 DEGREES LTD Ordinary Shares Australia(AU ),U
 FFEB,FT Cboe Vest U.S. Equity Buffer ETF - February,BATS
-FFG,FBL Financial Group,NYSE
 FFGI,FIREBRAND FINL GROUP INC COM,U
 FFHG,Formula Folios Hedged Growth ETF,BATS
 FFHHF,FFI Hldgs PLC Ordinary Shares (United Kingdom),U
@@ -3367,6 +3368,7 @@ FIFG,"First Foods Group, Inc. Common Stock",U
 FIGB,Fidelity Investment Grade Bond ETF,ARCA
 FIGM,Future International Group Corp. Common Stock,U
 FIGR,First Natl Bk Groton N Y Common Stock,U
+FIGS,"FIGS, Inc.",NYSE
 FIHD,UBS AG FI Enhanced Global High Yield ETN,ARCA
 FIII,Forum Merger III Corporation Class A Common stock,NASDAQ
 FIIIU,Forum Merger III Corporation Units,NASDAQ
@@ -4607,13 +4609,11 @@ GFLDU,Gefen Landa Acquisition Corp. Units,NASDAQ
 GFLU,GFL Environmental Inc. Tangible Equity Units,NYSE
 GFMH,Goliath Film & Media Holdings Common Stock,U
 GFMRF,GFM RES LTD Ordinary Shares,U
-GFN,General Finance Corporation General Finance Corporation Common Stock,NASDAQ
 GFNCP,General Finance Corporation Cumulative Redeemable Perpetual Preferred Series C,NASDAQ
 GFNSZ,General Finance Corporation 7.875% Senior Notes due 2025,NASDAQ
 GFOO,Genufood Energy Enzymes Corporation Common Stock,U
 GFOR U,"Graf Acquisition Corp. IV Units, each consisting of one share of common stock, and one-fifth of one",NYSE
 GFPTF,Gfpt Public Co Ltd (F) Units Non-Voting Depository Receipt (Thailand),U
-GFSZF,G4S Plc Ordinary Shares (United Kingdom),U
 GFSZY,G4S Plc Unsponsored ADR (UK),U
 GFTRF,Gold'n Futures Mineral Corp. Common Shares,U
 GFTX,"Global Fiber Technologies, Inc. Common Stock",U
@@ -4796,7 +4796,7 @@ GLD,"SPDR Gold Trust, SPDR Gold Shares",ARCA
 GLDAF,GLOBALDATA PLC SHS (United Kingdom),U
 GLDB,Strategy Shares Gold-Hedged Bond ETF,BATS
 GLDD,Great Lakes Dredge & Dock Corporation Common Stock,NASDAQ
-GLDFF,Golden Leaf Hldgs Ltd Ordinary Shares (Canada),U
+GLDFF,CHALICE BRANDS LTD Ordinary Shares,U
 GLDG,GoldMining Inc.,AMEX
 GLDI,"Credit Suisse X-Links Gold Shares Covered Call ETNs due February 2, 2033",NASDAQ
 GLDM,SPDR Gold MiniShares,ARCA
@@ -4820,7 +4820,7 @@ GLHAW,Glass Houses Acquisition Corp. Warrant,NASDAQ
 GLHD,PSH GROUP HLDG INC Common Stock,U
 GLHRF,Golden Harp Res Inc. Ordinary Shares (Canada),U
 GLIF,AGFiQ Global Infrastructure ETF,ARCA
-GLIID,Glacier Lake Resources Ordinary Shares,U
+GLIIF,Glacier Lake Resources Ordinary Shares,U
 GLIN,VanEck Vectors India Growth Leaders ETF,ARCA
 GLIOF,Gold Lion Resources Inc Common Shares (Canada),U
 GLKFF,"Raise Production, Inc Ordinary Shares (Canada)",U
@@ -5518,3 +5518,5 @@ GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
