@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTFGF,U K SPAC PLC Ordinary Shares,U
+MTG,MGIC Investment Corp.,NYSE
+MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGOF,MUSTI GROUP OYJ Ordinary Shares,U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
@@ -2852,7 +2855,7 @@ PNTM U,"Pontem Corporation Units, each consisting of one Class A ordinary share,
 PNTM WS,"Pontem Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exe",NYSE
 PNTZF,Trigon Metals Inc. Ordinary Shares,U
 PNW,Pinnacle West Capital Corporation,NYSE
-PNWDF,PNE WIND AG Ordinary Shares (Germany),U
+PNWDF,PNE AG Ordinary Shares,U
 PNWRF,Valeura Energy Inc. Common Shares (Canada),U
 PNXGF,Phoenix Group Hldgs Plc Ordinary Shares GBP0.10 (United Kingdom),U
 PNXLF,Argentina Lithium & Energy Corp Common Shares,U
@@ -3388,7 +3391,6 @@ PTPIF,PT Chandra Asri PetroChemical Ordinary Shares (Indonesia),U
 PTPKF,PT Pakuwon Jati TBK Ordinary Shares (Indonesia),U
 PTPLF,PT PURADELTA LESTARI TBK Ordinary Shares,U
 PTPPF,PT PP Persero TBK Ordinary Shares (Indonesia),U
-PTQQD,Quipt Home Medical Corp. Ordinary Shares,U
 PTR,PETROCHINA COMPANY LIMITED ADS (REP 100 H SHARES),NYSE
 PTRC,Petro River Oil Corp Common Shares,U
 PTRDF,ROK Resources Inc Common Shares,U
@@ -3543,6 +3545,7 @@ PXSAP,Pyxis Tankers Inc. 7.75% Series A Cumulative Convertible Preferred Shares,
 PXSAW,Pyxis Tankers Inc. Warrant,NASDAQ
 PXSLY,Pharmaxis Limited ADR,U
 PXSTF,PHOENIX MEDIA INVT (HOLDINGS) LTD Ordinary Shares,U
+PXUS,Principal International Adaptive Multi-Factor ETF,BATS
 PXXLF,Poxel SA Ordinary Shares (France),U
 PXXXF,POLARX LTD Ordinary Shares,U
 PXYN,Praxsyn Corporation Common Stock,U
@@ -3662,6 +3665,7 @@ QIFTF,Quorum Information Technologies Inc Common Shares (Canada),U
 QIHCF,HAIER SMART HOME CO LTD Ordinary Shares,U
 QING,"Qingdao Footwear, Inc. Common Stock",U
 QINT,American Century Quality Diversified International ETF,ARCA
+QIPT,Quipt Home Medical Corp. Common Shares,NASDAQ
 QIWI,QIWI plc American Depositary Shares,NASDAQ
 QJYMF,SMI CULTURE GROUP HLDGS LTD BERMUDA  Ordinary Shares,U
 QK,Q&K International Group Limited American Depositary Shares,NASDAQ
@@ -4135,7 +4139,6 @@ RFLFF,Raffles Education Corporation Ordinary Shares (Singapore),U
 RFLFY,Raffles Education Corporation  Unsponsored ADR (Singapore),U
 RFLXF,Redflex Holdings Limited Ordinary Shares (Australia),U
 RFM,"RiverNorth Flexible Municipal Income Fund, Inc.",NYSE
-RFMK,Rapid Fire Marketing Inc NEW Common Stock,U
 RFMZ,"RiverNorth Flexible Municipal Income Fund II, Inc.",NYSE
 RFNDF,Rural Funds Group Stapled Securities (Australia),U
 RFNS,Reliant Financial Service Corporation Common Stock,U
@@ -5518,5 +5521,3 @@ SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
-SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
-SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U

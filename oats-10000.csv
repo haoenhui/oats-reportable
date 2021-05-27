@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -219,7 +222,7 @@ HCLHF,Holista Colltech Limited Ordinary Shares (Australia),U
 HCM,HUTCHMED (China) Limited American Depositary Shares,NASDAQ
 HCMC,Healthier Choices Management Corp. Common Shares,U
 HCMLF,HOLCIM LTD Ordinary Shares,U
-HCMLY,LafargeHolcim Ltd. American Depositary Receipts - Unsponsored,U
+HCMLY,HOLCIM LTD NEW American Depositary Receipts - Unsponsored,U
 HCPHF,Holcim Philippines Inc Ordinary Shares (Philippines),U
 HCPHY,Holcim Philippines Inc Unsponsored ADR (Philippines),U
 HCRB,Hartford Core Bond ETF,BATS
@@ -1989,6 +1992,7 @@ IRRAF,IRRAS AB SHARE AK (Sweden),U
 IRRHF,INTERROLL-HOLDING SA SANTONINO/TI Ordinary Shares (Switzerland),U
 IRRRF,iShares III plc Core MSCI World UCITS ETF (Ireland),U
 IRS,IRSA Inversiones y Representaciones S.A. Global Depositary Shares,NYSE
+IRS WS,IRSA Inversiones y Representaciones S.A. Warrants to purchase Common Shares,NYSE
 IRSHF,iShares Core S&P/TSX Capped Composite Index ETF (Canada),U
 IRSSY,IRESS LTD  American Depositary Receipts - Unsponsored (Australia),U
 IRT,Independence Realty Trust Inc.,NYSE
@@ -2593,6 +2597,7 @@ JJTFF,"Barclays Bk PLC iPath Dow Jones-UBS Tin Subindex Total Return ETN due Jun
 JJU,iPath Series B Bloomberg Aluminum Subindex Total ReturnSM ETN,ARCA
 JJUFF,"Barclays Bk PLC iPath Dow Jones-UBS Aluminum Subindex Total Return ETN due June 24, 2038 (United Kingdom)",U
 JKELF,John Keells Holdings Ltd Reg S GDR,U
+JKHCF,JUST KITCHEN HLDGS CORP Common Shares,U
 JKHY,"Jack Henry & Associates, Inc. Common Stock",NASDAQ
 JKLPF,LawFinance Ltd. Ordinary Shares,U
 JKPTF,Gamesys Group PLC Ordinary Shares,U
@@ -5483,7 +5488,6 @@ MSTO,Masterbeat Corporation. Common Stock,U
 MSTR,MicroStrategy Incorporated Common Stock Class A,NASDAQ
 MSTUF,M.C.S. STEEL PUBLIC CO LTD Depositary Shares  NVDR SHARES  Thailand(TH ),U
 MSTXF,MADORO METALS CORP Ordinary Shares,U
-MSURF,Medica Sur SA De CV Shares -B- (Mexico),U
 MSUTF,MINSUR SA SHS -INVERSION- (Peru),U
 MSUXF,Misumi Group Inc Ordinary Shares (Japan),U
 MSVB,"Mid-Southern Bancorp, Inc. Common Stock",NASDAQ
@@ -5517,6 +5521,3 @@ MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
-MTFGF,U K SPAC PLC Ordinary Shares,U
-MTG,MGIC Investment Corp.,NYSE
-MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U

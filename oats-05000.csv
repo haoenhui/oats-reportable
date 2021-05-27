@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPF,Central Pacific Financial Corporation,NYSE
+CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
@@ -288,7 +290,6 @@ CSCPF,Crown Seal Public Co Ltd. NVDR Shares (Thailand),U
 CSCW,Color Star Technology Co. Ltd. Ordinary Shares,NASDAQ
 CSD,Invesco S&P Spin-Off ETF,ARCA
 CSDXF,Cosco Shipping Energy Transn Co Ltd. Ordinary Shares,U
-CSETF,CS ETF  IShares MSCI Mexico Capped UCITS ETF (Ireland),U
 CSF,VictoryShares US Discovery Enhanced Volatility Wtd ETF,NASDAQ
 CSFFF,Capstone Mining Corp Ordinary Shares (Canada),U
 CSFSF,The Cash Store Financial Services Inc. Common Shares (Canada),U
@@ -340,7 +341,7 @@ CSRFF,Caisse Regionale De Credit Agricole Mutuel Du Nord De France Ordinary Shar
 CSRLF,CSR Limited Ordinary Shares (Australia),U
 CSRNF,Canstar Resources Inc  Common Shares,U
 CSRVF,CROSS RIV VENTURES CORP Common Shares,U
-CSSDF,CROSSRIDER LTD Ordinary Shares USD0.001 (Isle of Man),U
+CSSDF,KAPE TECHNOLOGIES PLC Ordinary Shares,U
 CSSE,"Chicken Soup for the Soul Entertainment, Inc. Class A Common Stock",NASDAQ
 CSSEN,"Chicken Soup for the Soul Entertainment, Inc. 9.50% Notes due 2025",NASDAQ
 CSSEP,"Chicken Soup for the Soul Entertainment, Inc. 9.75% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
@@ -3129,6 +3130,7 @@ FCRIF,FCR IMMOBILIEN AG NA O N Ordinary Shares,U
 FCRM,Franklin Credit Mgmt Corp New Common Stock,U
 FCRQF,Ichigo Office Reit Invt Corp Ordinary Shares (Japan),U
 FCRW,"First Eagle Alternative Capital BDC, Inc. 6.125% Notes due 2023",NYSE
+FCRX,"First Eagle Alternative Capital BDC, Inc. 5.00% Notes due 2026",NYSE
 FCRZ,"First Eagle Alternative Capital BDC, Inc. 6.75% Notes due 2022",NYSE
 FCSMF,"Focus Graphite, Inc. Ordinary Shares (Canada)",U
 FCSUF,FOCUS MINERALS LTD Common Shares Australia (AU),U
@@ -4550,6 +4552,7 @@ GELV,"Green Energy Live, Inc. Common stock",U
 GELYF,Geely Automobile Holdings Ltd Ordinary Shares (Cayman Islands),U
 GELYY,Geely Automobile Holding Ltd Unsponsored ADR (Cayman Islands),U
 GEM,Goldman Sachs ActiveBeta Emerging Markets Equity ETF,ARCA
+GEMZ,GEMXX CORP Common Stock,U
 GENC,"Gencor Industries, Inc. Common Stock",NASDAQ
 GENE,Genetic Technologies Ltd  Sponsored ADR,NASDAQ
 GENGF,Gear Energy Ltd Common Shares (Canada),U
@@ -5453,6 +5456,7 @@ GTVH,GOLDEN TRIANGLE VENTURES INC Common Stock,U
 GTVI,Joway Health Industries Group Inc. Common Stock,U
 GTWCF,Greentown China Holdings Limited Ordinary Shares (Cayman Islands),U
 GTX,Garrett Motion Inc. Common Stock,NASDAQ
+GTXAP,GARRETT MOTION INC PFD CONV SER A Preferred Stock,U
 GTXO,GTX Corp. Common Stock,U
 GTY,Getty Realty Corp.,NYSE
 GTYH,"GTY Technology Holdings, Inc. Common Stock",NASDAQ
@@ -5517,6 +5521,3 @@ GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
