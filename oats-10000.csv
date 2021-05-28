@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
+GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
+GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
@@ -570,6 +574,7 @@ HMG,HMG / Courtland Properties Inc,AMEX
 HMGN,"Hemagen Diagnostics, Inc. Common Stock",U
 HMGP,"Hemi Energy Group, Inc. Common Stock",U
 HMHC,Houghton Mifflin Harcourt Company Common Stock,NASDAQ
+HMIFF,HARVEST MINERALS LTD Ordinary Shares (Australia),U
 HMLA,Homeland Resources Ltd. NEW Common Stock,U
 HMLN,"Hamlin Bank & Trust Company (Smethport, PA) Common Stock",U
 HMLP,HOEGH LNG PARTNERS LP,NYSE
@@ -1712,7 +1717,6 @@ INDT,"INDUS Realty Trust, Inc. (MD) Common Stock",NASDAQ
 INDY,iShares India 50 ETF,NASDAQ
 INEOF,INEO Tech Corp Common Shares (Canada),U
 INFFF,Intact Financial Corp Preference Shares Class A Series 5 (Canada),U
-INFG,"Infinite Graphics, Inc. Common Stock",U
 INFI,"Infinity Pharmaceuticals, Inc. Common Stock",NASDAQ
 INFL,Horizon Kinetics Inflation Beneficiaries ETF,ARCA
 INFN,Infinera Corporation Common Stock,NASDAQ
@@ -2148,6 +2152,7 @@ ISVQF,Ishares IV Plc Short Duration Corp Bond UCITS USD Acc Exchange Traded Fund
 ISVSF,ISHARES V PLC S&P 500 GBP-H Exchange Traded Fund,U
 ISVUF,ISHARES EDGE MSCI USA VALUE FACTOR UCITS Exchange Traded Fund  Ireland(IE ),U
 ISVVF,IShares V PLC MSCI ACWI UCITS ETF (Ireland),U
+ISVXF,ISHARES IV PLC CHINA CNY BOND UCITS ETF USD ACC (Ireland),U
 ISWH,"ISW Holdings, Inc.  Common Stock",U
 ISWN,Amplify BlackSwan ISWN ETF,ARCA
 ISXAF,IShares ETF (Switzerland),U
@@ -3176,6 +3181,7 @@ KNCAY,Konica Minolta Inc Unsponsored ADR (Japan),U
 KNCNF,KENCANA AGRI LTD SHS NEW (Singapore),U
 KNCRF,Konecranes Plc Ordinary Shares (Finland),U
 KNCRY,Konecranes Plc Unsponsored ADR (Finland),U
+KNDEF,Kinden Corp Ordinary Shares Japan (JP),U
 KNDGF,KINDRED GROUP PLC SWEDISH DEPOSITORY RECEIPT SDB Depositary Receipts,U
 KNDI,"Kandi Technologies Group, Inc Common Stock",NASDAQ
 KNDYF,Kenadyr Mining Holdings Corp Ordinary Shares (Canada),U
@@ -3224,7 +3230,7 @@ KOLD,ProShares UltraShort Bloomberg Natural Gas,ARCA
 KOLR,"Kolorfusion International, Inc. Common Stock",U
 KOMBY,Komercni Banka AS American Depositary Receipts - Unsponsored,U
 KOMP,SPDR S&P Kensho New Economies Composite ETF,ARCA
-KONAQ,"Kona Grill, Inc. Common Stock",U
+KONA,"Kona Grill, Inc. Common Stock",U
 KONMY,Konami Holdings Corporation ADS REPSTG 1/2 SH COM STK - Unsponsored (Japan),U
 KOOYF,"Kootenay Silver, Inc. Common Shares (Canada)",U
 KOP,"Koppers Holdings, Inc.",NYSE
@@ -3450,6 +3456,7 @@ KXNXF,Kenedix Retail Reit Corp Ordinary Shares (Japan),U
 KXPLF,"Bayhorse Silver, Inc. Ordinary Shares (Canada)",U
 KXSCF,"Kinaxis, Inc Ordinary Shares (Canada)",U
 KYCCF,Keyence Corp Ordinary Shares,U
+KYDKF,Kyudenko Corp Ordinary Shares (Japan),U
 KYHHY,Kyushu Ry Co Unsponsored ADR (Japan),U
 KYKOF,Kyowa Hakko Kogyo Ordinary Shares,U
 KYKOY,Kyowa Hakko Kogyo American Depositary Receipts - Unsponsored (Japan),U
@@ -4613,6 +4620,7 @@ MDOUF,Maisons Du Monde SA Common Stock (France),U
 MDP,Meredith Corporation,NYSE
 MDPCF,Madison Pac Ppts- B Ordinary Shares,U
 MDPEB,Meredith Corporation Common Stock Class B,U
+MDPPF,ALLARITY THERAPEUTICS A S Unit Rights Exp 6/8/2021 (Denmark),U
 MDRA,Medra Corporation Common Stock,U
 MDRM,"Modern Mobility Aids, Inc Common Stock",U
 MDRNF,MODERN PLT BASED FOODS INC Ordinary Shares,U
@@ -5440,7 +5448,6 @@ MSET,Madison Sports & Entmt Group Common Stock,U
 MSEX,Middlesex Water Company Common Stock,NASDAQ
 MSEXP,Middlesex Water Company $7 Preferred Stock,U
 MSEZ,Media Sentiment Inc Common Stock,U
-MSFAW,Morgan Stanley Fin Warrants Based On Euro Stoxx 50 Index Expiring 05/27/2021,U
 MSFN,Mainstreet Financial Corp. Common Stock,U
 MSFT,Microsoft Corporation Common Stock,NASDAQ
 MSGCF,MAS GOLD CORP Ordinary Shares,U
@@ -5517,7 +5524,3 @@ MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U

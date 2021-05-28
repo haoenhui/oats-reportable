@@ -1026,6 +1026,7 @@ ALNA,"Allena Pharmaceuticals, Inc. Common Stock",NASDAQ
 ALNKF,Arealink Co Ltd Tokyo Ordinary Shares,U
 ALNPF,ANA Holdings Inc. Ordinary Shares,U
 ALNPY,ANA Holdings Inc. Ord American Depositary Shares,U
+ALNRF,Mediclinic Intl PLC Ordinary Shares (United Kingdom),U
 ALNY,"Alnylam Pharmaceuticals, Inc. Common Stock",NASDAQ
 ALOD,"Allied Resources, Inc. Common Stock",U
 ALORY,Alior Bank SA Unsponsored ADR (Poland),U
@@ -3572,7 +3573,7 @@ BSFO,Bank of San Francisco NEW,U
 BSGC,BigString Corporation Common Stock,U
 BSGM,"BioSig Technologies, Inc. Common Stock",NASDAQ
 BSHI,"Boss Holdings, Inc. Common Stock",U
-BSHPF,Bahamas Petroleum Company PLC Ordinary Shares (Isle of Man),U
+BSHPD,Challenger Energy Group PLC Ordinary Shares,U
 BSHVF,Bushveld Minerals Ltd Ordinary Shares GBPO.01 (Guernsey),U
 BSIG,BrightSphere Investment Group Inc. Common Stock,NYSE
 BSJL,Invesco BulletShares 2021 High Yield Corporate Bond ETF,NASDAQ
@@ -4430,6 +4431,7 @@ CETEF,Cathedral Energy Services Ltd. Ordinary Shares (Canada),U
 CETFF,CS ETF IE ON MSCI EM Asia IShares ETF (Ireland),U
 CETG,"Capital City Energy Group, Inc. Common Stock",U
 CETHF,XBT Provider AB Open Ended Ethereum Tracker CTF (Sweden),U
+CETI,"Cyber Enviro-Tech, Inc. Common Stock",U
 CETX,Cemtrex Inc. Common Stock,NASDAQ
 CETXP,Cemtrex Inc. Series 1 Preferred Stock,NASDAQ
 CETXW,Cemtrex Inc. Series 1 Warrant,NASDAQ
@@ -5127,7 +5129,9 @@ CMLFW,"CM Life Sciences, Inc. Warrant",NASDAQ
 CMLGF,"Canickel Mining, Ltd. Ordinary Shares (Canada)",U
 CMLLF,China Maple Leaf Educational Systems Ltd.  Ordinary Shares,U
 CMLS,Cumulus Media Inc. Class A Common Stock,NASDAQ
+CMLT,CM Life Sciences III Inc. Class A Common Stock,NASDAQ
 CMLTU,CM Life Sciences III Inc. Unit,NASDAQ
+CMLTW,CM Life Sciences III Inc. Warrant,NASDAQ
 CMMB,Chemomab Therapeutics Ltd. American Depositary Share,NASDAQ
 CMMCF,Oxe Marine AB Ordinary Shares,U
 CMMMF,Comstock Metals Ltd Common Shares,U
@@ -5328,6 +5332,7 @@ CNSRF,Coinshares Intl Ltd. Ordinary Shares (Jersey),U
 CNST,"Constellation Pharmaceuticals, Inc. Common Stock",NASDAQ
 CNSUF,Canasil Res Inc Unclassified,U
 CNSWF,Constellation Software Inc Common Shares (Canada),U
+CNTA,Centessa Pharmaceuticals plc American Depositary Shares,NASDAQ
 CNTB,Connect Biopharma Holdings Limited American Depositary Shares,NASDAQ
 CNTCF,Contel Technology Co Ltd. Ordinary Shares (Cayman Islands),U
 CNTFY,China Techfaith Wireless Communication Technology Ltd. American Depositary Receipts - Sponsored (China),U
@@ -5418,6 +5423,7 @@ COIHY,Croda Intl Plc Ord American Depositary Receipts - Unsponsored,U
 COIL,"Citadel Exploration, Inc. Common",U
 COIN,"Coinbase Global, Inc. Class A Common Stock",NASDAQ
 COIVF,Cosco Corporation (Singapore) Limited Ordinary Shares (Singapore),U
+COKAF,COCOALAND HOLDINGS BHD Ordinary Shares (Malaysia),U
 COKE,"Coca-Cola Consolidated, Inc. Common Stock",NASDAQ
 COLB,"Columbia Banking System, Inc. Common Stock",NASDAQ
 COLCF,Cool Chips plc Ordinary Shares,U
@@ -5518,6 +5524,3 @@ CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
-CPER,United States Copper Index Fund,ARCA
-CPEU,"Chapeau, Inc. Common Stock",U
-CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U

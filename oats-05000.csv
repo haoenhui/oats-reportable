@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPER,United States Copper Index Fund,ARCA
+CPEU,"Chapeau, Inc. Common Stock",U
+CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
@@ -1223,6 +1226,7 @@ DLNDY,D&L INDS INC  American Depositary Receipts - Unsponsored (Philippines),U
 DLNG,DYNAGAS LNG PARNERS LP,NYSE
 DLNG PRA,"Dynagas LNG Partners LP 9.00% Series A Cumulative Redeemable Preferred Units, liquidation preference",NYSE
 DLNG PRB,Dynagas LNG Partners LP 8.75% Series B Fixed to Floating Rate Cumulative Redeemable Perpetual Prefer,NYSE
+DLO,DLocal Limited Class A Common Shares,NASDAQ
 DLOC,"Digital Locations, Inc. Common Stock",U
 DLPN,"Dolphin Entertainment, Inc. Common Stock",NASDAQ
 DLPTF,LIAONING PORT CO LTD Ordinary Shares,U
@@ -1311,6 +1315,7 @@ DNDDF,Dundee Sustainable Technologies Inc Ordinary Shares,U
 DNDEF,DUNDEE CORP CUMULATIVE 5 YR RATE RESET (1ST PREF SHS SER 2)  Preference Shares Non Voting  (Canada),U
 DNDPF,Dundee Corp Cumulative 5 Yr Rate Reset (1st Pref Shs Ser 3) Preference Shares  (Canada),U
 DNDT,DND Technologies Inc. Common Stock,U
+DNEMF,"DUNELM GROUP PLC, LEICESTER Ordinary Shares (United Kingdom)",U
 DNERF,Downer EDI Ltd Ordinary Shares (Australia),U
 DNERY,Downer EDI Ltd Unsponsored ADR (Australia),U
 DNFGF,Dongfeng Motor Group Company Limited Shs H (China),U
@@ -4275,6 +4280,7 @@ GAB PRG,The Gabelli Equity Trust Inc. Series G Cumulative Preferred,NYSE
 GAB PRH,THE GABELLI EQUITY TRUST INC. 5.00% Series H Cumulative Preferred Stock,NYSE
 GAB PRJ,The Gabelli Equity Trust Inc. 5.45% Series J Cumulative Preferred Stock,NYSE
 GAB PRK,The Gabelli Equity Trust Inc. 5.00% Series K Cumulative Preferred Stock,NYSE
+GAB RTWI,"The Gabelli Equity Trust Inc. Rights (expiring July 14, 2021)",NYSE
 GABA,"Georgia Bancshares, Inc. (GA) Common Stock",U
 GABC,"German American Bancorp, Inc. Common Stock",NASDAQ
 GABK,Grand Bk Corp Common Stock,U
@@ -4846,7 +4852,7 @@ GLNG,Golar Lng Ltd,NASDAQ
 GLNS,Golden Star Resources Corporation Common Stock,U
 GLNV,Glenville Bk Hldg Co Inc Common,U
 GLO,Clough Global Opportunities Fund,AMEX
-GLO RTWI,"Clough Global Opportunities Fund Rights (expiring June 22, 2021)",AMEX
+GLO RT,"Clough Global Opportunities Fund Rights (expiring June 22, 2021)",AMEX
 GLOB,GLOBANT S.A.,NYSE
 GLOFF,ContourGlobal PLC Ord GBP0.01 (United Kingdom),U
 GLOG,GASLOG LTD,NYSE
@@ -4868,7 +4874,7 @@ GLPI,"Gaming and Leisure Properties, Inc. Common Stock",NASDAQ
 GLPJF,GLP J REIT SHS (Japan),U
 GLPT,Global Profit Technologies Inc FL Common Stock,U
 GLQ,Clough Global Equity Fund,AMEX
-GLQ RTWI,"Clough Global Equity Fund Rights (expiring June 22, 2021)",AMEX
+GLQ RT,"Clough Global Equity Fund Rights (expiring June 22, 2021)",AMEX
 GLRE,"Greenlight Capital Re, Ltd. Class A Ordinary Shares",NASDAQ
 GLRI,GLORI ENERGY INC Common Stock,U
 GLROY,Glorious Property Holdings Limited Unsponsored ADR (Cayman Islands),U
@@ -4890,7 +4896,7 @@ GLU PRB,The Gabelli Global Utility & Income Trust Series B Cumulative Puttable a
 GLUC,"Glucose Health, Inc Common Stock",U
 GLUX,"Great Lakes Aviation, Ltd. Common Stock",U
 GLV,Clough Global Dividend and Income Fund,AMEX
-GLV RTWI,"Clough Global Dividend and Income Fund Rights (expiring June 22, 2021)",AMEX
+GLV RT,"Clough Global Dividend and Income Fund Rights (expiring June 22, 2021)",AMEX
 GLVHF,Glenveagh Properties Plc Common Stock (Germany Federal Republic),U
 GLVMF,Golden Valley Mines Ltd Common Shares,U
 GLVNF,Gallant Venture Ltd Ordinary Shares (Singapore),U
@@ -5065,9 +5071,10 @@ GOCH,"Geeks On Call Holdings, Inc. Common Stock",U
 GOCO,"GoHealth, Inc. Class A Common Stock",NASDAQ
 GOCOF,Go Metals Corp Common Shares,U
 GODWF,GREEN ORGANIC DUTCHMAN HLDGS LTD WT EXP 06/12/2024 (Canada),U
-GODYF,"Deer Horn Capital, Inc. Ordinary Shares",U
+GODYF,First Tellurium Corp.  Ordinary Shares,U
 GODZF,GOLDHILLS HLDG LTD Ordinary Shares,U
 GOED,1847 Goedeker Inc.,AMEX
+GOED WS,1847 Goedeker Inc. Warrants to Purchase Common Stock,AMEX
 GOEV,Canoo Inc. Class A Common Stock,NASDAQ
 GOEVW,Canoo Inc. Warrant,NASDAQ
 GOEX,Global X Gold Explorers ETF (NEW),ARCA
@@ -5517,7 +5524,3 @@ GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U

@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
+MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
@@ -1822,7 +1826,8 @@ ORZCF,Orezone Gold Corp Common Shares (Canada),U
 ORZWF,Orezone Gold Corp Warrant   01/29/2023,U
 OSAGF,Osram Licht AG Namens - Aktien ON (Germany),U
 OSAGY,Osram Licht AG Unsponsored ADR (Germany),U
-OSAT,Orbsat Corp Common Stock,U
+OSAT,Orbsat Corp Common Stock,NASDAQ
+OSATW,Orbsat Corp Warrants,NASDAQ
 OSBC,"Old Second Bancorp, Inc. Common Stock",NASDAQ
 OSBK,Oconee Finl Corp Common Stock,U
 OSCI,"Osceola Gold, Inc. Common Stock",U
@@ -2487,6 +2492,7 @@ PHAR,"Pharming Group N.V. ADS, each representing 10 ordinary shares",NASDAQ
 PHAS,"PhaseBio Pharmaceuticals, Inc. Common Stock",NASDAQ
 PHAT,"Phathom Pharmaceuticals, Inc. Common Stock",NASDAQ
 PHB,Invesco Fundamental High Yield Corporate Bond ETF,ARCA
+PHBBF,PHARMARON BEIJING CO LTD Ordinary Shares (China),U
 PHBI,Pharmagreen Biotech Inc. Common Stock,U
 PHBR,"PhoneBrasil International, Inc. Common Stock",U
 PHCF,"Puhui Wealth Investment Management Co., Ltd. Ordinary Shares",NASDAQ
@@ -2813,6 +2819,7 @@ PNCKF,GALLEON GOLD CORP Common Shares,U
 PNDDF,Pender Growth Fd Inc Ordinary Shares (Canada),U
 PNDFF,PT INDOFOOD CBP SUKSES MAKMUR TBK Ordinary Shares (Indonesia),U
 PNDHF,Pond Technologies Hldgs Inc Ordinary Shares,U
+PNDLF,Pendal Group Ltd Ordinary Shares (Australia),U
 PNDZF,Pandora A/S Ordinary Shares (Denmark),U
 PNENY,Petron Corporation Unsponsored ADR (Philippines),U
 PNEXF,Pharnext Ordinary Shares (France),U
@@ -3003,7 +3010,6 @@ PRCK,Placer Creek Mining Co Common Stock,U
 PRCNF,Pure Global Cannabis Inc Common Shares,U
 PRCRF,PROCURRI CORP LTD Ordinary Shares,U
 PRCX,PHOENIX RISING COS Common Stock,U
-PRCXF,Green Cross Health Ltd Ordinary Shares (New Zealand),U
 PRDGF,PREMIER DIVERSIFIED HLDGS INC  Ordinary Shares,U
 PRDL,"Profitable Developments, Inc. Common Stock",U
 PRDO,Perdoceo Education Corporation Common Stock,NASDAQ
@@ -3274,6 +3280,7 @@ PSWW,"Principal Solar, Inc Common Stock",U
 PSX,PHILLIPS 66,NYSE
 PSXP,PHILLIPS 66 PARTNERS LP,NYSE
 PSXRF,Pasinex Res Ltd. Ordinary Shares (Canada),U
+PSY,Defiance Next Gen Altered Experience ETF,ARCA
 PSYBF,PSYBIO THERAPEAUTICS CORP SUB VTG SHS (Canada),U
 PSYC,"Global Trac Solutions, Inc. Common Stock",U
 PSYCF,Psyched Wellness Ltd. Common Shares,U
@@ -3884,7 +3891,7 @@ RBLAF,ROBINSONS LAND CORP RLC SHS (Philippines),U
 RBLAY,Robinsons Land Corporation Unsponsored ADR (Phillipines),U
 RBLX,Roblox Corporation,NYSE
 RBMNF,Rugby Mining Ltd. Ordinary Shares (Canada),U
-RBMTF,Rambler Metals and Mining Public Limited Company London Ordinary Shares (United Kingdom),U
+RBMTF,Rambler Metals and Mining Public Limited Company London Ordinary Shares,U
 RBNC,"Reliant Bancorp, Inc. Common Stock",NASDAQ
 RBND,SPDR Bloomberg SASB Corporate Bond ESG Select ETF,ARCA
 RBNTF,"Robinsons Retail Holdings, Inc. Ordinary Shares Philippines(PH )",U
@@ -5504,7 +5511,7 @@ SHERF,Sherritt Intl Copr Restr Vtg Ordinary Shares,U
 SHEZF,Shenzhen Hepalink Pharmaceutical Group Co Ltd. Registered Shares (China),U
 SHG,Shinhan Financial Group Co Ltd,NYSE
 SHGDF,Star Diamond Corporation Ordinary Shares,U
-SHGFF,Skylight Health Group Inc Common Shares,U
+SHGFD,Skylight Health Group Inc Common Shares,U
 SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
@@ -5517,7 +5524,3 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
-SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U

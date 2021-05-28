@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
@@ -768,7 +772,6 @@ SOTK,Sono-Tek Corp Common Stock,U
 SOUB,"Southpoint Bancshares, Inc. Common Stock",U
 SOUG,"Sou 300 Group Hldg., Co. Common Stock",U
 SOUHY,South32 Ltd American Depositary Receipts - Sponsored (Australia),U
-SOUPQ,Soupman Inc. Common Stock,U
 SOVTF,Sonaecom SGPS SA Reg Shares (Portugal),U
 SOWG,SOW GOOD INC Common Stock,U
 SOXL,Direxion Daily Semiconductor Bull 3X Shares,ARCA
@@ -977,6 +980,7 @@ SPYR,"SPYR, Inc Common Stock",U
 SPYV,SPDR Portfolio S&P 500 Value ETF,ARCA
 SPYX,SPDR S&P 500 Fossil Fuel Free ETF,ARCA
 SPZI,Spooz Inc Common Stock,U
+SPZRF,SPRITZER BHD Ordinary Shares (Malaysia),U
 SQ,"Square, Inc.",NYSE
 SQBG,"Sequential Brands Group, Inc. Common Stock",NASDAQ
 SQCC,Square Chain Corp. Common Stock,U
@@ -1553,7 +1557,6 @@ SVSVU,Spring Valley Acquisition Corp. Unit,NASDAQ
 SVSVW,Spring Valley Acquisition Corp. Warrant,NASDAQ
 SVT,"Servotronics, Inc.",AMEX
 SVTE,"Service Team, Inc. COMMON",U
-SVTLQ,"SiVault Systems, Inc. Common Stock",U
 SVTMF,SM Investments Corporation Ordinary Shares (Phillippines),U
 SVTNF,SILVERTON METALS CORP COM (Canada),U
 SVTPF,S VENTURES PLC Ordinary Shares,U
@@ -3295,7 +3298,7 @@ UGGYF,Underground Energy Corporation Common Shares (Canada),U
 UGHB,UNIVERSAL GLOBAL HUB INC. Common Stock,U
 UGHL,Union Bridge Holdings Limited Ordinary Shares,U
 UGI,UGI Corporation,NYSE
-UGIIU,UGI Corp New Corp Unit,U
+UGIC,UGI Corporation,NYSE
 UGL,ProShares Ultra Gold,ARCA
 UGLDF,Credit Suisse AG Nassau Brh VelocityShares 3x Long Gold ETN,U
 UGP,Ultrapar Participacoes S.A.,NYSE
@@ -3434,7 +3437,7 @@ UOADF,UOA DEVELOPMENT BHD SHS (Malaysia),U
 UOCT,Innovator S&P 500 Ultra Buffer ETF - October,BATS
 UOLGF,UOL Group Limited Ordinary Shares (Singapore),U
 UOLGY,UOL Group Limited Sponsored ADR (Singapore),U
-UOLI,Uonlive Corporation. New Common Stock,U
+UOLID,Uonlive Corporation Common Stock,U
 UOMO,UOMO Media Inc. Common Stock,U
 UONE,"Urban One, Inc. Class A Common Stock",NASDAQ
 UONEK,"Urban One, Inc. Class D Common Stock",NASDAQ
@@ -3750,6 +3753,7 @@ VDAHF,Vinda International Holdings Ltd. Ordinary Shares (Cayman Islands),U
 VDAHY,Vinda International Holdings Ltd. Unsponsored ADR(Cayman Island),U
 VDC,Vanguard Consumer Staples ETF,ARCA
 VDE,Vanguard Energy ETF,ARCA
+VDEKF,Veidekke Asa Ordinary Shares (Norway),U
 VDEVF,Van de Velde NV Ordinary Shares (Belgium),U
 VDKB,Vodka Brands Corp Common Stock,U
 VDMCY,Vodacom Group Ltd. Sponsored ADR,U
@@ -4553,7 +4557,6 @@ WGNAP,WGNB Corp. 9% Series A Convertible Preferred Stock,U
 WGNHF,WAGNERS HLDG CO LTD Ordinary Shares,U
 WGNR,Wegener Corporation Common Stock,U
 WGO,"Winnebago Industries, Inc.",NYSE
-WGPCF,White Group Public Co Ltd Shares Foreign Registered (Thailand),U
 WGTG,Wings & Things Inc Common Stock,U
 WH,"Wyndham Hotels & Resorts, Inc. Common Stock",NYSE
 WHCA,"Williston Holding Company, Inc. Common Stock",U
@@ -4997,6 +5000,7 @@ XENT,"Intersect ENT, Inc. Common Stock",NASDAQ
 XEPRF,Xemplar Energy New Corp Ordinary Shares (Canada),U
 XERI,"Xeriant, Inc. Common Stock",U
 XERS,"Xeris Pharmaceuticals, Inc. Common Stock",NASDAQ
+XERYY,Xero Ltd. American Depositary Receipts - Unsponsored,U
 XES,SPDR S&P Oil & Gas  Equipment & Services ETF,ARCA
 XFCH,"X-Factor Communications Holdings, Inc. Common",U
 XFLS,Xfuels Inc. Common Stock,U
@@ -5006,7 +5010,6 @@ XFOR,"X4 Pharmaceuticals, Inc. Common Stock",NASDAQ
 XFORW,X4 Pharmaceuticals Inc Warrants Expiring 04/16/2024,U
 XFOWW,X4 Pharmaceuticals Inc Warrants Class B Expiring 11/29/2024,U
 XFTB,XFIT BRANDS INC Common Stock,U
-XGEND,"Cyber Enviro-Tech, Inc. Common Stock",U
 XGN,Exagen Inc. Common Stock,NASDAQ
 XHB,SPDR S&P Homebuilders ETF,ARCA
 XHE,SPDR S&P Health Care Equipment ETF,ARCA
@@ -5410,7 +5413,8 @@ ZIONP,"Zions Bancorporation, N.A. Depositary Shares (Each representing 1/40th In
 ZIOP,ZIOPHARM Oncology Inc Common Stock,NASDAQ
 ZIP,"ZipRecruiter, Inc.",NYSE
 ZIPL,"ZipLink, Inc. Common Stock",U
-ZIVO,"Zivo Bioscience, Inc. Common Stock",U
+ZIVO,"Zivo Bioscience, Inc. Common Stock",NASDAQ
+ZIVOW,"Zivo Bioscience, Inc. Warrants",NASDAQ
 ZIVZF,Credit Suisse AG Nassau Brh VelocityShares Daily Inverse VIX Lkd to S&P 500 Medium Term ETN,U
 ZIXI,Zix Corporation Common Stock,NASDAQ
 ZIZTF,Zip co Ltd Ordinary Fully Paid (Australia),U
