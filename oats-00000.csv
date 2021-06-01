@@ -283,9 +283,9 @@ ACQRU,Independence Holdings Corp. Units,NASDAQ
 ACQRW,Independence Holdings Corp. Warrant,NASDAQ
 ACR,ACRES Commercial Realty Corp.,NYSE
 ACR PRC,ACRES Commercial Realty Corp. 8.625% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stoc,NYSE
+ACR PRD,ACRES Commercial Realty Corp. 7.875% Series D Cumulative Redeemable Preferred Stock,NYSE
 ACRB,"Asia Carbon Industries, Inc. Common",U
 ACRDF,"Acreage Holdings, Inc. Class D Sub Vtg Ord Shs (Canada)",U
-ACRDP,ACRES COML RLTY CORP CUM RED PFD SER D Preferred Stock,U
 ACRE,Ares Commercial Real Estate Corporation,NYSE
 ACRFF,Accor S A (F) Ordinary Shares,U
 ACRHF,"Acreage Holdings, Inc. Class E Sub Vtg Ord Shs (Canada)",U
@@ -358,7 +358,9 @@ ADEVF,ADEVINTA ASA Ordinary Shares (Norway),U
 ADEX,Adit EdTech Acquisition Corp,NYSE
 ADEX U,"Adit EdTech Acquisition Corp Units, each consisting of one share of common stock, and one-half of on",NYSE
 ADEX WS,"Adit EdTech Acquisition Corp Redeemable Warrants, each whole warrant exercisable for shares of commo",NYSE
+ADF,Aldel Financial Inc.,NYSE
 ADF U,"Aldel Financial Inc. Units, each consisting of one share of Class A common stock and one-half of one",NYSE
+ADF WS,"Aldel Financial Inc. Warrants, each whole warrant entitles the holder thereof to purchase one share",NYSE
 ADFI,Anfield Dynamic Fixed Income ETF,BATS
 ADFJF,ADF Group Inc Sub Vtg Shs (Canada),U
 ADFS,"American Defense Systems, Inc Common Stock",U
@@ -1966,7 +1968,6 @@ ATMQF,Ateam Inc Common Stock (Japan),U
 ATMR,Altimar Acquisition Corp. II,NYSE
 ATMR U,"Altimar Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fourth of",NYSE
 ATMR WS,"Altimar Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A Ordinary Share",NYSE
-ATMRF,Altamir Ordinary Shares (France),U
 ATMS,"Artemis Therapeutics, Inc. Common Stock",U
 ATNE,Alternative Energy Technology Inc Common Stock,U
 ATNF,180 Life Sciences Corp. Common Stock,NASDAQ
@@ -2535,7 +2536,6 @@ BCEKF,Bear Creek Mining Corp Common Stock,U
 BCEL,"Atreca, Inc. Class A Common Stock",NASDAQ
 BCEPF,BCE INC 1st Pfd Ser AC (Canada),U
 BCEXF,BCE INC 1st Preferred Series AK (Canada),U
-BCGOF,NEO BATTERY MATLS LTD Common Shares,U
 BCH,Banco de ChileAmerican Depositary Shares (Each representing 200 shares of Common Stock),NYSE
 BCHEY,Beach Energy Ltd. Unsponsored American Depository Receipt (Australia),U
 BCHFP,Birchcliff Energy Ltd. New Redeemable Pfd Ser A (Canada),U
@@ -2873,7 +2873,6 @@ BILZF,Ignite Intl Brands Ltd Ordinary Shares (Canada),U
 BIMI,BOQI International Medical Inc. Common Stock,NASDAQ
 BIMO,"BioNeutra International, Ltd. Common Stock",U
 BIMT,Bitmis Corp Common Stock,U
-BIMUF,Pascal Biosciences Inc. Common Shares,U
 BINFF,Brookfield Infrastructure Partners LP Unit Class A Series 7 (Bermuda),U
 BINP,"Bionoid Pharma, Inc. Common Stock",U
 BIO,"Bio-Rad Laboratories, Inc.Class A",NYSE
@@ -4240,7 +4239,6 @@ CCOJY,Coca-Cola Bottlers Japan Holdings Inc American Depositary Receipts - Unspo
 CCOM,"CCOM Group, Inc. Common Stock",U
 CCOMP,"CCOM Group, Inc. Convertible Preferred Stock",U
 CCON,Direxion Connected Consumer ETF,ARCA
-CCOP,"Competitive Companies, Inc. Common Stock",U
 CCOR,Core Alternative Capital,ARCA
 CCORF,"Canaccord Genuity Group, Inc. Ordinary Share (Canada)",U
 CCOXF,Candente Copper Corporation Common Shares (Canada),U

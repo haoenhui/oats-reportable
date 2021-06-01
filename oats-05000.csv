@@ -371,7 +371,6 @@ CSU,Capital Senior Living,NYSE
 CSUAY,China Shenhua Energy Co Ltd Unsponsored ADR representing A shs (China),U
 CSUI,Cannabis Suisse Corp. Common Stock,U
 CSV,"Carriage Services, Inc.",NYSE
-CSVGF,China Overseas Grand Oceans Group Ltd. Ordinary Shares (Hong Kong),U
 CSVI,Computer Services Inc Ky Common Stock,U
 CSWC,Capital Southwest Corporation Common Stock,NASDAQ
 CSWI,"CSW Industrials, Inc. Common Stock",NASDAQ
@@ -1457,7 +1456,6 @@ DRRSF,Arianne Phosphate Inc Ordinary Shares (Canada),U
 DRRX,DURECT Corporation Common Stock,NASDAQ
 DRSHF,Droneshield Ltd ORDINARY FULLY PAID (Australia),U
 DRSK,Aptus Defined Risk ETF,BATS
-DRSV,Debt Resolve Inc. Common Stock,U
 DRTGF,JET2 PLC Ordinary Shares,U
 DRTMF,DART MINING NL Common Shares,U
 DRTT,DIRTT Environmental Solutions Ltd. Common Shares,NASDAQ
@@ -2177,7 +2175,6 @@ ELST,Electronic Systems Technology Common Stock,U
 ELTK,Eltek Ltd. Ordinary Shares,NASDAQ
 ELTLF,Elementos Ltd. Ordinary Shares (Australia),U
 ELTP,"Elite Pharmaceuticals, Inc. Common Stock",U
-ELTZ,"Elite Group, Inc. Common Stock",U
 ELUXF,AB Electrolux Ordinary Shares,U
 ELUXY,AB Electrolux Class B American Depositary Receipts,U
 ELVAF,Evolva Holding AG Namen -AKT- (Switzerland),U
@@ -2407,7 +2404,7 @@ EOSE,"Eos Energy Enterprises, Inc. Class A Common Stock",NASDAQ
 EOSEW,"Eos Energy Enterprises, Inc. Warrant",NASDAQ
 EOSGF,EOS Imaging Ordinary Share EUR 0-01,U
 EOSI,"Eos International, Inc. Common Stock",U
-EOSSD,EOS Inc Common Stock,U
+EOSS,EOS Inc Common Stock,U
 EOT,EATON VANCE NATIONAL MUNICIPAL OPPORTUNITIES TRUST,NYSE
 EOVBF,Airtrip Corp Common Stock,U
 EOXFF,Euromax Resources Ltd Ordinary Shares (Canada),U
@@ -2430,12 +2427,12 @@ EPHY,Epiphany Technology Acquisition Corp. Class A Common Stock,NASDAQ
 EPHYU,Epiphany Technology Acquisition Corp. Unit,NASDAQ
 EPHYW,Epiphany Technology Acquisition Corp. Warrant,NASDAQ
 EPI,WisdomTree India Earnings Fund ETF,ARCA
+EPIBF,Epiroc Aktiebolag Share AK IL B (Sweden),U
+EPIRF,EPIROC AKTIEBOLAG SHARE AK IL A (Sweden),U
 EPIX,ESSA Pharma Inc. Common Stock,NASDAQ
-EPKAF,Epiroc Aktiebolag Ordinary Shares (Sweden),U
 EPKKY,Epiroc Aktiebolag American Depositary Receipts - Unsponsored CL B (Sweden),U
 EPLYF,EPS HLDGS INC Ordinary Shares,U
 EPM,Evolution Petroleum Corporation,AMEX
-EPOKF,Epiroc Aktiebolag Shares AK A,U
 EPOKY,EPIROC AKTIEBOLAG American Depositary Receipts - Unsponsored,U
 EPOL,iShares MSCI Poland ETF,ARCA
 EPOR,Epic Corporation Common Stock,U
@@ -2582,13 +2579,13 @@ ESEB,Xtrackers J.P. Morgan ESG Emerging Markets Sovereign ETF,BATS
 ESEFF,Easyetf Epra Eurozone Fcp Units Distribution (Luxembourg),U
 ESEXF,Essex Bio-Technology Ltd Ordinary Shares (Cayman Islands),U
 ESFS,"Eco-Safe Systems USA, Inc. Common Stock",U
-ESG,FlexShares Trust FlexShares STOXX US ESG Impact Index Fund,BATS
+ESG,FlexShares STOXX US ESG Select Index Fund,BATS
 ESGA,American Century Sustainable Equity ETF,ARCA
 ESGC,Eros STX Global Corporation,NYSE
 ESGD,iShares Trust iShares ESG Aware MSCI EAFE ETF,NASDAQ
 ESGE,"iShares, Inc. iShares ESG Aware MSCI EM ETF",NASDAQ
 ESGFF,Ora Banda Mining Ltd Ordinary Shares,U
-ESGG,FlexShares STOXX Global ESG Impact Index Fund,BATS
+ESGG,FlexShares STOXX Global ESG Select Index Fund,BATS
 ESGI,"enSurge, Inc. Common Stock",U
 ESGN,Columbia Sustainable International Equity Income ETF,ARCA
 ESGR,Enstar Group Limited Ordinary Shares,NASDAQ
@@ -2831,7 +2828,7 @@ EVTZF,Evertz Technologies Ltd Common Shares (Canada),U
 EVUS,"EV Charging USA, Inc. Common Stock",U
 EVV,Eaton Vance Limited Duration Income Fund,AMEX
 EVVRF,NAPSTER GROUP PLC Ordinary Shares,U
-EVVTY,Evolution Gaming Group AB ADR Unsponsored (Sweden),U
+EVVTY,Evolution AB American Depositary Receipts - Unsponsored,U
 EVVVY,Enav S P A American Depositary Receipts - Unsponsored,U
 EVX,VanEck Vectors Environmental Services ETF,ARCA
 EVXXF,European Electric Metals Inc Common Shares,U
@@ -4186,6 +4183,7 @@ FUSE WS,"Fusion Acquisition Corp. Warrants, each whole warrant exercisable for o
 FUSEF,Fuse Cobalt Inc Common Shares,U
 FUSN,Fusion Pharmaceuticals Inc. Common Shares,NASDAQ
 FUST,Fuse Group Holding Inc. Common Shares,U
+FUSYF,Future Architect Inc Ordinary Shares (Japan),U
 FUT,ProShares Managed Futures Strategy ETF,BATS
 FUTL,FutureLand Corp Common Stock,U
 FUTS,"Future Science Holdings, Inc. Common Stock",U
@@ -4966,7 +4964,6 @@ GMRSF,GME Resources Limited Ordinary shares (Australia),U
 GMS,GMS Inc.,NYSE
 GMSC,Grand Entertainment & Music Inc. New Common Stock,U
 GMSQF,GAMESQUARE ESPORTS INC Ordinary Shares,U
-GMTA,GATX Corporation 5.625% Senior Notes 5/30/2066,NYSE
 GMTNF,GOLD MTN MNG CORP COM (Canada),U
 GMTU,"Green Mountain Merger, Inc. Common Stock",U
 GMTX,"Gemini Therapeutics, Inc. Common Stock",NASDAQ
@@ -5524,3 +5521,4 @@ GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U

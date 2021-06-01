@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
@@ -596,7 +593,7 @@ SNLKF,Sinolink Worldwide Hldgs Ordinary Shares,U
 SNLM,Homestead Gold and Silver Ltd. Common Stock (NV),U
 SNLN,Highland/iBoxx Senior Loan ETF,NASDAQ
 SNLP,Syntrol Corp. Common Stock,U
-SNLRF,Sentinel Resources Corporation Common Shares (Canada),U
+SNLRF,SENTINEL RES CORP CDA Common Shares,U
 SNLS,San Luis Trust Bank FSB (CA) Common Stock,U
 SNMBQ,Sona Mobile Holdings Corp. Common Stock,U
 SNMCY,Suncorp Group Ltd American Depositary Receipts - Sponsored,U
@@ -695,6 +692,8 @@ SOCLF,Pharos Energy PLC Ordinary Shares,U
 SODE,"Social Detention, Inc. Common Stock",U
 SODI,Solitron Devices Inc Common Stock,U
 SOEN,Solar Enertech Corp. Common Stock,U
+SOFI,"SoFi Technologies, Inc. Common Stock",NASDAQ
+SOFIW,"SoFi Technologies, Inc. Warrants",NASDAQ
 SOFO,"Sonic Foundry, Inc. Common Stock",U
 SOFSF,SOFTLAB9 TECHNOLOGIES INC Common Stock,U
 SOFT,"SofTech, Inc. Common Stock",U
@@ -1328,7 +1327,6 @@ STMWF,St Mowden Properties PLC Ordinary Shares (United Kingdom),U
 STMZF,Scottish Mortgage Invt Tr PLC Ordinary Shares GBP,U
 STN,"Stantec, Inc.",NYSE
 STNC,Stance Equity ESG Large Cap Core ETF,ARCA
-STND,Standard AVB Financial Corp. Common Stock,NASDAQ
 STNDF,SANTANDER UK PLC 8 5/8 % NON -CUM STERLING Preference Shares United Kingdom(GB ),U
 STNE,StoneCo Ltd. Class A Common Shares,NASDAQ
 STNG,Scorpio Tankers Inc.,NYSE
@@ -2054,7 +2052,6 @@ TFAN,"TradeFan, Inc. Common Stock",U
 TFAOF,Telefonica Czech Republic AS Ordinary Shares (Czech Republic),U
 TFBN,TFN Football Network (The) Common Stock,U
 TFC,Truist Financial Corporation,NYSE
-TFC PRH,"Truist Financial Corporation Depositary Shares, each representing a 1/1,000th interest in a share of",NYSE
 TFC PRI,"Truist Financial Corporation Depositary Shares, each representing 1/4,000th interest in a share of S",NYSE
 TFC PRO,"Truist Financial Corporation Depositary Shares, Each Representing a 1/1,000th Interest in a  Share o",NYSE
 TFC PRR,"Truist Financial Corporation Depositary Shares, each representing 1/1,000th interest in a share of S",NYSE
@@ -2133,7 +2130,7 @@ TGRVF,Tian Ge Interactive Holdings Ltd. US$ Ordinary Shares (Cayman Islands),U
 TGRW,T. Rowe Price Growth Stock ETF,ARCA
 TGS,Transportadora de Gas del Sur S.A. ADS,NYSE
 TGSEF,TGS ESPORTS INC Common Shares,U
-TGSGY,Tgs Nopec Geophysical Co Asa SPONSORED ADR (Norway),U
+TGSGY,TGS ASA American Depositary Receipts - Sponsored,U
 TGSI,"TGS International, Ltd. Common Stock",U
 TGSNF,Tgs Nopec Geophysical Co Asa Ordinary Shares (Norway),U
 TGT,Target Corporation,NYSE
@@ -2265,7 +2262,9 @@ TINO,Tamino Minerals Inc. Common Stock,U
 TINV,Tiga Acquisition Corp.,NYSE
 TINV U,"Tiga Acquisition Corp. Units, each consisting of one Class A ordinary share and one half of one warr",NYSE
 TINV WS,"Tiga Acquisition Corp. Warrants, each warrant exercisable for one Class A ordinary share at an exerc",NYSE
+TIOA,Tio Tech A Class A Ordinary Share,NASDAQ
 TIOAU,Tio Tech A Units,NASDAQ
+TIOAW,Tio Tech A Warrants,NASDAQ
 TIOIF,Cholamandalam Financial Holdings Limited Global Depositary Shares - Sponsored,U
 TIP,iShares TIPS Bond ETF,ARCA
 TIPGF,TITAN PETROCHEMICALS GROUP LTD Common Stock,U
@@ -2414,7 +2413,7 @@ TMAK,"Touchmark Bancshares, Inc. Common Stock",U
 TMASF,Temas Res Corp Common Stock (Canada),U
 TMAT,Main Thematic Innovation ETF,BATS
 TMAUF,TECHNOLOGY METALS AUSTRALIA LTD Ordinary Shares (Australia),U
-TMBBY,TMB Bank Public Company Limited Unsponsored American Depository Receipt (Thailand),U
+TMBBY,TMBThanachart Bank Public Company Limited Unsponsored American Depository Receipt (Thailand) American Depositary Receipts - Unsponsored,U
 TMBIF,TOMBADOR IRON LTD Ordinary Shares,U
 TMBR,"Timber Pharmaceuticals, Inc.",AMEX
 TMBXF,Tombstone Exploration Corporation Common Shares,U
@@ -3406,7 +3405,6 @@ UNIV,Universal Infotainment Systems Corp Common Stock,U
 UNIXY,Uniqa Insurance Group AG  Unsponsored ADR (Austria),U
 UNJCF,Unicaja Banco SA Acciones Ordinary Shares (Spain),U
 UNL,"United States 12 Month Natural Gas Fund, LP",ARCA
-UNLA,Unilava Corporation. Common Stock,U
 UNLRF,Unilever Indonesia Tbk PT Ordinary Shares (Indonesia),U
 UNLRY,PT Unilever Indonesia Tbk Unsponsored ADR (Indonesia),U
 UNLYF,Unilever Plc Ordinary Shares,U
@@ -4786,7 +4784,6 @@ WQNI,"WQN, Inc. Common Stock",U
 WQTEF,Weiqiao Textile Company Ltd Shs H (China),U
 WRAP,"Wrap Technologies, Inc. Common Stock",NASDAQ
 WRB,W.R. Berkley Corporation,NYSE
-WRB PRD,W.R. Berkley Corporation5.75% Subordinated Debentures due 2056,NYSE
 WRB PRE,W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058,NYSE
 WRB PRF,W.R. Berkley Corporation 5.10% Subordinated Debentures due 2059,NYSE
 WRB PRG,W.R. Berkley Corporation 4.25% Subordinated Debentures due 2060,NYSE

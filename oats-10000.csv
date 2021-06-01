@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
@@ -154,7 +153,7 @@ HBCGF,BETAPRO GOLD BULLION 2X DAILY BULL ETF NEW Unit,U
 HBCP,"Home Bancorp, Inc. Common Stock",NASDAQ
 HBCYF,Hsbc Holdings plc Ordinary Shares (United Kingdom),U
 HBEIF,HONEY BADGER SILVER INC Ordinary Shares,U
-HBEXF,Hornby Bay Mineral Exploration Limited Ordinary Shares,U
+HBEXF,Royal Fox Gold Inc. Ordinary Shares,U
 HBGHF,Honbridge Holdings Ltd Common Stock (Cayman Islands),U
 HBGRF,Heidelberger Druck Dem 5 Ordinary Shares,U
 HBGRY,Heidelberger Druckmaschinen AG Unsponsored ADR (Germany),U
@@ -1612,7 +1611,7 @@ IMHDY,Isetan Mitsukoshi Holdings Ltd American Depositary Receipts - Unsponsored 
 IMIAF,Imi Plc Ordinary Shares,U
 IMIAY,IMI PLC Sponsored American Depository Receipt (United Kingdom),U
 IMII,Inception Mining Inc. Common Stock,U
-IMIMF,IMC INTL MNG CORP Common Stock (Canada),U
+IMIMF,INTERRA COPPER CORP Common Stock,U
 IMJN,"Imerjn, Inc Common Stock",U
 IMJX,Imagexpres Corporation Common Stock,U
 IMKI,"Immediatek, Inc. Common Stock",U
@@ -1893,9 +1892,6 @@ IPOAF,Industrias Penoles Cl B Ser 2 Ordinary Shares,U
 IPOD,Social Capital Hedosophia Holdings Corp. IV,NYSE
 IPOD U,"Social Capital Hedosophia Holdings Corp. IV Units, each consisting of one Class A ordinary share and",NYSE
 IPOD WS,"Social Capital Hedosophia Holdings Corp. IV Redeemable Warrants, each whole warrant exercisable for",NYSE
-IPOE,Social Capital Hedosophia Holdings Corp. V,NYSE
-IPOE U,"Social Capital Hedosophia Holdings Corp. V Units, each consisting of one Class A ordinary share and",NYSE
-IPOE WS,"Social Capital Hedosophia Holdings Corp. V Redeemable Warrants, each whole warrant exercisable for o",NYSE
 IPOF,Social Capital Hedosophia Holdings Corp. VI,NYSE
 IPOF U,"Social Capital Hedosophia Holdings Corp. VI Units, each consisting of one Class A ordinary share and",NYSE
 IPOF WS,"Social Capital Hedosophia Holdings Corp. VI Redeemable warrants, each whole warrant exercisable for",NYSE
@@ -2693,8 +2689,6 @@ JPIZF,"JPMorgan Income & Capital Trust PLC, London Zero Div Preference Shares (U
 JPM,JPMorgan Chase & Co.,NYSE
 JPM PRC,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 6.00% Non",NYSE
 JPM PRD,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th  interest in a share of 5.75% No",NYSE
-JPM PRG,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 6.10% Non",NYSE
-JPM PRH,JPMorgan Chase & Co.,NYSE
 JPM PRJ,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of JPMorgan",NYSE
 JPM PRK,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 4.55% Non",NYSE
 JPM PRL,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 4.625% No",NYSE
@@ -2791,6 +2785,7 @@ JULZ,TrueShares Structured Outcome (July) ETF,BATS
 JUMSF,Jumbo SA Reg Shares (Greece),U
 JUMSY,Jumbo SA Unsponsored ADR (Greece),U
 JUMT,"Juma Technology, Corp. Common Stock",U
+JUNZ,TrueShares Structured Outcome (June) ETF,BATS
 JUPGF,Jupiter Gold Corporation Ordinary Shares (Cayman Islands),U
 JUPW,"Jupiter Wellness, Inc. Common Stock",NASDAQ
 JUPWW,"Jupiter Wellness, Inc. Warrant",NASDAQ
@@ -2923,7 +2918,6 @@ KC,Kingsoft Cloud Holdings Limited American Depositary Shares,NASDAQ
 KCAC,Kensington Capital Acquisition Corp. II,NYSE
 KCAC U,"Kensington Capital Acquisition Corp. II Units, each consisting of one share of Class A common stock,",NYSE
 KCAC WS,"Kensington Capital Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one",NYSE
-KCAPL,"KCAP Financial, Inc. 6.125% Notes due 2022",NASDAQ
 KCCB,KraneShares CCBS China Corporate High Yield Bond USD Index ETF,ARCA
 KCCFF,Kutcho Copper Corp Ordinary Shares,U
 KCDMF,Kimberly-Clark De Mexico S A B de C V Ordinary Shares Class B (Mexico),U
@@ -4665,7 +4659,7 @@ MEDH,"MedX Holdings, Inc. Common Stock",U
 MEDIF,Medipharm Labs Corporation Common Shares (Canada),U
 MEDOF,Medios AG Ordinary Shares (Germany),U
 MEDP,"Medpace Holdings, Inc. Common Stock",NASDAQ
-MEDS,"Trxade Group, Inc. Common Stock",NASDAQ
+MEDS,"TRxADE HEALTH, Inc. Common Stock",NASDAQ
 MEDT,MediaTechnics Corporation Common Stock,U
 MEDXF,Medexus Pharmaceuticals Inc Ordinary Shares,U
 MEEC,Midwest Energy Emissions Corp. NEW Common Stock,U
@@ -5393,7 +5387,7 @@ MRPS,Microphonics Inc Common Stock,U
 MRPT,"MacReport.net, Inc. (The) Common Stock",U
 MRPZF,MR. PRICE GRP LTD Ordinary Shares,U
 MRRCF,Wayland Group Corp Ordinary Shares,U
-MRRDF,Meridian Mng S E  Ordinary Shares (Netherlands),U
+MRRDF,Meridian Mining UK Societas Ordinary Shares,U
 MRRHF,Marret High Yield Strategies Fund Class A Unit (Canada),U
 MRRTY,Marfrig Global Foods SA Sponsored ADR (Brazil),U
 MRSK,Toews Agility Shares Managed Risk ETF,BATS
@@ -5524,3 +5518,7 @@ MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
+MTFC,Minster Financial Corporation,U

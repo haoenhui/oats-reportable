@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
@@ -301,6 +297,7 @@ NBIAY,Nobia AB Unsponsored ADR (Sweden),U
 NBIO,Nascent Biotech Inc. Common Stock,U
 NBIX,"Neurocrine Biosciences, Inc. Common Stock",NASDAQ
 NBKCF,NATIONAL BK CDA MONTREAL QUE 1ST PFD SHS SER 38 NVCC Preferred Stock Canada(CA ),U
+NBMFF,NEO BATTERY MATLS LTD Common Shares,U
 NBMLF,Noble Metal Group Inc Ordinary Shares,U
 NBN,Northeast Bank Common Stock,NASDAQ
 NBNKF,Nordea Bank ABP Ordinary Shares (Finland),U
@@ -507,7 +504,6 @@ NFONF,NFON AG NFON AG INH O N (Germany Federal Republic),U
 NFPC,Northfield Precision Instrument Corp Common Stock,U
 NFPDF,Nissin Food Products Ordinary Shares,U
 NFRA,FlexShares STOXX Global Broad Infrastructure Index Fund,ARCA
-NFRMY,NuFarm Ltd American Depositary Receipts - Sponsored (Australia),U
 NFSE,nFinanSe Inc. Common Stock,U
 NFSHF,Northern Offshore Ltd Ordinary Shares (Bermuda),U
 NFTI,"NoFire Technologies, Inc. Common Stock",U
@@ -703,7 +699,6 @@ NLSPW,NLS Pharmaceutics Ltd. Warrant,NASDAQ
 NLST,"Netlist, Inc. Common Stock",U
 NLTBF,Nolato AB Ordinary Shares B (Sweden),U
 NLTX,"Neoleukin Therapeutics, Inc. Common Stock",NASDAQ
-NLVGF,NEW LOOK VISION GROUP INC Ordinary Shares,U
 NLVVF,New Leaf Ventures Common Stock Class A (Canada),U
 NLY,Annaly Capital Management. Inc.,NYSE
 NLY PRF,"Annaly Capital Management, Inc. 6.95% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferre",NYSE
@@ -3185,6 +3180,7 @@ PSBKF,Postal Savings Bank of China Corp Ltd. Registered Ordinary Shares (China),
 PSBP,PSB Holding Corp. Common Stock,U
 PSBQ,"PSB Holdings, Inc. (Wisconsin) Common Stock",U
 PSC,Principal Exchange-Traded Funds Principal U.S. Small-Cap Multi-Factor ETF,NASDAQ
+PSCBF,Pascal Biosciences Inc. Common Shares,U
 PSCC,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap Consumer Staples ETF,NASDAQ
 PSCD,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap Consumer Discretionary ETF,NASDAQ
 PSCE,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap Energy ETF,NASDAQ
@@ -4023,7 +4019,7 @@ RDYFF,Ready Set Gold Corp Common Shares (Canada),U
 RE,"Everest Re Group, Ltd.",NYSE
 REAC,"REAC Group, Inc. Common Stock",U
 REAL,"The RealReal, Inc. Common Stock",NASDAQ
-REAXF,REAL BROKERAGE INC COM (Canada),U
+REAXD,The Real Brokerage Inc Common Shares,U
 REBL,"Rebel Group, Inc. Common Stock",U
 REBOF,REBOSIS PROPERTY FUND LTD SHS CLASS -A- ZAR (South Africa),U
 REC,Emles Real Estate Credit ETF,BATS
@@ -4293,7 +4289,6 @@ RKLC,Rockelle Corp. Common  Stock,U
 RKLIF,Rentokil Initial 2005 Plc Ordinary Shares,U
 RKMSF,Rokmaster Resources Corp. Common Shares,U
 RKNEF,Optiva Inc. Ordinary Shares,U
-RKNVF,Riken Vitamin Co Ltd Ordinary Shares (Japan),U
 RKOS,Arkose Energy Corp. Common Stock,U
 RKSCF,Rocksheild Capital Corp. Ordinary Shares (Canada),U
 RKSLF,RAKSUL INC Ordinary Shares,U
@@ -5058,7 +5053,6 @@ SCHQ,Schwab Long-Term U.S. Treasury ETF,ARCA
 SCHR,Schwab Intermediately-Term U.S. Treasury ETF,ARCA
 SCHV,Schwab U.S. Large-Cap Value ETF,ARCA
 SCHW,The Charles Schwab Corporation,NYSE
-SCHW PRC,The Charles Schwab Corporation,NYSE
 SCHW PRD,Charles Schwab Corporation Depositary Shares each representing 1/40th interest in a share of 5.95% N,NYSE
 SCHW PRJ,"The Charles Schwab Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of",NYSE
 SCHX,Schwab U.S. Large- Cap ETF,ARCA
@@ -5524,3 +5518,6 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
