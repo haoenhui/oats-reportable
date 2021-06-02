@@ -1,4 +1,9 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
+CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
+CPCC,"Striper Energy, Inc. Common Stock",U
+CPE,Callon Petroleum Company,NYSE
+CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
@@ -654,7 +659,7 @@ CWVLF,Crown Point Energy Inc. Common Shares,U
 CWVWF,Lithoquest Resources Inc.  Ordinary Shares,U
 CWWBF,PLANT-BASED INVT CORP Ordinary Shares,U
 CWWGF,"Chaowei Power Holdings, Ltd Ordinary Shares (Cayman Islands)",U
-CWXZF,CanWel Building Materials Group Ltd Ordinary Shares (Canada),U
+CWXZF,Doman Building Materials Group Ltd Ordinary Shares,U
 CWYUF,SmartCentres Real Estate Investment Trust Unit,U
 CX,Cemex S.A.B. de C.V.,NYSE
 CXBMF,Calibre Mining Corp Ordinary Shares,U
@@ -698,7 +703,6 @@ CYCCP,"Cyclacel Pharmaceuticals, Inc. 6% Convertible Preferred Stock",NASDAQ
 CYCMF,"CYCLOPHARM LTD, MELBOURNE SHS (Australia)",U
 CYCN,"Cyclerion Therapeutics, Inc. Common Stock",NASDAQ
 CYD,China Yuchai International Ltd.,NYSE
-CYDGF,Chiyoda Integre Co Ltd SHS (Japan),U
 CYDVF,Cypress Development Corporation Ordinary Shares,U
 CYDX,"CYduct Diagnostics, Inc. Common Stock",U
 CYDY,"CytoDyn, Inc. Common Stock",U
@@ -763,6 +767,7 @@ CZNI,Cruzani Inc. Common Stock,U
 CZNL,Citizens National Corporation (KY) Common Stock,U
 CZR,"Caesars Entertainment, Inc. Common Stock",NASDAQ
 CZWI,"Citizens Community Bancorp, Inc. Common Stock",NASDAQ
+CZYRF,CAZALY RESOURCES LIMITED Ordinary Shares,U
 D,"Dominion Energy, Inc Common Stock",NYSE
 DAAT,"DAC Technologies Group International, Inc. Common Stock",U
 DAC,Danaos Corporation,NYSE
@@ -5516,9 +5521,3 @@ GVP,"GSE Systems, Inc. Common Stock",NASDAQ
 GVSI,Good Vibrations Shoes Inc. Common Stock,U
 GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
 GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
-GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
-GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
-GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
-GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
-GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U

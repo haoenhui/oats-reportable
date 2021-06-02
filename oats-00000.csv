@@ -213,6 +213,7 @@ ACGBY,Agricultural Bank of China Unsponsored American Depository Receipt (China)
 ACGI,"Amacore Group, Inc. (The) Class A Common Stock",U
 ACGJ,ACI Global Corporation Common Stock,U
 ACGL,Arch Capital Group Ltd. Common Stock,NASDAQ
+ACGLL,ARCH CAP GROUP LTD DEP SHS REPSTG 1/1000TH PFD SER G Depositary Shares,U
 ACGLO,"Arch Capital Group Ltd. Depositary Shares Each Representing 1/1,000th Interest in a Share of 5.45% Non-Cumulative Preferred Shares, Series F",NASDAQ
 ACGLP,Arch Capital Group Ltd. Depositary Shares Representing Interest in 5.25% Non-Cumulative Preferred Series E Shrs,NASDAQ
 ACGPF,Accell Group NV Heerenveen Ordinary Shares (Netherlands),U
@@ -233,6 +234,7 @@ ACII,Atlas Crest Investment Corp. II,NYSE
 ACII U,"Atlas Crest Investment Corp. II Units, each consisting of one Class A common stock, $.0001 par value",NYSE
 ACII WS,"Atlas Crest Investment Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A",NYSE
 ACIO,Aptus Collared Income Opportunity ETF,BATS
+ACIRF,AIMS-AMP CAPITAL INDUSTRIAL REIT REIT,U
 ACITF,Asian Citrus Holdings Ltd Ordinary Shares (Bermuda),U
 ACIU,AC Immune SA Common Stock,NASDAQ
 ACIW,"ACI Worldwide, Inc. Common Stock",NASDAQ
@@ -414,6 +416,7 @@ ADRA,Adara Acquisition Corp.,AMEX
 ADRA U,"Adara Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half of",AMEX
 ADRA WS,"Adara Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A",AMEX
 ADRE,Invesco BLDRS Emerging Markets 50 ADR Index Fund,NASDAQ
+ADRLF,ADAVALE RESOURCES LTD Ordinary Shares,U
 ADRNY,Koninklijke Ahold Delhaize N.V. American Depositary Receipts - Sponsored,U
 ADRZF,Andritz Ag Graz Ordinary Shares,U
 ADRZY,Andritz Ag Graz Unsponsored ADR (Austria),U
@@ -895,7 +898,6 @@ AKBTY,Akbank Turk Anonim Sirketi ADR (Turkey),U
 AKCCF,AKER CARBON CAPTURE AS Ordinary Shares,U
 AKCPF,Asustek Computer Inc Ord Ordinary Shares,U
 AKEJF,Ariake Japan Ordinary Shares,U
-AKHOF,Aker Horizons ASA Common Shares,U
 AKIC,Sports Ventures Acquisition Corp. Class A Ordinary Shares,NASDAQ
 AKICU,Sports Ventures Acquisition Corp. Unit,NASDAQ
 AKICW,Sports Ventures Acquisition Corp. Warrant,NASDAQ
@@ -1361,6 +1363,7 @@ ANTMF,ANTILLES GOLD LTD Ordinary Shares,U
 ANTOF,IIDA GROUP HLDGS CO LTD Ordinary Shares,U
 ANTVF,Antares Vision SRL SPA Azioni Ordinary Shares (Italy),U
 ANVI,"Anvi Global Holdings, Inc. Common Stock",U
+ANVMF,ANOVA METALS LTD Ordinary Shares,U
 ANVS,"Annovis Bio, Inc.",AMEX
 ANVV,Anvia Hldgs Corp Common Stock,U
 ANXGF,Anaconda Mining Inc. Common Shares,U
@@ -1378,6 +1381,7 @@ AOBI,"American Oriental Bioengineering, Inc. Common Stock",U
 AOCIF,Autocanada Inc Common Shares (Canada),U
 AOD,Aberdeen Total Dynamic Dividend Fund,NYSE
 AOECF,Amino Technologies Plc Cambridge Common Stock (United Kingdom),U
+AOFEF,APOLLO CONS LTD Ordinary Shares (Australia),U
 AOGC,Australian Oil & Gas Corporation Common Stock,U
 AOHLF,Autohellas SA Ordinary Shares (Greece),U
 AOIFF,Africa Oil Corp. Ordinary Shares,U
@@ -2415,6 +2419,8 @@ BAOS,Baosheng Media Group Holdings Limited Ordinary shares,NASDAQ
 BAP,Credicorp LTD,NYSE
 BAPR,Innovator S&P 500 Buffer ETF - April,BATS
 BAR,GraniteShares Gold Shares,ARCA
+BARK,The Original BARK Company,NYSE
+BARK WS,"The Original BARK Company Redeemable Warrants, each whole warrant exercisable for shares of Common S",NYSE
 BARUF,Baru Gold Corp  Common Shares,U
 BASA,"Basanite, Inc. Common Stock",U
 BASFY,BASF SE American Depositary Shares,U
@@ -3615,7 +3621,6 @@ BSPOF,Bespoke Cap Acquisition Corp Warrant Exp 08/16/2027 (Canada),U
 BSPR,Bigsupersearch.com Inc Common Stock,U
 BSQR,BSQUARE Corporation Common Stock,NASDAQ
 BSRR,Sierra Bancorp Common Stock,NASDAQ
-BSRSF,"BE Res., Inc. Ordinary Shares",U
 BSRTF,Bsr Real Estate Invt Tr Unit (Canada),U
 BSRUF,BASE RESOURCES LTD SHS (Australia),U
 BSSC,"Bank Southside Corp (Carson, VA) Common stock",U
@@ -5420,7 +5425,6 @@ COIHF,Croda Intl Plc Ord Ordinary Shares,U
 COIHY,Croda Intl Plc Ord American Depositary Receipts - Unsponsored,U
 COIL,"Citadel Exploration, Inc. Common",U
 COIN,"Coinbase Global, Inc. Class A Common Stock",NASDAQ
-COIVF,Cosco Corporation (Singapore) Limited Ordinary Shares (Singapore),U
 COKAF,COCOALAND HOLDINGS BHD Ordinary Shares (Malaysia),U
 COKE,"Coca-Cola Consolidated, Inc. Common Stock",NASDAQ
 COLB,"Columbia Banking System, Inc. Common Stock",NASDAQ
@@ -5517,8 +5521,3 @@ CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
-CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
-CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
-CPCC,"Striper Energy, Inc. Common Stock",U
-CPE,Callon Petroleum Company,NYSE
-CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U

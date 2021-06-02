@@ -1,4 +1,10 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
+GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
+GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
+GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
+GWB,"Great Western Bancorp, Inc.",NYSE
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
@@ -438,7 +444,7 @@ HISJF,H I S Co Ltd (Jpn) Ordinary Shares,U
 HISNF,Hi Sun Technology China Ltd Ordinary Shares (Bermuda),U
 HITC,Healthcare Integrated Technologies Inc. Common Stock,U
 HITD,"Houston Interweb Design, Inc. Common Stock",U
-HITID,HIGH TIDE INC REG SHS Common Stock,U
+HITI,High Tide Inc. Common Shares,NASDAQ
 HITTF,High Tide Inc Warrant Exp 02/06/2023 (Canada),U
 HIUH,Hero International USA Holding Corp Common Stock,U
 HIW,Highwoods Properties Inc.,NYSE
@@ -1783,7 +1789,7 @@ INRD,"Inrad Optics, Inc. Common Stock",U
 INRE,INLAND REAL ESTATE INCOME TR INC Common Stock,U
 INREF,Inretail Peru Corp Common Shares (Peru),U
 INRLF,Valneva SE Ordinary Shares (France),U
-INS,Intelligent Systems Corp.,AMEX
+INS,Intelligent Systems Corporation,NYSE
 INSD,Instadose Pharma Corp. Common Stock,U
 INSE,"Inspired Entertainment, Inc. Common Stock",NASDAQ
 INSEW,INSPIRED ENTMT INC Warrant   10/20/2021,U
@@ -3304,7 +3310,6 @@ KRNLW,"Kernel Group Holdings, Inc. Warrants",NASDAQ
 KRNNF,Krones Ag Akt. Shares (Germany),U
 KRNT,Kornit Digital Ltd. Ordinary Shares,NASDAQ
 KRNTY,Krones Ag ADR (Germany),U
-KRNUF,Krungthai Card Pub Co Ltd Foreign Shares (Thailand),U
 KRNY,Kearny Financial Corp Common Stock,NASDAQ
 KRO,"Kronos Worldwide, Inc.",NYSE
 KROEF,KR1 PLC Ordinary Shares (Isle of Man),U
@@ -3392,7 +3397,6 @@ KTRPF,Kito Corp Ordinary shares (Japan),U
 KTWEF,Kintetsu World Express Inc Tokyo Ordinary Shares (Japan),U
 KTWIF,Kurita Water Inds Ltd Ordinary Shares,U
 KTWIY,Kurita Wtr Inds Ltd Unsponsored ADR (Japan),U
-KTYB,"Kentucky Bancshares, Inc. Common Stock",U
 KTYCF,KITS EYECARE LTD Common Stock,U
 KUASF,KUAISHOU TECHNOLOGY Ordinary Shares,U
 KUBTF,Kubota Corp Ordinary Shares,U
@@ -3492,7 +3496,7 @@ LAGR,L A Gear Inc Common Stock,U
 LAIMF,LINK-ASIA INTL MEDTECH GROUP LTD SHS NEW (Cayman Islands),U
 LAIX,LAIX Inc.,NYSE
 LAKE,"Lakeland Industries, Inc. Common Stock",NASDAQ
-LAKF,"Lake Forest Minerals, Inc. Common Stock",U
+LAKFD,The Healing Company Inc. Common Stock,U
 LAMR,Lamar Advertising Company Class A Common Stock,NASDAQ
 LANC,Lancaster Colony Corporation Common Stock,NASDAQ
 LAND,Gladstone Land Corporation Common Stock,NASDAQ
@@ -4269,6 +4273,7 @@ LYV,Live Nation Entertainment Inc.,NYSE
 LYXFF,LYXOR INDEX FUND SICAV SHS LYXOR IND FD DIS TEC E F DR U ETF USD ACC Exchange Traded Fund,U
 LYXIF,Lyxor International Asset Management FCP Units A  (France),U
 LYXMF,Multi Units Luxembourg SICAV Shs Lyxor EU High Rate MWG Bd 3 5Y Dr Acc ETF (Luxembourg),U
+LYXOF,LYXOR INDEX FUND SICAV SHS LYX FLOATING RATE NOTE UC ETF DIST Exchange Traded Fund,U
 LYXRF,Lyxor International Asset Mgmt CAC 40 Master Unit ETF Units -D- of Distribution (France),U
 LYXXF,Lyxor Ucits ETF MSCI AC Asia PAC Ex Japan FCP Units D Eur of Cap ET/OU (France),U
 LYYXF,Lyxor International Asset Management FCP Units D Eur of Capitalisation ET/OU (France),U
@@ -4344,6 +4349,7 @@ MANOF,Manolete Partners Plc Ord Shs (United Kingdom),U
 MANR,Manor Natl Bk Manor Pa Common Stock,U
 MANT,ManTech International Corporation Common Stock $0.01 Par Value,NASDAQ
 MANU,MANCHESTER UNITED PLC,NYSE
+MANVF,MANNING VENTURES INC Common Stock,U
 MANZF,"Manz Automation Ag, Reutlingen Ordinary shares (Germany)",U
 MAOFF,MAOYAN ENTMT Ordinary Shares,U
 MAOGY,Man SE Shs Unsponsored American Depository Receipt (Germany Federal Republic),U
@@ -5515,10 +5521,3 @@ MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
-MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
-MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
-MTENY,Mahanagar Telephone Nigam Ltd ADS,U
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U

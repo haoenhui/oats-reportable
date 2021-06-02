@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
@@ -452,6 +456,7 @@ SMHGF,SIMCERE PHARMACEUTICAL GROUP LTD Ordinary Shares Public Company Limited by
 SMHI,SEACOR Marine Holdings Inc. Common Stock,NYSE
 SMHRY,Smoore Intl Hldgs Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
 SMID,Smith-Midland Corporation Common Stock,NASDAQ
+SMIHU,Summit Healthcare Acquisition Corp. Units,NASDAQ
 SMIN,iShares MSCI India Small-Cap ETF,BATS
 SMIRF,SEMIRARA MINING & POWER CORP Ordinary Shares Philippines(PH ),U
 SMIT,"Schmitt Industries, Inc. Common Stock",NASDAQ
@@ -609,6 +614,7 @@ SNNAQ,"Sienna Biopharmaceuticals, Inc. Common Stock",U
 SNNC,"Sibannac, Inc. Common Stock",U
 SNNF,Seneca Finl Corp Common Stock,U
 SNNGF,PPX Mining Corp. Ordinary Shares,U
+SNNHF,Kingwell Group Ltd. Ordinary Shares (Cayman Islands),U
 SNNJF,Sennen Potash Corporation Common Shares,U
 SNNN,Sinorama Corp Common Stock,U
 SNNSF,SENSEN NETWORKS LTD Ordinary Shares,U
@@ -796,6 +802,7 @@ SPBV,"Sports Pouch Beverage Company, Inc. Common Stock",U
 SPCB,"SuperCom, Ltd. Ordinary Shares (Israel)",NASDAQ
 SPCE,"Virgin Galactic Holdings, Inc.",NYSE
 SPCGF,SPCG Public Co Ltd non-voting depository rcpts (Thailand),U
+SPCNF,SPC NICKEL CORP Ordinary Shares,U
 SPCO,Stephan Company (The) Common Stock,U
 SPCX,The SPAC and New Issue ETF,ARCA
 SPD,Simplify US Equity PLUS Downside Convexity ETF,ARCA
@@ -1280,9 +1287,6 @@ STHC,"Southcorp Capital, Inc. Common Stock",U
 STHHF,Steinhoff Intl Hldgs NV Ordinary Shares (Netherlands),U
 STHI,SPROUT TINY HOMES Common Stock,U
 STHLW,Stearns Holdings LLC Warrant Exp 11/05/2039,U
-STIC,Northern Star Acquisition Corp.,NYSE
-STIC U,"Northern Star Acquisition Corp. Units, each consisting of one share of common stock and one-third of",NYSE
-STIC WS,"Northern Star Acquisition Corp. Redeemable warrants, each whole warrant exercisable for shares of Cl",NYSE
 STIE,Santaro Interactive Entertainment Co. Common Stock,U
 STIM,"Neuronetics, Inc. Common Stock",NASDAQ
 STINF,Smithson Investment Trust PLC Ordinary Shares (United Kingdom),U
@@ -1483,7 +1487,6 @@ SUUIF,Superior Plus Corp. Ordinary Shares (Canada),U
 SUVPF,Sartorius Ag Preferred Stock,U
 SUVZ,Suvanza Common Stock,U
 SUWN,"Sunwin Stevia International, Inc. Common Stock",U
-SUWTF,Sun Wa Technos Corp SHS (Japan),U
 SUZ,Suzano S.A. American Depositary Shares (each representing one Ordinary Share ) representing one Ordi,NYSE
 SUZQF,Suez Cement Company SAE Sponsored Reg S GDR (Egypt),U
 SUZRY,Sulzer AG Unsponsored ADR (Switzerland),U
@@ -2620,7 +2623,6 @@ TPDKY,Topdanmark AS Unsponsored ADR (Denmark),U
 TPDNF,Topdanmark AS Common Shares (Denmark),U
 TPFDF,THAI PRESIDENT FOODS PUB CO LTD NVDR SHARES Depositary Receipts,U
 TPFPF,Thai President Foods Pcl Common Shares (Thailand),U
-TPGPF,TP GROUP PLC SHS (United Kingdom),U
 TPGS,TPG Pace Solutions Corp.,NYSE
 TPGTF,TPG Telecom Ltd Ordinary Shares (Australia),U
 TPGVF,Top Glove Corporation BHD Ordinary Shares (Malaysia),U
@@ -3962,7 +3964,6 @@ VKGLF,VIKING LINE AB SHS (Finland),U
 VKI,Invesco Advantage Municipal Income Trust II,AMEX
 VKIN,"Viking Energy Group, Inc. Common Stock",U
 VKMTF,NEVADA KING GOLD CORP Common Shares,U
-VKPPF,Vukile Property Fund Ltd Ordinary Shares (South Africa),U
 VKQ,Invesco Municipal Trust,NYSE
 VKSC,Viskase Companies Inc Common Stock,U
 VKSKF,VITAL KSK HLDGS INC Common Shares,U
@@ -4539,9 +4540,9 @@ WFHY,WisdomTree U.S. High Yield Corporate Bond Fund,BATS
 WFICF,Wall Finl Corp Canada Ordinary Shares (Canada),U
 WFIG,WisdomTree U.S. Corporate Bond Fund,BATS
 WFPCF,Schroder UK Pub Private Tr PLC Ordinary Shares,U
+WFRD,Weatherford International plc Ordinary Shares,NASDAQ
 WFRSF,West African Resources Limited,U
 WFSTF,Western Forest Products Inc Common Shares (Canada),U
-WFTLF,Weatherford International PLC Ordinary Shares New (Ireland),U
 WFTSF,"Wavefront Technology Solutions, Inc.  Ordinary Shares (Canada)",U
 WFTUF,Weatherford International PLC Warrants Expiring 12/13/2023,U
 WFVLF,Wellington Drive Technologies Ltd. Ordinary Shares (New Zealand),U
@@ -4766,7 +4767,6 @@ WPFH,"World Poker Fund Holdings, Inc. Common Stock",U
 WPG,Washington Prime Group Inc.,NYSE
 WPG PRH,Washington Prime Group Inc. 7.5% Series H Cumulative Redeemable Preferred Shares of Beneficial Inter,NYSE
 WPG PRI,Washington Prime Group Inc. 6.875% Series I Cumulative Redeemable Preferred Shares of Beneficial Int,NYSE
-WPGHF,WPG HOLDING CO LTD Ordinary Shares Taiwan(TW ),U
 WPHM,"Winston Pharmaceuticals, Inc. Common Stock",U
 WPKS,"World Poker Store, Inc. (The) Common Stock",U
 WPM,Wheaton Precious Metals Corp. Common Stock,NYSE
