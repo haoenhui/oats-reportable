@@ -187,7 +187,6 @@ MYCLF,Gallagher Security Corp. Ordinary Shares,U
 MYCOF,MYDECINE INNOVATIONS GROUP INC Ordinary Shares,U
 MYCX,MyCelx Technologies Corp Common Stock,U
 MYD,"Blackrock Muniyield Fund, Inc.",NYSE
-MYDIF,MYCONIC CAP CORP COM (Canada),U
 MYDX,"MyDx, Inc. Common Stock",U
 MYE,"Myers Industries, Inc.",NYSE
 MYFT,"My Freightworld Technologies, Inc. Common Stock",U
@@ -628,6 +627,7 @@ NIJPF,Nippon Paper Industries Co Ltd Ordinary Shares (Japan),U
 NIKLF,Nickel Rock Resources Inc. Ordinary Shares,U
 NILA,Nilam Resources Inc. Common Stock,U
 NILIF,SURGE BATTERY METALS INC Ordinary Shares,U
+NILRF,Nilar International AB Shares AK (Sweden),U
 NILSY,MMC Norilsk Nickel PJSC American Depositary Receipts - Sponsored,U
 NIM,Nuveen Select Maturities Municipal Fund,NYSE
 NIMC,NiSource Inc. Series A Corporate Units,NYSE
@@ -1033,7 +1033,7 @@ NSRGY,Nestle SA Sponsored ADR representing Registered Shares Series B (Switzerla
 NSRPF,Novo Res Corp Common shares (Canada),U
 NSRS,North Springs Resources Corp. Common Stock,U
 NSRWF,NOMAD RTY CO LTD Warrant   11/19/2022,U
-NSRXF,NOMAD RTY CO LTD Common Shares,U
+NSRXD,NOMAD RTY CO LTD Common Shares,U
 NSS,"NUSTAR LOGISTICS, L.P. 7.625% Fixed-to-Floating Rate Subordinated Notes due 2043",NYSE
 NSSC,"NAPCO Security Technologies, Inc. Common Stock",NASDAQ
 NSSXF,NS Solutions Corp Tokyo Ordinary Shares (Japan),U
@@ -1518,9 +1518,10 @@ OGEN,Oragenics Inc.,AMEX
 OGFGF,Origin Energy Ltd Ordinary Shares (Australia),U
 OGFGY,Origin Energy Ltd Ord Unsponsored ADR (Australia),U
 OGGFF,Organic Garage Ltd. Common Stock (Canada),U
+OGGNF,Origen Resources Inc New Common Shares (Canada),U
 OGI,Organigram Holdings Inc. Common Shares,NASDAQ
 OGIG,OShares Global Internet Giants ETF,BATS
-OGN WI,Organon & Co.,NYSE
+OGN,Organon & Co.,NYSE
 OGNG,Bravo Enterprises Ltd. Common Stock,U
 OGNT,Organa Technologies Group Inc New Common Stock,U
 OGOFF,Organto Foods Inc Common Shares,U
@@ -1992,7 +1993,7 @@ PACC,Pacific CMA Inc Common Stock,U
 PACE,TPG Pace Tech Opportunities Corp.,NYSE
 PACE U,"TPG Pace Tech Opportunities Corp. Units, each consisting of one Class A ordinary share and one-fifth",NYSE
 PACE WS,"TPG Pace Tech Opportunities Corp. Warrants, each whole warrant exercisable for one Class A ordinary",NYSE
-PACK,One Madison Corporation Class A Common Stock,NYSE
+PACK,Ranpak Holdings Corp.,NYSE
 PACO,Paco Integrated Energy Inc Common Stock,U
 PACQF,Prime Acquisition Corp. Ordinary Shares,U
 PACRF,Pac Roots Cannabis Corp Common Stock (Canada),U
@@ -5520,4 +5521,3 @@ SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
-SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ

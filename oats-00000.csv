@@ -20,7 +20,7 @@ AACQU,Artius Acquisition Inc. Unit,NASDAQ
 AACQW,Artius Acquisition Inc Warrant,NASDAQ
 AACS,"American Commerce Solutions, Inc. Common Stock",U
 AACTF,AURORA SOLAR TECHNOLOGIES INC  Common Shares,U
-AADR,AdvisorShares Dorsey Wright ADR ETF,ARCA
+AADR,AdvisorShares Dorsey Wright ADR ETF,NASDAQ
 AAEEF,Altair Res Inc Common Shares,U
 AAGC,All American Gold Corp. Common Stock,U
 AAGEF,AAG ENERGY HLDGS LTD Ordinary Shares (Cayman Islands),U
@@ -224,6 +224,7 @@ ACHC,"Acadia Healthcare Company, Inc. Common Stock",NASDAQ
 ACHFF,ARch Biopartners Inc. Ordinary Shares (Canada),U
 ACHKF,ACHIKO AG NAMEN AKT Ordinary Shares,U
 ACHL,Achilles Therapeutics plc American Depositary Shares,NASDAQ
+ACHN,Achison Inc. Common Class A,U
 ACHV,"Achieve Life Sciences, Inc. Common Shares",NASDAQ
 ACI,"Albertsons Companies, Inc.",NYSE
 ACIBF,ACCION IBEX 35 ETF FI Unit,U
@@ -667,7 +668,7 @@ AGM PRC,Federal Agricultural Mortgage Corporation 6.000% Fixed-to-Floating Rate 
 AGM PRD,"Federal Agricultural Mortgage Corporation 5.700% Non-Cumulative Preferred Stock, Series D",NYSE
 AGM PRE,"Federal Agricultural Mortgage Corporation 5.750% Non-Cumulative Preferred Stock, Series E",NYSE
 AGM PRF,"Federal Agricultural Mortgage Corporation 5.250% Non-Cumulative Preferred Stock, Series F",NYSE
-AGMGP,FEDERAL AGRIC MTG CORP NON CUMULATIVE PFD STK SER G,U
+AGM PRG,"Federal Agricultural Mortgage Corporation 4.875% Non-Cumulative Preferred Stock, Series G",NYSE
 AGMH,AGM Group Holdings Inc. Class A Ordinary Shares,NASDAQ
 AGMJF,Algoma Cent Corp (F) Ordinary Shares,U
 AGNC,AGNC Investment Corp. Common Stock,NASDAQ
@@ -778,7 +779,7 @@ AHT PRI,"Ashford Hospitality Trust, Inc. 7.50% Series I Cumulative Preferred Sto
 AHWSF,Athens Water & Sewage Public Co Eydap Ordinary Shares (Greece),U
 AI,"C3.ai, Inc.",NYSE
 AIA,iShares Asia 50 ETF,NASDAQ
-AIABF,Airasia Bhd Ordinary Shares (Malaysia),U
+AIABF,AirAsia Group BHD SHS (Malaysia),U
 AIAGF,Aurubis Ag Ordinary Shares (Germany),U
 AIAGY,Aurubis Ag Unsponsored ADR (Germany),U
 AIAPF,Ascential Group Ltd Ord GBP 0.10 Ordinary Shares (United Kingdom),U
@@ -3381,8 +3382,8 @@ BPHLF,Bank of the Philippine Islands BPI Ordinary Shares,U
 BPHLY,Bank of the Philippine Islands BPI Unsponsored ADR (Philippines),U
 BPHMF,BIOFERMIN PHARMACEUTICAL CO LTD SHS,U
 BPIGF,"BPI Energy Holdings, Inc. Ordinary Shares (Canada)",U
-BPIRD,Piraeus Financial Holdings S.A. American Depositary Receipts - Sponsored,U
 BPIRF,PIRAEUS FINL HLDGS S A Ordinary Shares,U
+BPIRY,Piraeus Financial Holdings S.A. American Depositary Receipts - Sponsored,U
 BPLNF,AMERICAN RARE EARTHS LTD Ordinary Shares,U
 BPMC,Blueprint Medicines Corporation Common Stock,NASDAQ
 BPMI,"Badger Paper Mills, Inc. Common Stock",U
@@ -4599,6 +4600,7 @@ CHAD,Direxion Daily CSI 300 China A Share Bear 1X Shares,ARCA
 CHAEF,CHINA AEROSPACE INTERNATIONAL HOLDINGS LTD SHS (Hong Kong),U
 CHAG,"Chancellor Group, Inc. Common Stock",U
 CHAJF,China Assets Holdings Ltd (Hk) Ordinary Shares,U
+CHALF,CHALICE BRANDS LTD Ordinary Shares,U
 CHAM,"Champion Investments, Inc. Common Stock",U
 CHAQ,Chardan Healthcare Acquisition 2 Corp.,AMEX
 CHAQ U,"Chardan Healthcare Acquisition 2 Corp. Units, each consisting of one share of Common Stock, and one",AMEX
@@ -5091,7 +5093,6 @@ CMCSA,Comcast Corporation Class A Common Stock,NASDAQ
 CMCT,CIM Commercial Trust Corporation Common stock,NASDAQ
 CMCTP,CIM Commercial Trust Corporation Series L Preferred Stock,NASDAQ
 CMCXF,CMC Metals Ltd Common Shares,U
-CMD,Cantel Medical Corporation,NYSE
 CMDKF,China Modern Dairy Holdings Ltd Ordinary Share (Cayman Islands),U
 CMDRF,Commander Resources Ltd Ordinary Shares,U
 CMDXF,Computer Modelling Group Ordinary Shares,U

@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
@@ -353,6 +352,7 @@ HFRO PRA,Highland Income Fund 5.375% Series A Cumulative Preferred Shares,NYSE
 HFUS,HARTFORD GREAT HEALTH CORP. Common Stock,U
 HFWA,Heritage Financial Corporation Common Stock,NASDAQ
 HFXI,IQ 50 Percent Hedged FTSE International ETF,ARCA
+HFZJF,HSBC ETFS PLC SHS ETF USD (Ireland),U
 HGBL,Heritage Global Inc. Common Stock,NASDAQ
 HGCTF,HG Capital Trust Ordinary Shares (United Kingdom),U
 HGDPF,SPAREBANK 1 HELGELAND Other,U
@@ -691,7 +691,7 @@ HOOB,"Holobeam, Inc. Common Stock",U
 HOOK,HOOKIPA Pharma Inc. Common Stock,NASDAQ
 HOPE,"Hope Bancorp, Inc. Common Stock",NASDAQ
 HOPHF,HEMOGENYX PHARMACEUTICALS PLC Ordinary Shares (United Kingdom),U
-HOPS,"Between Dandelions, Inc. Common Stock",U
+HOPS,OPTIMUS HEALTHCARE SVCS INC Common Stock,U
 HOSHF,HOSHINO RESORTS REIT INC Ordinary Shares,U
 HOSXF,Haci Omer Sabanci Hldgs Reg S American Depositary Shares,U
 HOTF,"Hot Mama's Foods, Inc. Common Stock",U
@@ -2205,7 +2205,6 @@ ITKH,Iteknik Holding Corporation Corporation Common Stock,U
 ITKSF,Independent Tankers Corporation Limited Ordinary shares (Bermuda),U
 ITLI,"Intelligentias, Inc. Common Stock",U
 ITLK,Interlink Products Intl Inc Common Stock,U
-ITLL,Intelligent Cloud Res Inc Common Stock,U
 ITM,VanEck Vectors Intermediate Muni ETF,BATS
 ITMC,Itoco Inc Common Stock,U
 ITMMF,"Itamar Medical, Ltd. Ordinary Shares (Israel)",U
@@ -3231,6 +3230,7 @@ KOLR,"Kolorfusion International, Inc. Common Stock",U
 KOMBY,Komercni Banka AS American Depositary Receipts - Unsponsored,U
 KOMP,SPDR S&P Kensho New Economies Composite ETF,ARCA
 KONA,"Kona Grill, Inc. Common Stock",U
+KONEF,KetamineOne Capital Ltd Common Stock,U
 KONMY,Konami Holdings Corporation ADS REPSTG 1/2 SH COM STK - Unsponsored (Japan),U
 KOOYF,"Kootenay Silver, Inc. Common Shares (Canada)",U
 KOP,"Koppers Holdings, Inc.",NYSE
@@ -3480,15 +3480,16 @@ KZIA,Kazia Therapeutics Limited American Depositary Shares,NASDAQ
 KZMYY,Kaz Minerals Plc American Depositary Receipts - Unsponsored,U
 KZR,"Kezar Life Sciences, Inc. Common Stock",NASDAQ
 L,Loews Corporation,NYSE
+LAAAU,Lakeshore Acquisition I Corp. Unit,NASDAQ
 LAAB,"Startech Labs, Inc. Common Stock",U
 LABD,Direxion Daily S&P Biotech Bear 3X Shares,ARCA
 LABFF,LABORATORIOS FARMACEUTICOS ROVI SA Ordinary Shares,U
 LABP,"Landos Biopharma, Inc. Common Stock",NASDAQ
 LABU,Direxion Daily S&P Biotech Bull 3X Shares,ARCA
 LAC,Lithium Americas Corp. Common Shares,NYSE
-LACQ,Leisure Acquisition Corp. Common Stock,NASDAQ
-LACQU,Leisure Acquisition Corp. Unit,NASDAQ
-LACQW,Leisure Acquisition Corp. Warrant,NASDAQ
+LACQ,Leisure Acquisition Corp. Common Stock,U
+LACQU,Leisure Acquisition Corp. Unit,U
+LACQW,Leisure Acquisition Corp. Warrant,U
 LAD,"Lithia Motors, Inc.",NYSE
 LADFF,New Carolin Gold Corp. Ordinary Shares,U
 LADR,LADDER CAPITAL CORP,NYSE
@@ -5371,7 +5372,6 @@ MRIRF,BMEX Gold Inc Ordinary Shares,U
 MRJOF,Purpose Marijuana Opportunities Fd Exchange Traded Fund,U
 MRJT,3D MAKERJET INC  Common Stock,U
 MRK,"Merck & Co., Inc.",NYSE
-MRK WI,"Merck & Co., Inc.",NYSE
 MRKR,"Marker Therapeutics, Inc. Common Stock",NASDAQ
 MRLLF,Minera IRL Ltd Shs (Jersey),U
 MRLLY,Minera IRL Ltd Unsponsored ADR (Jersey),U

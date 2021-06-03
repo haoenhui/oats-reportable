@@ -1031,7 +1031,6 @@ DFNS,LGL Systems Acquisition Corp.,NYSE
 DFNS U,LGL Systems Acquisition Corp. Units,NYSE
 DFNS WS,"LGL Systems Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of Clas",NYSE
 DFNV,TrimTabs Donoghue Forlines Risk Managed Innovation ETF,BATS
-DFODQ,Dean Foods Company Common Stock,U
 DFORF,D4T4 Solutions PLC Ordinary Shares (United Kingdom),U
 DFP,FLAHERTY & CRUMRINE DYNAMIC PREFERRED AND INCOME FUND INCORPORATED,NYSE
 DFPH,DFP Healthcare Acquisitions Corp. Class A Common Stock,NASDAQ
@@ -1300,6 +1299,7 @@ DMTGF,Daily Mail & General Trust plc Class A Ordinary Shares,U
 DMTK,"DermTech, Inc. Common Stock",NASDAQ
 DMTKW,DERMTECH INC Warrant   08/29/2024,U
 DMTRF,"3-D Matrix, Ltd. Shs (Japan)",U
+DMTTF,Small Pharma Inc Common Stock (Canada),U
 DMXF,iShares Trust iShares ESG Advanced MSCI EAFE ETF,NASDAQ
 DMYI,"dMY Technology Group, Inc. III",NYSE
 DMYI U,"dMY Technology Group, Inc. III Units, each consisting of one share of Class A common stock and one-f",NYSE
@@ -1452,7 +1452,7 @@ DRN,Direxion Daily Real Estate Bull 3X,ARCA
 DRNA,"Dicerna Pharmaceuticals, Inc. Common Stock",NASDAQ
 DRNG,"DRONE GUARDER, INC. Common Stock",U
 DRNK,"NoHo, Inc. Common Stock",U
-DROOF,Deliveroo Holdings PLC-A ORD GBP0.005 WI Ordinary Shares (United Kingdom),U
+DROOF,Deliveroo PLC Ordinary Shares,U
 DROP,"Fuse Science, Inc. Common Stock",U
 DRQ,"Dril-Quip, Inc.",NYSE
 DRRGF,DRAGONTAIL SYS LTD Ordinary Shares (Australia),U
@@ -2432,6 +2432,7 @@ EPHY,Epiphany Technology Acquisition Corp. Class A Common Stock,NASDAQ
 EPHYU,Epiphany Technology Acquisition Corp. Unit,NASDAQ
 EPHYW,Epiphany Technology Acquisition Corp. Warrant,NASDAQ
 EPI,WisdomTree India Earnings Fund ETF,ARCA
+EPIAF,EPIROC AKTIEBOLAG SHARE AK A (Sweden),U
 EPIBF,Epiroc Aktiebolag Share AK IL B (Sweden),U
 EPIRF,EPIROC AKTIEBOLAG SHARE AK IL A (Sweden),U
 EPIX,ESSA Pharma Inc. Common Stock,NASDAQ
@@ -4179,7 +4180,6 @@ FUPEF,Fuchs Petrolub AG Ordinary Shares,U
 FUPEY,Fuchs Petrolub SE Unsponsored ADR Representing Ordinary Shares (Germany Federal Republic),U
 FUPPF,Fuchs Petrolub AG OEL & Chemie Preference Shares Voting Rights (Germany),U
 FURCF,FAURECIA SE Ordinary Shares,U
-FURGF,Furgo Nv Ordinary Shares,U
 FURY,Fury Gold Mines Limited,AMEX
 FUSB,"First US Bancshares, Inc. Common Stock",NASDAQ
 FUSE,Fusion Acquisition Corp.,NYSE
@@ -4808,7 +4808,6 @@ GLD,"SPDR Gold Trust, SPDR Gold Shares",ARCA
 GLDAF,GLOBALDATA PLC SHS (United Kingdom),U
 GLDB,Strategy Shares Gold-Hedged Bond ETF,BATS
 GLDD,Great Lakes Dredge & Dock Corporation Common Stock,NASDAQ
-GLDFF,CHALICE BRANDS LTD Ordinary Shares,U
 GLDG,GoldMining Inc.,AMEX
 GLDI,"Credit Suisse X-Links Gold Shares Covered Call ETNs due February 2, 2033",NASDAQ
 GLDM,SPDR Gold MiniShares,ARCA
@@ -5521,3 +5520,4 @@ GVP,"GSE Systems, Inc. Common Stock",NASDAQ
 GVSI,Good Vibrations Shoes Inc. Common Stock,U
 GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
 GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
+GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
