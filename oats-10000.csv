@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
-GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
-GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
@@ -46,7 +43,7 @@ GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
 GXRFF,Prospera Energy Inc Common Shares,U
 GXSBF,Geox Spa Ordinary Shares (Italy),U
 GXSBY,Geox Spa Unsponsored ADR (Italy),U
-GXSFF,Goldsource Mines Inc Ordinary Shares (Canada),U
+GXSFD,Goldsource Mines Inc Common Shares,U
 GXTG,Global X Funds Global X Thematic Growth ETF,NASDAQ
 GXXFF,Gold Basin Resources Corp Common Shares (Canada),U
 GXXM,Gex Mgmt Inc Common Stock,U
@@ -1016,6 +1013,7 @@ HYGN,Hydrogenetics Inc Common Stock,U
 HYGV,FlexShares High Yield Value-Scored Bond Index Fund,ARCA
 HYHDF,SIXTY SIX CAP INC Ordinary Shares,U
 HYHG,ProShares High Yield-Interest Rate Hedged ETF,BATS
+HYHHF,HYGEIA  HEALTHCARE HOLDINGS CO LTD USD ORD SHS (Cayman Islands),U
 HYHY,"Hydrogen  Hybrid Technologies, Inc. Common Stock",U
 HYI,Western Asset High Yield Defined Opportunity Fund Inc.,NYSE
 HYII,"All Grade Mining, Inc. Common Stock",U
@@ -1196,6 +1194,7 @@ ICAD,"iCAD, Inc. Common Stock",NASDAQ
 ICAEF,Empresas Ica Soc Contrladora Ordinary Shares,U
 ICAGY,International Consolidated Airlines Group SA Sponsored American Depository Receipt (Spain),U
 ICAYY,Empresas Ica Sociedad Contrladora SAB De CV Sponsored ADR (Mexico),U
+ICBIF,ISHARES III PLC INTERMEDIATE CREDIT BOND UCITS ETF (Ireland),U
 ICBK,"County Bancorp, Inc. Common Stock",NASDAQ
 ICBT,ICBS Ltd. Common Stock,U
 ICBU,"IMD Companies, Inc.  Common Stock",U
@@ -1676,7 +1675,7 @@ IMTX,Immatics N.V. Ordinary Shares,NASDAQ
 IMTXW,Immatics N.V. Warrants,NASDAQ
 IMUC,IMMUNOCELLULAR THERAPEUTICS LTD Common Stock,U
 IMUCW,IMMUNOCELLULAR THERAPEUTICS LTD Warrant   08/12/2021,U
-IMUND,"Immune Therapeutics, Inc. Common Stock",U
+IMUN,"Immune Therapeutics, Inc. Common Stock",U
 IMUX,"Immunic, Inc. Common Stock",NASDAQ
 IMV,IMV Inc. Common Shares,NASDAQ
 IMVEF,Ishares Vi Plc Edge Msci Europe Minimum Volatility Ucits Exchange Traded Fund (Ireland),U
@@ -2000,7 +1999,10 @@ IRRRF,iShares III plc Core MSCI World UCITS ETF (Ireland),U
 IRS,IRSA Inversiones y Representaciones S.A. Global Depositary Shares,NYSE
 IRS WS,IRSA Inversiones y Representaciones S.A. Warrants to purchase Common Shares,NYSE
 IRSHF,iShares Core S&P/TSX Capped Composite Index ETF (Canada),U
+IRSIF,ISHARES IV PLC FALLEN ANGELS HIGH YIELD CORP BOND UCITS ETF USD (ACC) (Ireland),U
+IRSJF,ISHARES II PLC JP MORGAN ESG EM BOND UCITS ETF USD ACC (Ireland),U
 IRSSY,IRESS LTD  American Depositary Receipts - Unsponsored (Australia),U
+IRSVF,ISHARES V PLC MSCI WORLD HEALTH CARE SECTOR UCITS ETF USD DIST (Ireland),U
 IRT,Independence Realty Trust Inc.,NYSE
 IRTC,"iRhythm Technologies, Inc. Common Stock",NASDAQ
 IRVDF,IRONVELD PLC Ordinary Shares (United Kingdom),U
@@ -2184,6 +2186,7 @@ ITCJ,Flexxtech Corporation Common Stock,U
 ITDN,Interdyne Company Common Stock,U
 ITEC,"Intertech Solutions , Inc.  NEW  Common",U
 ITEGY,Hyve Group Plc American Depositary Receipts - Unsponsored,U
+ITENF,Itochu Enex Co Ltd. Ordinary Shares (Japan),U
 ITEPF,Hyve Group Plc Ordinary Shares,U
 ITEQ,BlueStar Israel Technology ETF,ARCA
 ITEX,ITEX Corporation Common Stock,U
@@ -2511,7 +2514,7 @@ JEQ,ABERDEEN JAPAN EQUITY FUND,NYSE
 JERT,"JER Investors Trust, Inc. New Common Stock",U
 JESCF,JP MORGAN EUROPEAN SMALLER COS TR PLC SHS (United Kingdom),U
 JETGF,JPMorgan Fleming Continental European Investment Trust Plc Shs-Growth-Class (United Kingdom),U
-JETKY,Just Eat Takeaway.com N.V. American Depositary Receipts - Sponsored,U
+JETKD,Just Eat Takeaway.com N.V. American Depositary Receipts - Sponsored,U
 JETMF,Global Crossing Airlines Group Inc.  Ordinary Shares,U
 JETR,"Star Jets International, Inc. Common Stock",U
 JETS,U.S. Global Jets ETF,ARCA
@@ -2672,6 +2675,7 @@ JOF,JAPAN SMALLER CAPITALIZATION FUND,NYSE
 JOFF,JOFF Fintech Acquisition Corp. Class A Common Stock,NASDAQ
 JOFFU,JOFF Fintech Acquisition Corp. Unit,NASDAQ
 JOFFW,JOFF Fintech Acquisition Corp. Warrant,NASDAQ
+JOLCF,JOINN LABORATORIES CHINA CO LTD SHS (China),U
 JORFF,Jourdan Resources Inc. Common Stock (Canada),U
 JOSMF,Josemaria Res Inc Ordinary Shares,U
 JOUT,Johnson Outdoors Inc. Class A Common Stock,NASDAQ
@@ -2813,9 +2817,6 @@ JWEL,Jowell Global Ltd. Ordinary Shares,NASDAQ
 JWHI,Jin Wan Hong International Holdings Limited Common Stock,U
 JWLLF,Jamieson Wellness Inc COM (Canada),U
 JWN,"Nordstrom, Inc.",NYSE
-JWS,Jaws Acquisition Corp.,NYSE
-JWS U,"Jaws Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one red",NYSE
-JWS WS,"Jaws Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary",NYSE
 JWSM,Jaws Mustang Acquisition Corp.,NYSE
 JWSM U,"Jaws Mustang Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-fourth",NYSE
 JWSM WS,"Jaws Mustang Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A o",NYSE
@@ -2902,6 +2903,7 @@ KBGCF,Kings Bay Res Corp Ordinary Shares,U
 KBH,KB Home,NYSE
 KBKCP,KBK Capital Corporation 9.50% Trust Preferred Securities due 11/30/2028,U
 KBLB,"Kraig Biocraft Laboratories, Inc. Common Stock",U
+KBND,KraneShares Bloomberg Barclays China Bond Inclusion Index ETF,ARCA
 KBNT,"Kubient, Inc. Common Stock",NASDAQ
 KBNTW,"Kubient, Inc. Warrant",NASDAQ
 KBPH,"Kyto Technology and Life Science, Inc. Common Stock",U
@@ -2933,7 +2935,6 @@ KCIGF,Karelia Tobacco Co Inc Ordinary Shares (Greece),U
 KCKSF,Keck Seng Investments Ordinary Shares,U
 KCLI,Kansas City Life Insurance Co Common Stock,U
 KCMH,KCM Holdings Corporation Common Stock,U
-KCNY,KraneShares E Fund China Commercial Paper ETF,ARCA
 KCPC,Key Capital Corp. New Common Stock,U
 KDCCF,KADESTONE CAP CORP Common Shares,U
 KDCE,Kid Castle Educational Corporation Common Stock,U
@@ -3028,6 +3029,7 @@ KGTLF,Krung Thai Bank Public Company Limited Ordinary Shares (Thailand),U
 KHC,The Kraft Heinz Company Common Stock,NASDAQ
 KHDHF,KHD Humboldt Wedag International AG Ordinary Shares (Germany),U
 KHEXF,Keikyu Corp Ordinary Shares (Japan),U
+KHJCF,Kohnan Shoji Co Ltd Ordinary Shares (Japan),U
 KHNGF,Kuehne & Nagel International Ag Schindellegi Namen-Akt. Shares (Switzerland),U
 KHNGY,Kuehne & Nagel International Ag Schindellegi Unsponsored ADR (Switzerland),U
 KHNRF,Keihan Electric Railway Co Ltd Ordinary Shares (Japan),U
@@ -3727,6 +3729,7 @@ LGBS,"Legends Business Group, Inc. Common Stock",U
 LGBT,Procure ETF Trust I LGBTQ + ESG100 ETF,NASDAQ
 LGCHF,LCT Hldgs Ltd Ordinary Shares,U
 LGCLF,LG Chem Ltd Ordinary Shares (South Korea),U
+LGCOF,LG Corp PFD Shs Non-Voting (South Republic of Korea),U
 LGCP,LEGION CAP CORP Common Stock,U
 LGDDF,Lagardere Groupe Sca Fgn Ordinary Shares,U
 LGDTF,Liberty Gold Corp Common Shares,U
@@ -4900,7 +4903,7 @@ MINC,AdvisorShares Newfleet Multi-Sector Income ETF,ARCA
 MIND,"MIND Technology, Inc. Common Stock (DE)",NASDAQ
 MINDP,MIND Technology Inc. Series A 9.00% Series A Cumulative Preferred Stock (DE),NASDAQ
 MINE,"Minerco, Inc. Common Stock",U
-MINM,Zoom Telephonics Inc. Common Stock,U
+MINM,"Minim, Inc. Common Stock",U
 MINN,Mairs & Power Minnesota Municipal Bond ETF,BATS
 MINOF,Minor International Public Co Ltd Ordinary Shares (Thailand),U
 MINRF,Minor International Public Co Ltd. Local Warrant Exp. 07/31/2023,U
@@ -5521,3 +5524,4 @@ MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
+MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U

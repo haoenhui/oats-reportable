@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
@@ -302,6 +301,10 @@ NBIAY,Nobia AB Unsponsored ADR (Sweden),U
 NBIO,Nascent Biotech Inc. Common Stock,U
 NBIX,"Neurocrine Biosciences, Inc. Common Stock",NASDAQ
 NBKCF,NATIONAL BK CDA MONTREAL QUE 1ST PFD SHS SER 38 NVCC Preferred Stock Canada(CA ),U
+NBLCF,Nobel Corp New Common Shares (Cayman Islands),U
+NBLRF,Nobel Corp New Tranche 2 Warrant Exp 02/04/2028 (Cayman Islands),U
+NBLTF,Nobel Corp New Tranche 1 Warrant Exp 02/04/2028 (Cayman Islands),U
+NBLWF,Nobel Corp New Tranche 3 Warrant Exp 02/04/2026 (Cayman Islands),U
 NBMFF,NEO BATTERY MATLS LTD Common Shares,U
 NBMLF,Noble Metal Group Inc Ordinary Shares,U
 NBN,Northeast Bank Common Stock,NASDAQ
@@ -1184,6 +1187,7 @@ NUWEW,NUWELLIS INC Warrant,U
 NUWHF,NU-WORLD HOLDINGS SHS (South Africa),U
 NUZE,"NuZee, Inc. Common Stock",NASDAQ
 NVAAF,Nova Minerals Ltd. Ordinary Shares,U
+NVACF,NOVA CANNABIS INC Ordinary Shares,U
 NVAX,"Novavax, Inc. Common Stock",NASDAQ
 NVCN,Neovasc Inc. Common Shares,NASDAQ
 NVCP,NVCN Corporation Common Stock,U
@@ -1274,7 +1278,6 @@ NWPIF,ClearStream Energy Services Inc. Common Shares,U
 NWPN,Now Corporation (The) Common Stock,U
 NWPP,"New Peoples Bankshares, Inc Common Stock",U
 NWPX,Northwest Pipe Company Common Stock,NASDAQ
-NWQZF,BEST PAC INTL HLDGS LTD Ordinary Shares (Cayman Islands),U
 NWRCF,KENORLAND MINERALS LTD NEW Common Stock,U
 NWRLY,New World Department Store China Ltd. Unsponsored ADR (Cayman Islands),U
 NWS,News Corporation Class B Common Stock,NASDAQ
@@ -2863,6 +2866,7 @@ PNTG,"The Pennant Group, Inc. Common Stock",NASDAQ
 PNTM,Pontem Corporation,NYSE
 PNTM U,"Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeem",NYSE
 PNTM WS,"Pontem Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exe",NYSE
+PNTOF,Pantoro Ltd. Ordinary Shares (Australia),U
 PNTZF,Trigon Metals Inc. Ordinary Shares,U
 PNW,Pinnacle West Capital Corporation,NYSE
 PNWDF,PNE AG Ordinary Shares,U
@@ -2885,6 +2889,7 @@ POETF,Poet Technologies Inc.  Common (Canada),U
 POFCF,Petrofac Ltd London Ordinary Shares (United Kingdom),U
 POFCY,Petrofac Ltd London Unsponsored American Depository Receipt (Jersey),U
 POFPF,Power Financial Corporation 6% Preferred Series I (Canada),U
+POGHF,Pilot Corp Ordinary Shares (Japan),U
 POGS,Pioneer Oil & Gas Common Stock,U
 POGWF,Polish Oil and Gas Company Ordinary Shares (Poland),U
 POGWY,Polskie Gornictwo Naftowe I Gazownictwo SA (Polish Oil and Gas Company) Unsponsored ADR (Poland),U
@@ -3373,6 +3378,7 @@ PTMEY,PT Media Nusantara Citra TBK Unsponsored ADR (Indonesia),U
 PTMIF,PT MANDOM INDONESIA TBK Ordinary Shares  (Indonesia),U
 PTMKF,PT Ultrajaya Milk Industry and Trading Co Ordinary Shares (Indonesia),U
 PTMN,Portman Ridge Finance Corporation Common Stock,NASDAQ
+PTMRF,PT MITRA PINASTKIKA MUSTIKA TBK Ordinary Shares (Indonesia),U
 PTMSY,PT Matahari Department Store TBK American Despositary Share (Unsponsored) (Indonesia),U
 PTMYF,PT MAYORA INDAH SHS (Indonesia),U
 PTN,"Palatin Technologies, Inc.",AMEX
@@ -3821,7 +3827,7 @@ RABSF,RREF II AL BRECK SOCIMI S A U Ordinary Shares,U
 RACA,Therapeutics Acquisition Corp. Class A Common Stock,NASDAQ
 RACB,Research Alliance Corp. II Class A Common Stock,NASDAQ
 RACE,Ferrari N.V.,NYSE
-RACMF,"Loop Insights, Inc. Common Shares",U
+RACMF,FOBI AI INC Common Shares,U
 RAD,Rite Aid Corporation,NYSE
 RADA,RADA Electronic Industries Ltd. Ordinary Shares,NASDAQ
 RADI,"Radius Global Infrastructure, Inc. Class A Common Stock",NASDAQ
@@ -3956,6 +3962,7 @@ RCMW,"RCMW Group, Inc. Common Stock",U
 RCON,"Recon Technology, Ltd. Class A Ordinary Shares",NASDAQ
 RCPHF,RECIPHARM AB SHS -B- (Sweden),U
 RCPIQ,"Rock Creek Pharmaceuticals, Inc. Common Stock",U
+RCPPP,Ready Capital Corp 6.5% Cum Red Series E Preferred Stock,U
 RCPUF,RECIPE UNLIMITED CORP Common Shares  Canada(CA ),U
 RCRRF,Recruit Hldgs Co Ltd Ordinary Shares (Japan),U
 RCRT,"Recruiter.com Group, Inc. Common Stock",U
@@ -4573,7 +4580,6 @@ RRSFF,RRITUAL SUPERFOODS INC Common Shares,U
 RRSSF,NEOMETALS LTD  Ordinary Shares,U
 RRTS,ROADRUNNER TRANSN SYS INC Common Stock,U
 RS,Reliance Steel & Aluminium Co.,NYSE
-RSAIF,RSA Insurance Group PLC  Ordinary Shares,U
 RSAM,"Rising Sun Bancorp (Rising Sun, MD) Common Stock",U
 RSASF,"Resaas Services, Inc. Ordinary Shares (Canada)",U
 RSAU,Rooshine Inc. Common Stock,U
@@ -5519,5 +5525,3 @@ SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
-SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
-SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U

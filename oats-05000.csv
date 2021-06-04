@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
 CPCC,"Striper Energy, Inc. Common Stock",U
@@ -246,6 +247,7 @@ CRU U,"Crucible Acquisition Corporation Units, each consisting of one share of C
 CRU WS,"Crucible Acquisition Corporation Redeemable warrants, each whole warrant exercisable for one share o",NYSE
 CRUCF,Colibri Resource Corp Common Shares,U
 CRUS,"Cirrus Logic, Inc. Common Stock",NASDAQ
+CRUZ,"Defiance Hotel, Airline, and Cruise ETF",ARCA
 CRVH,Chilco River Holdings Inc. Common Stock,U
 CRVL,CorVel Corp. Common Stock,NASDAQ
 CRVS,"Corvus Pharmaceuticals, Inc. Common Stock",NASDAQ
@@ -819,7 +821,7 @@ DBBPF,Double Bd Pharmaeutical Intl AB Ordinary Shares B (Sweden),U
 DBC,Invesco DB Commodity Index Tracking Fund,ARCA
 DBCCF,Decibel Cannabis Co Inc Common Shares,U
 DBD,Diebold Nixdorf Incorporated,NYSE
-DBDID,WESANA HEALTH HLDGS INC Common Shares,U
+DBDIF,WESANA HEALTH HLDGS INC Common Shares,U
 DBDR,Roman DBDR Tech Acquisition Corp. Class A Common Stock,NASDAQ
 DBDRU,Roman DBDR Tech Acquisition Corp. Unit,NASDAQ
 DBDRW,Roman DBDR Tech Acquisition Corp. Warrant,NASDAQ
@@ -1175,6 +1177,7 @@ DJCO,Daily Journal Corp. (S.C.) Common Stock,NASDAQ
 DJD,Invesco Dow Jones Industrial Average Dividend ETF,ARCA
 DJIFF,Dajin Lithium Corp Ordinary Shares,U
 DJP,"iPath Bloomberg Commodity Index Total Return ETN due June 12, 2036",ARCA
+DJSCF,ISHARES PLC SHS EUR ETF (Ireland),U
 DJSP,"DJSP Enterprises, Inc",U
 DJUL,FT Cboe Vest U.S. Equity Deep Buffer ETF - July,BATS
 DJUN,FT Cboe Vest U.S. Equity Deep Buffer ETF - June,BATS
@@ -1411,7 +1414,7 @@ DPNEY,Daphne International Holdings Ltd. Unsponsored ADR (Cayman Islands),U
 DPSGY,Deutsche Post AG Sponsored ADR (Germany),U
 DPSI,"DecisionPoint Systems, Inc. Common Stock",U
 DPSIP,"DecisionPoint Systems, Inc. Pfd Conv Ser D 8%",U
-DPSM,3D Pioneer Systems Inc. Common Stock,U
+DPSMD,3D Pioneer Systems Inc. Common Stock,U
 DPST,Direxion Daily Regional Banks Bull 3X Shares,ARCA
 DPSTF,Deutsche Post Ag Ordinary Shares,U
 DPUI,DISCOUNT PRINT USA INC Common Stock,U
@@ -2285,6 +2288,7 @@ EMYB,Embassy Bancorp Inc. Common Stock,U
 EMYIF,Euromoney Institutional Investor PLC Ordinary Shares (UK),U
 EMYSF,Easy Technologies Inc Common Shares,U
 ENAB,"Enable Holdings, Inc. Common Stock",U
+ENADF,Enad Global 7 AB Ordinary Shares AK (Sweden),U
 ENAFF,Enablence Technologies Inc Ordinary Shares (Canada),U
 ENAKF,E ON Aktiengesellschaft EON Namen-AKT,U
 ENB,"Enbridge, Inc",NYSE
@@ -2331,7 +2335,6 @@ ENIC,Enel Chile S.A. American Depositary Shares Representing Common Stock (Each 
 ENIGF,ENIGMO INC Common Stock,U
 ENIHF,EAGLE NICE INTL HOLDINGS LTD Ordinary Shares,U
 ENJ,"Entergy New Orleans, LLC First Mortgage Bonds, 5.0% Series due December 1, 2052",NYSE
-ENJPF,En-Japan Inc Tokyo Common Stock,U
 ENJPY,EN-JAPAN INC ADR (Japan),U
 ENKS,"Enerkon Solar International, Inc. Common Stock",U
 ENLAY,Enel Societa Per Azioni Unsponsored ADR (Italy),U
@@ -3239,7 +3242,6 @@ FEO,First Trust/Aberdeen Emerging Opportunity Fund,NYSE
 FEOVF,Oceanic Iron Ore Corp. Ordinary Shares (Canada),U
 FEP,First Trust Europe AlphaDEX Fund,NASDAQ
 FEPTY,Far East Pharmaceutical Technology Company Ltd Sponsored ADR (Cayman Islands),U
-FEQT,First Equities Corp Common Stock,U
 FERD,Ferd Corp. Common Stock,U
 FERG,Ferguson plc,NYSE
 FERL,"FEARLESS FILMS, INC. Common Stock",U
@@ -4051,7 +4053,6 @@ FSVEF,Firestone Ventures Inc Ordinary Shares,U
 FSWA,First Sound Bank (WA) Common Stock,U
 FSXLF,FOSTERVILLE SOUTH EXPL LTD CL A Common Shares,U
 FSXXF,First Sensor AG O.N. (Germany Federal Republic),U
-FSYSF,"Flight System Consulting Inc, Tokyo Ordinary Shares (Japan)",U
 FSZ,First Trust Switzerland AlphaDex Fund,NASDAQ
 FT,Franklin Universal Trust Shares of Beneficial Interest,NYSE
 FTA,First Trust Large Cap Value AlphaDEX Fund,NASDAQ
@@ -5451,6 +5452,7 @@ GTPB,"Gores Technology Partners II, Inc. Class A Common Stock",NASDAQ
 GTPBU,"Gores Technology Partners II, Inc. Units",NASDAQ
 GTPBW,"Gores Technology Partners II, Inc. Warrant",NASDAQ
 GTPS,"Great American Bancorp, Inc. (DE) Common Stock",U
+GTRIF,"GTI RESOURCES LTD, PERTH WA SHS (Australia)",U
 GTRL,"Get Real USA, Inc Common Stock",U
 GTRR,GLOBAL TIRE RECYCLING SUMTER CNTY INC Common Stock,U
 GTS,Triple-S Management Corporation,NYSE
@@ -5521,3 +5523,6 @@ GVSI,Good Vibrations Shoes Inc. Common Stock,U
 GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
 GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
 GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
+GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
+GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
+GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U

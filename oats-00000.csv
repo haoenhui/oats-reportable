@@ -1216,6 +1216,7 @@ AMNE,American Green Group Inc New Common Stock,U
 AMNF,"Armanino Foods of Distinction, Inc. New Common Stock",U
 AMNL,"Applied Minerals, Inc. Common Stock",U
 AMNP,American Sierra Gold Corp. Common Stock,U
+AMNTF,ASIA CEMENT CHINA HOLDINGS CORPORATION SHS (Cayman Islands),U
 AMNZF,AMBRIAN PLC Ordinary Shares (United Kingdom),U
 AMOM,Qraft AI-Enhanced US Large Cap Momentum ETF,ARCA
 AMOSF,Atomos Ltd Ordinary Shares (Australia),U
@@ -1484,6 +1485,7 @@ APPEF,Appen Ltd Common Shares,U
 APPF,"AppFolio, Inc. Class A Common Stock",NASDAQ
 APPH,"AppHarvest, Inc. Common Stock",NASDAQ
 APPHW,"AppHarvest, Inc. Warrants",NASDAQ
+APPIF,APPIER GROUP INC Common Stock (Japan),U
 APPM,"Apparel Manufacturing Associates, Inc. Common Stock",U
 APPN,Appian Corporation Class A Common Stock,NASDAQ
 APPS,"Digital Turbine, Inc. Common Stock",NASDAQ
@@ -2443,7 +2445,6 @@ BBAGF,BB Biotech AG Schaffhausen Namen - AKT,U
 BBAJF,Banco Del Bajio Shares of Banks (Mexico),U
 BBAL,"New York Health Care, Inc. Common Stock",U
 BBAR,Banco BBVA Argentina S.A.,NYSE
-BBAVF,Signature Aviation PLC  Ordinary Shares,U
 BBAVY,Signature Aviation PLC American Depositary Receipts - Unsponsored,U
 BBAX,JPMorgan BetaBuilders Developed Asia-ex Japan ETF,BATS
 BBBK,Baker Boyer Bancorp Common Stock,U
@@ -3216,7 +3217,7 @@ BMTM,"Bright Mountain Media, Inc. Common Stock",U
 BMTX,"BM Technologies, Inc.",AMEX
 BMTX WS,"BM Technologies, Inc. Warrants, each warrant exercisable for one share of Common Stock at an exercis",AMEX
 BMWYY,Bayerische Motoren Werke Ag Pf American Depositary Receipts - Sponsored (Germany),U
-BMXC,BEMAX INC Common Stock,U
+BMXCD,BEMAX INC Common Stock,U
 BMXI,Brookmount Explorations Inc. Common Stock,U
 BMXMF,Biomerieux 69 Marcy L'Etoile Ordinary Shares,U
 BMXXY,BIOMERIEUX S A American Depositary Receipts - Unsponsored (France),U
@@ -3979,6 +3980,8 @@ CANF,Can-Fite BioPharma Ltd.,AMEX
 CANG,"Cango Inc. American Depositary Shares,  each representing two (2) Class A Ordinary Shares",NYSE
 CANL,CannLabs Inc. Common,U
 CANN,General Cannabis Corp. Common Stock,U
+CANO,"Cano Health, Inc.",NYSE
+CANO WS,"Cano Health, Inc. Redeemable Warrants, each whole warrant exercisable for one Class A Common Stock a",NYSE
 CANOF,California Nanotechnologies Corp Common Shares (Canada),U
 CANQF,CanaQuest Medical Corporation Ordinary Shares,U
 CANSF,Willow Biosciences Inc Ordinary Shares,U
@@ -4189,7 +4192,6 @@ CCCMF,Cancom AG Ordinary Shares (Germany),U
 CCCP,Crona Corp Common Stock,U
 CCD,Calamos Dynamic Convertible & Income Fund Common Stock,NASDAQ
 CCDBF,Ccl Inds Inc Cl B Cda Ordinary Shares,U
-CCDCF,CHOICE CONSLDTN CORP UNIT 1 CL A RESTRICTED VTG & 1/4 WT EXP Unit,U
 CCEDF,Cascadero Copper Corp Common Shares (Canada),U
 CCEGF,Carclo Engr Grp Plc Ord Ordinary Shares,U
 CCEL,"Cryo-Cell International, Inc. Common Stock",U
@@ -4352,8 +4354,10 @@ CDW,CDW Corporation Common Stock,NASDAQ
 CDWD,"Cloudward, Inc. Common Stock",U
 CDWHF,CDW HOLDING LIMITED Ordinary Shares,U
 CDXC,ChromaDex Corporation Common Stock,NASDAQ
+CDXFF,Cloud DX Inc Common Shares (Canada),U
 CDXI,"Cardax, Inc. Common Stock",U
 CDXS,"Codexis, Inc. Common Stock",NASDAQ
+CDXXF,CHOICE CONSLDTN CORP UNIT 1 CL A RESTRICTED VTG & 1/4 WT EXP Unit,U
 CDYCF,Cardero Resource Corporation Ordinary Shares,U
 CDZI,"CADIZ, Inc. Common Stock",NASDAQ
 CE,Celanese Corporation Common Stock,NYSE
@@ -4948,7 +4952,7 @@ CLFMF,iShares 1-5 Year Laddered Government Bond ETF (Canada),U
 CLGCF,CLARITY GOLD CORP Common Shares,U
 CLGDF,ARIS GOLD CORP Warrant,U
 CLGMF,Cleghorn Minerals Ordinary Shares (Canada),U
-CLGN,CollPlant Biotechnologies Ltd American Depositary Shares,NASDAQ
+CLGN,CollPlant Biotechnologies Ltd Ordinary Shares,NASDAQ
 CLGPF,Clean Seed Cap Group Ltd Common Shares (Canada),U
 CLGUF,CLOUD NINE WEB3 TECHNOLOGIES INC Common Shares,U
 CLGX,"Corelogic, Inc.",NYSE
@@ -5093,6 +5097,7 @@ CMCSA,Comcast Corporation Class A Common Stock,NASDAQ
 CMCT,CIM Commercial Trust Corporation Common stock,NASDAQ
 CMCTP,CIM Commercial Trust Corporation Series L Preferred Stock,NASDAQ
 CMCXF,CMC Metals Ltd Common Shares,U
+CMCZ,CURTIS MATHES CORP FLA Common Stock,U
 CMDKF,China Modern Dairy Holdings Ltd Ordinary Share (Cayman Islands),U
 CMDRF,Commander Resources Ltd Ordinary Shares,U
 CMDXF,Computer Modelling Group Ordinary Shares,U
@@ -5521,4 +5526,3 @@ CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
-CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U

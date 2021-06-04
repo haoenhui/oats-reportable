@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
+SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
@@ -428,7 +430,7 @@ SMDD,ProShares UltraPro Short MidCap400,ARCA
 SMDM,"Singing Machine Company, Inc. (The) Common Stock",U
 SMDPY,SUMITOMO DAINIPPON PHARMA CO LTD  American Depositary Receipts - Unsponsored (Japan),U
 SMDV,ProShares Russell 2000 Dividend Growers ETF,BATS
-SMDXF,Sierra Madre Development Inc Common Shares,U
+SMDXD,Goldshore Resources Inc Common Shares,U
 SMDY,Syntax Stratified MidCap ETF,ARCA
 SMDZF,Strategic Metals Ltd Ordinary Shares,U
 SMEBF,Sime Darby Bhd New Ordinary shares (Malaysia),U
@@ -449,6 +451,7 @@ SMGBY,San Miguel Corp Sponsored ADR representing Class B shares,U
 SMGE,SIGMATA ELECTRONICS INC Common Stock,U
 SMGI,"SMG Industries, Inc. Common Stock",U
 SMGKF,Smiths Group Plc Ordinary Shares,U
+SMGLF,San Miguel Brewery Hong Kong Ltd Ordinary Shares (Hong Kong),U
 SMGRF,"Summerset Group Holdings Ltd, Wellington Ordinary Shares (New Zealand)",U
 SMGZY,Smiths Group Plc Sponsored ADR (UK),U
 SMH,VanEck Vectors Semiconductor ETF,NASDAQ
@@ -589,6 +592,7 @@ SNIOF,Sensio Technologies Inc Common shares (Canada),U
 SNIPF,Snipp Interactive Inc Common Shares (Canada),U
 SNIRF,Senior Plc Ordinary Shares,U
 SNKEF,SANKEI REAL ESTATE INC REIT (Japan),U
+SNKOF,Sanko Co Ltd Ordinary Shares (Japan),U
 SNKSY,Renewi plc American Depositary Receipts - Unsponsored,U
 SNKUF,SANKYU INC TOKYO Ordinary Shares Japan(JP ),U
 SNLAF,Sino Land Co Ltd Ord H $1 Par Ordinary Shares,U
@@ -1682,7 +1686,6 @@ SYNI,"Synvista Therapeutics, Inc Common Stock",U
 SYNJ,"Day Tradexchange, Inc. Common Stock",U
 SYNL,Synalloy Corporation Common Stock,NASDAQ
 SYNNF,Symphony International Holdings Ltd Ordinary Shares (Virgin Islands British),U
-SYPLF,SANYO SPECIAL STEEL CO LTD SHS (Japan),U
 SYPR,"Sypris Solutions, Inc. Common Stock",NASDAQ
 SYPT,"Scrypt, Inc.   Common Stock",U
 SYQH,"Liaoning Shuiyun Qinghe Rice Industry Co., Ltd. Common Stock",U
@@ -2054,6 +2057,7 @@ TEZNY,Terna Rete Elettrica Nazionale SPA Unsponsored American Depository Receipt
 TFACF,"Treasure Factory Co Ltd, Tokyo Ordinary Shares  (Japan)",U
 TFAN,"TradeFan, Inc. Common Stock",U
 TFAOF,Telefonica Czech Republic AS Ordinary Shares (Czech Republic),U
+TFARF,TOPPAN FORMS CO LTD TOKYO SHS (Japan),U
 TFBN,TFN Football Network (The) Common Stock,U
 TFC,Truist Financial Corporation,NYSE
 TFC PRI,"Truist Financial Corporation Depositary Shares, each representing 1/4,000th interest in a share of S",NYSE
@@ -2357,7 +2361,6 @@ TLCC,"Twinlab Consolidated Holdings, Inc. Common",U
 TLCO,Teleconnect Inc. Common Stock,U
 TLDE,"TLD3 Entertainment Group, Inc. Common Stock",U
 TLDN,Telidyne Inc. Common Stock,U
-TLED,Light Engine Design Corp. Common Stock,U
 TLFA,"Tandy Leather Factory, Inc. Common Stock",U
 TLFX,"Telefix Communications Holdings, Inc. Common Stock",U
 TLGA,TLG Acquisition One Corp.,NYSE
@@ -2947,7 +2950,7 @@ TTEC,"TTEC Holdings, Inc. Common Stock",NASDAQ
 TTEK,"Tetra Tech, Inc. Common Stock",NASDAQ
 TTEXF,Bullion Gold Resources Corp. Common Shares,U
 TTEZ,3AM TECHNOLOGIES INC Common Stock,U
-TTFNF,Total SA Ordinary Shares (France),U
+TTFNF,TotalEnergies SE Ordinary Shares,U
 TTGPF,TT Electronics PLC Ordinary Shares (United Kingdom),U
 TTGT,"TechTarget, Inc. Common Stock",NASDAQ
 TTHG,Titanium Holdings Group Inc Common Stock,U
@@ -3214,6 +3217,7 @@ UBSFY,Ubi Soft Entertainment Sa Unsponsored ADR (France),U
 UBSI,"United Bankshares, Inc. Common Stock",NASDAQ
 UBSMF,UBS ETF SICAV MSCI Pac Ex Jap UCITS ETF A Distr (Luxembourg),U
 UBSSF,UBS SIMA SHS HLDGS Ordinary Shares,U
+UBSVF,UBS ETF SICAV BARCLAYS EURO AREA LIQ CORP 1-5Y UCITS ETF (Cl A Accum USD) (Luxembourg),U
 UBSWF,UBS AG LONDON BRANCH Euro Cash Settled Call Warrants Lnk to MSCI Emerging Mkts Index 02/04/2022,U
 UBSZF,UBS AG LONDON BRANCH Call Warrants Linked to Euro Stoxx 50 Index 01/31/2025,U
 UBT,ProShares Ultra 20+ Year Treasury,ARCA
@@ -3330,6 +3334,7 @@ UKLLF,UK Oil & Gas Invts Plc Ordinary Shares (United Kingdom),U
 UKOMW,Ucommune International Ltd Warrant expiring 11/17/2025,NASDAQ
 UL,Unilever plc,NYSE
 ULBI,Ultralife Corporation Common Stock,NASDAQ
+ULBWF,UBS AG LONDON BRH CALL WTS LKD TO MSCI EMERGING MKTS INDEX (Switzerland),U
 ULCC,"Frontier Group Holdings, Inc. Common Stock",NASDAQ
 ULE,ProShares Ultra Euro,ARCA
 ULFS,Ultimate Franchise Systems Inc Common Stock,U
@@ -5291,7 +5296,6 @@ YSGG,1399 INTERNET TECHNOLOGY APPLICATION GROUP INC Common Stock,U
 YSHCF,YESTAR HEALTHCARE HLDGS CO LTD Common Shares Cayman Islands(KY ),U
 YSHLF,Yangzijiang Shipbuilding Holdings Ltd Ordinary shares (Singapore),U
 YSHOF,Yoshitake Inc Ordinary Shares (Japan),U
-YSSCF,NOVA CANNABIS INC Ordinary Shares,U
 YTAYF,Yatak Ve Yorgan Sanayi Ve Ticaret Yatas Ordinary Shares (Turkey),U
 YTEN,"Yield10 Bioscience, Inc. Common Stock",NASDAQ
 YTFD,"Yacht Finders, Inc. Common Stock",U
