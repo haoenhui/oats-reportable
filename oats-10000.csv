@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
@@ -228,6 +229,7 @@ HCM,HUTCHMED (China) Limited American Depositary Shares,NASDAQ
 HCMC,Healthier Choices Management Corp. Common Shares,U
 HCMLF,HOLCIM LTD Ordinary Shares,U
 HCMLY,HOLCIM LTD NEW American Depositary Receipts - Unsponsored,U
+HCNEU,Jaws Hurricane Acquisition Corp. Unit,NASDAQ
 HCPHF,Holcim Philippines Inc Ordinary Shares (Philippines),U
 HCPHY,Holcim Philippines Inc Unsponsored ADR (Philippines),U
 HCRB,Hartford Core Bond ETF,BATS
@@ -3407,7 +3409,7 @@ KUCPF,KURA CORPLTD SAKAI SHS (Japan),U
 KUKAF,Kuka Aktiensesellschaft Ordinary Shares (Germany),U
 KUKAY,Kuka Aktiengesellschaft Unsponsored ADR (Germany),U
 KUKE,"Kuke Music Holding Limited American Depositary Shares, each representing one Ordinary Share",NYSE
-KULR,"KULR Technology Group, Inc. Common Stock",U
+KULR,"KULR Technology Group, Inc.",AMEX
 KUMBF,Kumba Iron Ore Ltd Ordinary Shares (South Africa),U
 KUNUF,Kunlun Energy Company Ltd Ordinary Shares (Bermuda),U
 KURA,"Kura Oncology, Inc. Common Stock",NASDAQ
@@ -3789,6 +3791,7 @@ LHGI,Lighthouse Global Holdings Inc. Common Stock,U
 LHHMQ,"Lehman Brothers Holdings, Inc. 6.00% Prefd Sec Srs M",U
 LHIL,Leader Hill Corp. Common Stock,U
 LHRP,"LifeHouse Retirement Properties, Inc. Common Stock",U
+LHTV,LIGHTSTONE VALUE PLUS REAL ESTATE INVT TR INC COM,U
 LHUAF,Lianhua Supermarket Holdings Co Ltd Shs H,U
 LHUAY,Lianhua Supermarket Holdings Co Ltd Unsponsored ADR (China),U
 LHX,"L3Harris Technologies, Inc.",NYSE
@@ -4115,6 +4118,8 @@ LSYN,Liberated Syndication Inc Common Stock,U
 LTBR,Lightbridge Corporation Common Stock,NASDAQ
 LTC,"LTC Properties, Inc.",NYSE
 LTCCF,LITE ACCESS TECHNOLOGIES INC Ordinary Shares (Canada),U
+LTCH,"Latch, Inc. Common Stock",NASDAQ
+LTCHW,"Latch, Inc. Warrant expiring 6/4/2026",NASDAQ
 LTCN,GRAYSCALE LITECOIN TR LTC Common Stock,U
 LTCO,LONG TERM CARE OPERATIONS 360 INC Common Stock,U
 LTCP,"Life's Time Capsule Services, Inc. Common Stock",U
@@ -4367,7 +4372,9 @@ MAPL,Maple Press Co Common Stock,U
 MAPPF,PROSTAR HLDGS INC CDA Common Shares,U
 MAPT,"Maptelligent, Inc. Common Stock",U
 MAQAF,Atlas Arteria Ltd Ordinary Shares,U
+MAQC,Maquia Capital Acquisition Corporation Class A Common Stock,NASDAQ
 MAQCU,Maquia Capital Acquisition Corporation Unit,NASDAQ
+MAQCW,Maquia Capital Acquisition Corporation Warrant,NASDAQ
 MAR,Marriott International Class A Common Stock,NASDAQ
 MARA,"Marathon Digital Holdings, Inc. Common Stock",NASDAQ
 MARB,First Trust Merger Arbitrage ETF,ARCA
@@ -4735,6 +4742,7 @@ MFDB,"Mutual Federal Bancorp, Inc. (IL) Common Stock",U
 MFDX,PIMCO RAFI Multi-Factor International Equity ETF,ARCA
 MFEM,PIMCO RAFI Dynamic Multi-Factor Emerging Markets Equity ETF,ARCA
 MFG,"Mizuho Financial Group, Inc. American Depositary Shares (Each representing one-fifth of an Ordinary",NYSE
+MFGCF,MAYFAIR GOLD CORP Common Shares,U
 MFGHF,Mainfreight Ltd Ordinary Shares (New Zealand),U
 MFGI,Merchants Financial Group Inc Common Stock,U
 MFGP,"Micro Focus International plc. American Depositary Shares, each representing One Ordinary Share",NYSE
@@ -5280,7 +5288,6 @@ MOXC,"Moxian, Inc. Common Stock",NASDAQ
 MOYFF,Mynaric AG Ordinary Shares (Germany),U
 MOZBF,MOSAIC BRANDS LTD ORDINARY FULLY PAID (Australia),U
 MP,MP Materials Corp.,NYSE
-MP WS,"MP Materials Corp. Warrants, each whole warrant exercisable for one share of Class A common stock at",NYSE
 MPA,BLACKROCK MUNIYIELD PENNSYLVANIA QUALITY FUND,NYSE
 MPAA,"Motorcar Parts  of America, Inc. Common Stock",NASDAQ
 MPACU,Model Performance Acquisition Corp. Units,NASDAQ
@@ -5519,9 +5526,3 @@ MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
-MTCR,"Metacrine, Inc. Common Stock",NASDAQ
-MTD,Mettler-Toledo International,NYSE
-MTDR,MATADOR RESOURCES COMPANY,NYSE
-MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
-MTEI,Mountain Energy Inc Common Stock,U
-MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U

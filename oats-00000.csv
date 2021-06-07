@@ -139,7 +139,7 @@ ABR,"Arbor Realty Trust, Inc.",NYSE
 ABR PRA,"Arbor Realty Trust, Inc 8.250% Series A Cumulative Redeemable Preferred Stock",NYSE
 ABR PRB,"Arbor Realty Trust, Inc. 7.75% Series B Preferred",NYSE
 ABR PRC,"Arbor Realty Trust, Inc. 8.50% Series C Cumulative Redeemable Preferred Stock, Liquidation Preferenc",NYSE
-ABRRP,Arbor Realty Trust Inc Preferred Series D,U
+ABR PRD,"Arbor Realty Trust, Inc. 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preferen",NYSE
 ABRUF,AMERICAN PAC BURATE & LITHIUM LTD Ord Shs Fully Paid (Australia),U
 ABSCF,"AB Science, Paris Ordinary Shares (France)",U
 ABSOF,ABS-CBN  Holdings Corporation Phillipine Depositary Receipts Representing 1 Share (Phillipines),U
@@ -247,6 +247,7 @@ ACKIU,Ackrell SPAC Partners I Co. Units,NASDAQ
 ACKIW,Ackrell SPAC Partners I Co. Warrants,NASDAQ
 ACKRF,American Creek Resources Ltd New Common Shares,U
 ACLD,Acquire Ltd Common Stock,U
+ACLHF,ACME LITHIUM INC Common Stock,U
 ACLLF,Atco Ltd  Cl I Nv Cda Ordinary Shares,U
 ACLS,"Axcelis Technologies, Inc. Common Stock",NASDAQ
 ACLTF,Atco Ltd Cl Ii Vtg Cda Ordinary Shares,U
@@ -455,6 +456,7 @@ ADXN,Addex Therapeutics Ltd American Depositary Shares,NASDAQ
 ADXRF,ADX Energy Ltd Ordinary Shares (Australia),U
 ADXS,"Advaxis, Inc. Common Stock",NASDAQ
 ADYEY,Adyen N.V. Unsponsored ADR (Netherlands),U
+ADYRF,ADYTON RES CORP Common Shares,U
 ADYX,"Adynxx, Inc. Common Stock",U
 ADYYF,Adyen N.V. Ordinary Shares (Netherlands),U
 ADZCF,DB AGRIC SHORT EXCHANGE TRADED NT due 04/01/2038,U
@@ -1165,7 +1167,6 @@ AMGRF,AMA GROUP LTD SHS (Australia),U
 AMGXF,Anges Inc Ordinary Shares (Japan),U
 AMGY,"American Metal & Technology, Inc. Common Stock",U
 AMH,AMERICAN HOMES 4 RENT,NYSE
-AMH PRD,American Homes 4 Rent 6.5% Series D Cumulative Redeemable Perpetual Preferred Shares of beneficial i,NYSE
 AMH PRE,American Homes 4 Rent 6.35% Series E Cumulative Redeemable Perpetual Preferred Shares of Beneficial,NYSE
 AMH PRF,American Homes 4 Rent,NYSE
 AMH PRG,American Homes 4 Rent Series G cumulative redeemable perpetual preferred shares of beneficial intere,NYSE
@@ -1437,6 +1438,7 @@ APELY,"Alps Alpine Co., Ltd. American Depositary Receipts - Unsponsored",U
 APEMY,Aperam New York Registry Shares,U
 APEN,"Apollo Endosurgery, Inc. Common Stock",NASDAQ
 APEOF,Growmax Res Corp Common Shares,U
+APETF,ALPHA ESPORTS TECH INC CL A Common Shares,U
 APEUF,Atlas Engineered Products Ltd. Common Shares,U
 APG,APi Group Corporation,NYSE
 APGB,Apollo Strategic Growth Capital II,NYSE
@@ -2082,7 +2084,7 @@ AURC,Aurora Acquisition Corp. Class A Ordinary Shares,NASDAQ
 AURCU,Aurora Acquisition Corp. Unit,NASDAQ
 AURCW,Aurora Acquisition Corp. Warrant,NASDAQ
 AURI,"Auri, Inc. New Common Stock",U
-AURQD,AURELIUS MINERALS INC  Common Shares,U
+AURQF,AURELIUS MINERALS INC  Common Shares,U
 AURT,Attune RTD Common Stock,U
 AURWF,AURWEST RES CORP Common Shares,U
 AURX,"Nuo Therapeutics, Inc Common Stock",U
@@ -2961,7 +2963,6 @@ BKBLF,Magnetic North Acquisition Corp Ordinary Shares,U
 BKCC,BlackRock Capital Investment Corporation Common Stock,NASDAQ
 BKCYF,Bank Cyprus Hldgs Pub Ltd Co Ordinary Shares (Ireland),U
 BKD,"Brookdale Senior Living, Inc.",NYSE
-BKDKP,STANLEY BLACK & DECKER INC Preferred Stock PERP PFD CONV SER C,U
 BKE,"The Buckle, Inc.",NYSE
 BKEAF,Bank East Asia Ltd Reg Ordinary Shares,U
 BKEAY,Bank East Asia Ltd Sponsored ADR,U
@@ -3458,7 +3459,7 @@ BRG PRC,Bluerock Residential Growth REIT Inc.,AMEX
 BRG PRD,"Bluerock Residential Growth REIT Inc. 7.125% Series D, Cumulative Preferred Stock ($0.01 par value p",AMEX
 BRGAY,Borregaard AS American Depositary Receipts (Unsponsored)(Norway),U
 BRGC,BrightRock Gold Corporation Common Stock NEW,U
-BRGGD,Bragg Gaming Group Inc. Ordinary Shares,U
+BRGGF,Bragg Gaming Group Inc. Ordinary Shares,U
 BRGO,"Bergio International, Inc. Common Stock",U
 BRGSF,BERGS TIMBER AB Ordinary Shares,U
 BRID,Bridgford Foods Corporation Common Stock,NASDAQ
@@ -3534,6 +3535,7 @@ BRVFY,Lastminute.com NV American Depositary Receipts - Unsponsored,U
 BRVO,Bravo Multinational Incorporated Common Stock,U
 BRVRF,"Blue River Resources, Ltd. Ordinary Shares (Canada)",U
 BRVVF,QUANTUM BATTERY METALS CORP Ordinary Shares,U
+BRW,Saba Capital Income & Opportunities Fund,NYSE
 BRX,BRIXMOR PROPERTY GROUP INC.,NYSE
 BRY,Berry Corporation (bry) Common Stock,NASDAQ
 BRYAF,Berjaya Corporation BHD Ordinary shares (Malaysia),U
@@ -4955,7 +4957,6 @@ CLGMF,Cleghorn Minerals Ordinary Shares (Canada),U
 CLGN,CollPlant Biotechnologies Ltd Ordinary Shares,NASDAQ
 CLGPF,Clean Seed Cap Group Ltd Common Shares (Canada),U
 CLGUF,CLOUD NINE WEB3 TECHNOLOGIES INC Common Shares,U
-CLGX,"Corelogic, Inc.",NYSE
 CLGZF,"Hutech21 Co., Ltd. New Common Stock (Virgin Islands British)",U
 CLH,"Clean Harbors, Inc",NYSE
 CLHG,CIE Holdings LLC Common Unit Membership Int Common Stock,U
@@ -5525,4 +5526,3 @@ CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
 CPB,Campbell Soup Company,NYSE
-CPBLF,ALS Ltd. Ordinary Shares (Australia),U

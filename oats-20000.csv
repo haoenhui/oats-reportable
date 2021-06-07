@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
+SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
@@ -334,6 +336,7 @@ SLGN,Silgan Holdings Inc. Common Stock,NASDAQ
 SLGRF,SLM Solutions Group AG Germany Federal Republic (DE ),U
 SLGWF,Slang Worldwide Inc  Common Shares  (Canada),U
 SLGYF,"San Leon Energy Plc, Dublin Ordinary Shares (Ireland)",U
+SLHG,Skylight Health Group Inc. Ordinary Shares,NASDAQ
 SLJB,"Sulja Bros. Building Supplies, Ltd. Common Stock",U
 SLLDY,Sanlam Ltd Sponsored ADR (South Africa),U
 SLLFF,Gusbourne PLC Ordinary Shares (United Kingdom),U
@@ -504,7 +507,6 @@ SMRAF,Sociedad Minera Cerro Verde SAA Lima Shs - Comun (Peru),U
 SMREF,Sun Summit Minerals Corp Common Shares,U
 SMRGF,SMAREGI INC Common Stock,U
 SMRH,Superior Marktng Research Crp Common Stock,U
-SMRKF,Sparebanken Telemark Ordinary Shares (Norway),U
 SMRL,"Simtrol, Inc. New Common Stock",U
 SMRN,"Smartag International, Inc. Common Stock",U
 SMRVF,Smooth Rock Ventures Corp Common Shares,U
@@ -643,7 +645,7 @@ SNPRY,Sinopec Engr Group Co Ltd ADR Repstg H Shs (China),U
 SNPS,"Synopsys, Inc. Common Stock",NASDAQ
 SNPTF,Sunny Optical Technology (Group) Co Ltd Shs (Cayman Islands),U
 SNPW,Sun Pacific Holding Corp. Common Stock,U
-SNPXD,SYNAPTOGENIX INC Common Stock,U
+SNPX,"Synaptogenix, Inc. Common Stock",NASDAQ
 SNPXF,SNP Schneider Neureither & Partner AG Ordinary Shares (Germany),U
 SNR,NEW SENIOR INVESTMENT GROUP INC.,NYSE
 SNRAF,Tisdale Resources Corp Ordinary Shares,U
@@ -1843,6 +1845,7 @@ TBIO,"Translate Bio, Inc. Common Stock",NASDAQ
 TBJL,Innovator 20+ Year Treasury Bond 9 Buffer ETF - July,BATS
 TBK,"Triumph Bancorp, Inc. Common Stock",NASDAQ
 TBKCP,"Triumph Bancorp, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.125% Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock",NASDAQ
+TBLLF,TOMBILL MINES LTD CDA NEW Common Shares,U
 TBLMF,Tiger Brands Ltd Ordinary Shares (South Africa),U
 TBLMY,Tiger Brands Ltd Sponsored ADR New (South Africa),U
 TBLT,"ToughBuilt Industries, Inc. Common Stock",NASDAQ
@@ -2798,6 +2801,7 @@ TRTN PRC,Triton International Limited 7.375% Series C Cumulative Redeemable Perp
 TRTN PRD,Triton International Limited 6.875% Series D Cumulative Redeemable Perpetual Preference Shares,NYSE
 TRTPF,Trustpilot Group PLC Ordinary Shares (United Kingdom),U
 TRTX,"TPG RE Finance Trust, Inc. Common Stock",NYSE
+TRTXP,TPG RE FIN TR INC PFD SER C Preferred Stock,U
 TRTY,Cambria Trinity ETF,BATS
 TRU,TransUnion,NYSE
 TRUA,Triumph Apparel Corporation Common Stock,U
@@ -2868,9 +2872,6 @@ TSHO,"Tradeshow Marketing Company, Ltd. (The)  Common Stock",U
 TSHTY,Toshiba Tec Corporation Unsponsored ADR (Japan),U
 TSHXY,Tosoh Corp American Depositary Share (Japan),U
 TSI,"TCW Strategic Income Fund, Inc.",NYSE
-TSIA,TS Innovation Acquisitions Corp. Class A Common Stock,NASDAQ
-TSIAU,TS Innovation Acquisitions Corp. Unit,NASDAQ
-TSIAW,TS Innovation Acquisitions Corp. Warrant,NASDAQ
 TSIB,Tishman Speyer Innovation Corp. II Class A common stock,NASDAQ
 TSIBU,Tishman Speyer Innovation Corp. II Unit,NASDAQ
 TSIBW,Tishman Speyer Innovation Corp. II Warrant,NASDAQ
@@ -5524,4 +5525,4 @@ ZYXI,"Zynex, Inc. Common Stock",NASDAQ
 ZZHGF,Zhongan Online PC Ins Co Ltd. Ordinary Shares (China),U
 ZZHGY,"ZhongAn Online P & C Insurance Co., Ltd American Depositary Receipts - Unsponsored (China)",U
 ZZLL,"ZZLL Information Technology, Inc. Common Stock",U
-ZZZOD,"Zinc One Resources, Inc. Common Shares",U
+ZZZOF,"Zinc One Resources, Inc. Common Shares",U

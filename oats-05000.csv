@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
@@ -328,7 +329,6 @@ CSLT,"CASTLIGHT HEALTH, INC.",NYSE
 CSM,ProShares Large Cap Core Plus,BATS
 CSML,IndexIQ ETF Trust IQ Chaikin U.S. Small Cap ETF,NASDAQ
 CSMYF,Cosmos Pharmaceutical Corp Miyazaki Ordinary Shares (Japan),U
-CSNBF,Credit Suisse AG Nassau Brh Call WT Lkd Eruo Stoxx 50 Index (Switzerland),U
 CSNVF,Corbion NV Ordinary Shares,U
 CSNVY,Corbion NV Unsponsored ADR (Netherlands),U
 CSOC,Caduceus Software Systems Corp. Common Stock,U
@@ -671,7 +671,6 @@ CXCQ,Cardxx Inc Common Stock,U
 CXDC,China XD Plastics Company Limited Common Stock,NASDAQ
 CXDO,"Crexendo, Inc. Common Stock",NASDAQ
 CXE,MFS High Income Municipal Trust,NYSE
-CXEE,"China Xuefeng Environmental Engineering, Inc. Common Stock",U
 CXGEF,Computer & Technologies Holdings Ltd Ordinary Shares (Bermuda),U
 CXH,MFS Investment Grade Municipal Trust,NYSE
 CXIA,"Commodore Applied Technologies, Inc. Common Stock",U
@@ -1926,7 +1925,7 @@ EDVMF,Endeavour Mining Corporation Ordinary Shares,U
 EDVR,Endeavor Bk Common Stock,U
 EDWZF,Edgewater Exploration Ltd. Common Shares,U
 EDXC,Endexx Corporation Common Stock,U
-EDYYD,Enerdynamic Hybrid Technologies Corp Ordinary Shares,U
+EDYYF,Enerdynamic Hybrid Technologies Corp Ordinary Shares,U
 EDZ,Direxion Daily Emerging Markets Bear 3x Shares,ARCA
 EDZR,E-Direct Inc Common Stock,U
 EEA,"The European Equity Fund, Inc.",NYSE
@@ -2135,6 +2134,7 @@ ELEAF,EL.EN. SPA FIRENZE Ordinary Shares,U
 ELECF,Electric Royalties Ltd. Common Shares (Canada),U
 ELED,"ExeLED Holdings, Inc. Common Stock",U
 ELEEF,Element Fleet Mgmt Corp Common Shares,U
+ELEK,"Elektros, Inc. Common Stock",U
 ELEMF,Elemental Royalties Corp. Ordinary Shares (Canada),U
 ELEZF,Endesa S.A. Ordinary Shares,U
 ELEZY,Endesa S.A. Unsponsored American Depository Receipt (Spain),U
@@ -4235,7 +4235,7 @@ FWP,Forward Pharma A/S American Depositary Shares,NASDAQ
 FWRD,Forward Air Corporation Common Stock,NASDAQ
 FXA,Invesco CurrencyShares Australian Dollar Trust,ARCA
 FXB,Invesco CurrencyShares British Pound Sterling Trust,ARCA
-FXBYD,FOXBY CORP Common Stock,U
+FXBY,FOXBY CORP Common Stock,U
 FXC,Invesco CurrencyShares Canadian Dollar Trust,ARCA
 FXCNF,FIH Mobile Ltd Ordinary Shares (Cayman Islands),U
 FXCNY,FIH Mobile Limited Unsponsored ADR (Cayman Islands),U
@@ -4284,7 +4284,7 @@ GAB PRG,The Gabelli Equity Trust Inc. Series G Cumulative Preferred,NYSE
 GAB PRH,THE GABELLI EQUITY TRUST INC. 5.00% Series H Cumulative Preferred Stock,NYSE
 GAB PRJ,The Gabelli Equity Trust Inc. 5.45% Series J Cumulative Preferred Stock,NYSE
 GAB PRK,The Gabelli Equity Trust Inc. 5.00% Series K Cumulative Preferred Stock,NYSE
-GAB RTWI,"The Gabelli Equity Trust Inc. Rights (expiring July 14, 2021)",NYSE
+GAB RT,"The Gabelli Equity Trust Inc. Rights (expiring July 14, 2021)",NYSE
 GABA,"Georgia Bancshares, Inc. (GA) Common Stock",U
 GABC,"German American Bancorp, Inc. Common Stock",NASDAQ
 GABK,Grand Bk Corp Common Stock,U
@@ -5112,7 +5112,7 @@ GOSS,"Gossamer Bio, Inc. Common Stock",NASDAQ
 GOSY,Geckosystems Intl Corp Common Stock,U
 GOTNF,GOTENEHUS GROUP AB SHS -B - Ordinary Shares,U
 GOTRF,GOLIATH RESOURCES LTD Ordinary Shares,U
-GOTU,GSX Techedu Inc.,NYSE
+GOTU,"Gaotu Techedu Inc. American Depositary Shares, three of which representing two Class A Ordinary Shar",NYSE
 GOTWF,GO2 People Ltd. Ordinary Shares (Australia),U
 GOVB,"Gouverneur Bancorp, Inc. Common Stock",U
 GOVT,iShares U.S. Treasury Bond ETF,BATS
@@ -5461,6 +5461,7 @@ GTSO,"Green Technology Solutions, Inc. Common Stock",U
 GTSWF,GETSWIFT TECHNOLOGIES LTD Ordinary Shares,U
 GTT,"GTT Communications, Inc.",NYSE
 GTTCF,Gattaca PLC Ordinary Shares (United Kingdom),U
+GTTJ,GTJ REIT INC Common Stock,U
 GTTL,Getelman Corp Common Stock,U
 GTVH,GOLDEN TRIANGLE VENTURES INC Common Stock,U
 GTVI,Joway Health Industries Group Inc. Common Stock,U
@@ -5525,4 +5526,3 @@ GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
 GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
-GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
