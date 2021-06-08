@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
@@ -335,7 +334,7 @@ HEWW,iShares Currency Hedged MSCI Mexico ETF,ARCA
 HEXEY,Hellenic Exchanges SA Holding Clearing Settlement and Registry Unsponsored ADR (Greece),U
 HEXO,HEXO Corp.,NYSE
 HEXPF,Huntington Exploration Inc Ordinary Shares,U
-HEYBF,FASTTASK TECHNOLOGIES INC Common Shares,U
+HEYBF,Komo Plant Based Foods Inc. Common Shares,U
 HEZU,iShares Currency Hedged MSCI Eurozone ETF of ISHARES TRUST,ARCA
 HFAHF,Navigator Global Invts Ltd Ordinary Shares,U
 HFBA,HFB Financial Corporation Common Stock,U
@@ -979,7 +978,7 @@ HWTHF,Wildsky Res Inc Common Shares,U
 HWVI,"Hawaiian Vintage Chocolate Company, Inc. Common Stock",U
 HX,Xiaobai Maimai Inc. ADR,NASDAQ
 HXBM,"Helix Biomedix, Inc. Common Stock",U
-HXGBF,Hexagon AB Ordinary Shares B (Sweden),U
+HXGBF,HEXAGON AKTIEBOLAG Ordinary Shares,U
 HXGBY,Hexagon AB American Depositary Shares (Sweden),U
 HXGCF,Hexagon Composites Asa Ordinary Shares (Norway),U
 HXL,Hexcel Corporation,NYSE
@@ -2011,6 +2010,7 @@ IRVDF,IRONVELD PLC Ordinary Shares (United Kingdom),U
 IRVRF,Irving Res Inc Ordinary Shares (Canada),U
 IRWD,"Ironwood Pharmaceuticals, Inc. Class A Common Stock",NASDAQ
 IRWPQ,Irwin Financial Corporation 8.70% Cumulative Trust Preferred Securities,U
+ISAA,Iron Spark I Inc. Class A Common Stock,NASDAQ
 ISACF,ISHARES III PLC ACCUM SHS Exchange Traded Fund  Ireland(IE ),U
 ISAGF,Ishares III Plc Emerging Asia Local Govt BD UCITS ETF (Ireland),U
 ISAPF,Ishares PLC Accum Ptg Shs Exchange Traded Fund USD (Ireland),U
@@ -2456,6 +2456,8 @@ JBGS,JBG SMITH Properties Common Shares,NYSE
 JBHHY,JB HI-FI LTD American Depositary Receipts - Unsponsored (Australia),U
 JBHIF,JB Hi-Fi Limited Ordinary Shares (Australlia),U
 JBHT,"J.B. Hunt Transport Services, Inc. Common Stock",NASDAQ
+JBI,"Janus International Group, Inc.",NYSE
+JBI WS,"Janus International Group, Inc. Warrants, each exercisable for one share of Common Stock at an exerc",NYSE
 JBK,Lehman ABS Corp 3.50 Adj Corp Backed Tr Cert Goldman Cap I,NYSE
 JBL,Jabil Inc.,NYSE
 JBLU,JetBlue Airways Corporation Common Stock,NASDAQ
@@ -2577,9 +2579,6 @@ JHX,JAMES HARDIE INDUSTRIES plc.,NYSE
 JIAXF,Jiangxi Copper Co Ltd H Shs Ordinary Shares,U
 JIG,JPMorgan International Growth ETF,ARCA
 JIGB,JPMorgan Corporate Bond Research Enhanced ETF,ARCA
-JIH,"Juniper Industrial Holdings, Inc.",NYSE
-JIH U,"Juniper Industrial Holdings, Inc. Units, each consisting of one share of Class A common stock, $0.00",NYSE
-JIH WS,"Juniper Industrial Holdings, Inc. Redeemable warrants included as part of the units",NYSE
 JILL,"J.Jill, Inc. Common Stock",NYSE
 JINFF,China Gold International Resources Corp. Ltd. Ordinary Shares (Canada),U
 JIREF,JP Morgan Ireland ICAV Ultra Short Income UCITS ETF USD (Ireland),U
@@ -5076,7 +5075,7 @@ MMAC,"MMA Capital Holdings, Inc. Common Stock",NASDAQ
 MMAPF,Memscap SAOrdinary Shares (France),U
 MMATF,Metamaterial Inc. Common Shares (Canada),U
 MMAYF,MSM Malaysia Holdings BHD Ordinary Shares (Malaysia),U
-MMBF,"Momentum Biofuels, Inc. Common Stock",U
+MMBFD,VECTOR 21 HLDGS INC Common Stock,U
 MMBMF,MASMOVIL IBERCOM S A Acciones Por Desdoblamiento (Spain),U
 MMC,"Marsh & McLennan Companies, Inc.",NYSE
 MMCLF,Mercell Holdings AS Ordinary Shares (Norway),U
@@ -5153,6 +5152,7 @@ MNDJF,Mandalay Resources Corporation Common Shares,U
 MNDMF,Firefly Res Ltd Ordinary Shares,U
 MNDO,MIND C.T.I. Ltd. Ordinary Shares,NASDAQ
 MNDP,"Mundus Group, Inc. Common Stock",U
+MNDY,monday.com Ltd. Ordinary Shares,NASDAQ
 MNESP,MSA Safety Inc 4.50% Preferred Stock,U
 MNFSF,Manifestseven Holdings Common Shares,U
 MNGG,"Mining Global, Inc. Common Stock",U
@@ -5290,7 +5290,10 @@ MOZBF,MOSAIC BRANDS LTD ORDINARY FULLY PAID (Australia),U
 MP,MP Materials Corp.,NYSE
 MPA,BLACKROCK MUNIYIELD PENNSYLVANIA QUALITY FUND,NYSE
 MPAA,"Motorcar Parts  of America, Inc. Common Stock",NASDAQ
+MPAC,Model Performance Acquisition Corp. Class A Ordinary Share,NASDAQ
+MPACR,Model Performance Acquisition Corp. Right,NASDAQ
 MPACU,Model Performance Acquisition Corp. Units,NASDAQ
+MPACW,Model Performance Acquisition Corp. Warrant,NASDAQ
 MPAD,"Micropac Industries, Inc. Common Stock",U
 MPB,Mid Penn Bancorp Common Stock,NASDAQ
 MPC,MARATHON PETROLEUM CORPORATION,NYSE
@@ -5334,6 +5337,7 @@ MPXOF,MPX INTL CORP Com (Canada),U
 MPZAF,Mips Ab Share Ak Common Stock,U
 MPZAY,MIPS AB ADS (Sweden),U
 MPZZF,MPC Container Ships As Common Stock,U
+MQ,"Marqeta, Inc. Class A Common Stock",NASDAQ
 MQBKY,"Macquarie Group, Ltd. Sponsored ADR (Australia)",U
 MQCTF,Macquarie Telecom Group LTD Ordinary Shares (Australia),U
 MQIIF,Macquarie International Infrastructure Fund Limited Ordinary Shares (Bermuda),U
@@ -5522,7 +5526,3 @@ MTB,M&T Bank Corp.,NYSE
 MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
-MTC,"MMTec, Inc. Common Shares",NASDAQ
-MTCH,"Match Group, Inc. Common Stock",NASDAQ
-MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
-MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U

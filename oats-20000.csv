@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHGY,SearchGuy.com Inc. Common Stock,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
@@ -16,7 +17,6 @@ SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
 SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
 SHLDQ,Sears Holdings Corporation Common Stock,U
 SHLLF,Shelf Drilling Ltd Ordinary Shares (Cayman Islands),U
-SHLOQ,"Shiloh Industries, Inc. Common Stock",U
 SHLRF,Schindler Holding Ag Hergiswil Namen -Akt Shares (Switzerland),U
 SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
 SHLX,"Shell Midstream Partners, L.P.",NYSE
@@ -2580,7 +2580,6 @@ TOK,iShares MSCI Kokusai Fund,ARCA
 TOKCF,Tokyo Ohka Kogyo Co Ltd Ordinary Shares,U
 TOKE,Cambria Cannabis ETF,BATS
 TOKIF,Tree Of Knowledge Intl Corp Common Stock,U
-TOKSF,Tokyo Stl Mfg Co Ltd Ordinary Shares (Japan),U
 TOKTY,"Tokai Tokyo Financial Holdings, Inc. Sponsored ADR (Japan)",U
 TOKUF,Tokyu Corporation Ordinary Shares,U
 TOKUY,Tokyu Corporation Unsponsored ADR (Japan),U
@@ -4143,7 +4142,6 @@ VPCC U,"VPC Impact Acquisition Holdings III, Inc. Units, each consisting of one 
 VPCC WS,"VPC Impact Acquisition Holdings III, Inc. Redeemable warrants, each whole warrant exercisable for on",NYSE
 VPER,"Viper Networks, Inc. Common Stock",U
 VPG,"Vishay Precision Group, Inc.",NYSE
-VPGI,"Velocity Portfolio Group, Inc.",U
 VPGLF,Value Partners Group Limited Ordinary shares (Cayman Islands),U
 VPHIF,VALEO PHARMA INC Common Shares,U
 VPL,Vanguard FTSE Pacific ETF,ARCA
@@ -4338,6 +4336,7 @@ VVWT,"Viva World Trade, Inc. Common Stock",U
 VWAGY,Volkswagen A G Unsponsored ADR Represent 1/10th Sh,U
 VWAPY,Volkswagen A G Unsponsored ADR Representing 10:1 Pref Shes,U
 VWDRY,Vestas Wind Systems AS American Depositary Shares,U
+VWE,"Vintage Wine Estates, Inc. Common Stock",NASDAQ
 VWID,Virtus WMC International Dividend ETF,BATS
 VWO,Vanguard FTSE Emerging Markets ETF,ARCA
 VWOB,Vanguard Whitehall Funds Vanguard Emerging Markets Government Bond ETF,NASDAQ
@@ -5439,6 +5438,7 @@ ZLPSF,"Zooplus AG, Unterfoehring Ordinary Shares (Germany)",U
 ZM,"Zoom Video Communications, Inc. Class A Common Stock",NASDAQ
 ZMDC,USA Zhimingde International Group Corporation. Common Stock,U
 ZMDTF,ZOOMD TECHNOLOGIES LTD COM (Canada),U
+ZME,"Zhangmen Education Inc. American Depositary Shares, each representing nine (9) Class A ordinary sha",NYSE
 ZMGD,"Zamage Digital Art Imaging, Inc. Common Stock",U
 ZMPLF,ZIMPLATS HLDGS LTD Ordinary Shares,U
 ZMRK,Zalemark Holding Company Inc Common Stock,U

@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTC,"MMTec, Inc. Common Shares",NASDAQ
+MTCH,"Match Group, Inc. Common Stock",NASDAQ
+MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
+MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
@@ -1032,8 +1036,8 @@ NSP,"Insperity, Inc",NYSE
 NSPDF,Naturally Splendid Enterprises Ltd. Ordinary Shares (Canada),U
 NSPKF,9 Spokes International Ltd. Ordinary Shares (Australia),U
 NSPR,InspireMD Inc. Common Stock,NASDAQ
-NSPR WS,"InspireMD Inc. Warrant to purchase one-twenty six thousand two hundred fiftieth (1/ 26,250) of one s",AMEX
-NSPR WSB,"InspireMD Inc. Series B Warrants to purchase one-twenty six thousand two hundred fiftieth (1/ 26,250",AMEX
+NSPRW,"InspireMD, Inc. Warrants",NASDAQ
+NSPRZ,"InspireMD, Inc. Series B Warrants",NASDAQ
 NSPT,Newron Sport  Common Stock,U
 NSPX,"Inspyr Therapeutics, Inc.  Common Stock",U
 NSRCD,"Nextsource Materials, Inc. (CAN) Common Stock",U
@@ -2168,7 +2172,6 @@ PBYA,Probility Media Corp. Common Stock,U
 PBYBF,PT Bayu Buana TBK Ordinary Shares,U
 PBYI,Puma Biotechnology Inc Common Stock,NASDAQ
 PBYYF,Publity AG Ordinary Shares (Germany),U
-PCAEF,"PT Cardig Aero Services TBK, Jakarta Shs (Indonesia)",U
 PCAR,PACCAR Inc. Common Stock,NASDAQ
 PCASF,PACIFIC ASSETS TRUST PLC SHS (United Kingdom),U
 PCB,PCB Bancorp Common Stock,NASDAQ
@@ -2899,7 +2902,6 @@ POGS,Pioneer Oil & Gas Common Stock,U
 POGWF,Polish Oil and Gas Company Ordinary Shares (Poland),U
 POGWY,Polskie Gornictwo Naftowe I Gazownictwo SA (Polish Oil and Gas Company) Unsponsored ADR (Poland),U
 POLA,"Polar Power, Inc. Common Stock",NASDAQ
-POLJF,Polo Resources Ltd Ordinary Shares (British Virgin Islands),U
 POLR,Polar Petroleum Corp. Common Stock,U
 POLXF,Polydex Pharmaceuticals Limited Common Stock,U
 POLY,"Plantronics, Inc.",NYSE
@@ -3563,7 +3565,6 @@ PXRB,PixarBio Corporation Common Stock,U
 PXS,Pyxis Tankers Inc. Common Stock,NASDAQ
 PXSAP,Pyxis Tankers Inc. 7.75% Series A Cumulative Convertible Preferred Shares,NASDAQ
 PXSAW,Pyxis Tankers Inc. Warrant,NASDAQ
-PXSLY,Pharmaxis Limited ADR,U
 PXSTF,PHOENIX MEDIA INVT (HOLDINGS) LTD Ordinary Shares,U
 PXUS,Principal International Adaptive Multi-Factor ETF,BATS
 PXXLF,Poxel SA Ordinary Shares (France),U
@@ -5525,4 +5526,3 @@ SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
-SHGY,SearchGuy.com Inc. Common Stock,U
