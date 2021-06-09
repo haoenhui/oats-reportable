@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
+CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
+CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
@@ -805,7 +808,7 @@ DATWY,Datwyler Holding AG Unsponsored ADR (Switzerland),U
 DAUG,FT Cboe Vest U.S. Equity Deep Buffer ETF - August,BATS
 DAUGF,Desert Gold Ventures Inc Common Shares,U
 DAVA,Endava plc American Depositary Shares (each representing one Class A Ordinary Share),NYSE
-DAVNF,DAVENPORT RES LTD Ordinary Shares,U
+DAVNF,South Harz Potash Ltd. Ordinary Shares,U
 DAWIF,Daiwa Industires Ltd Ordinary Shares (Japan),U
 DAWN,"Day One Biopharmaceuticals, Inc. Common Stock",NASDAQ
 DAWUF,Daiwa House REIT Investment Corp Com REIT (Japan),U
@@ -859,7 +862,6 @@ DBS,Invesco DB Silver Fund,ARCA
 DBSDF,Dbs Group Holdings Ltd Ord Ordinary Shares,U
 DBSDY,Dbs Group Holdings Ltd Ord American Depositary Shares,U
 DBSHF,"DB ETC PLC, St Helier Physical Rhodium ETC on Physical Rhodium Commodity Secured (Jersey)",U
-DBTRF,Xtrackers FTSE Vietnam Swap UCITS ETF 1C Foreign Exchange Traded Fund,U
 DBTX,"Decibel Therapeutics, Inc. Common Stock",NASDAQ
 DBUB,DBUB Group Inc. Common Stock,U
 DBV,Invesco DB G10 Currency Harvest Fund,ARCA
@@ -1011,9 +1013,6 @@ DFEN,Direxion Daily Aerospace & Defense Bull 3X Shares,ARCA
 DFFN,Diffusion Pharmaceuticals Inc. Common Stock,NASDAQ
 DFH,"Dream Finders Homes, Inc. Class A Common Stock",NASDAQ
 DFHL,Dong Fang Hui Le Inc. Common Stock,U
-DFHT,Deerfield Healthcare Technology Acquisitions Corp. Class A Common Stock,NASDAQ
-DFHTU,Deerfield Healthcare Technology Acquisitions Corp. Unit,NASDAQ
-DFHTW,Deerfield Healthcare Technology Acquisitions Corp. Warrant,NASDAQ
 DFHY,TrimTabs Donoghue Forlines Tactical High Yield ETF,BATS
 DFIFF,Diamond Fields Resources Inc. Ordinary Shares,U
 DFIHY,Dairy Farm International Holdings Ltd Unsponsored ADR,U
@@ -1352,6 +1351,7 @@ DNPCF,Dai Nippon Printing Ltd Ord Ordinary Shares,U
 DNPLY,Dai Nippon Printing Limited Japan Sponsored ADR,U
 DNPUF,Dai Nippon Pharmaceutical Ord Ordinary Shares,U
 DNRRW,Denbury Inc New Warrant Exp 09/18/2023,U
+DNRSF,Denarius Silver Corp. Common Stock (Canada),U
 DNRWW,Denbury Inc New Series A Warrant Exp 09/18/2025,U
 DNSBF,Dine Sab De Cv Shs B (Mexico),U
 DNSKF,Danske Bank A/S Bearer Shs Ord Ordinary Shares,U
@@ -2458,6 +2458,7 @@ EPRF,Innovator S&P Investment Grade Preferred ETF,BATS
 EPRJF,Emperor Watch Ordinary Shares (Hong Kong),U
 EPRSQ,"EPIRUS Biopharmaceuticals, Inc. Common Stock",U
 EPRT,"Essential Properties Realty Trust, Inc.",NYSE
+EPRXF,EUPRAXIA PHARMACEUTICALS INC COM (Canada),U
 EPS,WisdomTree U.S. LargeCap Fund,ARCA
 EPSFF,Episurf Medical AB Ordinary Shares (Sweden),U
 EPSN,Epsilon Energy Ltd. Common Share,NASDAQ
@@ -3129,7 +3130,7 @@ FCNE,"Four Corners, Inc. Common Stock",U
 FCNSF,FUNAI SOKEN HLDGS INC Ordinary Shares,U
 FCO,Aberdeen Global Income Fund Inc,AMEX
 FCOB,"1st Colonial Bancorp, Inc. (PA) Common Stock",U
-FCODF,Financiere De L Odet Sa Ordinary Shares (France),U
+FCODF,COMPAGNIE DE L ODET Common Shares,U
 FCOM,Fidelity MSCI Communication Services Index ETF,ARCA
 FCOR,Fidelity Corporate Bond ETF,ARCA
 FCPB,First Capital Bancshares Inc. Common Stock,U
@@ -4502,6 +4503,7 @@ GDNEF,Golden Eagle Retail Group Ltd Ordinary Shares (Cayman Islands),U
 GDNEY,Golden Eagle Retail Group Ltd Unsponsored ADR (Cayman Islands),U
 GDNGY,Gudang Garam TBK PT  American Depositary Receipts - Unsponsored (Indonesia),U
 GDNNF,Guodian Technology & Environment Group Corp Ltd Ordinary Shares (China),U
+GDNSF,GOODNESS GROWTH HLDGS INC Common Shares,U
 GDO,Western Asset Global Corporate Defined Opportunity Fund Inc.,NYSE
 GDOT,Green Dot Corporation,NYSE
 GDP,Goodrich Petroleum Corporation Common Stock,AMEX
@@ -5149,7 +5151,6 @@ GPK,Graphic Packaging Holding Company,NYSE
 GPKE,"Graystone Park Enterprises, Inc. Common Stock",U
 GPKUF,Grand Peak Capital Corp. Common Shares,U
 GPL,Great Panther Mining Limited,AMEX
-GPLA,"Gameplan, Inc. Common Stock",U
 GPLB,Green Planet Bioengineering Co. Ltd. Common Stock,U
 GPLPF,Group Lease Public Co Ltd Shs Foreign Registered (Thailand),U
 GPLS,Geopulse Exploration Inc. Common Stock,U
@@ -5525,4 +5526,3 @@ GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
 GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
-GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U

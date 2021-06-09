@@ -114,6 +114,7 @@ ABGSF,ABG Sundal Collier ASA Ordinary Shares (Norway),U
 ABHBY,Alfen Beheer B.V. ADR (Netherlands),U
 ABILF,Ability Inc.  Ordinary Shares,U
 ABIO,"ARCA biopharma, Inc. Common Stock",NASDAQ
+ABIT,ATHENA BITCOIN GLOBAL Common Stock,U
 ABKB,"American Basketball Association, Inc. Common Stock",U
 ABLE,"Able Energy, Inc. Common Stock",U
 ABLGF,Alten Boulogne-Billancourt Ordinary Shares (France),U
@@ -235,7 +236,7 @@ ACII,Atlas Crest Investment Corp. II,NYSE
 ACII U,"Atlas Crest Investment Corp. II Units, each consisting of one Class A common stock, $.0001 par value",NYSE
 ACII WS,"Atlas Crest Investment Corp. II Redeemable Warrants, each whole warrant exercisable for one Class A",NYSE
 ACIO,Aptus Collared Income Opportunity ETF,BATS
-ACIRF,AIMS-AMP CAPITAL INDUSTRIAL REIT REIT,U
+ACIRF,AIMS APAC REIT REIT,U
 ACITF,Asian Citrus Holdings Ltd Ordinary Shares (Bermuda),U
 ACIU,AC Immune SA Common Stock,NASDAQ
 ACIW,"ACI Worldwide, Inc. Common Stock",NASDAQ
@@ -271,6 +272,7 @@ ACNFF,Amsterdam Commodities NV Ordinary Shares (Netherlands),U
 ACNI,American Community Newspapers Inc Common Stock,U
 ACNNF,Auscann Group Hldgs Ltd Ordinary Shares (Australia),U
 ACNV,"Accelera Innovations, Inc Common Stock",U
+ACOGF,ALPHA COGNITION INC NEW COM (Canada),U
 ACOPF,A2 Milk Co Ltd. Shs (New Zealand),U
 ACOPY,The A2 Milk Co Ltd Unsponsored ADR (New Zealand),U
 ACOR,"Acorda Therapeutics, Inc. Common Stock",NASDAQ
@@ -534,7 +536,6 @@ AEXE,Aim Exploration Inc Common Stock,U
 AEXFF,Aminex Plc Ord Ordinary Shares,U
 AEY,"ADDvantage Technologies Group, Inc. Common Stock",NASDAQ
 AEYE,"AudioEye, Inc. Common Stock",NASDAQ
-AEYYF,Alpha Energy Holdings Ltd Ordinary Shares (Singapore),U
 AEZS,Aeterna Zentaris Inc. Common Stock,NASDAQ
 AFAP,AFA Protective Systems Inc. Common Stock,U
 AFAQ,AF Acquisition Corp. Class A Common Stock,NASDAQ
@@ -3319,7 +3320,7 @@ BOKF,BOK Financial Corporation Common Stock,NASDAQ
 BOKFL,BOK Financial Corporation 5.375% Subordinated Notes due 2056,NASDAQ
 BOLB,Bol Bancshares Inc Common Stock,U
 BOLBP,Bol Bancshares Inc Preferred Stock,U
-BOLIF,Boliden AB Share AK (Sweden),U
+BOLIF,BOLIDEN AB NEW Ordinary Shares,U
 BOLL,"Bollinger Industries, Inc. Common Stock",U
 BOLNF,BOLIDEN AB NEW SHARE AK IL Ordinary Shares,U
 BOLSF,B3 SA Reg Shs Ord Common Shares (Brazil),U
@@ -3579,6 +3580,7 @@ BSET,"Bassett Furniture Industries, Incorporated Common Stock",NASDAQ
 BSFC,BLUE STAR FOODS CORP COM,U
 BSFFF,Basic-Fit N.V. Ordinary Shares (Netherlands),U
 BSFO,Bank of San Francisco NEW,U
+BSGAU,Blue Safari Group Acquisition Corp. Unit,NASDAQ
 BSGC,BigString Corporation Common Stock,U
 BSGM,"BioSig Technologies, Inc. Common Stock",NASDAQ
 BSHI,"Boss Holdings, Inc. Common Stock",U
@@ -3620,7 +3622,7 @@ BSPDY,PT Bumi Serpong Damai Tbk Unsponsored ADR (Indonesia),U
 BSPI,"Business Solutions Plus, Inc. Common Stock",U
 BSPK,"Bespoke Extracts, Inc. Common Stock",U
 BSPM,BIOSTAR PHARMACEUTICALS INC Common Stock,U
-BSPOF,Bespoke Cap Acquisition Corp Warrant Exp 08/16/2027 (Canada),U
+BSPOW,"Vintage Wine Estates, Inc. Warrant",U
 BSPR,Bigsupersearch.com Inc Common Stock,U
 BSQR,BSQUARE Corporation Common Stock,NASDAQ
 BSRR,Sierra Bancorp Common Stock,NASDAQ
@@ -3703,7 +3705,7 @@ BTSDF,Health & Happiness International Holdings Ltd.  Ordinary Shares,U
 BTSEF,BET SHEMESH ENGINES HOLDINGS 1997 LTD SHS (Israel),U
 BTSGF,BTS Group Holdings Public Co Ltd. Local Shares (Thailand),U
 BTSGY,BTS Group Holdings Public Company Ltd Unsponsored ADR (Thailand),U
-BTSNF,BETSSON AB SHARE AK B (Sweden),U
+BTSNF,Betsson AB Ordinary Shares,U
 BTSNY,Betsson AB ADR Repstg Cl B SHS (Sweden),U
 BTSR,"BrightStar Information Technology Group, Inc. Common Stock",U
 BTSRF,BTS Rail Mass Tran Growth Infrastructure Fund Units 2013 - Foreign Reg (Thailand),U
@@ -4123,7 +4125,6 @@ CBKLP,Cobank ACB Preferred Stock Perp Pfd Ser G 6.125%,U
 CBKM,Consumers Bancorp Inc Common Stock (Ohio),U
 CBKPP,Cobank ACB Perp Pfd Cl F Fixed To Fltg,U
 CBLAQ,CBL & ASSOC PPTYS INC Common Stock,U
-CBLDF,Cashbuild Ltd Ordinary Shares (South Africa),U
 CBLDQ,CBL & ASSOC PPTYS INC DEP SHS REPSTG 1/10TH PFD SER D 7.375% Depositary Shares,U
 CBLEQ,CBL & ASSOC PPTYS INC DEPOSITARY SHS REPSTG 1/10 6.625% SER E CUM REDEEMABLE (PFD STK) Depositary Shares,U
 CBLI,"Cleveland BioLabs, Inc. Common Stock",NASDAQ
@@ -4207,6 +4208,7 @@ CCGGY,C & C Group Plc Sponsored ADR (Ireland),U
 CCGLF,China Shanshui Cement Group Ltd Ordinary Shares (Cayman Islands),U
 CCGM,"China CGame, Inc Common Stock",U
 CCGN,Consumer Capital Group Inc. Common Stock,U
+CCGRF,C&C GROUP PLC PAR VALUE NIL PAID RIGHTS (Ireland),U
 CCGY,China Clean Energy Inc. Common Stock,U
 CCHBF,COCA COLA HBC LTD Ordinary Shares,U
 CCHGY,COCA-COLA HBC AG Unsponsored ADR (Switzerland),U
@@ -4415,7 +4417,6 @@ CEPPF,CENTRAL PUERTO SA ORD 1 VOTO ESCRIT (Argentina),U
 CEPU,Central Puerto S.A. American Depositary Shares (each represents ten Common Shares),NYSE
 CEQP,Crestwood Equity Partners LP,NYSE
 CEQP PR,Crestwood Equity Partners LP Preferred Units representing limited partner interests,NYSE
-CEQXF,Cequence Energy Ltd. Common Shares,U
 CERAF,Ceres Acquisition Corp Com Class A Shares (Canada),U
 CERC,Cerecor Inc. Common Stock,NASDAQ
 CERE,"Cerevel Therapeutics Holdings, Inc. Common Stock",NASDAQ
@@ -4579,7 +4580,7 @@ CGNT,Cognyte Software Ltd. Ordinary Shares,NASDAQ
 CGNWF,CGN PWR CO LTD Shs Unitary 144A/Reg S (China),U
 CGNX,Cognex Corporation Common Stock,NASDAQ
 CGO,Calamos Global Total Return Fund Common Stock,NASDAQ
-CGOL,Contact Gold Corp Common Stock,U
+CGOLF,Contact Gold Corp. CDA Common Stock,U
 CGPHF,CHINA GRAND PHARMACEUTICAL AND HEALTHCARE HOLDINGS LTD Common Stock Bermuda(BM ),U
 CGPI,"China Redstone Group, Inc. Com",U
 CGPVF,CGG Ordinary Shares,U
@@ -4929,6 +4930,7 @@ CLB,Core Laboratories N.V.,NYSE
 CLBEY,"Calbee Inc, American Depositary Receipts - Unsponsored (Japan)",U
 CLBK,"Columbia Financial, Inc. Common Stock",NASDAQ
 CLBN,"Caliber Energy, Inc. New Common Stock",U
+CLBR U,"Colombier Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-thi",NYSE
 CLBS,"Caladrius Biosciences, Inc. Common Stock",NASDAQ
 CLCFF,Christina Lake Cannabis Corp Common Shares (Canada),U
 CLCGY,Clicks Group Ltd SPONSORED ADR,U
@@ -5086,6 +5088,8 @@ CM,Canadian Imperial Bank of Commerce,NYSE
 CMA,Comerica Incorporated,NYSE
 CMAKY,China Minsheng Banking Corp Ltd Unsponsored ADR (China),U
 CMAUF,Chibougamau Independant Mines Inc Common Shares,U
+CMAX,"CareMax, Inc. Class A Common Stock",NASDAQ
+CMAXW,"CareMax, Inc. Warrant",NASDAQ
 CMBM,Cambium Networks Corporation Ordinary Shares,NASDAQ
 CMBS,iShares CMBS ETF,ARCA
 CMBXF,"Cambium Global Timberland Limited, St Helier Ordinary Shares (United Kingdom)",U
@@ -5523,6 +5527,3 @@ CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAI,Champion Pain Care Corporation Common Stock,U
-CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
-CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
-CPB,Campbell Soup Company,NYSE

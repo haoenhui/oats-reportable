@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTBC,"CareCloud, Inc. Common Stock",NASDAQ
+MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
+MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
@@ -311,7 +314,6 @@ NBIAY,Nobia AB Unsponsored ADR (Sweden),U
 NBIO,Nascent Biotech Inc. Common Stock,U
 NBIX,"Neurocrine Biosciences, Inc. Common Stock",NASDAQ
 NBKCF,NATIONAL BK CDA MONTREAL QUE 1ST PFD SHS SER 38 NVCC Preferred Stock Canada(CA ),U
-NBLCF,Noble Corp New Common Shares (Cayman Islands),U
 NBLRF,Nobel Corp New Tranche 2 Warrant Exp 02/04/2028 (Cayman Islands),U
 NBLTF,Nobel Corp New Tranche 1 Warrant Exp 02/04/2028 (Cayman Islands),U
 NBLWF,Nobel Corp New Tranche 3 Warrant Exp 02/04/2026 (Cayman Islands),U
@@ -420,6 +422,7 @@ NDVR,New Dover Capital Corporation,U
 NDWTF,NETDRAGON WEBSOFT HLDGS LTD SHS (Cayman Islands),U
 NDWTY,Netdragon Websoft Inc Unsponsored ADR (Cayman Islands),U
 NDYN,"Vinings Holdings, Inc. Common Stock",U
+NE,Noble Corporation,NYSE
 NEA,Nuveen AMT-Free Quality Municipal Income Fund,NYSE
 NEAPF,Nearmap Ltd Ordinary Shares (Australia),U
 NEAR,BlackRock Short Maturity Bond ETF,BATS
@@ -716,7 +719,7 @@ NLSN,Nielsen Holdings plc,NYSE
 NLSP,NLS Pharmaceutics Ltd. Ordinary Shares,NASDAQ
 NLSPW,NLS Pharmaceutics Ltd. Warrant,NASDAQ
 NLST,"Netlist, Inc. Common Stock",U
-NLTBF,Nolato AB Ordinary Shares B (Sweden),U
+NLTBF,Nolato AB B Shs Ordinary Shares,U
 NLTX,"Neoleukin Therapeutics, Inc. Common Stock",NASDAQ
 NLVVF,New Leaf Ventures Common Stock Class A (Canada),U
 NLY,Annaly Capital Management. Inc.,NYSE
@@ -1088,6 +1091,7 @@ NTEC,Intec Pharma Ltd. Ordinary Shares,NASDAQ
 NTEDY,Notre Dame Intermedica Participacoes SA American Depositary Receipts - Unsponsored,U
 NTEI,"Nova Tech Enterprises, Inc. Common Stock",U
 NTEK,"NanoTech Entertainment, Inc. Common Stock",U
+NTELF,92 ENERGY LTD ORDINARY FULLY PAID (Australia),U
 NTES,"NetEase, Inc. American Depositary Shares",NASDAQ
 NTETF,Nikkei 225 Exchange Traded Fund Tokyo Units (Japan),U
 NTFL,"Network 1 Financial Group, Inc. Common Stock",U
@@ -1607,7 +1611,6 @@ OLMA,"Olema Pharmaceuticals, Inc. Common Stock",NASDAQ
 OLMIF,Olam International Ltd Ordinary Shares (Singapore),U
 OLMIY,Olam International Ltd Unsponsored ADR (Singapore),U
 OLMM,OneLife Technologies Corp. Common Stock,U
-OLMXF,Aleatica Sab De Cv Ordinary Shares,U
 OLN,Olin Corp.,NYSE
 OLNCF,Omni Lite Inds Cda Inc Ordinary Shares,U
 OLNK,OneLink Corporation Common Stock,U
@@ -3493,7 +3496,6 @@ PVAL,Putnam Focused Large Cap Value ETF,ARCA
 PVARF,Porvair Plc Ord Common Stock,U
 PVBC,"Provident Bancorp, Inc. (MD) Common Stock",NASDAQ
 PVBK,"Pacific Valley Bank (Salinas, CA) Common Stock",U
-PVCRF,"PV Crystalox Solar Plc, Wantage Ordinary shares (United Kingdom)",U
 PVCT,PROVECTUS BIOPHARMACEUTICALS INC Common Stock,U
 PVDRF,Providence Resources Ordinary Shares,U
 PVEG,"Pacific Vegas Global Strategies, Inc. (CO) Common Stock",U
@@ -3626,7 +3628,6 @@ QBCRF,Quebecor Inc. Ordinary Shares,U
 QBEIF,Q B E Insurance Group Ltd Ordinary Shares,U
 QBIEY,QBE Insurance Group Ltd Sponsored American Depository Receipt (Australia),U
 QBIO,Q BioMed Inc. Common Stock,U
-QBTIF,QUABIT INMOBILIARIA SA ACCIONES POR AGRUPACION CLASE A Ordinary Shares,U
 QCAAF,Quinsam Cap Corp Ordinary Shares (Canada),U
 QCCO,"QC Holdings, Inc.",U
 QCCP,Quad County Corn Processors Cooperative Membership Unit,U
@@ -5525,4 +5526,3 @@ SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
-SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U

@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
@@ -145,6 +146,7 @@ HAYW,"Hayward Holdings, Inc.",NYSE
 HAZAF,Hazama Ando Corp Ordinary Shares (Japan),U
 HAZH,"Haz Holdings, Inc. Common Stock",U
 HBAN,Huntington Bancshares Incorporated Common Stock,NASDAQ
+HBANM,Huntington Bancshares Incorporated Depositary Shares each representing a 1/1000th interest in a share of Huntington Series I Preferred Stock,NASDAQ
 HBANN,Huntington Bancshares Incorporated Depositary Shares each representing a 1/40th interest in a share of 5.875% Series C Non-Cumulative Perpetual Preferred Stock,NASDAQ
 HBANO,Huntington Bancshares Incorporated Depositary Shares,NASDAQ
 HBANP,Huntington Bancshares Incorporated Depositary Shares 4.500% Series H Non-Cumulative Perpetual Preferred Stock,NASDAQ
@@ -1750,7 +1752,7 @@ INKAU,KludeIn I Acquisition Corp. Unit,NASDAQ
 INKAW,KludeIn I Acquisition Corp. Warrant,NASDAQ
 INKM,SPDR SSgA Income Allocation ETF of SSgA Active Trust,ARCA
 INKW,"Greene Concepts, Incorporated Common Stock",U
-INLAF,Interlapse Technologies Corp Common Shares,U
+INLAF,LQwD FinTech Corp. Common Shares,U
 INLB,Item 9 Labs Corp. Common Stock,U
 INLCF,INFINITY LITHIUM CORP LTD Ordinary Shares,U
 INLX,"Intellinetics, Inc. Common Stock",U
@@ -2126,7 +2128,6 @@ ISSC,"Innovative Solutions and Support, Inc. Common Stock",NASDAQ
 ISSDY,Iss A/S American Depositary Receipts - Sponsored (Denmark),U
 ISSEF,iShares II PLC GBP Ordinary Shares (Ireland),U
 ISSFF,CopAur Minerals Inc. Ordinary Shares,U
-ISSGF,iShares 1-10 Yr Laddered Govt Bd Index ETF (Canada),U
 ISSHF,iShares II plc USD Treasury Bond 7-10Yr UCITS ETF (Ireland),U
 ISSIF,iShares III plc Ordinary Shares USD (Ireland),U
 ISSPF,iShares III plc Ordinary Shares (Ireland),U
@@ -2333,7 +2334,7 @@ IVSG,Invesco Select Growth ETF,BATS
 IVSPF,ISHARES V PLC S&P 500COMUNICTION SCTR UCIT ETF USD ACC (Ireland),U
 IVSRF,Ishares II Plc Floating Rate Bond UCITS USD Acc Exchange Traded Fund (Ireland),U
 IVST,"Innovest Global, Inc. Common Stock",U
-IVSXF,Investor Ab Stockholm Fria B Ordinary Shares,U
+IVSXF,Investor AB Ordinary Shares,U
 IVTBF,INVESTMENTAKTIEBOLAGET LATOUR SHARE AK B Ordinary Shares (Sweden),U
 IVTJF,Investec plc Ordinary Shares,U
 IVTJY,Investec PLC Unsponsored American Depository Receipt (United Kingdom),U
@@ -2689,6 +2690,7 @@ JPEM,JPMorgan Diversified Return Emerging Markets Equity ETF,ARCA
 JPEX,"JPX Global, Inc. Common",U
 JPFAF,Pt Japfa Comfeed Indonesia Tbk Ordinary Shares (Indonesia),U
 JPFEF,JPMorgan Fleming Continental European Investment Trust Plc Ordinary Shares (United Kingdom),U
+JPGLF,JPMORGAN ETFS IRELAND ICAV GLOBAL EQUITY MULTI FACTOR UCITS ETF (Ireland),U
 JPHLF,JAPAN POST HLDGS CO LTD Ordinary Shares (Japan),U
 JPHY,JPMorgan Research Enhanced High Yield ETF,BATS
 JPI,NUVEEN PREFERRED AND INCOME TERM FUND,NYSE
@@ -3379,6 +3381,7 @@ KTCC,Key Tronic Corporation Common Stock,NASDAQ
 KTCIF,KT & G Corporation Ordinary Shares (South Korea),U
 KTDR,Ketdarina Corp. Common,U
 KTDYF,Keystone Dairy Corp Ltd. Ordinary Shares (Australia),U
+KTEC,KraneShares Hang Seng TECH Index ETF,ARCA
 KTEL,"KonaTel, Inc. Common Stock",U
 KTERF,Keio Corp Ordinary Shares Japan (JP),U
 KTF,DWS Municipal Income Trust,NYSE
@@ -3695,7 +3698,6 @@ LEYOF,Leyou Technologies Holdings Ltd Ordinary Shares (Cayman Islands),U
 LFAP,"LGBTQ Loyalty Holdings, Inc. Common Stock",U
 LFBCF,Life Banc & Split Corp Common Cl A (Canada),U
 LFC,China Life Insurance Company Ltd.,NYSE
-LFCAF,Lifco AB Shs B (Sweden),U
 LFCOF,Lift & Co Corporation Common Shares,U
 LFDEF,UrtheCast Corp Common Shares (Canada),U
 LFDJF,LA FRANCAISE DES JEUX ORD (France),U
@@ -3708,6 +3710,7 @@ LFIN,LongFin Corp Cl A Cm Stk Common Stock,U
 LFLS,"Loans4Less.com, Inc. Common Stock",U
 LFMD,"LifeMD, Inc. Common Stock",NASDAQ
 LFPI,Lifepoint Inc Common Stock,U
+LFST,"LifeStance Health Group, Inc. Common Stock",NASDAQ
 LFSYF,Lifestyle International Holdings Limited Ordinary Shares (Hong Kong),U
 LFSYY,Lifestyle International Holdings Limited Unsponsored ADR (Cayman Islands),U
 LFT,"Lument Finance Trust, Inc.",NYSE
@@ -3902,6 +3905,7 @@ LMGDF,Lumina Gold Corp Common Stock (Canada),U
 LMGHF,VICTORY PARTN VIII NORWAY HLDG AS LINK MOBILITY GROP HOLDING ASA Ordinary Shares,U
 LMGR,"Light Management Group, Inc. Common Stock",U
 LMHDF,Lem Holding Sa Plan Les Ouates Ordinary Shares Nom (Switzerland),U
+LMIAF,"LION E-MOBILITY AG, ZUG NAMEN AKT (Switzerland)",U
 LMIBL,LEGG MASON INC 5.45% JR SUB NT Other 09/15/2056,U
 LMLLF,PHARMADRUG INC Ordinary Shares,U
 LMMFF,Lithium Australia NL Ordinary Shares (Australia),U
@@ -4046,6 +4050,7 @@ LPTI,Longport Inc Common Stock,U
 LPTV,"Loop Media, Inc. Common Stock",U
 LPTX,"Leap Therapeutics, Inc. Common Stock",NASDAQ
 LPX,Louisiana-Pacific Corp.,NYSE
+LQAVF,LIQUID AVATAR TECHNOLOGIES INC Ordinary Shares,U
 LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,ARCA
 LQDA,Liquidia Corporation Common Stock,NASDAQ
 LQDB,iShares BBB Rated Corporate Bond ETF,ARCA
@@ -4381,7 +4386,7 @@ MARK,"Remark Holdings, Inc. Common Stock",NASDAQ
 MARPS,Marine Petroleum Trust Units of Beneficial Interest,NASDAQ
 MARUF,Marubeni Corp Ord Ordinary Shares,U
 MARUY,Marubeni Corp Ord American Depositary Shares,U
-MARXF,Marenica Energy Ltd Ordinary Shares,U
+MARXF,ELEVATE URANIUM LTD Ordinary Shares,U
 MARZ,TrueShares Structured Outcome (March) ETF,BATS
 MARZF,Marston's PLC Ordinary Shares (United Kingdom),U
 MAS,Masco Corporation,NYSE
@@ -4630,7 +4635,6 @@ MDOUF,Maisons Du Monde SA Common Stock (France),U
 MDP,Meredith Corporation,NYSE
 MDPCF,Madison Pac Ppts- B Ordinary Shares,U
 MDPEB,Meredith Corporation Common Stock Class B,U
-MDPPF,ALLARITY THERAPEUTICS A S Unit Rights Exp 6/8/2021 (Denmark),U
 MDRA,Medra Corporation Common Stock,U
 MDRM,"Modern Mobility Aids, Inc Common Stock",U
 MDRNF,MODERN PLT BASED FOODS INC Ordinary Shares,U
@@ -5049,7 +5053,6 @@ MLPLF,PT Multipolar Technology TBK Ordinary Shares (Indonesia),U
 MLPO,Credit Suisse S&P MLP Index ETN,ARCA
 MLPR,ETRACS Quarterly Pay 1.5X Leveraged Alerian MLP Index ETN,ARCA
 MLPX,Global X MLP & Energy Infrastructure ETF,ARCA
-MLPY,Morgan Stanley Cushing MLP High  Income Index ETN,ARCA
 MLR,"Miller Industries, Inc.",NYSE
 MLRKF,Millrock Res Inc Common Shares,U
 MLRYY,Mail Ru Group Sponsored GDR Reg S (Virgin Islands),U
@@ -5523,6 +5526,3 @@ MTACW,MedTech Acquisition Corporation Warrant,NASDAQ
 MTAGF,Ceconomy AG Ordinary Shares,U
 MTALF,METALLICA METALS CORP Ordinary Shares,U
 MTB,M&T Bank Corp.,NYSE
-MTBC,"CareCloud, Inc. Common Stock",NASDAQ
-MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
-MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
