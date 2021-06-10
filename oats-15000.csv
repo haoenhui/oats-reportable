@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTBC,"CareCloud, Inc. Common Stock",NASDAQ
-MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
-MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
@@ -262,6 +259,7 @@ NADA,"North American Datacom, Inc. Common Stock",U
 NAECF,National Arts Entertainment & Culture Group Ltd Ordinary Shares (Bermuda),U
 NAEX,"National Art Exchange, Inc. Common Shares",U
 NAFS,"North America Frac Sand, Inc. Common Stock",U
+NAGGF,NAGA GROUP AG Common Shares (Germany Federal Republic),U
 NAHD,"New Asia Holdings, Inc. Common Stock",U
 NAII,"Natural Alternatives International, Inc. Common Stock",NASDAQ
 NAIL,Direxion Daily Homebuilders & Supplies Bull 3X Shares,ARCA
@@ -289,6 +287,7 @@ NATR,"Nature's Sunshine Products, Inc. Common Stock",NASDAQ
 NATUF,North Amern Tungsten Cp Ltd Ordinary Shares,U
 NAUBF,National Australia Bk Ltd  Ord Ordinary Shares,U
 NAUH,"National American University Holdings, Inc. Common Stock",U
+NAUT,"Nautilus Biotechnolgy, Inc. Common Stock",NASDAQ
 NAV,Navistar International,NYSE
 NAV PRD,"Navistar International Corporation Cumulative Convertible Junior Preference Stock, Series D",NYSE
 NAVB,Navidea Biopharmaceuticals Inc.,AMEX
@@ -1321,7 +1320,6 @@ NXCR,NexCore Healthcare Capital Corp. Common Stock,U
 NXDCF,"NEXTDC Ltd, Brisbane QLD Ordinary Shares (Australia)",U
 NXE,NexGen Energy Ltd. Common Shares,AMEX
 NXEN,"Nexien BioPharma, Inc. Common Stock",U
-NXEOW,"Nexeo Solutions, Inc. Warrants Expiring 06/09/2021",U
 NXEPF,Nexen Tire Corp Preferred Ord Shares (Republic of South Korea),U
 NXFNF,NEXT FIFTEEN COMMUNICATIONS GROUP PLC Ordinary Shares,U
 NXGB,"NxGen Brands, Inc. Common Stock",U
@@ -1395,7 +1393,6 @@ NZEOY,New Zealand Oil & Gas Ltd American Depositary Receipts - Unsponsored,U
 NZERF,New Zealand Energy Corp. Ordinary Shares (Canada),U
 NZF,Nuveen Municipal Credit Income Fund,NYSE
 NZIH,"NZJ Holdings, Inc. Common Stock",U
-NZKSF,New Zealand King Salmon Investments Ltd Ordinary Shares (New Zealand),U
 NZMEF,Nzme Ltd Ordinary Shares (New Zealand),U
 NZRFF,The New Zealand Refining Company Ltd Ordinary Shares (New Zealand),U
 NZRFY,The New Zealand Refining Company Ltd Unsponsored ADR (New Zealand),U
@@ -1712,6 +1709,7 @@ OOGI,"C2E Energy, Inc. Common Stock",U
 OOIL,Perkins Oil & Gas Inc. Common Stock,U
 OOMA,"Ooma, Inc. Common Stock",NYSE
 OONEF,01 Communique Lab Inc Common Shares (Canada),U
+OOTO,Direxion Daily Travel & Vacation Bull 2X Shares,ARCA
 OPA,Magnum Opus Acquisition Limited,NYSE
 OPA U,"Magnum Opus Acquisition Limited Units, each consisting of one Class A ordinary share and one-half re",NYSE
 OPA WS,"Magnum Opus Acquisition Limited Redeemable Warrants, each warrant exercisable for one Class A ordina",NYSE
@@ -2595,6 +2593,7 @@ PIFMY,PT Indofood Sukses Makmur TBK Unsponsored ADR (Indonesia),U
 PIFR,Premier Information Management Inc Common Stock,U
 PIFYF,Pine Cliff Energy Limited Common Stock (Canada),U
 PIGEF,Pigeon Corp Ordinary Shares,U
+PIHG,Plural Industry Holding Group Co. Limited Common Stock,U
 PIHLF,PIHLAJALINNA OY Ordinary Shares (Finland),U
 PIHN,"Polaris International Holdings, Inc.  Common Stock",U
 PII,Polaris Inc.,NYSE
@@ -2782,6 +2781,7 @@ PME,Pingtan Marine Enterprise Ltd.,NASDAQ
 PMEA,P.M.& E INC Common Stock,U
 PMEDF,Predictmedix Inc.  Ordinary Shares,U
 PMEHF,Primeline Energy Holdings Inc Ordinary Shares,U
+PMEMF,PIMCO ETFS PLC EMERGING MKTS ADVANTAGE LOC BD INDEX UCITS ETF ACCUM USD Exchange Traded Fund,U
 PMF,PIMCO MUNICIPAL INCOME FUND COMMON SHARES OF BENEFICIAL INTERST,NYSE
 PMFIF,PIMCO ETFS PLC Exchange Traded Fund,U
 PMFXF,PIMCO ETFS PLC Exchange Traded Fund,U
@@ -3579,7 +3579,6 @@ PYCFF,Mount Logan Cap Inc Ordinary Shares,U
 PYCT,"Paychest, Inc. Common Stock",U
 PYDPF,Pyramid Petroleum Inc Common Shares (Canada),U
 PYHOF,"Playmates Holdings, Ltd. Ordinary Shares",U
-PYIFF,PYI CORP LTD Ordinary Shares,U
 PYIYF,Property For Industry Ltd Shs (New Zealand),U
 PYIYY,Property For Industry Ltd Ord Unsponsored ADR (New Zealand),U
 PYMOF,HYDROCARBON DYNAMICS LTD Ordinary Shares,U
@@ -3728,6 +3727,7 @@ QOEG,Quality Online Education Group Inc. Common Stock,U
 QOIL,Quest Oil Corporation Common Stock,U
 QOWI,Quality One Wireless Inc,U
 QPFF,American Century Quality Preferred ETF,BATS
+QPMLF,QUEENSLAND PAC METALS LTD ORDINARY FULLY PAID (Australia),U
 QPRC,Quest Patent Research Corporation Common Stock,U
 QPSF,QPS Die Cutters Common,U
 QPT,AdvisorShares Q Portfolio Blended Allocation ETF,ARCA
@@ -3834,7 +3834,6 @@ RABSF,RREF II AL BRECK SOCIMI S A U Ordinary Shares,U
 RACA,Therapeutics Acquisition Corp. Class A Common Stock,NASDAQ
 RACB,Research Alliance Corp. II Class A Common Stock,NASDAQ
 RACE,Ferrari N.V.,NYSE
-RACMF,FOBI AI INC Common Shares,U
 RAD,Rite Aid Corporation,NYSE
 RADA,RADA Electronic Industries Ltd. Ordinary Shares,NASDAQ
 RADI,"Radius Global Infrastructure, Inc. Class A Common Stock",NASDAQ
@@ -3885,7 +3884,7 @@ RBA,Ritchie Bros. Auctioneers Incorporated,NYSE
 RBAC,RedBall Acquisition Corp.,NYSE
 RBAC U,"RedBall Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one",NYSE
 RBAC WS,"RedBall Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordina",NYSE
-RBAZ,Republic Bank AZ Common Stock,U
+RBAZ,RBAZ BANCORP INC Common Stock,U
 RBB,RBB Bancorp Common Stock,NASDAQ
 RBBN,Ribbon Communications Inc. Common Stock,NASDAQ
 RBC,Regal Beloit Corporation,NYSE
@@ -4175,7 +4174,7 @@ RGBOQ,"ReGen Biologics, Inc. Common Stock",U
 RGBP,"Regen Biopharma, Inc. Common",U
 RGBPP,"Regen Biopharma, Inc. Preferred Stock",U
 RGCO,RGC Resources Inc. Common Stock,NASDAQ
-RGDCF,GAIA METALS CORP Ordinary Shares,U
+RGDCD,PATRIOT BATTERY METALS INC Ordinary Shares,U
 RGDEF,RDX Technologies Corporation Ordinary Shares (Canada),U
 RGDFF,Reunion Gold Corporation Ordinary Shares (Canada),U
 RGDXQ,"Response Genetics, Inc.",U
@@ -4896,6 +4895,7 @@ SAPX,"Seven Arts Entertainment, Inc. Common stock (NV)",U
 SAR,SARATOGA INVESTMENT CORP. NEW,NYSE
 SARDF,SANFORD LTD O N (New Zealand),U
 SARDY,Sanford Ltd Unsponsored ADR (New Zealand),U
+SAREF,Sabre Resources Ltd Ordinary Shares (Austrailia),U
 SARSF,Canada House Wellness Group Inc. Ordinary Shares,U
 SARTF,Sartorius Ag Ordinary Shares,U
 SASDF,SAS AB Stockholm Ordinary Shares (Sweden),U
@@ -5526,3 +5526,5 @@ SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
+SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
+SHGY,SearchGuy.com Inc. Common Stock,U

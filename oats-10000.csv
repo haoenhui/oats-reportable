@@ -1,13 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
-GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
@@ -171,6 +162,7 @@ HBKRF,"Highbank Resources, Ltd. (Canada) Ordinary Shares",U
 HBM,Hudbay Minerals Inc.,NYSE
 HBMBF,HBM Bioventures AG Baar ZG Namen - AKT (Switzerland),U
 HBMD,"Howard Bancorp, Inc. Common Stock",NASDAQ
+HBMHF,HBM HLDGS LTD Ordinary Shares,U
 HBMK,Hubei Minkang Pharmaceutical Ltd Common Stock,U
 HBNC,"Horizon Bancorp, Inc. Common Stock",NASDAQ
 HBNNF,BETAPRO NAT GAS INVERSE LEVERAGED DAILY BEAR ETF Unit,U
@@ -189,7 +181,6 @@ HBUV,Hubilu Venture Corporation Common Shares,U
 HCA,"HCA Healthcare, Inc.",NYSE
 HCAEF,Holding Co Admie Ipto SA Common Stock (Greece),U
 HCANF,HALO COLLECTIVE INC Ordinary Shares,U
-HCAP,Harvest Capital Credit Corporation Common Stock,NASDAQ
 HCAPZ,Harvest Capital Credit Corporation 6.125% Notes due 2022,NASDAQ
 HCAQ,HealthCor Catalio Acquisition Corp. Class A Ordinary Shares,NASDAQ
 HCAR,Healthcare Services Acquisition Corporation Class A Common Stock,NASDAQ
@@ -206,6 +197,8 @@ HCCCU,Healthcare Capital Corp. Unit,NASDAQ
 HCCCW,Healthcare Capital Corp. Warrant,NASDAQ
 HCCI,"Heritage-Crystal Clean, Inc. Common Stock",NASDAQ
 HCDI,"Harbor Custom Development, Inc. Common Stock",NASDAQ
+HCDIP,"Harbor Custom Development, Inc. 8.0% Series A Cumulative Convertible Preferred Stock, no par value",NASDAQ
+HCDIW,"Harbor Custom Development, Inc. Warrant",NASDAQ
 HCEI,"Healthy Coffee International, Inc. Common Stock",U
 HCGI,Huntwicke Capital Group Inc. Common Stock,U
 HCGOF,Haichang Ocean Pk Holdings Ltd Ordinary Shares (Cayman Islands),U
@@ -611,7 +604,6 @@ HMTXF,Hemostemix Inc  Ordinary Shares,U
 HMY,Harmony Gold Mining Company Limited,NYSE
 HMZMF,HMZ Metals Inc Common Shares  (Canada),U
 HNCKF,Giga Metals Corp Common Shares,U
-HNCMF,Hutchison China Meditech Limited Ordinary shares (Cayman Islands),U
 HNDAF,Honda Motor Co Ltd Ordinary Shares,U
 HNDI,Handeni Gold Inc. Common Stock,U
 HNDL,Strategy Shares Nasdaq 7HANDL Index ETF,NASDAQ
@@ -1262,6 +1254,7 @@ ID,"PARTS iD, Inc.",AMEX
 IDA,"IDACORP, Inc.",NYSE
 IDAI,T STAMP INC COM CL A Common Stock,U
 IDAM,Idarado Mining Co Common Stock,U
+IDAT,iShares Cloud 5G and Tech ETF,ARCA
 IDBA,IDEX Biometrics ASA American Depositary Shares,NASDAQ
 IDBHF,INDUSTRIAS BACHOCO SAB DE CV Ordinary Shares B (Mexico),U
 IDCBF,Industrial and Commercial Bank of China Ltd Hkd Shs -H- (China),U
@@ -1833,6 +1826,7 @@ INVPF,INVESCO MARKETS PLC Exchange Traded Fund  (Ireland),U
 INVT,INVENTERGY GLOBAL INC Common Stock,U
 INVU,Investview Inc. Common Stock,U
 INVVY,INDIVIOR PLC  American Depositary Receipts - Sponsored,U
+INVXF,INVESCO MARKETS PLC INVESCO MATERIALS S&P US SELECT SECTOR UCITS ETF ACC Exchange Traded Fund,U
 INVZ,Innoviz Technologies Ltd. Ordinary shares,NASDAQ
 INVZW,Innoviz Technologies Ltd. Warrant,NASDAQ
 INXSF,Intouch Insight Ltd Ordinary Shares,U
@@ -1843,6 +1837,7 @@ IOCJY,Iochpe Maxion SA Sponsored American Depositary Shares repstg Pfd Shares,U
 IOFB,Iowa First Bancshares Corp. Common Stock,U
 IOFFF,Invesco Office J REIT Inc Ordinary Shares (Japan),U
 IOFNF,"Iofina Plc, London Ordinary shares (United Kingdom)",U
+IOGEF,ISHARES V PLC OIL & GAS EXPLORATION & PRODUCTION UCITS ETF (Ireland),U
 IOIOF,IOI Corporation BHDIOI Ordinary Shares (Malaysia),U
 IOMT,Isomet Corporation Common Stock,U
 IONAF,"Iona Energy, Inc. Ordinary Shares (Canada)",U
@@ -2438,6 +2433,7 @@ JAMGF,Jasper Mining Corp Ordinary Shares (Canada),U
 JAMN,Jammin Java Corp. Common Stock,U
 JAN,JanOne Inc. Common Stock (NV),NASDAQ
 JANL,JANEL CORP Common Stock,U
+JANX,"Janux Therapeutics, Inc. Common Stock",NASDAQ
 JANZ,TrueShares Structured Outcome (January) ETF,BATS
 JAPAF,Japan Tobacco Ordinary Shares,U
 JAPAY,Japan Tobacco Unsponsored American Depository Receipt ( Japan),U
@@ -3214,7 +3210,6 @@ KNTE,Kinnate Biopharma Inc. Common Stock,NASDAQ
 KNTNF,K92 Mining Inc Common Shares (Canada),U
 KNTPF,KINTOR PHARMACEUTICAL LTD Ordinary Shares,U
 KNTTF,Kintetsu Department Store Co Ltd Ordinary Shares (Japan),U
-KNVKF,Kinnevik AK B Ordinary Shares (Sweden),U
 KNWN,"Know Labs, Inc. Common Stock",U
 KNX,Knight-Swift Transportation Holdings Inc. Class A Common Stock,NYSE
 KNYJF,Kone Oyj Shares B (Finland),U
@@ -3269,6 +3264,8 @@ KPIFF,"Edgewater Wireless Systems, Inc. Ordinary Shares (Canada)",U
 KPJHF,Kpj Healthcare Bhd Ordinary Shares,U
 KPLIF,Keppel Infrastructure Trust NEW Units (Singapore),U
 KPLLF,Kino Polska TV SA Ordinary Shares (Poland),U
+KPLT,"Katapult Holdings, Inc. Common Stock",NASDAQ
+KPLTW,"Katapult Holdings, Inc. Warrant",NASDAQ
 KPLUF,K Plus S AG Ordinary Shares,U
 KPLUY,K plus S AG Sponsored ADR (Germany),U
 KPOC,"Kimberly Parry Organics, Corp. Common Stock",U
@@ -3838,6 +3835,7 @@ LITB,"LIGHTINTHEBOX HOLDING CO., LTD.",NYSE
 LITE,Lumentum Holdings Inc. Common Stock,NASDAQ
 LITH,U.S. Lithium Corp. Common Stock,U
 LITOF,Frontier Lithium  Ordinary Shares,U
+LITTU,Logistics Innovation Technologies Corp. Units,NASDAQ
 LIV,Emles @Home ETF,BATS
 LIVC,Live Current Media Inc. Common Stock,U
 LIVE,Live Ventures Incorporated Common Stock,NASDAQ
@@ -4001,7 +3999,7 @@ LOKM U,"Live Oak Mobility Acquisition Corp. Units, each consisting of one share 
 LOKM WS,"Live Oak Mobility Acquisition Corp. Warrants, exercisable for one share of Class A common stock at a",NYSE
 LOMA,"Loma Negra Compania Industrial Argentina Sociedad Anonima American Depositary Shares (ADSs), each re",NYSE
 LOMLF,Lion One Metals Ltd. Ordinary Shares (Canada),U
-LONCF,Loncor Resources Inc. Ordinary Shares,U
+LONCF,LONCOR GOLD INC Ordinary Shares,U
 LONE,Lonestar Resources US Inc. Common Stock,U
 LONKF,Lonking Holdings Ltd Ordinary Shares (Cayman Islands),U
 LOONF,Loon Energy Corp. Common Shares,U
@@ -4687,7 +4685,7 @@ MEG,"Montrose Environmental Group, Inc.",NYSE
 MEGEF,Meg Energy Corp. Common (Canada),U
 MEGGF,Meggitt Plc Ordinary Shares,U
 MEGGY,Meggitt Plc Unsponsored American Depository Receipt (United Kingdom),U
-MEGHD,"MW Investment Holding Group, Inc. Common Stock",U
+MEGH,"MW Investment Holding Group, Inc. Common Stock",U
 MEGPF,Megachips Corp Osaka Ordinary Shares (Japan),U
 MEI,Methode Electronics,NYSE
 MEIL,Methes Energies International Ltd.,U
@@ -5167,6 +5165,8 @@ MNIA,"Cannis, Inc. Common Stock",U
 MNICF,Mani Inc Takanezawa Ordinary Shares Japan(JP ),U
 MNII,Manati Inds Inc Common Stock,U
 MNILY,Minor International Public Co Ltd Unsponsored ADR (Thailand),U
+MNINF,MINOR INTERNATIONAL PUBLIC CO LTD Warrant   02/05/2024,U
+MNIPF,MINOR INTERNATIONAL PUBLIC CO LTD Warrant   05/05/2023,U
 MNIVF,Monash IVF Group Limited Ordinary Shares (Australia),U
 MNIZ,GEN 2 TECHNOLOGIES INC. Common Stock,U
 MNKD,MannKind Corporation Common Stock,NASDAQ
@@ -5526,3 +5526,6 @@ MTACW,MedTech Acquisition Corporation Warrant,NASDAQ
 MTAGF,Ceconomy AG Ordinary Shares,U
 MTALF,METALLICA METALS CORP Ordinary Shares,U
 MTB,M&T Bank Corp.,NYSE
+MTBC,"CareCloud, Inc. Common Stock",NASDAQ
+MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
+MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U

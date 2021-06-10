@@ -319,7 +319,6 @@ ACTV,LeaderShares Activist Leaders ETF,ARCA
 ACTX,"Advanced Container Technologies, Inc. Common Stock",U
 ACU,Acme United Corporation,AMEX
 ACUCF,ACUCORT AB Ordinary Shares,U
-ACUIF,AcuityAds Hldgs Inc Ordinary Shares (Canada),U
 ACUR,ACURA PHARMACEUTICALS INC Common Stock,U
 ACUS,"Acusphere, Inc. (NEW) Common Stock",U
 ACV,Virtus AllianzGI Diversified Income & Convertible Fund,NYSE
@@ -827,6 +826,7 @@ AIMC,Altra Industrial Motion Corp. Common Stock,NASDAQ
 AIMD,"AINOS, Inc. Common Stock",U
 AIMFF,"Aimia, Inc.  Common Shares (Canada)",U
 AIMH,Aimrite Holdings Corp Common Stock,U
+AIMLF,AI / ML Innovations Inc. Ordinary Shares,U
 AIN,Albany International Corp Class A,NYSE
 AINC,Ashford Inc.,AMEX
 AINPF,Ain Pharmaciez Inc Sapporo Ordinary Shares (Japan),U
@@ -1723,7 +1723,6 @@ ARWPF,ARROWHEAD PROPERTIES LTD Ordinary Shares,U
 ARWR,"Arrowhead Pharmaceuticals, Inc. Common Stock",NASDAQ
 ARXRF,Infinite Ore Corp.  Common Shares,U
 ARXXL,AirXpanders Inc Shs Chess Depository Interests Rep 3 Shs,U
-ARYA,ARYA Sciences Acquisition Corp III Class A Ordinary Shares,NASDAQ
 ARYC,Arrayit Corporation Common Stock,U
 ARYD,ARYA Sciences Acquisition Corp IV Class A Odinary Shares,NASDAQ
 ARYMF,Argosy Minerals Ltd Ordinary Shares (Australia),U
@@ -2043,6 +2042,7 @@ ATWT,"ATWEC Technologies, Inc. Common Stock",U
 ATXG,Addentax Group Corp Common Stock,U
 ATXI,"Avenue Therapeutics, Inc. Common Stock",NASDAQ
 ATXMF,Advantex Marketing Intl Inc Ordinary Shares,U
+ATY,AcuityAds Holdings Inc. Common Shares,NASDAQ
 ATYG,"Atlas Technology Group, Inc. Common Stock",U
 ATYM,ASIA TIME CORP Common Stock,U
 ATZAF,Aritzia Inc. Ordinary Shares (Canada),U
@@ -3419,7 +3419,7 @@ BQ,"Boqii Holding Limited American Depositary Shares (ADSs), representing Class 
 BQAZF,Bank Audi SAL Reg S GDR representing Class B Shares (Lebanon),U
 BQCNF,BANQUE CANTONALE VAUDOISE Ordinary Shares,U
 BQMGY,Bank of Africa Global Depositary Receipts - Sponsored,U
-BQSSF,Boss Resources Ltd Ordinary Shares (Australia),U
+BQSSF,Boss Energy Ltd Ordinary Shares,U
 BQST,BioQuest Corp. Common Stock,U
 BR,Broadridge Financial Solutions Inc,NYSE
 BRAGF,Bauer Ag Ordinary Shares (Germany),U
@@ -3882,6 +3882,7 @@ BYTSU,BYTE Acquisition Corp. Units,NASDAQ
 BYTSW,BYTE Acquisition Corp. Warrants,NASDAQ
 BYWLF,"BAYWA BAYERISCHE WARENVERMITTLUNG LANDWIRTSCHAFTLICHER (GENOSSENSCHAFTEN AG, MUENCHEN) (Germany)",U
 BYYLF,Balyo SA Ordinary Shares (France),U
+BZ,KANZHUN LIMITED American Depository Shares,NASDAQ
 BZDLF,Kincora Copper Limited Common Shares,U
 BZH,"Beazer Homes USA, Inc. New",NYSE
 BZIC,Beamz Interactive Inc Common Stock,U
@@ -4366,6 +4367,7 @@ CDYCF,Cardero Resource Corporation Ordinary Shares,U
 CDZI,"CADIZ, Inc. Common Stock",NASDAQ
 CE,Celanese Corporation Common Stock,NYSE
 CEA,China Eastern Airlines,NYSE
+CEAI,CREATIONS INC Common Stock,U
 CEBCF,China Everbright Bank Co Ltd Ordinary Shares (China),U
 CEBTF,Citychamp Watch & Jewellery Group Ltd. Ordinary Shares (Cayman Islands),U
 CEBUF,Cebu Air Inc Shs (Phillippines),U
@@ -5062,6 +5064,7 @@ CLVCF,Clover Corporation Limited Ordinary Shares (Australia),U
 CLVFA,Cloverleaf Kennel Club A Common Stock,U
 CLVLF,Clinuvel Pharmaceuticals Ltd Ordinary Shares (Australia),U
 CLVLY,Clinuvel Pharmaceuticals Ltd Sponsored ADR (Australia),U
+CLVPF,CLARIVATE PLC PFD CONV SER A (Jersey),U
 CLVR,Clever Leaves Holdings Inc. Common Shares,NASDAQ
 CLVRW,Clever Leaves Holdings Inc. Warrant,NASDAQ
 CLVS,"Clovis Oncology, Inc. Common Stock",NASDAQ
@@ -5526,4 +5529,3 @@ CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
-CPAI,Champion Pain Care Corporation Common Stock,U

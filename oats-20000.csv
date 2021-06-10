@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
-SHGY,SearchGuy.com Inc. Common Stock,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
@@ -263,7 +261,7 @@ SKPI,"Sky Petroleum, Inc. Common Stock",U
 SKPJY,Sky Perfect JSAT Corp Unsponsored ADR (Japan),U
 SKPN,"SkyShop Logistics, Inc. Common Stock",U
 SKPO,"Skye Petroleum, Inc. New Common Stock",U
-SKREF,Skeena Resources Ltd Ordinary Shares,U
+SKRED,Skeena Resources Ltd Ordinary Shares,U
 SKRJ,"Silk Road Entertainment, Inc. Common Stock",U
 SKRUF,Scottish RE Group Limited Perpetual Preferred (Cayman Islands),U
 SKRV,"SK Realty Ventures, Inc. Common Stock",U
@@ -794,6 +792,7 @@ SOYB,Teucrium Soybean Fund,ARCA
 SOYO,"Soyo Group, Inc. Common Stock",U
 SP,SP Plus Corporation Common Stock,NASDAQ
 SPAB,SPDR Portfolio Aggregate Bond ETF,ARCA
+SPAGF,ISHARES V PLC AGRIBUSINESS UCITS ETF (Ireland),U
 SPAK,Defiance Next Gen SPAC Derived ETF,ARCA
 SPAQ,Spartan Acquisition Corp. III,NYSE
 SPAQ U,"Spartan Acquisition Corp. III Units, each consisting of one share of Class A common stock and one-fo",NYSE
@@ -1888,9 +1887,7 @@ TCCR,"TRICCAR, Inc. Common Stock",U
 TCDA,"Tricida, Inc. Common Stock",NASDAQ
 TCEC,TransCoastal Corporation Common Stock,U
 TCEHY,Tencent Holdings Limited Unsponsored ADR Representing B Shares (Cayman Islands),U
-TCF,TCF Financial Corporation Common Stock,NASDAQ
 TCFC,The Community Financial Corporation Common Stock,NASDAQ
-TCFCP,TCF Financial Corporation Depositary Shares representing 5.70% Series C Non-Cumulative Preferred Stock,NASDAQ
 TCFF,Trillion Energy International Inc. Common Stock,U
 TCGGY,Tecan Group AG Unsponsored ADR (Switzerland),U
 TCGN,Technology General Corporation Common Stock,U
@@ -1934,6 +1931,7 @@ TCS,"THE CONTAINER STORE GROUP, INC.",NYSE
 TCTL,Premise Capital Diversified Tactical ETF,BATS
 TCTZF,Tencent Holdings Limited Ordinary Shares (Cayman Islands),U
 TCVA,TCV Acquisition Corp. Class A Ordinary Shares,NASDAQ
+TCVNF,TOCVAN VENTURES CORP Common Shares,U
 TCX,Tucows Inc. Class A Common Stock,NASDAQ
 TCYBY,TietoEvry Corp American Depositary Receipts - Unsponsored,U
 TCYMF,Tingyi Cayman Islands Hldgs Cp Ordinary Shares,U
@@ -2025,6 +2023,7 @@ TELNY,Telenor ASA American Depositary Shares,U
 TEMPF,Persol Holdings Co Ltd Ordinary Shares,U
 TEN,Tenneco Inc. Class A Voting Common Stock,NYSE
 TENB,"Tenable Holdings, Inc. Common Stock",NASDAQ
+TENG,Direxion Daily 5G Communications Bull 2X Shares,ARCA
 TENX,"Tenax Therapeutics, Inc. Common Stock",NASDAQ
 TEO,Telecom Argentina S.A.,NYSE
 TEPBF,Temple Bar Invt Trust Ordinary Shares,U
@@ -2354,7 +2353,6 @@ TKRFF,Tinka Resources Ltd Ordinary Shares (Canada),U
 TKSHF,Takashimaya Co Ltd Ordinary Shares (Japan),U
 TKSNF,Takasago Thermal Eng Co Ltd Ordinary Shares (Japan),U
 TKSTF,Tinkerine Studios Ltd. Ordinary Shares (Canada),U
-TKUGF,Takeuchi Mfg Co Ltd Sakaki Cho Shs (Japan),U
 TKUMF,Takuma Co Ordinary Shares (Japan),U
 TKURF,Tokyu Reit Inc Tokyo Ordinary Shares (Japan),U
 TKXHF,"TrackX Holdings, Inc.  Common Shares",U
@@ -2626,7 +2624,7 @@ TPC,Tutor Perini Corporation,NYSE
 TPCAF,TIPCO ASPHALT PUB CO LTD Ordinary Shares,U
 TPCFF,Titan Logix Corporation Ordinary Shares (Canada),U
 TPCS,Techprecision Corporation Common Stock,U
-TPDDF,Talon Petroleum Ltd Ordinary Shares (Australia),U
+TPDDF,TALON ENERGY LTD Ordinary Shares,U
 TPDKY,Topdanmark AS Unsponsored ADR (Denmark),U
 TPDNF,Topdanmark AS Common Shares (Denmark),U
 TPFDF,THAI PRESIDENT FOODS PUB CO LTD NVDR SHARES Depositary Receipts,U
@@ -3457,6 +3455,8 @@ UPCHY,Uni-President China Holdings Ltd. Unsponsored ADR (Cayman Islands),U
 UPCO,Universal Potash Corp. Common Stock,U
 UPDC,UPD Holding Corp. Common Stock,U
 UPGGY,Unifiedpost Group S.A. American Depositary Receipts - Unsponsored (Belgium),U
+UPH,"UpHealth, Inc.",NYSE
+UPH WS,"UpHealth, Inc. Warrants exercisable for one share of Common Stock at an exercise price of $11.50 pe",NYSE
 UPIN,Universal Power Industry Corporation Common Stock,U
 UPIPF,UNIVERSAL PROPTECH INC COM (Canada),U
 UPLD,"Upland Software, Inc. Common Stock",NASDAQ
@@ -3863,7 +3863,6 @@ VGII U,"Virgin Group Acquisition Corp. II Units, each consisting of one Class A 
 VGII WS,"Virgin Group Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one Class",NYSE
 VGIT,Vanguard Intermediate-Term Treasury ETF,NASDAQ
 VGK,Vanguard FTSE Europe ETF,ARCA
-VGLDF,Vangold Mng Corp Ordinary Shares,U
 VGLIF,Vista Group International Ltd. Ordinary Shares (New Zealand),U
 VGLS,VG Life Sciences Inc.  Common Stock,U
 VGLT,Vanguard Long-Term Treasury ETF,NASDAQ
@@ -4943,6 +4942,7 @@ WWR,"Westwater Resources, Inc.",AMEX
 WWRL,"World Wireless Communications, Inc. Common Stock",U
 WWSG,Worldwide Strategies Incorporated Common Stock,U
 WWST,World Wide Stone Corp Common Stock,U
+WWTIF,WATER WAYS TECHNOLOGIES INC Common Shares,U
 WWUEY,Wuestenrot & Wuerttembergische AG ADR - (Germany Federal Republic),U
 WWW,"Wolverine World Wide, Inc.",NYSE
 WXIBF,WUXI BIOLOGICS CAYMAN INC Ordinary Shares,U
@@ -5127,6 +5127,7 @@ XSONF,"Claxson Interactive Group, Inc. Ordinary Shares (British Virgin Islands)"
 XSPA,"XpresSpa Group, Inc. Common Stock",NASDAQ
 XSPT,"XSport Global, Inc. Common Stock",U
 XSPUF,Xtrackers S&P 500 Swap UCITS ETF 1C USD (Luxembourg),U
+XSTLF,"Xstate Resources Ltd, Nedlands Wa Ordinary shares (Australia)",U
 XSVM,Invesco S&P SmallCap Value with Momentum ETF,ARCA
 XSVT,"Xsovt Brands, Inc. Common Stock",U
 XSW,SPDR S&P Software & Services ETF,ARCA
@@ -5369,6 +5370,7 @@ ZEOOF,Zeon Corp. Tokyo Ordinary Shares (Japan),U
 ZEOOY,ZEON CORP ADR (Japan),U
 ZEPP,Zepp Health Corporation,NYSE
 ZEST,"Ecoark Holdings, Inc. Common Stock",U
+ZETA,Zeta Global Holdings Corp.,NYSE
 ZEUCF,ZEU TECHNOLOGIES INC Common Shares,U
 ZEUS,"Olympic Steel, Inc. Common Stock",NASDAQ
 ZEV,"Lightning eMotors, Inc.",NYSE
