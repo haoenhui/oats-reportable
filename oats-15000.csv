@@ -404,7 +404,6 @@ NDGPF,Nine Dragons Paper Holdings Ltd Ordinary Shares (Bermuda),U
 NDGPY,Nine Dragons Paper Holdings Ltd Unsponsored ADR (Bermuda),U
 NDLS,Noodles & Company Class A Common Stock,NASDAQ
 NDMCF,New Destiny Mining Corp Common Shares (Canada),U
-NDMLF,NORTHERN DYNASTY MINERALS LTD Warrant   06/10/2021,U
 NDMO,Nuveen Dynamic Municipal Opportunities Fund Common Shares of Beneficial Interest,NYSE
 NDMT,NOWNEWS DIGITAL MEDIA TECHNOLOGY CO LTD Common Stock,U
 NDP,"TORTOISE ENERGY INDEPENDENCE FUND, INC.",NYSE
@@ -573,6 +572,7 @@ NGRP,Ngen Technologies Holdings Corp. Common Stock,U
 NGRRF,Nagarro SE Ordinary Shares (Germany),U
 NGS,"Natural Gas Services Group, Inc.",NYSE
 NGTF,NIGHTFOOD HLDGS INC Common Stock,U
+NGTTF,Prophecy Potash Corp. Common Stock (Canada),U
 NGUGF,New Guinea Gold Cp  (F) Ordinary Shares,U
 NGVC,"NATURAL GROCERS BY VITAMIN COTTAGE, INC",NYSE
 NGVT,Ingevity Corporation,NYSE
@@ -2468,7 +2468,7 @@ PGNN,"Paragon Financial Solutions, Inc. (TN) Common Stock",U
 PGNRF,"Pan Global Resource, Inc. Ordinary Shares (Canada)",U
 PGNT,"Paragon Technologies, Inc. Common Stock",U
 PGNY,"Progyny, Inc. Common Stock",NASDAQ
-PGNYF,Ansila Energy NL Ordinary Shares,U
+PGNYF,HARTSHEAD RES NL Ordinary Shares,U
 PGOG,"PERF Go-Green Holdings, Inc. Common Stock",U
 PGOL,Patriot Gold Corporation Common Stock,U
 PGP,PIMCO Global StockPLUS & Income Fund,NYSE
@@ -3764,6 +3764,8 @@ QS WS,"QuantumScape Corporation Warrants, each whole warrant exercisable for one
 QSAM,"QSAM Biosciences, Inc. Common Stock",U
 QSCGF,Q BEYOND AG Ordinary Shares,U
 QSEP,"QS Energy, Inc. Common Stock",U
+QSI,Quantum-Si Incorporated Class A Common Stock,NASDAQ
+QSIAW,Quantum-Si Incorporated Warrant,NASDAQ
 QSMG,QUEST MGMT INC Common Stock,U
 QSPW,Quantum Solar Power Corp. Common Stock,U
 QSR,Restaurant Brands International Inc.,NYSE
@@ -4941,7 +4943,8 @@ SBEA,SilverBox Engaged Merger Corp I Class A Common Stock,NASDAQ
 SBEAU,SilverBox Engaged Merger Corp I Units,NASDAQ
 SBEAW,SilverBox Engaged Merger Corp I Warrant,NASDAQ
 SBES,"South Beach Spirits, Inc. Common Stock",U
-SBEV,SPLASH BEVERAGE GROUP INC Common Stock,U
+SBEV,"Splash Beverage Group, Inc.",AMEX
+SBEV WS,"Splash Beverage Group, Inc. Warrants to purchase one whole share of Common Stock at an exercise pric",AMEX
 SBFFF,SBM Offshore Nv Ordinary Shares (Netherlands),U
 SBFFY,SBM Offshore Nv Unsponsored ADR (Netherlands),U
 SBFG,"SB Financial Group, Inc. Common Stock",NASDAQ
@@ -5525,6 +5528,3 @@ SHGDF,Star Diamond Corporation Ordinary Shares,U
 SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
-SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
-SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
-SHGY,SearchGuy.com Inc. Common Stock,U

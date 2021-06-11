@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
@@ -373,6 +371,7 @@ HGTXU,Hugoton RoyaltyTrust Unit Ben Int,U
 HGUBP,Highlands Capital Trust I Cap Securities,U
 HGV,Hilton Grand Vacations Inc. Common Stock,NYSE
 HGYMF,Hogy Medical Co Ltd Com Ordinary Shares,U
+HGYN,HONG YUAN HLDG GROUP Common Stock,U
 HHBHF,Hartalega Holdings BHD Ordinary Shares (Malaysia),U
 HHBT,HH Biotechnology Holdings Company Common Stock,U
 HHC,The Howard Hughes Corporation,NYSE
@@ -880,7 +879,6 @@ HTSF,"Heartsoft, Inc. Common Stock",U
 HTSLF,Hitachi Transport System Ltd. Ordinary Shares (Japan),U
 HTSUF,Hisamitsu Pharmaceutical Co Ltd Ordinary Shares (Japan),U
 HTSUY,Hisamitsu Pharmaceutical Co Inc American Depositary Receipts - Unsponsored (Japan),U
-HTTTF,HIT TECHNOLOGIES INC Ordinary Shares,U
 HTUS,Hull Tactical US ETF,ARCA
 HTWSF,Helios Towers PLC Ordinary Shares (United Kingdom),U
 HTY,JOHN HANCOCK TAX-ADVANTAGED GLOBAL SHAREHOLDER YIELD FUND,NYSE
@@ -1113,6 +1111,7 @@ IBA,Industrias Bachoco SAB De C.V.,NYSE
 IBAL,International Baler Corporation Common Stock,U
 IBB,iShares Nasdaq Biotechnology ETF,NASDAQ
 IBBJ,ETF Series Solutions Defiance Nasdaq Junior Biotechnology ETF,NASDAQ
+IBBQ,Invesco Exchange-Traded Fund Trust II Invesco Nasdaq Biotechnology ETF,NASDAQ
 IBCE,iShares iBonds Mar 2023 Term Corporate ex-Financials ETF,ARCA
 IBCP,Independent Bank Corporation Common Stock,NASDAQ
 IBD,Inspire Corporate Bond Impact ETF,ARCA
@@ -1293,7 +1292,6 @@ IDND,International Dispensing Corporation Common Stock,U
 IDOG,ALPS International Sector Dividend Dogs ETF,ARCA
 IDOWF,IShares VII PLC Dow Jones Industrial Average ETF (Ireland),U
 IDPE,ID Perfumes Inc. Com,U
-IDPPF,Indiabulls Properties Investment Trust Units (Singapore),U
 IDPUF,IDP ED LTD Ordinary Fully Paid (Australia),U
 IDRA,"Idera Pharmaceuticals, Inc. Common Stock",NASDAQ
 IDRSF,Idorsia AG Registered Shares (Switzerland),U
@@ -1706,6 +1704,8 @@ INDF,Nifty India Financials ETF,ARCA
 INDFF,Indofood Agri Resources Ltd Ordinary shares (Singapore),U
 INDFY,Indofood Agri Resources Ltd Unsponsored ADR (Singapore),U
 INDHF,Indus Holding Ag Ord Ordinary Shares (Germany),U
+INDI,"indie Semiconductor, Inc. Class A Common Stock",NASDAQ
+INDIW,"indie Semiconductor, Inc. Warrant",NASDAQ
 INDL,Direxion Daily MSCI India Bull 2X Shares,ARCA
 INDMF,INDORAMA VENTURES CO LTD Ordinary Shares,U
 INDO,Indonesia Energy Corporation Limited,AMEX
@@ -1871,7 +1871,7 @@ IPFF,iShares International Preferred Stock ETF,BATS
 IPFPF,"International Personal Finance Plc, Leeds Ordinary shares (United Kingdom)",U
 IPG,"The Interpublic Group of Companies, Inc.",NYSE
 IPGDF,IGO Ltd Ordinary Shares,U
-IPGGF,IMPERIUM GROUP GLOBAL HOLDINGS LTD Ordinary Shares,U
+IPGGF,IMPERIUM GROUP GLOBAL HOLDINGS LTD SHS NEW Ordinary Shares,U
 IPGP,IPG Photonics Corporation Common Stock,NASDAQ
 IPGYY,Interpump Group Spa Unsponsored ADR (Italy),U
 IPHA,Innate Pharma S.A. ADS,NASDAQ
@@ -3339,7 +3339,6 @@ KSCNF,K & S Corporation Limited SHS (Australia),U
 KSFTF,Kingsoft Corporation Limited Ordinary Shares (Cayman Islands),U
 KSHB,"KushCo Holdings, Inc. Common Stock",U
 KSHDF,"Koshidaka Co Ltd, Maebashi Ordinary Shares (Japan)",U
-KSHIF,"Konishi Company, Ltd. Ordinary Shares (Japan)",U
 KSHOF,K S Holdings Corporation Ordinary Shares (Japan),U
 KSHTF,KUSHIKATSU TANAKA CO Common Stock,U
 KSHTY,Kuaishou Technology  American Depositary Receipts - Unsponsored (Cayman Islands),U
@@ -4152,7 +4151,7 @@ LTRPA,"Liberty TripAdvisor Holdings, Inc. Series A Common Stock",NASDAQ
 LTRPB,"Liberty TripAdvisor Holdings, Inc. Series B Common Stock",NASDAQ
 LTRX,"Lantronix, Inc. Common Stock",NASDAQ
 LTSA,Ladenburg Thalmann Financial Services Inc. 8.00% Series A,U
-LTSC,Lightscape Technologies Inc. Common Stock,U
+LTSCD,Lightscape Technologies Inc. Common Stock,U
 LTSF,Ladenburg Thalmann Financial Services Inc. 7.00% Senior Notes due 2028,U
 LTSH,Ladenburg Thalmann Financial Services Inc. 7.75% Senior Notes due 2029,U
 LTSK,Ladenburg Thalmann Financial Services Inc. 7.25% Senior Notes due 2028,U

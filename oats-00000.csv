@@ -331,6 +331,7 @@ ACWRF,Acceleware Ltd.  Common Shares (Canada),U
 ACWV,iShares MSCI Global Min Vol Factor ETF,BATS
 ACWX,iShares MSCI ACWI ex US ETF,NASDAQ
 ACXIF,Acciona Sa Ordinary Shares,U
+ACXP,"Acurx Pharmaceuticals, Inc. Common Stock",NASDAQ
 ACY,AeroCentury Corporation,AMEX
 ADAD,"Huaizhong Health Group, Inc. Common Stock",U
 ADAG,Adagene Inc. American Depositary Shares,NASDAQ
@@ -411,7 +412,7 @@ ADOM,"ADOMANI, Inc. Common Stock",U
 ADONF,ANTEOTECH LTD SHS (Australia),U
 ADOOY,Adaro Energy PT Unsponsored ADR (Indonesia),U
 ADP,"Automatic Data Processing, Inc. Common Stock",NASDAQ
-ADPPF,ADO PPTYS S A Ordinary Shares (Luxembourg),U
+ADPPF,ADLER GROUP S A Ordinary Shares,U
 ADPT,Adaptive Biotechnologies Corporation Common Stock,NASDAQ
 ADPXF,Audio Pixels Holdings Ltd Ordinary Shares (Australia),U
 ADPXY,Audio Pixels Holdings Ltd Sponsored ADR (Australia),U
@@ -2051,6 +2052,7 @@ AUB,Atlantic Union Bankshares Corporation Common Stock,NASDAQ
 AUBAP,"Atlantic Union Bankshares Corporation Depositary Shares each representing a 1/400th ownership interest in a share of 6.875% Perpetual Non-Cumulative Preferred Stock, Series A",NASDAQ
 AUBN,"Auburn National Bancorporation, Inc. Common Stock",NASDAQ
 AUBOF,Austbrokers Holdings Ltd Ordinary Shares (Australia),U
+AUCCF,Goldplay Mining Inc. Common Stock (Canada),U
 AUCM,Auctioncities.com Inc New Common Stock,U
 AUCOY,"Polymetal International PLC,  American Depositary Share (Sponsored) (Jersey)",U
 AUCUF,Inflection Resources Ltd. Common Shares (Canada),U
@@ -3162,7 +3164,6 @@ BMBRF,Bim Birlesik Magazalar As Ordinary Shares (Turkey),U
 BMBYF,Bloomsbury Publishing plc Ordinary Shares (United Kingdom),U
 BMBZF,Blom Bank S.A.L Sponsored GDR Representing Cl B Reg S Shares,U
 BMCBF,BMO Short Corporate Bond Index ETF Unit (Canada),U
-BMCDF,BOLSAS Y MERCADOS ARGENTINOS Ordinary Shares Argentina (AR),U
 BMCLF,Baic Mtr Corp Ltd Common Shares,U
 BMCS,BioTech Medics Inc. New Common Stock,U
 BMDLF,BMO Covered Call Canadian Banks ETF Unit (Canada),U
@@ -4002,9 +4003,6 @@ CAOX,California Orchards Co Common Stock,U
 CAP,Capitol Investment Corp. V,NYSE
 CAP U,"Capitol Investment Corp. V Units, each consisting of one share of Class A common stock, and one-thir",NYSE
 CAP WS,"Capitol Investment Corp. V Warrants, each whole warrant exercisable for one share of Class A common",NYSE
-CAPA,HighCape Capital Acquisition Corp. Class A Common Stock,NASDAQ
-CAPAU,HighCape Capital Acquisition Corp. Unit,NASDAQ
-CAPAW,HighCape Capital Acquisition Corp. Warrant,NASDAQ
 CAPB,CapitalSouth Bancorp Common Stock,U
 CAPC,"Capstone Companies, Inc. Common Stock",U
 CAPE,iPath Shiller CAPE ETN,ARCA
@@ -4425,7 +4423,6 @@ CERE,"Cerevel Therapeutics Holdings, Inc. Common Stock",NASDAQ
 CEREW,"Cerevel Therapeutics Holdings, Inc. Warrant",NASDAQ
 CERGF,Ceres Global Ag Corp Ordinary Shares (Canada),U
 CERN,Cerner Corporation Common Stock,NASDAQ
-CERPQ,"Cereplast, Inc. Common Stock",U
 CERRF,CERRADO GOLD INC NEW COM (Canada),U
 CERS,Cerus Corporation Common Stock,NASDAQ
 CERT,"Certara, Inc. Common Stock",NASDAQ
@@ -5529,3 +5526,6 @@ CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
+CPAI,Champion Pain Care Corporation Common Stock,U
+CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
+CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ

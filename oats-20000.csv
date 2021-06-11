@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
+SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
+SHGY,SearchGuy.com Inc. Common Stock,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
@@ -38,7 +41,6 @@ SHNUF,"In Touch Holdings Pub. Co., Ltd. Ordinary Shares (Thailand)",U
 SHNWF,Schroders PLC Ordinary Vtg Shares GBP1 (United Kingdom),U
 SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
-SHO PRE,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRF,"Sunstone Hotel Investors, Inc.  6.450% Series F Cumulative Redeemable Preferred Stock",NYSE
 SHO PRH,"Sunstone Hotel Investors, Inc. 6.125% Series H Cumulative Redeemable Preferred Stock",NYSE
 SHOFF,Shoei Co Ltd Ordinary Shares (Japan),U
@@ -147,7 +149,7 @@ SIM,"Groupo Simec, S.A.B de C.V.",AMEX
 SIMA,"Sonics & Materials, Inc. Common Stock",U
 SIMC,"Simclar, Inc. Common Stock",U
 SIMEF,Sime Darby Property Berhad Ordinary Shares (Malaysia),U
-SIML,Simlatus Corporation Common Stock,U
+SIMLD,BREWBILT BREWING CO Common Stock,U
 SIMO,Silicon Motion Technology Corporation American Depositary Shares,NASDAQ
 SIMP,"Simply, Inc. Common Stock",U
 SIMS,SPDR S&P Kensho Intelligent Structures ETF,ARCA
@@ -712,7 +714,7 @@ SOFT,"SofTech, Inc. Common Stock",U
 SOGFF,Strategic Oil & Gas Ltd Ordinary Shares,U
 SOGO,"Sogou Inc. American Depositary Shares, each representing one Class A Ordinary Share",NYSE
 SOGU,The Short De-SPAC ETF,ARCA
-SOHFF,Telson Mng Corp Ordinary Shares,U
+SOHFF,Altaley Mining Corporation Ordinary Shares,U
 SOHGF,Sohgo Security Services Co Ltd Tokyo Ordinary Shares (Japan),U
 SOHGY,Sohgo Security Services Co Ltd Tokyo American Depositary Shares (Japan),U
 SOHI,"Sortis Holdings, Inc. Common Stock",U
@@ -786,6 +788,7 @@ SOUHY,South32 Ltd American Depositary Receipts - Sponsored (Australia),U
 SOVTF,Sonaecom SGPS SA Reg Shares (Portugal),U
 SOWG,SOW GOOD INC Common Stock,U
 SOXL,Direxion Daily Semiconductor Bull 3X Shares,ARCA
+SOXQ,Invesco Exchange-Traded Fund Trust II Invesco PHLX Semiconductor ETF,NASDAQ
 SOXS,Direxion Daily Semiconductor Bear 3X Shares,ARCA
 SOXX,iShares PHLX Semiconductor ETF,NASDAQ
 SOYB,Teucrium Soybean Fund,ARCA
@@ -1001,6 +1004,7 @@ SQCF,"Susquehanna Community Financial, Inc. Common Stock",U
 SQEW,LeaderShares Equity Skew ETF,ARCA
 SQFL,SQL Technologies Corp. Common Stock,U
 SQFT,"Presidio Property Trust, Inc. Class A Common Stock",NASDAQ
+SQFTP,"Presidio Property Trust, Inc. 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock, $0.01 par value per share",NASDAQ
 SQIDF,SQI Diagnostics Inc Ordinary Shares (Canada),U
 SQLV,Legg Mason ETF Investment Trust Legg Mason Small-Cap Quality Value ETF,NASDAQ
 SQM,Sociedad Quimica y Minera de Chile SA,NYSE
@@ -1752,7 +1756,7 @@ TACI,TransAtlantic Capital Inc. NEW Common Stock,U
 TACO,"Del Taco Restaurants, Inc. Common Stock",NASDAQ
 TACT,TransAct Technologies Incorporated Common Stock,NASDAQ
 TACYY,Total Access Comm Plc Local Unsponsored ADR (Thailand),U
-TADS,Trend Aggregation Dividend Stock ET,ARCA
+TADS,Trend Aggregation Dividend Stock ETF,ARCA
 TAEQ,Trend Aggregation U.S. ETF,BATS
 TAER,Tarsier Ltd. Common Stock,U
 TAGMF,Tag Master AB Ordinary Shares (Sweden),U
@@ -2157,10 +2161,7 @@ TH,Target Hospitality Corp. Common Stock,NASDAQ
 THAFF,Thoresen Thai Agencies Public Co Ltd Shares Foreign Registered (Thailand),U
 THAMZ,THAI MITSUWA PUBLIC CO LTD UNITS NON -VOTING Depositary Receipts Thailand(TH ),U
 THBIY,Turkiye Halk Bankasi A.S. Halkbank Unsponsored ADR (Turkey),U
-THBR,"Thunder Bridge Acquisition II, Ltd. Class A Ordinary Shares",NASDAQ
 THBRF,Thunderbird Entertainment Group Inc. Common Stock  (Canada),U
-THBRU,"Thunder Bridge Acquisition II, Ltd. Units",NASDAQ
-THBRW,"Thunder Bridge Acquisition II, Ltd. Warrants",NASDAQ
 THC,Tenet Healthcare Corporation New,NYSE
 THCA,Tuscan Holdings Corp. II Common Stock,NASDAQ
 THCAU,Tuscan Holdings Corp. II Unit,NASDAQ
@@ -2606,7 +2607,6 @@ TOSBF,Toshiba Corp Ordinary Shares,U
 TOSCF,Tosoh Corp Ordinary Shares,U
 TOSKF,Toyo Seikan Kaisha Ltd Ordinary Shares Japan (JP),U
 TOSYY,Toshiba Corp Unsponsored ADR (Japan),U
-TOT,TOTAL SE,NYSE
 TOTDF,Toto Ltd Ord Ordinary Shares,U
 TOTDY,Toto Ltd Ord American Depositary Shares,U
 TOTL,SSgA Active ETF Trust SPDR DoubleLine Total Return Tactical ETF,ARCA
@@ -2946,6 +2946,7 @@ TTCNF,"Telit Communications Plc, London Ordinary shares (United Kingdom)",U
 TTD,"The Trade Desk, Inc. Class A Common Stock",NASDAQ
 TTDKF,TDK Corp Ordinary Shares (Japan),U
 TTDKY,TDK Corporation Common Stock,U
+TTE,TotalEnergies SE,NYSE
 TTEC,"TTEC Holdings, Inc. Common Stock",NASDAQ
 TTEK,"Tetra Tech, Inc. Common Stock",NASDAQ
 TTEXF,Bullion Gold Resources Corp. Common Shares,U
@@ -3042,7 +3043,7 @@ TVLMF,Trevali Mining Corp. Warrant Exp  06/22/2022 (Canada),U
 TVNB,Turbotville Natl Bk Pa Common Stock,U
 TVOG,"Turner Valley Oil & Gas, Inc. Common Stock",U
 TVPC,"Twin Vee Powercats, Inc. Common Stock",U
-TVPKF,Travis Perkins Plc Ordinary Shares,U
+TVPKF,Travis Perkins Plc  Ordinary Shares,U
 TVTOF,TV2U International Ltd Ordinary Shares (Australia),U
 TVTV,WhereverTV Broadcasting Corporation. Common Stock,U
 TVTX,"Travere Therapeutics, Inc. Common Stock",NASDAQ
@@ -3182,7 +3183,7 @@ UBAAF,Urbana Corp Common Stock Class A Non-Voting,U
 UBAB,"United Bancorporation of Alabama, Inc. Class A Common Stock",U
 UBANF,UBS ETF CH ANTEILE USD A DIS Exchange Traded Fund,U
 UBAZF,Uzabase Inc Common Shares   Japan (JP),U
-UBBSF,UBS ETFS Plc Accum Part Shs Cl A Exchange Traded Fund USD (Ireland),U
+UBBSF,UBS IRL FD SOLUTIONS PLC Exchange Traded Fund,U
 UBCHF,UBS ETF CH Shares Holdings (Switzerland),U
 UBCP,"United Bancorp, Inc. Common Stock",NASDAQ
 UBEOF,Ube Inds Ltd Ord Ordinary Shares,U
@@ -3984,7 +3985,7 @@ VLDI,Validian Corporation Common Stock,U
 VLDR,"Velodyne Lidar, Inc. Common Stock",NASDAQ
 VLDRW,"Velodyne Lidar, Inc. Warrants",NASDAQ
 VLEEF,Valeo Sa Ord Ordinary Shares,U
-VLEEY,Valeo Sa Ord American Depositary Shares,U
+VLEEY,Valeo SE American Depositary Receipts - Sponsored,U
 VLEOF,Voleo Trading Sys Inc Ordinary Shares,U
 VLGDF,VALUE GOLD ETF UNITS EXCHANGE -TRADED FUND (Hong Kong),U
 VLGEA,"Village Super Market, Inc. Class A Common Stock",NASDAQ
@@ -4009,7 +4010,6 @@ VLRZF,VALOR HLDGS CO LTD Ordinary Shares,U
 VLT,Invesco  High Income Trust II,NYSE
 VLTAF,VOLTALIA SA ORDINARY SHARE (France),U
 VLTFF,Volta Finance Ltd. Shs (Guernsey),U
-VLTLF,VAULT INTELLIGENCE LTD Ordinary Shares,U
 VLTRF,VOLT RES LTD Ordinary Shares,U
 VLU,SPDR S&P 1500 Value Tilt ETF,ARCA
 VLUE,iShares MSCI USA Value Factor ETF,BATS

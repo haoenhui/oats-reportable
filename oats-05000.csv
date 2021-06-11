@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPAI,Champion Pain Care Corporation Common Stock,U
-CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
-CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
@@ -246,6 +243,7 @@ CRTL,"Cartel Blue, Inc. Common Stock",U
 CRTO,Criteo S.A. American Depositary Shares,NASDAQ
 CRTPF,Cardiol Therapeutics Inc Common Shares Class A Canada (CA),U
 CRTSF,Christian Hansen Holding A/S Ordinary Shares (Denmark),U
+CRTTF,Cortus Metals Inc. Common Stock (Canada),U
 CRTX,"Cortexyme, Inc. Common Stock",NASDAQ
 CRU,Crucible Acquisition Corporation,NYSE
 CRU U,"Crucible Acquisition Corporation Units, each consisting of one share of Class A common stock and one",NYSE
@@ -681,7 +679,6 @@ CXKJ,"CX Network Group, Inc. Common Stock",U
 CXMSF,Cemex S.A.B. de C.V. Cert Part Ord Repr 2 shs A & 1 sh B (Mexico),U
 CXOXF,Core Lithium Ltd Ordinary Shares,U
 CXP,"COLUMBIA PROPERTY TRUST, INC.",NYSE
-CXRXF,ADVANZ PHARMA CORP LTD Common Stock,U
 CXSE,WisdomTree Trust WisdomTree China ex-State-Owned Enterprises Fund,NASDAQ
 CXUS,"Celexus, Inc. Common Stock",U
 CXW,"CoreCivic, Inc.",NYSE
@@ -1814,6 +1811,7 @@ ECC,EAGLE POINT CREDIT COMPANY INC.,NYSE
 ECCB,Eagle Point Credit Company Inc. 7.75% Series B Term Preferred Stock due 2026,NYSE
 ECCE,"Eagle Ford Oil & Gas, Corp. Common Stock",U
 ECCI,"Ecoloclean Industries, Inc. Common Stock",U
+ECCPP,Eagle Point Credit Company Inc. Term Pfd Stk Series C,U
 ECCW,Eagle Point Credit Company Inc .6.75% Notes due 2031,NYSE
 ECCX,Eagle Point Credit Company Inc. 6.6875% Notes due 2028,NYSE
 ECCY,Eagle Point Credit Company Inc. 6.75% Notes due 2027,NYSE
@@ -2048,6 +2046,7 @@ EGRNY,China Evergrande Group American Depositary Receipts - Unsponsored,U
 EGRX,"Eagle Pharmaceuticals, Inc. Common Stock",NASDAQ
 EGTIF,"Eguarantee Inc, SHS (Japan)",U
 EGTK,Energtek Inc. Common Stock,U
+EGTTF,EYEFI Group Technologies Inc. Common Stock (Canada),U
 EGTYF,Eguana Technologies Inc Ordinary Shares,U
 EGXP,Eagle Exploration Company Common Stock,U
 EGY,"Vaalco Energy, Inc.",NYSE
@@ -2683,7 +2682,6 @@ ETEC,Emtec Inc Common Stock,U
 ETEK,"Eco-Tek Group, Inc. Common Stock",U
 ETER,Enterra Corporation Common Stock,U
 ETFBF,Wisdomtree Commodity Sec Ltd Gold Other,U
-ETFDF,Wisdomtree Commodity Sec Ltd Cotton Common Shares,U
 ETFLF,Eastfield Res Ltd Ordinary Shares,U
 ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,NYSE
 ETH,Ethan Allen Interiors Inc,NYSE
@@ -4599,7 +4597,7 @@ GETVF,Mediaset Espana Comunicacion SA Ordinary Shares (Spain),U
 GETVY,"Mediaset Espana Communicacion, S.A. Unsponsored ADR (Spain)",U
 GEVI,"General Environmental Management, Inc. Common Stock",U
 GEVO,"Gevo, Inc. Common Stock",NASDAQ
-GEXCF,GD EXPRESS CARRIER BHD Ordinary Shares,U
+GEXCF,GDEX BERHAD Ordinary Shares,U
 GF,NEW GERMANY FUND Inc,NYSE
 GFASY,GAFISA S.A. ADR  - Unsponsored,U
 GFCI,"Grifco International, Inc. Common Stock",U
@@ -4634,7 +4632,6 @@ GFTX,"Global Fiber Technologies, Inc. Common Stock",U
 GFX,Golden Falcon Acquisition Corp.,NYSE
 GFX U,"Golden Falcon Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-",NYSE
 GFX WS,"Golden Falcon Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Co",NYSE
-GGABF,Grupo Financiero Galicia S.A. Ordinary Shares,U
 GGAL,Grupo Financiero Galicia S.A. American Depositary Shares,NASDAQ
 GGAZF,Goldgroup Mining Inc. Ordinary Shares (Canada),U
 GGB,Gerdau S.A.,NYSE
@@ -5066,7 +5063,7 @@ GOAT,VanEck Vectors Morningstar Global Wide Moat ETF,BATS
 GOAU,US Global GO Gold and Precious Metal Miners ETF,ARCA
 GOCH,"Geeks On Call Holdings, Inc. Common Stock",U
 GOCO,"GoHealth, Inc. Class A Common Stock",NASDAQ
-GOCOF,Go Metals Corp Common Shares,U
+GOCOD,Go Metals Corp Common Shares,U
 GODWF,GREEN ORGANIC DUTCHMAN HLDGS LTD WT EXP 06/12/2024 (Canada),U
 GODYF,First Tellurium Corp.  Ordinary Shares,U
 GODZF,GOLDHILLS HLDG LTD Ordinary Shares,U
@@ -5529,3 +5526,5 @@ GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
