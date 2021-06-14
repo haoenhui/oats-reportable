@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
@@ -251,7 +252,7 @@ HDLS,Hub Deals Corp. Common Stock,U
 HDMV,First Trust Horizon Managed Volatility Developed International ETF,ARCA
 HDNRF,HOMECO DAILY NEEDS REIT ORDINARY UNITS FULLY PAID (Australia),U
 HDRO,Defiance Next Gen H2 ETF,ARCA
-HDRPF,THC Global Group Ltd Ordinary Shares,U
+HDRPF,Epsilon Healthcare Limited Ordinary Shares,U
 HDRSF,"Highland Copper Co., Inc Ordinary Shares (Canada)",U
 HDSLF,HEALTHSPACE DATA SYSTEM LTD Ordinary Shares,U
 HDSN,"Hudson Technologies, Inc. Common Stock",NASDAQ
@@ -642,7 +643,6 @@ HNTUF,Hunter Maritime Acquisition Corp Unit 1 CL A & 1/2 WT EXP 11/17/2021,U
 HNTWF,u Warrant   11/17/2021,U
 HNUZF,BETAPRO NAT GAS LEVERAGED DAILY BULL ETF Unit,U
 HNW,"Pioneer Diversified High Income Fund, Inc.",AMEX
-HNWAF,Hanwa Co Ltd Ordinary Shares (Japan),U
 HNWDF,HONWORLD GROUP LTD USD SHS (Cayman Islands),U
 HNWEF,Hanwei Energy Svcs Corp Common Shares (Canada),U
 HNXMF,HUANXI MEDIA GROUP LTD Ordinary Shares,U
@@ -1298,7 +1298,7 @@ IDRSF,Idorsia AG Registered Shares (Switzerland),U
 IDRV,iShares Self-Driving EV and Tech ETF,ARCA
 IDT,IDT Corporation Class B,NYSE
 IDTA,Identa Corp Common Stock,U
-IDTY,Ipsidy Inc. Common Stock,U
+IDTYD,Ipsidy Inc. Common Stock,U
 IDU,iShares U.S. Utilities ETF,ARCA
 IDV,iShares International Select Dividend ETF,BATS
 IDVV,International Endeavors Corp Common Stock,U
@@ -1990,7 +1990,6 @@ IROMF,I ROM CO LTD TOKYO SHS (Japan),U
 IROQ,"IF Bancorp, Inc. Common Stock",NASDAQ
 IRPSY,IRPC Public Company Limited Unsponsored ADR (Thailand),U
 IRPTF,IRPC Public Company Limited Shares Foreign Registered (Thailand),U
-IRR,VOYA NATURAL RESOURCES EQUITY INCOME FUND,NYSE
 IRRAF,IRRAS AB SHARE AK (Sweden),U
 IRRHF,INTERROLL-HOLDING SA SANTONINO/TI Ordinary Shares (Switzerland),U
 IRRRF,iShares III plc Core MSCI World UCITS ETF (Ireland),U
@@ -2910,6 +2909,7 @@ KBR,"KBR, Inc.",NYSE
 KBRLF,"K-Bro Linen, Inc. Ordinary Shares (Canada)",U
 KBRS,KBS Real Estate Investment Trust II Common Stock,U
 KBSF,KBS Fashion Group Limited Common Stock,NASDAQ
+KBSG,KBS GROWTH & INCOME REIT INC Common Stock,U
 KBSR,KBS Real Estate Invt Tr III Inc Common Shares,U
 KBSTF,Kobe Steel Ltd Ordinary Shares,U
 KBSUF,KBS US PRIME PPTY MGMT PTE LTD PRIME US REIT (Singapore),U
@@ -5244,6 +5244,7 @@ MOHO,ECMOHO Limited American Depositary Shares,NASDAQ
 MOIFF,MOBEUS INCOME & GROWTH 4 VCT PLC Ordinary Shares  United Kingdom(GB ),U
 MOJO,"Mojo Organics, Inc.  Common Stock",U
 MOLFF,MOL MAGYAR OLAJ ES GAZIPARI NYILVANOSAN MUKODO RESZVENYTARSASAG Ordinary Shares (Hungary),U
+MOLN,Molecular Partners AG American Depositary Shares,NASDAQ
 MOMO,Momo Inc. American Depositary Shares,NASDAQ
 MOMT,"MoneyOnMobile, Inc Common Stock",U
 MON,Monument Circle Acquisition Corp. Class A Common Stock,NASDAQ
@@ -5273,7 +5274,7 @@ MOST,"MobileSmith, Inc. Common Stock",U
 MOSY,"MoSys, Inc. Common Stock",NASDAQ
 MOTI,VanEck Vectors Morningstar International Moat ETF,BATS
 MOTN,Motion Acquisition Corp. Class A Common Stock,NASDAQ
-MOTNF,Clean Pwr Cap Corp Ordinary Shares,U
+MOTNF,Powertap Hydrogen Capital Corp. Ordinary Shares,U
 MOTNU,Motion Acquisition Corp. Unit,NASDAQ
 MOTNW,Motion Acquisition Corp. Warrants to purchase one Class A common,NASDAQ
 MOTO,SmartETFs Smart Transportation & Technology ETF,ARCA
@@ -5514,6 +5515,7 @@ MSTXF,MADORO METALS CORP Ordinary Shares,U
 MSUTF,MINSUR SA SHS -INVERSION- (Peru),U
 MSUXF,Misumi Group Inc Ordinary Shares (Japan),U
 MSVB,"Mid-Southern Bancorp, Inc. Common Stock",NASDAQ
+MSVI,MARIJUANA STRATEGIC VENTURES INC Common Stock,U
 MSVX,LHA Market State Alpha Seeker ETF,BATS
 MSWV,Main Street Financial Services Corp Common Shares,U
 MSYN,MS YOUNG ADVENTURE ENTERPRISE INC Common Stock,U

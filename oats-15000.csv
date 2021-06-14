@@ -327,12 +327,14 @@ NBRFF,Nubian Resources Ltd Class A Ordinary Shares (Canada),U
 NBRI,North Bay Resources Inc. Common Stock,U
 NBRNF,NBrown Group Plc Ordinary Shares (United Kingdom),U
 NBRV,Nabriva Therapeutics plc Ordinary Shares Ireland,NASDAQ
+NBRWF,NABORS INDUSTRIES LTD Warrant   06/11/2026,U
 NBRY,"Newberry Specialty Bakers, Inc. Common Stock",U
 NBSE,"NeuBase Therapeutics, Inc.  Common Stock",NASDAQ
 NBST,Newbury Street Acquisition Corporation Common Stock,NASDAQ
 NBSTU,Newbury Street Acquisition Corporation Units,NASDAQ
 NBSTW,Newbury Street Acquisition Corporation Warrants,NASDAQ
 NBTB,NBT Bancorp Inc. Common Stock,NASDAQ
+NBTRF,NOBEL29 RES CORP Common Shares,U
 NBTX,Nanobiotix S.A. American Depositary Shares,NASDAQ
 NBVAF,Nubeva Technologies Ltd Ordinary Shares,U
 NBVB,Nationwide Beverage Bottling Corp Common Stock,U
@@ -1082,7 +1084,6 @@ NTCO,Natura &Co Holding S.A. American Depositary Shares (each representing two C
 NTCPF,Northisle Copper Ordinary Shares (Canada),U
 NTCT,"NetScout Systems, Inc. Common Stock",NASDAQ
 NTCXF,Natcore Technology Inc Ordinary Shares (Canada),U
-NTDMF,Ntt DoCoMo Inc Ordinary Shares,U
 NTDOF,Nintendo Co Ltd-Ord- Ordinary Shares,U
 NTDOY,Nintendo Co Ltd ADR,U
 NTDTY,Ntt Data Corp Ltd Unsponsored ADR (Japan),U
@@ -1727,8 +1728,6 @@ OPHI,"Organic Plant Health, Inc . Common Stock",U
 OPHLF,Ono Pharmaceutical Ordinary Shares,U
 OPHLY,Ono Pharmaceutical Co Ltd Unsponsored ADR (Japan),U
 OPI,Office Properties Income Trust Common Shares of Beneficial Interest,NASDAQ
-OPIEF,"ESI Energy Services, Inc. Ordinary Shares (Canada)",U
-OPINI,Office Properties Income Trust 5.875% Senior Notes due 2046,NASDAQ
 OPINL,Office Properties Income Trust 6.375% Senior Notes due 2050,NASDAQ
 OPK,"OPKO Health, Inc. Common Stock",NASDAQ
 OPLF,Optileaf Inc Common Stock,U
@@ -2752,7 +2751,6 @@ PLX,"Protalix BioTherapeutics, Inc. Common Stock",AMEX
 PLXP,PLx Pharma Inc. Common Stock,NASDAQ
 PLXRF,Plexure Group Ltd. Ordinary Shares (New Zealand),U
 PLXS,Plexus Corp. Common Stock,NASDAQ
-PLXXF,"Plexus Holdings PLC, London Ordinary Shares (United Kingdom)",U
 PLYA,Playa Hotels & Resorts N.V. Ordinary Shares,NASDAQ
 PLYFF,Playfair Mining Ltd Ordinary Shares,U
 PLYM,"Plymouth Industrial REIT, Inc.",NYSE
@@ -3713,7 +3711,7 @@ QMJ,Direxion S&P 500 High minus Low Quality ETF,ARCA
 QMN,IQ Hedge Market Neutral Tracker ETF,ARCA
 QMOM,Alpha Architect U.S. Quantitative Momentum ETF,BATS
 QNBC,Qnb Corp Common Stock,U
-QNCCF,Quantum Numbers Corp. Ordinary Shares (Canada),U
+QNCCF,Quantum eMotion Corp. Ordinary Shares,U
 QNDPF,QINGDAO PORT INTL CO LTD SHS -H-Common Shares China(CN ),U
 QNNTF,Quantum Genomics Ordinary Shares Eur Svn (France),U
 QNST,"QuinStreet, Inc. Common Stock",NASDAQ
@@ -5528,3 +5526,6 @@ SHGDF,Star Diamond Corporation Ordinary Shares,U
 SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
+SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
+SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
+SHGY,SearchGuy.com Inc. Common Stock,U

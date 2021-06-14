@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
-SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
-SHGY,SearchGuy.com Inc. Common Stock,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
@@ -96,9 +93,7 @@ SHZUY,Shizuoka Bank Limited ADR,U
 SI,Silvergate Capital Corporation,NYSE
 SIACF,STAR ASIA INVT CORP SHS  (Japan),U
 SIAF,Sino Agro Food Inc Common Stock,U
-SIBCY,Interbrew PLC Global Depositary Receipts - Sponsored,U
 SIBE,"Sibling Group Holdings, Inc. Common Stock",U
-SIBHY,Interbrew PLC Global Depositary Receipts - Sponsored,U
 SIBN,"SI-BONE, Inc. Common Stock",NASDAQ
 SIC,"Select Interior Concepts, Inc. Class A Common Stock",NASDAQ
 SICNF,Sokoman Minerals Corp Common Shares,U
@@ -236,6 +231,8 @@ SKHHY,Sonic Healthcare Ltd American Depositary Receipts - Sponsored,U
 SKHRF,Stakeholder Gold Corp. Common Shares,U
 SKHSF,Sekisui House Ltd Ordinary Shares,U
 SKHSY,Sekisui House Ltd American Depositary Shares,U
+SKIL,Skillsoft Corp.,NYSE
+SKIL WS,"Skillsoft Corp. Warrants, each exercisable for one share of Class A common stock at an exercise pric",NYSE
 SKIN,The Beauty Health Company Class A Common Stock,NASDAQ
 SKINW,The Beauty Health Company Warrant expiring 5/4/2026,NASDAQ
 SKJJF,Streettracks S&P/ASX 200 Fund Ordinary Shares (Australia),U
@@ -866,6 +863,7 @@ SPIB,SPDR Portfolio Intermediate Term Corporate Bond ETF,ARCA
 SPIDY,Septeni Holdings Co Ltd Tokyo Unsponsored ADR (Japan),U
 SPIN,"Spine Injury Solutions, Inc. Common Stock",U
 SPIP,SPDR Portfolio TIPS ETF,ARCA
+SPIWF,Spie SA Ordinary Shares (France),U
 SPIZF,Sparebanken Vest AS Primary Cap Cert (Norway),U
 SPKAU,SPK Acquisition Corp Unit,NASDAQ
 SPKB,Silver Spike Acquisition Corp II Class A Ordinary Shares,NASDAQ
@@ -1167,7 +1165,6 @@ SSGMF,SSGA SPDR ETFS Europe II Plc SPDR MSCI World Telecommunications UCITS ETF 
 SSGOF,Stop Sleep Go Inc. Common Stock,U
 SSGPF,SSGA SPDR ETFS Europe I PLC Shs ETF USD (Ireland),U
 SSGRF,Super Retail Group Ltd Ordinary Shares (Australia),U
-SSGSF,SSGA SPDR ETFS EUROPE I PLC SHS EXCHANGE TRADED FUND USD (Ireland),U
 SSGUF,SPDR S&P US Utilities Select Sector US Energy Select SEC USD (UCITS) Exchange Traded Fund (Ireland),U
 SSGWF,SSGA SPDR ETFs Europe II PLC MSCI World Materials UCITS ETF (Ireland),U
 SSGXF,SSGA SPDR ETFs Europe II PLC S&P US Industrials ETF SEL SEC (UCITS) (Ireland),U
@@ -1756,7 +1753,7 @@ TACI,TransAtlantic Capital Inc. NEW Common Stock,U
 TACO,"Del Taco Restaurants, Inc. Common Stock",NASDAQ
 TACT,TransAct Technologies Incorporated Common Stock,NASDAQ
 TACYY,Total Access Comm Plc Local Unsponsored ADR (Thailand),U
-TADS,Trend Aggregation Dividend Stock ETF,ARCA
+TADS,The Active Dividend Stock ETF,ARCA
 TAEQ,Trend Aggregation U.S. ETF,BATS
 TAER,Tarsier Ltd. Common Stock,U
 TAGMF,Tag Master AB Ordinary Shares (Sweden),U
@@ -2511,6 +2508,7 @@ TNEYF,"Tamarack Valley Energy, Ltd. Ordinary Shares (Canada)",U
 TNGL,"Tonogold Resources, Inc. Common Stock",U
 TNGMF,True North Gems Inc Common Shares,U
 TNGNQ,"Tengion, Inc. Common Stock",U
+TNGRF,THUNGELA RES LTD Ordinary Shares,U
 TNGZF,TNG LTD  Ordinary Shares (Australia),U
 TNHDF,Times Neighborhood Holdings Limited Ordinary Shares (Cayman Islands),U
 TNHPF,Technip SA Ordinary Shares (France),U
@@ -2882,6 +2880,7 @@ TSLLF,Tassal Group Ltd Ordinary Shares (Australia),U
 TSLMF,"Thinksmart Ltd, West Perth Ordinary Shares (Australia)",U
 TSLRF,TESCO LOTUS RETAIL GROWTH FREEHOLD & LEASEHOLD PPTY FD Unit,U
 TSLTF,Transalta Corp 1st Pfd Ser E (Canada),U
+TSLVF,Tier One Silver Inc Common Shares (Canada),U
 TSLX,"Sixth Street Specialty Lending, Inc.",NYSE
 TSM,Taiwan Semiconductor Manufacturing Company Ltd.,NYSE
 TSMRF,Tsumura & Co Ordinary Shares,U
@@ -3049,6 +3048,7 @@ TVTV,WhereverTV Broadcasting Corporation. Common Stock,U
 TVTX,"Travere Therapeutics, Inc. Common Stock",NASDAQ
 TVTY,"Tivity Health, Inc. Common Stock",NASDAQ
 TW,Tradeweb Markets Inc. Class A Common Stock,NASDAQ
+TWABF,Towa Bank Ltd Ordinary Shares (Japan),U
 TWAC,T W A Corp Common Stock,U
 TWAPF,Towa Pharmaceutical Co Ltd. Ordinary Shares (Japan),U
 TWCBU,Bilander Acquisition Corp. Unit,NASDAQ
@@ -3991,6 +3991,7 @@ VLGDF,VALUE GOLD ETF UNITS EXCHANGE -TRADED FUND (Hong Kong),U
 VLGEA,"Village Super Market, Inc. Class A Common Stock",NASDAQ
 VLKAF,Volkswagen A G Ord Ordinary Shares,U
 VLKPF,Volkswagen A G Ord Ordinary Shares,U
+VLLUF,VALLOUREC Rights  06/21/2021,U
 VLLX,Valley Republic Bancorp Common Stock,U
 VLMGF,Viscount Mining Corp Common Shares  (Canada),U
 VLMRY,Vilmorin & Cie SA American Depositary Receipts - Unsponsored (France),U
@@ -4645,6 +4646,7 @@ WKHS,"Workhorse Group, Inc. Common Stock",NASDAQ
 WKISF,Workman Co Ltd Isezaki City Gunma Prefecture Ordinary Shares (Japan),U
 WKLN,"Walker Lane Exploration, Inc. Common Stock",U
 WKLY,SoFi Weekly Dividend ETF,ARCA
+WKME,WalkMe Ltd. Ordinary Shares,NASDAQ
 WKPPF,Workspace Group Plc Ordinary Shares (United Kingdom),U
 WKPYF,PT Waskita Karya Persero Tbk Pt Shs Series B (Indonesia),U
 WKRCF,Wacker Neuson SE Namen-Akt (Germany),U
@@ -5235,6 +5237,7 @@ YI,"111, Inc. American Depositary Shares",NASDAQ
 YIDUF,Yidu Tech Inc. Ordinary Shares (Cayman Islands),U
 YIGRF,Yixin Group Ltd. Common Shares Cayman Island (KY),U
 YIHCF,YICHANG HEC CHANGJIANG PHARMACEUTICAL CO LTD HEC PHARM REGISTERED SHARES H 01558 Ordinary Shares,U
+YIKWF,Yik Wo International Holdings Ltd Ordinary Shares (Cayman Islands),U
 YINN,Direxion Daily FTSE  China Bull 3X Shares,ARCA
 YIPCF,Yip's Chemical Holdings Ltd Ordinary Shares,U
 YIPI,"Yippy, Inc. Common Stock",U
@@ -5410,7 +5413,6 @@ ZIM,ZIM Integrated Shipping Services Ltd.,NYSE
 ZIMCF,ZIM Corporation Common Shares,U
 ZION,Zions Bancorporation N.A. Common Stock,NASDAQ
 ZIONL,Zions Bancorporation 6.95% Fixed-to-Floating Rate Subordinated Notes,NASDAQ
-ZIONN,"Zions Bancorporation, N.A. Dep Shs Repstg 1/40th Int Sh Ser H Perp Pfd Stk",NASDAQ
 ZIONO,"Zions Bancorporation, N.A. Dep Shs Repstg 1/40th Perp Pfd Ser G",NASDAQ
 ZIONP,"Zions Bancorporation, N.A. Depositary Shares (Each representing 1/40th Interest in a Share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock)",NASDAQ
 ZIOP,ZIOPHARM Oncology Inc Common Stock,NASDAQ
@@ -5500,7 +5502,6 @@ ZTO,"ZTO Express (Cayman) Inc. American Depositary Shares, each representing one
 ZTR,Virtus Total Return Fund Inc.,NYSE
 ZTS,ZOETIS INC.,NYSE
 ZTSTF,Ztest Electronics Inc Ordinary Shares,U
-ZUKNF,Zuken Inc. Ordinary Shares (Japan),U
 ZULU,Zulu Tek Inc Common Stock,U
 ZUMRF,ZoomerMedia Limited  Ordinary Shares,U
 ZUMZ,Zumiez Inc. Common Stock,NASDAQ

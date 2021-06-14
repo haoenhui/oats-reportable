@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
@@ -99,7 +98,6 @@ CPYYF,Centrica plc Ordinary Shares (United Kingdom),U
 CPYYY,Centrica plc Sponsored American Depositary Shares,U
 CPZ,Calamos Long/Short Equity & Dynamic Income Trust Common Stock,NASDAQ
 CQCQ,"MakingORG, Inc.  Stock",U
-CQER,SecurCapital Holdings Corp Common Stock,U
 CQP,"Cheniere Energy Partners, LP",AMEX
 CQQQ,Invesco China Technology ETF,ARCA
 CQRLF,Conquest Resources Ltd Common Shares,U
@@ -352,6 +350,7 @@ CSR PRC,Centerspace 6.625% Series C Cumulative Redeemable Preferred Shares,NYSE
 CSRFF,Caisse Regionale De Credit Agricole Mutuel Du Nord De France Ordinary Shares,U
 CSRLF,CSR Limited Ordinary Shares (Australia),U
 CSRNF,Canstar Resources Inc  Common Shares,U
+CSRTF,Cryptostar Group Common Stock (Canada),U
 CSRVF,CROSS RIV VENTURES CORP Common Shares,U
 CSSDF,KAPE TECHNOLOGIES PLC Ordinary Shares,U
 CSSE,"Chicken Soup for the Soul Entertainment, Inc. Class A Common Stock",NASDAQ
@@ -440,7 +439,7 @@ CTIMF,P2 Gold Inc Common Shares,U
 CTJHF,Citic Resources Holdings Ltd Ordinary Shares (Bermuda),U
 CTJHY,Citic Resources Holdings Ltd Unsponsored ADR (Bermuda),U
 CTK,CooTek (Cayman) Inc.,NYSE
-CTLE,Nano Labs Corp. Common,U
+CTLED,"Mucinno Holding, Inc. Common Stock",U
 CTLGF,China Tian Lun Gas Holdings Ltd Common Shares (Cayman Islands),U
 CTLP,"Cantaloupe, Inc. Common Stock",NASDAQ
 CTLPP,CANTALOUPE INC Preferred Stock,U
@@ -998,9 +997,12 @@ DEW,WisdomTree Global High Dividend Fund,ARCA
 DEWM,"Dewmar International BMC, Inc. Common Stock",U
 DEWY,Dewey Electronics Corp Common Stock,U
 DEX,DELAWARE ENHANCED GLOBAL DIVIDEND & INCOME FUND,NYSE
+DFAC,Dimensional U.S. Core Equity 2 ETF,ARCA
 DFAE,Dimensional Emerging Core Equity Market ETF,ARCA
 DFAI,Dimensional International Core Equity Market ETF,ARCA
+DFAS,Dimensional U.S. Small Cap ETF,ARCA
 DFASF,Dof Asa Ordinary Shares,U
+DFAT,Dimensional U.S. Targeted Value ETF,ARCA
 DFAU,Dimensional US Core Equity Market ETF,ARCA
 DFCO,Dalrada Financial Corporation Common Stock,U
 DFDDF,DFDS A\/S Copenhagen Ordinary Shares (Denmark),U
@@ -1037,12 +1039,12 @@ DFRYF,Dufry Ag Basel Namen Akt. Shares (Switzerland),U
 DFS,Discover Financial Services,NYSE
 DFTC,"Defentect Group, Inc. Common Stock",U
 DFTS,"Defense Technology Systems, Inc. Common Stock",U
+DFUS,Dimensional U.S. Equity ETF,ARCA
 DFVL,iPath US Treasury 5-year Bull ETN,BATS
 DFVS,iPath US Treasury 5-year Bear ETN,BATS
 DG,Dollar General Corp.,NYSE
 DGCRF,Diagnocure Inc Ordinary Shares,U
 DGDCF,Dynasty Gold Corporation Ordinary Shares,U
-DGDM,"Digital Development Partners, Inc.  Common Stock",U
 DGEAF,Diageo Plc New Ord Ordinary Shares,U
 DGEN,"Deltagen, Inc. Common Stock",U
 DGGXF,Digitalx Ltd Ordinary Shares (Australia),U
@@ -1136,6 +1138,7 @@ DIGTF,Thruvision Group PLC Ordinary Shares,U
 DIIBF,"Dorel Industries, Inc. Class B Subordinate Voting Shares",U
 DIISF,Direct Line Insurance Group PLC Ordinary Shares,U
 DIISY,Direct Line Insurance Group PLC American Depositary Receipts - Unsponsored,U
+DILAU,DILA Capital Acquisition Corp. Unit,NASDAQ
 DIM,WisdomTree International MidCap Dividend Fund,ARCA
 DIMC,Dimeco Inc Common Stock,U
 DIN,"Dine Brands Global, Inc.",NYSE
@@ -5294,7 +5297,6 @@ GRVWF,Greatview Aseptic Packaging Company Ltd. Ordinary Shares (Cayman Islands),
 GRVY,"GRAVITY Co., Ltd. American Depository Shares",NASDAQ
 GRWC,"Grow Capital, Inc. Common Stock",U
 GRWG,GrowGeneration Corp. Common Stock,NASDAQ
-GRWPF,Growthpoint Properties Australia STAPLED SECURITY (Australia),U
 GRWTF,Great West Lifeco Inc 1st Pfd Shs Ser I (Canada),U
 GRWWF,Great Wall Pan Asia Hldgs Ltd Ordinary Shares (Bermuda),U
 GRWXF,Draper Esprit PLC Ordinary Shares (United Kingdom),U
@@ -5374,6 +5376,7 @@ GSPH,Geospatial Corporation Common Stock,U
 GSPI,Green Star Products Inc,U
 GSPT,Golden Star Enterprises Ltd. Common Stock,U
 GSPY,Gotham Enhanced 500 ETF,ARCA
+GSQB U,"G Squared Ascend II Inc. Units, each consisting of one Class A ordinary share and one-third of a red",NYSE
 GSQD,G Squared Ascend I Inc.,NYSE
 GSQD U,"G Squared Ascend I Inc. Units, each consisting of one Class A ordinary share and one-fifth of one Wa",NYSE
 GSQD WS,"G Squared Ascend I Inc. Redeemable Warrants, each whole warrant exercisable for one Class A Ordinary",NYSE
@@ -5527,4 +5530,3 @@ GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U

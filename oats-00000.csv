@@ -214,7 +214,7 @@ ACGBY,Agricultural Bank of China Unsponsored American Depository Receipt (China)
 ACGI,"Amacore Group, Inc. (The) Class A Common Stock",U
 ACGJ,ACI Global Corporation Common Stock,U
 ACGL,Arch Capital Group Ltd. Common Stock,NASDAQ
-ACGLL,ARCH CAP GROUP LTD DEP SHS REPSTG 1/1000TH PFD SER G Depositary Shares,U
+ACGLN,"Arch Capital Group Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 4.550% Non-Cumulative Preferred Share, Series G",NASDAQ
 ACGLO,"Arch Capital Group Ltd. Depositary Shares Each Representing 1/1,000th Interest in a Share of 5.45% Non-Cumulative Preferred Shares, Series F",NASDAQ
 ACGLP,Arch Capital Group Ltd. Depositary Shares Representing Interest in 5.25% Non-Cumulative Preferred Series E Shrs,NASDAQ
 ACGPF,Accell Group NV Heerenveen Ordinary Shares (Netherlands),U
@@ -314,6 +314,7 @@ ACTD,ArcLight Clean Transition Corp. II Class A Ordinary Share,NASDAQ
 ACTDU,ArcLight Clean Transition Corp. II Unit,NASDAQ
 ACTDW,ArcLight Clean Transition Corp. II Warrant,NASDAQ
 ACTG,Acacia Research Corporation (Acacia Tech) Common Stock,NASDAQ
+ACTHF,ADURO CLEAN TECHNOLOGIES INC Common Shares,U
 ACTL,"Artec Global Media, Inc. Common Stock",U
 ACTV,LeaderShares Activist Leaders ETF,ARCA
 ACTX,"Advanced Container Technologies, Inc. Common Stock",U
@@ -1110,6 +1111,7 @@ ALYA,Alithya Group inc. Class A Subordinate Voting Shares,NASDAQ
 ALYE,"Aly Energy Services, Inc. Common Stock",U
 ALYI,"Alternet Systems, Inc. Common Stock",U
 ALZCF,ALZCHEM GROUP AG AGINHABER AKTIEN O N Ordinary Shares,U
+ALZN,"Alzamend Neuro, Inc. Common Stock",NASDAQ
 ALZPF,Alony Hetz Properties & Investments Ltd Ordinary Shares (Israel),U
 AM,Antero Midstream Corporation Common Stock,NYSE
 AMADF,Amadeus IT Group SA Ordinary Shares,U
@@ -1963,6 +1965,7 @@ ATIXF,Analytixinsight Inc Common Shares (Canada),U
 ATKR,Atkore Inc.,NYSE
 ATLAF,"AltaGas Ltd, Pfd Ser K 5% (Canada)",U
 ATLC,Atlanticus Holdings Corporation Common Stock,NASDAQ
+ATLCP,"Atlanticus Holdings Corporation 7.625% Series B Cumulative Perpetual Preferred Stock, no par value per share",NASDAQ
 ATLCY,Atlas Copco Ab Sponsored ADR repstg Class B,U
 ATLDF,Atlanta Gold Inc. Common Shares,U
 ATLEW,"Artelo Biosciences, Inc. Warrant   10/13/2025",U
@@ -2453,6 +2456,7 @@ BBAVY,Signature Aviation PLC American Depositary Receipts - Unsponsored,U
 BBAX,JPMorgan BetaBuilders Developed Asia-ex Japan ETF,BATS
 BBBK,Baker Boyer Bancorp Common Stock,U
 BBBMF,Huntsman Exploration Inc. Ordinary Shares,U
+BBBT,BLACK BIRD BIOTECH INC Common Stock,U
 BBBXF,Brixton Metals Corp. Ordinary Shares (Canada),U
 BBBY,Bed Bath & Beyond Inc. Common Stock,NASDAQ
 BBC,Virtus LifeSci Biotech Clinical Trials ETF,ARCA
@@ -2780,7 +2784,6 @@ BGII,"BGI, Inc. Common Stock",U
 BGIO,BlackRock 2022 Global Income Opportunity Trust,NYSE
 BGJTF,Baillie Gifford Japan Trust plc Ordinary Shares (United Kingdom),U
 BGKKF,Bangkok Bank Public Co Ltd Bangkok Bank Public Co Ltd BBL (Hong Kong),U
-BGLAF,Bangkok Life Assurance Ltd Units Non-Voting Depositary Receipts (Thailand),U
 BGLC,Bionexus Gene Lab Corp  Common Stock,U
 BGLD,FT Cboe Vest Gold Strategy Quarterly Buffer ETF,BATS
 BGMD,"BG Medicine, Inc. Common Stock",U
@@ -3444,7 +3447,6 @@ BRCSF,Barra Resources Ltd Ordinary Shares (Australia),U
 BRDBF,Bredband2 I Skandinavien AB Common Stock (Sweden),U
 BRDCF,Bridgestone Corp  Ord Ordinary Shares,U
 BRDCY,Bridgestone Corp  Ord (Unsponsored)  American Depositary Shares,U
-BRDYF,Brady PLC Cambridge Ordinary Shares (United Kingdom),U
 BREJY,mBank SA American Depositary Receipts - Unsponsored,U
 BRENF,Brookfield Renewable Partners Preferred LP Unit Class A Series 7 (Bermuda),U
 BRER,"Bresler & Reiner, Inc. Common Stock",U
@@ -3858,6 +3860,7 @@ BYDGF,BOYD GROUP SVCS INC Common Shares  Canada(CA ),U
 BYDIF,Byd Electronic International Co Ltd Ordinary shares (Hong Kong),U
 BYDIY,Byd Electronic International Co Ltd Unsponsored ADR (Hong Kong),U
 BYFC,Broadway Financial Corporation Common Stock,NASDAQ
+BYHFF,Bryah Res Ltd Ordinary Shares (Australia),U
 BYIN,Baying Ecological Holding Group Inc Common Stock,U
 BYLB,Boyle Bancorp Boyle Kentucky Common Stock,U
 BYLD,iShares Yield Optimized Bond ETF,ARCA
@@ -4283,9 +4286,6 @@ CCVS,Citizens Comm Bancshares Inc Common Stock,U
 CCVTF,China Conch Venture Hldgs Ltd Ordinary Shares (Cayman Islands),U
 CCWF,"Church & Crawford, Inc. Common Stock New",U
 CCWOF,Canada Silver Cobalt Wks Inc Common Shares,U
-CCX,Churchill Capital Corp II Class A Common Stock,NYSE
-CCX U,Churchill Capital Corp II,NYSE
-CCX WS,"Churchill Capital Corp II Warrants, each exercisable for one share of Class A common stock at an exe",NYSE
 CCXI,"ChemoCentryx, Inc. Common Stock",NASDAQ
 CCYC,Clancy Corp. Common Stock,U
 CCYNF,Cyan Ag Common Shares (Germany Federal Republic),U
@@ -5529,3 +5529,4 @@ CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
+CPB,Campbell Soup Company,NYSE
