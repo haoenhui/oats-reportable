@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
@@ -1643,6 +1642,7 @@ DVLP,"Golden Developing Solutions, Inc. Common Stock",U
 DVLTF,Drone Volt SA Ordinary Shares (France),U
 DVLU,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright Momentum & Value ETF,NASDAQ
 DVN,Devon Energy Corporation,NYSE
+DVNCF,Danavation Technologies Corp Common Stock (Canada),U
 DVNGF,Devin Energy Corp Ordinary Shares,U
 DVNHF,Frontier Services Group Ltd Ordinary Shares,U
 DVOL,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright Momentum & Low Volatility ETF,NASDAQ
@@ -2347,6 +2347,8 @@ ENLV,Enlivex Therapeutics Ltd. Ordinary Shares,NASDAQ
 ENMFF,Energem Resources Inc Ordinary Shares (Canada),U
 ENMHF,ENM Holdings Ltd Ordinary Shares (Hong Kong),U
 ENMI,"Energy Management International, Inc. Common Stock",U
+ENMPF,Ensurge Micropower ASA Ordinary Shares,U
+ENMPY,Ensurge Micropower ASA American Depositary Receipts - Sponsored,U
 ENNV,ECP Environmental Growth Opportunities Corp. Class A Common Stock,NASDAQ
 ENNVU,ECP Environmental Growth Opportunities Corp. Unit,NASDAQ
 ENNVW,ECP Environmental Growth Opportunities Corp. Warrants,NASDAQ
@@ -2519,7 +2521,6 @@ EQUI,"EquiFin, Inc. Common Stock",U
 EQUR,E- Qure Corp. Common Stock,U
 EQWL,Invesco S&P 100 Equal Weight ETF,ARCA
 EQX,Equinox Gold Corp.,AMEX
-EQXLF,Equatorial Resources Ltd Shs (Australia),U
 EQXWF,Equinox Gold Corp Warrant,U
 ERAO,"Energy Revenue America, Inc. Common Stock",U
 ERBB,"American Green, Inc. Common Stock",U
@@ -2555,6 +2556,7 @@ ERMAF,Eramet SA Ordinary Shares (France),U
 ERMAY,Eramet SA Unsponsored ADR (France),U
 ERMG,ERecord Management Inc (NV) Common Stock,U
 ERNXY,Euronext NV American Depositary Receipts - Unsponsored (Netherlands),U
+ERO,Ero Copper Corp.,NYSE
 EROFF,Eurofins Scientific SA SE JCE 01012021 (Luxembourg),U
 EROSF,Eros Resources Corp. Ordinary Shares,U
 EROTF,Barclays Bk PLC iPath EUR/USD Exchange Rate ETN due 05/14/2037 (United Kingdom),U
@@ -2563,7 +2565,6 @@ ERPNF,European Metals Hldgs Ltd Chess Depositary Interests 1:1,U
 ERPRF,EUROPEAN RELIANCE GENERAL INSURANCE Ordinary Shares,U
 ERPSY,Europris ASA American Depositary Receipts - Unsponsored (Norway),U
 ERRAF,Emera Inc Cum Pfd 5 Yr Rate Reset Series C (Canada),U
-ERRPF,Ero Copper Corp Ordinary Shares (Canada),U
 ERRSF,Euro Resources SA Ordinary Shares (France),U
 ERSX,ERShares NextGen Entrepreneurs ETF,ARCA
 ERTH,Invesco MSCI Sustainable Future ETF,ARCA
@@ -2827,6 +2828,7 @@ EVSBY,EVS Boradcast Equipment S A ADR (Belgium),U
 EVSLF,Eve Sleep PLC Ordinary Shares (United Kingdom),U
 EVSO,Evolution Solar Corp Common Stock,U
 EVSP,"Environmental Service Professionals, Inc. Common Stock",U
+EVSSF,Envirosuite Ltd Ordinary Shares (Australia),U
 EVSTC,Eaton Vance NextShares Trust Eaton Vance Stock NextShares,NASDAQ
 EVSV,"Enviro-Serv, Inc. Common Stock",U
 EVT,Eaton Vance Tax-Advantaged Dividend Income Fund,NYSE
@@ -2927,7 +2929,7 @@ EXOPF,Exopharm Ltd  Ordinary Shares (Australia),U
 EXP,"Eagle Materials, Inc.",NYSE
 EXPD,"Expeditors International of Washington, Inc. Common Stock",NASDAQ
 EXPE,"Expedia Group, Inc. Common Stock",NASDAQ
-EXPFF,Experion Hldgs Ltd Ordinary Shares,U
+EXPFF,Citizen Stash Cannabis Corp Ordinary Shares,U
 EXPGF,Experian Plc Ordinary Shares (United Kingdom),U
 EXPGY,Experian Plc Sponsored ADR (UK),U
 EXPH,"Expo Holding, Inc. Common Stock",U
@@ -5288,7 +5290,7 @@ GRTX,"Galera Therapeutics, Inc. Common Stock",NASDAQ
 GRTYA,Guarnty Corporation Class A,U
 GRU,ELEMENTS Linked to the ICE BofAML Commodity Index eXtra Grains Total Return,ARCA
 GRUA,Garuda Capital Corporation Common Stock,U
-GRUB,GRUBHUB INC.,NYSE
+GRUB,Just Eat Takeaway.com N.V. American Depositary Shares,NASDAQ
 GRUI,Grupo Resilient International Inc. Common Stock,U
 GRUPF,Fnac Darty SA Ordinary Shares,U
 GRUSF,Grown Rogue International Inc. Ordinary Shares,U
@@ -5528,5 +5530,3 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U

@@ -500,7 +500,7 @@ SMPFF,San Miguel Food & Beverage Inc Ordinary Shares,U
 SMPL,The Simply Good Foods Company Common Stock,NASDAQ
 SMPNY,Sompo Japan Nipponkoa Hldgs Inc American Depositary Receipts - Unsponsored (Japan),U
 SMPP,Strategic Management & Opportunity Corporation Common Stock,U
-SMPRD,"Standard Metals Processing, Inc Common Stock",U
+SMPR,"Standard Metals Processing, Inc Common Stock",U
 SMRAF,Sociedad Minera Cerro Verde SAA Lima Shs - Comun (Peru),U
 SMREF,Sun Summit Minerals Corp Common Shares,U
 SMRGF,SMAREGI INC Common Stock,U
@@ -1536,7 +1536,6 @@ SVLPF,Savills Plc Ordinary Shares (United Kingdom),U
 SVLT,"Sunvault Energy, Inc. Common Stock",U
 SVM,Silvercorp Metals Inc. Common Shares,AMEX
 SVMB,"Savmobi Technology, Inc. Common Stock",U
-SVMK,SVMK Inc. Common Stock,NASDAQ
 SVMLF,Sovereign Metals Ltd Ordinary Shares (Australia),U
 SVMMF,Silver Mountain Mines Inc Common Shares,U
 SVMN,Silverore Mines Inc Unclassified,U
@@ -1879,7 +1878,6 @@ TCAPF,TP ICAP GROUP PLC Ordinary Shares (Jersey),U
 TCBI,"Texas Capital Bancshares, Inc. Common Stock",NASDAQ
 TCBIL,"Texas Capital Bancshares, Inc. 6.50% Subordinated Notes due 2042",NASDAQ
 TCBIO,"Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",NASDAQ
-TCBIP,"Texas Capital Bancshares, Inc. Non Cumulative Preferred Perpetual Stock Series A",NASDAQ
 TCBK,TriCo Bancshares Common Stock,NASDAQ
 TCCHF,Technogym Spa Ordinary Shares (Italy),U
 TCCO,TECHNICAL COMMUNICATIONS CORP Common Stock,U
@@ -1960,7 +1958,6 @@ TDHOY,T&D Holdings Inc Tokyo Unsponsored ADR (Japan),U
 TDI,"Telephone and Data Systems, Inc. 6.625% Senior Notes Due 03-31-2045",NYSE
 TDIV,First Trust Exchange-Traded Fund VI First Trust NASDAQ Technology Dividend Index Fund,NASDAQ
 TDLAF,TBG Diagnostics Ltd Ordinary Shares,U
-TDLDF,T.RAD CO LTD SHS (Japan),U
 TDMMF,Mach7 Technologies Ltd Ordinary Shares,U
 TDNT,Trident Brands Incorporated Common Stock,U
 TDOC,"Teladoc Health, Inc.",NYSE
@@ -2069,8 +2066,6 @@ TFC PRI,"Truist Financial Corporation Depositary Shares, each representing 1/4,0
 TFC PRO,"Truist Financial Corporation Depositary Shares, Each Representing a 1/1,000th Interest in a  Share o",NYSE
 TFC PRR,"Truist Financial Corporation Depositary Shares, each representing 1/1,000th interest in a share of S",NYSE
 TFCCF,Terra Firma Cap Corp Common Shares,U
-TFECF,Thin Film Electronics ASA Ordinary Shares (Norway),U
-TFECY,THIN FILM ELECTRONICS ASA  American Depositary Receipts - Sponsored,U
 TFFP,"TFF Pharmaceuticals, Inc. Common Stock",NASDAQ
 TFGL,Tracker Financial Group Ltd Common Stock,U
 TFI,SPDR Nuveen Bloomberg Barclays Municipal Bond ETF,ARCA
@@ -2549,6 +2544,7 @@ TNTFF,PostNL NV Ordinary Shares (Netherlands),U
 TNTMF,Transition Metals Corp. New Ordinary Shares (Canada),U
 TNTRQ,TINTRI INC Common Stock,U
 TNTTF,Toronto Dominion Bk Ont Non Cum 5 Yr Rate Reset Pfd Ser 3 (Canada),U
+TNVDF,THAI NVDR CO LTD Warrants Exp 5/26/2023 (Thailand),U
 TNXP,Tonix Pharmaceuticals Holding Corp. Common Stock,NASDAQ
 TNXXF,TALANX AG Ordinary Shares (Germany),U
 TNYBF,"Tinley Beverage Co, Inc. Ordinary Shares",U
@@ -2663,6 +2659,7 @@ TPRP,Tower Properties Company New Common Stock,U
 TPRXF,Gran Colombia Gold Corp Warrant 04/30/2024,U
 TPSC,Timothy Plan US Small Cap Core ETF,ARCA
 TPSRF,Topsports Intl Holdings Ltd Ordinary Shares (Cayman Islands),U
+TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026",NYSE
 TPTJF,Topps Tiles Plc Ordinary Shares,U
 TPTJY,Topps Tiles Plc Unsponsored ADR (United Kingdom),U
 TPTW,"TPT Global Tech, Inc. Common Stock",U
@@ -3391,6 +3388,7 @@ UNBLF,UNIBAIL-RODAMCO SE Ordinary Shares,U
 UNCFF,Unicredito Spa Roma Ordinary Shares,U
 UNCHF,Unicharm Corp Ordinary Shares (Japan),U
 UNCRY,Unicredito SPA American Depositary Receipts - Unsponsored (Italy),U
+UNCY,"Unicycive Therapeutics, Inc. Common Stock",NASDAQ
 UNDR,UnderSea Recovery Corporation. Common Stock,U
 UNEGF,United Energy Group Ltd Ordinary Shares (Bermuda),U
 UNEQ,"Uneeqo, Inc. Common Stock",U
@@ -3871,6 +3869,7 @@ VGM,Invesco  Trust Investment Grade Municipals,NYSE
 VGMIF,Visible Gold Mines Inc Common Shares,U
 VGPBF,"VGP SA, BRUXELLES SHS (Belgium)",U
 VGR,Vector Group Ltd.,NYSE
+VGRDF,VANGUARD FUNDS PLC FTSE DEV EUROPE EX UK UCITS ETF EURO (Ireland),U
 VGREF,VIASPACE Green Energy Inc. Ordinary Shares (Virgin Islands British),U
 VGRSF,VANGUARD FUNDS PLC Exchange Traded Fund  GLOBAL AGGREGATE BD UCITS ETF USD HEDGED ACCUM Ireland(IE ),U
 VGSH,Vanguard Short-Term Treasury ETF,NASDAQ
@@ -4266,6 +4265,7 @@ VTEPF,VITEC GROUP PLC SHS (United Kingdom),U
 VTEQ,VeriTeQ Corporation Common Stock,U
 VTEXF,VENTUREX RESOURCES LTD Ordinary Shares,U
 VTGDF,Vantage Drilling Company Common Shares,U
+VTGFF,Vita Group Ltd. Ordinary Shares (Australia),U
 VTGN,"VistaGen Therapeutics, Inc. Common Stock",NASDAQ
 VTHPF,Vital Healthcare Property Trust Units (New Zealand),U
 VTHR,Vanguard Scottsdale Funds Vanguard Russell 3000 ETF,NASDAQ
@@ -4530,7 +4530,6 @@ WFC,Wells Fargo & Co.,NYSE
 WFC PRA,"Wells Fargo & Company Depositary Shares, each representing a 1/1, 000th interest in a share of Non-C",NYSE
 WFC PRC,"Wells Fargo & Company Depositary Shares, each representing a 1/1, 000th interest in a share of Non-C",NYSE
 WFC PRL,WELLS FARGO 7.5% NON CUMV PERP CONV,NYSE
-WFC PRN,"WELLS FARGO & COMPANY Depositary Shares, representing a 1/1,000th interest in a share of Non-Cumulat",NYSE
 WFC PRO,"WELLS FARGO & COMPANY Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cu",NYSE
 WFC PRQ,Wells Fargo & Co.,NYSE
 WFC PRR,"WELLS FARGO & COMPANY Depositary Shares, each representing a 1/1,000th interest in a share of 6.625%",NYSE
@@ -5098,6 +5097,7 @@ XPEV,"XPeng Inc. American depositary shares, each representing two Class A ordin
 XPH,SPDR S&P Pharmaceuticals ETF,ARCA
 XPHYF,XPhyto Therapeutics Corporation Common Shares (Canada),U
 XPL,Solitario Zinc Corp,AMEX
+XPND,First Trust Expanded Technology ETF,ARCA
 XPO,"XPO LOGISTICS, INC.",NYSE
 XPOA,"DPCM Capital, Inc.",NYSE
 XPOA U,"DPCM Capital, Inc. Units, each consisting of one share of Class A common stock and one-third of one",NYSE
@@ -5105,6 +5105,7 @@ XPOA WS,"DPCM Capital, Inc. Warrants, each whole warrant exercisable for one sha
 XPP,ProShares Ultra FTSE China 50 of PROSHARES TRUST,ARCA
 XPPLF,XP Power Ltd Ordinary Shares (Singapore),U
 XRAY,DENTSPLY SIRONA Inc. Common Stock,NASDAQ
+XREFF,Xref Ltd Ordinary Shares (Australia),U
 XREG,XR Energy Inc Common Stock,U
 XRESF,Xtierra Inc. Ordinary Shares (Canada),U
 XRFSF,XRF Scientific Ltd. Shs (Australia),U

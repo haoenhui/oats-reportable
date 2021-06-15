@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
@@ -554,6 +553,7 @@ NGENF,NervGen Pharma Corp Common Stock (Canada),U
 NGEY,New Global Energy Inc Common Stock,U
 NGG,National Grid PLC,NYSE
 NGGTF,National Grid PLC Common Shares,U
+NGHDF,Nova Group Holdings Ltd. Ordinary Shares (Cayman Islands),U
 NGKIF,Ngk Insulators Ordinary Shares,U
 NGKSF,Ngk Spark Plug Co Ltd Ordinary Shares,U
 NGKSY,Ngk Spark Plug Co Ltd Unsponsored ADR (Japan),U
@@ -1463,7 +1463,7 @@ OCFT,"OneConnect Financial Technology Co., Ltd. American Depositary Shares, each
 OCG,Oriental Culture Holding LTD Ordinary Shares,NASDAQ
 OCGN,"Ocugen, Inc. Common Stock",NASDAQ
 OCGPF,Oceana Group Ltd Ordinary Shares,U
-OCGSF,Outcrop Gold Corp  Common Shares,U
+OCGSF,OUTCROP SILVER & GOLD CORP Common Shares,U
 OCINF,OCI N.V. Shs (Netherlands),U
 OCIO,ClearShares OCIO ETF,ARCA
 OCIVF,Oakley Capital Investments Limited Ordinary Shares Bermuda(BM ),U
@@ -2167,7 +2167,6 @@ PBTP,Invesco PureBeta 0-5 Yr US TIPS ETF,BATS
 PBTS,"Powerbridge Technologies Co., Ltd. Ordinary Shares",NASDAQ
 PBUS,Invesco PureBeta MSCI USA ETF,BATS
 PBW,Invesco WilderHill Clean Energy ETF,ARCA
-PBY,Prospect Capital Corporaton 6.25% Notes due 2028,NYSE
 PBYA,Probility Media Corp. Common Stock,U
 PBYBF,PT Bayu Buana TBK Ordinary Shares,U
 PBYI,Puma Biotechnology Inc Common Stock,NASDAQ
@@ -3417,6 +3416,8 @@ PTPKF,PT Pakuwon Jati TBK Ordinary Shares (Indonesia),U
 PTPLF,PT PURADELTA LESTARI TBK Ordinary Shares,U
 PTPPF,PT PP Persero TBK Ordinary Shares (Indonesia),U
 PTR,PETROCHINA COMPANY LIMITED ADS (REP 100 H SHARES),NYSE
+PTRA,Proterra Inc. Common Stock,NASDAQ
+PTRAW,Proterra Inc. Warrant,NASDAQ
 PTRC,Petro River Oil Corp Common Shares,U
 PTRDF,ROK Resources Inc Common Shares,U
 PTRGF,Lion Rock Group Ltd Ordinary Shares Bermuda(BM ),U
@@ -4038,7 +4039,7 @@ RDYFF,Ready Set Gold Corp Common Shares (Canada),U
 RE,"Everest Re Group, Ltd.",NYSE
 REAC,"REAC Group, Inc. Common Stock",U
 REAL,"The RealReal, Inc. Common Stock",NASDAQ
-REAXD,The Real Brokerage Inc Common Shares,U
+REAX,"The Real Brokerage, Inc. Common Shares",NASDAQ
 REBL,"Rebel Group, Inc. Common Stock",U
 REBOF,REBOSIS PROPERTY FUND LTD SHS CLASS -A- ZAR (South Africa),U
 REC,Emles Real Estate Credit ETF,BATS
@@ -4135,7 +4136,6 @@ REZ,iShares Residential and Multisector Real Estate ETF,ARCA
 REZI,"Resideo Technologies, Inc. Common Stock",NYSE
 REZZF,Global Battery Metals Ltd Ordinary Shares,U
 RF,Regions Financial Corp.,NYSE
-RF PRA,REGIONS FINANCIAL CORPORATION Depositary Shares Each Representing a 1/40th Interest in a Share of 6.,NYSE
 RF PRB,REGIONS FINANCIAL CORPORATION,NYSE
 RF PRC,"Regions Financial Corporation Depositary Shares, each Representing a 1/40th Interest in a Share of 5",NYSE
 RF PRE,"Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4",NYSE
@@ -5145,6 +5145,7 @@ SCTTF,SCOTT TECHNOLOGY LIMITED (New Zealand),U
 SCTY,Monitronics International Inc Common Stock,U
 SCU,"Sculptor Capital Management, Inc. Class A Common Stock",NYSE
 SCUPF,AEGIS BRANDS INC Common Shares,U
+SCVFF,Scotch Creek Ventures Inc. Common Stock (Canada),U
 SCVL,"Shoe Carnival, Inc. Common Stock",NASDAQ
 SCVPF,Siam Cement Public Co Ltd Fgn Ordinary Shares,U
 SCVPY,Siam Cement Public Co Limited Unsponsored ADR (Thailand),U

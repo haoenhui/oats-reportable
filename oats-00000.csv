@@ -307,9 +307,6 @@ ACSI,American Customer Satisfaction ETF,BATS
 ACST,"Acasti Pharma, Inc. Class A Common Stock",NASDAQ
 ACSYF,Accsys Technologies plc Ordinary Shares (United Kingdom),U
 ACT,"Enact Holdings, Inc. Common Stock",NASDAQ
-ACTC,ArcLight Clean Transition Corp. Class A Ordinary Shares,NASDAQ
-ACTCU,ArcLight Clean Transition Corp. Unit,NASDAQ
-ACTCW,ArcLight Clean Transition Corp. Warrant,NASDAQ
 ACTD,ArcLight Clean Transition Corp. II Class A Ordinary Share,NASDAQ
 ACTDU,ArcLight Clean Transition Corp. II Unit,NASDAQ
 ACTDW,ArcLight Clean Transition Corp. II Warrant,NASDAQ
@@ -1149,6 +1146,7 @@ AMCY,"ACS Global, Inc. Common Stock",U
 AMD,"Advanced Micro Devices, Inc. Common Stock",NASDAQ
 AMDDW,"SiNtx Technologies, Inc. Warrant",U
 AMDHF,CardieX Ltd. Ordinary Shares,U
+AMDIF,AMUNDI INDEX SOLUTIONS SICAV SHS AMUNDI I SOL MSCI EM ASIA UCI ETF USD C (Luxembourg),U
 AMDLY,Amada Co. Ltd American Depositary Receipts - Unsponsored,U
 AMDUF,AMUNDI SA Ordinary Shares France(FR ),U
 AMDWF,Amada Hldgs Co Ltd Ordinary Shares (Japan),U
@@ -1753,7 +1751,6 @@ ASAXW,Astrea Acquisition Corp. Warrant,NASDAQ
 ASAZF,Assa Abloy AB Ordinary Shares (Sweden),U
 ASAZY,Assa Abloy AB Unsponsored ADR (Sweden),U
 ASB,Associated Banc-Corp,NYSE
-ASB PRC,Associated Banc-Corp,NYSE
 ASB PRD,"Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of Associated",NYSE
 ASB PRE,"Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of 5.875% Non",NYSE
 ASB PRF,"Associated Banc-Corp Depositary Shares, each representing a 1/40th interest in a share of Associated",NYSE
@@ -4655,6 +4652,7 @@ CHGCF,Chugai Pharmaceutical Co Ltd Ordinary Shares (Japan),U
 CHGCY,Chugai Pharmaceutical Ltd Unsponsored ADR (Japan),U
 CHGG,"CHEGG, INC.",NYSE
 CHGI,"China Carbon Graphite Group, Inc. Common Stock",U
+CHGJF,CHANGHONG JIAHUA HOLDINGS LTD Ordinary Shares (Bermuda),U
 CHGS,"China GengSheng Minerals, Inc. Common Stock",U
 CHGX,Change Finance U.S. Large Cap Fossil Fuel Free ETF,ARCA
 CHH,Choice Hotels Intnl.,NYSE
@@ -5369,6 +5367,7 @@ CNVCF,BIOHARVEST SCIENCES INC Common Stock,U
 CNVT,CVF Technologies Corporation Common Stock,U
 CNVVF,Convatec Group PLC Ordinary Shares (United Kingdom),U
 CNVVY,ConvaTec Group plc American Depositary Receipts - Unsponsored (United Kingdom),U
+CNVY,"Convey Holding Parent, Inc.",NYSE
 CNWGY,"Cineworld Group, Plc Unsponsored ADR (United Kingdom)",U
 CNWHF,China Networks Int'l Hldgs Ltd,U
 CNWI,"Cardiac Network, Inc. Common Stock",U
@@ -5530,3 +5529,4 @@ CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
 CPB,Campbell Soup Company,NYSE
+CPBLF,ALS Ltd. Ordinary Shares (Australia),U

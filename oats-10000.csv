@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
@@ -379,7 +381,7 @@ HHC,The Howard Hughes Corporation,NYSE
 HHDS,Highlands REIT Inc Common Stock,U
 HHER,Her Imports Common Stock,U
 HHGI,"Hawaiian Hospitality Group, Inc.  Common Stock New",U
-HHHEF,"37 Capital, Inc. Ordinary Shares (Canada)",U
+HHHED,"37 Capital, Inc. Ordinary Shares",U
 HHKIY,Hochiki Corp Ord American Depositary Shares,U
 HHKSY,DFCITY Group Berhad American Depositary Receipts - Sponsored,U
 HHLA,HH&L Acquisition Co.,NYSE
@@ -927,8 +929,8 @@ HUSIF,NICOLA MNG INC  Ordinary Shares,U
 HUSN,Hudson Capital Inc. Ordinary Shares,NASDAQ
 HUSQF,Husqvarna AB Shs -B- (Sweden),U
 HUSV,First Trust Horizon Managed Volatility Domestic ETF,ARCA
+HUT,Hut 8 Mining Corp. Common Shares,NASDAQ
 HUTCY,Hutchison Telecommunications Hong Kong Hldgs LTD American Depositary Receipts - Unsponsored  Cayman (KY),U
-HUTMF,Hut 8 Mining Corp Common Stock,U
 HUTN,"HUTN, Inc. Common Stock",U
 HUTWF,Hut 8 Mining Corp Warrant Exp 12/25/2021 (Canada),U
 HUYA,HUYA Inc.,NYSE
@@ -949,7 +951,6 @@ HWAL,Hollywall Entertainment  Inc. Common Stock,U
 HWBK,"Hawthorn Bancshares, Inc. Common Stock",NASDAQ
 HWC,Hancock Whitney Corporation Common Stock,NASDAQ
 HWCC,Houston Wire & Cable Company Common Stock,NASDAQ
-HWCPL,Hancock Whitney Corporation 5.95% Subordinated Notes due 2045,NASDAQ
 HWCPZ,Hancock Whitney Corporation 6.25% Subordinated Notes due 2060,NASDAQ
 HWDJF,Howden Joinery Group Plc Ordinary Shares (United Kingdom),U
 HWDJY,Howden Joinery Group Plc Unsponsored ADR (United Kingdom),U
@@ -1982,7 +1983,6 @@ IRM,Iron Mountain Inc.,NYSE
 IRMD,iRadimed Corporation Common Stock,NASDAQ
 IRME,IR-Med Inc Common Stock,U
 IRMTF,Information Svcs Corp Ordinary Shares (Canada),U
-IRNC,Ironclad Encryption Corporation Common Stock,U
 IRNG,International Ranger Corp. Common Stock,U
 IRNRF,"Iron Road Ltd., West Perth WA Ordinary Shares (Australia)",U
 IRNS,Ironstone Group Inc Common Stock,U
@@ -2097,6 +2097,7 @@ ISON,Isonics Corporation Common Stock,U
 ISOS,Isos Acquisition Corporation,NYSE
 ISOS U,"Isos Acquisition Corporation Units, each consisting of one Class A ordinary share, and one-third of",NYSE
 ISOS WS,"Isos Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary share",NYSE
+ISPC,iSpecimen Inc. Common Stock,NASDAQ
 ISPCF,Ishares Plc Shs (Ireland),U
 ISPD,"Interspeed, Inc. Common Stock",U
 ISPFF,ISHARE II PLC Developed Mkts Pt Yld ETF Shs USD (Ireland),U
@@ -2514,7 +2515,6 @@ JEQ,ABERDEEN JAPAN EQUITY FUND,NYSE
 JERT,"JER Investors Trust, Inc. New Common Stock",U
 JESCF,JP MORGAN EUROPEAN SMALLER COS TR PLC SHS (United Kingdom),U
 JETGF,JPMorgan Fleming Continental European Investment Trust Plc Shs-Growth-Class (United Kingdom),U
-JETKD,Just Eat Takeaway.com N.V. American Depositary Receipts - Sponsored,U
 JETMF,Global Crossing Airlines Group Inc.  Ordinary Shares,U
 JETR,"Star Jets International, Inc. Common Stock",U
 JETS,U.S. Global Jets ETF,ARCA
@@ -3089,7 +3089,6 @@ KKPNF,Koninklijke Kpn Nv Ordinary Shares,U
 KKPNY,Royal KPN N.V. Common Stock,U
 KKPT,"KoKo Petroleum, Inc. Common Stock (Nevada)",U
 KKR,KKR & Co. Inc.,NYSE
-KKR PRA,KKR & Co. Inc. 6.75% Series A Preferred Units,NYSE
 KKR PRB,KKR & Co. Inc. 6.50% Series B Preferred Unit,NYSE
 KKR PRC,KKR & Co. Inc. 6.00% Series C Mandatory Convertible Preferred Stock,NYSE
 KKRAF,Katakura Industries Co Ltd Ordinary Shares (Japan),U
@@ -3633,7 +3632,6 @@ LDUR,PIMCO Enhanced Low Duration Active Exchange-Traded Fund,ARCA
 LE,"Lands' End, Inc. Common Stock",NASDAQ
 LEA,Lear Corporation,NYSE
 LEAD,Siren DIVCON Leaders Dividend ETF,BATS
-LEAF,Leaf Group Ltd.,NYSE
 LEAI,"Legacy Education Alliance, Inc. Common Stock",U
 LEAP,"Ribbit LEAP, Ltd.",NYSE
 LEAP U,"Ribbit LEAP, Ltd. Units, each consisting of one Class A Ordinary Share, and one fifth of one Warrant",NYSE
@@ -4262,6 +4260,7 @@ LXXGF,Lexagene Hldgs Inc Ordinary Shares (Canada),U
 LYB,LyondellBasell Industries N.V. Class A,NYSE
 LYBC,"Lyons Bancorp, Inc. Common Stock",U
 LYDIF,Lydian International Ltd. Ordinary Shares (Jersey),U
+LYEL,"Lyell Immunopharma, Inc. Common Stock",NASDAQ
 LYFE,2ndVote Life Neutral Plus ETF,BATS
 LYFT,"Lyft, Inc. Class A Common Stock",NASDAQ
 LYG,Lloyds Banking Group PLC,NYSE
@@ -4647,7 +4646,6 @@ MDTC,Media Technologies Inc. Common Stock,U
 MDTKF,Media Tek Incorporation Ordinary Shares,U
 MDTWF,Mediterranean Towers LTD Ordinary Shares (Israel),U
 MDU,"MDU Resources Group, Inc.",NYSE
-MDUFF,Marudai Food Co Ltd Ordinary Shares (Japan),U
 MDVL,"MedAvail Holdings, Inc. Common Stock",NASDAQ
 MDVP,Med Spa Vacations Inc Common Stock,U
 MDVT,Middlebury Natl Corp Vermont Common Stock,U
@@ -5204,6 +5202,7 @@ MNTK,"Montauk Renewables, Inc. Common Stock",NASDAQ
 MNTR,"Mentor Capital, Inc. Common Stock",U
 MNTTF,Multi Units Luxembourg SICAV Ord Shs Lyxor EU High Rat M W G BD 3Yr (Luxembourg),U
 MNTUF,"Manitou Gold, Inc Ordinary Shares (Canada)",U
+MNTV,Momentive Global Inc. Common Stock,NASDAQ
 MNTX,"Manitex International, Inc. Common Stock",NASDAQ
 MNUFF,Manulife Finl Corp CL A SER 3 Preferred Stock (Canada),U
 MNVN,"Mondial Ventures, Inc. Common Stock",U
@@ -5530,3 +5529,4 @@ MTB,M&T Bank Corp.,NYSE
 MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
+MTC,"MMTec, Inc. Common Shares",NASDAQ
