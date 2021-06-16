@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTCH,"Match Group, Inc. Common Stock",NASDAQ
-MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
-MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
@@ -224,7 +221,6 @@ MYSL,"My Screen Mobile, Inc. Common Stock",U
 MYSN,"MYSON GROUP, INC. Common Stock",U
 MYSRF,"Moneysupermarket.com Group PLC, Chester Ordinary Shares (United Kingdom)",U
 MYSZ,"My Size, Inc. Common Stock",NASDAQ
-MYT,"Urban Tea, Inc. Ordinary Shares",NASDAQ
 MYTAY,Magyar Telekom Telecommunications PLC. American Depositary Shares (Each Representing five Ordinary Shares),U
 MYTE,"MYT Netherlands Parent B.V. American Depositary Shares, each representing one Ordinary Share",NYSE
 MYTEF,Telekom Malaysian Bhd Ordinary Shares,U
@@ -682,7 +678,6 @@ NJR,New Jersey Resources Corp,NYSE
 NJUL,Innovator Nasdaq-100 Power Buffer ETF - July,BATS
 NKE,"Nike, Inc.",NYSE
 NKG,Nuveen Georgia Quality Municipal Income Fund,NYSE
-NKKRF,Nekkar Asa Common Shares (Norfolk Island),U
 NKLA,Nikola Corporation Common Stock,NASDAQ
 NKNIF,Nakanishi Inc Ordinary Shares,U
 NKORF,Palladium One Mining Inc Ordinary Shares,U
@@ -1425,7 +1420,6 @@ OBELF,Obsidian Energy Ltd.,U
 OBGRF,"Orbit Garant Drilling, Inc. Ordinary Shares (Canada)",U
 OBIIF,Obic Co Ltd Ordinary Shares,U
 OBLG,Oblong Inc. Common Stock,NASDAQ
-OBLN,"Obalon Therapeutics, Inc. Common Stock",NASDAQ
 OBLR,Orbital Enterprises New Common Stock,U
 OBMP,"OncBioMune Pharmaceuticals, Inc. Common Stock",U
 OBNK,"Origin Bancorp, Inc. Common Stock",NASDAQ
@@ -1547,6 +1541,7 @@ OGZPY,PJSC Gazprom American Depositary Receipts - Sponsored,U
 OHAQ,Oracle Healthcare Acquisition Corp. Common Stock,U
 OHBK,Old Harbor Bank (FL) Common Stock,U
 OHBTF,OHB SE Ordinary Shares,U
+OHCS,OPTIMUS HEALTHCARE SVCS INC Common Stock,U
 OHI,Omega Healthcare Investors Inc.,NYSE
 OHMGF,Ohmoto Gumi Co Ltd Ordinary Shares (Japan),U
 OHPA,Orion Acquisition Corp. Class A common stock,NASDAQ
@@ -2165,6 +2160,7 @@ PBTDF,"PLOVER BAY TECHNOLOGIES LTD, SHS (Cayman Islands)",U
 PBTHF,POINTSBET HLDGS LTD Ordinary Shares,U
 PBTP,Invesco PureBeta 0-5 Yr US TIPS ETF,BATS
 PBTS,"Powerbridge Technologies Co., Ltd. Ordinary Shares",NASDAQ
+PBUG,Pacer iPath Gold Trendpilot Exchange-Traded Notes,ARCA
 PBUS,Invesco PureBeta MSCI USA ETF,BATS
 PBW,Invesco WilderHill Clean Energy ETF,ARCA
 PBYA,Probility Media Corp. Common Stock,U
@@ -2532,7 +2528,7 @@ PHIGW,"PHI Group, Inc Creditor Warrant Exp 12/31/2044",U
 PHIL,"PHI GROUP, INC. Common Stock",U
 PHIO,Phio Pharmaceuticals Corp. Common Stock,NASDAQ
 PHIOW,Phio Pharmaceuticals Corp. Warrants expiring 12/21/2021,NASDAQ
-PHIXF,Phillippine Metals Inc. Ordinary Shares (Canada),U
+PHIXF,Philippine Metals Inc. Ordinary Shares (Canada),U
 PHJMF,Pt Hanjaya Mandala Sampoerma TBK International Depositary Receipts,U
 PHK,PIMCO High Income Fund,NYSE
 PHKIF,Poly Ppty Group Co Ltd Ordinary Shares (Hong Kong),U
@@ -3062,6 +3058,7 @@ PRIF PRE,"Priority Income Fund, Inc. 6.375% Series E Preferred Stock Due 2024",N
 PRIF PRF,"Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027",NYSE
 PRIF PRG,"Priority Income Fund, Inc. 6.25% Series G Preferred Stock Due 2026",NYSE
 PRIF PRH,"Priority Income Fund, Inc. 6.00% Series H Term Preferred Stock due 2026",NYSE
+PRIIF,PRIORITY INCOME FD INC TERM PFD SER I Preferred Stock,U
 PRIM,Primoris Services Corporation Common Stock,NASDAQ
 PRISY,Promotora De Informaciones SA American Depositary Receipts - Sponsored,U
 PRK,Park National Corporation,AMEX
@@ -3078,6 +3075,7 @@ PRLLY,Pirelli & C. SpA American Depositary Receipts - Unsponsored,U
 PRLO,"PROLOGIC Management Systems, Inc. Common Stock",U
 PRLX,Parallax Health Sciences Inc. Common Stock,U
 PRMAF,Purpose Multi-Asset Income Fund,U
+PRMD,PRIMEMD INC Common Stock,U
 PRMK,Proconcept Marketing Group Inc NEW Common Stock,U
 PRMNF,Prime Mining Corp Common Shares,U
 PRMO,"Prom Resources, Inc. New Common Stock",U
@@ -4501,6 +4499,7 @@ ROM,ProShares Ultra Technology,ARCA
 ROMJF,Rubicon Organics Inc Common Shares (Canada),U
 ROMO,Strategy Shares Newfound/ReSolve Robust Momentum ETF,BATS
 ROMWF,Rubicon Organics Inc Warrant Exp 02/26/2024 (Canada),U
+RONI U,"Rice Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fourth of one",NYSE
 RONWF,"Roan Holdings Group Co., Ltd. Warrant   07/06/2021",U
 ROOF,IQ US REAL ESTATE SMALL CAP ETF,ARCA
 ROOT,"Root, Inc. Class A Common Stock",NASDAQ
@@ -4606,7 +4605,7 @@ RSHYY,RusHydro PJSC American Depositary Receipts - Sponsored,U
 RSI,"Rush Street Interactive, Inc.",NYSE
 RSKIA,"Risk (George) Industries, Inc. Class A",U
 RSLBF,Raysearch Laboratories AB Ordinary Shares Class B (Sweden),U
-RSLS,ReShape Lifesciences Inc. Common Stock,U
+RSLS,"ReShape Lifesciences, Inc. Common Stock",NASDAQ
 RSMDF,Resmed Inc Ordinary Shares,U
 RSNHF,Resona Holdings Inc Osaka Ordinary Shares (Japan),U
 RSNUF,RENASCOR RES LTD Ordinary Shares,U
@@ -5530,3 +5529,4 @@ SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
+SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U

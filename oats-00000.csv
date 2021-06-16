@@ -279,7 +279,6 @@ ACOR,"Acorda Therapeutics, Inc. Common Stock",NASDAQ
 ACOSF,Archos ACT.NOM,U
 ACP,Aberdeen Income Credit Strategies Fund,NYSE
 ACP PRA,Aberdeen Income Credit Strategies Fund 5.250% Series A Perpetual Preferred Stock,NYSE
-ACP RT,"Aberdeen Income Credit Strategies Fund Rights (expiring June 16, 2021)",NYSE
 ACPGF,ACACIA PHARMA GROUP PLC ORD GBP0.02 (United Kingdom),U
 ACPIF,AC ENERGY CORP Common Stock,U
 ACPRF,ARCPACIFIC RES CORP Common Shares (Canada),U
@@ -1351,6 +1350,7 @@ ANPCY,"Angle Plc, Surrey Sponsored American Depository Receipt (United Kingdom) 
 ANPDF,Anta Sports Products Limited Ordinary shares (Cayman Islands),U
 ANPDY,Anta Sports Products Limited Unsponsored ADR (Cayman Islands),U
 ANPFF,"Anpulo Food, Inc. Ordinary Shares",U
+ANPMF,ANDEAN PRECIOUS METALS CORP Common Shares,U
 ANPOF,American Patriot Oil & Gas Ltd. Ordinary Shares (Australia),U
 ANSLF,Ansell Limited Ordinary Shares,U
 ANSLY,Ansell Limited Sponsored ADR (Australia),U
@@ -1454,7 +1454,7 @@ APHTF,Alphinat Inc Ordinary Shares (Canada),U
 APHWF,APOLLO HEALTHCARE CORP WT EXP 01/03/2022 (Canada),U
 API,"Agora, Inc. American Depositary Shares",NASDAQ
 APIAF,APIO AFRICA LTD Ordinary Shares,U
-APLD,"Applied Science Products, Inc. New Common Stock",U
+APLD,APPLIED BLOCKCHAIN INC Common Stock,U
 APLE,"Apple Hospitality REIT, Inc.",NYSE
 APLIF,APPILI THERAPEUTICS INC CL A (Canada),U
 APLN,"AE Holding I, Inc. Common Stock",U
@@ -1889,6 +1889,7 @@ ATA U,"Americas Technology Acquisition Corp. Units, each consisting of one Ordin
 ATA WS,"Americas Technology Acquisition Corp.Redeemable Warrants, each whole warrant exercisable for one Ord",NYSE
 ATAAY,Atacadao SA American Depositary Receipts - Unsponsored,U
 ATADF,Atac Resources Ltd Ordinary Shares,U
+ATAI,ATAI Life Sciences N.V. Common Shares,NASDAQ
 ATAO,Altair International Corp Common Stock,U
 ATAQ,Altimar Acquisition Corp. III,NYSE
 ATAQ U,"Altimar Acquisition Corp. III Units, each consisting of one Class A ordinary share, and one-fourth o",NYSE
@@ -2254,6 +2255,7 @@ AWWC,"Access Worldwide Communications, Inc. Common Stock",U
 AWWH,ASCEND WELLNESS HOLDINGS INC CL A,U
 AWWI,Alpha Wastewater Inc Common Stock,U
 AWX,Avalon Holdings Corp.,AMEX
+AWYX,ETFMG 2x Daily Travel Tech ETF,ARCA
 AX,"Axos Financial, Inc. Common Stock",NYSE
 AXAHF,Axa-Uap Sa Ordinary Shares,U
 AXAHY,AXA SA Sponsored ADR (France),U
@@ -3632,6 +3634,7 @@ BSSC,"Bank Southside Corp (Carson, VA) Common stock",U
 BSSMF,Bass Metals Ltd Ordinary shares (Australia),U
 BSSP,"Bassline Productions, Inc. Common",U
 BST,BlackRock Science and Technology Trust,NYSE
+BST RTWI,"BlackRock Science and Technology Trust Rights (expiring July 14, 2021)",NYSE
 BSTG,"Biostage, Inc. Cmn Stk Common Stock",U
 BSTGF,Boustead Singapore Ltd Ordinary Shares (Singapore),U
 BSTHY,Boustead Hldgs Berhad Ord American Depositary Shares,U
@@ -3657,6 +3660,7 @@ BTAQ,Burgundy Technology Acquisition Corporation Class A Ordinary shares,NASDAQ
 BTAQU,Burgundy Technology Acquisition Corporation Unit,NASDAQ
 BTAQW,Burgundy Technology Acquisition Corporation Warrant,NASDAQ
 BTAVF,Batm Advanced Commun Ltd Ordinary Shares,U
+BTB,Bit Brother Limited Ordinary Shares,NASDAQ
 BTBD,BT BRANDS INC Common Stock  (United States),U
 BTBIF,BTB Real Estate Invt Tr Tr Unit (Canada),U
 BTBT,"Bit Digital, Inc. Ordinary Shares",NASDAQ
@@ -4765,7 +4769,7 @@ CHTH,Cnl Healthcare Pptys Inc Common Stock,U
 CHTM,Chatham Corp Common Stock,U
 CHTR,"Charter Communications, Inc. Class A Common Stock New",NASDAQ
 CHUAF,China Huarong Asset Management Co Ltd Ordinary Shares (China),U
-CHUC,"Charlie's Holdings, Inc. Common Stock",U
+CHUCD,"Charlie's Holdings, Inc. Common Stock",U
 CHUEF,Chubu Electric Power Ordinary Shares,U
 CHUY,"Chuy's Holdings, Inc. Common Stock",NASDAQ
 CHVEF,Charisma Energy Services Ltd. Ordinary Shares (Singapore),U
@@ -5527,6 +5531,3 @@ CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
-CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
-CPB,Campbell Soup Company,NYSE
-CPBLF,ALS Ltd. Ordinary Shares (Australia),U

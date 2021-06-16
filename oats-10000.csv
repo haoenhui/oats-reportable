@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
@@ -684,7 +682,6 @@ HOOB,"Holobeam, Inc. Common Stock",U
 HOOK,HOOKIPA Pharma Inc. Common Stock,NASDAQ
 HOPE,"Hope Bancorp, Inc. Common Stock",NASDAQ
 HOPHF,HEMOGENYX PHARMACEUTICALS PLC Ordinary Shares (United Kingdom),U
-HOPS,OPTIMUS HEALTHCARE SVCS INC Common Stock,U
 HOSHF,HOSHINO RESORTS REIT INC Ordinary Shares,U
 HOSXF,Haci Omer Sabanci Hldgs Reg S American Depositary Shares,U
 HOTF,"Hot Mama's Foods, Inc. Common Stock",U
@@ -950,7 +947,6 @@ HWAFF,HWA FONG RUBBER THAILAND PUB CO LTD NVDR SHARES Depositary Receipts,U
 HWAL,Hollywall Entertainment  Inc. Common Stock,U
 HWBK,"Hawthorn Bancshares, Inc. Common Stock",NASDAQ
 HWC,Hancock Whitney Corporation Common Stock,NASDAQ
-HWCC,Houston Wire & Cable Company Common Stock,NASDAQ
 HWCPZ,Hancock Whitney Corporation 6.25% Subordinated Notes due 2060,NASDAQ
 HWDJF,Howden Joinery Group Plc Ordinary Shares (United Kingdom),U
 HWDJY,Howden Joinery Group Plc Unsponsored ADR (United Kingdom),U
@@ -2318,7 +2314,6 @@ IVOO,Vanguard S&P Mid-Cap 400 ETF,ARCA
 IVOV,Vanguard S&P Mid-Cap 400 Value ETF,ARCA
 IVPAF,Ivanhoe Mines Ltd. Com CL A (Canada),U
 IVR,Invesco Mortgage Capital Inc.,NYSE
-IVR PRA,"INVESCO MORTGAGE CAPITAL INC. 7.75% Series A Cumulative Redeemable Preferred Stock,",NYSE
 IVR PRB,INVESCO MORTGAGE CAPITAL INC. 7.75% Fixed-To-Floating Series B Cumulative Redeemable Preferred Stock,NYSE
 IVR PRC,"Invesco Mortgage Capital Inc. 7.5% Fixed-to-Floating Series C Cumulative Redeemable Preferred Stock,",NYSE
 IVRA,Invesco Real Assets ESG ETF,BATS
@@ -4370,6 +4365,8 @@ MAPGF,Mapletree Logistics Trust Units Real Estate Investment Trust (Singapore),U
 MAPIF,"Mapletree Industrial Trust, Singapore Units Real Estate Investment Trust (Singapore)",U
 MAPL,Maple Press Co Common Stock,U
 MAPPF,PROSTAR HLDGS INC CDA Common Shares,U
+MAPS,"WM Technology, Inc. Class A Common Stock",NASDAQ
+MAPSW,"WM Technology, Inc. Warrants",NASDAQ
 MAPT,"Maptelligent, Inc. Common Stock",U
 MAQAF,Atlas Arteria Ltd Ordinary Shares,U
 MAQC,Maquia Capital Acquisition Corporation Class A Common Stock,NASDAQ
@@ -5530,3 +5527,6 @@ MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
+MTCH,"Match Group, Inc. Common Stock",NASDAQ
+MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
+MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U

@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
@@ -68,6 +67,7 @@ SHTPF,S HOTELS & RESORTS PUB CO LTD Ordinary Shares,U
 SHTRF,Sunlight Real Estate Investment Trust Units (Hong Kong),U
 SHUFF,Shufersal Ltd Shs B Ordinary Shares,U
 SHUNF,SHUNFENG INTL CLEAN ENERGY LTD  Ordinary Shares,U
+SHUS,Syntax Stratified U.S. Total Market Hedged ETF,ARCA
 SHV,iShares Short Treasury Bond ETF,NASDAQ
 SHVLF,Starcore International Mines Ltd Ordinary Shares (Canada),U
 SHVTF,Select Harvests Limited Ordinary Shares (Australia),U
@@ -138,6 +138,7 @@ SILLF,Sarin Technologies Ltd Ordinary Shares (Israel),U
 SILO,SILO PHARMA INC Common Stock,U
 SILS,Silver Scott Mines Inc Unclassified,U
 SILV,SilverCrest Metals Inc. Common Shares,AMEX
+SILX,ETFMG Prime 2x Daily Junior Silver Miners ETF,ARCA
 SILXF,Silex Systems Ltd Ordinary Shares,U
 SILXY,Silex Systems Ltd American Depositary Shares,U
 SIM,"Groupo Simec, S.A.B de C.V.",AMEX
@@ -156,6 +157,7 @@ SINGF,Singapore Airlines Ltd Ordinary shares (Singapore),U
 SINGY,Singapore Airlines Ltd Unsponsored ADR (Singapore),U
 SINO,"Sino-Global Shipping America, Ltd. Common Stock",NASDAQ
 SINT,"SiNtx Technologies, Inc. Common Stock",NASDAQ
+SINV,ETFMG Prime 2x Daily Inverse Junior Silver Miners ETF,ARCA
 SINX,Sionix Corporation Common Stock,U
 SIOLF,Sino-Ocean Land Ordinary Shares (Hong-Kong),U
 SIOLY,Sino-Ocean Group Holdings Ltd American Depositary Receipts - Unsponsored,U
@@ -1197,9 +1199,6 @@ SSOK,Sunstock Inc  Common Stock,U
 SSP,E.W. Scripps Company (The) Class A Common Stock,NASDAQ
 SSPCF,SiriusPoint Ltd. Contingent Value Rights (Bermuda),U
 SSPFF,SiriusPoint Ltd. Warrant Exp 02/26/2026 (Bermuda),U
-SSPK,Silver Spike Acquisition Corp. Class A Ordinary Shares,NASDAQ
-SSPKU,Silver Spike Acquisition Corp. Units,NASDAQ
-SSPKW,Silver Spike Acquisition Corp. Warrants,NASDAQ
 SSPPF,SSP GROUP PLC Ordinary Shares,U
 SSPT,Shot Spirits Corporation Common Stock,U
 SSPY,Syntax Stratified LargeCap ETF,ARCA
@@ -1496,7 +1495,6 @@ SUVPF,Sartorius Ag Preferred Stock,U
 SUVZ,Suvanza Common Stock,U
 SUWN,"Sunwin Stevia International, Inc. Common Stock",U
 SUZ,Suzano S.A. American Depositary Shares (each representing one Ordinary Share ) representing one Ordi,NYSE
-SUZQF,Suez Cement Company SAE Sponsored Reg S GDR (Egypt),U
 SUZRY,Sulzer AG Unsponsored ADR (Switzerland),U
 SV,Spring Valley Acquisition Corp. Class A Ordinary Share,NASDAQ
 SVA,"Sinovac Biotech, Ltd. Ordinary Shares",NASDAQ
@@ -3656,7 +3654,6 @@ UYG,ProShares Ultra Financials,ARCA
 UYM,ProShares Ultra Basic Materials,ARCA
 UZA,United States Cellular Corp. 6.95% Senior Notes due 2060,NYSE
 UZAPF,Flughafen Zuerich Ag Kloten Common Shares,U
-UZC,United States Cellular Corporation 7.25% Senior Notes due 2064,NYSE
 UZD,United States Cellular Corporation 6.250% Senior Notes due 2069,NYSE
 UZE,United States Cellular Corporation 5.500% Senior Notes due 2070,NYSE
 UZF,United States Cellular Corporation 5.500% Senior Notes due 2070,NYSE
@@ -3815,6 +3812,7 @@ VERI,"Veritone, Inc. Common Stock",NASDAQ
 VERKF,Verkkokauppa.com OYJ Common Shares (Finland),U
 VERO,Venus Concept Inc. Common Stock,NASDAQ
 VERU,Veru Inc. Common Stock,NASDAQ
+VERV,"Verve Therapeutics, Inc. Common Stock",NASDAQ
 VERX,"Vertex, Inc. Class A Common Stock",NASDAQ
 VERY,"Vericity, Inc. Common Stock",NASDAQ
 VEST,"Vestiage, Inc. Common Stock",U
@@ -5022,6 +5020,7 @@ XHFNF,Xinhua Finance Limited Ordinary Shares (Cayman Islands),U
 XHR,"Xenia Hotels & Resorts, Inc.",NYSE
 XHS,SPDR S&P Health Care Services ETF,ARCA
 XIACF,Xiaomi Corp Common Shares,U
+XIACY,Xiaomi Corporation American Depositary Receipts - Unsponsored,U
 XIAXF,XIABUXIABU CATER MGMT CHINA HLDGS CO LTD HKD Ordinary Shares,U
 XIN,Xinyuan Real Estate Co. LTD,NYSE
 XINXF,New Wk SE Ordinary Shares (Germany Federal Republic),U
@@ -5494,6 +5493,7 @@ ZSL,ProShares UltraShort Silver,ARCA
 ZSTN,"ZST Digital Networks, Inc. Common Stock",U
 ZSTTF,BMO Ultra Short-Term Bd Fund Unit (Canada),U
 ZSYC,SMART CLOSET INC Common Stock,U
+ZTAQU,Zimmer Energy Transition Acquisition Corp. Units,NASDAQ
 ZTCOF,Zte Corporation Shares H (China),U
 ZTCOY,Zte Corporation Unsponsored ADR representing H Shares (China),U
 ZTLLF,Zonetail Inc Common Shares (Canada),U

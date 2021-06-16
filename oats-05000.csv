@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
+CPB,Campbell Soup Company,NYSE
+CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
 CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
@@ -1313,6 +1316,7 @@ DNACF,Dena Co Ltd Tokyo Ordinary Shares (Japan),U
 DNAG,"DNAPrint Genomics, Inc. Common Stock",U
 DNAT,Dna Medical Tecnologies Inc Common Stock,U
 DNAX,"DNA Brands, Inc. Common Stock",U
+DNAY,"Codex DNA, Inc. Common Stock",NASDAQ
 DNB,"Dun & Bradstreet Holdings, Inc.",NYSE
 DNBHF,DNB ASA Ordinary Shares,U
 DNCVF,Defiance Silver Corp. Ordinary Shares (Canada),U
@@ -1339,7 +1343,6 @@ DNL,WisdomTree Global ex-US Quality Dividend Growth Fund,ARCA
 DNLI,Denali Therapeutics Inc. Common Stock,NASDAQ
 DNLMY,Dunelm Group PLC American Depositary Receipt (Unsponsored)(United Kingdom),U
 DNMR,"Danimer Scientific, Inc.",NYSE
-DNMR WS,"Danimer Scientific, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class",NYSE
 DNN,Denison Mines Corp,AMEX
 DNNGY,Orsted A/S American Depositary Receipts - Unsponsored,U
 DNOPF,Dino Polska SA Ordinary Shares (Poland),U
@@ -1922,7 +1925,7 @@ EDUC,Educational Development Corporation Common Stock,NASDAQ
 EDULF,EDULAB INC Common Stock,U
 EDUT,Global X Funds Global X Education ETF,NASDAQ
 EDV,Vanguard World Funds Extended Duration ETF,ARCA
-EDVMF,Endeavour Mining Corporation Ordinary Shares,U
+EDVMF,ENDEAVOUR MNG PLC Ordinary Shares,U
 EDVR,Endeavor Bk Common Stock,U
 EDWZF,Edgewater Exploration Ltd. Common Shares,U
 EDXC,Endexx Corporation Common Stock,U
@@ -2051,7 +2054,6 @@ EGTIF,"Eguarantee Inc, SHS (Japan)",U
 EGTK,Energtek Inc. Common Stock,U
 EGTTF,EYEFI Group Technologies Inc. Common Stock (Canada),U
 EGTYF,Eguana Technologies Inc Ordinary Shares,U
-EGXP,Eagle Exploration Company Common Stock,U
 EGY,"Vaalco Energy, Inc.",NYSE
 EGYF,"Energy Finders, Inc. Common Stock",U
 EH,EHang Holdings Limited ADS,NASDAQ
@@ -2441,8 +2443,6 @@ EPHYU,Epiphany Technology Acquisition Corp. Unit,NASDAQ
 EPHYW,Epiphany Technology Acquisition Corp. Warrant,NASDAQ
 EPI,WisdomTree India Earnings Fund ETF,ARCA
 EPIAF,EPIROC AKTIEBOLAG SHARE AK A (Sweden),U
-EPIBF,Epiroc Aktiebolag Share AK IL B (Sweden),U
-EPIRF,EPIROC AKTIEBOLAG SHARE AK IL A (Sweden),U
 EPIX,ESSA Pharma Inc. Common Stock,NASDAQ
 EPKKY,Epiroc Aktiebolag American Depositary Receipts - Unsponsored CL B (Sweden),U
 EPLYF,EPS HLDGS INC Ordinary Shares,U
@@ -2512,7 +2512,7 @@ EQSMF,EQUUS MNG LTD SHS (Australia),U
 EQT,EQT CORP,NYSE
 EQTD,Equal Trading Inc.Common Stock,U
 EQTE,"EQM Technologies & Energy, Inc. Common Stock",U
-EQTLD,Equitech Intl Corp Common Stock,U
+EQTL,Equitech Intl Corp Common Stock,U
 EQTRF,Altamire Gold Corp Ordinary Shares,U
 EQTXF,Lake Winn Resources Corp.  Ordinary Shares,U
 EQUEY,Equatorial Energia S.A. Sponsored ADR (Brazil),U
@@ -3239,6 +3239,7 @@ FEMB,First Trust Exchange-Traded Fund III First Trust Emerging Markets Local Cur
 FEMFF,First Energy Metals Ltd Common Shares,U
 FEMPF,Food Empire Holdings Ltd Ordinary Shares (Singapore),U
 FEMS,First Trust Developed Markets Small Cap AlphaDex Fund,NASDAQ
+FEMY,Femasys Inc. Common Stock,NASDAQ
 FEN,First Trust Energy Income and Growth Fund,AMEX
 FENC,Fennec Pharmaceuticals Inc. Common Stock,NASDAQ
 FENG,PHOENIX NEW MEDIA LIMITED,NYSE
@@ -4422,7 +4423,6 @@ GBS,GBS Inc. Common Stock,NASDAQ
 GBSB,GIBSON BRANDS INC COM,U
 GBT,"Global Blood Therapeutics, Inc. Common Stock",NASDAQ
 GBTC,Grayscale Bitcoin Trust (BTC) Common Stock,U
-GBTKF,Globetronics Technology Bhd Ordinary Shares (Malaysia),U
 GBTT,Gabbit Corp Common Stock,U
 GBTZF,Global Logistic Properties Ltd. Ordinary Shares (Singapore),U
 GBUG,Pacer iPath Gold ETNs,ARCA
@@ -4499,7 +4499,6 @@ GDLNF,Greenland Minerals And Energy Ltd Ordinary shares (Australia),U
 GDMA,Gadsden Dynamic Multi-Asset ETF,ARCA
 GDMIF,GOLDSTAR MINERALS INC Ordinary Shares,U
 GDMK,GLOBAL DIVERSIFIED MARKETING GROUP INC Common Stock,U
-GDMOF,Dmg Mori Aktiengesellschaft Ordinary Shares (Germany Federal Republic),U
 GDMRF,"Golden Dawn Minerals, Inc. Common Shares",U
 GDNEF,Golden Eagle Retail Group Ltd Ordinary Shares (Cayman Islands),U
 GDNEY,Golden Eagle Retail Group Ltd Unsponsored ADR (Cayman Islands),U
@@ -4943,7 +4942,7 @@ GMIIW,"Gores Metropoulos II, Inc. Warrants",NASDAQ
 GMJOF,"Gamecard-Joyco Holdings Inc, Tokyo Ordinary Shares  (Japan)",U
 GMKKY,Gruma SAB DE C V American Depositary Receipts - Unsponsored (Mexico),U
 GMLPF,Golar LNG Partners LP 8.75% Series A Cumulative Redeemable Preferred Units (Marshall Islands),U
-GMMVF,G MED INNOVATIONS Ordinary Shares,U
+GMMVD,G MED INNOVATIONS Ordinary Shares,U
 GMND,Green Mountain Development Corp Common Stock,U
 GMNFF,GobiMin Inc Ordinary Shares (Canada),U
 GMNGF,GOLD MOUNTAIN LTD SHS (Australia),U
@@ -5530,3 +5529,5 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
