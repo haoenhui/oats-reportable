@@ -522,6 +522,7 @@ CUBI PRC,"Customers Bancorp, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetua
 CUBI PRD,"Customers Bancorp, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series D",NYSE
 CUBI PRE,"Customers Bancorp, Inc. Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series E",NYSE
 CUBI PRF,"Customers Bancorp, Inc  Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock, Series F",NYSE
+CUBS,Asian Growth Cubs ETF,ARCA
 CUBT,CURATIVE BIOTECHNOLOGY INC Common Stock,U
 CUBV,CUBA Beverage Company Common Stock,U
 CUBXF,CubicFarm Systems Corporation Common Shares (Canada),U
@@ -774,6 +775,7 @@ D,"Dominion Energy, Inc Common Stock",NYSE
 DAAT,"DAC Technologies Group International, Inc. Common Stock",U
 DAC,Danaos Corporation,NYSE
 DACHF,Daicel Chemical Inds Ltd Ordinary Shares,U
+DACLF,DAISO CO LTD FORMERLY OSAKA SODA CO LTD Ordinary Shares,U
 DADA,Dada Nexus Limited American Depositary Shares,NASDAQ
 DADTF,Datadot Technology Ltd Ordinary Shares (Australia),U
 DAEIF,DL HLDGS CO LTD PFD SHS NON-VOTING Preference Shares,U
@@ -781,6 +783,7 @@ DAFL,Du-Art Film Labs Inc Common Stock,U
 DAGXF,"DB Agriculture Double Long ETN due April 1, 2038",U
 DAHLF,"DAMSTRA HOLDINGS LTD, ORDINARY FULLY PAID (Australia)",U
 DAHSF,Dah Sing Financial Hldg Ltd Ordinary Shares,U
+DAICF,DAIKEN CORP Ordinary Shares,U
 DAIKF,"Dai-Ichi Seiko Co Ltd, Kyoto Ordinary Shares (Japan)",U
 DAIO,Data I/O Corporation Common Stock,NASDAQ
 DAIPF,Daihen Corp Ordinary Shares Japan(JP ),U
@@ -1338,6 +1341,7 @@ DNIF,Dividend and Income Fund Common Stock,U
 DNIFY,Danieli S.P.A. Unsponsored ADR (Italy),U
 DNIYY,Danieli S.P.A. Unsponsored ADR Representing 1 Risparmio Shares,U
 DNKEY,Danske Bank A\/S Bearer Shs Ord American Depositary Receipts - Sponsored (Denmark),U
+DNKGF,Denki Kogyo Co Ltd Ordinary Shares,U
 DNKLY,Danakali Ltd. American Depositary Receipts - Sponsored,U
 DNL,WisdomTree Global ex-US Quality Dividend Growth Fund,ARCA
 DNLI,Denali Therapeutics Inc. Common Stock,NASDAQ
@@ -1505,6 +1509,7 @@ DSGT,DSG Global Inc Common Stock,U
 DSGUF,Dogan Sirketler Grubu Holdings AS Ordinary Shares (Turkey),U
 DSGUY,Dogan Sirketler Grubu Holdings AS Unsponsored ADR (Turkey),U
 DSGX,Descartes Systems Group Inc. (The) Common Stock,NASDAQ
+DSHHF,DAISHI HOKUETSU FINL GROUP INC Common Stock,U
 DSI,iShares MSCI KLD 400 Social ETF,ARCA
 DSITF,Dixons Carphone Plc Ordinary Shares (United Kingdom),U
 DSJA,Innovator Double Stacker ETF - January,BATS
@@ -2995,9 +3000,6 @@ FAF,First American Financial Corporation,NYSE
 FAFL,"First Americano Financial Corporation (Elizabeth, NJ) Common Stock",U
 FAGI,"Full Alliance Group, Inc. Common Stock",U
 FAHE,Fahey Bkg Co Marion Ohio Common Stock,U
-FAII,Fortress Value Acquisition Corp. II,NYSE
-FAII U,"Fortress Value Acquisition Corp. II Units, each consisting of one share of Class A common stock and",NYSE
-FAII WS,"Fortress Value Acquisition Corp. II Warrants, each whole warrant exercisable for one share of Class",NYSE
 FAIL,Cambria Global Tail Risk ETF,BATS
 FAKC,FaceKey Corp. Common Stock,U
 FALC,FALCONSTOR SOFTWARE INC Common Stock,U
@@ -3211,6 +3213,7 @@ FDVRF,Facedrive Inc. Common Shares (Canada),U
 FDVV,Fidelity High Dividend ETF,ARCA
 FDVWF,Friedrich Vorwerk Group SE INH ON Ordinary Shares (Germany),U
 FDVXF,FENIXORO GOLD CORP Common Shares,U
+FDWM,Fidelity Women's Leadership ETF,ARCA
 FDX,FedEx Corporation,NYSE
 FDYTF,Faraday Technology Corp SHS (Taiwan),U
 FE,FirstEnergy Corp.,NYSE
@@ -3342,6 +3345,7 @@ FGRO,Fidelity Growth Opportunities ETF,BATS
 FGROF,Firstgroup Plc Ordinary Shares,U
 FGROY,Firstgroup Plc Unsponsored ADR (UK),U
 FGRRF,Fingerprint Cards AB Ordinary Shares AK B (Sweden),U
+FGRTF,"Fingertango, Inc. Ordinary Shares (Cayman Islands)",U
 FGSGF,"FLAT GLASS GROUP CO LTD, Flat Glass/Bearer/Shs H/06865 (China)",U
 FGSSF,Fasadgruppen Group SB Ordinary Shares (Sweden),U
 FGWLF,FLUGHAFEN WIEN AKTIENGESELLSCHAFT Ordinary Shares,U
@@ -3720,6 +3724,7 @@ FNGZ,"MicroSectors FANG+ Index -2X Inverse Leveraged ETNs due January 8, 2038",A
 FNHC,FedNat Holding Company Common Stock,NASDAQ
 FNHM,"FNBH Bancorp, Inc. (Howell, Michigan) Common Stock",U
 FNI,First Trust Chindia ETF,ARCA
+FNICF,Fathom Nickel Inc. Common Stock (Canada),U
 FNINF,"49 North Resources , Inc. Ordinary Shares (Canada)",U
 FNK,First Trust Mid Cap Value AlphaDEX Fund,NASDAQ
 FNKO,"Funko, Inc. Class A Common Stock",NASDAQ
@@ -3821,6 +3826,7 @@ FPCPF,FP Corp Ordinary Shares (Japan),U
 FPE,First Trust Preferred Securities and Income ETF,ARCA
 FPEI,First Trust Institutional Preferred Securities and Income ETF,ARCA
 FPF,FIRST TRUST INTERMEDIATE DURATION PREFERRED & INCOME FUND,NYSE
+FPFD,Fidelity Preferred Securities & Income ETF,BATS
 FPH,"Five Point Holdings, LLC Class A Common Shares",NYSE
 FPHAF,Faron Pharmaceuticals OY Ordinary Shares (Finland),U
 FPHHF,First Philippine Holdings Corp FPHC Ordinary Shares (Phillippines),U
@@ -4002,7 +4008,6 @@ FSHYF,Shougang Fushan Resources Group Ltd Ordinary Shares (Hong Kong),U
 FSI,"Flexible Solutions International, Inc.",AMEX
 FSII,FS Development Corp. II Class A Common Stock,NASDAQ
 FSK,FS KKR Capital Corp. Common Stock,NYSE
-FSKR,FS KKR Capital Corp. II,NYSE
 FSLF,First Eagle Senior Loan Fund,NYSE
 FSLR,"First Solar, Inc. Common Stock",NASDAQ
 FSLUF,FSL Trust Units Shipping Business Trust (Singapore),U
@@ -4040,6 +4045,7 @@ FSSIU,Fortistar Sustainable Solutions Corp. Unit,NASDAQ
 FSSIW,Fortistar Sustainable Solutions Corp. Warrant,NASDAQ
 FSSLY,Fossal SAA American Depositary Receipts - Sponsored (Peru),U
 FSSN,Fision Corp Common Stock,U
+FSST,Fidelity Sustainability U.S. Equity ETF,ARCA
 FSSTF,CI MORNINGSTAR CANADA MOMENTUM INDEX ETF Unit,U
 FST,FAST Acquisition Corp.,NYSE
 FST U,"FAST Acquisition Corp. Units, each consisting of one share of Class A common stock and one-half of o",NYSE
@@ -4319,6 +4325,7 @@ GAMC,Golden Arrow Merger Corp. Class A Common Stock,NASDAQ
 GAMCF,"GAMMA COMMUNICATIONS PLC, SHS (United Kingdom)",U
 GAMCU,Golden Arrow Merger Corp. Unit,NASDAQ
 GAMCW,Golden Arrow Merger Corp. Warrant,NASDAQ
+GAME,"Engine Media Holdings, Inc. Common Stock",NASDAQ
 GAMN,"Great American Food Chain, Inc. (The) Common Stock",U
 GAMR,Wedbush ETFMG Video Game Tech ETF,ARCA
 GAN,GAN Limited Ordinary Shares,NASDAQ
@@ -4558,7 +4565,7 @@ GEGYF,Genel Energy PLC Ordinary Shares (Jersey),U
 GEGYY,Genel Energy PLC Unsponsored ADR (Jersey),U
 GEHDF,Great Eastern Holdings Ltd Ordinary Shares Singapore(SG ),U
 GEHDY,Great Eastern Holdings Ltd Unsponsored ADR (Singapore),U
-GEIN,"Genesys Industries, Inc. Common Stock",U
+GEIND,FORZA INNOVATIONS INC Common Stock,U
 GEL,"Genesis Energy, L.P.",NYSE
 GELGF,Chatham Rock Phosphate Ltd. Ordinary Shares,U
 GELV,"Green Energy Live, Inc. Common stock",U
@@ -4747,6 +4754,7 @@ GILXF,Gitennes Expl Inc (F) Ordinary Shares,U
 GIM,Templeton Global Income Fund (Delaware),NYSE
 GINBF,Grupo Industrial Maseca Sa De Cv Ordinary Shares,U
 GINN,Goldman Sachs Innovate Equity ETF,ARCA
+GIPIF,GREEN IMPACT PARTNERS INC Common Shares,U
 GIPR,Generation Income Properties Inc Common Stock,U
 GIS,"General Mills, Inc.",NYSE
 GISMF,GRUPO INDUSTRIAL SALTILLO SAB DE CV SHS SERIES -A- (Mexico),U
@@ -4911,6 +4919,7 @@ GM,General Motors Company,NYSE
 GMAB,Genmab A/S ADS,NASDAQ
 GMALF,Genting Malaysia Berhad Ordinary Shares (Malaysia),U
 GMALY,Genting Malaysia Berhad Sponsored ADR,U
+GMBKF,Gunma Bank Ltd Ordinary Shares (Japan),U
 GMBL,Esports Entertainment Group Inc. Common Stock,NASDAQ
 GMBLW,Esports Entertainment Group Inc. Warrant,NASDAQ
 GMBT,Queen's Gambit Growth Capital Class A Ordinary Share,NASDAQ
@@ -5096,7 +5105,6 @@ GOOGL,Alphabet Inc. Class A Common Stock,NASDAQ
 GOOI,"Gooi Global, Inc. Common Stock",U
 GOOLF,AQUARIUS AI INC Common Shares,U
 GOOS,Canada Goose Holdings Inc.,NYSE
-GOOWF,Givot Olam Oil Exploration LP 1993 Warrant   06/16/2021,U
 GOOXF,Givot Olam Oil Exploration LP 1993 Ordinary Shares,U
 GOPG,Go-Page Corporation.  Common Stock,U
 GOPPF,Gourmet Ocean Products Inc Ordinary Shares (Canada),U
@@ -5227,7 +5235,6 @@ GRLGF,"Greatland Gold PLC, London, Ordinary Shares  (United Kingdom)",U
 GRLT,"Grillit, Inc. Common Stock",U
 GRLVF,Group Eleven Res Corp Ordinary Shares (Canada),U
 GRMC,Goldrich Mining Company Common Stock,U
-GRMMD,"Grom Social Enterprises, Inc. Common Stock",U
 GRMN,Garmin Ltd. Common Stock (Switzerland),NASDAQ
 GRMWF,TPCO HLDG CORP WT EXP 01/15/2026 Warrant,U
 GRN,iPath Series B Carbon Exchange-Traded Notes,ARCA
@@ -5248,6 +5255,8 @@ GRNVW,GreenVision Acquisition Corp Warrant,NASDAQ
 GRNWF,Greenlane Renewables Inc Common Stock (Canada),U
 GRODF,GREEN ORGANIC DUTCHMAN HLDGS LTD  WT EXP 12/19/2022 Canada(CA ),U
 GROLF,Petrotarg AB Ordinary Shares,U
+GROM,Grom Social Enterprises Inc. Common Stock,NASDAQ
+GROMW,Grom Social Enterprises Inc. Warrants,NASDAQ
 GROUF,Grafton Group plc Unit (Ireland),U
 GROUY,Grafton Group plc Unsponsored ADR representing Units (Ireland),U
 GROW,"U.S. Global Investors, Inc. Class A Common Stock",NASDAQ
@@ -5491,6 +5500,7 @@ GUORF,GL LTD Ordinary Shares,U
 GUORY,GL Ltd American Depositary Receipts - Unsponsored,U
 GUOSF,GUOTAI JUNAN SECURITIES CO LTD Ordinary Shares BEARER\SHARES H\02611 China(CN),U
 GURE,"Gulf Resources, Inc. (NV) Common Stock",NASDAQ
+GURNF,Gurunavi Inc Ordinary Shares,U
 GUROF,Guru Organic Energy Co Common Stock (Canada),U
 GURU,Global X Guru Index ETF,ARCA
 GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,ARCA
@@ -5525,9 +5535,3 @@ GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U

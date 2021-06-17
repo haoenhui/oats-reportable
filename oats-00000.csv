@@ -1113,6 +1113,7 @@ AM,Antero Midstream Corporation Common Stock,NYSE
 AMADF,Amadeus IT Group SA Ordinary Shares,U
 AMADY,Amadeus IT Group SA American Depositary Receipts - Unsponsored,U
 AMAL,Amalgamated Financial Corp. Common Stock (DE),NASDAQ
+AMAM,Ambrx Biopharma Inc. American Depositary Shares (each representing seven Ordinary Shares),NYSE
 AMANF,Amano Corp Ordinary Shares,U
 AMAO,American Acquisition Opportunity Inc. Class A Common Stock,NASDAQ
 AMAOU,American Acquisition Opportunity Inc. Units,NASDAQ
@@ -1395,6 +1396,7 @@ AOLS,"Aeolus Pharmaceuticals, Inc. Common Stock",U
 AOM,iShares Core Moderate Allocation ETF,ARCA
 AOMFF,Alstom Ordinary Shares Prov Regroupement (France),U
 AOMOY,Ao Mosenergo American Depositary Shares,U
+AOMR,"Angel Oak Mortgage, Inc.",NYSE
 AOMUF,Autonomous Control Systems Labs Com Stk (Japan),U
 AON,Aon plc Class A,NYSE
 AONCF,Advanced Oncotherapy PLC Ordinary Shares,U
@@ -1552,6 +1554,7 @@ AQMS,"Aqua Metals, Inc. Common Stock",NASDAQ
 AQN,Algonquin Power & Utilities Corp,NYSE
 AQNA,Algonquin Power & Utilities Corp. 6.875% Fixed-to-Floating Rate Subordinated Notes Series 2018-A due,NYSE
 AQNB,Algonquin Power & Utilities Corp. 6.20% Fixed-to-Floating Subordinated Notes Series 2019-A due July,NYSE
+AQNNV,Algonquin Power & Utilities Corp Corporate Unit (Canada),U
 AQQRF,Aquarius Surgical Technologies Inc Ordinary Shares (Canada),U
 AQQSQ,AMERICAN SPECTRUM RLTY INC Common Stock undefined,U
 AQSP,Acquired Sales Corp. Common Stock,U
@@ -1958,6 +1961,8 @@ ATI,Allegheny Technologies,NYSE
 ATIF,ATIF Holdings Limited Ordinary Shares,NASDAQ
 ATIG,Atlantis Internet Group Corp Common Stock,U
 ATIN,ATI Nationwide Holding Corp. Common Stock,U
+ATIP,"ATI Physical Therapy, Inc.",NYSE
+ATIP WS,"ATI Physical Therapy, Inc. Warrants, each whole warrant exercisable for one share of Class A common",NYSE
 ATIW,"ATI Networks, Inc./CO Common Stock",U
 ATIXF,Analytixinsight Inc Common Shares (Canada),U
 ATKR,Atkore Inc.,NYSE
@@ -2292,7 +2297,6 @@ AXRX,Amexdrug Corporation Common Stock,U
 AXS,Axis Capital Holders Limited,NYSE
 AXS PRE,"AXIS Capital Holdings Limited Depositary Shares, each representing 1/100th interest in a share of th",NYSE
 AXSM,"Axsome Therapeutics, Inc. Common Stock",NASDAQ
-AXSPY,Axel Springer AG Unsponsored ADR (Germany Federal Republic),U
 AXTA,Axalta Coating Systems Ltd.,NYSE
 AXTC,Axtive Corporation Common Stock,U
 AXTG,"Axis Technologies Group, Inc. Common Stock",U
@@ -3031,6 +3035,7 @@ BKSB,BNY Mellon Short Duration Corporate Bond ETF,ARCA
 BKSC,Bank of South Carolina Corp. Common Stock,NASDAQ
 BKSD,"Blueprint Technologies, Inc. Common Stock",U
 BKSE,BNY Mellon US Small Cap Core Equity ETF,ARCA
+BKSGF,Bank Of Saga Ltd Ordinary Shares,U
 BKSH,"Berkshire Homes, Inc. Common Stock",U
 BKSLF,Banks IS Gold Ltd Ordinary Shares (Canada),U
 BKT,BlackRock Income Trust Inc.,NYSE
@@ -3489,7 +3494,6 @@ BRMK,Broadmark Realty Capital Inc. Common Stock,NYSE
 BRMK WS,"Broadmark Realty Capital Inc. Warrants, each exercisable for one fourth (1/4th) share of Common Stoc",AMEX
 BRMSY,Brmalls Participacoes S A Sponsored ADR (Brazil),U
 BRMT,Bare Metal Std Inc Common Stock,U
-BRMWF,Brand Marvel Worldwide Consumer Products Corp. Ordinary Shares (Canada),U
 BRN,"Barnwell Industries, Inc.",AMEX
 BRNBF,BRAIN BIOTECH AG Ordinary Shares,U
 BRNCF,BRAINCOOL AB Rights SUBSCRIPTION OPTION  Exp 10/01/2021 Sweden (SE),U
@@ -5063,12 +5067,12 @@ CLVCF,Clover Corporation Limited Ordinary Shares (Australia),U
 CLVFA,Cloverleaf Kennel Club A Common Stock,U
 CLVLF,Clinuvel Pharmaceuticals Ltd Ordinary Shares (Australia),U
 CLVLY,Clinuvel Pharmaceuticals Ltd Sponsored ADR (Australia),U
-CLVPF,CLARIVATE PLC PFD CONV SER A (Jersey),U
 CLVR,Clever Leaves Holdings Inc. Common Shares,NASDAQ
 CLVRW,Clever Leaves Holdings Inc. Warrant,NASDAQ
 CLVS,"Clovis Oncology, Inc. Common Stock",NASDAQ
 CLVSF,Cellavision AB Foreign Ordinary Shares,U
 CLVT,Clarivate Plc,NYSE
+CLVT PRA,Clarivate Plc 5.25% Series A Mandatory Convertible Preferred Shares,NYSE
 CLW,Clearwater Paper Corporation,NYSE
 CLWA,"CallWave, Inc. New Common Stock",U
 CLWD,"CloudCommerce, Inc. Common Stock",U

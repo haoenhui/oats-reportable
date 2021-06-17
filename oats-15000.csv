@@ -1,4 +1,10 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
+MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
+MTC,"MMTec, Inc. Common Shares",NASDAQ
+MTCH,"Match Group, Inc. Common Stock",NASDAQ
+MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
+MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
@@ -406,7 +412,7 @@ NDMT,NOWNEWS DIGITAL MEDIA TECHNOLOGY CO LTD Common Stock,U
 NDP,"TORTOISE ENERGY INDEPENDENCE FUND, INC.",NYSE
 NDRA,ENDRA Life Sciences Inc. Common Stock,NASDAQ
 NDRAW,ENDRA Life Sciences Inc. Warrants,NASDAQ
-NDRBF,Nibe Industrier AB Ordinary Shares B (Sweden),U
+NDRBF,NIBE INDUSTRIER AB Ordinary Shares,U
 NDSN,Nordson Corporation Common Stock,NASDAQ
 NDTAF,Northern Data AG  INH O N Ordinary Shares Germany Federal Republic(DE ),U
 NDTP,"NDT Pharmaceuticals, Inc. Common Stock",U
@@ -1957,6 +1963,7 @@ OWPC,"One World Pharma, Inc.  Common Stock",U
 OWRDF,One World Lithium Inc Ordinary Shares,U
 OWUV,One World Universe Inc. Common Stock,U
 OWVI,ONE WORLD VENTURES INC Common Stock,U
+OWWAF,Okuwa Co Ltd Wakayama Ordinary Shares (Japan),U
 OXBC,Oxford Bank Corporation (MI) Common Stock,U
 OXBDF,Oxford Biomedical PLC Ordinary Shares,U
 OXBOF,Oxford Biodynamics PLC Ordinary Shares (United Kingdom),U
@@ -3058,7 +3065,7 @@ PRIF PRE,"Priority Income Fund, Inc. 6.375% Series E Preferred Stock Due 2024",N
 PRIF PRF,"Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027",NYSE
 PRIF PRG,"Priority Income Fund, Inc. 6.25% Series G Preferred Stock Due 2026",NYSE
 PRIF PRH,"Priority Income Fund, Inc. 6.00% Series H Term Preferred Stock due 2026",NYSE
-PRIIF,PRIORITY INCOME FD INC TERM PFD SER I Preferred Stock,U
+PRIIP,PRIORITY INCOME FD INC TERM PFD SER I Preferred Stock,U
 PRIM,Primoris Services Corporation Common Stock,NASDAQ
 PRISY,Promotora De Informaciones SA American Depositary Receipts - Sponsored,U
 PRK,Park National Corporation,AMEX
@@ -3926,6 +3933,7 @@ RC,Ready Capital Corporation,NYSE
 RC PRB,Ready Capital Corporation 8.625% Series B Cumulative Preferred Stock,NYSE
 RC PRC,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock,NYSE
 RC PRD,Ready Capital Corporation 7.625% Series D Cumulative Redeemable Preferred Stock,NYSE
+RC PRE,Ready Capital Corporation 6.50% Series E Cumulative Redeemable Preferred Stock,NYSE
 RCA,Ready Capital Corporation 7.00% Convertible Senior Notes due 2023,NYSE
 RCAR,"RenovaCare, Inc. Common Stock",U
 RCAT,"Red Cat Holdings, Inc. Common Stock",NASDAQ
@@ -3967,7 +3975,6 @@ RCMW,"RCMW Group, Inc. Common Stock",U
 RCON,"Recon Technology, Ltd. Class A Ordinary Shares",NASDAQ
 RCPHF,RECIPHARM AB SHS -B- (Sweden),U
 RCPIQ,"Rock Creek Pharmaceuticals, Inc. Common Stock",U
-RCPPP,Ready Capital Corp 6.5% Cum Red Series E Preferred Stock,U
 RCPUF,RECIPE UNLIMITED CORP Common Shares  Canada(CA ),U
 RCRRF,Recruit Hldgs Co Ltd Ordinary Shares (Japan),U
 RCRT,"Recruiter.com Group, Inc. Common Stock",U
@@ -4085,6 +4092,7 @@ RELX,RELX PLC,NYSE
 REM,iShares Mortgage Real Estate ETF,BATS
 REMI,"Remedent, Inc. Common Stock",U
 REML,Credit Suisse X-Links Monthly Pay 2xLeveraged Mortgage REIT ETN,ARCA
+REMRF,RED MOON RES INC Common Shares,U
 REMX,VanEck Vectors Rare Earth/Strategic Metals ETF,ARCA
 REMYF,Remy Cointreau Ff Ordinary Shares,U
 REMYY,Remy Cointreau S A Unsponsored ADR (France),U
@@ -4101,6 +4109,7 @@ REPO,National Asset Recovery Corp Common Stock,U
 REPX,"Riley Exploration Permian, Inc.",AMEX
 REPYF,Repsol (F) Ordinary Shares,U
 REPYY,Repsol S.A. Sponsored ADR (Spain),U
+RERE,AiHuiShou International Co. Ltd. American Depositary Shares (every three of which representing two C,NYSE
 RES,"RPC, Inc.",NYSE
 RESCU,Rescap Liquidating Trust Units,U
 RESD,WisdomTree International ESG Fund,BATS
@@ -5517,7 +5526,6 @@ SHE,SPDR SSGA Gender Diversity Index ETF,ARCA
 SHECF,Shin-Etsu Chemical Co Ltd Ordinary Shares,U
 SHECY,Shin-Etsu Chemical Co Ltd Unsponsored ADR (Japan),U
 SHEGF,SHINKO ELECTRIC INDUSTRIES CO LTD Ordinary Shares Japan(JP ),U
-SHEKF,"Shikoku Electric Power Co., Inc. Ordinary Shares (Japan)",U
 SHEN,Shenandoah Telecommunications Co Common Stock,NASDAQ
 SHERF,Sherritt Intl Copr Restr Vtg Ordinary Shares,U
 SHEZF,Shenzhen Hepalink Pharmaceutical Group Co Ltd. Registered Shares (China),U
@@ -5527,6 +5535,3 @@ SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
-SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
-SHGY,SearchGuy.com Inc. Common Stock,U
-SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U

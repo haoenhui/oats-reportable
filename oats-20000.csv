@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
+SHGY,SearchGuy.com Inc. Common Stock,U
+SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
@@ -960,6 +963,7 @@ SPTL,SPDR Portfolio Long Term Treasury ETF,ARCA
 SPTM,SPDR Portfolio S&P 1500 Composite Stock Market ETF,ARCA
 SPTN,SpartanNash Company Common Stock,NASDAQ
 SPTS,SPDR Portfolio Short Term Treasury ETF,ARCA
+SPTXF,SPRINTEX LTD Ordinary Shares,U
 SPUC,Simplify US Equity PLUS Upside Convexity ETF,ARCA
 SPUP,Sipup Corp Common Stock,U
 SPUS,SP Funds S&P 500 Sharia  ETF,ARCA
@@ -1251,7 +1255,6 @@ STAR PRD,ISTAR INC. Series D Cumulative Redeemable Preferred Stock,NYSE
 STAR PRG,ISTAR INC. 7.65% Series G Cumulative Redeemable Preferred Stock,NYSE
 STAR PRI,ISTAR INC. 7.50% Series I Cumulative Redeemable Preferred Stock,NYSE
 STAU,Star Nutrition Inc. Common Stock,U
-STAY,"Extended Stay America, Inc. Paired Shares",NASDAQ
 STBA,"S&T Bancorp, Inc. Common Stock",NASDAQ
 STBBF,Strabag Se Villach Ordinary Shares (Austria),U
 STBEF,STARBREEZE AB Ordinary Shares,U
@@ -1747,6 +1750,7 @@ TACA WS,"Trepont Acquisition Corp I Redeemable Warrants, each whole warrant exer
 TACBY,Tabcorp Holdings Ltd Unsponsored ADR (Australia),U
 TACE,Trend Aggregation Conservative ETF,ARCA
 TACI,TransAtlantic Capital Inc. NEW Common Stock,U
+TACJF,Total Access Comm Plc Local Shares Foreign Registered (Thailand),U
 TACO,"Del Taco Restaurants, Inc. Common Stock",NASDAQ
 TACT,TransAct Technologies Incorporated Common Stock,NASDAQ
 TACYY,Total Access Comm Plc Local Unsponsored ADR (Thailand),U
@@ -2197,6 +2201,7 @@ THNUY,Thanachart Capital Public Co Ltd Unsponsored ADR (Thailand),U
 THNVF,THANACHART CAPITAL PUBLIC CO  LTD Ordinary Shares  (Thailand),U
 THO,"Thor Industries, Inc.",NYSE
 THOGF,Toho Gas Co Ltd Ordinary Shares,U
+THOOF,TOHO CO LTD OSAKA Ordinary Shares,U
 THORF,"THOR MINING PLC, BUCKINGHAMSHIRE ORD GBP0.0001 (United Kingdom)",U
 THOXF,BIOPORTO A/S Ordinary Shares,U
 THPFF,Thai President Food Unit Non Voting Depository Receipt (Thailand),U
@@ -2327,6 +2332,7 @@ TKHIF,TAKARA HOLDINGS INC SHS (Japan),U
 TKHVY,Turk Hava Yallari Ao Unsponsored ADR (Turkey),U
 TKIAF,TAIKISHA LTD SHS (Japann),U
 TKIDU,Tru Kids Parent LLC Unit,U
+TKIEF,Tokyo Keiki Inc Ordinary Shares,U
 TKINF,Takasago International Ordinary Shares,U
 TKKHF,Tikehau Capital Partners Ordinary Shares (France),U
 TKKYY,Turkiye Sise Ve Cam Fabikalari AS JSC American Depositary Receipts - Unsponsored (Turkey),U
@@ -2727,6 +2733,7 @@ TRITW,"Triterras, Inc. Warrant",NASDAQ
 TRKA,"Troika Media Group, Inc. Common Stock",NASDAQ
 TRKAW,"Troika Media Group, Inc. Warrant",NASDAQ
 TRKCY,Trakya Cam Sanayii AS Unsponsored ADR (Turkey),U
+TRKLF,Tricklestar Ltd Ordinary Shares (Singapore),U
 TRKNF,Turk Telekomunikasyon AS Ordinary Shares (Turkey),U
 TRKNY,Turk Telekomunikasyon Unsponsored American Depository Receipt (Turkey),U
 TRKR,Tracker Corporation of America (The) Common Stock,U
@@ -2742,6 +2749,7 @@ TRMD,TORM plc Class A Common Stock,NASDAQ
 TRMK,Trustmark Corporation Common Stock,NASDAQ
 TRMLF,Tourmaline Oil Corp. Ordinary Shares (Canada),U
 TRMNF,NEW WAVE HLDGS CORP Ordinary Shares,U
+TRMR,Tremor International Ltd. American Depository Shares,NASDAQ
 TRMT,Tremont Mortgage Trust Common Shares of Beneficial Interest,NASDAQ
 TRN,"Trinity Industries, Inc.",NYSE
 TRND,Pacer Trendpilot Fund of Funds ETF,ARCA
@@ -2793,7 +2801,7 @@ TRTN PRC,Triton International Limited 7.375% Series C Cumulative Redeemable Perp
 TRTN PRD,Triton International Limited 6.875% Series D Cumulative Redeemable Perpetual Preference Shares,NYSE
 TRTPF,Trustpilot Group PLC Ordinary Shares (United Kingdom),U
 TRTX,"TPG RE Finance Trust, Inc. Common Stock",NYSE
-TRTXP,TPG RE FIN TR INC PFD SER C Preferred Stock,U
+TRTX PRC,"TPG RE Finance Trust, Inc. 6.25% Series C Cumulative Redeemable Preferred Stock",NYSE
 TRTY,Cambria Trinity ETF,BATS
 TRU,TransUnion,NYSE
 TRUA,Triumph Apparel Corporation Common Stock,U
@@ -2971,7 +2979,7 @@ TTPPF,"Total Produce Plc, Co Louth Ordinary shares (Ireland)",U
 TTRAF,Telstra Corporation Limited Ordinary Shares,U
 TTRHF,Terra Energy Corp Ordinary Shares (Canada),U
 TTRKF,Turk Traktor Ve Ziraat Makineleri AS Ordinary Shares (Turkey),U
-TTSH,"Tile Shop Hldgs, Inc. Common Stock",U
+TTSH,"Tile Shop Holdings, Inc. Common Stock",NASDAQ
 TTSI,"Tactical Services, Inc. Common Stock",U
 TTSRF,Tartisan Nickel Corp Ordinary Shares,U
 TTT,ProShares UltraPro Short 20+ Year Treasury,ARCA
@@ -3778,7 +3786,6 @@ VEEV,Veeva Systems Inc.,NYSE
 VEGA,AdvisorShares STAR Global Buy-Write ETF,ARCA
 VEGGF,BETTER PLT SCIENCES INC Common Shares,U
 VEGI,iShares MSCI Global Agriculture Producers ETF,ARCA
-VEGL,"Vegalab, Inc. Common Stock",U
 VEGN,US Vegan Climate ETF,ARCA
 VEGPF,Vectura Group plc Ordinary Shares,U
 VEGYF,Virginia Energy Resources Inc Common Shares (Canada),U
@@ -3842,9 +3849,6 @@ VFRM,"Veritas Farms, Inc. Common Stock",U
 VFUUF,Vanguard Funds PLC FTSE North American UCITs ETF (Ireland),U
 VFVA,Vanguard U.S. Value Factor ETF,BATS
 VG,Vonage Holdings Corp. Common Stock,NASDAQ
-VGAC,VG Acquisition Corp.,NYSE
-VGAC U,"VG Acquisition Corp. Units, each consisting of one Class A ordinary share and one-third of one redee",NYSE
-VGAC WS,"VG Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A ordinary sh",NYSE
 VGANF,PLANT & CO BRANDS LTD Common Shares,U
 VGAPF,Vanguard Australian Property Securities Index ETF Units (Australia),U
 VGDFF,Vanguard Funds PLC US Treasury 0-1 Yr Bd UCITS ETF USD Accum (Ireland),U

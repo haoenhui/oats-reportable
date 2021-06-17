@@ -1,4 +1,10 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
@@ -1902,6 +1908,7 @@ IPPLF,Inter Pipeline Ltd (Canada),U
 IPPTF,"Impat Minerals Limited, Perth Ordinary Shares (Australia)",U
 IPRC,"Imperial Resources, Inc Common Stock",U
 IPSBF,Impulsora del Desarrollo Economico de America Latina Sa de Cv Shares -B-1- (Mexico),U
+IPSC,"Century Therapeutics, Inc. Common Stock",NASDAQ
 IPSEF,Ipsen Promesses Ordinary Shares (France),U
 IPSEY,Ipsen S.A. Sponsored ADR (France),U
 IPSI,"Innovative Payment Solutions, Inc. Common Stock",U
@@ -2778,6 +2785,7 @@ JTEKY,JTEKT Corporation Unsponsored ADR (Japan),U
 JTNB,"JTNB Bancorp, Inc. Common Stock",U
 JTTRY,Japan Arpt Term Co Ltd American Depositary Receipts - Unsponsored (Japan),U
 JUBPF,Jubilee Metals Group PLC Ordinary Shares,U
+JUGGU,Jaws Juggernaut Acquisition Corporation Unit,NASDAQ
 JUGRF,Juggernaut Expl Ltd Ordinary Shares,U
 JUHDY,JANUS HENDERSON GROUP PLC Chess Depositary Interests (Jersey),U
 JUHL,"Juhl Energy, Inc. Common Stock",U
@@ -4474,6 +4482,8 @@ MCA,"BLACKROCK MUNIYIELD CALIFORNIA QUALITY FUND, INC",NYSE
 MCAD,Mountain Crest Acquisition Corp. II Common Stock,NASDAQ
 MCADR,Mountain Crest Acquisition Corp. II Right,NASDAQ
 MCADU,Mountain Crest Acquisition Corp. II Unit,NASDAQ
+MCAE,Mountain Crest Acquisition Corp. III Common Stock,NASDAQ
+MCAER,Mountain Crest Acquisition Corp. III Right,NASDAQ
 MCAEU,Mountain Crest Acquisition Corp. III Unit,NASDAQ
 MCAP,"Mango Capital, Inc. Common Stock",U
 MCARY,Mercari Inc. American Depositary Receipts - Unsponsored   (Japan),U
@@ -4656,6 +4666,7 @@ MDXX,Medex Inc NEV Common Stock,U
 MDY,SPDR S&P MidCap 400 ETF Trust,ARCA
 MDYG,SPDR S&P 400 Mid Cap Growth ETF (Based on S&P MidCap 400 Growth Index--symbol MUV),ARCA
 MDYV,SPDR S&P 400 Mid Cap Value ETF (based on S&P MidCap 400 Value Index--symbol: MGD),ARCA
+ME,23andMe Holding Co. Class A Common Stock,NASDAQ
 MEAR,BlackRock Short Maturity Municipal Bond ETF,BATS
 MEAUF,Moneta Porcupine Mines Inc Ordinary Shares,U
 MEBUF,Mebuki Financial Group Inc Ordinary Shares (Japan),U
@@ -4721,6 +4732,7 @@ METC,"Ramaco Resources, Inc. Common Stock",NASDAQ
 METOF,Meteoric Resorces NL Ordinary Shares (Australia),U
 METX,Meten EdtechX Education Group Ltd. Ordinary Shares,NASDAQ
 METXW,Meten EdtechX Education Group Ltd. Warrant,NASDAQ
+MEUSW,23andMe Holding Co. Warrant,NASDAQ
 MEXGF,MEXICAN GOLD MNG CORP Common Shares,U
 MEXX,Direxion Daily MSCI Mexico Bull 3X Shares,ARCA
 MEYYY,Medco Energi Internasional TBK PT Unsponsored ADR (Indonesia),U
@@ -5024,7 +5036,6 @@ MLKKF,MERCATOR MINERALS LTD Ordinary Shares,U
 MLKNA,"MedLink International, Inc. Class A Common Stock",U
 MLLCF,Molecular Partners AG Ordinary Shares (Switzerland),U
 MLLGF,Mullen Group Ld. Ordinary Shares (Canada),U
-MLLLF,ENGINE MEDIA HLDGS INC Common Stock,U
 MLLNF,Malin Corp PLC Ordinary Shares (Ireland),U
 MLLOF,Medallion Resources Ltd Ordinary Shares,U
 MLLUY,Metallurgical Corp China Ltd Unsponsored ADR (China),U
@@ -5524,9 +5535,3 @@ MTAGF,Ceconomy AG Ordinary Shares,U
 MTALF,METALLICA METALS CORP Ordinary Shares,U
 MTB,M&T Bank Corp.,NYSE
 MTBC,"CareCloud, Inc. Common Stock",NASDAQ
-MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
-MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
-MTC,"MMTec, Inc. Common Shares",NASDAQ
-MTCH,"Match Group, Inc. Common Stock",NASDAQ
-MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
-MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
