@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
@@ -743,6 +742,7 @@ CYRX,"CryoPort, Inc. Common Stock",NASDAQ
 CYSM,Community Bancorp of Santa Maria Common Stock,U
 CYSNF,"C-Com Satellite Systems, Inc. Ordinary Shares",U
 CYSXF,iShares S&P/TSX Canadian Preferred Share Index ETF (Canada),U
+CYT,"Cyteir Therapeutics, Inc. Common Stock",NASDAQ
 CYTH,"Cyclo Therapeutics, Inc. Common Stock",NASDAQ
 CYTHW,"Cyclo Therapeutics, Inc. Warrant",NASDAQ
 CYTK,"Cytokinetics, Incorporated Common Stock",NASDAQ
@@ -1561,6 +1561,7 @@ DTCWY,Deutsche Wohnen SE American Depositary Receipts - Unsponsored,U
 DTD,WisdomTree U.S. Total Dividend Fund,ARCA
 DTDJF,DELTA DJAKARTA TBK PT Ordinary Shares,U
 DTE,DTE Energy Company,NYSE
+DTE WI,DTE Energy Company,NYSE
 DTEA,DAVIDsTEA Inc. Common Stock,NASDAQ
 DTEC,ALPS Disruptive Technologies ETF,ARCA
 DTEGF,Deutsche Telekom A G Ordinary Shares,U
@@ -1575,6 +1576,7 @@ DTII,Defense Technologies International Corp. Common Stock,U
 DTIL,"Precision BioSciences, Inc. Common Stock",NASDAQ
 DTJ,DTE Energy Company 2016 Series B 5.375% Junior Subordinated Debentures due 2076,NYSE
 DTLA PR,BROOKFIELD DTLA FUND OFFICE TRUST INVESTOR INC.,NYSE
+DTM WI,"DT Midstream, Inc.",NYSE
 DTMXF,Datametrex Ai Limit Ordinary Shares,U
 DTN,WisdomTree U.S. Dividend ex-Financials Fund,ARCA
 DTNHF,"Doutor Nichires Holdings Co Ltd, Tokyo SHS (Japan)",U
@@ -1820,9 +1822,9 @@ EC,Ecopetrol S.A,NYSE
 ECAOF,Eco Atlantic Oil & Gas Ltd COM (Canada),U
 ECC,EAGLE POINT CREDIT COMPANY INC.,NYSE
 ECCB,Eagle Point Credit Company Inc. 7.75% Series B Term Preferred Stock due 2026,NYSE
+ECCC,Eagle Point Credit Company Inc. 6.50% Series C Term Preferred Stock due 2031,NYSE
 ECCE,"Eagle Ford Oil & Gas, Corp. Common Stock",U
 ECCI,"Ecoloclean Industries, Inc. Common Stock",U
-ECCPP,Eagle Point Credit Company Inc. Term Pfd Stk Series C,U
 ECCW,Eagle Point Credit Company Inc .6.75% Notes due 2031,NYSE
 ECCX,Eagle Point Credit Company Inc. 6.6875% Notes due 2028,NYSE
 ECCY,Eagle Point Credit Company Inc. 6.75% Notes due 2027,NYSE
@@ -5132,6 +5134,7 @@ GPAEF,Grupo Aeropuerto del Pacifico Sa De Cv Shares -B- (Mexico),U
 GPAGF,Gruma SAB de CV Gruma Shares -B- (Mexico),U
 GPBI,"Golden Pacific Bancorp, Inc. Common Stock",U
 GPC,Genuine Parts Company,NYSE
+GPCOU,Golden Path Acquisition Corporation Units,NASDAQ
 GPDB,Green PolkaDot Box Incorporated. Common Stock,U
 GPDNF,Groupe Danone Fgn Ordinary Shares,U
 GPEAF,Great Portland Estates Common Shares,U
@@ -5532,6 +5535,3 @@ GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
-GWB,"Great Western Bancorp, Inc.",NYSE
-GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
-GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U

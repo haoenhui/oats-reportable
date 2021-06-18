@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWB,"Great Western Bancorp, Inc.",NYSE
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
+GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
@@ -1748,7 +1751,6 @@ INKAU,KludeIn I Acquisition Corp. Unit,NASDAQ
 INKAW,KludeIn I Acquisition Corp. Warrant,NASDAQ
 INKM,SPDR SSgA Income Allocation ETF of SSgA Active Trust,ARCA
 INKW,"Greene Concepts, Incorporated Common Stock",U
-INLAF,LQwD FinTech Corp. Common Shares,U
 INLB,Item 9 Labs Corp. Common Stock,U
 INLCF,INFINITY LITHIUM CORP LTD Ordinary Shares,U
 INLX,"Intellinetics, Inc. Common Stock",U
@@ -2090,6 +2092,7 @@ ISMD,Inspire Small/Mid Cap Impact ETF,ARCA
 ISMJF,IShares VII PLC Ordinary Shares,U
 ISMKF,iShares Emerging Mkts Fundamental Index ETF Unit Com (Canada),U
 ISML,"ISM International, Inc. Common Stock",U
+ISMMF,ISHARES IV PLC ISHARES EDGE MSCI EUROPE VALUE FACTOR UCITS ETF EUR ACC Exchange Traded Fund,U
 ISMUF,Ishares MSCI China Tracker Units,U
 ISMVF,ISHARES IV PLC Ordinary Shares,U
 ISNPY,Intesa Sanpaolo S.P.A. Sponsored ADR (Italy),U
@@ -2683,6 +2686,7 @@ JP,"Jupai Holdings Limited American depositary shares, each representing six ord
 JPAVF,Japan Aviation Electr Ltd Ordinary Shares,U
 JPC,Nuveen Preferred & Income Opportunities Fund,NYSE
 JPDYY,"Japan Display, Inc. American Depositary Receipts - Unsponsored",U
+JPEIF,JPMORGAN ETFS IRELAND ICAV JPMORGAN ETFS IRELAND ICAV BETABUILDERS US TREASURY BOND 0 3 MONTHS UCITS ETF USD ACC Exchange Traded Fund,U
 JPEM,JPMorgan Diversified Return Emerging Markets Equity ETF,ARCA
 JPEX,"JPX Global, Inc. Common",U
 JPFAF,Pt Japfa Comfeed Indonesia Tbk Ordinary Shares (Indonesia),U
@@ -3405,7 +3409,6 @@ KTYCF,KITS EYECARE LTD Common Stock,U
 KUASF,KUAISHOU TECHNOLOGY Ordinary Shares,U
 KUBTF,Kubota Corp Ordinary Shares,U
 KUBTY,Kubota Corporation,U
-KUCPF,KURA CORPLTD SAKAI SHS (Japan),U
 KUKAF,Kuka Aktiensesellschaft Ordinary Shares (Germany),U
 KUKAY,Kuka Aktiengesellschaft Unsponsored ADR (Germany),U
 KUKE,"Kuke Music Holding Limited American Depositary Shares, each representing one Ordinary Share",NYSE
@@ -4059,6 +4062,7 @@ LQMT,"Liquidmetal Technologies, Inc. Common Stock",U
 LQRCF,Black Mammoth Metals Corp (Canada) Common Shares,U
 LQSIF,Alcanna Inc. Common Shares,U
 LQWC,LifeQuest World Corporation Common Stock,U
+LQWDF,LQwD FinTech Corp. Common Shares,U
 LRAXF,Lara Exploration Ltd Common Shares (Canada),U
 LRCDF,Laurentian Bank Canada Que Ordinary Shares (Canada),U
 LRCFF,Lovitt Resources Inc Ordinary Shares (Canada),U
@@ -5531,7 +5535,3 @@ MTA,Metalla Royalty & Streaming Ltd.,AMEX
 MTAC,MedTech Acquisition Corporation Class A Common Stock,NASDAQ
 MTACU,MedTech Acquisition Corporation Unit,NASDAQ
 MTACW,MedTech Acquisition Corporation Warrant,NASDAQ
-MTAGF,Ceconomy AG Ordinary Shares,U
-MTALF,METALLICA METALS CORP Ordinary Shares,U
-MTB,M&T Bank Corp.,NYSE
-MTBC,"CareCloud, Inc. Common Stock",NASDAQ

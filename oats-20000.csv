@@ -1,4 +1,9 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHGDF,Star Diamond Corporation Ordinary Shares,U
+SHGKY,Sun Hung Kai & Co Ltd ADR,U
+SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
+SHGR,Success Holding Group Corp. USA Common Stock,U
+SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
@@ -2748,7 +2753,7 @@ TRMB,Trimble Inc. Common Stock,NASDAQ
 TRMD,TORM plc Class A Common Stock,NASDAQ
 TRMK,Trustmark Corporation Common Stock,NASDAQ
 TRMLF,Tourmaline Oil Corp. Ordinary Shares (Canada),U
-TRMNF,NEW WAVE HLDGS CORP Ordinary Shares,U
+TRMND,NEW WAVE HLDGS CORP Ordinary Shares,U
 TRMR,Tremor International Ltd. American Depository Shares,NASDAQ
 TRMT,Tremont Mortgage Trust Common Shares of Beneficial Interest,NASDAQ
 TRN,"Trinity Industries, Inc.",NYSE
@@ -4315,7 +4320,6 @@ VUG,Vanguard Growth ETF,ARCA
 VULC,Vulcan International Corporation Common Stock,U
 VULMF,Vulcan Minerals Inc. Ordinary Shares (Canada),U
 VULNF,Vulcan Energy Resources Ltd. Ordinary Shares (Australia),U
-VUME,VuMee Inc. Common Stock,U
 VUOC,Vu1 Corporation Common Stock,U
 VUPPF,Verwaltungs Unf Privat Bank Ag Vaduz Ordinary Shares (Liechtenstein),U
 VUSB,Vanguard Ultra-Short Bond ETF,BATS
@@ -4451,7 +4455,7 @@ WCIG,Wee-Cig International Corporation Common Stock,U
 WCLD,WisdomTree Trust WisdomTree Cloud Computing Fund,NASDAQ
 WCN,"Waste Connections, Inc.",NYSE
 WCRS,"Western Capital Resources, Inc. Common Stock",U
-WCUFF,World Copper Ltd Common Shares (Canada),U
+WCUFD,WORLD COPPER LTD Common Shares,U
 WCUI,Wellness Center USA Inc Common Stock,U
 WCVC,West Coast Ventures Group Corp. Common Stock,U
 WCYN,West Canyon Energy Corp. Common Stock,U
@@ -4766,7 +4770,7 @@ WPCA WS,"Warburg Pincus Capital Corporation I-A Warrants, each whole warrant exe
 WPCB,Warburg Pincus Capital Corporation I-B,NYSE
 WPCB U,"Warburg Pincus Capital Corporation I-B Units, each consisting of one Class A ordinary share, and one",NYSE
 WPCB WS,"Warburg Pincus Capital Corporation I-B Warrants, each whole warrant exercisable for one Class A ordi",NYSE
-WPCZF,Blue Star Gold Corp Ordinary Shares,U
+WPCZD,Blue Star Gold Corp Ordinary Shares,U
 WPDPF,"WPD Pharmaceuticals, Inc. Common Shares",U
 WPEC,Wei Pai Electronic Commerce Company Ltd. Common Stock,U
 WPF,Foley Trasimene Acquisition Corp.,NYSE
@@ -4815,7 +4819,7 @@ WRMA,Wiremedia Inc. Common Stock,U
 WRMCF,WHITE ROCK MINERALS LTD Ordinary Shares,U
 WRMK,Watermark Lodging Trust Inc Common Shares Cl A,U
 WRN,Western Copper and Gold Corporation,AMEX
-WRPSF,Oro X Mining Corp. Common Shares,U
+WRPSF,SILVER X MNG CORP Common Shares,U
 WRRI,"Wari, Inc. Common Stock",U
 WRRNF,Westcore Energy Ltd Common Shares,U
 WRRZF,WALKER RIV RES CORP Ordinary Shares (Canada),U
@@ -5178,8 +5182,6 @@ XYLD,Global X S&P 500 Covered Call ETF,ARCA
 XYLG,Global X S&P 500 Covered Call & Growth ETF,ARCA
 XYLTF,Sweet Natural Trading Co Limited Common Shares,U
 XYNH,Xynergy Holdings Inc. Common Stock,U
-XYNO,"Xynomic Pharmaceuticals Holdings, Inc. Common Stock",U
-XYNPW,"Xynomic Pharmaceuticals Holdings, Inc. Warrant Exp 05/15/2024",U
 XZJCF,MITSUI MINING & SMELTING CO LTD Ordinary Shares,U
 Y,Alleghany Corporation,NYSE
 YAC,Yucaipa Acquisition Corporation Class A Ordinary Shares,NYSE
@@ -5197,7 +5199,6 @@ YAMHF,Yamaha Motor Company Ordinary Shares (Japan),U
 YAMHY,Yamaha Motor Company Ltd Unsponsored ADR (Japan),U
 YAMNF,"YA-MAN LTD, TOKYO Ordinary Shares",U
 YANG,Direxion Daily FTSE  China Bear 3X Shares,ARCA
-YARAF,Yatra Capital Limited Ordinary Shares (Jersey),U
 YARIY,Yara International ASA Sponsored ADR (Norway),U
 YASKF,Yaskawa Electric Corp Ordinary Shares,U
 YASKY,Yaskawa Electric Corp Unsponsored ADR (Japan),U

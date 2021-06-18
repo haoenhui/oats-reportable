@@ -970,7 +970,6 @@ ALFRY,Alfresa Hldgs Corp American Depositary Shares (Unsponsored)(Japan),U
 ALFVF,Alfa-Laval Ab Ordinary shares (Sweden),U
 ALFVY,Alfa-Laval Ab Unsponsored ADR (Sweden),U
 ALG,"Alamo Group, Inc.",NYSE
-ALGDF,Algold Res Ltd Ordinary Shares,U
 ALGEF,"ALLIGATOR ENERGY LTD, SPRINGHILL  Ordinary Shares",U
 ALGGF,"Alliance Global Group, Inc. Ordinary Shares (Philippines)",U
 ALGGY,"Alliance Global Group, Inc. Unsponsored ADR (Phillipines)",U
@@ -2858,7 +2857,6 @@ BHTG,"BioHiTech Global, Inc. Common Stock",NASDAQ
 BHV,BlackRock Virginia Muni Bond Trust,NYSE
 BHVN,Biohaven Pharmaceutical Holding Company Ltd.,NYSE
 BHWB,"Blackhawk Bancorp, Inc. (Wisconsin) Common Stock",U
-BHWIL,Bank Hawaii Honolulu Dep Shs Repstg 1/40th Pfd D Series A,U
 BIB,ProShares Trust ProShares Ultra Nasdaq Biotechnology,NASDAQ
 BIBL,Inspire 100 ETF,ARCA
 BIBLF,Waterloo Brewing Ltd Common Shares,U
@@ -3124,7 +3122,6 @@ BLPH,"Bellerophon Therapeutics, Inc. Common Stock",NASDAQ
 BLRDF,Billerud AB Shs (Sweden),U
 BLRDY,Billerud Korsnas AB American Depositary Receipts - Unsponsored,U
 BLRNF,BLADERANGER LTD Ordinary Shares,U
-BLRS,BioLife Remedies Inc Common Stock,U
 BLRX,BioLineRx Ltd. American Depositary Shares,NASDAQ
 BLRZF,Blackhawk Growth Corp. Ordinary Shares,U
 BLSA,BCLS Acquisition Corp. Class A Ordinary Shares,NASDAQ
@@ -3320,6 +3317,7 @@ BOFKF,"Bank of Kyoto, Ltd. Ordinary Shares (Japan)",U
 BOGMF,Bogo Medellin Mlg Inc Ordinary Shares,U
 BOGN,Bogen Communications International Inc. Common Stock,U
 BOH,Bank of Hawaii Corp.,NYSE
+BOH PRA,Bank of Hawaii Corporation Depositary Shares Each Representing a 1/40th Interest in a Share of 4.375,NYSE
 BOID,BANK IDAHO HLDG CO Common Stock,U
 BOIL,ProShares Ultra Bloomberg Natural Gas,ARCA
 BOIRF,Boiron SA ACT (France),U
@@ -3601,7 +3599,9 @@ BSJP,Invesco BulletShares 2025 High Yield Corporate Bond ETF,NASDAQ
 BSJQ,Invesco BulletShares 2026 High Yield Corporate Bond ETF,NASDAQ
 BSJR,Invesco BulletShares 2027 High Yield Corporate Bond ETF,NASDAQ
 BSJS,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco BulletShares 2028 High Yield Corporate Bond ETF,NASDAQ
+BSKY,"Big Sky Growth Partners, Inc. Class A Common Stock",NASDAQ
 BSKYU,"Big Sky Growth Partners, Inc. Unit",NASDAQ
+BSKYW,"Big Sky Growth Partners, Inc. Warrant",NASDAQ
 BSKZF,Bambuser AB Common Stock (Sweden),U
 BSL,Blackstone Senior Floating Rate Term Fund,NYSE
 BSM,"Black Stone Minerals, L.P.",NYSE
@@ -5535,3 +5535,4 @@ CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
+CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ

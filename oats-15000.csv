@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTAGF,Ceconomy AG Ordinary Shares,U
+MTALF,METALLICA METALS CORP Ordinary Shares,U
+MTB,M&T Bank Corp.,NYSE
+MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
@@ -1756,7 +1760,7 @@ OPTHF,OPTIMI HEALTH CORP Common Shares,U
 OPTI,"Optec International, Inc. Common Stock",U
 OPTL,Optimum Interactive (USA) Ltd. Common Stock NEW,U
 OPTN,"OptiNose, Inc. Common Stock",NASDAQ
-OPTT,"Ocean Power Technologies, Inc. Common Stock",NASDAQ
+OPTT,"Ocean Power Technologies, Inc.",AMEX
 OPTZF,OPTIFREEZE AB Ordinary Shares (Sweden),U
 OPUS,"OPUS MAGNUM AMERIS, INC. NEW Common Stock",U
 OPVLF,Optimum Ventures Limited Common Shares (Canada),U
@@ -3059,7 +3063,6 @@ PRHL,Premier Holding Corp Common Stock,U
 PRI,"PRIMERICA, INC.",NYSE
 PRIEF,"Paleo Resources, Inc.  Ordinary Shares",U
 PRIF PRA,"Priority Income Fund, Inc. 6.375% Series A Term Preferred Stock due 2025",NYSE
-PRIF PRC,"Priority Income Fund, Inc. 6.625% Series C Term Preferred Stock due 2024, par value $0.01 per share",NYSE
 PRIF PRD,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029",NYSE
 PRIF PRE,"Priority Income Fund, Inc. 6.375% Series E Preferred Stock Due 2024",NYSE
 PRIF PRF,"Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027",NYSE
@@ -3185,6 +3188,7 @@ PSA PRL,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.625% 
 PSA PRM,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.125% Cumulative Preferred Share of",NYSE
 PSA PRN,"Public Storage Depositary Shares Each Representing 1/1,000 of a 3.875% Cumulative Preferred Share of",NYSE
 PSA PRO,"Public Storage Depositary Shares Each Representing 1/1,000 of a 3.900% Cumulative Preferred Share of",NYSE
+PSA PRP,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.000% Cumulative Preferred Share of",NYSE
 PSAC,Property Solutions Acquisition Corp. Common Stock,NASDAQ
 PSACU,Property Solutions Acquisition Corp. Unit,NASDAQ
 PSACW,Property Solutions Acquisition Corp. Warrant,NASDAQ
@@ -3193,7 +3197,6 @@ PSAGU,Property Solutions Acquisition Corporation II Units,NASDAQ
 PSAGW,Property Solutions Acquisition Corporation II Warrant,NASDAQ
 PSAHF,Pt Summarecon Agung Ordinary Shares (Indonesia),U
 PSAKF,"Plant Co Ltd, Sakai Ordinary Shares (Japan)",U
-PSALL,PUBLIC STORAGE DEPOSITARY SHS REPSTG 1/1000TH PFD SHS BEN INT SER P % Depositary Shares,U
 PSB,"PS Business Parks, Inc.",NYSE
 PSB PRW,"PS Business Parks, Inc    Depositary Shares Each Representing 1/1000 of a Share of 5.20% Cumulative",NYSE
 PSB PRX,"PS Business Parks, Inc. Depositary Shares Each Representing 1/1,000 of a Share of 5.25 Percent Cumul",NYSE
@@ -3328,6 +3331,7 @@ PTBFF,PT BEKASI FAJAR INDL ESTATE TBK Ordinary Shares,U
 PTBKF,PT Surya Citra Media TBK Ordinary Shares Indonesia(ID ),U
 PTBLF,"PT BUANA LISTYA TAMA TBK, JAKARTA Ordinary Shares",U
 PTBPF,"PT BANK PEMB DAER JAWA BAR BPD JABAR, SHS SERIES B (Indonesia)",U
+PTBRF,PT BERLINA TBK Ordinary Shares,U
 PTBRY,Pt Bank Negara Indonesia (Persero) Unsponsored ADR (Indonesia),U
 PTBS,Potomac Bancshares Inc Common Stock,U
 PTBTQ,"Pope & Talbot, Inc. Common Stock",U
@@ -3401,7 +3405,7 @@ PTNL,PLANTATION CORP WY Common Stock,U
 PTNQ,Pacer Trendpilot 100 ETF,BATS
 PTNR,Partner Communications Company Ltd. American Depositary Shares,NASDAQ
 PTNUF,"Platina Resources Ltd, Perth Wa Ordinary Shares (Australia)",U
-PTNYF,Parcelpal Technology Inc Ordinary Shares (Canada),U
+PTNYF,PARCELPAL LOGISTICS INC Ordinary Shares,U
 PTOAF,Pieridae Energy Limited Common Shares,U
 PTOC,Pine Technology Acquisition Corp. Class A Common Stock,NASDAQ
 PTOCU,Pine Technology Acquisition Corp. Unit,NASDAQ
@@ -3712,6 +3716,7 @@ QMCO,Quantum Corporation Common Stock,NASDAQ
 QMCQF,QMC Quantum Minerals Corp. Com (Canada),U
 QMDT,"Quick-Med Technologies, Inc. Common Stock",U
 QMED,QMed Inc. Common Stock,U
+QMEI,QUANTUM METAL EXCHANGE INC Common Stock,U
 QMIS,QMIS Finance Securities Corporation Common Stock,U
 QMJ,Direxion S&P 500 High minus Low Quality ETF,ARCA
 QMN,IQ Hedge Market Neutral Tracker ETF,ARCA
@@ -3977,7 +3982,7 @@ RCPHF,RECIPHARM AB SHS -B- (Sweden),U
 RCPIQ,"Rock Creek Pharmaceuticals, Inc. Common Stock",U
 RCPUF,RECIPE UNLIMITED CORP Common Shares  Canada(CA ),U
 RCRRF,Recruit Hldgs Co Ltd Ordinary Shares (Japan),U
-RCRT,"Recruiter.com Group, Inc. Common Stock",U
+RCRTD,"Recruiter.com Group, Inc. Common Stock",U
 RCRUY,Recruit Holdings Co. Ltd. American Depositary Receipts - Unsponsored,U
 RCS,"PIMCO STRATEGIC INCOME FUND, INC.",NYSE
 RCTC,Ready Credit Corporation Common Stock,U
@@ -4815,7 +4820,7 @@ RZA,"REINSURANCE GROUP OF AMERICA, INCORPORATED 6.20% Fixed-To-Floating Rate Sub
 RZB,"Reinsurance Group of America, Incorporated 5.75% Fixed-To-Floating Rate Subordinated Debentures due",NYSE
 RZG,Invesco S&P SmallCap 600 Pure Growth ETF,ARCA
 RZLLY,Rizal Coml Bkg Corp American Depositary Receipts - Unsponsored (Phillippines),U
-RZLT,"Rezolute, Inc. Common Stock",NASDAQ
+RZLT,"Rezolute, Inc. Common Stock (NV)",NASDAQ
 RZREF,Razer Energy Corp. Ordinary Shares (Canada),U
 RZRLF,RAZOR LABS LTD Ordinary Shares,U
 RZSMF,Rizzoli Corriere della Sera Mediagroup Spa Ordinary Shares (Italy),U
@@ -5530,8 +5535,3 @@ SHEN,Shenandoah Telecommunications Co Common Stock,NASDAQ
 SHERF,Sherritt Intl Copr Restr Vtg Ordinary Shares,U
 SHEZF,Shenzhen Hepalink Pharmaceutical Group Co Ltd. Registered Shares (China),U
 SHG,Shinhan Financial Group Co Ltd,NYSE
-SHGDF,Star Diamond Corporation Ordinary Shares,U
-SHGKY,Sun Hung Kai & Co Ltd ADR,U
-SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
-SHGR,Success Holding Group Corp. USA Common Stock,U
-SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
