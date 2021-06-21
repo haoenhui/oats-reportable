@@ -890,7 +890,6 @@ AKAAF,Aker Asa Shares A (Norway),U
 AKABY,Alk Abello A S Sponsored ADR (Denmark),U
 AKAFF,Akatsuki Inc Common Shares (Japan),U
 AKAM,"Akamai Technologies, Inc. Common Stock",NASDAQ
-AKAOQ,ACHAOGEN INC Common Stock,U
 AKAVF,Envirotek Remediation Inc Common Shares,U
 AKBA,"Akebia Therapeutics, Inc. Common Stock",NASDAQ
 AKBIF,Akebono Brake Industries Ordinary Shares,U
@@ -2729,7 +2728,6 @@ BEWFF,BeWhere Hldgs Inc. Ordinary Shares,U
 BF A,Brown-Forman Corporation Class A,NYSE
 BF B,Brown-Forman Corporation Class B,NYSE
 BFAM,BRIGHT HORIZONS FAMILY SOLUTIONS INC.,NYSE
-BFARF,Bitfarms Ltd Common Shares (Canada),U
 BFC,Bank First Corporation Common Stock,NASDAQ
 BFCC,BankFirst Capital Corp Common Stock,U
 BFCH,"BitFrontier Capital Holdings, Inc. Common Stock",U
@@ -2810,6 +2808,7 @@ BGSX U,"Build Acquisition Corp. Units, each consisting of one share of Class A c
 BGSX WS,"Build Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A common s",NYSE
 BGT,BlackRock Floating Rate Income Trust,NYSE
 BGUUF,Benguet Corp BC Ordinary Shares (Phillippines),U
+BGVDF,Boussard & Gavaudan Holdings Ltd Ordinary shares (Guernsey),U
 BGX,Blackstone Long-Short Credit Income Fund,NYSE
 BGY,BlackRock Enhanced International Dividend Trust,NYSE
 BH,Biglari Holdings Inc. Class B Common Stock,NYSE
@@ -2926,6 +2925,7 @@ BITCF,First Bitcoin Capital Corp. Common Stock,U
 BITE,Bite Acquisition Corp.,NYSE
 BITE U,"Bite Acquisition Corp. Units, each consisting of one share of common stock, and one-half of one rede",NYSE
 BITE WS,"Bite Acquisition Corp. Warrants, each whole warrant exercisable for one share of common stock at an",NYSE
+BITF,Bitfarms Ltd. Common Stock,NASDAQ
 BITGF,Biotage AB Ordinary Shares A (Sweden),U
 BITGY,Biotage AB American Depositary Receipts - Unsponsored (Sweden),U
 BITKF,Biosign Technologies Inc Common Shares,U
@@ -4215,7 +4215,6 @@ CCGGY,C & C Group Plc Sponsored ADR (Ireland),U
 CCGLF,China Shanshui Cement Group Ltd Ordinary Shares (Cayman Islands),U
 CCGM,"China CGame, Inc Common Stock",U
 CCGN,Consumer Capital Group Inc. Common Stock,U
-CCGRF,C&C GROUP PLC PAR VALUE NIL PAID RIGHTS (Ireland),U
 CCGY,China Clean Energy Inc. Common Stock,U
 CCHBF,COCA COLA HBC LTD Ordinary Shares,U
 CCHGY,COCA-COLA HBC AG Unsponsored ADR (Switzerland),U
@@ -5332,6 +5331,7 @@ CNPTF,CENTRAL PETROLEUM LTD ORDINARY FULLY PAID (Australia),U
 CNPWM,Connecticut Light & Power Company $2.09 Series F Preferred Stock,U
 CNPWP,Connecticut Light & Power Company $2.04 Preferred Stock,U
 CNQ,Canadian Natural Resources Limited,NYSE
+CNQNF,CENTRAL CHINA SECS CO LTD  Ordinary Shares (China),U
 CNR,"Cornerstone Building Brands, Inc.",NYSE
 CNRAF,VICINITY CENTRES Ordinary Shares,U
 CNRD,"Conrad Industries, Inc. Common Stock",U
@@ -5536,3 +5536,4 @@ CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
+CPB,Campbell Soup Company,NYSE

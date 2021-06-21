@@ -1,11 +1,11 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHGDF,Star Diamond Corporation Ordinary Shares,U
 SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
+SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
@@ -797,7 +797,7 @@ SOWG,SOW GOOD INC Common Stock,U
 SOXL,Direxion Daily Semiconductor Bull 3X Shares,ARCA
 SOXQ,Invesco Exchange-Traded Fund Trust II Invesco PHLX Semiconductor ETF,NASDAQ
 SOXS,Direxion Daily Semiconductor Bear 3X Shares,ARCA
-SOXX,iShares PHLX Semiconductor ETF,NASDAQ
+SOXX,iShares Semiconductor ETF,NASDAQ
 SOYB,Teucrium Soybean Fund,ARCA
 SOYO,"Soyo Group, Inc. Common Stock",U
 SP,SP Plus Corporation Common Stock,NASDAQ
@@ -1708,7 +1708,6 @@ SYUP,"ANBC, INC. Common Stock",U
 SYUS,Syntax Stratified U.S. Total Market ETF,ARCA
 SYVC,"Synovics Pharmaceuticals, Inc. Common Stock",U
 SYVN,"Sycamore Ventures, Inc. Common Stock",U
-SYX,Systemax Inc.,NYSE
 SYXXF,Synodon Inc Class A (Canada),U
 SYXZF,Synnex Technology International Global Depositary Shares Reg S,U
 SYY,Sysco Corporation,NYSE
@@ -3009,7 +3008,9 @@ TUERF,TRUE NORTH COMMERICAL REIT (Canada),U
 TUFBY,Thai Union Group Public Company Limited American Depositary Receipts - Unsponsored,U
 TUFN,Tufin Software Technologies Ltd.,NYSE
 TUFUF,Thai Union Group PLC Ltd Depositary Receipts,U
+TUGC,TradeUP Global Corporation Class A Ordinary Shares,NASDAQ
 TUGCU,TradeUP Global Corporation Unit,NASDAQ
+TUGCW,TradeUP Global Corporation Warrant,NASDAQ
 TUGHF,Tungtex Holding Ordinary Shares,U
 TUIFF,TUI AG Namen AKT (Germany) EUR,U
 TUIFY,TUI AG Unsponsored ADR representing Namen AKT (Germany),U
@@ -4657,7 +4658,6 @@ WKPYF,PT Waskita Karya Persero Tbk Pt Shs Series B (Indonesia),U
 WKRCF,Wacker Neuson SE Namen-Akt (Germany),U
 WKSP,WORKSPORT LTD Common Stock,U
 WKSVF,WORK SVC S A Ordinary Shares,U
-WKULF,Potent Ventures Inc. Ordinary Shares,U
 WKYN,"WebSky, Inc. New Common Stock",U
 WLAB,"White Label Liquid, Inc. Common Stock",U
 WLAN,"Wialan Technologies, Inc. Common Stock",U
@@ -5250,6 +5250,7 @@ YITD,"Yinhang Internet Technologies Development, Inc. Common Stock",U
 YITYY,YIT OYJ Unsponsored ADR (Finland),U
 YJ,Yunji Inc. American Depository Shares,NASDAQ
 YJGJ,Yijia Group Corp. Common Stock,U
+YJUN,FT Cboe Vest International Equity Buffer ETF - June,BATS
 YKLTF,Yakult Honsha Co Ltd Ordinary Shares (Japan),U
 YKLTY,Yakult Honsha Co Ltd American Depositary Shares (Japan),U
 YKYOF,Yorkey Optical International Cayman Ltd Ordinary Shares (Cayman Islands),U
@@ -5266,6 +5267,7 @@ YMAR,FT Cboe Vest International Equity Buffer ETF - March,BATS
 YMATF,AZBIL CORP SHS (Japan),U
 YMDAF,YAMADA HLDGS CO LTD Ordinary Shares,U
 YMFCF,YAMASHIN FILTER CORP COM STK (Japan),U
+YMM,Full Truck Alliance Co. Ltd. American Depositary Shares (each representing 20 Class A Ordinary Share,NYSE
 YMTKF,Yamato Kogyo Co Ltd SHS (Japan),U
 YMTX,"Yumanity Therapeutics, Inc. Common Stock",NASDAQ
 YMZBY,Yamazaki Baking Ltd American Depositary Shares,U

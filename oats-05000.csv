@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
 CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
@@ -1851,7 +1850,6 @@ ECLMF,Ecolomondo Corp. Ordinary Shares (Canada),U
 ECLN,First Trust EIP Carbon Impact ETF,ARCA
 ECMH,"Encompass Holdings, Inc. Common Stock",U
 ECMLF,Ecometals Limited  Ordinary Shares CAD,U
-ECMTD,"Ecomax, Inc. Common Stock",U
 ECMXF,Universal Copper Ltd.  Ordinary Shares,U
 ECNCF,ECN Capital Corp Ordinary Shares (Canada),U
 ECNRF,WORLDWIDE RES CORP  Common Shares,U
@@ -1981,7 +1979,6 @@ EFAX,SPDR MSCI EAFE Fossil Fuel Reserves Free ETF,ARCA
 EFBI,"Eagle Financial Bancorp, Inc. Common Stock",U
 EFC,Ellington Financial Inc. Common Stock,NYSE
 EFC PRA,Ellington Financial Inc. 6.750% Series A Fixed-to-Floating Rate Cumulative Redeemable Preferred Stoc,NYSE
-EFF,EATON VANCE FLOATING-RATE INCOME PLUS FUND,NYSE
 EFFDF,Legal & Gen UCITS ETF PLC Exchange Traded Fund,U
 EFG,iShares MSCI EAFE Growth ETF,BATS
 EFGIF,EFG International Zuerich Namen-Akt.. Shares (Switzerland),U
@@ -2178,6 +2175,7 @@ ELOKY,Enel Russia PJSC Global Depositary Receipts - Sponsored,U
 ELORY,Elior Unsponsored American Depository Receipt (France),U
 ELOX,"Eloxx Pharmaceuticals, Inc. Common Stock",NASDAQ
 ELP,Companhia Paranaense de Energia American Depositary Shares (each representing one Unit consisting o,NYSE
+ELPKF,ELOPAK A S Ordinary Shares,U
 ELPQF,El Puerto Liverpool Sa Shs 1 Ordinary Shares,U
 ELRA,"Elray Resources, Inc. Common Stock",U
 ELRE,Yinfu Gold Corp Common Stock,U
@@ -2211,6 +2209,7 @@ EM,Smart Share Global Limited American Depositary Shares,NASDAQ
 EMAG,VanEck Vectors Emerging Markets Aggregate Bond ETF,ARCA
 EMALF,ETF Metal Securities Ltd St Helier 0% Notes 2007- Without Fixed Maturity on PM Basket (Jersey),U
 EMAN,eMagin Corporation,AMEX
+EMAX,"Ecomax, Inc. Common Stock",U
 EMB,"iShares J,P. Morgan USD Emerging Markets Bond ETF",NASDAQ
 EMBA,eMamba International Corp. Common Stock,U
 EMBD,Global X Emerging Markets Bond ETF,ARCA
@@ -2279,7 +2278,6 @@ EMR,Emerson Electric Co.,NYSE
 EMRAF,Emera Incorporated Ordinary Shares,U
 EMRH,Emerging Holdings Inc Common Stock,U
 EMRN,eMARINE Global Inc. Common Stock,U
-EMRRF,Orogen Royalties Inc Common Shares,U
 EMSCY,Ems-Chemie Holding AG American Depositary Receipts - Unsponsored (Switzerland),U
 EMSG,Xtrackers MSCI Emerging Markets ESG Leaders Equity ETF,ARCA
 EMSH,ProShares Short Term USD Emerging Markets Bond ETF,BATS
@@ -3151,7 +3149,6 @@ FCRM,Franklin Credit Mgmt Corp New Common Stock,U
 FCRQF,Ichigo Office Reit Invt Corp Ordinary Shares (Japan),U
 FCRW,"First Eagle Alternative Capital BDC, Inc. 6.125% Notes due 2023",NYSE
 FCRX,"First Eagle Alternative Capital BDC, Inc. 5.00% Notes due 2026",NYSE
-FCRZ,"First Eagle Alternative Capital BDC, Inc. 6.75% Notes due 2022",NYSE
 FCSMF,"Focus Graphite, Inc. Ordinary Shares (Canada)",U
 FCSUF,FOCUS MINERALS LTD Common Shares Australia (AU),U
 FCT,First Trust Senior Floating Rate Income Fund II,NYSE
@@ -4726,6 +4723,7 @@ GHYG,iShares US & Intl High Yield Corp Bond ETF,BATS
 GIB,CGI Inc.,NYSE
 GIBBF,Gibb Riv Diamonds Ltd Ordinary Shares (Australia),U
 GIBX,GIB CAP GROUP INC Common Stock,U
+GIC,Global Industrial Company,NYSE
 GIDMF,GOLDEN INDEPENDENCE MNG CORP Common Shares,U
 GIFI,"Gulf Island Fabrication, Inc. Common Stock",NASDAQ
 GIFLF,Grifols Sa Barcelona Ordinary Shares,U
@@ -4786,6 +4784,7 @@ GKTRF,GEK Terna Holding Real Estate Construction Societe Anonyme Ordinary Regula
 GKTXF,Genkyotex DS21 Rights (France),U
 GL,Globe Life Inc.,NYSE
 GL PRC,Globe Life Inc.,NYSE
+GL PRD,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE
 GLAD,Gladstone Capital Corporation Common Stock,NASDAQ
 GLADL,Gladstone Capital Corporation 5.375% Notes due 2024,NASDAQ
 GLAE,"GlassBridge Enterprises, Inc. Common Stock",U
@@ -5535,3 +5534,6 @@ GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
 GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
+GWB,"Great Western Bancorp, Inc.",NYSE
+GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
+GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U

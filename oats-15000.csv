@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTAGF,Ceconomy AG Ordinary Shares,U
-MTALF,METALLICA METALS CORP Ordinary Shares,U
-MTB,M&T Bank Corp.,NYSE
-MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
@@ -1080,6 +1076,7 @@ NSWEF,Nitro Software LTtd Ordinary Shares (Australia),U
 NSYC,National Stock Yards Company Common Stock,U
 NSYS,Nortech Systems Incorporated Common Stock,NASDAQ
 NTABF,NETENT AB Common Stock,U
+NTAI,"NANTAI INTERNATIONAL, INC. Common Stock",U
 NTAP,"NetApp, Inc. Common Stock",NASDAQ
 NTB,The Bank of N.T. Butterfield & Son Limited,NYSE
 NTBP,New Tripoli Bancorp Inc Common Stock,U
@@ -1542,6 +1539,7 @@ OGI,Organigram Holdings Inc. Common Shares,NASDAQ
 OGIG,OShares Global Internet Giants ETF,BATS
 OGN,Organon & Co.,NYSE
 OGNG,Bravo Enterprises Ltd. Common Stock,U
+OGNRF,Orogen Royalties Inc Common Shares,U
 OGNT,Organa Technologies Group Inc New Common Stock,U
 OGOFF,Organto Foods Inc Common Shares,U
 OGS,"ONE GAS, INC.",NYSE
@@ -2933,6 +2931,7 @@ POTMF,PORTMEIRION POTTERIES HOLDINGS PLC Shs (United Kingdom),U
 POTN,"Potnetwork Holdings, Inc. Common Stock",U
 POTRF,SOPerior Fertilizer Corp Common Shares,U
 POTTF,Buddy Technologies Ltd. Ordinary Shares,U
+POTVF,Potent Ventures Inc. Ordinary Shares,U
 POTX,Global X Funds Global X Cannabis ETF,NASDAQ
 POW,Powered Brands Class A Ordinary Shares,NASDAQ
 POWI,"Power Integrations, Inc. Common Stock",NASDAQ
@@ -3448,6 +3447,7 @@ PTTTS,Palmetto Real Estate Trust SBI,U
 PTTWF,Orange Polska SA SHS (Poland),U
 PTVE,Pactiv Evergreen Inc. Common stock,NASDAQ
 PTVRF,Petro Victory Energy Corp. Ordinary Shares,U
+PTWCF,PT ARWANA CITRAMULIA TBK Ordinary Shares,U
 PTWJF,PT Wijaya Karya Beton Bekasi Ordinary Shares (Indonesia),U
 PTWKF,PT WISMILAK INTI MAKMUR TBK Ordinary Shares,U
 PTXAF,PT XL Axiata Tbk Ordinary Shares (Indonesia),U
@@ -3696,6 +3696,7 @@ QING,"Qingdao Footwear, Inc. Common Stock",U
 QINT,American Century Quality Diversified International ETF,ARCA
 QIPT,Quipt Home Medical Corp. Common Shares,NASDAQ
 QIWI,QIWI plc American Depositary Shares,NASDAQ
+QJUN,FT Cboe Vest Growth-100 Buffer ETF - June,BATS
 QJYMF,SMI CULTURE GROUP HLDGS LTD BERMUDA  Ordinary Shares,U
 QK,Q&K International Group Limited American Depositary Shares,NASDAQ
 QKLS,"QKL Stores, Inc.",U
@@ -5339,7 +5340,7 @@ SFBC,"Sound Financial Bancorp, Inc. Common Stock",NASDAQ
 SFBE,Sino Bioenergy Corp. Common Stock,U
 SFBI,SFSB Inc. Common Stock,U
 SFBQF,Softbank Corp Common Stock (Japan),U
-SFBS,"ServisFirst Bancshares, Inc. Common Stock",NASDAQ
+SFBS,ServisFirst Bancshares Inc.,NYSE
 SFBTF,Softbank Technology Corporation Tokyo Ordinary Shares (Japan),U
 SFCCF,Seafco Public Co Ltd Ordinary Shares (Thailand),U
 SFDL,Security Federal Corporation (SC) Common Stock,U
@@ -5535,3 +5536,4 @@ SHEN,Shenandoah Telecommunications Co Common Stock,NASDAQ
 SHERF,Sherritt Intl Copr Restr Vtg Ordinary Shares,U
 SHEZF,Shenzhen Hepalink Pharmaceutical Group Co Ltd. Registered Shares (China),U
 SHG,Shinhan Financial Group Co Ltd,NYSE
+SHGDF,Star Diamond Corporation Ordinary Shares,U
