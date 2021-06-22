@@ -164,9 +164,6 @@ ABZT,"Ablaze Technologies, Inc. Common Stock",U
 ABZUF,"Abzu Gold, Ltd. Ordinary Shares (Canada)",U
 AC,"Associated Capital Group, Inc.",NYSE
 ACA,"Arcosa, Inc. Common Stock",NYSE
-ACAC,Acies Acquisition Corp. Class A Ordinary Share,NASDAQ
-ACACU,Acies Acquisition Corp. Unit,NASDAQ
-ACACW,Acies Acquisition Corp. Warrant,NASDAQ
 ACAD,ACADIA Pharmaceuticals Inc. Common Stock,NASDAQ
 ACAH,Atlantic Coastal Acquisition Corp. Class A Common Stock,NASDAQ
 ACAHU,Atlantic Coastal Acquisition Corp. Unit,NASDAQ
@@ -565,7 +562,6 @@ AFGVF,AGFA-GEVAERT N.V. BRUESSEL Ordinary Shares Belgium(BE ),U
 AFGVY,Agfa Gevaert NV Unsponsored ADR (Belgium),U
 AFGYF,AFC Energy Plc Ordinary Shares (United Kingdom),U
 AFHBL,ATLAS FINL HLDGS INC Other  6.625 04/26/2022,U
-AFHFF,AFH Financial Group PLC Bromsgrove Ordinary Shares (United Kingdom),U
 AFHIF,ATLAS FINL HLDGS INC Ordinary Shares,U
 AFI,"Armstrong Flooring, Inc.",NYSE
 AFIB,"Acutus Medical, Inc. Common Stock",NASDAQ
@@ -1249,6 +1245,7 @@ AMRR,American Metals Recovery and Recycling Inc. Common Stock,U
 AMRS,"Amyris, Inc. Common Stock",NASDAQ
 AMRT,American Mart Corp Common Stock,U
 AMRU,"Amaru, Inc. Common Stock",U
+AMRWF,AMERIWEST LITHIUM INC Common Shares,U
 AMRX,"Amneal Pharmaceuticals, Inc. Class A Common Stock",NYSE
 AMRZF,"Arena Minerals, Inc. Ordinary Shares",U
 AMS,American Shared Hospital Services,AMEX
@@ -1552,7 +1549,7 @@ AQMS,"Aqua Metals, Inc. Common Stock",NASDAQ
 AQN,Algonquin Power & Utilities Corp,NYSE
 AQNA,Algonquin Power & Utilities Corp. 6.875% Fixed-to-Floating Rate Subordinated Notes Series 2018-A due,NYSE
 AQNB,Algonquin Power & Utilities Corp. 6.20% Fixed-to-Floating Subordinated Notes Series 2019-A due July,NYSE
-AQNNV,Algonquin Power & Utilities Corp Corporate Unit (Canada),U
+AQNNF,Algonquin Power & Utilities Corp Corporate Unit (Canada),U
 AQQRF,Aquarius Surgical Technologies Inc Ordinary Shares (Canada),U
 AQQSQ,AMERICAN SPECTRUM RLTY INC Common Stock undefined,U
 AQSP,Acquired Sales Corp. Common Stock,U
@@ -2339,6 +2336,7 @@ AZEK,The AZEK Company Inc.,NYSE
 AZFL,Amazonas Florestal Ltd Common Stock,U
 AZGFF,Azteca Gold Corp Ordinary Shares (Canada),U
 AZGSQ,"Aztec Oil & Gas, Inc. Common Stock",U
+AZIC,AZAR INTL CORP COM,U
 AZIHF,Azimut Holding Spa Ordinary Shares (Italy),U
 AZIHY,Azimut Holding Spa Unsponsored ADR (Italy),U
 AZIL,Aziel Corporation Common Stock,U
@@ -3338,6 +3336,7 @@ BOMH,"Boomer Holdings, Inc. Common Stock",U
 BOMMF,"DB Base Metals Double Short Exchange Traded Notes due June 1, 2038 (Germany)",U
 BOMN,Boston Omaha Corporation Class A Common Stock,NASDAQ
 BOMXF,"Bolsa Mexicana de Valores, S.A.B. de C.V., Mexico Shares A (Mexico)",U
+BON,Bon Natural Life Limited Ordinary Shares,NASDAQ
 BOND,PIMCO Active Bond Exchange-Traded Fund,ARCA
 BONL,Bonal Intl Inc Common Stock,U
 BONTQ,BON-TON STORES INC Common Shares,U
@@ -3638,7 +3637,7 @@ BSSC,"Bank Southside Corp (Carson, VA) Common stock",U
 BSSMF,Bass Metals Ltd Ordinary shares (Australia),U
 BSSP,"Bassline Productions, Inc. Common",U
 BST,BlackRock Science and Technology Trust,NYSE
-BST RTWI,"BlackRock Science and Technology Trust Rights (expiring July 14, 2021)",NYSE
+BST RT,"BlackRock Science and Technology Trust Rights (expiring July 14, 2021)",NYSE
 BSTG,"Biostage, Inc. Cmn Stk Common Stock",U
 BSTGF,Boustead Singapore Ltd Ordinary Shares (Singapore),U
 BSTHY,Boustead Hldgs Berhad Ord American Depositary Shares,U
@@ -4049,7 +4048,6 @@ CATG,"Capstone Technologies Group, Inc. Common Stock",U
 CATH,Global X Funds Global X S&P 500 Catholic Values ETF,NASDAQ
 CATI,Clone Algo Technologies Inc. Common Stock,U
 CATKU,Catskill Litigation Trust Units,U
-CATM,Cardtronics plc Class A Ordinary Shares (UK),NASDAQ
 CATN,Cat9 Group Inc Common Stock,U
 CATO,CATO CORP,NYSE
 CATPF,Giyani Metals Corp Common Shares,U
@@ -5011,11 +5009,6 @@ CLNN,Clene Inc. Common Stock,NASDAQ
 CLNNW,Clene Inc. Warrant,NASDAQ
 CLNV,Clean Vision Corporation Common Stock,U
 CLNXF,Cellnex Telecom SA Ordinary Shares (Spain),U
-CLNY,"Colony Capital, Inc. Class A Common Stock",NYSE
-CLNY PRG,"Colony Capital, Inc.  7.50% Series G Cumulative Redeemable Perpetual Preferred Stock",NYSE
-CLNY PRH,"Colony Capital, Inc.  7.125% Series H Cumulative Redeemable Perpetual Preferred Stock",NYSE
-CLNY PRI,"Colony Capital, Inc.  7.15% Series I Cumulative Redeemable Perpetual Preferred Stock",NYSE
-CLNY PRJ,"Colony Capital, Inc.  7.125% Series J Cumulative Redeemable Perpetual Preferred Stock",NYSE
 CLNZF,Cdl Investment Ltd NZ Ordinary Shares (New Zealand),U
 CLOEF,Cloetta AB Shares -B- (Sweden),U
 CLOK,Cipherloc Corp. Common Stock,U
@@ -5537,3 +5530,11 @@ CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
 CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
 CPB,Campbell Soup Company,NYSE
+CPBLF,ALS Ltd. Ordinary Shares (Australia),U
+CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
+CPCAF,Cathay Pacific Airways Ltd Ord Ordinary Shares,U
+CPCAY,Cathay Pacific Airways Ltd Ord American Depositary Shares,U
+CPCC,"Striper Energy, Inc. Common Stock",U
+CPE,Callon Petroleum Company,NYSE
+CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
+CPER,United States Copper Index Fund,ARCA

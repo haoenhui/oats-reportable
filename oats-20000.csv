@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHGDF,Star Diamond Corporation Ordinary Shares,U
 SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
@@ -1078,7 +1079,7 @@ SRGZ,Star Gold Corp. Common Stock,U
 SRHBF,Starhub Ltd Ordinary Shares (Singapore),U
 SRHBY,Starhub Ltd Unsponsored ADR (Singapore),U
 SRHGF,Shoprite Holdings Ltd Ord Ordinary Shares,U
-SRHIF,SRHI INC Common Shares,U
+SRHIF,THREE VY COPPER CORP Common Shares,U
 SRHYY,SYRAH RES LTD  American Depositary Receipts - Sponsored (Australia),U
 SRI,"Stoneridge, Inc",NYSE
 SRII,"Speaking Roses International, Inc. Common Stock",U
@@ -1882,7 +1883,6 @@ TCAI,"AIMTC, INC. Common Stock",U
 TCANF,TC Energy Corp Preferred Stock,U
 TCAPF,TP ICAP GROUP PLC Ordinary Shares (Jersey),U
 TCBI,"Texas Capital Bancshares, Inc. Common Stock",NASDAQ
-TCBIL,"Texas Capital Bancshares, Inc. 6.50% Subordinated Notes due 2042",NASDAQ
 TCBIO,"Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",NASDAQ
 TCBK,TriCo Bancshares Common Stock,NASDAQ
 TCCHF,Technogym Spa Ordinary Shares (Italy),U
@@ -3235,6 +3235,7 @@ UBUH,"UBU Holdings, Inc. Common",U
 UBX,"Unity Biotechnology, Inc. Common Stock",NASDAQ
 UBYH,UBUYHOLDINGS INC Common Stock,U
 UBZWF,UBS AG LONDON BRH CALL WTS LKD TO MSCI EMERGING MKTS INDEX Expiring 08/31/2021 (Switzerland),U
+UCAPF,OSSIAM LUX SICAV SHS -UCITS ETF 1C(USD)-CAPITALISATION (Luxembourg),U
 UCASU,UC Asset Limited Partnership Com Unit,U
 UCBB,"US-China Biomedical Technology, Inc. Common Stock",U
 UCBI,"United Community Banks, Inc. Common Stock",NASDAQ
@@ -3998,7 +3999,6 @@ VLGDF,VALUE GOLD ETF UNITS EXCHANGE -TRADED FUND (Hong Kong),U
 VLGEA,"Village Super Market, Inc. Class A Common Stock",NASDAQ
 VLKAF,Volkswagen A G Ord Ordinary Shares,U
 VLKPF,Volkswagen A G Ord Ordinary Shares,U
-VLLUF,VALLOUREC Rights  06/21/2021,U
 VLLX,Valley Republic Bancorp Common Stock,U
 VLMGF,Viscount Mining Corp Common Shares  (Canada),U
 VLMRY,Vilmorin & Cie SA American Depositary Receipts - Unsponsored (France),U

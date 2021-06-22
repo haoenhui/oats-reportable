@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
@@ -12,7 +9,6 @@ GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
 GWPD,"GP Solutions, Inc. Common Stock",U
-GWPRF,GW Pharmaceuticals Plc GW Pharmaceuticals Plc,U
 GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
 GWRRF,Engold Mines Ltd Ordinary Shares,U
 GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
@@ -3189,7 +3185,6 @@ KNDGF,KINDRED GROUP PLC SWEDISH DEPOSITORY RECEIPT SDB Depositary Receipts,U
 KNDI,"Kandi Technologies Group, Inc Common Stock",NASDAQ
 KNDYF,Kenadyr Mining Holdings Corp Ordinary Shares (Canada),U
 KNEOF,Kneomedia Limited Ordinary Shares (Australia),U
-KNEVF,Kinnevik AB SHARE AK IL B Ordinary Shares,U
 KNFHF,Kingfish Ltd. Ordinary Shares (New Zealand),U
 KNFSF,KIATNAKIN PHATRA BK PUB CO LTD SHS FOREIGN REGISTERED (Thailand),U
 KNG,FT Cboe Vest S&P 500 Dividend Aristocrats Target Income ETF,BATS
@@ -4211,6 +4206,9 @@ LVMHF,LVMH Moet Hennessy Louis Vuitton Ordinary Shares,U
 LVMUY,LVMH Moet Hennessy Louis Vuitton Unsponsored American Depositary Receipt (France),U
 LVNSF,"Leonovus, Inc. Common Shares",U
 LVOL,American Century Low Volatility ETF,ARCA
+LVOX,"LiveVox Holding, Inc. Class A Common Stock",NASDAQ
+LVOXU,"LiveVox Holding, Inc. Unit",NASDAQ
+LVOXW,"LiveVox Holding, Inc. Warrant",NASDAQ
 LVPA,Lvpai Group Limited Common Stock,U
 LVPR,LIGHTSTONE VALUE PLUS REAL ESTATE INVT TR II INC Common Stock,U
 LVRA,Levere Holdings Corp. Class A Ordinary Shares,NASDAQ
@@ -4933,6 +4931,7 @@ MIPCF,MINOR INTERNATIONAL PUBLIC CO LTD NVDR SHARES (Thailand),U
 MIRAF,Mirai Corp Unit (Japan),U
 MIRHF,MEILLEURE HEALTH INTL IND GROUP LTD Ordinary Shares Bermuda(BM ),U
 MIRM,"Mirum Pharmaceuticals, Inc. Common Stock",NASDAQ
+MIRO,Miromatrix Medical Inc. Common Stock,NASDAQ
 MIRXF,SERRANO RES LTD  Common Shares,U
 MIST,Milestone Pharmaceuticals Inc. Common Shares,NASDAQ
 MISVF,Minco Silver Corp Common Shares (Canada),U
@@ -5537,3 +5536,5 @@ MTAGF,Ceconomy AG Ordinary Shares,U
 MTALF,METALLICA METALS CORP Ordinary Shares,U
 MTB,M&T Bank Corp.,NYSE
 MTBC,"CareCloud, Inc. Common Stock",NASDAQ
+MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
+MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U

@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
-MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
@@ -217,6 +215,8 @@ MYO,Myomo Inc.,AMEX
 MYOV,Myovant Sciences Ltd.,NYSE
 MYPHY,Mayne Pharma Group Limited American Depositary Receipts - Unsponsored (Australia),U
 MYPRF,Malaysia Airports Holdings BHD (Malaysia),U
+MYPS,"PLAYSTUDIOS, Inc. Class A Common Stock",NASDAQ
+MYPSW,"PLAYSTUDIOS, Inc. Warrant",NASDAQ
 MYRBY,MEYER BURGER TECHNOLOGY AG  American Depositary Receipts - Unsponsored (Switzerland),U
 MYRG,"MYR Group, Inc. Common Stock",NASDAQ
 MYRLF,Meryllion Resources Corp. Ordinary Shares,U
@@ -747,6 +747,7 @@ NMI,Nuveen Municipal Income,NYSE
 NMIH,NMI Holdings Inc. Class A Common Stock,NASDAQ
 NMK PRB,"Niagara Mohawk Power Corporation Preferred Stock, 3.60% Series",NYSE
 NMK PRC,"Niagara Mohawk Power Corporation Preferred Stock, 3.90% Series",NYSE
+NMKCF,CONTROLADORA NEMAK S A B DE CV SHARES OF FINANCIAL GROUPS AND INDUSTRIAL RETAIL (Mexico),U
 NML,Neuberger Berman MLP and Energy Income Fund Inc.,AMEX
 NMLSF,Nova Mentis Life Sciences Corp Ordinary Shares,U
 NMM,Navios Maritime Partners L.P.,NYSE
@@ -904,7 +905,6 @@ NPMFF,Newpeak Metals Ltd. Ordinary Shares (Australia),U
 NPNGY,Nippon Gas Co Ltd American Depositary Receipts - Unsponsored,U
 NPNKF,Nippon Shinyaku Co Ltd Ordinary Shares (Japan),U
 NPNTQ,"NorthPoint Communications Group, Inc. Common Stock",U
-NPNVF,Valqua Ltd Ordinary Shares,U
 NPNYY,Nippon Yusen Kabushiki Kaisha Sponsored ADR (Japan),U
 NPNZF,Nippon Antenna Co Ltd Ordinary Shares (Japan),U
 NPO,ENPRO INDUSTRIES,NYSE
@@ -1045,7 +1045,7 @@ NSPRW,"InspireMD, Inc. Warrants",NASDAQ
 NSPRZ,"InspireMD, Inc. Series B Warrants",NASDAQ
 NSPT,Newron Sport  Common Stock,U
 NSPX,"Inspyr Therapeutics, Inc.  Common Stock",U
-NSRCD,"Nextsource Materials, Inc. (CAN) Common Stock",U
+NSRCF,"Nextsource Materials, Inc. (CAN) Common Stock",U
 NSRGF,Nestle Sa Cham Et Vevey Ordinary Shares,U
 NSRGY,Nestle SA Sponsored ADR representing Registered Shares Series B (Switzerland),U
 NSRPF,Novo Res Corp Common shares (Canada),U
@@ -1484,6 +1484,7 @@ OCTX,Octagon 88 Resources Inc Common Stock,U
 OCTZ,TrueShares Structured Outcome (October) ETF,BATS
 OCUL,"Ocular Therapeutix, Inc. Common Stock",NASDAQ
 OCUP,"Ocuphire Pharma, Inc. Common Stock",NASDAQ
+OCUTF,OCUMENSION THERAPEUTICS USD SHS (Cayman Islands),U
 OCX,OncoCyte Corporation Common Stock,NASDAQ
 ODC,Oil-Dri Corporation of America,NYSE
 ODEFF,"Petrichor Energy, Inc. Ordinary Shares (Canada)",U
@@ -2876,6 +2877,7 @@ PNRG,PrimeEnergy Resources Corporation Common Stock,NASDAQ
 PNRLY,PARINGA RES LTD American Depositary Receipts - Sponsored,U
 PNRXF,Porto Energy Corp. Ordinary Shares (Canada),U
 PNTG,"The Pennant Group, Inc. Common Stock",NASDAQ
+PNTLF,PENTANET LTD ORDINARY FULLY PAID (Australia),U
 PNTM,Pontem Corporation,NYSE
 PNTM U,"Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeem",NYSE
 PNTM WS,"Pontem Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exe",NYSE
@@ -5536,4 +5538,3 @@ SHEN,Shenandoah Telecommunications Co Common Stock,NASDAQ
 SHERF,Sherritt Intl Copr Restr Vtg Ordinary Shares,U
 SHEZF,Shenzhen Hepalink Pharmaceutical Group Co Ltd. Registered Shares (China),U
 SHG,Shinhan Financial Group Co Ltd,NYSE
-SHGDF,Star Diamond Corporation Ordinary Shares,U
