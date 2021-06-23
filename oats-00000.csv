@@ -891,7 +891,7 @@ AKBA,"Akebia Therapeutics, Inc. Common Stock",NASDAQ
 AKBIF,Akebono Brake Industries Ordinary Shares,U
 AKBLF,Alk-Abello A/S Shares -B- (Denmark),U
 AKBTY,Akbank Turk Anonim Sirketi ADR (Turkey),U
-AKCCF,AKER CARBON CAPTURE AS Ordinary Shares,U
+AKCCF,AKER CARBON CAPTURE ASA Ordinary Shares,U
 AKCPF,Asustek Computer Inc Ord Ordinary Shares,U
 AKEJF,Ariake Japan Ordinary Shares,U
 AKIC,Sports Ventures Acquisition Corp. Class A Ordinary Shares,NASDAQ
@@ -1697,6 +1697,7 @@ ARST,Arista Financial Corp.  Common Stock,U
 ARSUF,Fagron SA Ordinary Shares,U
 ARTAU,Artisan Acquisition Corp. Units,NASDAQ
 ARTD,"ARTISTdirect, Inc. Common Stock",U
+ARTGF,AIRTHINGS ASA Ordinary Shares,U
 ARTH,"Arch Therapeutics, Inc. Common Stock",U
 ARTL,"Artelo Biosciences, Inc. Common Stock",NASDAQ
 ARTLW,"Artelo Biosciences, Inc. Warrant",NASDAQ
@@ -2240,6 +2241,7 @@ AWK,"American Water Works Company, Inc",NYSE
 AWKS,"AmeriWorks, Inc. Common Stock",U
 AWLCF,Awilco Drilling Ltd. Ordinary Shares,U
 AWLNF,AWILCO LNG AS SHS (Norway),U
+AWNHF,AWN  HLDGS LTD SHS (Australia),U
 AWON,"A-1 Group, Inc Common Stock",U
 AWP,Aberdeen Global Premier Properties Fund,NYSE
 AWR,American States Water Company,NYSE
@@ -2680,7 +2682,6 @@ BEEMW,Beam Global Warrant,NASDAQ
 BEEN,"Better Environment Concepts, Inc. Common Stock ($0.01 Par Value)",U
 BEES,"BEESFREE, Inc. Common Stock",U
 BEGI,"BlackStar Enterprise Group, Inc.  Common Stock",U
-BEGYF,Trinity Exploration & Production PLC (London) Ordinary Shares (United Kingdom),U
 BEHL,"Biocentric Energy Holdings, Inc. Common Stock",U
 BEIGF,BEIGENE LTD SHS (Cayman Islands),U
 BEIJF,Beijing North Star Co Ltd H Ordinary Shares,U
@@ -2824,6 +2825,7 @@ BHFAL,"Brighthouse Financial, Inc. 6.25% Junior Subordinated Debentures due 2058
 BHFAN,"Brighthouse Financial, Inc. Depositary shares, each representing a 1/1,000th interest in a share of 5.375% Non-Cumulative Preferred Stock, Series C",NASDAQ
 BHFAO,"Brighthouse Financial, Inc. Depositary Shares 6.75% Non-Cumulative Preferred Stock, Series B",NASDAQ
 BHFAP,"Brighthouse Financial, Inc. Depositary Shares 6.6% Non-Cumulative Preferred Stock, Series A",NASDAQ
+BHG,"Bright Health Group, Inc.",NYSE
 BHGCF,BH GLOBAL CORP LTD Ordinary Shares,U
 BHGSF,BHG Group AB Ordinary Shares (Sweden),U
 BHHKF,Benchmark Botanics Inc Ordinary Shares (Canada),U
@@ -4500,6 +4502,7 @@ CFIV,CF Acquisition Corp. IV Class A common stock,NASDAQ
 CFIVU,CF Acquisition Corp. IV Unit,NASDAQ
 CFIVW,CF Acquisition Corp. IV Warrant,NASDAQ
 CFLSF,"Cash Financial Services Group, Ltd. Ordinary Shares",U
+CFLT,"Confluent, Inc. Class A Common Stock",NASDAQ
 CFMS,"Conformis, Inc. Common Stock",NASDAQ
 CFNB,California First Leasing Corporation Common Stock,U
 CFNCF,"Cie Financiere Tradition Lausanne Act, Shares (Switzerland)",U
@@ -5538,3 +5541,4 @@ CPCC,"Striper Energy, Inc. Common Stock",U
 CPE,Callon Petroleum Company,NYSE
 CPEFF,VOYAGEUR MINERAL EXPLORERS CORP Common Shares,U
 CPER,United States Copper Index Fund,ARCA
+CPEU,"Chapeau, Inc. Common Stock",U

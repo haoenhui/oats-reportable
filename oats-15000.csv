@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
@@ -831,7 +832,7 @@ NOBGY,Noble Group Ltd American Depositary Receipts - Unsponsored,U
 NOBH,"Nobility Homes, Inc. Common Stock",U
 NOBL,ProShares S&P 500 Dividend Aristocrats ETF,BATS
 NOC,Northrop Grumman Corp.,NYSE
-NOCRF,Norden Crown Metals Corp Common Shares,U
+NOCRD,Norden Crown Metals Corp Common Shares,U
 NOCSF,NORSEMAN SILVER INC Common Stock (Canada),U
 NOCT,Innovator Nasdaq-100 Power Buffer ETF- October,BATS
 NODB,North Dallas Bank & Trust Co Tex Common Stock,U
@@ -1142,6 +1143,7 @@ NTTYY,Nippon Telegraph and Telephone Corporation American Depositary Shares - Sp
 NTULF,Nihon Unisys Ltd Ordinary Shares (Japan),U
 NTUR,"Natural Blue Resources, Inc. Common Stock",U
 NTUS,Natus Medical Incorporated Common Stock,NASDAQ
+NTVMF,NORTHERN VERTEX MNG CORP Warrant   01/04/2023,U
 NTWB,Northwest Bk & Tr Co Davenport New Common Stock,U
 NTWK,NetSol Technologies Inc. Common  Stock,NASDAQ
 NTWN,"Newtown Lane Marketing, Incorporated Common Stock",U
@@ -1393,7 +1395,7 @@ NYXFF,NYXOAH S A  Ordinary Shares,U
 NYXO,Nyxio Technologies Corporation Common Stock,U
 NZEOF,New Zealand Oil & Gas Ltd Ordinary Shares,U
 NZEOY,New Zealand Oil & Gas Ltd American Depositary Receipts - Unsponsored,U
-NZERF,New Zealand Energy Corp. Ordinary Shares (Canada),U
+NZERD,New Zealand Energy Corp. Common Shares,U
 NZF,Nuveen Municipal Credit Income Fund,NYSE
 NZIH,"NZJ Holdings, Inc. Common Stock",U
 NZMEF,Nzme Ltd Ordinary Shares (New Zealand),U
@@ -3069,7 +3071,7 @@ PRIF PRE,"Priority Income Fund, Inc. 6.375% Series E Preferred Stock Due 2024",N
 PRIF PRF,"Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027",NYSE
 PRIF PRG,"Priority Income Fund, Inc. 6.25% Series G Preferred Stock Due 2026",NYSE
 PRIF PRH,"Priority Income Fund, Inc. 6.00% Series H Term Preferred Stock due 2026",NYSE
-PRIIP,PRIORITY INCOME FD INC TERM PFD SER I Preferred Stock,U
+PRIF PRI,"Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028",NYSE
 PRIM,Primoris Services Corporation Common Stock,NASDAQ
 PRISY,Promotora De Informaciones SA American Depositary Receipts - Sponsored,U
 PRK,Park National Corporation,AMEX
@@ -3843,7 +3845,7 @@ RAAC,Revolution Acceleration Acquisition Corp Class A Common Stock,NASDAQ
 RAACU,Revolution Acceleration Acquisition Corp Unit,NASDAQ
 RAACW,Revolution Acceleration Acquisition Corp Warrant,NASDAQ
 RAAS,"Cloopen Group Holding Limited American Depositary Shares, each representing two Class A Ordinary Sha",NYSE
-RAAX,VanEck Vectors Real Asset Allocation ETF,ARCA
+RAAX,VanEck Inflation Allocation ETF,ARCA
 RABSF,RREF II AL BRECK SOCIMI S A U Ordinary Shares,U
 RACA,Therapeutics Acquisition Corp. Class A Common Stock,NASDAQ
 RACB,Research Alliance Corp. II Class A Common Stock,NASDAQ
@@ -5538,3 +5540,5 @@ SHEN,Shenandoah Telecommunications Co Common Stock,NASDAQ
 SHERF,Sherritt Intl Copr Restr Vtg Ordinary Shares,U
 SHEZF,Shenzhen Hepalink Pharmaceutical Group Co Ltd. Registered Shares (China),U
 SHG,Shinhan Financial Group Co Ltd,NYSE
+SHGDF,Star Diamond Corporation Ordinary Shares,U
+SHGKY,Sun Hung Kai & Co Ltd ADR,U

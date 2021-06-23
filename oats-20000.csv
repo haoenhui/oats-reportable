@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHGDF,Star Diamond Corporation Ordinary Shares,U
-SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
@@ -330,6 +328,7 @@ SLDGF,Solidusgold Inc. Ordinary Shares (Canada),U
 SLDX,STELLA DIAGNOSTICS INC Common Stock,U
 SLF,Sun Life Financial Inc.,NYSE
 SLFFF,Future Mobility Solutions Ltd.  Ordinary Shares,U
+SLFIF,SUN LIFE FINL INC PFD SHS CL A SER 4 Preference Shares,U
 SLFPF,Standard Life Aberdeen PLC Ordinary Shares,U
 SLFPY,Standard Life Aberdeen PLC American Depositary Receipts - Unsponsored,U
 SLFSF,Sun Life Financial Inc. CL A SER 2 Preferred Stock (Canada),U
@@ -810,6 +809,7 @@ SPAQ U,"Spartan Acquisition Corp. III Units, each consisting of one share of Cla
 SPAQ WS,"Spartan Acquisition Corp. III Warrants, exercisable for one share of Class A Common Stock",NYSE
 SPASF,Singapore Airport Terminal Services Ltd Ordinary Shares,U
 SPASY,SATS Ltd Unsponsored ADR (Singapore),U
+SPAX,Robinson Alternative Yield Pre-merger SPAC ETF,ARCA
 SPAZF,Spanish Mountain Gold Ltd. Common Shares (Canada),U
 SPB,"Spectrum Brands Holdings, Inc.",NYSE
 SPBBF,Speakeasy Cannabis Club Ltd Ordinary Shares (Canada),U
@@ -1212,6 +1212,7 @@ SSPFF,SiriusPoint Ltd. Warrant Exp 02/26/2026 (Bermuda),U
 SSPPF,SSP GROUP PLC Ordinary Shares,U
 SSPT,Shot Spirits Corporation Common Stock,U
 SSPY,Syntax Stratified LargeCap ETF,ARCA
+SSR,Soulgate Inc. American Depositary Shares,NASDAQ
 SSRAP,Saturns Sears Roebuck Accep Corp 7.250% Tr Unit Cl A 06/01/2032,U
 SSRC,"SentiSearch, Inc. Common Stock",U
 SSREF,Swiss Re Ltd Ordinary Shares (Switzerland),U
@@ -1782,6 +1783,8 @@ TAKD,TransAKT Ltd. Common Stock,U
 TAKOF,Drone Delivery CDA Corp Common Shares,U
 TAL,TAL Education Group,NYSE
 TALC,Tal Cap Inc Unclassified,U
+TALK,"Talkspace, Inc. Common Stock",NASDAQ
+TALKW,"Talkspace, Inc. Warrant",NASDAQ
 TALN,"Talon International, Inc Common Stock",U
 TALO,"Talos Energy, Inc. Common Stock",NYSE
 TALS,"Talaris Therapeutics, Inc. Common Stock",NASDAQ
@@ -4133,6 +4136,7 @@ VOSSF,Vossloh Ordinary Shares,U
 VOSSY,Vossloh AG Unsponsored ADR (Germany),U
 VOT,Vanguard Mid-Cap Growth ETF,ARCA
 VOTDF,VOTI DETECTION INC COM (Canada),U
+VOTE,Engine No. 1 Transform 500 ETF,BATS
 VOX,Vanguard Communication Services ETF,ARCA
 VOXCF,Vox Royalty Corp CAD Ordinary Shares (Cayman Islands),U
 VOXX,VOXX International Corporation Class A Common Stock,NASDAQ
@@ -4599,6 +4603,7 @@ WHR,Whirlpool Corp.,NYSE
 WHSI,"Wearable Health Solutions, Inc Common Stock",U
 WHSPF,WHISPIR LTD ORDINARY FULLY PAID (Australia),U
 WHTGF,Mangazeya Mining Ltd. Ordinary Shares (British Virgin Islands),U
+WHTHF,WHITEHAWK LTD Ordinary Shares,U
 WHTPF,WH Smith Plc Ordinary shares (United Kingdom),U
 WHWRF,World Houseware Ordinary Shares,U
 WHYRF,West High Yield Res Ltd Common shares (Canada),U

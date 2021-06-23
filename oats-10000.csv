@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
@@ -268,9 +270,6 @@ HDVY,Health Discovery Corporation Common Stock,U
 HDYNQ,Hyperdynamics Corp Common Stock,U
 HE,"Hawaiian Electric Industries, Inc.",NYSE
 HEAR,Turtle Beach Corporation Common Stock,NASDAQ
-HEC,Hudson Executive Investment Corp. Class A Common Stock,NASDAQ
-HECCU,Hudson Executive Investment Corp. Units,NASDAQ
-HECCW,Hudson Executive Investment Corp. Warrant,NASDAQ
 HEDJ,WisdomTree Europe Hedged Equity Fund,ARCA
 HEEM,iShares Currency Hedged MSCI Emerging Markets,BATS
 HEES,"H&E Equipment Services, Inc. Common Stock",NASDAQ
@@ -1097,7 +1096,9 @@ IAIC,Information Analysis Incorporated Common Stock,U
 IAK,iShares U.S. Insurance ETF,ARCA
 IAPR,Innovator MSCI EAFE Power Buffer ETF-April,ARCA
 IARE,INVENTRUST PPTYS CORP Common Stock,U
+IARGF,I A R Systems Group AB Ordinary Shares,U
 IART,Integra LifeSciences Holdings Corporation Common Stock,NASDAQ
+IAS,Integral Ad Science Holding Corp. Common Stock,NASDAQ
 IAT,iShares U.S. Regional Banks ETF,ARCA
 IAU,iShares Gold Trust,ARCA
 IAUCF,I-80 GOLD CORP COM (Canada),U
@@ -1523,7 +1524,6 @@ IIREF,IShares MSCI World Ordinary Shares (Ireland),U
 IISGF,iShares II plc Global Infrastructure UCITS ETF USD DIST (Ireland),U
 IISHF,iShares III PLC Emerging Mkts Loc Govt BD UCITS ETF (Ireland),U
 IISRF,iShares II plc Ord Shs (Ireland),U
-IITOF,Intesa Sanpaolo Spa Svgs Shs Non Conv (Italy),U
 IITSF,Intesa Sanpaolo Spa Ordinary Shares (Italy),U
 IIVI,II-VI Incorporated Common Stock,NASDAQ
 IIVIP,II-VI Incorporated 6.00% Series A Mandatory Convertible Preferred Stock,NASDAQ
@@ -2729,6 +2729,7 @@ JQC,Nuveen Credit Strategies Income Fund,NYSE
 JQTMF,JACQUET METAL SVC ACT (France),U
 JQUA,JPMorgan U.S. Quality Factor ETF,ARCA
 JRDN,Jardinier Corp. Common Stock,U
+JRE,Janus Henderson U.S. Real Estate ETF,ARCA
 JREIF,Japan Real Estate Investment Inc Tokyo Japan Real Estate Investment Inc Tokyo,U
 JRFIF,JAPAN MET FD INV CORP SHS Ordinary Shares,U
 JRHHY,Japara Healthcare Ltd. American Depositary Receipts - Unsponsored (Australia),U
@@ -4594,6 +4595,7 @@ MDDNF,Meridian Energy LTD Ordinary Shares (New Zealand),U
 MDDVF,Medical Developments Intl Ltd Shs (Australia),U
 MDEA,Media 100 Inc. Common Stock,U
 MDEPY,Arnoldo Mondadori Editore Spa Unsponsored ADR (Italy),U
+MDEV,First Trust Indxx Medical Devices ETF,BATS
 MDEVF,Melco Intl Devel Ordinary Shares,U
 MDEVY,Melco International Development Ltd. Unsponsored ADR (Hong Kong),U
 MDEX,Madison Technologies Inc. Common Stock,U
@@ -4758,6 +4760,7 @@ MFH,Mercurity Fintech Holding Inc. ADS,NASDAQ
 MFIN,Medallion Financial Corp. Common Stock,NASDAQ
 MFL,BLACKROCK MUNIHOLDINGS INVESTMENT QUALITY FUND,NYSE
 MFLPF,MITSUI FUDOSAN LOGISTICS PK INC REIT,U
+MFLYF,MULTI UNITES FRANCE SICAV LYX NEW EN DR UC ETF D SI Exchange Traded Fund,U
 MFM,MFS Municipal Income Trust Shares of Beneficial Interest,NYSE
 MFMLF,Marifil Mines Ltd Common Shares,U
 MFMS,MFAM Small-Cap Growth ETF,BATS
@@ -4938,6 +4941,7 @@ MISVF,Minco Silver Corp Common Shares (Canada),U
 MIT,"Mason Industrial Technology, Inc.",NYSE
 MIT U,"Mason Industrial Technology, Inc. Units, each consisting of one share of Class A common stock and on",NYSE
 MIT WS,"Mason Industrial Technology, Inc. Redeemable warrants, exercisable for one share of Class A common s",NYSE
+MITAU,Coliseum Acquisition Corp. Unit,NASDAQ
 MITC,MeaTech 3D Ltd. American Depositary Shares,NASDAQ
 MITCF,Mitani Corp Ordinary Shares (Japan),U
 MITEF,Mitsubishi Estate Co Ltd Ordinary Shares (Japan),U
@@ -5493,6 +5497,7 @@ MSLM,Mascot Silver Lead Mines Common Stock,U
 MSLOF,Mitsui Osk Lines Ordinary Shares,U
 MSLOY,Mitsui Osk Lines American Depositary Receipts - Unsponsored,U
 MSLP,MusclePharm Corporation Common Stock,U
+MSLVF,MANTARO SILVER CORP Common Shares,U
 MSLXP,MidSouth Bancorp Preferred Series C,U
 MSM,"MSC Industrial Direct Co., Inc. Class A",NYSE
 MSMGF,Grid Metals Corp.  Ordinary Shares,U
@@ -5537,4 +5542,3 @@ MTALF,METALLICA METALS CORP Ordinary Shares,U
 MTB,M&T Bank Corp.,NYSE
 MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
-MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U

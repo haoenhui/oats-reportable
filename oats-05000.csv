@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
@@ -1310,7 +1309,9 @@ DMYQ,"dMY Technology Group, Inc. IV",NYSE
 DMYQ U,"dMY Technology Group, Inc. IV Units, each consisting of one share of Class A common stock and one-fi",NYSE
 DMYQ WS,"dMY Technology Group, Inc. IV Redeemable warrants, each whole warrant exercisable for one share of C",NYSE
 DMZPY,DOMINOS PIZZA ENTERPRISES LTD  American Depositary Receipts - Unsponsored (Australia),U
+DNAA,Social Capital Suvretta Holdings Corp. I Class A ordinary share,NASDAQ
 DNAB,Social Capital Suvretta Holdings Corp. II Class A Ordinary Shares,NASDAQ
+DNAC,Social Capital Suvretta Holdings Corp. III Class A ordinary shares,NASDAQ
 DNACF,Dena Co Ltd Tokyo Ordinary Shares (Japan),U
 DNAD,Social Capital Suvretta Holdings Corp. IV Class A Ordinary Shares,NASDAQ
 DNAG,"DNAPrint Genomics, Inc. Common Stock",U
@@ -1374,6 +1375,7 @@ DOCMF,DR. MARTENS PLC ORD GBP0.01 (United Kingdom),U
 DOCN,"DigitalOcean Holdings, Inc.",NYSE
 DOCOF,Do & Co AG Ordinary Shares (Austria),U
 DOCRF,CLOUDMD SOFTWARE & SVCS INC Common Shares,U
+DOCS,"Doximity, Inc.",NYSE
 DOCT,FT Cboe Vest U.S. Equity Deep Buffer ETF - October,BATS
 DOCU,"DocuSign, Inc. Common Stock",NASDAQ
 DODXF,DB AG London Lkd to Dow Jones High Yield Select 10 (Germany),U
@@ -1695,7 +1697,6 @@ DXBGY,Dexia SA Belgium American Depositary Receipts - Unsponsored,U
 DXBRF,BellRock Brands Inc Common Shares,U
 DXC,DXC Technology Company,NYSE
 DXCM,"DexCom, Inc. Common Stock",NASDAQ
-DXCPY,Dixons Carphone PLC American Depositary Receipts - Sponsored (United Kingdom),U
 DXD,ProShares UltraShort Dow 30,ARCA
 DXF,Dunxin Financial Holdings Limited,AMEX
 DXGE,WisdomTree Trust WisdomTree Germany Hedged Equity Fund,NASDAQ
@@ -2979,6 +2980,7 @@ EZYMF,Enzymatica AB Ordinary Shares (Sweden),U
 F,Ford Motor Company,NYSE
 F PRB,"Ford Motor Company 6.20% Notes due June 1, 2059",NYSE
 F PRC,"Ford Motor Company 6.000% Notes due December 1, 2059",NYSE
+FA,First Advantage Corporation Common Stock,NASDAQ
 FAAR,First Trust Exchange-Traded Fund VII First Trust Alternative Absolute Return Strategy ETF,NASDAQ
 FAB,First Trust Multi Cap Value AlphaDEX Fund,NASDAQ
 FABP,Farmers Bancorp (The) (IN) Common Stock,U
@@ -4137,6 +4139,7 @@ FTTRF,Forterra Plc Ordinary Shares Gbp0.01 (United Kingdom),U
 FTUAF,Fuller Smith & Turner Plc A Ordinary Shares (United Kingdom),U
 FTV,Fortive Corporation,NYSE
 FTV PRA,"Fortive Corporation 5.00% Mandatory Convertible Preferred Stock, Series A",NYSE
+FTVIU,FinTech Acquisition Corp. VI Units,NASDAQ
 FTWS,Flitways Technology Inc Common Stock,U
 FTWYF,Freightways Ltd Ordinary Shares (New Zealand),U
 FTWYY,Freightways Ltd Unsponsored ADR (New Zealand),U
@@ -4898,6 +4901,7 @@ GLU,The Gabelli Utility & Income Trust,AMEX
 GLU PRA,The Gabelli Global Utility & Income Trust Series A,AMEX
 GLU PRB,The Gabelli Global Utility & Income Trust Series B Cumulative Puttable and Callable Preferred Shares,AMEX
 GLUC,"Glucose Health, Inc Common Stock",U
+GLUE,"Monte Rosa Therapeutics, Inc. Common Stock",NASDAQ
 GLUX,"Great Lakes Aviation, Ltd. Common Stock",U
 GLV,Clough Global Dividend and Income Fund,AMEX
 GLVHF,Glenveagh Properties Plc Common Stock (Germany Federal Republic),U
@@ -4933,6 +4937,7 @@ GMEI,"Gambit Energy, Inc. Common Stock",U
 GMELF,Gome Electrical Appliances Holding Ltd Ordinary Shares (Bermuda),U
 GMELY,GOME Retail Holdings Limited American Depositary Receipts - Unsponsored,U
 GMER,"Good Gaming, Inc. Common Stock",U
+GMETF,GAMEON ENTMT TECHNOLOGIES INC Common Shares,U
 GMEV,"GME Innotainment, Inc. Common Stock",U
 GMF,SPDR S&P Emerging Asia Pacific ETF,ARCA
 GMGI,"Golden Matrix Group, Inc. Common Stock",U
@@ -5042,7 +5047,7 @@ GNRC,GENERAC HOLDINGS INC,NYSE
 GNRD,"General DataComm Industries, Inc. New Common Stock",U
 GNRRF,Geneuro SA Ordinary Shares (Switzerland),U
 GNRS,GREENROSE ACQUISITION CORP Common Shares,U
-GNRSU,GREENROSE ACQUISITION CORP Unit,U
+GNRSU,GREENROSE ACQUISITION CORP Unit   08/11/2026,U
 GNRSW,GREENROSE ACQUISITION CORP Warrant,U
 GNRV,Grand River Commerce Inc. Common Stock,U
 GNSG,"GNS Group, Inc. Common",U
@@ -5305,6 +5310,7 @@ GRVWF,Greatview Aseptic Packaging Company Ltd. Ordinary Shares (Cayman Islands),
 GRVY,"GRAVITY Co., Ltd. American Depository Shares",NASDAQ
 GRWC,"Grow Capital, Inc. Common Stock",U
 GRWG,GrowGeneration Corp. Common Stock,NASDAQ
+GRWLF,GREAT WEST LIFECO INC 1ST PFD SER H 4.85% Preferred Stock,U
 GRWTF,Great West Lifeco Inc 1st Pfd Shs Ser I (Canada),U
 GRWWF,Great Wall Pan Asia Hldgs Ltd Ordinary Shares (Bermuda),U
 GRWXF,Draper Esprit PLC Ordinary Shares (United Kingdom),U
@@ -5536,5 +5542,3 @@ GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
