@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
@@ -949,7 +948,6 @@ SPRRY,SUPER RETAIL GROUP LTD  American Depositary Receipts - Unsponsored (Austra
 SPRS,"Surge Components, Inc. Common Stock",U
 SPRT,"Support.com, Inc. Common Stock",NASDAQ
 SPRV,"Supurva Healthcare Group, Inc. Common Stock",U
-SPRWF,The Supreme Cannabis Co Inc. Ordinary Shares,U
 SPRZ,"Spriza, Inc. Common Stock",U
 SPSAF,Sopra Sa Ordinary Shares (France),U
 SPSB,SPDR Portfolio Short Term Corporate Bond ETF,ARCA
@@ -2345,6 +2343,7 @@ TKKHF,Tikehau Capital Partners Ordinary Shares (France),U
 TKKYY,Turkiye Sise Ve Cam Fabikalari AS JSC American Depositary Receipts - Unsponsored (Turkey),U
 TKLS,"Trutankless, Inc. Common Stock",U
 TKMTF,TAKAMATSU MACHINERY CO LTD MATSUTOU Ordinary Shares,U
+TKNO,"Alpha Teknova, Inc. Common Stock",NASDAQ
 TKOBF,Tokyo Broadcasting System Ord Ordinary Shares (Japan),U
 TKOI,"Telkonet, Inc. Common Stock",U
 TKOLF,Teikoku Elec Mfg Co Ltd Ordinary Shares (Japan),U
@@ -2665,7 +2664,7 @@ TPPRF,Top Strike Res Corp Ordinary Shares (Canada),U
 TPPTY,TPG TELECOM LTD American Depositary Receipts - Unsponsored (Australia),U
 TPR,"Tapestry, Inc. Common Stock",NYSE
 TPRFF,Gran Colombia Gold Corp. Ordinary Shares,U
-TPRKD,Travis Perkins Plc Ord 10p American Depositary Receipts - Sponsored,U
+TPRKY,Travis Perkins Plc Ord 10p American Depositary Receipts - Sponsored,U
 TPRP,Tower Properties Company New Common Stock,U
 TPRXF,Gran Colombia Gold Corp Warrant 04/30/2024,U
 TPSC,Timothy Plan US Small Cap Core ETF,ARCA
@@ -3507,7 +3506,7 @@ UREQF,Devex Res Ltd Ordinary Shares,U
 URFFF,US Masters Residential Property Fund CNT Pref 6.25% Perp Semi Sub Cum Step Unit Exp 01/01/2023 (Australia),U
 URG,Ur-Energy Inc.,AMEX
 URGN,UroGen Pharma Ltd. Ordinary Shares,NASDAQ
-URGYF,"Academy Metals, Inc.  Common Shares",U
+URGYD,"Academy Metals, Inc.  Common Shares",U
 URHG,"United Resources Holdings Group, Inc. Common Stock",U
 URI,"United Rentals, Inc.",NYSE
 URLOF,NameSilo Technologies Corp Ordinary Shares,U
@@ -3988,7 +3987,9 @@ VKSC,Viskase Companies Inc Common Stock,U
 VKSKF,VITAL KSK HLDGS INC Common Shares,U
 VKTX,"Viking Therapeutics, Inc. Common Stock",NASDAQ
 VKVEF,Vaneck Vectors Wells Fargo Pfd A Usd Exchange Traded Fund (Bermuda),U
+VLAT,Valor Latitude Acquisition Corp. Class A Ordinary Shares,NASDAQ
 VLATU,Valor Latitude Acquisition Corp. Unit,NASDAQ
+VLATW,Valor Latitude Acquisition Corp. Warrant,NASDAQ
 VLBI,"Valentine Beauty, Inc. NEW Common Stock",U
 VLCJF,VELOCITY MINERALS LTD Common Shares,U
 VLCNF,VOLCAN COMPANIA MINERA SA VOLCAN LIMA PFD SHS -B  Preference Shares,U
@@ -4574,6 +4575,7 @@ WGNAP,WGNB Corp. 9% Series A Convertible Preferred Stock,U
 WGNHF,WAGNERS HLDG CO LTD Ordinary Shares,U
 WGNR,Wegener Corporation Common Stock,U
 WGO,"Winnebago Industries, Inc.",NYSE
+WGRO,WisdomTree Trust WisdomTree U.S. Growth & Momentum Fund,NASDAQ
 WGTG,Wings & Things Inc Common Stock,U
 WH,"Wyndham Hotels & Resorts, Inc. Common Stock",NYSE
 WHCA,"Williston Holding Company, Inc. Common Stock",U

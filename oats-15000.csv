@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
-MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
@@ -707,6 +705,7 @@ NLAB,Nuoncology Labs Inc Common Stock,U
 NLBS,"NutraLife Biosciences, Inc.  Common Stock",U
 NLFKF,Nilfisk Holdings A/S Ordinary Shares (Denmark),U
 NLGCF,Northern Lion Gold Corporation Common Shares,U
+NLITU,Northern Lights Acquisition Corp. Units,NASDAQ
 NLLGF,Nilorngruppen AB Ordinary Shares,U
 NLLRF,Nippon Pillar Packing Co Ltd Ordinary Shares (Japan),U
 NLLSF,Nel ASA Ordinary Shares (Norway),U
@@ -934,6 +933,7 @@ NPTN,NEOPHOTONICS CORP,NYSE
 NPTVF,Nippon T V Network Ordinary Shares,U
 NPTX,"Neuropathix, Inc. Common Stock",U
 NPV,Nuveen Virginia Quality Municipal Income Fund,NYSE
+NPVRF,Nippon Concrete Industries Co Ltd Ordinary Shares (Japan),U
 NQMIY,NQ Minerals PLC Sponsored ADR (United Kingdom),U
 NQMLF,NQ Minerals PLC Ordinary Shares (United Kingdom),U
 NQP,Nuveen Pennsylvania Quality Municipal Income Fund,NYSE
@@ -1143,7 +1143,7 @@ NTTYY,Nippon Telegraph and Telephone Corporation American Depositary Shares - Sp
 NTULF,Nihon Unisys Ltd Ordinary Shares (Japan),U
 NTUR,"Natural Blue Resources, Inc. Common Stock",U
 NTUS,Natus Medical Incorporated Common Stock,NASDAQ
-NTVMF,NORTHERN VERTEX MNG CORP Warrant   01/04/2023,U
+NTVMF,NORTHERN VERTEX MNG CORP Warrant   01/14/2023,U
 NTWB,Northwest Bk & Tr Co Davenport New Common Stock,U
 NTWK,NetSol Technologies Inc. Common  Stock,NASDAQ
 NTWN,"Newtown Lane Marketing, Incorporated Common Stock",U
@@ -5108,6 +5108,7 @@ SCLEU,Broadscale Acquisition Corp. Units,NASDAQ
 SCLEW,Broadscale Acquisition Corp. Warrant,NASDAQ
 SCLZF,Scales Corp TLD Ordinary Shares (New Zealand),U
 SCM,STELLUS CAPITAL INVESTMENT CORPORATION,NYSE
+SCMCV,Sachem Capital Corp Redeemable Series A Preferred Stock,U
 SCMWY,Swisscom AG Common Stock,U
 SCNA,Smart Cannabis Corp. Common Stock,U
 SCND,"Scientific Industries, Inc. Common Stock",U
@@ -5542,3 +5543,4 @@ SHEZF,Shenzhen Hepalink Pharmaceutical Group Co Ltd. Registered Shares (China),U
 SHG,Shinhan Financial Group Co Ltd,NYSE
 SHGDF,Star Diamond Corporation Ordinary Shares,U
 SHGKY,Sun Hung Kai & Co Ltd ADR,U
+SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U

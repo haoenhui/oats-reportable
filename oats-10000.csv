@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
-GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
@@ -397,7 +394,7 @@ HHULF,"Hamburger Hafen Und Logistik Ag, Hamburg Namens - AKT (Germany)",U
 HHULY,"Hamburger Hafen Und Logistik Ag, Hamburg Unsponsored ADR (Germany)",U
 HHUSF,HUA HONG SEMICONDUCTOR LTD Common Stock  Hong Kong(HK ),U
 HI,"Hillenbrand, Inc.",NYSE
-HIBB,"Hibbett Sports, Inc. Common Stock",NASDAQ
+HIBB,"Hibbett, Inc. Common Stock",NASDAQ
 HIBL,Direxion Daily S&P 500 High Beta Bull 3X Shares,ARCA
 HIBRF,Hibernia REIT PLC Ordinary Shares Euro .10 (Ireland),U
 HIBS,Direxion Daily S&P 500 High Beta Bear 3X Shares,ARCA
@@ -1127,6 +1124,7 @@ IBDSF,Iberdrola SA Bilbao Ordinary Shares,U
 IBDT,iShares iBonds Dec 2028 Term Corporate ETF,ARCA
 IBDU,iShares iBonds Dec 2029 Term Corporate ETF,ARCA
 IBDV,iShares iBonds Dec 2030 Term Corporate ETF,ARCA
+IBDW,iShares iBonds Dec 2031 Term Corporate ETF,ARCA
 IBER,Ibere Pharmaceuticals,NYSE
 IBER U,"Ibere Pharmaceuticals Units, each consisting of one Class A ordinary share and one-half of one Redee",NYSE
 IBER WS,"Ibere Pharmaceuticals Redeemable Warrants, each whole warrant exercisable for one Class A ordinary s",NYSE
@@ -1656,7 +1654,6 @@ IMSNF,Imasen Electric Ind Co Ltd Ordinary Shares (Japan),U
 IMSXF,iShares V PLC MSCI World Industrials USD ETF (Ireland),U
 IMTB,iShares Core 5-10 Year USD Bond ETF,ARCA
 IMTE,Integrated Media Technology Limited Ordinary Shares,NASDAQ
-IMTFF,MARVEL DISCOVERY CORP Ordinary Shares,U
 IMTH,"Innovative MedTech, Inc. Common Stock",U
 IMTL,"Image Protect, Inc Common Stock",U
 IMTM,iShares MSCI Intl Momentum Factor ETF,ARCA
@@ -3137,6 +3134,7 @@ KMAG,"KMA Global Solutions International, Inc. Common Stock",U
 KMB,Kimberly-Clark Corp.,NYSE
 KMBIF,Kambi Group LTD Ordinary Shares B 0.003 (Malta),U
 KMDA,Kamada Ltd. Ordinary Shares,NASDAQ
+KMDRF,Kermode Resources Ltd Common Shares (Canada),U
 KMED,KraneShares Emerging Markets Healthcare Index ETF,ARCA
 KMERF,Komercni Banka As Ord Czk500 Komercni Banka AS (Czech Republic),U
 KMF,"Kayne Anderson NextGen Energy & Infrastructure, Inc.",NYSE
@@ -3396,7 +3394,6 @@ KTOS,"Kratos Defense & Security Solutions, Inc. Common Stock",NASDAQ
 KTPPF,Katipult Technology Corp Ordinary Shares (Canada),U
 KTRA,"Kintara Therapeutics, Inc. Common Stock",NASDAQ
 KTRPF,Kito Corp Ordinary shares (Japan),U
-KTWEF,Kintetsu World Express Inc Tokyo Ordinary Shares (Japan),U
 KTWIF,Kurita Water Inds Ltd Ordinary Shares,U
 KTWIY,Kurita Wtr Inds Ltd Unsponsored ADR (Japan),U
 KTYCF,KITS EYECARE LTD Common Stock,U
@@ -3762,6 +3759,7 @@ LGNYZ,Ligand Pharmaceuticals Incorporated General Contingent Value Right,U
 LGNZZ,Ligand Pharmaceuticals Incorporated Tr Beta Continngent Value Right,U
 LGO,Largo Resources Ltd. Common Shares,NASDAQ
 LGOV,First Trust Long Duration Opportunities ETF,ARCA
+LGPPF,Little Green Pharma Ltd Ordinary Shares (Australia),U
 LGRDY,LEGRAND SA Unsponsored ADR (France),U
 LGRTY,Lai Sun Garment Intl Ltd American Depositary Receipts - Sponsored (Hong Kong),U
 LGRVF,Legrand Sa Ord Shs Prov Opo (France),U
@@ -4388,6 +4386,7 @@ MARK,"Remark Holdings, Inc. Common Stock",NASDAQ
 MARPS,Marine Petroleum Trust Units of Beneficial Interest,NASDAQ
 MARUF,Marubeni Corp Ord Ordinary Shares,U
 MARUY,Marubeni Corp Ord American Depositary Shares,U
+MARVF,MARVEL DISCOVERY CORP Ordinary Shares,U
 MARXF,ELEVATE URANIUM LTD Ordinary Shares,U
 MARZ,TrueShares Structured Outcome (March) ETF,BATS
 MARZF,Marston's PLC Ordinary Shares (United Kingdom),U
@@ -4571,6 +4570,7 @@ MCURF,Mind Cure Health Inc Common Stock (Canada),U
 MCVEF,Medicover AB Shares AK B (Sweden),U
 MCVEY,Medicover AB Unsponsored ADR,U
 MCVT,"Mill City Ventures III, Ltd. Common Stock",U
+MCW,"Mister Car Wash, Inc.",NYSE
 MCY,Mercury General Corp.,NYSE
 MCZAF,Mad Catz Interactive Inc Common Shares,U
 MD,"Mednax, Inc (Holding Company)",NYSE
@@ -4739,6 +4739,7 @@ MEUSW,23andMe Holding Co. Warrant,NASDAQ
 MEXGF,MEXICAN GOLD MNG CORP Common Shares,U
 MEXX,Direxion Daily MSCI Mexico Bull 3X Shares,ARCA
 MEYYY,Medco Energi Internasional TBK PT Unsponsored ADR (Indonesia),U
+MF,Missfresh Limited American Depositary Shares,NASDAQ
 MFA,"MFA Financial, Inc",NYSE
 MFA PRB,"MFA Financial, Inc. 7.50% Series B Cumulative Redeemable Preferred Stock",NYSE
 MFA PRC,"MFA Financial, Inc. 6.50% Series C Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NYSE
@@ -5542,3 +5543,5 @@ MTALF,METALLICA METALS CORP Ordinary Shares,U
 MTB,M&T Bank Corp.,NYSE
 MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
+MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
+MTC,"MMTec, Inc. Common Shares",NASDAQ

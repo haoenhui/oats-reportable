@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
-CPF,Central Pacific Financial Corporation,NYSE
-CPFH,"Capital Financial Holdings, Inc. Common Stock",U
-CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
-CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
@@ -131,6 +126,7 @@ CREG,China Recycling Energy Corporation Common Stock,NASDAQ
 CREQF,China Rare Earth Holdings Ltd Ordinary Shares,U
 CRERF,Carrefour S A (F) Ordinary Shares,U
 CRESF,Cresud SA Comercial Industrial Financiera Ordinary Shares (Argentina),U
+CRESW,Cresud S.A.C.I.F. y A. Warrant,NASDAQ
 CRESY,Cresud S.A.C.I.F. y A. American Depositary Shares,NASDAQ
 CREVF,Carbon Revolution Ltd Ordinary Shares (Australia),U
 CREX,"Creative Realities, Inc. Common Stock",NASDAQ
@@ -534,7 +530,6 @@ CURHF,CURVES HLDGS CO LTD Common Stock,U
 CURI,CuriosityStream Inc. Class A Common Stock,NASDAQ
 CURIW,CuriosityStream Inc. Warrant,NASDAQ
 CURLF,Curaleaf Hldgs Inc Common Shares,U
-CURM,"CUR Media, Inc. Common Stock",U
 CURN,Currency Exchange International Corporation Common Stock,U
 CURO,CURO Group Holdings Corp.,NYSE
 CURR,CURE Pharmaceutical Holding Corp. Common Stock,U
@@ -716,7 +711,6 @@ CYNXF,CYON EXPL LTD Common Shares,U
 CYPE,Century Petroleum Corp. Common Stock,U
 CYPJ,Cyber Operations Inc Common Stock,U
 CYPS,Cyclo3pss Corporation Common Stock,U
-CYPW,"Cyclone Power Technologies, Inc. Common Stock",U
 CYPXF,"EQ, Inc.  Ordinary Shares (Canada)",U
 CYRBY,Cyrela Brazil Realty SA Sponsored ADR representing Ordinary Shares (Brazil),U
 CYRD,"Cyberecord, Inc. Common Stock",U
@@ -1183,7 +1177,9 @@ DJXMF,Dow Jones Stoxx Ish S Euro Mid 200 U Etf Exchange Traded Fund (Germany Fed
 DJXXF,ISHARES STOXX EUROPE 600 UCITS ETF  Ordinary Shares,U
 DK,"Delek US Holdings, Inc.",NYSE
 DKAM,"Drinks Americas Holdings, Ltd.  Common Stock",U
+DKDCA,Data Knights Acquisition Corp. Class A Common Stock,NASDAQ
 DKDCU,Data Knights Acquisition Corp. Unit,NASDAQ
+DKDCW,Data Knights Acquisition Corp. Warrant,NASDAQ
 DKDRF,Delek Drilling Ordinary Shares (Israel),U
 DKGH,DKG Capital Inc. Common Stock,U
 DKGR,Universal Apparel & Textile Company Common Stock,U
@@ -1583,6 +1579,7 @@ DTNOY,DNO ASA Unsponsored ADR (Norway),U
 DTOC,Digital Transformation Opportunities Corp. Class A Common Stock,NASDAQ
 DTOCU,Digital Transformation Opportunities Corp. Units,NASDAQ
 DTOCW,Digital Transformation Opportunities Corp. Warrant,NASDAQ
+DTOX,Amplify Cleaner Living ETF,ARCA
 DTP,DTE Energy Company 2019 Corporate Units,NYSE
 DTPKF,DIRECTA PLUS PLC Common Stock (United Kingdom),U
 DTRC,Dakota Territory Resource Corp Common Stock,U
@@ -2142,6 +2139,7 @@ ELED,"ExeLED Holdings, Inc. Common Stock",U
 ELEEF,Element Fleet Mgmt Corp Common Shares,U
 ELEK,"Elektros, Inc. Common Stock",U
 ELEMF,Elemental Royalties Corp. Ordinary Shares (Canada),U
+ELEV,"Elevation Oncology, Inc. Common stock",NASDAQ
 ELEZF,Endesa S.A. Ordinary Shares,U
 ELEZY,Endesa S.A. Unsponsored American Depository Receipt (Spain),U
 ELF,"e.l.f. Beauty, Inc.",NYSE
@@ -2803,7 +2801,7 @@ EVLLF,Enviroleach Tech Inc Ordinary Shares (Canada),U
 EVLMC,Eaton Vance NextShares Trust II Eaton Vance TABS 5-to-15 Year Laddered Municipal Bond NextShares,NASDAQ
 EVLO,"Evelo Biosciences, Inc. Common Stock",NASDAQ
 EVM,Eaton Vance California Municipal Bond Fund,AMEX
-EVMGF,EVERYSPORT MEDIA GROUP AB SHARE AK A Ordinary Shares,U
+EVMGF,EVERYSPORT MEDIA GROUP AB Ordinary Shares,U
 EVMNY,Evolution Mng Ltd American Depositary Receipts - Unsponsored (Australia),U
 EVN,Eaton Vance Municipal Income Trust,NYSE
 EVNNF,Eviana Health Corp Ordinary Shares (Canada),U
@@ -3772,7 +3770,7 @@ FOCT,FT Cboe Vest U.S. Equity Buffer ETF - October,BATS
 FOE,Ferro Corporation,NYSE
 FOEAF,Dolphin Drilling ASA Ordinary Shares,U
 FOF,Cohen & Steers Closed End Opportunity Fund,NYSE
-FOGCD,Avisa Diagnostics Inc. Common Shares,U
+FOGCF,Avisa Diagnostics Inc. Common Shares,U
 FOJCF,Fortum Corporation (Finland) Ordinary Shares,U
 FOJCY,Fortum OYJ Unsponsored ADR (Finland),U
 FOLD,"Amicus Therapeutics, Inc. Common Stock",NASDAQ
@@ -4403,6 +4401,7 @@ GBLO,Global Beta Low Beta ETF,ARCA
 GBLP,"Global Pharmatech, Inc. Common Stock",U
 GBLTF,GBLT Corporation Common Shares,U
 GBLX,"GB Sciences, Inc. Common Stock",U
+GBLYF,Globally Local Technologies Inc Common Stock (Canada),U
 GBMIF,Green Battery Minerals Inc Ordinary Shares,U
 GBMRF,"GBM RESOURCES LTD, NEDLANDS WA Ordinary Shares",U
 GBMS,"Global Materials & Services, Inc. Common Stock",U
@@ -4549,6 +4548,7 @@ GECC,Great Elm Capital Corp. Common Stock,NASDAQ
 GECCL,Great Elm Capital Corp. 6.50% Notes due 2022,NASDAQ
 GECCM,Great Elm Capital Corp. 6.75% Notes Due 2025,NASDAQ
 GECCN,Great Elm Capital Corp. 6.5% Notes due 2024,NASDAQ
+GECCO,Great Elm Capital Corp. 5.875% Notes due 2026,NASDAQ
 GECFF,Gecina Act Nom (France),U
 GEDSF,Gedeon Richter Ltd Gic American Depositary Shares,U
 GEDUF,G8 Education LTD Common Shares,U
@@ -4631,8 +4631,6 @@ GFLDU,Gefen Landa Acquisition Corp. Units,NASDAQ
 GFLU,GFL Environmental Inc. Tangible Equity Units,NYSE
 GFMH,Goliath Film & Media Holdings Common Stock,U
 GFMRF,GFM RES LTD Ordinary Shares,U
-GFNCP,General Finance Corporation Cumulative Redeemable Perpetual Preferred Series C,NASDAQ
-GFNSZ,General Finance Corporation 7.875% Senior Notes due 2025,NASDAQ
 GFOO,Genufood Energy Enzymes Corporation Common Stock,U
 GFOR U,"Graf Acquisition Corp. IV Units, each consisting of one share of common stock, and one-fifth of one",NYSE
 GFPTF,Gfpt Public Co Ltd (F) Units Non-Voting Depository Receipt (Thailand),U
@@ -4979,6 +4977,7 @@ GMTNF,GOLD MTN MNG CORP COM (Canada),U
 GMTU,"Green Mountain Merger, Inc. Common Stock",U
 GMTX,"Gemini Therapeutics, Inc. Common Stock",NASDAQ
 GMUAF,Gamuda Bhd Ordinary Shares (Malaysia),U
+GMVDW,G Medical Innovations Holdings Ltd. Warrants,NASDAQ
 GMVHF,ENTAIN PLC Ordinary Shares,U
 GMVHY,ENTAIN PLC American Depositary Receipts - Unsponsored,U
 GMVMF,"GMV Minerals, Inc. Ordinary Shares (Canada)",U
@@ -5269,6 +5268,7 @@ GRPAQ,Grupo Aeromexico SAB DE CV Ordinary Shares (Mexico),U
 GRPBF,Grupo Lala SAB de CV Ordinary Shares (Mexico),U
 GRPEF,Graphene Nanochem Plc Shs (United Kingdom),U
 GRPFF,Grupo Televisa Cv Adr Ordinary Shares,U
+GRPH,"Graphite Bio, Inc. Common Stock",NASDAQ
 GRPI,"GRUPO International, Inc. Common Stock",U
 GRPN,"Groupon, Inc. Common Stock",NASDAQ
 GRPOF,GRUPO TRAXION S A B DE C V SHARES OF FINANCIAL GROUPS AND INDUSTRIAL RETAIL (Mexico),U
@@ -5345,7 +5345,7 @@ GSBD,"Goldman Sachs BDC, Inc.",NYSE
 GSBX,Golden State Bancorp Common Stock,U
 GSBYP,Gatsby Digital Inc. Series Seed Preferred PS-3,U
 GSCCF,Ioneer Ltd Ordinary Shares,U
-GSCCV,GLADSTONE COML CORP PFD SER G Preferred Stock,U
+GSCCP,GLADSTONE COML CORP PFD SER G Preferred Stock,U
 GSCE,GOLDMAN SACHS GROUP INC Other   05/08/2037,U
 GSDC,Goldsands Development Company Common Stock,U
 GSDT,GSDT Fintech Group Inc. Common Stock,U
@@ -5542,3 +5542,6 @@ GWB,"Great Western Bancorp, Inc.",NYSE
 GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
+GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
+GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
