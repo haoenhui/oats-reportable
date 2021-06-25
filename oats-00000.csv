@@ -15,9 +15,6 @@ AACAF,AAC Technologies Holdings Inc Ordinary Shares (Cayman Islands),U
 AACAY,AAC Technologies Holdings Inc Unsponsored ADR (Cayman Islands),U
 AACG,ATA Creativity Global American Depositary Shares,NASDAQ
 AACOU,Advancit Acquisition Corp. I Units,NASDAQ
-AACQ,Artius Acquisition Inc. Class A Common Stock,NASDAQ
-AACQU,Artius Acquisition Inc. Unit,NASDAQ
-AACQW,Artius Acquisition Inc Warrant,NASDAQ
 AACS,"American Commerce Solutions, Inc. Common Stock",U
 AACTF,AURORA SOLAR TECHNOLOGIES INC  Common Shares,U
 AADR,AdvisorShares Dorsey Wright ADR ETF,NASDAQ
@@ -597,7 +594,7 @@ AFTPF,Afterpay Ltd Ordinary Shares,U
 AFTPY,AFTERPAY LTD ADR (Australia),U
 AFTTF,Afritin Mng Ltd Ordinary Shares (Guernsey),U
 AFTY,Pacer CSOP FTSE China A50 ETF,ARCA
-AFXXF,AF AB,U
+AFXXF,AFRY AB Ordinary Shares,U
 AFYA,Afya Limited Class A Common Shares,NASDAQ
 AFYG,Affinity Gold Corp. Common Stocks,U
 AG,FIRST MAJESTIC SILVER CORP,NYSE
@@ -1377,7 +1374,7 @@ AOA,iShares Core Aggressive Allocation ETF,ARCA
 AOBI,"American Oriental Bioengineering, Inc. Common Stock",U
 AOCIF,Autocanada Inc Common Shares (Canada),U
 AOD,Aberdeen Total Dynamic Dividend Fund,NYSE
-AOECF,Amino Technologies Plc Cambridge Common Stock (United Kingdom),U
+AOECF,AFERIAN PLC Common Stock,U
 AOFEF,APOLLO CONS LTD Ordinary Shares (Australia),U
 AOGC,Australian Oil & Gas Corporation Common Stock,U
 AOHLF,Autohellas SA Ordinary Shares (Greece),U
@@ -1893,6 +1890,7 @@ ATAQ WS,"Altimar Acquisition Corp. III Warrants, each whole warrant exercisable 
 ATAR,Avatar Ventures Corp. Common Stock,U
 ATASF,Atlantia SPA Ordinary shares (Italy),U
 ATASY,Atlantia SPA Unsponsored ADR (Italy),U
+ATAT,Atour Lifestyle Holdings Limited American Depositary Shares,NASDAQ
 ATAX,"America First Multifamily Investors, L.P. Beneficial Unit Certificates (BUCs) representing Limited Partnership Interests",NASDAQ
 ATAZF,Atea ASA Ordinary Shares (Norway),U
 ATBHF,Aston Bay Holdings Ltd. Ordinary Shares (Canada),U
@@ -3522,6 +3520,7 @@ BRSF,"Brain Scientific, Inc. Common Stock",U
 BRSGF,Queens Rd Cap Invt Ltd Ordinary Shares,U
 BRSI,"Ballistic Recovery Systems, Inc. Common Stock",U
 BRSLF,Barsele Minerals Corp Ordinary Shares (Canada),U
+BRSP,"BrightSpire Capital, Inc.",NYSE
 BRST,"Broad Street Realty, Inc. Common Stock",U
 BRSYF,Brainsway Ltd Ordinary shares (Israel),U
 BRT,BRT Apartments Corp,NYSE
@@ -5001,7 +5000,6 @@ CLMHF,Calgro M3 Holdings Ltd Ordinary Shares (South Africa),U
 CLMOF,Cliemon AB Shares AK B,U
 CLMPF,Canadian Prem Sand Inc Common Shares,U
 CLMT,"Calumet Specialty Products Partners, L.P. Common Units",NASDAQ
-CLNC,"Colony Credit Real Estate, Inc.",NYSE
 CLNE,Clean Energy Fuels Corp. Common Stock,NASDAQ
 CLNFF,Calian Group Ltd Ordinary Shares,U
 CLNH,"Clinigence Holdings, Inc. Common Stock",U
@@ -5187,6 +5185,7 @@ CMS PRB,Consumers Energy Company $4.50 Cumulative Preferred,NYSE
 CMSA,CMS Energy Corporation 5.625% Junior Subordinated Notes due 2078,NYSE
 CMSC,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2078,NYSE
 CMSD,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2079,NYSE
+CMSEV,CMS Energy Corp DEPOSITARY SHS REPSTG 1/1000 INT SH CUMULATIVE REDEEMABLE PERP PFD STK SER C,U
 CMSQF,Computershare Ltd Aud 0.20 Ordinary Shares,U
 CMSQY,Computershare Ltd Sponsored ADR,U
 CMSYF,Comsys Holdings Corp Tokyo Ordinary Shares (Japan),U
@@ -5545,3 +5544,4 @@ CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
+CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U

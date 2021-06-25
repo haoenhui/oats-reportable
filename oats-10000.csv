@@ -1,13 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
-GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
-GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
-GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
-GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
-GWON,Grandwon Corp. Common Stock,U
-GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
-GWPC,"Wholehealth Products, Inc. Common Stock",U
-GWPD,"GP Solutions, Inc. Common Stock",U
 GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
 GWRRF,Engold Mines Ltd Ordinary Shares,U
 GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
@@ -171,7 +162,7 @@ HBOSF,EastWest Bioscience Inc Common Shares,U
 HBP,"Huttig Building Products, Inc. Common Stock",NASDAQ
 HBPCF,Helix Biopharma Cp Ordinary Shares (Canada),U
 HBPE,HBP Energy Corp. Common Stock,U
-HBRIY,Harbour Energy Plc American Depositary Receipts - Sponsored,U
+HBRID,Harbour Energy Plc American Depositary Receipts - Sponsored,U
 HBRM,Herborium Group Inc Common Stock,U
 HBSI,Highlands Bankshares Inc (WV) Common Stock,U
 HBT,"HBT Financial, Inc. Common Stock",NASDAQ
@@ -1769,6 +1760,7 @@ INOV,"Inovalon Holdings, Inc. Class A Common Stock",NASDAQ
 INOW,InfoNow Corporation Common Stock,U
 INPAP,International Paper Company $4.00 Preferred Stock,U
 INPCF,Input Capital Corp Com (Canada),U
+INPOF,Inpost SA Ordinary Shares (Luxembourg),U
 INPOY,InPost S A American Depositary Receipts - Unsponsored (Luxembourg),U
 INPRF,"Inspur International Ltd, SHS NEW (Cayman Islands)",U
 INPX,Inpixon Common Stock,NASDAQ
@@ -2147,9 +2139,11 @@ ISVLF,Impact Silver Corp Ordinary Shares (Canada),U
 ISVPF,IShares VII PLC Accum Ptg Shs Exchange Traded Fund USD (Ireland),U
 ISVQF,Ishares IV Plc Short Duration Corp Bond UCITS USD Acc Exchange Traded Fund (Ireland),U
 ISVSF,ISHARES V PLC S&P 500 GBP-H Exchange Traded Fund,U
+ISVTF,ISHARES IV PLC MSCI USA ESG ENHANCED UCITS ETF USD ACC (Ireland),U
 ISVUF,ISHARES EDGE MSCI USA VALUE FACTOR UCITS Exchange Traded Fund  Ireland(IE ),U
 ISVVF,IShares V PLC MSCI ACWI UCITS ETF (Ireland),U
 ISVXF,ISHARES IV PLC CHINA CNY BOND UCITS ETF USD ACC (Ireland),U
+ISVYF,IShares VII PLC CORE MSCI EMU UCITS ETF USD HEDGED ACC (Ireland),U
 ISWH,"ISW Holdings, Inc.  Common Stock",U
 ISWN,Amplify BlackSwan ISWN ETF,ARCA
 ISXAF,IShares ETF (Switzerland),U
@@ -2210,7 +2204,7 @@ ITMSF,Intermap Technologies Corporation Cl A Ordinary Shares,U
 ITMTF,Intertainment Media Inc Common Shares,U
 ITMZF,INTEMA SOLUTIONS INC Ordinary Shares,U
 ITNF,"Internet Infinity, Inc. Common Stock",U
-ITNM,"International Monetary Systems, Ltd. Common Stock",U
+ITNMD,"International Monetary Systems, Ltd. Common Stock",U
 ITNRF,LB Shell PLC Ordinary Shares,U
 ITNS,Itonis Inc. Common Stock,U
 ITOCF,Itochu Corp Ordinary Shares,U
@@ -3462,7 +3456,6 @@ KYN,"Kayne Anderson Energy Infrastructure Fund, Inc.",NYSE
 KYNC,"KYN Capital Group, Inc. Common Stock",U
 KYOCF,Kyocera Corp Ordinary Shares,U
 KYOCY,Kyocera Corp American Depositary Receipts - Sponsored (Japan),U
-KYOEF,"Kyosan Electric Manufacturing Co Ltd, SHS (Japan)",U
 KYORF,Kyoritsu Air Tech Inc,U
 KYSEF,Kyushu Electric Power Co Inc Ordinary Shares (Japan),U
 KYSEY,Kyushu Electric Power Unsponsored ADR (Japan),U
@@ -4067,6 +4060,7 @@ LRENY,Lojas Renner S.A. Sponsored ADR (Brazil),U
 LRGE,Legg Mason ETF Investment Trust ClearBridge Large Cap Growth ESG ETF,NASDAQ
 LRGF,iShares MSCI USA Multifactor ETF,ARCA
 LRGR,"Luminar Media Group, Inc. Common Stock",U
+LRKKF,Lark Distilling Co Ltd. Ordinary Shares (Australia),U
 LRLCF,L'Oreal Co. ACT (France),U
 LRLCY,L'Oreal Co. American Depositary Shares,U
 LRMR,"Larimar Therapeutics, Inc. Common Stock",NASDAQ
@@ -5545,3 +5539,8 @@ MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
+MTCH,"Match Group, Inc. Common Stock",NASDAQ
+MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
+MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
+MTCR,"Metacrine, Inc. Common Stock",NASDAQ
+MTD,Mettler-Toledo International,NYSE

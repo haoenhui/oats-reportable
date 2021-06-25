@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTCH,"Match Group, Inc. Common Stock",NASDAQ
-MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
-MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
-MTCR,"Metacrine, Inc. Common Stock",NASDAQ
-MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
@@ -1252,7 +1247,6 @@ NVVE,Nuvve Holding Corp. Common Stock,NASDAQ
 NVVEW,Nuvve Holding Corp. Warrant,NASDAQ
 NVYAF,Navya Ordinary Shares  France (FR),U
 NVYTF,Novacyt Shs Nom Non Liberee (France),U
-NVYYF,EMINENT GOLD CORP Common Shares,U
 NVZMF,Novozymes A/S Ordinary Shares,U
 NVZMY,Novozymes A/S Unsponsored American Depositary Receipt,U
 NWARF,Norwegian Air Shuttle Asa Ordinary Shares,U
@@ -1789,6 +1783,8 @@ ORESF,Orestone Mining Corporation Common Shares (Canada),U
 ORFDF,OREFINDERS RES INC NEW CDA Ordinary Shares,U
 ORGH,"OrgHarvest, Inc. Common Stock",U
 ORGJF,Organo Corp SHS (Japan),U
+ORGN,"Origin Materials, Inc. Common Stock",NASDAQ
+ORGNW,"Origin Materials, Inc. Warrants",NASDAQ
 ORGO,Organogenesis Holdings Inc. Class A Common Stock,NASDAQ
 ORGS,Orgenesis Inc. Common Stock,NASDAQ
 ORHB,"ORHUB, Inc. Common Stock",U
@@ -1936,7 +1932,6 @@ OUSA,OShares U.S. Quality Dividend ETF,BATS
 OUSM,OShares U.S. Small-Cap Quality Dividend ETF,BATS
 OUST,"Ouster, Inc.",NYSE
 OUST WS,"Ouster, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise p",NYSE
-OUSZF,Outsourcing Inc Shizuoka Ordinary Shares (Japan),U
 OUT,OUTFRONT Media Inc.,NYSE
 OUTB,Outback Oil&Min Expl Corp Unclassified,U
 OUTFF,Outokumpo Oy Ordinary Shares,U
@@ -2808,7 +2803,7 @@ PMMEF,Premium Expl Inc Common Shares (Canada),U
 PMMTF,Precious Metals & Mng TR TR Unit (Canada),U
 PMNXF,Perseus Mining Ltd Ordinary Shares (Austrailia),U
 PMO,Putnam Municipal Opportunities Trust,NYSE
-PMOIF,HARBOUR ENERGY PLC Ordinary Shares,U
+PMOID,HARBOUR ENERGY PLC Ordinary Shares,U
 PMOZ,"PrismOne Group, Inc. Common Stock",U
 PMPG,"Premier Products Group, Inc. Common Stock",U
 PMRTY,Pop Mart International Group Limited American Depositary Receipts - Unsponsored (Cayman Islands),U
@@ -3354,6 +3349,7 @@ PTEFF,Pioneering Technology Corp Ordinary Shares (Canada),U
 PTEL,"Pegasus Tel, Inc. Common Stock",U
 PTEN,"Patterson-UTI Energy, Inc. Common Stock",NASDAQ
 PTEO,"Proteo, Inc. Common Stock",U
+PTEPF,PT Ensevel Putera Megatrading Tbk Ordinary Shares (Indonesia),U
 PTEU,Pacer TrendpilotTM European Index ETF,BATS
 PTEXF,Pacific Textiles Holdings Ltd Ordinary Shares (Cayman Islands),U
 PTF,Invesco Exchange-Traded Fund Trust Invesco DWA Technology Momentum ETF,NASDAQ
@@ -3545,6 +3541,8 @@ PWLK,Powerlock International Corporation Common Stock,U
 PWLNF,Powerlong Real Estate Holdings Ltd. Common Shares (Cayman Islands),U
 PWNX,Powerlinx Inc. Common Stock,U
 PWOD,"Penns Woods Bancorp, Inc. Common Stock",NASDAQ
+PWP,Perella Weinberg Partners Class A Common Stock,NASDAQ
+PWPPW,Perella Weinberg Partners Warrant,NASDAQ
 PWQQF,Invesco Markets III PLC Exchange Traded Fund,U
 PWR,"Quanta Services, Inc.",NYSE
 PWRMF,Power Metals Corp Common Shares,U
@@ -4060,7 +4058,6 @@ REBOF,REBOSIS PROPERTY FUND LTD SHS CLASS -A- ZAR (South Africa),U
 REC,Emles Real Estate Credit ETF,BATS
 RECAF,Reconnaissance Energy Africa Ltd Common Shares,U
 RECEF,RECCE PHARMACEUTICALS Ordinary Fully Paid (Australia),U
-RECLF,"REPROCELL INC, COM STK (Japan)",U
 RECOF,Reconstruction Capital II Limited Ordinary Shares (Cayman Islands),U
 RECS,Columbia Research Enhanced Core ETF,ARCA
 REDFY,Rediff.com India Limited American Depositary Shares - Sponsored,U
@@ -4784,6 +4781,7 @@ RXXRF,Rox Resources Ltd Ordinary Shares (Australia),U
 RY,Royal Bank of Canada,NYSE
 RY PRT,"Royal Bank of Canada Depositary Shares, each representing a 1/40th interest in a share of 6.750% Fix",NYSE
 RYAAY,Ryanair Holdings plc American Depositary Shares,NASDAQ
+RYAHF,Ryah Group Inc Class A Sub Vtg Shares (Canada),U
 RYAM,Rayonier Advanced Materials Inc.,NYSE
 RYAOF,Ryanair Holdings plc Ordinary Shares,U
 RYB,"RYB Education, Inc. American depositary shares, each representing one Class A ordinary share",NYSE
@@ -5108,7 +5106,7 @@ SCLEU,Broadscale Acquisition Corp. Units,NASDAQ
 SCLEW,Broadscale Acquisition Corp. Warrant,NASDAQ
 SCLZF,Scales Corp TLD Ordinary Shares (New Zealand),U
 SCM,STELLUS CAPITAL INVESTMENT CORPORATION,NYSE
-SCMCV,Sachem Capital Corp Redeemable Series A Preferred Stock,U
+SCMCP,Sachem Capital Corp Redeemable Series A Preferred Stock,U
 SCMWY,Swisscom AG Common Stock,U
 SCNA,Smart Cannabis Corp. Common Stock,U
 SCND,"Scientific Industries, Inc. Common Stock",U
@@ -5544,3 +5542,5 @@ SHG,Shinhan Financial Group Co Ltd,NYSE
 SHGDF,Star Diamond Corporation Ordinary Shares,U
 SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
+SHGR,Success Holding Group Corp. USA Common Stock,U
+SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U

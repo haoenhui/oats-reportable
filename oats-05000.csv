@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
 CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
@@ -1733,7 +1732,6 @@ DZZ,"DB Gold Double Short ETN due February 15, 2038",ARCA
 E,ENI S.p.A.,NYSE
 EA,Electronic Arts Inc. Common Stock,NASDAQ
 EAATF,Earthworks Industries Inc Ordinary Shares,U
-EABPF,Energy Absolute Pub Co Ltd. Units Non-Voting Depositary Receipt (Thailand),U
 EAC,Edify Acquisition Corp. Class A Common Stock,NASDAQ
 EACC,"eAutoclaims, Inc. Common Stock",U
 EACO,EACO Corporation Common Stock,U
@@ -1989,7 +1987,6 @@ EFL,Eaton Vance Floating-Rate 2022 Target Term Trust Common Shares of Beneficial
 EFLI,Cell Tech International Inc Common Stock,U
 EFLN,eFUEL EFN Corp Common Stock,U
 EFLS,"Exercise For Life Systems, Inc. Common Stock",U
-EFLT,eFleets Corporation Common Stock,U
 EFLVF,"Electrovaya, Inc. Ordinary Shares (Canada)",U
 EFMSF,WISDOMTREE METAL SECS LTD Other,U
 EFNCF,Legal & Gen UCITS ETF PLC Ordinary Shares,U
@@ -2045,7 +2042,6 @@ EGPT,VanEck Vectors Egypt Index ETF,ARCA
 EGRAF,Energy Resources of Australia Ltd A Shares,U
 EGRAY,Energy Resources Of Austr Ltd Unsponsored ADR RPSTG A Shares (Australia),U
 EGRGF,Eagle Energy Inc Ordinary Shares (Canada),U
-EGRN,"Evergreen-Agra Global Investments, Inc. Common Stock",U
 EGRNF,China Evergrande Group Ordinary Shares,U
 EGRNY,China Evergrande Group American Depositary Receipts - Unsponsored,U
 EGRX,"Eagle Pharmaceuticals, Inc. Common Stock",NASDAQ
@@ -2226,6 +2222,7 @@ EMEXF,Emerald Plantation Holdings Ltd Ordinary Shares (Cayman Islands),U
 EMF,Templeton Emerging Markets Fund,NYSE
 EMFGF,Fluence Corp Ltd. Ordinary Shares,U
 EMFM,Global X MSCI Next Emerging & Frontier ETF,ARCA
+EMGDF,EMINENT GOLD CORP Common Shares,U
 EMGE,Emergent Health Corp. Common Stock,U
 EMGF,iShares MSCI Emerging Markets Multifactor ETF,BATS
 EMHC,SPDR Bloomberg Barclays Emerging Markets USD Bond ETF,ARCA
@@ -2412,7 +2409,6 @@ EOPAF,EUROPA METALS LTD Ordinary Shares,U
 EOPS,Emles Alpha Opportunities ETF,BATS
 EOPSF,Electro Optic Systems Ltd Ordinary Shares (Australia),U
 EOPSY,Electro Optic Systems Ltd Sponsored ADR (Australia),U
-EOPT,"Eos Petro, Inc. Common Stock",U
 EORBF,Orbite Technologies Inc. Common Shares,U
 EOS,Eaton Vance Enhance Equity Income Fund II,NYSE
 EOSC,Electro-Optical Systems Cp Common Stock,U
@@ -3314,7 +3310,6 @@ FGCN,Flagship Global Corporation Common Stock,U
 FGCO,"Financial Gravity Companies, Inc. Common Stock",U
 FGD,First Trust Dow Jones Global Select Dividend Index Fund,ARCA
 FGEB,First General Bank Com,U
-FGELF,Fujitsu General Ltd Ordinary Shares (Japan),U
 FGEN,"FibroGen, Inc Common Stock",NASDAQ
 FGETF,FLIGHT CENTRE TRAVEL GROUP LTD Ordinary Shares,U
 FGF,"FG Financial Group, Inc. Common Stock",NASDAQ
@@ -3942,6 +3937,7 @@ FRRPF,Fiera Cap Corp Ordinary Shares (Canada),U
 FRRSF,Far Res Ltd Ordinary Shares (Canada),U
 FRRVF,Ferrovial SA Ordinary Shares (Spain),U
 FRRVY,Ferrovial SA Unsponsored ADR (Spain),U
+FRRZF,Ferrotec Holdings Corp Ordinary Shares (Japan),U
 FRSAF,FIRST AU LTD Ordinary Shares,U
 FRSB,First Resource Bank (PA) Common Stock,U
 FRSG,First Reserve Sustainable Growth Corp. Class A Common Stock,NASDAQ
@@ -4101,9 +4097,6 @@ FTHI,First Trust Exchange-Traded Fund VI First Trust BuyWrite Income ETF,NASDAQ
 FTHM,Fathom Holdings Inc. Common Stock,NASDAQ
 FTHY,First Trust High Yield Opportunities 2027 Term Fund,NYSE
 FTI,TechnipFMC plc Ordinary Share,NYSE
-FTIV,FinTech Acquisition Corp. IV Class A Common Stock,NASDAQ
-FTIVU,FinTech Acquisition Corp. IV Unit,NASDAQ
-FTIVW,FinTech Acquisition Corp. IV Warrant,NASDAQ
 FTK,"Flotek Industries, Inc.",NYSE
 FTLB,First Trust Exchange-Traded Fund VI First Trust Hedged BuyWrite Income ETF,NASDAQ
 FTLF,"FitLife Brands, Inc. Common Stock",U
@@ -4163,7 +4156,6 @@ FUGI,"Fuego Enterprises, Inc. Common Stock",U
 FUIG,Fusion Interactive Corp. Common Stock,U
 FUISF,"Fubon Financial Holding Company, Ltd. Ordinary Shares",U
 FUIZF,"Fubon Financial Holding Company, Ltd. Sponsored GDR Representing 10 Reg S Shares (Taiwan)",U
-FUJCF,Fuji Co Ltd Hokkaido SHS (Japan),U
 FUJHF,Subaru Corp Ordinary Shares,U
 FUJHY,Subaru Corporation American Depositary Receipts - Unsponsored,U
 FUJIF,FUJIFILM Holdings Corporation Ordinary Shares,U
@@ -4843,7 +4835,6 @@ GLIOF,Gold Lion Resources Inc Common Shares (Canada),U
 GLKFF,"Raise Production, Inc Ordinary Shares (Canada)",U
 GLKIF,"Great Lakes Graphite, Inc. Common Shares (Canada)",U
 GLL,ProShares UltraShort Gold,ARCA
-GLLA,Gilla Inc. Common Stock,U
 GLLBF,GOLDEN LAND BHD SHS (Malaysia),U
 GLLDF,Global Dining Inc Tokyo Ordinary Shares (Japan),U
 GLLGF,Global Graphics SE Ordinary Shares (United Kingdom),U
@@ -4950,7 +4941,6 @@ GMIIW,"Gores Metropoulos II, Inc. Warrants",NASDAQ
 GMJOF,"Gamecard-Joyco Holdings Inc, Tokyo Ordinary Shares  (Japan)",U
 GMKKY,Gruma SAB DE C V American Depositary Receipts - Unsponsored (Mexico),U
 GMLPF,Golar LNG Partners LP 8.75% Series A Cumulative Redeemable Preferred Units (Marshall Islands),U
-GMMVD,G MED INNOVATIONS Ordinary Shares,U
 GMND,Green Mountain Development Corp Common Stock,U
 GMNFF,GobiMin Inc Ordinary Shares (Canada),U
 GMNGF,GOLD MOUNTAIN LTD SHS (Australia),U
@@ -4977,6 +4967,7 @@ GMTNF,GOLD MTN MNG CORP COM (Canada),U
 GMTU,"Green Mountain Merger, Inc. Common Stock",U
 GMTX,"Gemini Therapeutics, Inc. Common Stock",NASDAQ
 GMUAF,Gamuda Bhd Ordinary Shares (Malaysia),U
+GMVD,G Medical Innovations Holdings Ltd. Ordinary Shares,NASDAQ
 GMVDW,G Medical Innovations Holdings Ltd. Warrants,NASDAQ
 GMVHF,ENTAIN PLC Ordinary Shares,U
 GMVHY,ENTAIN PLC American Depositary Receipts - Unsponsored,U
@@ -5545,3 +5536,12 @@ GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
+GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
+GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
+GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
+GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
+GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
+GWON,Grandwon Corp. Common Stock,U
+GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
+GWPC,"Wholehealth Products, Inc. Common Stock",U
+GWPD,"GP Solutions, Inc. Common Stock",U

@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHGR,Success Holding Group Corp. USA Common Stock,U
-SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
 SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
@@ -439,6 +437,7 @@ SMDCF,Shl Telemedicine Ltd Ordinary Shares (Israel),U
 SMDD,ProShares UltraPro Short MidCap400,ARCA
 SMDM,"Singing Machine Company, Inc. (The) Common Stock",U
 SMDPY,SUMITOMO DAINIPPON PHARMA CO LTD  American Depositary Receipts - Unsponsored (Japan),U
+SMDRF,Sierra Madre Gold & Silver Inc. Common Stock (Canada),U
 SMDV,ProShares Russell 2000 Dividend Growers ETF,BATS
 SMDXD,Goldshore Resources Inc Common Shares,U
 SMDY,Syntax Stratified MidCap ETF,ARCA
@@ -2196,7 +2195,6 @@ THMAW,Thimble Point Acquisition Corp. Warrant,NASDAQ
 THMG,"Thunder Mountain Gold, Inc. Common Stock",U
 THMHF,Thaicom Public Company Ltd Ordinary Shares (Thailand),U
 THMMF,Thaicom Public Company Ltd SHS (Thailand),U
-THMNF,Thaicom Public Company Ltd UNits Non-Voting Depositary Receipt (Thailand),U
 THMO,"ThermoGenesis Holdings, Inc. Common Stock",NASDAQ
 THNOF,Technology One Limited Ordinary Shares (Australia),U
 THNPF,TECHNIP ENERGIES N V Ordinary Shares,U
@@ -2443,7 +2441,6 @@ TMF,Direxion Daily 20+ Year Treasury Bull 3X Shares (based on the NYSE 20 Year P
 TMFC,Motley Fool 100 Index ETF,BATS
 TMFXF,Holidaycheck Group AG Ordinary Shares,U
 TMGEF,Thermal Energy Intl Ltd Ordinary Shares,U
-TMGFF,3D Metal Forge Ltd Ordinary Shares (Australia),U
 TMGI,"The Marquie Group, Inc. Common Stock",U
 TMGY,"Terminus Energy, Inc. Common Stock",U
 TMHC,Taylor Morrison Home Corporation Common Stock,NYSE
@@ -3486,6 +3483,7 @@ UPRO,ProShares UltraPro S&P 500,ARCA
 UPS,"United Parcel Service, Inc. Class B",NYSE
 UPSN,"UpSnap, Inc. Common Stock",U
 UPST,"Upstart Holdings, Inc. Common stock",NASDAQ
+UPTDU,TradeUP Acquisition Corp. Unit,NASDAQ
 UPV,ProShares Ultra FTSE Europe,ARCA
 UPW,ProShares Ultra Utilities,ARCA
 UPWK,Upwork Inc. Common Stock,NASDAQ
@@ -3544,6 +3542,7 @@ USBC,US BioTec Inc New Common Shares (NV),U
 USBFU,U S Prem Beef LLC Unit Cl A,U
 USBK,USA Bank (NY) Common Stock,U
 USBL,"United States Basketball League, Inc. Common Stock",U
+USCB,U.S. Century Bank Class A Common Stock,NASDAQ
 USCI,US Commodity Index,ARCA
 USCR,"U.S. Concrete, Inc. Common Stock",NASDAQ
 USCS,USCorp Common Stock,U
@@ -4480,6 +4479,7 @@ WDGJF,Wood Group John plc Ordinary Shares,U
 WDGJY,Wood Group John plc Unsponsored ADR (UK),U
 WDH,Waterdrop Inc. American Depositary Shares (each representing the right to receive 10 Class A Ordinar,NYSE
 WDHR,"WeedHire International, Inc. Common Stock",U
+WDI,Western Asset Diversified Income Fund,NYSE
 WDIV,SPDR S&P Global Dividend ETF,ARCA
 WDKA,Panache Beverage Inc. (DE) Common Stock,U
 WDLF,"Social Life Network, Inc. Common Stock",U
