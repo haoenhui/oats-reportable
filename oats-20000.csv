@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
-SHGY,SearchGuy.com Inc. Common Stock,U
-SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
@@ -109,7 +106,7 @@ SIEGY,Siemens AG American Depositary Shares,U
 SIELY,Shanghai Electric Group Co Ltd Unsponsored ADR (China),U
 SIEN,"Sientra, Inc. Common Stock",NASDAQ
 SIERF,SIERRA GROWTH CORP Ordinary Shares,U
-SIETY,SA D Ieteren Unsponsored ADR (Belgium),U
+SIETY,D IETEREN GROUP American Depositary Receipts - Unsponsored,U
 SIEVF,SA D Ieteren Ordinary Shares (Belgium),U
 SIF,"SIFCO Industries, Inc.",AMEX
 SIFY,Sify Technologies Limited American Depositary Shares,NASDAQ
@@ -1120,6 +1117,7 @@ SRSG,"Spirits Time International, Inc. Common Stock",U
 SRSIF,Strateco Resources Inc Ordinary Shares,U
 SRSK,"Star Struck, Ltd. Common Stock",U
 SRSN,"Strategic Resources International, Inc. Common Stock",U
+SRSPF,Siriuspoint Ltd. RESETTABLE FIXED RATE PFD SHS SER B 8% (Bermuda),U
 SRSR,Sarissa Resources Inc. Common Stock,U
 SRT,Startek Inc.,NYSE
 SRTOY,Sartorius Stedim Biotech S A Unsponsored ADR (France),U
@@ -1347,6 +1345,7 @@ STN,"Stantec, Inc.",NYSE
 STNC,Stance Equity ESG Large Cap Core ETF,ARCA
 STNDF,SANTANDER UK PLC 8 5/8 % NON -CUM STERLING Preference Shares United Kingdom(GB ),U
 STNE,StoneCo Ltd. Class A Common Shares,NASDAQ
+STNEV,StoneCo Ltd. Class A Common Share When Issued,NASDAQ
 STNG,Scorpio Tankers Inc.,NYSE
 STNRF,STINGER RES INC COM (Canada),U
 STNT,Stevia Nutra Corp. Common Stock,U
@@ -2666,6 +2665,7 @@ TPRP,Tower Properties Company New Common Stock,U
 TPRXF,Gran Colombia Gold Corp Warrant 04/30/2024,U
 TPSC,Timothy Plan US Small Cap Core ETF,ARCA
 TPSRF,Topsports Intl Holdings Ltd Ordinary Shares (Cayman Islands),U
+TPST,"Tempest Therapeutics, Inc. Common Stock",NASDAQ
 TPTA,"Terra Property Trust, Inc. 6.00% Notes due 2026",NYSE
 TPTJF,Topps Tiles Plc Ordinary Shares,U
 TPTJY,Topps Tiles Plc Unsponsored ADR (United Kingdom),U
@@ -2696,7 +2696,6 @@ TRC,Tejon Ranch Co.,NYSE
 TRCA,Twin Ridge Capital Acquisition Corp.,NYSE
 TRCA U,"Twin Ridge Capital Acquisition Corp. Units, each consisting of one Class A ordinary share and one-th",NYSE
 TRCA WS,"Twin Ridge Capital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordina",NYSE
-TRCH,"Torchlight Energy Resources, Inc. Common Stock",NASDAQ
 TRCK,"Track Group, Inc. Common Stock",U
 TRCLF,"Trans Cosmos, Inc. Ordinary Shares (Japan)",U
 TRCNF,TRANSNATIONAL CANNABIS LTD  Common Stock (Canada),U
@@ -3784,7 +3783,6 @@ VDQSF,GNOMESTAR CRAFT INC Ordinary Shares,U
 VDRFF,Vidrala SA Alava Ordinary Shares (Spain),U
 VDRM,"ViaDerma, Inc. Common Stock",U
 VDTAF,Vendetta Mining Corporate Ordinary Shares (Canada),U
-VDXI,VeriDetx Corp. Common Stock,U
 VEA,Vanguard FTSE Developed Markets ETF,ARCA
 VEC,"Vectrus, Inc.",NYSE
 VECO,Veeco Instruments Inc. Common Stock,NASDAQ
@@ -4440,6 +4438,7 @@ WBRBY,Wienerberger Baustofindusti Ag American Depositary Shares,U
 WBRE,Wild Brush Energy Inc New Common Stock,U
 WBS,Webster Financial Corporation Waterbury,NYSE
 WBS PRF,"Webster Financial Corporation Depositary Shares, Each Representing 1/1,000th Interest in a Share of",NYSE
+WBSI,WebSafety Inc. Common Stock,U
 WBSR,"Webstar Technology Group, Inc. Common Stock",U
 WBT,"Welbilt, Inc.",NYSE
 WBTMU,Westbrook-Thompson CDT - Royalty Unit,U
@@ -5080,6 +5079,7 @@ XMMRF,Xmrealty AB Ordinary Shares  (Sweden),U
 XMPT,VanEck Vectors CEF Municipal Income ETF,BATS
 XMTCF,XMTCH IE ON FTSE 100 ACCUM PART SHS EXCHANGE TRADED FUND GBP Exchange Traded Fund,U
 XMTIF,IShares VII PLC Exchange Traded Fund,U
+XMTR,"Xometry, Inc. Class A Common Stock",NASDAQ
 XMTTF,"Xmet, Inc. Ordinary Shares (Canada)",U
 XMVM,Invesco S&P MidCap Value with Momentum ETF,ARCA
 XNCR,"Xencor, Inc. Common Stock",NASDAQ
@@ -5359,6 +5359,7 @@ Z,"Zillow Group, Inc. Class C Capital Stock",NASDAQ
 ZAAG,ZA Group Inc. Common Stock,U
 ZADDF,ZADAR VENTURES LTD Ordinary Shares,U
 ZAHA,"Zahav, Inc. Common Stock",U
+ZAIRF,Zinc8 Energy Solutions Inc.  Common Stock,U
 ZAPNF,ZAPF CREATION AG Ordinary Shares,U
 ZARFF,Zargon Oil & Gas Ltd Ordinary Shares,U
 ZAZA,ZAZA ENERGY CORP Common Stock undefined,U
@@ -5501,7 +5502,6 @@ ZRVT,"Zurvita Holdings, Inc. Common Stock",U
 ZS,"Zscaler, Inc. Common Stock",NASDAQ
 ZSAN,Zosano Pharma Corporation Common Stock,NASDAQ
 ZSHGY,Zhongsheng Group Holdings American Depository Shares (Unsponsored),U
-ZSHOF,Zensho Co Ltd Yokohama Ordinary Shares (Japan),U
 ZSILF,ZKB Silver ETF Shs Hldgs Klasse -A USD (Switzerland),U
 ZSL,ProShares UltraShort Silver,ARCA
 ZSTN,"ZST Digital Networks, Inc. Common Stock",U

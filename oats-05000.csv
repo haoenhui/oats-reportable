@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPFH,"Capital Financial Holdings, Inc. Common Stock",U
+CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
+CPG,CRESCENT POINT ENERGY CORP.,NYSE
+CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
 CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
@@ -580,6 +584,7 @@ CVONF,Carnarvon Petroleum Ltd Ordinary Shares (Australia),U
 CVPBF,C.P. All Public Co Ltd Shares Foreign Registered (Thailand),U
 CVPUF,C.P. Seven Eleven Public Co Ltd Units Non-Voting Depository Receipts (Thailand),U
 CVR,Chicago Rivet & Machine Co.,AMEX
+CVRX,"CVRx, Inc. Common Stock",NASDAQ
 CVS,CVS HEALTH CORPORATION,NYSE
 CVSC,"Cardiovascular Sciences, Inc. New Common Stock",U
 CVSGF,CVS Group PLC Ordinary Shares (United Kingdom),U
@@ -1395,7 +1400,7 @@ DOTDF,DotDigital Group PLC Ordinary Shares (United Kingdom),U
 DOV,Dover Corporation,NYSE
 DOVXF,Dovalue SPA Azioni Ordinarie Senza Valore Nominale (Italy),U
 DOW,Dow Inc.,NYSE
-DOWLF,"Dowlis Corporate Solutions Limited, Surrey Ordinary Shares (United Kingdom)",U
+DOWLF,ALTITUDE GROUP PLC Ordinary Shares,U
 DOX,Amdocs Limited Ordinary Shares,NASDAQ
 DOYU,DouYu International Holdings Limited ADS,NASDAQ
 DPAT,"Dental Patient Care America, Inc. Common Stock",U
@@ -1837,7 +1842,7 @@ ECIA,Encision Inc. Common Stock,U
 ECIFF,Electricite de France Edf Ordinary Shares (France),U
 ECIFY,Electricite de France SA Unsponsored ADR (France),U
 ECIVF,ESG CORE INVESTMENTS B V MARKET WARRANTS  12/31/2099,U
-ECKTF,Elektron PLC Common Shares   United Kingdom (GB),U
+ECKTF,CHECKIT PLC Common Shares,U
 ECL,"Ecolab, Inc.",NYSE
 ECLMF,Ecolomondo Corp. Ordinary Shares (Canada),U
 ECLN,First Trust EIP Carbon Impact ETF,ARCA
@@ -2059,7 +2064,6 @@ EHITF,Edinburgh Investment Trust Ordinary Shares,U
 EHMEF,GOEASY LTD Common Shares,U
 EHOS,"Ehouse Global, Inc. Common Stock",U
 EHPTP,Eagle Hospitality Pptys Tr Inc Preferred,U
-EHT,Eaton Vance 2021 Target Term Trust,NYSE
 EHTH,"eHealth, Inc. Common Stock",NASDAQ
 EHVVF,Ehave Inc Ordinary Shares,U
 EHYD,"Ehydrogen Solutions, Inc. Common Stock",U
@@ -2156,6 +2160,8 @@ ELLXF,Elixinol Wellness Ltd Ordinary Shares,U
 ELMA,Elmer Bancorp Inc Common Stock,U
 ELMD,"Electromed, Inc.",AMEX
 ELMFF,Elmo Software Ltd. Ordinary Shares Fully Paid (Australia),U
+ELMS,"Electric Last Mile Solutions, Inc. Class A Common stock",NASDAQ
+ELMSW,"Electric Last Mile Solutions, Inc. Warrant",NASDAQ
 ELMTF,ELEMENT 25 LTD ORD (Australia),U
 ELMTY,Elementis Plc Unsponsored ADR Level 1,U
 ELMUF,Elisa Corporation Ordinary Shares A (Finland),U
@@ -2395,6 +2401,7 @@ ENZC,Enzolytics Inc. Common Stock,U
 ENZH,Enzymes American Holding Corp Common Stock,U
 ENZL,iShares Trust iShares MSCI New Zealand ETF,NASDAQ
 ENZN,"Enzon Pharmaceuticals, Inc. Common Stock",U
+EOCW U,"Elliott Opportunity II Corp. Units, each consisting of one Class A ordinary share and one-fourth of",NYSE
 EOD,WELLS FARGO GLOBAL DIVIDEND OPPORTUNITY FUND,NYSE
 EOFBF,ECOFIBRE LTD Ordinary Shares  Australia(AU ),U
 EOFBY,ECOFIBRE LTD American Depositary Shares - Sponsored,U
@@ -3383,9 +3390,6 @@ FIGM,Future International Group Corp. Common Stock,U
 FIGR,First Natl Bk Groton N Y Common Stock,U
 FIGS,"FIGS, Inc.",NYSE
 FIHD,UBS AG FI Enhanced Global High Yield ETN,ARCA
-FIII,Forum Merger III Corporation Class A Common stock,NASDAQ
-FIIIU,Forum Merger III Corporation Units,NASDAQ
-FIIIW,Forum Merger III Corporation Warrant,NASDAQ
 FIISO,"Financial Institutions Inc 8.48% Preferred Stock, Series B-1",U
 FIISP,Financial Institutions Inc 3% Preferred Stock,U
 FIKVF,FIJI KAVA LTD Common Stock,U
@@ -3968,9 +3972,6 @@ FRW,PWP Forward Acquisition Corp. I Class A Common Stock,NASDAQ
 FRWAU,PWP Forward Acquisition Corp. I Units,NASDAQ
 FRWAW,PWP Forward Acquisition Corp. I Warrant,NASDAQ
 FRWDF,Fairwood Holdings Ltd Ordinary Shares (Bermuda),U
-FRX,Forest Road Acquisition Corp.,NYSE
-FRX U,"Forest Road Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-th",NYSE
-FRX WS,"Forest Road Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of C",NYSE
 FRXB,Forest Road Acquisition Corp. II,NYSE
 FRXB U,"Forest Road Acquisition Corp. II Units, each consisting of one share of Class A common stock, and on",NYSE
 FRXB WS,"Forest Road Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for one share o",NYSE
@@ -4105,9 +4106,6 @@ FTMDF,Fortune Minerals Ltd Ordinary Shares,U
 FTMNF,LUNDIN GOLD INC  Common Shares,U
 FTMR,Fortem Resources Inc. Common Stock,U
 FTNT,"Fortinet, Inc. Common Stock",NASDAQ
-FTOC,FTAC Olympus Acquisition Corp. Class A Ordinary Shares,NASDAQ
-FTOCU,FTAC Olympus Acquisition Corp. Unit,NASDAQ
-FTOCW,FTAC Olympus Acquisition Corp. Warrant,NASDAQ
 FTPA,FTAC Parnassus Acquisition Corp. Class A Common Stock,NASDAQ
 FTPAU,FTAC Parnassus Acquisition Corp. Unit,NASDAQ
 FTPAW,FTAC Parnassus Acquisition Corp. Warrant,NASDAQ
@@ -4646,6 +4644,7 @@ GGGOF,Galane Gold Ltd Common Shares (Canada),U
 GGGRF,Global Gardens Group Ordinary Shares,U
 GGGSF,Greggs plc Ordinary Shares (United Kingdom),U
 GGGSY,Greggs plc Unsponsored ADR (UK),U
+GGGVU,G3 VRM Acquisition Corp. Units,NASDAQ
 GGIFF,Garibaldi Resources Corp Ordinary Shares (Canada),U
 GGII,"Green Globe International, Inc. Common Stock",U
 GGISF,Genesis Metals Corp. Common Stock,U
@@ -5091,6 +5090,7 @@ GOMRF,"Geomega Resources, Inc. Ordinary Shares (Canada)",U
 GOOD,Gladstone Commercial Corporation Real Estate Investment Trust,NASDAQ
 GOODM,Gladstone Commercial Corporation Series D Cumulative Redeemable Preferred Stock,NASDAQ
 GOODN,Gladstone Commercial Corporation 6.625% Series E Cumulative Redeemable Preferred Stock,NASDAQ
+GOODO,"Gladstone Commercial Corporation 6.00% Series G Cumulative Redeemable Preferred Stock, par value $0.001 per share",NASDAQ
 GOOG,Alphabet Inc. Class C Capital Stock,NASDAQ
 GOOGL,Alphabet Inc. Class A Common Stock,NASDAQ
 GOOI,"Gooi Global, Inc. Common Stock",U
@@ -5336,7 +5336,6 @@ GSBD,"Goldman Sachs BDC, Inc.",NYSE
 GSBX,Golden State Bancorp Common Stock,U
 GSBYP,Gatsby Digital Inc. Series Seed Preferred PS-3,U
 GSCCF,Ioneer Ltd Ordinary Shares,U
-GSCCP,GLADSTONE COML CORP PFD SER G Preferred Stock,U
 GSCE,GOLDMAN SACHS GROUP INC Other   05/08/2037,U
 GSDC,Goldsands Development Company Common Stock,U
 GSDT,GSDT Fintech Group Inc. Common Stock,U

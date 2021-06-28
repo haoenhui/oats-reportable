@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTDR,MATADOR RESOURCES COMPANY,NYSE
-MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
-MTEI,Mountain Energy Inc Common Stock,U
-MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
-MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
@@ -2096,6 +2091,8 @@ PAYA,Paya Holdings Inc. Class A Common Stock,NASDAQ
 PAYAW,Paya Holdings Inc. Warrant,NASDAQ
 PAYC,"PAYCOM SOFTWARE, INC.",NYSE
 PAYD,"Paid, Inc. Common Stock",U
+PAYO,Payoneer Global Inc. Common Stock,NASDAQ
+PAYOW,Payoneer Global Inc. Warrant,NASDAQ
 PAYS,"Paysign, Inc. Common Stock",NASDAQ
 PAYX,"Paychex, Inc. Common Stock",NASDAQ
 PAZRF,Plaza Retail Reit Trust Units (Canada),U
@@ -4921,7 +4918,7 @@ SASOF,Sasol Ltd. Ordinary Shares,U
 SASR,"Sandy Spring Bancorp, Inc. Common Stock",NASDAQ
 SATLF,Zozo Inc Ordinary Shares,U
 SATOF,Sato Holdings Corp Ordinary Shares (Japan),U
-SATS,EchoStar  Corporation Common Stock,NASDAQ
+SATS,EchoStar Corporation Common Stock,NASDAQ
 SAUHF,Straumann Holding Ag Namen AKT (Switzerland),U
 SAUHY,Straumann Holding Ag Unsponsored ADR (Switzerland),U
 SAUKF,Steel Authority Of India Ltd Reg S GDR (India),U
@@ -5544,3 +5541,6 @@ SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
+SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
+SHGY,SearchGuy.com Inc. Common Stock,U
+SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U

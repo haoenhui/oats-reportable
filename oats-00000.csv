@@ -2409,6 +2409,7 @@ BAMGF,Brookfield Asset Management Inc Pfef Shs Cl A Ser 24 (Canada),U
 BAMH,"Brookfield Finance Inc. 4.625% Subordinated Notes due October 16, 2080",NYSE
 BAMI,Brookfield Finance I (UK) plc 4.50% Perpetual Subordinated Notes,NYSE
 BAMKF,Brookfield Asset Management Inc Pref Shs Ser 26 (Canada),U
+BAMR,Brookfield Asset Management Reinsurance Partners Ltd. Class A Exchangeable Limited Voting Shares,NYSE
 BAMXF,Bayerische Motoren Werke AG Ordinary Shares (Germany),U
 BANC,"Banc of California, Inc.",NYSE
 BANC PRE,"Banc of California, Inc Depositary Shares Each Representing a 1/40th Interest in a Share of 7.000% N",NYSE
@@ -3201,7 +3202,6 @@ BMO,Bank of Montreal,NYSE
 BMOIF,BMO India Equity Index ETF Unit (Canada),U
 BMOOF,BLUE MOON METALS INC Common Shares,U
 BMOZF,"BMO Asia High Dividend ETF Unit Trust, Fund Manager: BMO Global Asset Management Asia Ltd (Hong Kong)",U
-BMPAF,Brampton Brick Ltd        Cl A Ordinary Shares,U
 BMQWF,BMO Equal Weight REITS Index ETF Tr Unit (Canada),U
 BMQZF,Bank Montreal Quebec Pfd Cl B1 Perp Pfd Cl B Ser 15 (Canada),U
 BMRA,"Biomerica, Inc. Common Stock",NASDAQ
@@ -3306,6 +3306,8 @@ BOB,Merlyn.AI Best-of-Breed Core Momentum ETF,BATS
 BOCH,Bank of Commerce Holdings (CA) Common Stock,NASDAQ
 BOCOF,Bougainville Copper Ltd Ord Ordinary Shares,U
 BOCT,Innovator S&P 500 Buffer ETF - October,BATS
+BODY,"The Beachbody Company, Inc.",NYSE
+BODY WS,"The Beachbody Company, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Cla",NYSE
 BOE,BlackRock Enhanced Global Dividend Trust,NYSE
 BOEUF,Bonesupport Holding AB (Sweden),U
 BOFKF,"Bank of Kyoto, Ltd. Ordinary Shares (Japan)",U
@@ -3466,7 +3468,9 @@ BRGO,"Bergio International, Inc. Common Stock",U
 BRGSF,BERGS TIMBER AB Ordinary Shares,U
 BRID,Bridgford Foods Corporation Common Stock,NASDAQ
 BRIOF,Magna Terra Minerals Inc Ordinary Shares,U
+BRIV,B. Riley Principal 250 Merger Corp. Class A common stock,NASDAQ
 BRIVU,B. Riley Principal 250 Merger Corp. Units,NASDAQ
+BRIVW,B. Riley Principal 250 Merger Corp. Warrant,NASDAQ
 BRK A,Berkshire Hathaway Inc.,NYSE
 BRK B,BERKSHIRE HATHAWAY Class B,NYSE
 BRKCF,BARKSDALE RES CORP Ordinary Shares,U
@@ -4105,7 +4109,7 @@ CBDS,"Cannabis Sativa, Inc. Common Stock",U
 CBDX,"Curative Biosciences, Inc. Common Stock",U
 CBDY,Target Group Inc. Common Stock,U
 CBEEF,Cabo Drilling Corp Ordinary Shares (Canada),U
-CBEV,Capital Beverage Corp. Common Stock,U
+CBEVD,Spirits Cap Corp. Common Stock,U
 CBEX,Cambex Corporation Common Stock,U
 CBFC,Cnb Financial Services Inc Common Stock,U
 CBFV,"CB Financial Services, Inc. Common Stock",NASDAQ
@@ -4299,7 +4303,6 @@ CDAY,Ceridian HCM Holding,NYSE
 CDBMF,Cordoba Minerals Corp. Common Shares,U
 CDBT,China Dasheng Biotechnology Company  Common Stock,U
 CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,NASDAQ
-CDCLF,AYURCANN HLDGS CORP Ordinary Shares,U
 CDCTF,Goldcrest Co Ltd (Tokyo) Ordinary Shares,U
 CDDRF,HEADWATER EXPL INC Ordinary Shares,U
 CDE,"Coeur Mining, Inc.",NYSE
@@ -5541,7 +5544,3 @@ CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
-CPFH,"Capital Financial Holdings, Inc. Common Stock",U
-CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
-CPG,CRESCENT POINT ENERGY CORP.,NYSE
-CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
