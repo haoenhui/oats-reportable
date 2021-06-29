@@ -1,4 +1,11 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTCR,"Metacrine, Inc. Common Stock",NASDAQ
+MTD,Mettler-Toledo International,NYSE
+MTDR,MATADOR RESOURCES COMPANY,NYSE
+MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
+MTEI,Mountain Energy Inc Common Stock,U
+MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
+MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
@@ -495,7 +502,6 @@ NEXNY,Nexans Unsponsored ADR (France),U
 NEXOF,Nexon Co Ltd Ordinary Shares (Japan),U
 NEXOY,Nexon Co Ltd Unsponsored ADR (Japan),U
 NEXPF,NEXI SPA Azione Ordinarie Senza Valore Nominale Ord Shs (Italy),U
-NEXS,"Nexus Biopharma, Inc. Common Stock",U
 NEXT,NextDecade Corporation Common Stock,NASDAQ
 NEXTW,NEXTDECADE CORP Warrant Exp 07/24/2022,U
 NEXXY,NEXI S.P.A. Unsponsored ADR (Italy),U
@@ -527,7 +533,6 @@ NGAB WS,"Northern Genesis Acquisition Corp. II Redeemable Warrants, each whole w
 NGAC,NextGen Acquisition Corporation Class A Ordinary Shares,NASDAQ
 NGACU,NextGen Acquisition Corporation Units,NASDAQ
 NGACW,NextGen Acquisition Corporation Warrants,NASDAQ
-NGBL,"Notis Global, Inc. Common Stock",U
 NGC,Northern Genesis Acquisition Corp. III,NYSE
 NGC U,"Northern Genesis Acquisition Corp. III Units, each consisting of one share of common stock and one-q",NYSE
 NGC WS,"Northern Genesis Acquisition Corp. III Redeemable Warrants, each whole warrant exercisable for share",NYSE
@@ -1234,6 +1239,7 @@ NVSAU,New Vista Acquisition Corp Unit,NASDAQ
 NVSAW,New Vista Acquisition Corp. Warrant,NASDAQ
 NVSEF,Novartis AS Basel Namen AKT (Switzerland),U
 NVSGF,Nevada Sunrise Gold Corp. Ordinary Shares (Common Shares),U
+NVSHF,NOVUS HLDGS LTD SHS (South Africa),U
 NVST,"Envista Holdings Corporation Common stock, $0.01 par value per share",NYSE
 NVT,nVent Electric plc Ordinary Shares,NYSE
 NVTA,Invitae Corporation,NYSE
@@ -1368,6 +1374,7 @@ NYCB PRU,New York Community Capital Trust V (BONUSES),NYSE
 NYF,iShares New York Muni Bond ETF,ARCA
 NYLE,Nyle Intl Corp Common Stock,U
 NYLXF,Nylex Malaysia Bhd Ordinary Shares (Malaysia),U
+NYMFV,NEW YORK MTG TR INC REDEEMABLE PFD SER F,U
 NYMT,"New York Mortgage Trust, Inc. Common Stock",NASDAQ
 NYMTM,"New York Mortgage Trust, Inc. 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NASDAQ
 NYMTN,"New York Mortgage Trust, Inc. 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NASDAQ
@@ -1476,7 +1483,7 @@ OCTZ,TrueShares Structured Outcome (October) ETF,BATS
 OCUL,"Ocular Therapeutix, Inc. Common Stock",NASDAQ
 OCUP,"Ocuphire Pharma, Inc. Common Stock",NASDAQ
 OCUTF,OCUMENSION THERAPEUTICS USD SHS (Cayman Islands),U
-OCX,OncoCyte Corporation Common Stock,NASDAQ
+OCX,Oncocyte Corporation Common Stock,NASDAQ
 ODC,Oil-Dri Corporation of America,NYSE
 ODEFF,"Petrichor Energy, Inc. Ordinary Shares (Canada)",U
 ODERF,Odakyu Electric Railway Co Ltd Ordinary Shares (Japan),U
@@ -3148,7 +3155,6 @@ PRTK,"Paratek Pharmaceuticals, Inc. Common Stock",NASDAQ
 PRTR,Precicion Trim Inc Common Stock,U
 PRTS,"CarParts.com, Inc. Common Stock",NASDAQ
 PRTT,Protect Pharmaceutical Corporation Common Stock,U
-PRTX,"Protalex, Inc. Common Stock",U
 PRTY,Party City Holdco Inc.,NYSE
 PRU,"Prudential Financial, Inc.",NYSE
 PRVA,"Privia Health Group, Inc. Common Stock",NASDAQ
@@ -3397,6 +3403,7 @@ PTN,"Palatin Technologies, Inc.",AMEX
 PTNAF,PT Bank Cimb Niaga RBK Series A Ordinary Shares (Indonesia),U
 PTNDF,PT Vale Indonesia TBK Ordinary Shares (Indonesia),U
 PTNDY,PT Vale Indonesia Tbk. Unsponsored ADR (Indonesia),U
+PTNKF,PT INDO KORDSA TBK SHS (Indonesia),U
 PTNL,PLANTATION CORP WY Common Stock,U
 PTNQ,Pacer Trendpilot 100 ETF,BATS
 PTNR,Partner Communications Company Ltd. American Depositary Shares,NASDAQ
@@ -3508,7 +3515,6 @@ PVEN,Press Ventures Inc Common Stock,U
 PVG,PRETIUM RESOURCES INC.,NYSE
 PVGDF,Provenance Gold Corp. Common Shares (Canada),U
 PVH,PVH Corp.,NYSE
-PVHO,"Provision Holding, Inc. Common Stock",U
 PVI,Invesco VRDO Tax-Free ETF,ARCA
 PVL,Permianville Royalty Trust,NYSE
 PVLTF,Beijing Energy Intl Hldg Co Ltd. Ordinary Shares,U
@@ -4137,7 +4143,6 @@ REVXF,Revenio Group Corporation Ordinary Shares (Finland),U
 REW,Proshares UltraShort Technology,ARCA
 REX,REX American Resources Corp.,NYSE
 REXHF,Rex International Holdings Ltd Ordinary Shares (Singapore),U
-REXOF,RIDE ON EXPRESS CO LTD COM STK (Japan),U
 REXR,"REXFORD INDUSTRIAL REALTY, INC.",NYSE
 REXR PRA,"Rexford Industrial Realty, Inc 5.875% Series A Cumulative Redeemable Preferred Stock",NYSE
 REXR PRB,"Rexford Industrial Realty, Inc. 5.875% Series B Cumulative Redeemable Preferred Stock",NYSE
@@ -4666,7 +4671,7 @@ RTMVF,Rightmove PLC Ordinary Shares,U
 RTMVY,Rightmove Plc Unsponsored ADR (United Kingdom),U
 RTNB,"root9B Holdings, Inc. Common Stock",U
 RTNTF,Rio Tinto Ltd (Nz)(Clob) Ordinary Shares,U
-RTNXF,Renalytix AI PLC ORD GBP0.0025 Reg S Ordinary Shares   United Kingdom (GB),U
+RTNXF,RENALYTIX PLC Ordinary Shares,U
 RTOBF,Ratos Ab Shs-B Ordinary Shares,U
 RTOEF,RATIO OIL EXPLORATION (1992) LTD PARTNERSHIP EXP 07/20/2021,U
 RTOKY,Rentokil Initial Plc (Fgn) American Depositary Shares,U
@@ -4827,6 +4832,7 @@ RZSMF,Rizzoli Corriere della Sera Mediagroup Spa Ordinary Shares (Italy),U
 RZV,Invesco S&P SmallCap 600 Pure Value ETF,ARCA
 RZZN,"JiaLiJia Group Corporation, Ltd. Common Stock",U
 RZZRY,Razer Inc American Depositary Receipts - Unsponsored (Cayman Islands),U
+S,"SentinelOne, Inc.",NYSE
 SA,"Seabridge Gold, Inc.",NYSE
 SAA,ProShares Ulta SmallCap600,ARCA
 SAABF,SAAB AB Ordinary Shares B (Sweden),U
@@ -5541,6 +5547,3 @@ SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
-SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
-SHGY,SearchGuy.com Inc. Common Stock,U
-SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U

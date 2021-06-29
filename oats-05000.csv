@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPFH,"Capital Financial Holdings, Inc. Common Stock",U
-CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
-CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
@@ -30,6 +27,7 @@ CPNBF,Cpt Telefonica Del Peru Ser A Ordinary Shares,U
 CPNFF,Euro Sun Mining Inc. Common Shares,U
 CPNG,"Coupang, Inc.",NYSE
 CPOIF,CAPSTONE INFRASTRUCTURE CORP (Canada),U
+CPOP,"Pop Culture Group Co., Ltd Class A Ordinary Shares",NASDAQ
 CPOUF,Charoen Pokphand Fedmill Public Co Ltd Units Non Vtg Dep Rcpt,U
 CPPBY,Central Pattana Public Company Ltd Unsponsored ADR (Thailand),U
 CPPCY,CP All Pub Co Ltd Unsponsored ADR (Thailand),U
@@ -444,6 +442,7 @@ CTO,"CTO Realty Growth, Inc.",NYSE
 CTOBF,China Tob Intl Hk Co Ltd Ordinary Shares  (Hong Kong),U
 CTOHF,Citigold Corp Ltd Ordinary Shares (Australia),U
 CTON,"Second Street Capital, Inc. Common Stock",U
+CTOPV,CTO RLTY GROWTH INC NEW Preferred Stock,U
 CTOS,"Custom Truck One Source, Inc.",NYSE
 CTOS WS,"Custom Truck One Source, Inc. Warrants, exerciseable for Common Stock",NYSE
 CTOUF,Charter Hall Group Stapled Security (Australia),U
@@ -777,6 +776,7 @@ DAIUF,Daifuku Co Ltd Ordinary Shares (Japan),U
 DAKT,"Daktronics, Inc. Common Stock",NASDAQ
 DAL,"Delta Air Lines, Inc.",NYSE
 DALI,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright DALI 1 ETF,NASDAQ
+DALN,DallasNews Corporation Series A Common Stock,NASDAQ
 DALQF,D & L Industries Inc Common Shares (Phillippines),U
 DALT,Anfield Capital Diversified Alternatives ETF,BATS
 DALXF,SPARTAN DELTA CORP Common Shares,U
@@ -920,6 +920,7 @@ DDHLF,DDH1 LTD ORDINARY FULLY PAID (Australia),U
 DDHRF,Dream Impact Trust Unit,U
 DDIAF,Margaret Lake Diamond Inc Ordinary Shares (Canada),U
 DDIV,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright Momentum & Dividend ETF,NASDAQ
+DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),NYSE
 DDLS,WisdomTree Dynamic Currency Hedged International SmallCap Equity Fund,BATS
 DDLX,"DD's Deluxe Rod Holder, Inc. Common Stock",U
 DDM,ProShares Ultra Dow30,ARCA
@@ -1124,6 +1125,7 @@ DIBUY,Daibiru Corporation Ord American Depositary Shares,U
 DICCF,DIC Corporation Ordinary Shares (Japan),U
 DIDAF,Distribuidora Internacional De Alimentacion Ordinary Shares (Spain),U
 DIDAY,Distribuidora Internacional De Alimentacion SA Unsponsored American Depository Receipt (Spain),U
+DIDI,"DiDi Global Inc. American depositary shares, each four representing one Class A ordinary share",NYSE
 DIEN,"Diversified Energy Holdings, Inc. Common Stock",U
 DIFTY,Daito Trust Construction Co Lt Sponsored ADR (Japan),U
 DIG,ProShares Ultra Oil & Gas,ARCA
@@ -1178,6 +1180,7 @@ DJSP,"DJSP Enterprises, Inc",U
 DJUL,FT Cboe Vest U.S. Equity Deep Buffer ETF - July,BATS
 DJUN,FT Cboe Vest U.S. Equity Deep Buffer ETF - June,BATS
 DJXMF,Dow Jones Stoxx Ish S Euro Mid 200 U Etf Exchange Traded Fund (Germany Federal Republic),U
+DJXSF,Ishares Stoxx Europe 600 Banks DE ANTEILE (Germany),U
 DJXXF,ISHARES STOXX EUROPE 600 UCITS ETF  Ordinary Shares,U
 DK,"Delek US Holdings, Inc.",NYSE
 DKAM,"Drinks Americas Holdings, Ltd.  Common Stock",U
@@ -1362,6 +1365,7 @@ DNSBF,Dine Sab De Cv Shs B (Mexico),U
 DNSKF,Danske Bank A/S Bearer Shs Ord Ordinary Shares,U
 DNTUF,Dentsu Group Inc Common Shares,U
 DNTUY,Dentsu Group Inc. American Depositary Receipts - Unsponsored,U
+DNUT,"Krispy Kreme, Inc. Common Stock",NASDAQ
 DNVB,Denver Bankshares Inc Common Stock,U
 DNXG,DONGXING INTL INC Common Stock,U
 DNZ,D and Z Media Acquisition Corp.,NYSE
@@ -1454,6 +1458,7 @@ DRIO,DarioHealth Corp. Common Stock,NASDAQ
 DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares,ARCA
 DRIV,Global X Funds Global X Autonomous & Electric Vehicles ETF,NASDAQ
 DRKOF,Martello Technologies Group Inc Ordinary Shares,U
+DRKTF,DARKTRACE PLC ORD GBP0.01 (United Kingdom),U
 DRMKY,Dormakaba Hldg AG Unsponsored ADR (Switzerland),U
 DRMMF,Dream International Ltd Ordinary Shares (Hong Kong),U
 DRN,Direxion Daily Real Estate Bull 3X,ARCA
@@ -1718,6 +1723,7 @@ DYAI,"Dyadic International, Inc. Common Stock",NASDAQ
 DYFN,Angel Oak Dynamic Financial Strategies Income Term Trust,NYSE
 DYFSF,Dynacert Inc Common Shares (Canada),U
 DYHG,Direxion Dynamic Hedge ETF,ARCA
+DYLD,LeaderShares Dynamic Yield ETF,ARCA
 DYLLF,Deep Yellow Limited Ordinary Shares,U
 DYMDF,DIAMYD MED AB SHARES B Ordinary Shares Sweden(SE ),U
 DYN,"Dyne Therapeutics, Inc. Common Stock",NASDAQ
@@ -1939,6 +1945,7 @@ EEA,"The European Equity Fund, Inc.",NYSE
 EEENF,88 Energy Ltd Ordinary Shares (Australia),U
 EEFT,"Euronet Worldwide, Inc. Common Stock",NASDAQ
 EEGI,"Eline Entertainment Group, Inc. Common Stock",U
+EEGUF,EMPIRE ENERGY GROUP LTD SHS (Australia),U
 EEH,ELEMENTS Linked to the SPECTRUM Large Cap U.S.Sector Momentum Index,ARCA
 EEHLF,Emperor Entertainment Hotel Limited Ordinary Shares,U
 EEIQ,Elite Education Group International Ltd. Common Stock,NASDAQ
@@ -2599,6 +2606,7 @@ ESEXF,Essex Bio-Technology Ltd Ordinary Shares (Cayman Islands),U
 ESFS,"Eco-Safe Systems USA, Inc. Common Stock",U
 ESG,FlexShares STOXX US ESG Select Index Fund,BATS
 ESGA,American Century Sustainable Equity ETF,ARCA
+ESGB,IQ MacKay ESG Core Plus Bond ETF,ARCA
 ESGC,Eros STX Global Corporation,NYSE
 ESGD,iShares Trust iShares ESG Aware MSCI EAFE ETF,NASDAQ
 ESGE,"iShares, Inc. iShares ESG Aware MSCI EM ETF",NASDAQ
@@ -2780,6 +2788,7 @@ EVBN,Evans Bancorp Inc,AMEX
 EVC,Entravision Communication,NYSE
 EVCC,Environmental Control Corp. Common Stock,U
 EVCI,EVCI Career Colleges Holding Corp. Common Stock,U
+EVCM,EverCommerce Inc. Common Stock,NASDAQ
 EVER,"EverQuote, Inc. Class A Common Stock",NASDAQ
 EVF,Eaton Vance Senior Income Trust,NYSE
 EVFM,"Evofem Biosciences, Inc. Common Stock",NASDAQ
@@ -3374,6 +3383,7 @@ FIBK,"First Interstate BancSystem, Inc. Class A Common Stock",NASDAQ
 FIBR,iShares U.S. Fixed Income Balanced Risk Factor ETF,BATS
 FICO,Fair Isaac Corporation,NYSE
 FICS,First Trust Exchange-Traded Fund VI First Trust International Developed Capital Strength ETF,NASDAQ
+FICVU,Frontier Investment Corp Units,NASDAQ
 FID,First Trust Exchange-Traded Fund VI First Trust S&P International Dividend Aristocrats ETF,NASDAQ
 FIDI,Fidelity International High Dividend ETF,ARCA
 FIDS,"FNB, Inc. (Dennison, OH) Common Stock",U
@@ -4001,7 +4011,6 @@ FSHYF,Shougang Fushan Resources Group Ltd Ordinary Shares (Hong Kong),U
 FSI,"Flexible Solutions International, Inc.",AMEX
 FSII,FS Development Corp. II Class A Common Stock,NASDAQ
 FSK,FS KKR Capital Corp. Common Stock,NYSE
-FSLF,First Eagle Senior Loan Fund,NYSE
 FSLR,"First Solar, Inc. Common Stock",NASDAQ
 FSLUF,FSL Trust Units Shipping Business Trust (Singapore),U
 FSLY,"Fastly, Inc.",NYSE
@@ -4665,7 +4674,7 @@ GGO PRA,The Gabelli Go Anywhere Trust Series A Cumulative Puttable and Callable 
 GGPI,"Gores Guggenheim, Inc. Class A Common Stock",NASDAQ
 GGPIU,"Gores Guggenheim, Inc. Unit",NASDAQ
 GGPIW,"Gores Guggenheim, Inc. Warrant",NASDAQ
-GGPXF,G-Resources Group Ltd Ordinary Shares (Bermuda),U
+GGPXF,G-Resources Group Ltd Ordinary Shares,U
 GGRGF,GROUPE GORGE SA Ordinary Shares (France),U
 GGRN,Global Green Solutions Inc. Common Stock,U
 GGROU,Golden Growers Coop Unit,U
@@ -5064,6 +5073,7 @@ GOAC WS,"GO Acquisition Corp. Warrants, each whole warrant exercisable for one s
 GOAQ,Golden Acquisition Corp Common Stock,U
 GOAT,VanEck Vectors Morningstar Global Wide Moat ETF,BATS
 GOAU,US Global GO Gold and Precious Metal Miners ETF,ARCA
+GOBI,Gobi Acquisition Corp. Class A Ordinary Shares,NASDAQ
 GOCH,"Geeks On Call Holdings, Inc. Common Stock",U
 GOCO,"GoHealth, Inc. Class A Common Stock",NASDAQ
 GOCOD,Go Metals Corp Common Shares,U
@@ -5493,7 +5503,6 @@ GUOHF,Grupo Radio Centro SA de CV A Shares (Mexico),U
 GUOLF,GUOCOLAND LTD Ordinary Shares,U
 GUONF,GUOLIAN SECS CO LTD REGISTERED SHARES H (China),U
 GUORF,GL LTD Ordinary Shares,U
-GUORY,GL Ltd American Depositary Receipts - Unsponsored,U
 GUOSF,GUOTAI JUNAN SECURITIES CO LTD Ordinary Shares BEARER\SHARES H\02611 China(CN),U
 GURE,"Gulf Resources, Inc. (NV) Common Stock",NASDAQ
 GURNF,Gurunavi Inc Ordinary Shares,U
@@ -5539,8 +5548,3 @@ GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
-GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
-GWON,Grandwon Corp. Common Stock,U
-GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
-GWPC,"Wholehealth Products, Inc. Common Stock",U
-GWPD,"GP Solutions, Inc. Common Stock",U

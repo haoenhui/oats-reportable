@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
+SHGY,SearchGuy.com Inc. Common Stock,U
+SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
@@ -626,7 +629,6 @@ SNNF,Seneca Finl Corp Common Stock,U
 SNNGF,PPX Mining Corp. Ordinary Shares,U
 SNNHF,Kingwell Group Ltd. Ordinary Shares (Cayman Islands),U
 SNNJF,Sennen Potash Corporation Common Shares,U
-SNNN,Sinorama Corp Common Stock,U
 SNNSF,SENSEN NETWORKS LTD Ordinary Shares,U
 SNNUF,Smith & Nephew Plc Ord Ordinary Shares,U
 SNNVF,Sunniva Inc Common Stock,U
@@ -713,6 +715,7 @@ SOFIW,"SoFi Technologies, Inc. Warrants",NASDAQ
 SOFO,"Sonic Foundry, Inc. Common Stock",U
 SOFSF,SOFTLAB9 TECHNOLOGIES INC Common Stock,U
 SOFT,"SofTech, Inc. Common Stock",U
+SOFWF,SOFWAVE MED LTD SHS (Israel),U
 SOGFF,Strategic Oil & Gas Ltd Ordinary Shares,U
 SOGO,"Sogou Inc. American Depositary Shares, each representing one Class A Ordinary Share",NYSE
 SOGU,The Short De-SPAC ETF,ARCA
@@ -1126,7 +1129,6 @@ SRTS,"Sensus Healthcare, Inc. Common Stock",NASDAQ
 SRTSF,Sarantis Sa Reg. Shares (Greece),U
 SRTTY,Zozo Inc American Depositary Receipts - Unsponsored,U
 SRTY,ProShares UltraPro Short Russell2000,ARCA
-SRUP,Sirrus Corp Common Stock,U
 SRUS,Stratus Capital Corp. Common Stock,U
 SRUTF,Sproutly Cda Inc Ordinary Shares,U
 SRV,The Cushing MLP & Infrastructure Total Return Fund,NYSE
@@ -1278,6 +1280,7 @@ STCRQ,Seertech Corporation Common Stock,U
 STDAF,Stada Arzneimittel Ag Namen AKT (Germany Federal Republic),U
 STDE,Standard Energy Corp Common Stock,U
 STE,STERIS plc,NYSE
+STEAF,STREAM MEDIA CORP SHS (Japan),U
 STECF,SCATEC ASA Ordinary Shares,U
 STEM,"Stem, Inc.",NYSE
 STEM WS,"Stem, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exercise pri",NYSE
@@ -1339,7 +1342,6 @@ STMM,Stemcell Hldgs Inc Common Stock,U
 STMNF,Sumitomo Metal Mng Wt 12/24/97 Ordinary Shares,U
 STMP,Stamps.com Inc.  Common Stock ($0.001 Par Value),NASDAQ
 STMRF,Stanmore Res Ltd Ordinary Shares,U
-STMWF,St Mowden Properties PLC Ordinary Shares (United Kingdom),U
 STMZF,Scottish Mortgage Invt Tr PLC Ordinary Shares GBP,U
 STN,"Stantec, Inc.",NYSE
 STNC,Stance Equity ESG Large Cap Core ETF,ARCA
@@ -1541,7 +1543,7 @@ SVLT,"Sunvault Energy, Inc. Common Stock",U
 SVM,Silvercorp Metals Inc. Common Shares,AMEX
 SVMB,"Savmobi Technology, Inc. Common Stock",U
 SVMLF,Sovereign Metals Ltd Ordinary Shares (Australia),U
-SVMMF,Silver Mountain Mines Inc Common Shares,U
+SVMMF,Nevgold Corp. Common Shares,U
 SVMN,Silverore Mines Inc Unclassified,U
 SVMRF,Sevan Marine ASA Ordinary Shares (Norway),U
 SVNBY,Seven Bank Ltd Unsponsored ADR (Japan),U
@@ -1825,7 +1827,6 @@ TAXF,American Century Diversified Municipal Bond ETF,ARCA
 TAYD,"Taylor Devices, Inc. Common Stock",NASDAQ
 TAYL,Taylor S Cos Inc,U
 TAYO,Taylor Consulting Inc Common Stock,U
-TBA,Thoma Bravo Advantage,NYSE
 TBABF,Trelleborg Ab B Fria (F) Ordinary Shares,U
 TBABY,Trelleborg AB Unsponsored American Depositary Receipts Representing B Shares (Sweden),U
 TBAKF,Ted Baker PLC London Ordinary Shares,U
@@ -2167,6 +2168,7 @@ THCB,Tuscan Holdings Corp. Common Stock,NASDAQ
 THCBF,THC BIOMED INTL LTD Ordinary Shares (Canada),U
 THCBU,Tuscan Holdings Corp. Unit,NASDAQ
 THCBW,Tuscan Holdings Corp. Warrant,NASDAQ
+THCPU,"Thunder Bridge Capital Partners IV, Inc. Unit",NASDAQ
 THCT,"THC Therapeutics, Inc. Common Stock",U
 THCX,The Cannabis ETF,ARCA
 THD,iShares MSCI Thailand ETF,ARCA
@@ -2594,7 +2596,7 @@ TONPF,Toppan Printing Ltd Ord Ordinary Shares,U
 TONR,"Tonner-One World Holdings, Inc Common Stock",U
 TOOD,Thermwood Corporation Common Stock,U
 TOPCF,Topcon Corp Ordinary Shares,U
-TOPPY,Toppan Printing Ltd Ord Sponsored ADR (Japan),U
+TOPPY,Toppan Inc. American Depositary Receipts - Sponsored,U
 TOPS,"TOP Ships, Inc. Common Stock",NASDAQ
 TOPZ,"Topaz Resources, Inc. Common Stock",U
 TORDF,Toronto Dominion Bk Ont Pfd Ser 14 4.85% Preferred Stock (Canada),U
@@ -3453,7 +3455,7 @@ UOADF,UOA DEVELOPMENT BHD SHS (Malaysia),U
 UOCT,Innovator S&P 500 Ultra Buffer ETF - October,BATS
 UOLGF,UOL Group Limited Ordinary Shares (Singapore),U
 UOLGY,UOL Group Limited Sponsored ADR (Singapore),U
-UOLID,Uonlive Corporation Common Stock,U
+UOLI,Uonlive Corporation Common Stock,U
 UOMO,UOMO Media Inc. Common Stock,U
 UONE,"Urban One, Inc. Class A Common Stock",NASDAQ
 UONEK,"Urban One, Inc. Class D Common Stock",NASDAQ
@@ -5295,6 +5297,7 @@ YORI,"Yora International, Inc. New Common Stock",U
 YORUF,Yokohama Rubber Ordinary Shares,U
 YORUY,Yokohama Rubber Unsponsored ADR (Japan),U
 YORW,York Water Company (The) Common Stock,NASDAQ
+YOU,"Clear Secure, Inc.",NYSE
 YPF,YPF Sociedad Anonima,NYSE
 YPPN,YAPPN CORP Common Stock,U
 YPS,Arrow Reverse Cap 500 ETF,BATS

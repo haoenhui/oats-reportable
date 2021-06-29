@@ -129,6 +129,7 @@ ABNAF,"Aben Resources, Ltd. Ordinary Shares",U
 ABNB,"Airbnb, Inc. Class A Common Stock",NASDAQ
 ABNC,"American Bancorp, Inc. (LA) Common Stock",U
 ABOIF,Aboitiz Equity Ventures Inc Ordinary Shares (Philippines),U
+ABOS,"Acumen Pharmaceuticals, Inc. Common Stock",NASDAQ
 ABPGF,ALIBABA PICTURES GROUP Ltd SHS (Bermuda),U
 ABPPF,Abacus Property Group Fully Paid Ord Units Stapled Securities (Australia),U
 ABPR,"Airborne Security & Protective Services, Inc. New Common Stock",U
@@ -730,7 +731,6 @@ AHACW,Alpha Healthcare Acquisition Corp. Warrant,NASDAQ
 AHAD,"Alphacom Holdings, Inc. Common Stock",U
 AHAG,"Alpha Technologies Group, Inc. Common Stock",U
 AHAHF,DESIGN MILK CO LTD Ordinary Shares,U
-AHC,A.H. Belo Corporation,NYSE
 AHCCF,APOLLO HEALTHCARE CORP Ordinary Shares,U
 AHCD,Archivalcd Common Stock,U
 AHCHF,Anhui Conch Cement Shares -H-Ordinary Shares,U
@@ -1543,7 +1543,7 @@ AQMS,"Aqua Metals, Inc. Common Stock",NASDAQ
 AQN,Algonquin Power & Utilities Corp,NYSE
 AQNA,Algonquin Power & Utilities Corp. 6.875% Fixed-to-Floating Rate Subordinated Notes Series 2018-A due,NYSE
 AQNB,Algonquin Power & Utilities Corp. 6.20% Fixed-to-Floating Subordinated Notes Series 2019-A due July,NYSE
-AQNNF,Algonquin Power & Utilities Corp Corporate Unit (Canada),U
+AQNU,Algonquin Power & Utilities Corp. Corporate Units,NYSE
 AQQRF,Aquarius Surgical Technologies Inc Ordinary Shares (Canada),U
 AQQSQ,AMERICAN SPECTRUM RLTY INC Common Stock undefined,U
 AQSP,Acquired Sales Corp. Common Stock,U
@@ -2205,6 +2205,7 @@ AVSFY,Avi Ltd Unsponsored ADR (South Africa),U
 AVSR,Avistar Communications Corporation Common Stock,U
 AVT,"Avnet, Inc. Common Stock",NASDAQ
 AVTD,"Artventive Medical Group, Inc. Common Stock",U
+AVTE,"Aerovate Therapeutics, Inc. Common Stock",NASDAQ
 AVTI,"Avitar, Inc. Common Stock",U
 AVTR,"Avantor, Inc.",NYSE
 AVTR PRA,"Avantor, Inc. Series A Mandatory Convertible Preferred Stock",NYSE
@@ -3720,7 +3721,7 @@ BTSR,"BrightStar Information Technology Group, Inc. Common Stock",U
 BTSRF,BTS Rail Mass Tran Growth Infrastructure Fund Units 2013 - Foreign Reg (Thailand),U
 BTT,BlackRock Municipal 2030 Target Term Trust,NYSE
 BTTAY,Biotest AG Unsponsored ADR (Germany),U
-BTTR,Better Choice Company Inc. Common Stock,U
+BTTR,Better Choice Company Inc.,AMEX
 BTTUF,Betteru Education Corp. Ordinary Shares (Canada),U
 BTU,Peabody Energy Corporation,NYSE
 BTUMF,BTU METALS CORP Ordinary Shares  Canada(CA ),U
@@ -4267,7 +4268,6 @@ CCPR,"CaseyCorp Enterprises, Inc. Common Stock",U
 CCPTF,CCP TECHNOLOGIES LTD Ordinary Shares  (Austrailia),U
 CCRC,"China Customer Relations Centers, Inc. Ordinary Shares",NASDAQ
 CCRDF,Concordia Finl Group Ltd. Ordinary Shares (Japan),U
-CCRGF,Intu Properties PLC Ordinary Shares (United Kingdom),U
 CCRN,"Cross Country Healthcare, Inc. Common Stock $0.0001 Par Value",NASDAQ
 CCRRF,Green River Gold Corp. Common Shares (Canada),U
 CCRV,iShares Commodity Curve Carry Strategy ETF,ARCA
@@ -4365,6 +4365,7 @@ CDXI,"Cardax, Inc. Common Stock",U
 CDXS,"Codexis, Inc. Common Stock",NASDAQ
 CDXXF,CHOICE CONSLDTN CORP UNIT 1 CL A RESTRICTED VTG & 1/4 WT EXP Unit,U
 CDYCF,Cardero Resource Corporation Ordinary Shares,U
+CDZAV,CADIZ INC DEP SHS REPSTG 1/1000TH SHS PERP PFD SER A,U
 CDZI,"CADIZ, Inc. Common Stock",NASDAQ
 CE,Celanese Corporation Common Stock,NYSE
 CEA,China Eastern Airlines,NYSE
@@ -4949,7 +4950,7 @@ CLDL,Direxion Daily Cloud Computing Bull 2X Shares,ARCA
 CLDR,"Cloudera, Inc.",NYSE
 CLDS,Direxion Daily Cloud Computing Bear 2X Shares,ARCA
 CLDT,CHATHAM LODGING TRUST,NYSE
-CLDTV,CHATHAM LODGING TR SER A CUMULATIVE REDEEMABLE PFD SHS BEN INT Preferred Stock,U
+CLDTP,CHATHAM LODGING TR SER A CUMULATIVE REDEEMABLE PFD SHS BEN INT Preferred Stock,U
 CLDX,"Celldex Therapeutics, Inc.",NASDAQ
 CLEGF,COLES GROUP LTD (Australia),U
 CLEGY,Coles Group Ltd. Unsponsored ADR (Australia),U
@@ -5188,7 +5189,7 @@ CMS PRB,Consumers Energy Company $4.50 Cumulative Preferred,NYSE
 CMSA,CMS Energy Corporation 5.625% Junior Subordinated Notes due 2078,NYSE
 CMSC,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2078,NYSE
 CMSD,CMS Energy Corporation 5.875% Junior Subordinated Notes due 2079,NYSE
-CMSEV,CMS Energy Corp DEPOSITARY SHS REPSTG 1/1000 INT SH CUMULATIVE REDEEMABLE PERP PFD STK SER C,U
+CMSEP,CMS Energy Corp DEPOSITARY SHS REPSTG 1/1000 INT SH CUMULATIVE REDEEMABLE PERP PFD STK SER C,U
 CMSQF,Computershare Ltd Aud 0.20 Ordinary Shares,U
 CMSQY,Computershare Ltd Sponsored ADR,U
 CMSYF,Comsys Holdings Corp Tokyo Ordinary Shares (Japan),U
@@ -5544,3 +5545,6 @@ CPER,United States Copper Index Fund,ARCA
 CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
+CPFH,"Capital Financial Holdings, Inc. Common Stock",U
+CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
+CPG,CRESCENT POINT ENERGY CORP.,NYSE

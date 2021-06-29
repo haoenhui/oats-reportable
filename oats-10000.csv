@@ -1,4 +1,9 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
+GWON,Grandwon Corp. Common Stock,U
+GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
+GWPC,"Wholehealth Products, Inc. Common Stock",U
+GWPD,"GP Solutions, Inc. Common Stock",U
 GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
 GWRRF,Engold Mines Ltd Ordinary Shares,U
 GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
@@ -686,7 +691,6 @@ HPCRF,Home Product Center Public Co Ltd Foreign Registered Shares(Thailand),U
 HPE,Hewlett Packard Enterprise Company,NYSE
 HPF,John Hancock Preferred Income Fund II,NYSE
 HPGLY,Hapag-Llyod AG American Depositary Receipts - Unsponsored (Germany Federal Republic),U
-HPGN,HypGen Inc Common Stock,U
 HPGSF,HIPGNOSIS SONGS FD LTD ORD NPV (Guernsey),U
 HPHGF,HOP HING GROUP LTD Common Shares Cayman Islands(KY ),U
 HPHTF,Hamamatsu Photonics Kk Ordinary Shares,U
@@ -1094,6 +1098,7 @@ IAUF,iShares Gold Strategy ETF,BATS
 IAUFF,AIC Mines Ltd Ordinary Shares,U
 IAUGF,Insurance Australia Group Ltd Ordinary Shares,U
 IAUGY,Insurance Australia Group Ltd American Depositary Receipts - Unsponsored,U
+IAUM,iShares Gold Trust Micro,ARCA
 IBA,Industrias Bachoco SAB De C.V.,NYSE
 IBAL,International Baler Corporation Common Stock,U
 IBB,iShares Biotechnology ETF,NASDAQ
@@ -1783,6 +1788,7 @@ INSW,"International Seaways, Inc. Common Stock",NYSE
 INSW PRA,"International Seaways, Inc. 8.50% Senior Notes due June 30, 2023",NYSE
 INSXF,INSTALLUX SA SHS (France),U
 INT,World Fuel Services Corporation,NYSE
+INTA,"Intapp, Inc. Common Stock",NASDAQ
 INTAF,INTACT FINL CORP NON CUM RATE RESET PFD SHS CL A SER 3 Canada(CA ),U
 INTC,Intel Corporation Common Stock,NASDAQ
 INTEQ,INTELSAT S A Common Stock,U
@@ -1991,6 +1997,8 @@ IRVDF,IRONVELD PLC Ordinary Shares (United Kingdom),U
 IRVRF,Irving Res Inc Ordinary Shares (Canada),U
 IRWD,"Ironwood Pharmaceuticals, Inc. Class A Common Stock",NASDAQ
 IRWPQ,Irwin Financial Corporation 8.70% Cumulative Trust Preferred Securities,U
+IRXTF,ISHARES VI PLC MSCI EUROPE CONSUMER STAPLES SECTOR UCITS ETF EUR (Ireland),U
+IS,ironSource Ltd.,NYSE
 ISAA,Iron Spark I Inc. Class A Common Stock,NASDAQ
 ISACF,ISHARES III PLC ACCUM SHS Exchange Traded Fund  Ireland(IE ),U
 ISAGF,Ishares III Plc Emerging Asia Local Govt BD UCITS ETF (Ireland),U
@@ -2021,7 +2029,7 @@ ISDMF,ISHARES II PLC DEVELOPED MARKETS PROPERTY YIELD UCITS ETF USD ACC (Ireland
 ISDR,Issuer Direct Corporation,AMEX
 ISDSF,Isign Media Solutions Inc. Ordinary Shares (Canada),U
 ISDX,Invesco Exchange-Traded Self-Indexed Fund Trust Invesco RAFI Strategic Developed ex-US ETF,NASDAQ
-ISDXF,iShares Canadian Corporate Bond Index ETF (Canada),U
+ISDXF,iShares Core Canadian Corporate Bond Index ETF Common Shares,U
 ISEE,"IVERIC bio, Inc. Common Stock",NASDAQ
 ISEJF,ISHARES III PLC Exchange Traded Fund ISHARES J P MORGAN EM LOCAL GOVT BOND UCITS ETF USD ACC  Ireland(IE ),U
 ISELF,Ishares IV PLC Electric Vehicles and Driving Technology UCITS ETF (Ireland),U
@@ -2053,7 +2061,7 @@ ISHRF,IShares Plc Shs GBP (Ireland),U
 ISHUF,Ishares Plc - Ishares Treasury Bond0 1 Yr Ucits ETF USD Acc (Ireland),U
 ISHVF,Ishares II Plc Exchange Traded Fund (Ireland),U
 ISHWF,Ishares MSCI World Quality Div UCITS ETF USD (Ireland),U
-ISHXF,Ishares Canadian Government Bond Index ETF (Canada),U
+ISHXF,iShares Core Canadian  Government Bond Index ETF Unit,U
 ISHYF,ISHARES II PLC HIGH YIELD CORP BOND UCITS ETF USD ACC Exchange Traded Fund (Ireland),U
 ISHZF,iShares III PLC Ordinary Shares (Ireland),U
 ISIG,"Insignia Systems, Inc. Common Stock",NASDAQ
@@ -2161,6 +2169,7 @@ ITA,iShares U.S. Aerospace & Defense ETF,BATS
 ITAC,"Industrial Tech Acquisitions, Inc. Class A common stock",NASDAQ
 ITACU,"Industrial Tech Acquisitions, Inc. Unit",NASDAQ
 ITACW,"Industrial Tech Acquisitions, Inc. Warrant",NASDAQ
+ITAN,Sparkline Intangible Value ETF,ARCA
 ITAYY,Indo Tambangraya Megah PT Unsponsored ADR (Indonesia),U
 ITB,iShares U.S. Home Construction ETF,BATS
 ITBDF,ISHARES PLC ISHARES TREASURY BOND 1 3YR UCITS ETF MXN HEDGED ACC Exchange Traded Fund,U
@@ -2869,7 +2878,6 @@ KARO,Karooooo Ltd. Ordinary Shares,NASDAQ
 KARS,KraneShares Electric Vehicles and Future Mobility Index ETF,ARCA
 KAST,"Kasten, Inc. Common Stock",U
 KATA,Katana Broadband Corporation Common Stock,U
-KATOF,Kato Sangyo Co Ltd Ordinary Shares (Japan),U
 KATSF,Katsuragawa Electric Co Ltd Ordinary Shares (Japan),U
 KATX,KAT Exploration Inc.  Common Stock,U
 KAURF,KAISER REEF LTD ORDINARY FULLY PAID (Australia),U
@@ -3271,6 +3279,7 @@ KRA,Kraton Corporation,NYSE
 KRANF,Kraneshares ICAV Exchange Traded Fund (Ireland),U
 KRBF,"Kreido BioFuels, Inc. Common Stock",U
 KRBN,KraneShares Global Carbon ETF,ARCA
+KRBOF,Kurabo Industries Ltd Ordinary Shares (Japan),U
 KRBP,"Kiromic BioPharma, Inc. Common Stock",NASDAQ
 KRC,Kilroy Realty Corp.,NYSE
 KRCLF,King Riv Res Ltd Ordinary Fully Paid (Australia),U
@@ -4421,6 +4430,7 @@ MBBB,VanEck Vectors Moody's Analytics BBB Corporate Bond ETF,BATS
 MBBC,Marathon Bancorp Inc Common Stock,U
 MBCC,Monarch Blue Chips Core ETF,BATS
 MBCFF,Itafos Common Shares,U
+MBCHF,Mindbeacon Holdings Inc. Common Shares (Canada),U
 MBCI,MabCure Inc. Common Stock,U
 MBCN,Middlefield Banc Corp. Common Stock,NASDAQ
 MBDC,Massachusetts Business Development Corp Common Stock,U
@@ -4475,6 +4485,7 @@ MCADU,Mountain Crest Acquisition Corp. II Unit,NASDAQ
 MCAE,Mountain Crest Acquisition Corp. III Common Stock,NASDAQ
 MCAER,Mountain Crest Acquisition Corp. III Right,NASDAQ
 MCAEU,Mountain Crest Acquisition Corp. III Unit,NASDAQ
+MCAFU,Mountain Crest Acquisition Corp. IV Unit,NASDAQ
 MCAP,"Mango Capital, Inc. Common Stock",U
 MCARY,Mercari Inc. American Depositary Receipts - Unsponsored   (Japan),U
 MCB,"Metropolitan Bank Holding Corp. Common Stock, $0.01 par value per share",NYSE
@@ -5075,7 +5086,6 @@ MLYSF,MARLEY SPOON AG Chess Depository Interests 10000 1 (Germany),U
 MMAC,"MMA Capital Holdings, Inc. Common Stock",NASDAQ
 MMAPF,Memscap SAOrdinary Shares (France),U
 MMAT,Meta Materials Inc. Common Stock,NASDAQ
-MMATF,Metamaterial Inc. Common Shares (Canada),U
 MMAYF,MSM Malaysia Holdings BHD Ordinary Shares (Malaysia),U
 MMBFD,VECTOR 21 HLDGS INC Common Stock,U
 MMBMF,MASMOVIL IBERCOM S A Acciones Por Desdoblamiento (Spain),U
@@ -5537,10 +5547,3 @@ MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
-MTCR,"Metacrine, Inc. Common Stock",NASDAQ
-MTD,Mettler-Toledo International,NYSE
-MTDR,MATADOR RESOURCES COMPANY,NYSE
-MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
-MTEI,Mountain Energy Inc Common Stock,U
-MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
-MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
