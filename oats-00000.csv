@@ -934,6 +934,7 @@ ALBKY,Alpha Services and Holdings SA American Depositary Receipts - Sponsored,U
 ALBO,"Albireo Pharma, Inc. Common Stock",NASDAQ
 ALBY,"Community Capital Bancshares, Inc. Common Stock",U
 ALC,Alcon Inc. Ordinary Shares,NYSE
+ALCC,AltC Acquisition Corp.,NYSE
 ALCCF,Alicanto Minerals Ltd Ordinary Shares (Australia),U
 ALCN,Atlantic Central Entprs Ltd Common Stock,U
 ALCO,"Alico, Inc. Common Stock",NASDAQ
@@ -1156,7 +1157,6 @@ AMGRF,AMA GROUP LTD SHS (Australia),U
 AMGXF,Anges Inc Ordinary Shares (Japan),U
 AMGY,"American Metal & Technology, Inc. Common Stock",U
 AMH,AMERICAN HOMES 4 RENT,NYSE
-AMH PRE,American Homes 4 Rent 6.35% Series E Cumulative Redeemable Perpetual Preferred Shares of Beneficial,NYSE
 AMH PRF,American Homes 4 Rent,NYSE
 AMH PRG,American Homes 4 Rent Series G cumulative redeemable perpetual preferred shares of beneficial intere,NYSE
 AMH PRH,American Homes 4 Rent Series H cumulative redeemable perpetual Preferred Shares of Beneficial Intere,NYSE
@@ -1597,7 +1597,6 @@ AREB,"American Rebel Holdings, Inc. Common Stock",U
 AREC,American Resources Corporation Class A Common Stock,NASDAQ
 ARECW,American Resources Corporation Warrants Expiring 08/27/2024,U
 ARES,Ares Management Corporation Class A Common Stock,NYSE
-ARES PRA,Ares Management Corporation 7.00% Series A Preferred Stock,NYSE
 ARESF,Artis Real Estate Invt Tr Trust Unit (Canada),U
 ARET,"Arete Industries, Inc. Common Stock",U
 AREVF,AREV NanoTec Brands Inc Common Shares,U
@@ -3691,7 +3690,6 @@ BTGRF,BTS GROUP HOLDINGS PUBLIC COMPANY LTD Foreign Shs (Thailand),U
 BTGWF,BTS Group Holdings Public Company Ltd. NVDR Shares (Thailand),U
 BTGYY,BTG PLC American Depositary Receipts - Sponsored (United Kingdom),U
 BTHE,Boston Therapeutics Inc Common Stock,U
-BTHR,"Sports Venues of Florida, Inc. Common Stock",U
 BTI,"British American Tobacco p.l.c. American Depositary Shares, American Depositary Shares, each represe",NYSE
 BTIM,Boatim Inc. Common Stock,U
 BTKRF,Black Tusk Resources Common Shares (Canada),U
@@ -4365,7 +4363,7 @@ CDXI,"Cardax, Inc. Common Stock",U
 CDXS,"Codexis, Inc. Common Stock",NASDAQ
 CDXXF,CHOICE CONSLDTN CORP UNIT 1 CL A RESTRICTED VTG & 1/4 WT EXP Unit,U
 CDYCF,Cardero Resource Corporation Ordinary Shares,U
-CDZAV,CADIZ INC DEP SHS REPSTG 1/1000TH SHS PERP PFD SER A,U
+CDZAP,CADIZ INC DEP SHS REPSTG 1/1000TH SHS PERP PFD SER A,U
 CDZI,"CADIZ, Inc. Common Stock",NASDAQ
 CE,Celanese Corporation Common Stock,NYSE
 CEA,China Eastern Airlines,NYSE
@@ -4706,7 +4704,6 @@ CHLTF,Cache Logistics Trust REIT (Signapore),U
 CHLWF,Charter Hall Long Wale Reit Fully Paid Units Stapled Securities (Australia),U
 CHMA,"Chiasma, Inc. Common Stock",NASDAQ
 CHMCF,"Chinaamc Etf Ser Unit Tr, Fund Manager: China Asset Management (Hong Kong)",U
-CHMD,Median Group Inc. Common Stock,U
 CHME,China Medicine Corporation Common Stock,U
 CHMG,Chemung Financial Corp Common Stock,NASDAQ
 CHMI,CHERRY HILL MORTGAGE INVESTMENT CORPORATION,NYSE
@@ -5092,6 +5089,7 @@ CMAUF,Chibougamau Independant Mines Inc Common Shares,U
 CMAX,"CareMax, Inc. Class A Common Stock",NASDAQ
 CMAXW,"CareMax, Inc. Warrant",NASDAQ
 CMBM,Cambium Networks Corporation Ordinary Shares,NASDAQ
+CMBNF,CEMBRA MONEY BK AG NAMEN AKT (Switzerland),U
 CMBS,iShares CMBS ETF,ARCA
 CMBXF,"Cambium Global Timberland Limited, St Helier Ordinary Shares (United Kingdom)",U
 CMC,Commercial Metals Company,NYSE
@@ -5548,3 +5546,6 @@ CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
+CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
+CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
+CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ

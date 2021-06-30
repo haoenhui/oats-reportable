@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
-CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
-CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
 CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
 CPHI,"China Pharma Holdings, Inc.",AMEX
 CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
@@ -335,7 +332,7 @@ CSR PRC,Centerspace 6.625% Series C Cumulative Redeemable Preferred Shares,NYSE
 CSRFF,Caisse Regionale De Credit Agricole Mutuel Du Nord De France Ordinary Shares,U
 CSRLF,CSR Limited Ordinary Shares (Australia),U
 CSRNF,Canstar Resources Inc  Common Shares,U
-CSRTF,Cryptostar Group Common Stock (Canada),U
+CSRTF,Cryptostar Corp Common Stock (Canada),U
 CSRVF,CROSS RIV VENTURES CORP Common Shares,U
 CSSDF,KAPE TECHNOLOGIES PLC Ordinary Shares,U
 CSSE,"Chicken Soup for the Soul Entertainment, Inc. Class A Common Stock",NASDAQ
@@ -1312,7 +1309,7 @@ DMYQ,"dMY Technology Group, Inc. IV",NYSE
 DMYQ U,"dMY Technology Group, Inc. IV Units, each consisting of one share of Class A common stock and one-fi",NYSE
 DMYQ WS,"dMY Technology Group, Inc. IV Redeemable warrants, each whole warrant exercisable for one share of C",NYSE
 DMZPY,DOMINOS PIZZA ENTERPRISES LTD  American Depositary Receipts - Unsponsored (Australia),U
-DNAA,Social Capital Suvretta Holdings Corp. I Class A ordinary share,NASDAQ
+DNAA,Social Capital Suvretta Holdings Corp. I Class A Ordinary Share,NASDAQ
 DNAB,Social Capital Suvretta Holdings Corp. II Class A Ordinary Shares,NASDAQ
 DNAC,Social Capital Suvretta Holdings Corp. III Class A ordinary shares,NASDAQ
 DNACF,Dena Co Ltd Tokyo Ordinary Shares (Japan),U
@@ -1437,6 +1434,7 @@ DQ,Daqo New Energy Corp. American Depositary Shares (each representing 5 Ordinar
 DQJCF,Pan Pac Intl Hldgs Corp Ordinary Shares,U
 DQJCY,Pan Pac Intl Hldgs Corp American Depositary Receipts - Unsponsored,U
 DQWS,Dswiss Inc Common Stock,U
+DRAYU,Macondray Capital Acquisition Corp. I Unit,NASDAQ
 DRCAF,D Rotshtein Construction & Assets Co Ltd Common Stock (Israel),U
 DRCHF,Direcional Engenharia Sa Ordinary Shares (Brazil),U
 DRCMF,DORE COPPER MNG CORP Common Shares Canada(CA ),U
@@ -1577,7 +1575,6 @@ DTH,WisdomTree International High Dividend Fund,ARCA
 DTHR,Dthera Sciences Common Stock,U
 DTII,Defense Technologies International Corp. Common Stock,U
 DTIL,"Precision BioSciences, Inc. Common Stock",NASDAQ
-DTJ,DTE Energy Company 2016 Series B 5.375% Junior Subordinated Debentures due 2076,NYSE
 DTLA PR,BROOKFIELD DTLA FUND OFFICE TRUST INVESTOR INC.,NYSE
 DTM WI,"DT Midstream, Inc.",NYSE
 DTMXF,Datametrex Ai Limit Ordinary Shares,U
@@ -2524,6 +2521,7 @@ EQT,EQT CORP,NYSE
 EQTD,Equal Trading Inc.Common Stock,U
 EQTE,"EQM Technologies & Energy, Inc. Common Stock",U
 EQTL,Equitech Intl Corp Common Stock,U
+EQTNP,Equitrans Midstream Corp Preferred Stock 4/A2,U
 EQTRF,Altamire Gold Corp Ordinary Shares,U
 EQTXF,Lake Winn Resources Corp.  Ordinary Shares,U
 EQUEY,Equatorial Energia S.A. Sponsored ADR (Brazil),U
@@ -3026,7 +3024,6 @@ FANUF,Fanuc Limited Ordinary Shares,U
 FANUY,Fanuc Corporation Unsponsored ADR (Japan),U
 FAPPF,CI ACTIVE UTILITY & INFRASTRUCTURE ETF Common Shares,U
 FAPR,FT Cboe Vest U.S. Equity Buffer ETF - April,BATS
-FARE,"World Moto, Inc. Common Stock",U
 FARM,Farmer Brothers Company Common Stock,NASDAQ
 FARO,"FARO Technologies, Inc. Common Stock",NASDAQ
 FARYF,Far LTD Ordinary Shares (Australia),U
@@ -3359,7 +3356,7 @@ FGWLF,FLUGHAFEN WIEN AKTIENGESELLSCHAFT Ordinary Shares,U
 FHAI,"Fountain Healthy Aging, Inc. Common Stock",U
 FHB,"First Hawaiian, Inc. Common Stock",NASDAQ
 FHBC,"Fernhill Beverage, Inc. Common Stock",U
-FHBI,"First Home Bancorp, Inc Common Stock",U
+FHBI,BAYFIRST FINL CORP Common Stock,U
 FHGDF,Founder Holdings Ltd Ordinary Shares,U
 FHI,"Federated Hermes, Inc.",NYSE
 FHILF,Freehill Mining Ltd Ordinary Shares (Australia),U
@@ -3944,6 +3941,7 @@ FRPC,First Republic Corporation of America (The) Common Stock,U
 FRPH,"FRP Holdings, Inc. Common Stock",NASDAQ
 FRPRF,4D Pharma PLC Ordinary Shares (United Kingdom),U
 FRPT,"Freshpet, Inc. Common Stock",NASDAQ
+FRRDF,FRONTIER DEVS PLC SHS (United Kingdom),U
 FRRFF,4imprint Group Plc Ordinary Shares (United Kingdom),U
 FRRGF,Frontier Digital Ventures Ltd Ordinary Shares (Australia),U
 FRRLF,Fineland Real Estate Service Ordinary Shares (Cayman Islands),U
@@ -5098,7 +5096,6 @@ GOLF,Acushnet Holdings Corp.,NYSE
 GOLXF,GOLDEN LAKE EXPL INC Common Shares,U
 GOMRF,"Geomega Resources, Inc. Ordinary Shares (Canada)",U
 GOOD,Gladstone Commercial Corporation Real Estate Investment Trust,NASDAQ
-GOODM,Gladstone Commercial Corporation Series D Cumulative Redeemable Preferred Stock,NASDAQ
 GOODN,Gladstone Commercial Corporation 6.625% Series E Cumulative Redeemable Preferred Stock,NASDAQ
 GOODO,"Gladstone Commercial Corporation 6.00% Series G Cumulative Redeemable Preferred Stock, par value $0.001 per share",NASDAQ
 GOOG,Alphabet Inc. Class C Capital Stock,NASDAQ
@@ -5231,7 +5228,6 @@ GRID,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,NASDAQ
 GRIL,"Muscle Maker, Inc Common Stock",NASDAQ
 GRIN,Grindrod Shipping Holdings Ltd. Ordinary Shares,NASDAQ
 GRKZF,Greek Organisation of Football Prognostics S.A. Opap Ordinary Shares (Greece),U
-GRLB,"GL Brands, Inc. Common Stock",U
 GRLF,"Green Leaf Innovations, Inc. Common Stock",U
 GRLGF,"Greatland Gold PLC, London, Ordinary Shares  (United Kingdom)",U
 GRLT,"Grillit, Inc. Common Stock",U
@@ -5455,6 +5451,7 @@ GTN A,"Gray Television, Inc. Class A",NYSE
 GTNLF,"GTN LTD, ORDINARY FULLY PAID (Australia)",U
 GTNM,Golden Time Network Marketing Limited Common Stock,U
 GTO,Invesco Total Return Bond ETF,ARCA
+GTOR,GGTOOR INC Common Stock,U
 GTPA,"Gores Technology Partners, Inc. Class A Common Stock",NASDAQ
 GTPAU,"Gores Technology Partners, Inc. Units",NASDAQ
 GTPAW,"Gores Technology Partners, Inc. Warrant",NASDAQ
@@ -5548,3 +5545,7 @@ GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
 GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
+GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
+GWON,Grandwon Corp. Common Stock,U
+GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
+GWPC,"Wholehealth Products, Inc. Common Stock",U

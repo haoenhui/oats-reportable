@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
-GWON,Grandwon Corp. Common Stock,U
-GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
-GWPC,"Wholehealth Products, Inc. Common Stock",U
 GWPD,"GP Solutions, Inc. Common Stock",U
 GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
 GWRRF,Engold Mines Ltd Ordinary Shares,U
@@ -295,6 +291,7 @@ HEOFF,"H2O Innovation, Inc Ordinary Shares",U
 HEOL,Highwater Ethanol LLC Membership Unit,U
 HEP,"Holly Energy Partners, L.P.",NYSE
 HEPA,"Hepion Pharmaceuticals, Inc. Common Stock",NASDAQ
+HEPS,D-Market Electronic Services & Trading American Depositary Shares,NASDAQ
 HEPZF,HORIZONS ENHANCED INCOME GOLD PRODUCERS ETF Unit,U
 HEQ,JOHN HANCOCK HEDGED EQUITY & INCOME FUND,NYSE
 HERA,FTAC Hera Acquisition Corp. Class A Ordinary Shares,NASDAQ
@@ -874,6 +871,8 @@ HTUS,Hull Tactical US ETF,ARCA
 HTWSF,Helios Towers PLC Ordinary Shares (United Kingdom),U
 HTY,JOHN HANCOCK TAX-ADVANTAGED GLOBAL SHAREHOLDER YIELD FUND,NYSE
 HTZGQ,"Hertz Global Holdings, Inc. Common Stock",U
+HTZZ,HERTZ GLOBAL HLDGS INC NEW COM,U
+HTZZW,HERTZ GLOBAL HLDGS INC NEW WT EXP 06/30/2051,U
 HUABF,Huabao International Holdings Ltd Ordinary Shares (Bermuda),U
 HUAKF,Huakang Biomedical Holdings Co Ltd HKD Shares (Cayman Islands),U
 HUATF,Huatai Securities Co Ltd Shares H,U
@@ -1068,9 +1067,6 @@ IAA,"IAA, Inc. Common Stock",NYSE
 IAACF,Ishares IV PLC Accum Ptg Shares ETF (Ireland),U
 IAALF,IBC Advanced Alloys Corp Common Shares,U
 IAC,IAC/InterActiveCorp Common Stock,NASDAQ
-IACA,ION Acquisition Corp 1 Ltd.,NYSE
-IACA U,"ION Acquisition Corp 1 Ltd. Units, each consisting of one Class A ordinary share and one-fifth of on",NYSE
-IACA WS,"ION Acquisition Corp 1 Ltd. Warrants, each whole warrant exercisable for one Class A ordinary share",NYSE
 IACB,ION Acquisition Corp 2 Ltd.,NYSE
 IACB U,"ION Acquisition Corp 2 Ltd. Units, each consisting of one Class A ordinary share and one-eighth of o",NYSE
 IACB WS,"ION Acquisition Corp 2 Ltd. Warrants, each whole warrant exercisable for one Class A ordinary share",NYSE
@@ -3495,7 +3491,6 @@ LAGR,L A Gear Inc Common Stock,U
 LAIMF,LINK-ASIA INTL MEDTECH GROUP LTD SHS NEW (Cayman Islands),U
 LAIX,LAIX Inc.,NYSE
 LAKE,"Lakeland Industries, Inc. Common Stock",NASDAQ
-LAKFD,The Healing Company Inc. Common Stock,U
 LAMR,Lamar Advertising Company Class A Common Stock,NASDAQ
 LANC,Lancaster Colony Corporation Common Stock,NASDAQ
 LAND,Gladstone Land Corporation Common Stock,NASDAQ
@@ -4073,6 +4068,7 @@ LRN,"Stride, Inc.",NYSE
 LRNT,Lorain Telecom Corp Unclassified,U
 LRNZ,"TrueShares Technology, AI & Deep Learning ETF",ARCA
 LRSNF,Global Health Clinics Ltd Ordinary Shares,U
+LRSRF,LATIN RES LTD SHS NEW (Australia),U
 LRSV,Link Reservations Inc. Common Stock,U
 LRTNF,"Pure Gold Mining, Inc. Ordinary Shares (Canada)",U
 LRTTF,Liberty One Lithium Corp. Ordinary Shares,U
@@ -4287,6 +4283,7 @@ LYXOF,LYXOR INDEX FUND SICAV SHS LYX FLOATING RATE NOTE UC ETF DIST Exchange Tra
 LYXRF,Lyxor International Asset Mgmt CAC 40 Master Unit ETF Units -D- of Distribution (France),U
 LYXXF,Lyxor Ucits ETF MSCI AC Asia PAC Ex Japan FCP Units D Eur of Cap ET/OU (France),U
 LYYXF,Lyxor International Asset Management FCP Units D Eur of Capitalisation ET/OU (France),U
+LZ,"LegalZoom.com, Inc. Common Stock",NASDAQ
 LZAGF,Lonza Group Ag Zuerich Namen AKT (Switzerland(,U
 LZAGY,Lonza Group Ag Zuerich Unsponsored ADR (Switzerland),U
 LZB,La-Z-Boy Incorporated,NYSE
@@ -4732,6 +4729,7 @@ MET,"MetLife, Inc.",NYSE
 MET PRA,"Metlife, Inc. Floating Rate Non Cuml Series A",NYSE
 MET PRE,"MetLife, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.625% Non-Cum",NYSE
 MET PRF,"MetLife, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.75% Non-Cumu",NYSE
+META,Roundhill Ball Metaverse ETF,ARCA
 METC,"Ramaco Resources, Inc. Common Stock",NASDAQ
 METOF,Meteoric Resorces NL Ordinary Shares (Australia),U
 METX,Meten EdtechX Education Group Ltd. Ordinary Shares,NASDAQ
@@ -4876,7 +4874,6 @@ MHPC,Manufactured Housing Properties Inc. Common Stock,U
 MHPSY,MHP S A GDR Reg S,U
 MHRTF,Pt Matahari Dept Store Tbk Ordinary Shares (Indonesia),U
 MHSDF,Megacable Holdings SAB DE CV Cert Par Ord Cons of 2 Shares A (Mexico),U
-MHSMF,MUSASHI SEIMITSU INDUSTRY CO LTD TOYOHASHI Ordinary Shares Japan(JP ),U
 MHTCF,Maitri Health Technologies Corp Common Shares,U
 MHTX,"Manhattan Scientifics, Inc. Common Stock",U
 MHTZF,Manhattan Corporation Ordinary Shares (Austrailia),U
@@ -5426,6 +5423,7 @@ MRRCF,Wayland Group Corp Ordinary Shares,U
 MRRDF,Meridian Mining UK Societas Ordinary Shares,U
 MRRHF,Marret High Yield Strategies Fund Class A Unit (Canada),U
 MRRTY,Marfrig Global Foods SA Sponsored ADR (Brazil),U
+MRRYF,Mary Agrotechnologies Inc Common Stock (Canada),U
 MRSK,Toews Agility Shares Managed Risk ETF,BATS
 MRSKF,DMG MORI CO LTD Ordinary Shares,U
 MRSN,"Mersana Therapeutics, Inc. Common Stock",NASDAQ
@@ -5547,3 +5545,7 @@ MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
+MTCR,"Metacrine, Inc. Common Stock",NASDAQ
+MTD,Mettler-Toledo International,NYSE
+MTDR,MATADOR RESOURCES COMPANY,NYSE
+MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U

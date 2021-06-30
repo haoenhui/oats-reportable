@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTCR,"Metacrine, Inc. Common Stock",NASDAQ
-MTD,Mettler-Toledo International,NYSE
-MTDR,MATADOR RESOURCES COMPANY,NYSE
-MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
@@ -207,6 +203,7 @@ MYMMF,MYM Nutraceuticals Inc Ordinary Shares (Canada),U
 MYMRF,Myanmar Metals Ltd Ordinary Shares (Austrailia),U
 MYMX,Mymetics Corporation Common Stock,U
 MYN,"BLACKROCK MUNIYIELD NEW YORK QUALITY FUND, INC.",NYSE
+MYNDF,MYND Life Sciences Inc Common Stock (Canada),U
 MYO,Myomo Inc.,AMEX
 MYOV,Myovant Sciences Ltd.,NYSE
 MYPHY,Mayne Pharma Group Limited American Depositary Receipts - Unsponsored (Australia),U
@@ -1387,7 +1384,7 @@ NYT,New York Times Co.,NYSE
 NYUKF,Nippon Yusen Kabushiki Kaisha Ordinary Shares,U
 NYVA,Nyvatex Oil Corp Common Stock,U
 NYWKF,NTG Clarity Networks Inc Ordinary Shares,U
-NYXFF,NYXOAH S A  Ordinary Shares,U
+NYXH,Nyxoah SA Ordinary Shares,NASDAQ
 NYXO,Nyxio Technologies Corporation Common Stock,U
 NZEOF,New Zealand Oil & Gas Ltd Ordinary Shares,U
 NZEOY,New Zealand Oil & Gas Ltd American Depositary Receipts - Unsponsored,U
@@ -3176,7 +3173,6 @@ PRYNF,Backstageplay Inc Common Shares,U
 PRZFF,BOUNDARY GOLD & COPPER MNG LTD Ordinary Shares,U
 PRZM,PRISM TECHNOLOGIES GROUP INC Common Stock,U
 PSA,Public Storage,NYSE
-PSA PRC,Public Storage  Depositary Shares Each Representing 1/1000 of a 5.125% Cumulative Preferred Share of,NYSE
 PSA PRD,Public Storage,NYSE
 PSA PRE,Public Storage Depositary Shares Each Representing 1/1000 of a 4.90% Cumulative Preferred Share of B,NYSE
 PSA PRF,"Public Storage Depositary Shares Each Representing 1/1,000 of a 5.15% Cumulative Preferred Share of",NYSE
@@ -3832,6 +3828,9 @@ QUTIF,Questor Technology Inc Ordinary Shares,U
 QVAL,Alpha Architect U.S. Quantitative Value ETF,BATS
 QVCC,"QVC, Inc. 6.250% Senior Secured Notes due 2068",NYSE
 QVCD,"QVC, Inc. 6.375% Senior Secured Notes due 2067",NYSE
+QVML,Invesco S&P 500 QVM Multi-factor ETF,ARCA
+QVMM,Invesco S&P MidCap 400 QVM Multi-factor ETF,ARCA
+QVMS,Invesco S&P SmallCap 600 QVM Multi-factor ETF,ARCA
 QWIKF,Qwick Media Inc. Ordinary Shares (Cayman Islands),U
 QWLD,SPDR MSCI World StrategicFactors ETF,ARCA
 QWTR,Quest Water Global Inc. Common,U
@@ -3988,7 +3987,8 @@ RCPHF,RECIPHARM AB SHS -B- (Sweden),U
 RCPIQ,"Rock Creek Pharmaceuticals, Inc. Common Stock",U
 RCPUF,RECIPE UNLIMITED CORP Common Shares  Canada(CA ),U
 RCRRF,Recruit Hldgs Co Ltd Ordinary Shares (Japan),U
-RCRTD,"Recruiter.com Group, Inc. Common Stock",U
+RCRT,"Recruiter.com Group, Inc. Common Stock",NASDAQ
+RCRTW,"Recruiter.com Group, Inc. Warrant",NASDAQ
 RCRUY,Recruit Holdings Co. Ltd. American Depositary Receipts - Unsponsored,U
 RCS,"PIMCO STRATEGIC INCOME FUND, INC.",NYSE
 RCTC,Ready Credit Corporation Common Stock,U
@@ -4912,6 +4912,7 @@ SAPMF,Saipem Spa San Donato Milanese Ordinary Shares,U
 SAPMY,Saipem Spa San Donato Milanese American Depositary Receipts - Unsponsored,U
 SAPX,"Seven Arts Entertainment, Inc. Common stock (NV)",U
 SAR,SARATOGA INVESTMENT CORP. NEW,NYSE
+SARCF,SARASELECT NAMEN -ANTEILE (Switzerland),U
 SARDF,SANFORD LTD O N (New Zealand),U
 SARDY,Sanford Ltd Unsponsored ADR (New Zealand),U
 SAREF,Sabre Resources Ltd Ordinary Shares (Austrailia),U
@@ -4995,7 +4996,6 @@ SBLUY,STABILUS S A American Depositary Receipts - Unsponsored Luxembourg(LU ),U
 SBM,ProShares Short Basic Materials,ARCA
 SBMFF,Sino Biopharmaceutical Ordinary Shares (Cayman Islands),U
 SBMIF,Stratabound Minerals Corp Common Shares,U
-SBMJF,DIMERIX BIOSCIENCE LTD SHS (Australia),U
 SBMSF,DANAKALI LTD  Ordinary Shares,U
 SBNC,Southern Bancshares N C Inc Common Stock,U
 SBNCM,Southern Bancshares N C Inc Preferred Stock,U
@@ -5547,3 +5547,5 @@ SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
+SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
+SHGY,SearchGuy.com Inc. Common Stock,U

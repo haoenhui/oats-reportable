@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
-SHGY,SearchGuy.com Inc. Common Stock,U
 SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
@@ -110,7 +108,7 @@ SIELY,Shanghai Electric Group Co Ltd Unsponsored ADR (China),U
 SIEN,"Sientra, Inc. Common Stock",NASDAQ
 SIERF,SIERRA GROWTH CORP Ordinary Shares,U
 SIETY,D IETEREN GROUP American Depositary Receipts - Unsponsored,U
-SIEVF,SA D Ieteren Ordinary Shares (Belgium),U
+SIEVF,D IETEREN GROUP NV Ordinary Shares,U
 SIF,"SIFCO Industries, Inc.",AMEX
 SIFY,Sify Technologies Limited American Depositary Shares,NASDAQ
 SIG,Signet Jewelers Limited,NYSE
@@ -295,7 +293,6 @@ SKYAU,Skydeck Acquisition Corp. Units,NASDAQ
 SKYE,"Skye Bioscience, Inc. Common Stock",U
 SKYF,SKY440 Inc Common Stock,U
 SKYI,"Sky Century Investment, Inc. Common Stock",U
-SKYL,Sky Resort International Ltd. Common Stock,U
 SKYT,"SkyWater Technology, Inc. Common Stock",NASDAQ
 SKYU,ProShares Trust ProShares Ultra Nasdaq Cloud Computing ETF,NASDAQ
 SKYW,"SkyWest, Inc. Common Stock",NASDAQ
@@ -1124,7 +1121,6 @@ SRSPF,Siriuspoint Ltd. RESETTABLE FIXED RATE PFD SHS SER B 8% (Bermuda),U
 SRSR,Sarissa Resources Inc. Common Stock,U
 SRT,Startek Inc.,NYSE
 SRTOY,Sartorius Stedim Biotech S A Unsponsored ADR (France),U
-SRTRF,SRI TRANG AGRO-INDUSTRY PUBLIC CO LTD Shs Foreign Registered (Thailand),U
 SRTS,"Sensus Healthcare, Inc. Common Stock",NASDAQ
 SRTSF,Sarantis Sa Reg. Shares (Greece),U
 SRTTY,Zozo Inc American Depositary Receipts - Unsponsored,U
@@ -1624,6 +1620,7 @@ SWPFF,Swire Pptys Ltd Ord Shs (Hong Kong),U
 SWPIF,Sawai Pharmaceutical Co Ltd Ordinary Shares,U
 SWPLY,Swire Pptys Ltd American Depositary Receipts - Unsponsored (Hong Kong),U
 SWPRF,Swiss Prime Site AG Namen AKT,U
+SWQGF,SWISSQUOTE GROUP HOLDING SA GLAND SHS NOM (Switzerland),U
 SWRAF,Swire Pacific Ltd Ordinary Shares,U
 SWRAY,Swire Pacific Ltd Sponsored ADR representing 1 Class A Share,U
 SWRBF,Swire Pacific Ltd Ordinary Shares SHS B (Hong Kong),U
@@ -1853,6 +1850,8 @@ TBIO,"Translate Bio, Inc. Common Stock",NASDAQ
 TBJL,Innovator 20+ Year Treasury Bond 9 Buffer ETF - July,BATS
 TBK,"Triumph Bancorp, Inc. Common Stock",NASDAQ
 TBKCP,"Triumph Bancorp, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.125% Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock",NASDAQ
+TBLA,Taboola.com Ltd. Ordinary Shares,NASDAQ
+TBLAW,Taboola.com Ltd. Warrant,NASDAQ
 TBLLF,TOMBILL MINES LTD CDA NEW Common Shares,U
 TBLMF,Tiger Brands Ltd Ordinary Shares (South Africa),U
 TBLMY,Tiger Brands Ltd Sponsored ADR New (South Africa),U
@@ -2168,6 +2167,7 @@ THCB,Tuscan Holdings Corp. Common Stock,NASDAQ
 THCBF,THC BIOMED INTL LTD Ordinary Shares (Canada),U
 THCBU,Tuscan Holdings Corp. Unit,NASDAQ
 THCBW,Tuscan Holdings Corp. Warrant,NASDAQ
+THCC,The Healing Company Inc. Common Stock,U
 THCPU,"Thunder Bridge Capital Partners IV, Inc. Unit",NASDAQ
 THCT,"THC Therapeutics, Inc. Common Stock",U
 THCX,The Cannabis ETF,ARCA
@@ -3864,6 +3864,7 @@ VGDVF,VANGUARD FUNDS PLC FTSE DEVELOPED UCITS ETF USD (Ireland),U
 VGFPF,Vanguard Funds Plc S&P 500 UCITS Accum Usd Exchange Traded Fund (Ireland),U
 VGFUF,Vanguard Funds PLC Emerging Markets Government Bond UCITS ETF (Ireland),U
 VGGDF,Vanguard Australia Limited Units Exchange Traded Fund (Australia),U
+VGGIF,Boosh Plant-Based Brands Inc Common Stock (Canada),U
 VGGOF,GREENHAWK RES INC Ordinary Shares,U
 VGI,VIRTUS GLOBAL MULTI-SECTOR INCOME FUND,NYSE
 VGID,V Group Inc. Common Stock,U
@@ -4176,6 +4177,7 @@ VPV,Invesco  Pennsylvania Value Municipal Income Trust,NYSE
 VQSLF,VIQ Solutions Inc Common Shares,U
 VRA,"Vera Bradley, Inc. Common Stock",NASDAQ
 VRAI,Virtus Real Asset Income ETF,ARCA
+VRAR,"The Glimpse Group, Inc. Common Stock",NASDAQ
 VRAY,"ViewRay, Inc. Common Stock",NASDAQ
 VRBCF,Ste Virbac SA Ordinary Shares,U
 VRBFF,VanadiumCorp Resource Inc Ordinary Shares,U
@@ -4417,6 +4419,7 @@ WASEF,WAH SEONG CORPORATION BHD Ordinary Shares,U
 WASH,"Washington Trust Bancorp, Inc. Common Stock",NASDAQ
 WAT,Waters Corp,NYSE
 WATT,Energous Corporation Common Stock,NASDAQ
+WAVE,Eco Wave Power Global AB (publ) American Depositary Shares,NASDAQ
 WAXS,"World Access, Inc. Common Stock",U
 WAYN,Wayne Savings Bancshares Inc. - Common Stock,U
 WAYS,Wave Sync Corp. Common Stock,U
@@ -4591,7 +4594,6 @@ WHGLY,Wh Group Ltd. American Depositary Receipts - Sponsored (Cayman Islands),U
 WHGOF,White Gold Corp Ordinary Shares,U
 WHGPF,Warehouse Group Ltd Ordinary Shares (New Zealand),U
 WHGRF,WH GROUP LTD Ordinary Shares (Cayman Islands),U
-WHHT,"Wonhe High-Tech International, Inc. Common Stock",U
 WHITF,"Whitehaven Coal Ltd, Brisbane Ordinary Shares (Austrailia)",U
 WHITY,"Whitehaven Coal Ltd, Brisbane American Depositary Receipts (Unsponsored)(Australia)",U
 WHKA,World Hockey Association Corp. New Common Stock,U
