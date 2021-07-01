@@ -483,6 +483,7 @@ AEL PRB,"American Equity Investment Life Holding Company Depositary Shares, each
 AELIY,Anadolu Hayat Emeklilik AS Unsponsored ADR (Turkey),U
 AELTF,Adacel Technologies Ltd Ordinary Shares,U
 AEM,Agnico Eagle Mines Ltd.,NYSE
+AEMB,American Century Emerging Markets Bond ETF,ARCA
 AEMC,Archer Entertainment Media Communications Incorporated New Common Stock,U
 AEMD,"Aethlon Medical, Inc. Common Stock",NASDAQ
 AEMFF,AEM Holdings Limited Ordinary Shares (Singapore),U
@@ -934,7 +935,6 @@ ALBKY,Alpha Services and Holdings SA American Depositary Receipts - Sponsored,U
 ALBO,"Albireo Pharma, Inc. Common Stock",NASDAQ
 ALBY,"Community Capital Bancshares, Inc. Common Stock",U
 ALC,Alcon Inc. Ordinary Shares,NYSE
-ALCC,AltC Acquisition Corp.,NYSE
 ALCCF,Alicanto Minerals Ltd Ordinary Shares (Australia),U
 ALCN,Atlantic Central Entprs Ltd Common Stock,U
 ALCO,"Alico, Inc. Common Stock",NASDAQ
@@ -1858,6 +1858,8 @@ ASTE,"Astec Industries, Inc. Common Stock",NASDAQ
 ASTI,ASCENT SOLAR TECHNOLOGIES INC Common Stock,U
 ASTO,Astro Communications Inc Common Stock,U
 ASTPF,ASTM SPA Ordinary Shares (Italy),U
+ASTR,"Astra Space, Inc. Class A Common Stock",NASDAQ
+ASTRW,"Astra Space, Inc. Warrant",NASDAQ
 ASTS,"AST SpaceMobile, Inc. Class A Common Stock",NASDAQ
 ASTSW,"AST SpaceMobile, Inc. Warrant",NASDAQ
 ASTTF,Australis Oil & Gas Ltd Ordinary Shares (Australia),U
@@ -1903,8 +1905,6 @@ ATCMF,Atico Mining Corp Com (Canada),U
 ATCN,Atec Inc Common Stock,U
 ATCO,Atlas Corp.,NYSE
 ATCO PRD,Atlas Corp. 7.95% Series D Cumulative Redeemable Perpetual Preferred Shares,NYSE
-ATCO PRE,Atlas Corp. 8.25% Series E Cumulative Redeemable Perpetual Preferred Shares,NYSE
-ATCO PRG,Atlas Corp. 8.20% Cumulative Redeemable Perpetual Preferred Shares - Series G,NYSE
 ATCO PRH,Atlas Corp. 7.875% Cumulative Redeemable Perpetual Preferred Shares - Series H,NYSE
 ATCO PRI,Atlas Corp. Series I Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Shares,NYSE
 ATCOL,Atlas Corp. 7.125% Notes due 2027,NASDAQ
@@ -1913,7 +1913,7 @@ ATCX,"Atlas Technical Consultants, Inc. Class A Common Stock",NASDAQ
 ATDEF,Montana Exploration Corp. Common Shares,U
 ATDRF,AUTO TRADER GROUP PLC Ordinary Shares GBP (United Kingdom),U
 ATDRY,AUTO TRADER GROUP PLC American Depositary Receipts - Unsponsored (United Kingdom),U
-ATDS,DATA443 RISK MITIGATION INC NEV Common Stock,U
+ATDSD,DATA443 RISK MITIGATION INC NEV Common Stock,U
 ATEAY,ATEA ASA American Depositary Receipts - Unsponsored (Norway),U
 ATEC,"Alphatec Holdings, Inc. Common Stock",NASDAQ
 ATEN,A10 NETWORKS INC,NYSE
@@ -1938,6 +1938,7 @@ ATH PRD,"Athene Holding Ltd. Depositary Shares, Each Representing a 1/1,000th In
 ATHA,"Athira Pharma, Inc. Common Stock",NASDAQ
 ATHC,Accelerated Technologies Holding Corp. Common Stock,U
 ATHE,Alterity Therapeutics Limited American Depositary Shares,NASDAQ
+ATHHF,Aether Catalyst Solutions Inc Common Shares (Canada),U
 ATHI,"American Transportation Holdings, Inc.  Common Stock",U
 ATHJF,Antisense Therapeutics Ltd Ordinary Shares,U
 ATHJY,Antisense Therapeutics Ltd Sponsored ADR (Australia),U
@@ -2402,6 +2403,7 @@ BAK,Braskem S.A. American Depositary Shares (Each representing Two Class A  Pref
 BAKBF,Barkby Group Plc Ord GBP0.00860675675675676 (United Kingdom),U
 BAKPF,Global Oil & Gas Ltd. Ordinary Shares,U
 BAL,iPath Series B Bloomberg Cotton Subindex Total ReturnSM ETN,ARCA
+BALT,Innovator Defined Wealth Shield ETF,BATS
 BALTF,Barclays Bk PLC iPath Bloomberg Cotton Subindex Total Return ETN due 06/24/2038 (United Kingdom),U
 BALY,Bally's Corporation,NYSE
 BAM,Brookfield Asset Management Inc,NYSE
@@ -3219,7 +3221,7 @@ BMTM,"Bright Mountain Media, Inc. Common Stock",U
 BMTX,"BM Technologies, Inc.",AMEX
 BMTX WS,"BM Technologies, Inc. Warrants, each warrant exercisable for one share of Common Stock at an exercis",AMEX
 BMWYY,Bayerische Motoren Werke Ag Pf American Depositary Receipts - Sponsored (Germany),U
-BMXCD,BEMAX INC Common Stock,U
+BMXC,BEMAX INC Common Stock,U
 BMXI,Brookmount Explorations Inc. Common Stock,U
 BMXMF,Biomerieux 69 Marcy L'Etoile Ordinary Shares,U
 BMXXY,BIOMERIEUX S A American Depositary Receipts - Unsponsored (France),U
@@ -3384,7 +3386,6 @@ BPCGY,Banco Comercial Portugues Sa American Depositary Receipts - Unsponsored,U
 BPCOF,VAR RES CORP Ordinary Shares,U
 BPCP,Bishop Capital Corporation NewCommon Stock,U
 BPCVF,BANCA PICCOLO CREDITO VALTELLINESE SPA AZIONI Ordinary Shares (Italy),U
-BPFH,"Boston Private Financial Holdings, Inc. Common Stock",NASDAQ
 BPHLF,Bank of the Philippine Islands BPI Ordinary Shares,U
 BPHLY,Bank of the Philippine Islands BPI Unsponsored ADR (Philippines),U
 BPHMF,BIOFERMIN PHARMACEUTICAL CO LTD SHS,U
@@ -3409,7 +3410,6 @@ BPRN,The Bank of Princeton Common Stock,NASDAQ
 BPSR,"Biotech Products Services and Research, Inc. Common Stock",U
 BPT,BP Prudhoe Bay Royalty Trust,NYSE
 BPTH,"Bio-Path Holdings, Inc. Common Stock",NASDAQ
-BPTNF,PT Barito Pacific TBK Ordinary Shares (Indonesia),U
 BPTS,Biophytis SA American Depositary Share,NASDAQ
 BPXXY,BPER BANCA S.P.A American Depositary Receipts - Unsponsored,U
 BPY,Brookfield Property Partners L.P. Limited Partnership Units,NASDAQ
@@ -3929,7 +3929,7 @@ CABO,"Cable One, Inc.",NYSE
 CABT,Coastal Bk & Tr Jacksonville Nc Common Stock,U
 CAC,Camden National Corporation Common Stock,NASDAQ
 CACC,Credit Acceptance Corporation Common Stock,NASDAQ
-CACG,Legg Mason ETF Investment Trust ClearBridge All Cap Growth ETF,NASDAQ
+CACG,Legg Mason ETF Investment Trust ClearBridge All Cap Growth ESG ETF,NASDAQ
 CACH,CACHE Inc Common Stock,U
 CACI,CACI INTERNATIONAL CLA,NYSE
 CADE,Cadence Bancorporation,NYSE
@@ -4425,7 +4425,6 @@ CERE,"Cerevel Therapeutics Holdings, Inc. Common Stock",NASDAQ
 CEREW,"Cerevel Therapeutics Holdings, Inc. Warrant",NASDAQ
 CERGF,Ceres Global Ag Corp Ordinary Shares (Canada),U
 CERN,Cerner Corporation Common Stock,NASDAQ
-CERRF,CERRADO GOLD INC NEW COM (Canada),U
 CERS,Cerus Corporation Common Stock,NASDAQ
 CERT,"Certara, Inc. Common Stock",NASDAQ
 CERWF,Ceres Acquisition Corp Warrant Exp 03/03/2028 (Canada),U
@@ -4473,7 +4472,7 @@ CFBK,CF Bankshares Inc. Common Stock,NASDAQ
 CFCC,Corfacts Inc Common Stock,U
 CFCGF,Cafe De Coral Hldgs Ltd Ordinary Shares (Bermuda),U
 CFCGY,Cafe De Coral Hldgs Ltd Unsponsored ADR (Bermuda),U
-CFCV,ClearBridge Focus Value ETF,BATS
+CFCV,ClearBridge Focus Value ESG ETF,BATS
 CFCX,Centric Financial Corporation Common Stock,U
 CFEGF,China Nonferrous Gold Ltd Ordinary Shares (Cayman Islands),U
 CFEIY,China Feihe Limited Unsponsored ADR (Cayman Islands),U
@@ -4710,6 +4709,7 @@ CHMI,CHERRY HILL MORTGAGE INVESTMENT CORPORATION,NYSE
 CHMI PRA,Cherry Hill Mortgage Investment Corporation 8.20% Series A Cumulative Redeemable Preferred Stock,NYSE
 CHMI PRB,Cherry Hill Mortgage Investment Corporation 8.250% Series B Fixed-to-Floating Rate Cumulative Redeem,NYSE
 CHMJF,Chemistree Technology Inc Common Shares,U
+CHMMF,CHIMERIC THERAPEAUTICS LTD ORDINARY FULLY PAID (Australia),U
 CHMN,Chester Mining Co Unclassified,U
 CHMOF,Chikaranomoto Holdings Co Ordinary Shares (Japan),U
 CHMP,"Champion Industries, Inc. Common Stock",U
@@ -4947,7 +4947,7 @@ CLDL,Direxion Daily Cloud Computing Bull 2X Shares,ARCA
 CLDR,"Cloudera, Inc.",NYSE
 CLDS,Direxion Daily Cloud Computing Bear 2X Shares,ARCA
 CLDT,CHATHAM LODGING TRUST,NYSE
-CLDTP,CHATHAM LODGING TR SER A CUMULATIVE REDEEMABLE PFD SHS BEN INT Preferred Stock,U
+CLDT PRA,Chatham Lodging Trust 6.625% Series A Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE
 CLDX,"Celldex Therapeutics, Inc.",NASDAQ
 CLEGF,COLES GROUP LTD (Australia),U
 CLEGY,Coles Group Ltd. Unsponsored ADR (Australia),U
@@ -5494,6 +5494,7 @@ CORN,Teucrium Corn Fund,ARCA
 CORP,PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund,ARCA
 CORR,"CorEnergy Infrastructure Trust, Inc. (NEW",NYSE
 CORR PRA,"CorEnergy Infrastructure Trust, Inc Depositary Shares representing a 1/100th fractional interest of",NYSE
+CORS U,"Corsair Partnering Corporation Units, each consisting of one Class A ordinary share and one-third of",NYSE
 CORT,Corcept Therapeutics Incorporated Common Stock,NASDAQ
 CORX,Core Lithium Corp. Common Stock,U
 COSDF,Cosol Ltd. Ordinary Shares (Australia),U
@@ -5549,3 +5550,4 @@ CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
+CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U

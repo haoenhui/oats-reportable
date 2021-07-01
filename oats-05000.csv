@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
 CPHI,"China Pharma Holdings, Inc.",AMEX
 CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
@@ -115,6 +114,7 @@ CRD B,Crawford & Company Class B,NYSE
 CRDE,Cardinal Ethanol LLC Membership Unit,U
 CRDF,"Cardiff Oncology, Inc. Common Stock",NASDAQ
 CRDIY,"Concordia Financial Group, Ltd. American Depositary Receipts - Unsponsored (Japan)",U
+CRDOF,CERRADO GOLD INC NEW COM (Canada),U
 CRDX,Credex Corporation Common,U
 CREAF,Creative Technology Ltd. Ordinary Shares,U
 CREAY,Creative Technology Ltd. Unsponsored ADR (Singapore),U
@@ -310,7 +310,6 @@ CSLLY,Csl Ltd SPONSORED ADR (Australia),U
 CSLT,"CASTLIGHT HEALTH, INC.",NYSE
 CSM,ProShares Large Cap Core Plus,BATS
 CSML,IndexIQ ETF Trust IQ Chaikin U.S. Small Cap ETF,NASDAQ
-CSMYF,Cosmos Pharmaceutical Corp Miyazaki Ordinary Shares (Japan),U
 CSNVF,Corbion NV Ordinary Shares,U
 CSNVY,Corbion NV Unsponsored ADR (Netherlands),U
 CSOC,Caduceus Software Systems Corp. Common Stock,U
@@ -338,7 +337,6 @@ CSSDF,KAPE TECHNOLOGIES PLC Ordinary Shares,U
 CSSE,"Chicken Soup for the Soul Entertainment, Inc. Class A Common Stock",NASDAQ
 CSSEN,"Chicken Soup for the Soul Entertainment, Inc. 9.50% Notes due 2025",NASDAQ
 CSSEP,"Chicken Soup for the Soul Entertainment, Inc. 9.75% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
-CSSEW,CHICKEN SOUP FOR THE SOUL ENTMT INC Warrant   06/30/2021,U
 CSSEZ,CHICKEN SOUP FOR THE SOUL ENTMT INC WT CL Z EXP 06/30/2022,U
 CSSI,"Costas, Inc. Common Stock",U
 CSSPF,Circassia Pharmaceutical Plc Ordinary Shares (United Kingdom),U
@@ -439,7 +437,7 @@ CTO,"CTO Realty Growth, Inc.",NYSE
 CTOBF,China Tob Intl Hk Co Ltd Ordinary Shares  (Hong Kong),U
 CTOHF,Citigold Corp Ltd Ordinary Shares (Australia),U
 CTON,"Second Street Capital, Inc. Common Stock",U
-CTOPV,CTO RLTY GROWTH INC NEW Preferred Stock,U
+CTOPP,CTO RLTY GROWTH INC NEW Preferred Stock,U
 CTOS,"Custom Truck One Source, Inc.",NYSE
 CTOS WS,"Custom Truck One Source, Inc. Warrants, exerciseable for Common Stock",NYSE
 CTOUF,Charter Hall Group Stapled Security (Australia),U
@@ -532,6 +530,7 @@ CURLF,Curaleaf Hldgs Inc Common Shares,U
 CURN,Currency Exchange International Corporation Common Stock,U
 CURO,CURO Group Holdings Corp.,NYSE
 CURR,CURE Pharmaceutical Holding Corp. Common Stock,U
+CURV,Torrid Holdings Inc.,NYSE
 CUSI,"Cuisine Solutions, Inc. Common Stock NEW",U
 CUSPY,Countryside Properties PLC American Depositary Receipts - Unsponsored,U
 CUT,Invesco MSCI Global Timber ETF,ARCA
@@ -770,6 +769,7 @@ DAIKF,"Dai-Ichi Seiko Co Ltd, Kyoto Ordinary Shares (Japan)",U
 DAIO,Data I/O Corporation Common Stock,NASDAQ
 DAIPF,Daihen Corp Ordinary Shares Japan(JP ),U
 DAIUF,Daifuku Co Ltd Ordinary Shares (Japan),U
+DAIYF,DAI NIPPON TORYO LTD SHS (Japan),U
 DAKT,"Daktronics, Inc. Common Stock",NASDAQ
 DAL,"Delta Air Lines, Inc.",NYSE
 DALI,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright DALI 1 ETF,NASDAQ
@@ -1511,6 +1511,7 @@ DSGUF,Dogan Sirketler Grubu Holdings AS Ordinary Shares (Turkey),U
 DSGUY,Dogan Sirketler Grubu Holdings AS Unsponsored ADR (Turkey),U
 DSGX,Descartes Systems Group Inc. (The) Common Stock,NASDAQ
 DSHHF,DAISHI HOKUETSU FINL GROUP INC Common Stock,U
+DSHIF,DOSHISHA CO LTD SHS (Japan),U
 DSI,iShares MSCI KLD 400 Social ETF,ARCA
 DSITF,Dixons Carphone Plc Ordinary Shares (United Kingdom),U
 DSJA,Innovator Double Stacker ETF - January,BATS
@@ -1562,7 +1563,6 @@ DTCWY,Deutsche Wohnen SE American Depositary Receipts - Unsponsored,U
 DTD,WisdomTree U.S. Total Dividend Fund,ARCA
 DTDJF,DELTA DJAKARTA TBK PT Ordinary Shares,U
 DTE,DTE Energy Company,NYSE
-DTE WI,DTE Energy Company,NYSE
 DTEA,DAVIDsTEA Inc. Common Stock,NASDAQ
 DTEC,ALPS Disruptive Technologies ETF,ARCA
 DTEGF,Deutsche Telekom A G Ordinary Shares,U
@@ -1576,7 +1576,7 @@ DTHR,Dthera Sciences Common Stock,U
 DTII,Defense Technologies International Corp. Common Stock,U
 DTIL,"Precision BioSciences, Inc. Common Stock",NASDAQ
 DTLA PR,BROOKFIELD DTLA FUND OFFICE TRUST INVESTOR INC.,NYSE
-DTM WI,"DT Midstream, Inc.",NYSE
+DTM,"DT Midstream, Inc.",NYSE
 DTMXF,Datametrex Ai Limit Ordinary Shares,U
 DTN,WisdomTree U.S. Dividend ex-Financials Fund,ARCA
 DTNHF,"Doutor Nichires Holdings Co Ltd, Tokyo SHS (Japan)",U
@@ -2581,6 +2581,7 @@ ERTWF,Eurotech SPA Amaro UD Ordinary Shares (Italy),U
 ERUC,"ER Urgent Care Holdings, Inc. New Common Stock",U
 ERUS,iShares MSCI Russia ETF,ARCA
 ERVFF,Erin Ventures Inc Ordinary Shares,U
+ERWWF,Errawarra Res Ltd Ordinary Shares (Australia),U
 ERX,Direxion Daily Energy Bull 2X Shares,ARCA
 ERXCF,EREX CO LTD Ordinary Shares,U
 ERY,Direxion Daily Energy Bear 2X Shares,ARCA
@@ -2618,6 +2619,7 @@ ESGRP,Enstar Group Limited Depositary Shares Each Representing 1/1000th of an in
 ESGS,Columbia Sustainable U.S. Equity Income ETF,ARCA
 ESGU,iShares Trust iShares ESG Aware MSCI USA ETF,NASDAQ
 ESGV,Vanguard ESG U.S. Stock ETF,BATS
+ESGY,American Century Sustainable Growth ETF,ARCA
 ESHDF,Esprit Holdings Ltd-Hkd Ordinary Shares,U
 ESHY,Xtrackers J.P. Morgan ESG USD High Yield Corporate Bond ETF,BATS
 ESI,Element Solutions Inc.,NYSE
@@ -3481,6 +3483,7 @@ FLC,Flaherty & Crumrine Total Return Fund Incorporated,NYSE
 FLCA,Franklin FTSE Canada ETF,ARCA
 FLCB,Franklin Liberty U.S. Core Bond ETF,ARCA
 FLCH,Franklin FTSE China ETF,ARCA
+FLCLF,FRESHLOCAL SOLUTIONS INC COM (Canada),U
 FLCO,Franklin Liberty Investment Grade Corporate ETF,ARCA
 FLCX,flooidCX Corp. Common Shares,U
 FLDAY,Fluidra SA American Depositary Receipts - Unsponsored (Spain),U
@@ -3986,7 +3989,6 @@ FRXB WS,"Forest Road Acquisition Corp. II Redeemable Warrants, each whole warran
 FRXX,Forecross Corporation Common Stock,U
 FRZCF,Frasers Centrepoint Trust UNITS REAL ESTATE INVESTMENT TRUST (Singapore),U
 FRZT,"Freeze Tag, Inc. Common Stock",U
-FSAM,FIFTH STR ASSET MGMT INC Common Stock,U
 FSBB,Fsb Bancorporation Common Stock,U
 FSBC,Five Star Bancorp Common Stock,NASDAQ
 FSBH,FIRST SOUTHN BK PATTERSON GA Common Stock,U
@@ -4134,7 +4136,6 @@ FTSSF,First Cobalt Corp Ordinary Shares (Canada),U
 FTTRF,Forterra Plc Ordinary Shares Gbp0.01 (United Kingdom),U
 FTUAF,Fuller Smith & Turner Plc A Ordinary Shares (United Kingdom),U
 FTV,Fortive Corporation,NYSE
-FTV PRA,"Fortive Corporation 5.00% Mandatory Convertible Preferred Stock, Series A",NYSE
 FTVIU,FinTech Acquisition Corp. VI Units,NASDAQ
 FTWS,Flitways Technology Inc Common Stock,U
 FTWYF,Freightways Ltd Ordinary Shares (New Zealand),U
@@ -4309,6 +4310,7 @@ GAINL,Gladstone Investment Corporation 6.375% Series E Cumulative Term Preferred
 GAINN,Gladstone Investment Corporation 5.00% Notes Due 2026,NASDAQ
 GAL,SPDR SSgA Global Allocation ETF of SSgA Active Trust,ARCA
 GALKF,Galantas Gold Corporation Ordinary Shares,U
+GALNF,Galenica AG Ordinary Shares (Switzerland),U
 GALOF,Galore Res Inc Common shares (Canada),U
 GALT,Galectin Therapeutics Inc. Common Stock,NASDAQ
 GALXF,Galaxy Resources Ltd Common Shares,U
@@ -5480,7 +5482,6 @@ GTY,Getty Realty Corp.,NYSE
 GTYH,"GTY Technology Holdings, Inc. Common Stock",NASDAQ
 GTYHW,"GTY Technology Holdings, Inc. Warrants",U
 GUAA,Guaranty Bancorp Inc Common Stock,U
-GUARY,Guaranty Tr Bk Plc Sponsored GDR Reg S (Nigeria),U
 GUDDY,GUD Holdings Ltd Unsponsored American Depository Receipt (Australia),U
 GUDHF,"GUD Holdings, Ltd. Ordinary Shares (Australia)",U
 GUERF,Guerbet SA Ordinary Shares (France),U
@@ -5549,3 +5550,4 @@ GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
+GWPD,"GP Solutions, Inc. Common Stock",U

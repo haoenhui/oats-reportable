@@ -1,11 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTEI,Mountain Energy Inc Common Stock,U
-MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
-MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
-MTENY,Mahanagar Telephone Nigam Ltd ADS,U
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
@@ -115,6 +108,7 @@ MURSF,Murray & Roberts Hldg Ltd Ord Ordinary Shares (South Africa),U
 MURXF,Minotaur Exploration Ltd Ordinary Shares (Australia),U
 MURYF,Murray Intl Trust Plc 25 Par Ordinary Shares,U
 MUSA,MURPHY USA INC.,NYSE
+MUSI,American Century Multisector Income ETF,ARCA
 MUSS,Multi Solutions II Inc Common Stock,U
 MUST,Columbia Multi-Sector Municipal Income ETF,ARCA
 MUTM,Mutual Merchant Services Inc. Common Stock,U
@@ -350,6 +344,7 @@ NCDP,"Nicodrops, Inc. Common Stock",U
 NCEN,Nacel Energy Corp. Common Stock,U
 NCFFF,Northcliff Resources Ltd. COM (Canada),U
 NCHEY,Nichirei Corp Unsponsored ADR (Japan),U
+NCHNF,NICHICON CORP SHS (Japan),U
 NCHVF,NUCHEV PTY LTD Ordinary Shares,U
 NCLH,Norwegian Cruise Line Holdings Ltd. Ordinary Shares,NYSE
 NCLTF,Nitori Holdings Co Ltd Ordinary Shares,U
@@ -1253,6 +1248,7 @@ NWBD,"New World Brands, Inc. Common Stock",U
 NWBI,"Northwest Bancshares, Inc. Common Stock",NASDAQ
 NWBO,NORTHWEST BIOTHERAPEUTICS INC Common Stock,U
 NWBTF,NEWBORN TOWN INC Ordinary Shares,U
+NWCCF,NORTHWEST COPPER CORP Ordinary Shares,U
 NWCI,"Newcardio, Inc. Common Stock",U
 NWCN,Network CN Inc. Common Stock,U
 NWCOP,Newscorp Preferred Stock,U
@@ -2874,12 +2870,14 @@ PNRC,Premier Energy Corp. (FL) Common Stock,U
 PNRG,PrimeEnergy Resources Corporation Common Stock,NASDAQ
 PNRLY,PARINGA RES LTD American Depositary Receipts - Sponsored,U
 PNRXF,Porto Energy Corp. Ordinary Shares (Canada),U
+PNT,POINT Biopharma Global Inc. Common Stock,NASDAQ
 PNTG,"The Pennant Group, Inc. Common Stock",NASDAQ
 PNTLF,PENTANET LTD ORDINARY FULLY PAID (Australia),U
 PNTM,Pontem Corporation,NYSE
 PNTM U,"Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeem",NYSE
 PNTM WS,"Pontem Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exe",NYSE
 PNTOF,Pantoro Ltd. Ordinary Shares (Australia),U
+PNTRF,PANTERA SILVER CORP COM (Canada),U
 PNTZF,Trigon Metals Inc. Ordinary Shares,U
 PNW,Pinnacle West Capital Corporation,NYSE
 PNWDF,PNE AG Ordinary Shares,U
@@ -3212,6 +3210,7 @@ PSCE,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap Energy ETF,NASDA
 PSCF,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap Financials ETF,NASDAQ
 PSCH,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap Health Care ETF,NASDAQ
 PSCI,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap Industrials ETF,NASDAQ
+PSCJ,Pacer Swan SOS Conservative (July) ETF,BATS
 PSCM,Invesco Exchange-Traded Fund Trust II Invesco S&P SmallCap Materials ETF,NASDAQ
 PSCO,ProtoSource Corporation Common Stock,U
 PSCR,Proto Script Pharmaceutical Corp. Common Stock,U
@@ -3229,6 +3228,7 @@ PSFD,Pacer Swan SOS Flex (December) ETF,BATS
 PSFE,Paysafe Limited,NYSE
 PSFE WS,"Paysafe Limited Warrants, exercisable for one Common Share of Paysafe Limited at a price of $11.50 p",NYSE
 PSFF,Pacer Swan SOS Fund of Funds ETF,BATS
+PSFJ,Pacer Swan SOS Flex (July) ETF,BATS
 PSFM,Pacer Swan SOS Flex (April) ETF,BATS
 PSFT,Powersafe Technology Corp. New Common Stock,U
 PSGFF,Precious Shipping Plc Foreign Ordinary Shares,U
@@ -3256,6 +3256,7 @@ PSMB,Invesco Balanced Multi-Asset Allocation ETF,BATS
 PSMC,Invesco Conservative Multi-Asset Allocation ETF,BATS
 PSMD,Pacer Swan SOS Moderate (December) ETF,BATS
 PSMG,Invesco Growth Multi-Asset Allocation ETF,BATS
+PSMJ,Pacer Swan SOS Moderate (July) ETF,BATS
 PSMM,Invesco Moderately Conservative Multi-Asset Allocation ETF,BATS
 PSMMF,Persimmon PLC Ordinary Shares,U
 PSMMY,Persimmon Plc Unsponsored ADR (UK),U
@@ -3417,7 +3418,6 @@ PTOS,"P2 Solar, Inc. Common Stock",U
 PTOTF,Patriot One Technologies Inc. Ordinary Shares (Canada),U
 PTOZF,Plato Gold Corporation Ordinary Shares (Canada),U
 PTPBF,PREMIER TECHNOLOGY PUBLIC CO LTD Depositary Shares Non Voting,U
-PTPF,All Marketing Solutions Inc. Common Stock,U
 PTPI,"Petros Pharmaceuticals, Inc. Common Stock",NASDAQ
 PTPIF,PT Chandra Asri PetroChemical Ordinary Shares (Indonesia),U
 PTPKF,PT Pakuwon Jati TBK Ordinary Shares (Indonesia),U
@@ -3788,6 +3788,7 @@ QTEC,First Trust NASDAQ-100-Technology Sector Index Fund,NASDAQ
 QTEYF,Questerre Energy Corp Class A Shares (Canada),U
 QTGI,Quark Technology Global Inc. Common Stock,U
 QTGPF,QT Group OYJ Ordinary Shares  (Finland),U
+QTJL,Innovator Growth Accelerated Plus ETF - July,BATS
 QTMM,Quantum Materials Corp. Common Stock,U
 QTNT,Quotient Limited Ordinary Shares,NASDAQ
 QTRHF,Quarterhill Inc. Common Shares,U
@@ -3847,7 +3848,6 @@ RAACW,Revolution Acceleration Acquisition Corp Warrant,NASDAQ
 RAAS,"Cloopen Group Holding Limited American Depositary Shares, each representing two Class A Ordinary Sha",NYSE
 RAAX,VanEck Inflation Allocation ETF,ARCA
 RABSF,RREF II AL BRECK SOCIMI S A U Ordinary Shares,U
-RACA,Therapeutics Acquisition Corp. Class A Common Stock,NASDAQ
 RACB,Research Alliance Corp. II Class A Common Stock,NASDAQ
 RACE,Ferrari N.V.,NYSE
 RAD,Rite Aid Corporation,NYSE
@@ -4467,7 +4467,6 @@ RNSHY,Renishaw PLC Unsponsored ADR (United Kingdom),U
 RNST,Renasant Corporation Common Stock,NASDAQ
 RNUGF,Reneuron Group plc Guildford Ordinary Shares,U
 RNVA,"Rennova Health, Inc. Common Stock",U
-RNVAW,"Rennova Health, Inc. Warrant   06/30/2021",U
 RNVT,"Renovate Neighborhoods, Inc. Common Stock",U
 RNWB,Renewable Corporation (The) New Common Stock,U
 RNWEF,REC SILICON ASA Ordinary Shares (Norway),U
@@ -5486,7 +5485,6 @@ SGPYY,Sage Group Plc Unsponsored ADR (UK),U
 SGQRF,SouthGobi Resources Ltd. Common Shares (Canada),U
 SGRB,SigmaBroadband Co. Common,U
 SGRCF,San Gold Corporation Common Shares (Canada),U
-SGRNF,NORTHWEST COPPER CORP Ordinary Shares,U
 SGRP,"SPAR Group, Inc. Common Stock",NASDAQ
 SGRRF,Spring Real Estate Invt Tr Unit Trust Fund Mgr (Hong Kong),U
 SGRY,"Surgery Partners, Inc. Common Stock",NASDAQ
@@ -5549,3 +5547,7 @@ SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
+SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
+SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
+SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
+SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U

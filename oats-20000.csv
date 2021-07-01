@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
-SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
-SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
-SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
@@ -1343,7 +1339,6 @@ STN,"Stantec, Inc.",NYSE
 STNC,Stance Equity ESG Large Cap Core ETF,ARCA
 STNDF,SANTANDER UK PLC 8 5/8 % NON -CUM STERLING Preference Shares United Kingdom(GB ),U
 STNE,StoneCo Ltd. Class A Common Shares,NASDAQ
-STNEV,StoneCo Ltd. Class A Common Share When Issued,NASDAQ
 STNG,Scorpio Tankers Inc.,NYSE
 STNRF,STINGER RES INC COM (Canada),U
 STNT,Stevia Nutra Corp. Common Stock,U
@@ -1775,6 +1770,7 @@ TAIT,Taitron Components Incorporated Class A Common Stock,NASDAQ
 TAJIF,Tajiri Resources Corporation Common Shares (Canada),U
 TAK,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share o,NYSE
 TAKD,TransAKT Ltd. Common Stock,U
+TAKMF,TAKAMATSU CONSTRUCTION GROUP CO LTD SHS (Japan),U
 TAKOF,Drone Delivery CDA Corp Common Shares,U
 TAL,TAL Education Group,NYSE
 TALC,Tal Cap Inc Unclassified,U
@@ -1990,7 +1986,7 @@ TDW WSB,"Tidewater Inc. Series B Warrants to purchase shares of common stock (ex
 TDXP,Global Smart Capital Corp. Common Stock,U
 TDY,Teledyne Technologies Incorporated,NYSE
 TDYT,"Thermodynetics, Inc. (NV) Common Stock",U
-TEAF,Tortoise Essential Assets Income Term Fund,NYSE
+TEAF,Ecofin Sustainable and Social Impact Term Fund,NYSE
 TEAH,Worry Free Tea House Holdings Company Common Stock,U
 TEAM,Atlassian Corporation Plc Class A Ordinary Shares,NASDAQ
 TECB,iShares U.S. Tech Breakthrough Multisector ETF,ARCA
@@ -2181,6 +2177,7 @@ THG,"The Hanover Insurance Group, Inc.",NYSE
 THGHY,THG HLDGS PLC American Depositary Receipts - Unsponsored,U
 THGMF,Blackrock Throgmorton Tr Plc Ordinary Shares,U
 THHCF,Techno Horizon Co Ltd Ordinary Shares,U
+THKKF,Think Resh Corp Common Shares (Canada),U
 THKLF,T H K Co Ltd Ordinary Shares,U
 THKLY,T H K Co Ltd Unsponsored ADR (Japan),U
 THKUF,Toll Holdings Ltd Ordinary Shares,U
@@ -2618,7 +2615,6 @@ TOUR,Tuniu Corporation American Depositary Shares,NASDAQ
 TOWN,TowneBank Common Stock,NASDAQ
 TOWTF,Tower One Wireless Corp Ordinary Shares,U
 TOYOF,Toyota Motor Corp Ltd Ord Ordinary Shares,U
-TPAC,"Trans-Pacific Aerospace Company, Inc. Common Stock",U
 TPAY,Ecofin Digital Payments Infrastructure Fund,ARCA
 TPB,"Turning Point Brands, Inc.",NYSE
 TPBTF,BETMAKERS TECHNOLOGY GROUP LTD ORDINARY FULLY PAID (Australia),U
@@ -4989,6 +4985,7 @@ XBI,SPDR S&P Biotech ETF,ARCA
 XBIO,"Xenetic Biosciences, Inc. Common Stock",NASDAQ
 XBIOW,"Xenetic Biosciences, Inc. Warrants",NASDAQ
 XBIT,XBiotech Inc. Common Stock,NASDAQ
+XBJL,Innovator U.S. Equity Accelerated 9 Buffer ETF - July,BATS
 XBOR,"Cross Border Resources, Inc. Common Stock",U
 XBUY,Amplify International Online Retail ETF,ARCA
 XCAN,Yutudao Marine Biotechnology Inc. Common Stock,U
@@ -5003,6 +5000,7 @@ XCUR,"Exicure, Inc. Common Stock",NASDAQ
 XDAP,Innovator U.S. Equity Accelerated ETF - April,BATS
 XDAT,Franklin Exponential Data ETF,BATS
 XDIV,U.S. Equity Ex-Dividends Fund - Series 2027,ARCA
+XDJL,Innovator U.S. Equity Accelerated ETF - July,BATS
 XDNCF,XD INC USD ORD SHS (Cayman Islands),U
 XDQQ,Innovator Growth Accelerated ETF - Quarterly,BATS
 XDSL,"mPhase Technologies, Inc. Common Stock",U
@@ -5040,6 +5038,7 @@ XHS,SPDR S&P Health Care Services ETF,ARCA
 XIACF,Xiaomi Corp Common Shares,U
 XIACY,Xiaomi Corporation American Depositary Receipts - Unsponsored,U
 XIAXF,XIABUXIABU CATER MGMT CHINA HLDGS CO LTD HKD Ordinary Shares,U
+XIGMF,XIGEM TECHNOLOGIES CORP COM (Canada),U
 XIN,Xinyuan Real Estate Co. LTD,NYSE
 XINXF,New Wk SE Ordinary Shares (Germany Federal Republic),U
 XIORF,Xior Student Housing NV Ordinary Shares (Belgium),U
@@ -5158,6 +5157,7 @@ XTEG,"XT Energy Group, Inc. Common Stock",U
 XTEPY,Xtep International Holdings Ltd Unsponsored ADR (Cayman Islands),U
 XTERF,Norvista Capital Corporation Ordinary Shares (Canada),U
 XTGRF,Xtra-Gold Resources Corporation Common Stock (British Virgin Islands),U
+XTJL,Innovator U.S. Equity Accelerated Plus ETF - July,BATS
 XTL,SPDR S&P Telecom ETF,ARCA
 XTLB,XTL Biopharmaceuticals Ltd. American Depositary Shares,NASDAQ
 XTMIF,XTM INC Common Shares,U
@@ -5396,6 +5396,7 @@ ZEST,"Ecoark Holdings, Inc. Common Stock",U
 ZETA,Zeta Global Holdings Corp.,NYSE
 ZEUCF,ZEU TECHNOLOGIES INC Common Shares,U
 ZEUS,"Olympic Steel, Inc. Common Stock",NASDAQ
+ZEUUF,Zeus Res Ltd. Ordinary Shares (Australia),U
 ZEV,"Lightning eMotors, Inc.",NYSE
 ZEV WS,"Lightning eMotors, Inc. Redeemable Warrants, each exercisable for one share of Common Stock at an ex",NYSE
 ZFPPF,Zambeef Product Plc Ordinary Shares (Zambia),U

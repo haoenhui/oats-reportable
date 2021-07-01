@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWPD,"GP Solutions, Inc. Common Stock",U
 GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
 GWRRF,Engold Mines Ltd Ordinary Shares,U
 GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
@@ -224,7 +223,6 @@ HCTPF,Hutchinson Port Holdings Trust Units (Singapore),U
 HCXLF,Hiscox Ltd Ordinary Shares,U
 HCXLY,Hiscox Ltd Unsponsored ADR (Bermuda),U
 HCXY,"Hercules Capital, Inc. 6.25% Notes due 2033",NYSE
-HCXZ,"Hercules Capital, Inc. 5.25% Notes due 2025",NYSE
 HCYT,"H-CYTE, Inc. Common Stock",U
 HD,"Home Depot, Inc.",NYSE
 HDALF,Haidilao International Hldg Ltd. Ordinary Shares (Cayman Islands),U
@@ -654,12 +652,9 @@ HOJI,HOUSE OF JANE INC Common Stock,U
 HOKCF,Hong Kong & China Gas Ltd Ord Ordinary Shares,U
 HOKCY,Hong Kong & China Gas Ltd Ord American Depositary Shares,U
 HOKUQ,Hoku Corporation Common Stock,U
-HOL,Holicity Inc. Class A Common Stock,NASDAQ
 HOLD,AdvisorShares Sage Core Reserves ETF,ARCA
 HOLHF,Hoegh Lng Holdings Ltd Ordinray Share (Bermuda),U
 HOLI,"Hollysys Automation Technologies, Ltd. Common Shares (British Virgin Islands)",NASDAQ
-HOLUU,Holicity Inc. Unit,NASDAQ
-HOLUW,Holicity Inc. Warrant,NASDAQ
 HOLX,"Hologic, Inc. Common Stock",NASDAQ
 HOMB,"Home BancShares, Inc. Common Stock",NASDAQ
 HOME,At Home Group Inc.,NYSE
@@ -870,7 +865,6 @@ HTSUY,Hisamitsu Pharmaceutical Co Inc American Depositary Receipts - Unsponsored
 HTUS,Hull Tactical US ETF,ARCA
 HTWSF,Helios Towers PLC Ordinary Shares (United Kingdom),U
 HTY,JOHN HANCOCK TAX-ADVANTAGED GLOBAL SHAREHOLDER YIELD FUND,NYSE
-HTZGQ,"Hertz Global Holdings, Inc. Common Stock",U
 HTZZ,HERTZ GLOBAL HLDGS INC NEW COM,U
 HTZZW,HERTZ GLOBAL HLDGS INC NEW WT EXP 06/30/2051,U
 HUABF,Huabao International Holdings Ltd Ordinary Shares (Bermuda),U
@@ -924,7 +918,7 @@ HUTWF,Hut 8 Mining Corp Warrant Exp 12/25/2021 (Canada),U
 HUYA,HUYA Inc.,NYSE
 HUZNF,Huazhang Technology Hldgs Ltd Shs New Board Lot 2000 (Cayman Islands),U
 HVBC,"HV Bancorp, Inc. Common Stock",NASDAQ
-HVBTF,HIVE Blockchain Technologies Ltd Ordinary Shares,U
+HVBT,Hive Blockchain Technologies Ltd. Common Shares,NASDAQ
 HVCW,"Harrison, Vickers & Waterman, Inc. Common Stock",U
 HVGDF,Harvest Gold Corp Common Shares,U
 HVLM,"Huron Valley Bancorp, Inc. Common Stock",U
@@ -2293,7 +2287,7 @@ IVES,Wedbush ETFMG Global Cloud Technology ETF,ARCA
 IVEVF,INVENTIVA SA ACT PORTEUR Ord. (France),U
 IVFH,"Innovative Food Holdings, Inc. Common Stock",U
 IVFZF,Invictus Financial Inc. Common Stock,U
-IVH,Ivy Credit Opportunities Fund,NYSE
+IVH,Delaware Ivy High Income Opportunities Fund,NYSE
 IVHI,"Invech Holdings, Inc. Common Stock",U
 IVINF,Invincible Investment Corp Ordinary Shares (Japan),U
 IVITF,Invictus MD Strategies Corp. Ordinary Shares,U
@@ -3460,6 +3454,7 @@ KYNC,"KYN Capital Group, Inc. Common Stock",U
 KYOCF,Kyocera Corp Ordinary Shares,U
 KYOCY,Kyocera Corp American Depositary Receipts - Sponsored (Japan),U
 KYORF,Kyoritsu Air Tech Inc,U
+KYRNF,KYORIN HOLDINGS INC SHS (Japan),U
 KYSEF,Kyushu Electric Power Co Inc Ordinary Shares (Japan),U
 KYSEY,Kyushu Electric Power Unsponsored ADR (Japan),U
 KYSRW,Key Energy SVCS Inc DEL Warrant Exp  12/15/2021,U
@@ -3482,7 +3477,6 @@ LABP,"Landos Biopharma, Inc. Common Stock",NASDAQ
 LABU,Direxion Daily S&P Biotech Bull 3X Shares,ARCA
 LAC,Lithium Americas Corp. Common Shares,NYSE
 LACQ,Leisure Acquisition Corp. Common Stock,U
-LACQU,Leisure Acquisition Corp. Unit,U
 LACQW,Leisure Acquisition Corp. Warrant,U
 LAD,"Lithia Motors, Inc.",NYSE
 LADFF,New Carolin Gold Corp. Ordinary Shares,U
@@ -3677,6 +3671,7 @@ LEV WS,"The Lion Electric Company Redeemable Warrants, each whole warrant entitl
 LEVI,Levi Strauss & Co. Class A Common Stock,NYSE
 LEVL,"Level One Bancorp, Inc. Common Stock",NASDAQ
 LEVLP,"Level One Bancorp, Inc. Depositary Shares, Each Representing a 1/100th Interest in a Share of 7.50% Non-Cumulative Perpetual Preferred Stock, Series B",NASDAQ
+LEXI,Alexis Practical Tactical ETF,ARCA
 LEXX,Lexaria Bioscience Corp. Common Stock,NASDAQ
 LEXXW,Lexaria Bioscience Corp. Warrant,NASDAQ
 LEYOF,Leyou Technologies Holdings Ltd Ordinary Shares (Cayman Islands),U
@@ -5094,7 +5089,7 @@ MMD,MainStay MacKay DefinedTerm Municipal Opportunities Fund,NYSE
 MMDCF,MIND MEDICINE MINDMED INC Warrant   01/07/2024,U
 MMDDF,Mirriad Advertising Ltd Ordinary Shares (United Kingdom),U
 MMDWF,Mind Medicine Mindmed Inc Warrant Exp 05/22/2022 (Canada),U
-MMEX,MMEX Resources Corporation Common Stock,U
+MMEXD,MMEX Resources Corporation Common Stock,U
 MMHEF,Malaysia Marine & Heavy Engineering SDN BHD Ordinary Shares (Malaysia),U
 MMHTF,Miramar Hotel & Invvest Ordinary Shares,U
 MMI,MARCUS & MILLICHAP,NYSE
@@ -5549,3 +5544,10 @@ MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
+MTEI,Mountain Energy Inc Common Stock,U
+MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
+MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
+MTENY,Mahanagar Telephone Nigam Ltd ADS,U
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
