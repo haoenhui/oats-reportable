@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPHI,"China Pharma Holdings, Inc.",AMEX
-CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
-CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
 CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
@@ -53,7 +50,6 @@ CPSR WS,"Capstar Special Purpose Acquisition Corp. Warrants, each whole warrant 
 CPSS,"Consumer Portfolio Services, Inc. Common Stock",NASDAQ
 CPSV,"Consumer Products Services Group, Inc. Common Stock",U
 CPT,Camden Property Trust,NYSE
-CPTA,Capitala Finance Corp. Common Stock,NASDAQ
 CPTAG,Capitala Finance Corp. 5.75% Convertible Notes Due 2022,NASDAQ
 CPTAL,Capitala Finance Corp. 6% Notes Due 2022,NASDAQ
 CPTFF,XTRACKERS IE PLC Exchange Traded Fund,U
@@ -530,6 +526,7 @@ CURLF,Curaleaf Hldgs Inc Common Shares,U
 CURN,Currency Exchange International Corporation Common Stock,U
 CURO,CURO Group Holdings Corp.,NYSE
 CURR,CURE Pharmaceutical Holding Corp. Common Stock,U
+CURUF,International Cons Uranium Inc Common Shares,U
 CURV,Torrid Holdings Inc.,NYSE
 CUSI,"Cuisine Solutions, Inc. Common Stock NEW",U
 CUSPY,Countryside Properties PLC American Depositary Receipts - Unsponsored,U
@@ -1420,7 +1417,7 @@ DPNEY,Daphne International Holdings Ltd. Unsponsored ADR (Cayman Islands),U
 DPSGY,Deutsche Post AG Sponsored ADR (Germany),U
 DPSI,"DecisionPoint Systems, Inc. Common Stock",U
 DPSIP,"DecisionPoint Systems, Inc. Pfd Conv Ser D 8%",U
-DPSMD,3D Pioneer Systems Inc. Common Stock,U
+DPSM,3D Pioneer Systems Inc. Common Stock,U
 DPST,Direxion Daily Regional Banks Bull 3X Shares,ARCA
 DPSTF,Deutsche Post Ag Ordinary Shares,U
 DPUI,DISCOUNT PRINT USA INC Common Stock,U
@@ -2378,6 +2375,8 @@ ENREF,ENERGIX RENEWABLE ENERGIES LTD SHS (Israel),U
 ENRFF,"Enerflex, Ltd. Ordinary Shares (Canada)",U
 ENRT,Enertopia Corporation Common Stock,U
 ENS,"EnerSys, Inc.",NYSE
+ENSC,"Ensysce Biosciences, Inc. Common Stock",NASDAQ
+ENSCW,"Ensysce Biosciences, Inc. Warrant   06/30/2026",U
 ENSG,"The Ensign Group, Inc. Common Stock",NASDAQ
 ENSRF,Enseco Energy Services Corp. New Ordinary Shares,U
 ENSV,Enservco Corp.,AMEX
@@ -2797,6 +2796,8 @@ EVGBC,Eaton Vance NextShares Trust Eaton Vance Global Income Builder NextShares,
 EVGEF,Evergreen Gaming Corp Common Shares (Canada),U
 EVGGF,Evolution Gaming Ordinary Shares,U
 EVGN,Evogene Ltd Ordinary Shares,NASDAQ
+EVGO,EVgo Inc. Class A Common Stock,NASDAQ
+EVGOW,EVgo Inc. Warrants,NASDAQ
 EVGPF,EVERGRANDE PPTY SVCS GROUP LTD Ordinary Shares,U
 EVGPY,Evergrande Property Services Group Limited American Depositary Receipts - Unsponsored (Cayman Islands),U
 EVGRF,CHINA EVERGRANDE NEW ENERGY VEH GROUP LTD Ordinary Shares,U
@@ -3104,9 +3105,6 @@ FBZ,First Trust Brazil AlphaDEX Fund,NASDAQ
 FC,Franklin Covey Company,NYSE
 FCA,First Trust China AlphaDEX Fund,NASDAQ
 FCAA,Ficaar Inc Common Stock,U
-FCAC,Falcon Capital Acquisition Corp. Class A Common Stock,NASDAQ
-FCACU,Falcon Capital Acquisition Corp. Unit,NASDAQ
-FCACW,Falcon Capital Acquisition Corp. Warrant,NASDAQ
 FCAFF,Firm Cap Apt REIT Unit (Canada),U
 FCAL,First Trust Exchange-Traded Fund III First Trust California Municipal High Income ETF,NASDAQ
 FCAP,"First Capital, Inc. Common Stock",NASDAQ
@@ -3902,7 +3900,7 @@ FREKF,FREEE K K  Common Stock (Japan),U
 FREL,Fidelity MSCI Real Estate Index ETF,ARCA
 FREQ,"Frequency Therapeutics, Inc. Common Stock",NASDAQ
 FRERF,Fremont Gold Ltd.  Ordinary Shares,U
-FREVS,First Real Estate Investment Trust of New Jersey Shares of Beneficial Interest,U
+FREVS,"First Real Estate Investment Trust of New Jersey, Inc. Shares of Beneficial Interest",U
 FRFC,First Robinson Financial Corporation Common Stock,U
 FRFFF,Fairfax Financial Holdings Ltd Cum 5 Yr Rate Reset Pfd Shs Ser K,U
 FRFGF,Fairfax Financial Holdings Ltd Preferred Shs Ser E 5 Yr Rate Reset (Canada),U
@@ -4772,6 +4770,7 @@ GJR,"Synthetic Fixed Income Securities, Inc. Floating Rate Structured Repackaged
 GJS,Synthetic Fixed-Income Securities STRATS 2006-2 Goldman Sachs Group,NYSE
 GJST,GEO JS Tech Group Corp. Common,U
 GJT,Synthetic Fixed-Income Securities STRATS 2006-3 AllState Corporation,NYSE
+GK,AdvisorShares Gerber Kawasaki ETF,ARCA
 GKIN,Guskin Gold Corp. Common Stock,U
 GKIT,"Greenkraft, Inc. NEW Common Stock",U
 GKOS,Glaukos Corporation,NYSE
@@ -5179,7 +5178,6 @@ GPRHF,Aidigong Maternal & Child Health Ltd Ordinary Shares (Bermuda),U
 GPRK,GEOPARK LIMITED,NYSE
 GPRO,"GoPro, Inc. Class A Common Stock",NASDAQ
 GPS,"The Gap, Inc.",NYSE
-GPSDF,Grupo Pochteca SAB de CV CL B Ordinary Shares,U
 GPSI,General Payment Systems Inc. NEW Common Stock,U
 GPTC,Golden Patriot Corporation Common Stock,U
 GPTGF,GPT Group Stapled Security (Australia),U

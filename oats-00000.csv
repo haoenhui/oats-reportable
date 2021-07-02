@@ -1386,7 +1386,7 @@ AOM,iShares Core Moderate Allocation ETF,ARCA
 AOMFF,Alstom Ordinary Shares Prov Regroupement (France),U
 AOMOY,Ao Mosenergo American Depositary Shares,U
 AOMR,"Angel Oak Mortgage, Inc.",NYSE
-AOMUF,Autonomous Control Systems Labs Com Stk (Japan),U
+AOMUF,ACSL LTD Common Stock,U
 AON,Aon plc Class A,NYSE
 AONCF,Advanced Oncotherapy PLC Ordinary Shares,U
 AONE,one,NYSE
@@ -1521,9 +1521,6 @@ APVS,"Applied Visual Sciences, Inc. Common Stock",U
 APVTW,Aptevo Therapeutics Inc Warrant 03/07/2024,U
 APWC,"Asia Pacific Wire & Cable Corporation, Ltd. Ordinary Shares (Bermuda)",NASDAQ
 APWL,"Advanced Powerline Technologies, Inc. Common Stock",U
-APXT,Apex Technology Acquisition Corporation Class A Common Stock,NASDAQ
-APXTU,Apex Technology Acquisition Corporation Unit,NASDAQ
-APXTW,Apex Technology Acquisition Corporation Warrant,NASDAQ
 APXX,"Apex Resources, Inc. Common Stock",U
 APXYY,Appen Ltd. American Depositary Receipts - Unsponsored,U
 APXZF,Apptix ASA SHS (Norway),U
@@ -2195,6 +2192,8 @@ AVOZ,"Altavoz Entertainment, Inc. Common Stock",U
 AVPFF,Avcorp Industries Inc Ordinary Shares (Canada),U
 AVPI,"AVP, Inc. Common Stock",U
 AVPMF,"Avrupa Minerals, Ltd. Common Shares",U
+AVPT,"AvePoint, Inc. Class A Common Stock",NASDAQ
+AVPTW,"AvePoint, Inc. Warrant",NASDAQ
 AVRI,Averox Inc. Common Stock,U
 AVRN,"Avra, Inc. Common Stock",U
 AVRO,"AVROBIO, Inc. Common Stock",NASDAQ
@@ -2755,7 +2754,6 @@ BFS PRD,"Saul Centers, Inc. Depositary Shares, each representing 1/100th of a sh
 BFS PRE,"Saul Centers, Inc. Depositary Shares, each representing 1/100th of a share of 6.000% Series E Cumula",NYSE
 BFST,"Business First Bancshares, Inc. Common Stock",NASDAQ
 BFTI,"Befut Global, Inc. Common Stock",U
-BFTL,Bank Fincastle Va Common,U
 BFTR,BlackRock Future Innovators ETF,ARCA
 BFWWF,Burger Fuel Worldwide Ltd. Shs (New Zealand),U
 BFZ,BLACKROCK CA MUNICIPAL INC TR,NYSE
@@ -4971,9 +4969,6 @@ CLI,Mack-Cali Realty Corp.,NYSE
 CLIFF,Cordlife Group Ltd Ordinary Shares (Singapore),U
 CLIGF,Clinigen Group PLC Ordinary Shares (United Kingdom),U
 CLIHF,CLS Holdings PLC Ordinary Shares (United Kingdom),U
-CLII,Climate Change Crisis Real Impact I Acquisition Corporation,NYSE
-CLII U,"Climate Change Crisis Real Impact I Acquisition Corporation Units, each consisting of one share of C",NYSE
-CLII WS,"Climate Change Crisis Real Impact I Acquisition Corporation Warrants, each whole warrant exercisable",NYSE
 CLIM,Climate Real Impact Solutions II Acquisition Corporation,NYSE
 CLIM U,"Climate Real Impact Solutions II Acquisition Corporation Units, each consisting of one share of Clas",NYSE
 CLIM WS,"Climate Real Impact Solutions II Acquisition Corporation Redeemable Warrants, each whole Warrant exe",NYSE
@@ -5551,3 +5546,6 @@ CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
 CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
+CPHI,"China Pharma Holdings, Inc.",AMEX
+CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
+CPI,CPI Inflation Hedged ETF,ARCA

@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTFC,Minster Financial Corporation,U
-MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
@@ -276,8 +274,6 @@ NATUF,North Amern Tungsten Cp Ltd Ordinary Shares,U
 NAUBF,National Australia Bk Ltd  Ord Ordinary Shares,U
 NAUH,"National American University Holdings, Inc. Common Stock",U
 NAUT,"Nautilus Biotechnolgy, Inc. Common Stock",NASDAQ
-NAV,Navistar International,NYSE
-NAV PRD,"Navistar International Corporation Cumulative Convertible Junior Preference Stock, Series D",NYSE
 NAVB,Navidea Biopharmaceuticals Inc.,AMEX
 NAVI,Navient Corporation Common Stock,NASDAQ
 NAVVF,NAVF PLC ORD GBP0.01 (United Kingdom),U
@@ -1367,7 +1363,7 @@ NYCB PRU,New York Community Capital Trust V (BONUSES),NYSE
 NYF,iShares New York Muni Bond ETF,ARCA
 NYLE,Nyle Intl Corp Common Stock,U
 NYLXF,Nylex Malaysia Bhd Ordinary Shares (Malaysia),U
-NYMFV,NEW YORK MTG TR INC REDEEMABLE PFD SER F,U
+NYMFP,NEW YORK MTG TR INC REDEEMABLE PFD SER F,U
 NYMT,"New York Mortgage Trust, Inc. Common Stock",NASDAQ
 NYMTM,"New York Mortgage Trust, Inc. 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NASDAQ
 NYMTN,"New York Mortgage Trust, Inc. 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NASDAQ
@@ -1786,7 +1782,9 @@ ORHB,"ORHUB, Inc. Common Stock",U
 ORHHF,Orthocell Ltd Ordinary Shares (Australia),U
 ORHK,"Orangehook, Inc. Common Stock",U
 ORI,Old Republic International Corporation,NYSE
+ORIA,Orion Biotech Opportunities Corp. Class A Ordinary Share,NASDAQ
 ORIAU,Orion Biotech Opportunities Corp. Units,NASDAQ
+ORIAW,Orion Biotech Opportunities Corp. Warrant,NASDAQ
 ORIC,"Oric Pharmaceuticals, Inc. Common Stock",NASDAQ
 ORIIF,Orion Health Group Ltd (New Zealand),U
 ORINF,Orion Corporation New Shares -B- (Finland),U
@@ -3016,7 +3014,6 @@ PQSV,PGIM QMA Strategic Alpha Small-Cap Value ETF,ARCA
 PRA,ProAssurance Corporation,NYSE
 PRAA,"PRA Group, Inc. Common Stock",NASDAQ
 PRAC,Productivity Technologies Corp. Common Stock,U
-PRAH,"PRA Health Sciences, Inc. Common Stock",NASDAQ
 PRAKF,Perak Corp Bhd Ordinary Shares Malaysia(MY ),U
 PRAX,"Praxis Precision Medicines, Inc. Common Stock",NASDAQ
 PRBCF,Precise Biometrics AB Ordinary Shares,U
@@ -3811,6 +3808,7 @@ QUCCF,Quanta Computer Inc Sponsored Reg S GDR Repstg 5 Common (Taiwan),U
 QUCOF,Qualitas Controladora SAB CV Shares of Financial Groups and Industrial Retail (Mexico),U
 QUCPF,Quanta Computer Inc  Ordinary Shares (Taiwan),U
 QUCT,Queen City Invst Inc Common Stock,U
+QUGB,QUINTON GROUP INC Common Stock,U
 QUIK,QuickLogic Corporation Common Stock,NASDAQ
 QUILF,Quilter PLC Ordinary Shares (United Kingdom),U
 QUISF,Quisitive Technology Solutions Inc Common Shares  (Canada),U
@@ -5530,6 +5528,8 @@ SHCAF,Sharp Corp (Osaka) Ordinary Shares,U
 SHCAY,Sharp Corp (Osaka) American Depositary Receipts - Unsponsored,U
 SHCC,Shi Corporation Common Stock,U
 SHCMF,"Search Minerals, Inc. Ordinary Shares (Canada)",U
+SHCR,"Sharecare, Inc. Class A Common Stock",NASDAQ
+SHCRW,"Sharecare, Inc. Warrant",NASDAQ
 SHDC,Surety Holdings Corporation Common Stock,U
 SHDNF,Efora Energy Ltd. Ordinary Shares,U
 SHE,SPDR SSGA Gender Diversity Index ETF,ARCA
@@ -5549,5 +5549,3 @@ SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
 SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
-SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
-SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U

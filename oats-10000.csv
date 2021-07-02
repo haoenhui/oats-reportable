@@ -26,7 +26,7 @@ GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
 GXRFF,Prospera Energy Inc Common Shares,U
 GXSBF,Geox Spa Ordinary Shares (Italy),U
 GXSBY,Geox Spa Unsponsored ADR (Italy),U
-GXSFD,Goldsource Mines Inc Common Shares,U
+GXSFF,Goldsource Mines Inc Common Shares,U
 GXTG,Global X Funds Global X Thematic Growth ETF,NASDAQ
 GXXFF,Gold Basin Resources Corp Common Shares (Canada),U
 GXXM,Gex Mgmt Inc Common Stock,U
@@ -641,7 +641,6 @@ HOCPY,Hoya Corp Sponsored ADR (Japan),U
 HOCXF,Hoteles City Express S A B De C V Ordinary Shares (Mexico) Shares of Financial Groups and Industrial - Retail,U
 HOFBF,Hofseth Biocare ASA,U
 HOFJF,House Food Corps Ordinary Shares (Japan),U
-HOFSQ,Hermitage Offshore Services Ltd.,U
 HOFT,Hooker Furniture Corporation Common Stock,NASDAQ
 HOFV,Hall of Fame Resort & Entertainment Company Common Stock,NASDAQ
 HOFVW,Hall of Fame Resort &amp; Entertainment Company Warrant,NASDAQ
@@ -691,7 +690,6 @@ HPI,John Hancock Preferred Income Fund,NYSE
 HPIFF,Huadian Power International Corporation Ltd Ordinary Shares (China),U
 HPIFY,Huadian Power International Corporation Ltd Unsponsored ADR (China),U
 HPIL,HPIL Holding Common Stock,U
-HPITQ,HOSPITALITY INVS TR INC Common Stock,U
 HPK,"HighPeak Energy, Inc. Common Stock",NASDAQ
 HPKER,HIGHPEAK ENERGY INC Contingent Value Rights   02/21/2023,U
 HPKEW,"HighPeak Energy, Inc. Warrant",NASDAQ
@@ -1250,7 +1248,7 @@ IDEV,iShares Core MSCI International Developed Markets ETF,ARCA
 IDEX,"Ideanomics, Inc. Common Stock",NASDAQ
 IDEXF,Industria De Diseno Textil Inditex Sa Ordinary Shares,U
 IDEXY,Industria De Diseno Textil Inditex Sa Unsponsored ADR (Spain),U
-IDFB,Idaho First Bank (ID) Common Stock,U
+IDFB,PEAK BANCORP INC Common Stock,U
 IDGBF,Indigo Books & Music Inc Ordinary Shares,U
 IDGC,IDGlobal Corp. Common Stock,U
 IDGGW,INTERPACE BIOSCIENCES INC Warrant,U
@@ -2188,6 +2186,7 @@ ITHXU,ITHAX Acquisition Corp. Unit,NASDAQ
 ITHXW,ITHAX Acquisition Corp. Warrant,NASDAQ
 ITI,"Iteris, Inc. Common Stock",NASDAQ
 ITIC,Investors Title Company Common Stock,NASDAQ
+ITIPF,ISHARES II PLC TIPS 0 5 UCITS ETF (Ireland),U
 ITJTY,Intrum AB American Depositary Receipts - Unsponsored,U
 ITKH,Iteknik Holding Corporation Corporation Common Stock,U
 ITKSF,Independent Tankers Corporation Limited Ordinary shares (Bermuda),U
@@ -3476,8 +3475,6 @@ LABFF,LABORATORIOS FARMACEUTICOS ROVI SA Ordinary Shares,U
 LABP,"Landos Biopharma, Inc. Common Stock",NASDAQ
 LABU,Direxion Daily S&P Biotech Bull 3X Shares,ARCA
 LAC,Lithium Americas Corp. Common Shares,NYSE
-LACQ,Leisure Acquisition Corp. Common Stock,U
-LACQW,Leisure Acquisition Corp. Warrant,U
 LAD,"Lithia Motors, Inc.",NYSE
 LADFF,New Carolin Gold Corp. Ordinary Shares,U
 LADR,LADDER CAPITAL CORP,NYSE
@@ -3520,7 +3517,6 @@ LBCMF,Libero Copper & Gold Corp Common Shares,U
 LBERY,Liberty Holdings Ltd. Unsponsored ADR,U
 LBGF,Level Best Golf Inc Common Stock,U
 LBGUF,Lundbergfoeretagen AB Shs B Ordinary Shares (Sweden),U
-LBHRF,International Cons Uranium Inc Common Shares,U
 LBJ,Direxion Daily Latin America Bull 2X Shares,ARCA
 LBKLF,Linkbal Inc Common Stock (Japan),U
 LBLCF,Loblaw Companies Ltd Cda Ordinary Shares,U
@@ -3600,7 +3596,6 @@ LDHAW,LDH Growth Corp I Warrant,NASDAQ
 LDHOF,"Land and House Public Co., Ltd. LH Shares Foreign Registered (Thailand)",U
 LDHUF,Land and House Public Co Ltd NVDR Shares (Thailand),U
 LDI,"loanDepot, Inc.",NYSE
-LDKB,"Landmark Bancorp, Inc. Common stock (Pittston PA)",U
 LDL,"Lydall, Inc.",NYSE
 LDNXF,London Stock Exchange Group plc Ordinary Shares,U
 LDOMF,LIDO MINERALS LTD Common Shares,U
@@ -4052,6 +4047,7 @@ LRDG,Lord Global Corporation Common Stock,U
 LRDJF,ST JAMES GOLD CORP Ordinary Shares,U
 LRDR,Laredo Resources Corp. Common Stock,U
 LRENY,Lojas Renner S.A. Sponsored ADR (Brazil),U
+LRFC,Logan Ridge Finance Corporation Common Stock,NASDAQ
 LRGE,Legg Mason ETF Investment Trust ClearBridge Large Cap Growth ESG ETF,NASDAQ
 LRGF,iShares MSCI USA Multifactor ETF,ARCA
 LRGR,"Luminar Media Group, Inc. Common Stock",U
@@ -5551,3 +5547,5 @@ MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
+MTFC,Minster Financial Corporation,U
+MTFGF,U K SPAC PLC Ordinary Shares,U

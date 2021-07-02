@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
+SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
@@ -760,7 +762,6 @@ SONM,"Sonim Technologies, Inc. Common Stock",NASDAQ
 SONN,"Sonnet BioTherapeutics Holdings, Inc. Common Stock",NASDAQ
 SONO,"Sonos, Inc. Common Stock",NASDAQ
 SONR,Sonar Radio Corp Common Stock,U
-SONT,"Seen On Screen TV, Inc. Common Stock",U
 SONVF,Sonova Holding AG Ordinary Shares,U
 SONVY,Sonova Holding AG Unsponsored ADR (Switzerland),U
 SONY,Sony Group Corporation American Depositary Shares (Each Representing One Share of Dollar Validated C,NYSE
@@ -1046,9 +1047,9 @@ SRCSY,Summit Resources Ltd Unsponsored ADR (Australia),U
 SRCU,Spire Inc Corporate Unit Exp 03/01/2024,U
 SRCX,Stonebridge Resources Explorations Ltd New Common Stock,U
 SRDX,"Surmodics, Inc. Common Stock",NASDAQ
-SRE,Sempra Energy,NYSE
-SRE PRB,"Sempra Energy 6.75% Mandatory Convertible Preferred Stock, Series B",NYSE
-SREA,Sempra Energy 5.750% Junior Subordinated Notes due 2079,NYSE
+SRE,Sempra,NYSE
+SRE PRB,"Sempra 6.75% Mandatory Convertible Preferred Stock, Series B",NYSE
+SREA,Sempra 5.750% Junior Subordinated Notes due 2079,NYSE
 SREDF,Storebrand (F) Ordinary Shares,U
 SREDY,Storebrand ASA Unsponsored ADR (Norway),U
 SREMF,Sunrise Energy Metals Ltd Ordinary Shares,U
@@ -1319,7 +1320,6 @@ STLG,iShares Factors US Growth Style ETF,BATS
 STLHF,Standard Lithium Ltd Ordinary Shares (Canada),U
 STLJF,Stella Jones Inc Ordinary Shares,U
 STLM,St Elmo Silver Mines Corp Unclassified,U
-STLT,"Spotlight Innovation, Inc. NEW Corporation Common Stock",U
 STLV,iShares Factors US Value Style ETF,BATS
 STLXF,Stellar AfricaGold Inc. Ordinary Shares,U
 STLY,"HG Holdings, Inc. Common Stock",U
@@ -1470,6 +1470,7 @@ SUP,"Superior Industries International, Inc.",NYSE
 SUPBF,SUPERBAG CO LTD SHS (Japan),U
 SUPCF,SUPALAI PUBLIC CO LTD NVDR SHARES (Thailand),U
 SUPGF,Superior Gold Inc. Ordinary Shares (Canada),U
+SUPIF,SUPERMARKET INCOME REIT PLC ORD GBP0.01 (United Kingdom),U
 SUPN,"Supernus Pharmaceuticals, Inc. Common Stock",NASDAQ
 SUPV,Grupo Supervielle S.A.,NYSE
 SURDF,Sumitomo Realty & Development Co Ltd Ordinary Shares (Japan),U
@@ -2676,7 +2677,6 @@ TPYP,Tortoise North American Pipeline ETF,ARCA
 TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc.",NYSE
 TPZEF,TOPAZ ENERGY CORP COM (Canada),U
 TQLB,"Torque Lifestyle Brands, Inc. Common Stock",U
-TQMPF,TQM CORP PUBLIC CO LTD Depositary Shares  NVDR SHARES Thailand(TH ),U
 TQQQ,ProShares UltraPro QQQ,NASDAQ
 TR,"Tootsie Roll Industries, Inc.",NYSE
 TRAC,Track Data Corporation Common Stock,U
@@ -3776,7 +3776,6 @@ VDKB,Vodka Brands Corp Common Stock,U
 VDMCY,Vodacom Group Ltd. Sponsored ADR,U
 VDMRF,Vanadium One Iron Corp Ordinary Shares,U
 VDOMF,Val D Or Mng Corp Common Shares,U
-VDPHD,QUINTON GROUP INC Common Stock,U
 VDQSF,GNOMESTAR CRAFT INC Ordinary Shares,U
 VDRFF,Vidrala SA Alava Ordinary Shares (Spain),U
 VDRM,"ViaDerma, Inc. Common Stock",U
@@ -4675,6 +4674,7 @@ WLCSF,WISDOMTREE FGN EXCHANGE LTD LONG CHF SHORT GBP Foreign Exchange Traded Fun
 WLDBF,WILDBRAIN LTD COM VAR VTG (Canada),U
 WLDFF,Wildflower Brands Inc Ordinary Shares,U
 WLDN,"Willdan Group, Inc. Common Stock",NASDAQ
+WLDPF,WILDPACK BEVERAGE INC COM (Canada),U
 WLDR,Affinity World Leaders Equity ETF,BATS
 WLFC,Willis Lease Finance Corporation Common Stock,NASDAQ
 WLFDY,Wolford Ag Ord (F) American Depositary Shares,U
@@ -4906,7 +4906,6 @@ WTM,White Mountains Insurance Group Ltd.,NYSE
 WTMF,WisdomTree Managed Futures Strategy Fund,ARCA
 WTNW,Water Now Inc Common Stock,U
 WTPNU,Western Plains Energy LLC Unit Class B,U
-WTRE,Watford Holdings Ltd. Common Shares,NASDAQ
 WTREP,Watford Holdings Ltd. 8.5% Cumulative Redeemable Preference Shares,NASDAQ
 WTRG,"Essential Utilities, Inc.",NYSE
 WTRH,Waitr Holdings Inc. Common Stock,NASDAQ
