@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPHI,"China Pharma Holdings, Inc.",AMEX
+CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
+CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
 CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
@@ -1316,7 +1319,7 @@ DNAT,Dna Medical Tecnologies Inc Common Stock,U
 DNAX,"DNA Brands, Inc. Common Stock",U
 DNAY,"Codex DNA, Inc. Common Stock",NASDAQ
 DNB,"Dun & Bradstreet Holdings, Inc.",NYSE
-DNBHF,DNB ASA Ordinary Shares,U
+DNBBY,DNB BK ASA American Depositary Receipts - Sponsored,U
 DNCVF,Defiance Silver Corp. Ordinary Shares (Canada),U
 DNDDF,Dundee Sustainable Technologies Inc Ordinary Shares,U
 DNDEF,DUNDEE CORP CUMULATIVE 5 YR RATE RESET (1ST PREF SHS SER 2)  Preference Shares Non Voting  (Canada),U
@@ -1330,7 +1333,6 @@ DNFGY,Dongfeng Motor Group Co. Ltd Unsponsored ADR Representing Shs H  (China),U
 DNGDF,"Dynacor Gold Mines, Inc Ordinary Shares (Canada)",U
 DNGFF,Dong Fang Electricl Machine Co Ordinary Shares,U
 DNGYF,Dongyue Group Limited Ordinary Shares (Cayman Islands),U
-DNHBY,DNB ASA SPONSORED ADR Representing 10  (Norway),U
 DNIEF,Danieli & Cofficine Meccaniche Spa Buttrio Udine Shs Di Svgs Non Conv (Italy),U
 DNIF,Dividend and Income Fund Common Stock,U
 DNIFY,Danieli S.P.A. Unsponsored ADR (Italy),U
@@ -4204,7 +4206,7 @@ FUWAY,Furukawa Elec Ltd American Depositary Shares,U
 FV,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright Focus 5 ETF,NASDAQ
 FVAL,Fidelity Value Factor ETF,ARCA
 FVAM,5:01 Acquisition Corp. Class A Common Stock,NASDAQ
-FVANF,First Vanadium Corp Common Shares,U
+FVANF,Phenom Resources Corp Common Shares,U
 FVC,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright Dynamic Focus 5 ETF,NASDAQ
 FVCB,"FVCBankcorp, Inc. Common Stock",NASDAQ
 FVD,First Trust Value Line Dividend Fund,ARCA
@@ -4398,7 +4400,7 @@ GBLO,Global Beta Low Beta ETF,ARCA
 GBLP,"Global Pharmatech, Inc. Common Stock",U
 GBLTF,GBLT Corporation Common Shares,U
 GBLX,"GB Sciences, Inc. Common Stock",U
-GBLYF,Globally Local Technologies Inc Common Stock (Canada),U
+GBLYF,Odd Burger Corporation  Common Stock,U
 GBMIF,Green Battery Minerals Inc Ordinary Shares,U
 GBMRF,"GBM RESOURCES LTD, NEDLANDS WA Ordinary Shares",U
 GBMS,"Global Materials & Services, Inc. Common Stock",U
@@ -4875,7 +4877,6 @@ GLPG,Galapagos NV American Depositary Shares,NASDAQ
 GLPGF,Galapagos NV Ordinary Shares,U
 GLPH,"Gala Pharmaceutical, Inc. Common Stock",U
 GLPI,"Gaming and Leisure Properties, Inc. Common Stock",NASDAQ
-GLPJF,GLP J REIT SHS (Japan),U
 GLPT,Global Profit Technologies Inc FL Common Stock,U
 GLQ,Clough Global Equity Fund,AMEX
 GLRE,"Greenlight Capital Re, Ltd. Class A Ordinary Shares",NASDAQ
@@ -5399,6 +5400,7 @@ GSSC,GS ActiveBeta U.S. Small Cap Equity ETF,ARCA
 GSSPF,GENESIS EMERGING MARKETS FUND LTD PART RED PREF SHS GBP (Guernsey),U
 GSSRF,Gossan Resources Ltd Ordinary Shares (Canada),U
 GSST,Goldman Sachs Access Ultra Short Bond ETF,BATS
+GSTC,GlobeStar Therapeutics Corporation Common Stock,U
 GSTN,"GreyStone Digital Technology, Inc. Common Stock",U
 GSTX,Graphene & Solar Technologies Ltd. Common Stock,U
 GSUS,Goldman Sachs MarketBeta U.S. Equity ETF,BATS
@@ -5466,10 +5468,10 @@ GTS,Triple-S Management Corporation,NYSE
 GTSIF,LOBE SCIENCES LTD Common Stock,U
 GTSO,"Green Technology Solutions, Inc. Common Stock",U
 GTSWF,GETSWIFT TECHNOLOGIES LTD Ordinary Shares,U
-GTT,"GTT Communications, Inc.",NYSE
 GTTCF,Gattaca PLC Ordinary Shares (United Kingdom),U
 GTTJ,GTJ REIT INC Common Stock,U
 GTTL,Getelman Corp Common Stock,U
+GTTN,"GTT Communications, Inc. Common Stock",U
 GTVH,GOLDEN TRIANGLE VENTURES INC Common Stock,U
 GTVI,Joway Health Industries Group Inc. Common Stock,U
 GTWCF,Greentown China Holdings Limited Ordinary Shares (Cayman Islands),U
@@ -5547,5 +5549,3 @@ GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
-GWPC,"Wholehealth Products, Inc. Common Stock",U
-GWPD,"GP Solutions, Inc. Common Stock",U

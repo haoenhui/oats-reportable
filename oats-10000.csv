@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWPC,"Wholehealth Products, Inc. Common Stock",U
+GWPD,"GP Solutions, Inc. Common Stock",U
 GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
 GWRRF,Engold Mines Ltd Ordinary Shares,U
 GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
@@ -99,6 +101,7 @@ HAON,"Halitron, Inc. Common Stock",U
 HAP,VanEck Vectors Natural Resources ETF,ARCA
 HAPBF,HAPBEE TECHNOLOGIES INC COM SUB VTG SHS (Canada),U
 HAPP,Happiness Biotech Group Limited Ordinary Shares,NASDAQ
+HAPVY,HAPVIDA PARTICIPACOES E INVESTIMENTOS SA American Depositary Receipts - Unsponsored  (Brazil),U
 HARL,Harleysville Financial Corp. Common Stock,U
 HARP,"Harpoon Therapeutics, Inc. Common Stock",NASDAQ
 HART,IQ Healthy Hearts ETF,ARCA
@@ -1794,7 +1797,6 @@ INTWF,Sharc International Systems Inc.  Ordinary Shares,U
 INTZ,Intrusion Inc. Common Stock,NASDAQ
 INUV,"Inuvo, Inc.",AMEX
 INVA,"Innoviva, Inc. Common Stock",NASDAQ
-INVB,InventaBioTech Inc. Common Stock,U
 INVE,"Identiv, Inc. Common Stock",NASDAQ
 INVH,Invitation Homes Inc. Common Stock,NYSE
 INVI,"Integral Vision, Inc. Common Stock",U
@@ -3926,7 +3928,6 @@ LNFA WS,"L&F Acquisition Corp. Warrants, each whole warrant exercisable for one 
 LNG,"Cheniere Energy, Inc.",AMEX
 LNGB,LONGBAU GROUP INC  Common Stock,U
 LNGHY,Lai Fung Hldgs Ltd American Depositary Receipts - Sponsored (Cayman Islands),U
-LNGLY,Liquefied Natural Gas Ltd American Depositary Shares (Sponsored) (Australia),U
 LNGPF,Longfor Group Holdings Ltd Ordinary Shares,U
 LNGT,"Laser Energetics, Inc. Common Stock",U
 LNGYF,Esrey Resources Ltd. Common Shares,U
@@ -5075,7 +5076,6 @@ MMAC,"MMA Capital Holdings, Inc. Common Stock",NASDAQ
 MMAPF,Memscap SAOrdinary Shares (France),U
 MMAT,Meta Materials Inc. Common Stock,NASDAQ
 MMAYF,MSM Malaysia Holdings BHD Ordinary Shares (Malaysia),U
-MMBFD,VECTOR 21 HLDGS INC Common Stock,U
 MMBMF,MASMOVIL IBERCOM S A Acciones Por Desdoblamiento (Spain),U
 MMC,"Marsh & McLennan Companies, Inc.",NYSE
 MMCLF,Mercell Holdings AS Ordinary Shares (Norway),U
@@ -5363,9 +5363,9 @@ MRCBF,Morguard Corporation Ordinary Shares (Canada),U
 MRCC,Monroe Capital Corporation Common Stock,NASDAQ
 MRCHF,Miraca Holdings Inc Ordinary shares (Japan),U
 MRCIF,Mercari Inc Ordinary Shares,U
-MRCQF,MERCER PARK BRAND ACQUISITION CORP Cl A Restricted Vtg (Canada),U
+MRCQF,Glass House Brands Inc. Common Shares,U
 MRCR,Moro Corporation Common Stock,U
-MRCWF,Mercer Park Brand Acquisition Corp Warrant Exp 05/13/2027 (Canada),U
+MRCWF,Glass House Brands Inc. Warrant,U
 MRCY,Mercury Systems Inc Common Stock,NASDAQ
 MRDH,"Meridian Holdings, Inc. Common Stock",U
 MRDY,Mobile Ready Entertainment Corp. New Common Stock,U
@@ -5548,4 +5548,3 @@ MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
-MTFGF,U K SPAC PLC Ordinary Shares,U

@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
@@ -1855,7 +1856,9 @@ OSGSY,Osaka Gas Co Ltd Unsponsored ADR (Japan),U
 OSH,"Oak Street Health, Inc.",NYSE
 OSHDF,OSHIDORI INTL HLDGS LTD SHS (Bermuda),U
 OSHIF,Oishi Group Public Co Ltd Foreign Shares (Thailand),U
+OSI,Osiris Acquisition Corp.,NYSE
 OSI U,"Osiris Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-half o",NYSE
+OSI WS,"Osiris Acquisition Corp. Warrants, each exercisable for one share of Class A common stock at an exer",NYSE
 OSIIF,Osino Resources Corporation (Canada),U
 OSIN,"Optimum Source International, Ltd. Common Stock",U
 OSIS,"OSI Systems, Inc. Common Stock (DE)",NASDAQ
@@ -2411,7 +2414,6 @@ PFLD,AAM Low Duration Preferred and Income Securities ETF,ARCA
 PFLT,PennantPark Floating Rate Capital Ltd. Common Stock,NASDAQ
 PFM,Invesco Exchange-Traded Fund Trust Invesco Dividend Achievers ETF,NASDAQ
 PFMT,Performant Financial Corporation Common Stock,NASDAQ
-PFMTF,Pacific Metals Co Ltd Ordinary Shares (Japan),U
 PFN,PIMCO Income Strategy Fund II,NYSE
 PFND,"Pathfinder Cell Therapy, Inc. Common Stock",U
 PFNL,Plymouth Financial Corporation (MI) Common Stock,U
@@ -2513,7 +2515,7 @@ PHD,"Pioneer Floating Rate Fund, Inc.",NYSE
 PHDG,Invesco S&P 500 Downside Hedged ETF,ARCA
 PHDVF,Prince Housing Development Corp Ordinary Shares (Taiwan),U
 PHDWY,"PT Ace Hardware Indonesia, TBK American Depositary Receipts - Unsponsored",U
-PHEC,PHILLIPS EDISON & CO INC Common Stock,U
+PHECD,PHILLIPS EDISON & CO INC Common Stock,U
 PHG,KONINKLIJKE PHILIPS  N.V.,NYSE
 PHGD,Phil Good Prods Inc Common Stock,U
 PHGE,BiomX Inc.,AMEX
@@ -2848,7 +2850,7 @@ PNI,PIMCO NEW YORK MUNICIPAL INCOME FUND II COMMON SHARES OF BENEFICIAL INT.,NYS
 PNINF,Pininfarina SPA Torino Ordinary Shares (Italy),U
 PNLT,"Paneltech International Holdings, Inc. Common Stock",U
 PNM,"PNM Resources, Inc.",NYSE
-PNMLF,"Jayden Resources, Inc. Ordinary Shares (Cayman Islands)",U
+PNMLF,"Jayden Resources, Inc. Ordinary Shares",U
 PNMXO,Public Service Company of New Mexico 4.58 Cumulative Preferred Stock,U
 PNNB,Pinnacle Bank of Oregon (OR) Common Stock,U
 PNNCU,Pinnacle Ethanol LLC Cap Unit Cl A,U
@@ -4443,7 +4445,7 @@ RNGUF,Regeneus Ltd Ordinary Shares (Australia),U
 RNHEF,China Dili Group  Ordinary Shares,U
 RNLC,First Trust Exchange-Traded Fund VI Large Cap US Equity Select ETF,NASDAQ
 RNLSY,Renault S.A. Unsponsored American Depository Receipt (France),U
-RNLX,Renalytix AI plc American Depositary Shares,NASDAQ
+RNLX,Renalytix plc American Depositary Shares,NASDAQ
 RNMBF,Rheinmetall Ag Ordinary Shares (Germany Federal Republic),U
 RNMBY,Rheinmetall Ag Unsponsored ADR (Germany),U
 RNMC,First Trust Exchange-Traded Fund VI Mid Cap US Equity Select ETF,NASDAQ
@@ -4497,7 +4499,6 @@ RODM,Hartford Multifactor Developed Markets (ex-US) ETF,ARCA
 RODN,Avicenna Global Corp. Common,U
 ROFO,Rockford Corporation Common Stock,U
 ROG,Rogers Corporation,NYSE
-ROGFF,Roxgold Inc. Ordinary Shares (Canada),U
 ROHCF,Rohm Co Ltd Ordinary Shares,U
 ROHCY,Rohm Co Ltd Unsponsored ADR (Japan),U
 ROIC,Retail Opportunity Investments Corp. Common Stock (MD),NASDAQ
@@ -4844,6 +4845,7 @@ SABR,Sabre Corporation Common Stock,NASDAQ
 SABRP,Sabre Corporation 6.50% Series A Mandatory Convertible Preferred Stock,NASDAQ
 SACC,Sachem Capital Corp. 6.875% Notes due 2024,AMEX
 SACH,Sachem Capital Corp. Common Shares,AMEX
+SACH PRA,Sachem Capital Corp. 7.75% Series A Cumulative Redeemable Preferred Stock,AMEX
 SADL,"William H. Sadlier, Inc. Common Stock",U
 SADMF,Sanatana Resources Inc Common Shares,U
 SAEC,Starlight Energy Corporation. Common Stock,U
@@ -5106,7 +5108,6 @@ SCLEU,Broadscale Acquisition Corp. Units,NASDAQ
 SCLEW,Broadscale Acquisition Corp. Warrant,NASDAQ
 SCLZF,Scales Corp TLD Ordinary Shares (New Zealand),U
 SCM,STELLUS CAPITAL INVESTMENT CORPORATION,NYSE
-SCMCP,Sachem Capital Corp Redeemable Series A Preferred Stock,U
 SCMWY,Swisscom AG Common Stock,U
 SCNA,Smart Cannabis Corp. Common Stock,U
 SCND,"Scientific Industries, Inc. Common Stock",U
@@ -5462,7 +5463,7 @@ SGLRF,Spyglass Resources Corp. Common Shares (Canada),U
 SGLS,"Signature Leisure, Inc. Common Stock",U
 SGMA,"SigmaTron International, Inc. Common Stock",NASDAQ
 SGMD,"Sugarmade, Inc. Common Stock",U
-SGMLF,Sigma Lithium Res Corp Ordinary Shares,U
+SGMLF,Sigma Lithium Corporation Ordinary Shares,U
 SGMNF,Sutter Gold Mining Inc. Ordinary Shares (Canada),U
 SGMO,"Sangamo Therapeutics, Inc. Common Stock",NASDAQ
 SGMR,Sagamore Trading Group Inc Common Stock,U
@@ -5547,5 +5548,3 @@ SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
-SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
-SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U

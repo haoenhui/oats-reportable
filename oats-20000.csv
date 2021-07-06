@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
+SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
@@ -197,6 +199,7 @@ SIXH,6 Meridian Hedged Equity-Index Option Strategy ETF,ARCA
 SIXL,6 Meridian Low Beta Equity Strategy ETF,ARCA
 SIXN,Siouxland Energy & Livestock Coop Wet Equity Intp Int,U
 SIXS,6 Meridian Small Cap Equity ETF,ARCA
+SIXWF,Sixth Wave Innovations Inc Ordinary Shares,U
 SIZE,iShares MSCI USA Size Factor ETF,ARCA
 SIZYF,Major Precious Metals Corp Ordinary Shares,U
 SJ,Scienjoy Holding Corporation Ordinary Shares,NASDAQ
@@ -276,7 +279,6 @@ SKTCF,SKYCHAIN TECHNOLOGIES INC COM NEW (Canada),U
 SKTO,"SK3 Group, Inc. Common Stock",U
 SKTP,Skytop Lodge Corporation Common Stock,U
 SKTPP,Skytop Lodge Corporation Preferred Stock,U
-SKUEF,SEKISUI HSE REIT INC SHS (Japan),U
 SKUFF,Svenska Kullagerfabriken Ab Skf Shares B (Sweden),U
 SKUNF,Seikagaku Corp SHS (Japan),U
 SKURF,"SAKURA INTERNET INC, OSAKA SHS (Japan)",U
@@ -693,7 +695,6 @@ SOAC,Sustainable Opportunities Acquisition Corp.,NYSE
 SOAC U,"Sustainable Opportunities Acquisition Corp. Units, each consisting of one Class A ordinary share and",NYSE
 SOAC WS,"Sustainable Opportunities Acquisition Corp. Warrants, each whole warrant exercisable for one Class A",NYSE
 SOAGY,Sartorius AG UNsponsored ADR (Germany),U
-SOAN,"AngioSoma, Inc. Common Stock",U
 SOBKY,Softbank Corp American Depositary Shares - Unsponsored  (Japan),U
 SOBR,SOBR SAFE INC Common Stock,U
 SOBS,"Solvay Bank Corporation (Solvay, NY) Common Stock",U
@@ -714,7 +715,6 @@ SOFWF,SOFWAVE MED LTD SHS (Israel),U
 SOGFF,Strategic Oil & Gas Ltd Ordinary Shares,U
 SOGO,"Sogou Inc. American Depositary Shares, each representing one Class A Ordinary Share",NYSE
 SOGU,The Short De-SPAC ETF,ARCA
-SOHFF,Altaley Mining Corporation Ordinary Shares,U
 SOHGF,Sohgo Security Services Co Ltd Tokyo Ordinary Shares (Japan),U
 SOHGY,Sohgo Security Services Co Ltd Tokyo American Depositary Shares (Japan),U
 SOHI,"Sortis Holdings, Inc. Common Stock",U
@@ -2851,6 +2851,7 @@ TSCDF,TESCO PLC Ordinary Shares,U
 TSCDY,TESCO PLC American Depositary Receipts - Sponsored,U
 TSCFY,Tisco Financial Group Public Co Ltd Unsponsored ADR (Thailand),U
 TSCHY,Trustco Group Holdings Ltd. Sponsored American Depository Receipt (Namibia),U
+TSCIF,TISCO FINANCIAL GROUP PUBLIC COMPANY LTD FOREIGN SHARES (Thailand),U
 TSCO,Tractor Supply Company Common Stock,NASDAQ
 TSDOF,Tessenderlo Group NV Ordinary Shares,U
 TSDRF,"Tsodilo Resources, Ltd. Ordinary Shares (Canada)",U
@@ -3890,6 +3891,7 @@ VHAQ WS,Viveon Health Acquisition Corp. Warrants to purchase one-half of a share
 VHC,VirnetX Holding Corporation,NYSE
 VHI,"Valhi, Inc.",NYSE
 VHIBF,VITALHUB CORP COM NO PAR (Canada),U
+VHLD,VECTOR 21 HLDGS INC Common Stock,U
 VHLGF,Valuetronics Holdings Ltd Ordinary shares (Bermuda),U
 VHT,Vanguard Health Care ETF,ARCA
 VHUB,Vapor Hub International Inc. Common Stock,U
@@ -4779,9 +4781,6 @@ WPCB WS,"Warburg Pincus Capital Corporation I-B Warrants, each whole warrant exe
 WPCZD,Blue Star Gold Corp Ordinary Shares,U
 WPDPF,"WPD Pharmaceuticals, Inc. Common Shares",U
 WPEC,Wei Pai Electronic Commerce Company Ltd. Common Stock,U
-WPF,Foley Trasimene Acquisition Corp.,NYSE
-WPF U,Foley Trasimene Acquisition Corp.,NYSE
-WPF WS,"Foley Trasimene Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A",NYSE
 WPFH,"World Poker Fund Holdings, Inc. Common Stock",U
 WPG,Washington Prime Group Inc.,NYSE
 WPG PRH,Washington Prime Group Inc. 7.5% Series H Cumulative Redeemable Preferred Shares of Beneficial Inter,NYSE

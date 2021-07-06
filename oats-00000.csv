@@ -980,6 +980,8 @@ ALIN PRA,"Altera Infrastructure L.P. 7.25% Series A Cumulative Redeemable Prefer
 ALIN PRB,"Altera Infrastructure L.P. 8.50% Series B Cumulative Redeemable Preferred Units, representing limite",NYSE
 ALIN PRE,Altera Infrastructure L.P. 8.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Perpetual Pr,NYSE
 ALIOF,Actelion Ltd Allschwil Ordinary Shares,U
+ALIT,"Alight, Inc.",NYSE
+ALIT WS,"Alight, Inc. Warrants, each exercisable for one share of Class A Common Stock at an exercise price o",NYSE
 ALITF,Alliance Trust Co Ltd Ord Ordinary Shares,U
 ALIZF,Allianz Ag Muenchen Namen-Akt Vinkuliert Shares (Germany),U
 ALIZY,Allianz SE Unsponsored ADR (Germany),U
@@ -1685,7 +1687,9 @@ ARSRF,Aeris Resources Ltd. Ordinary Shares (Australia),U
 ARSSF,Assura Plc REIT (United Kingdom),U
 ARST,Arista Financial Corp.  Common Stock,U
 ARSUF,Fagron SA Ordinary Shares,U
+ARTA,Artisan Acquisition Corp. Class A Ordinary Shares,NASDAQ
 ARTAU,Artisan Acquisition Corp. Units,NASDAQ
+ARTAW,Artisan Acquisition Corp. Warrants,NASDAQ
 ARTD,"ARTISTdirect, Inc. Common Stock",U
 ARTGF,AIRTHINGS ASA Ordinary Shares,U
 ARTH,"Arch Therapeutics, Inc. Common Stock",U
@@ -1964,6 +1968,7 @@ ATLIF,Actelion Ltd Allschwil Registered Shs 2 Linie Maerz 2017 (Switzerland),U
 ATLKF,Atlas Copco Aktiebolag Ordinary Shares,U
 ATLKY,Atlas Copco Ab Sponsored ADR repstg Class A,U
 ATLO,Ames National Corporation Common Stock,NASDAQ
+ATLYF,Altaley Mining Corporation Ordinary Shares,U
 ATMH,ALL THINGS MOBILE ANALYTIC INC Common Stock,U
 ATMO,"AmericaTowne Holdings, Inc. Common Stock",U
 ATMP,iPath Select MLP ETN,BATS
@@ -2020,7 +2025,6 @@ ATTLF,Atlas Copco Aktiebolag Ordinary Shares,U
 ATTO,Atento S.A.,NYSE
 ATTQF,ATTACQ LTD Ordinary Shares (South Africa),U
 ATTRF,Ascott Residence Trust REIT  (Singapore),U
-ATURF,Sixth Wave Innovations Inc Ordinary Shares,U
 ATUS,"Altice USA, Inc. Class A Common Stock",NYSE
 ATUSF,Altius Minerals Corp Ordinary Shares (Canada),U
 ATUUF,Altura Energy Inc Ordinary Shares (Canada),U
@@ -3113,7 +3117,7 @@ BLOK,Amplify Transformational Data Sharing ETF,ARCA
 BLONF,Co2 Gro Inc Ordinary Shares,U
 BLOZF,Cannabix Technologies Inc. Ordinary Shares (Canada),U
 BLPFF,Blok Technologies Inc Ordinary Shares (Canada),U
-BLPG,"Blue Line Protection Group, Inc. Common Stock",U
+BLPGD,"Blue Line Protection Group, Inc. Common Stock",U
 BLPH,"Bellerophon Therapeutics, Inc. Common Stock",NASDAQ
 BLRDF,Billerud AB Shs (Sweden),U
 BLRDY,Billerud Korsnas AB American Depositary Receipts - Unsponsored,U
@@ -4738,7 +4742,6 @@ CHPM,CHP Merger Corp. Class A Common Stock,NASDAQ
 CHPMU,CHP Merger Corp. Unit,NASDAQ
 CHPMW,CHP Merger Corp. Warrant,NASDAQ
 CHPT,"ChargePoint Holdings, Inc.",NYSE
-CHPT WS,"ChargePoint Holdings, Inc. Warrants, exercisable for one share of Common Stock",NYSE
 CHPXF,China Pacific Insurance Group Co Ltd Shares -H- (Hong Kong),U
 CHPXY,China Pacific Insurance Group Co Ltd Unsponsored American Depository Receipt (China),U
 CHRA,"Charah Solutions, Inc Common Stock",NYSE
@@ -5546,6 +5549,3 @@ CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
 CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
-CPHI,"China Pharma Holdings, Inc.",AMEX
-CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
-CPI,CPI Inflation Hedged ETF,ARCA
