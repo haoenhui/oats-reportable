@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
+CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
 CPHI,"China Pharma Holdings, Inc.",AMEX
 CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
@@ -786,7 +788,7 @@ DAPR,FT Cboe Vest U.S. Equity Deep Buffer ETF - April,BATS
 DAR,DARLING INGREDIENTS INC.,NYSE
 DARE,"Dare Bioscience, Inc. Common Stock",NASDAQ
 DASH,"DoorDash, Inc.",NYSE
-DASTF,"Dassault Systemes, S.A. Ordinary Shares",U
+DASTD,Dassault Systemes Ordinary Shares,U
 DASTY,"Dassault Systemes, S.A. American Depositary Shares",U
 DATI,"Digital Asset Monetary Network, Inc. Common Stock",U
 DATWY,Datwyler Holding AG Unsponsored ADR (Switzerland),U
@@ -5466,7 +5468,6 @@ GTRL,"Get Real USA, Inc Common Stock",U
 GTRR,GLOBAL TIRE RECYCLING SUMTER CNTY INC Common Stock,U
 GTS,Triple-S Management Corporation,NYSE
 GTSIF,LOBE SCIENCES LTD Common Stock,U
-GTSO,"Green Technology Solutions, Inc. Common Stock",U
 GTSWF,GETSWIFT TECHNOLOGIES LTD Ordinary Shares,U
 GTTCF,Gattaca PLC Ordinary Shares (United Kingdom),U
 GTTJ,GTJ REIT INC Common Stock,U
@@ -5548,4 +5549,3 @@ GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
-GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U

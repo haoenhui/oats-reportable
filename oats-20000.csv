@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
-SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
@@ -106,7 +104,7 @@ SIEB,Siebert Financial Corp. Common Stock,NASDAQ
 SIEGY,Siemens AG American Depositary Shares,U
 SIELY,Shanghai Electric Group Co Ltd Unsponsored ADR (China),U
 SIEN,"Sientra, Inc. Common Stock",NASDAQ
-SIERF,SIERRA GROWTH CORP Ordinary Shares,U
+SIERF,Sierra Grande Minerals Inc.  Ordinary Shares,U
 SIETY,D IETEREN GROUP American Depositary Receipts - Unsponsored,U
 SIEVF,D IETEREN GROUP NV Ordinary Shares,U
 SIF,"SIFCO Industries, Inc.",AMEX
@@ -560,6 +558,7 @@ SNCJF,SNT CORP FORMERLY SHIN NIPPON DROP FORGING CO LTD Ordinary SHS (Japan),U
 SNCLF,Southern Concrete Pile Public Co Ltd Formerly Southern Concrete Pile Co Ltd Units Non -Voting Depository Receipt (Thailand),U
 SNCPF,Sun Corp Ordinary Shares (Japan),U
 SNCR,"Synchronoss Technologies, Inc. Common Stock",NASDAQ
+SNCRL,"Synchronoss Technologies, Inc. 8.375% Senior Notes due 2026",NASDAQ
 SNCVF,RASSINI SAB DE CV Ordinary Shares,U
 SNCY,"Sun Country Airlines Holdings, Inc. Common Stock",NASDAQ
 SND,"Smart Sand, Inc. Common Stock",NASDAQ
@@ -665,6 +664,7 @@ SNSKF,Sanko Sangyo Co Ltd Ordinary Shares (Japan),U
 SNSR,Global X Funds Global X Internet of Things ETF,NASDAQ
 SNST,"Sunset Capital Assets, Inc. Common Stock",U
 SNTE,Sante Technology Holdings Inc. Common Stock,U
+SNTG,Sentage Holdings Inc. Ordinary Shares,NASDAQ
 SNTNF,Santana Minerals Ltd Ordinary Shares (Australia),U
 SNTW,SUMMIT NETWORKS INC  Common Stock,U
 SNTX,"Suntex Enterprises, Inc. Common Stock",U
@@ -823,7 +823,6 @@ SPDN,Direxion Daily S&P 500 Bear 1X Shares,ARCA
 SPDV,AAM S&P 500 High Dividend Value ETF,ARCA
 SPDW,SPDR Portfolio Developed World ex-US ETF,ARCA
 SPE,"Special Opportunities Fund, Inc.",NYSE
-SPE PRB,"Special Opportunities Fund, Inc. 3.50% Convertible Preferred Stock, Series B",NYSE
 SPEC,"SpectralCast, Inc. Common Stock",U
 SPEM,SPDR Portfolio Emerging Markets ETF,ARCA
 SPEU,SPDR Portfolio Europe ETF,ARCA
@@ -901,6 +900,7 @@ SPNE,SeaSpine Holdings Corporation Common Stock,NASDAQ
 SPNRF,Sparton Resources Inc (F) Ordinary Shares,U
 SPNS,Sapiens International Corporation N.V. Common Shares (Cayman Islands),NASDAQ
 SPNT,SiriusPoint Ltd.,NYSE
+SPNT PRB,"SiriusPoint Ltd. 8.00% Resettable Fixed Rate Preference Shares, Series B, $25.00 liquidation prefere",NYSE
 SPNUF,Spirent plc Ordinary Shares,U
 SPNV,"Supernova Partners Acquisition Company, Inc.",NYSE
 SPNV U,"Supernova Partners Acquisition Company, Inc. Units, each consisting of one share of Class A common s",NYSE
@@ -1114,7 +1114,6 @@ SRSG,"Spirits Time International, Inc. Common Stock",U
 SRSIF,Strateco Resources Inc Ordinary Shares,U
 SRSK,"Star Struck, Ltd. Common Stock",U
 SRSN,"Strategic Resources International, Inc. Common Stock",U
-SRSPF,Siriuspoint Ltd. RESETTABLE FIXED RATE PFD SHS SER B 8% (Bermuda),U
 SRSR,Sarissa Resources Inc. Common Stock,U
 SRT,Startek Inc.,NYSE
 SRTOY,Sartorius Stedim Biotech S A Unsponsored ADR (France),U
@@ -2817,7 +2816,6 @@ TRUP,"Trupanion, Inc. Common Stock",NASDAQ
 TRUWY,Truworths International Ltd. Unsponsored ADR (South Africa),U
 TRUX,Truxton Corporation.  Common Stock,U
 TRV,"The Travelers Companies, Inc.",NYSE
-TRVCF,Tervita Corporation Common Shares (Canada),U
 TRVG,trivago N.V. American Depositary Shares,NASDAQ
 TRVI,"Trevi Therapeutics, Inc. Common Stock",NASDAQ
 TRVN,"Trevena, Inc. Common Stock",NASDAQ
@@ -3833,6 +3831,7 @@ VETOF,Vetoquinol Ordinary Shares (France),U
 VETS,Pacer Military Times Best Employers ETF,NASDAQ
 VETTF,Vector Ltd Ordinary Shares (New Zealand),U
 VEU,Vanguard FTSE All-World Ex-US ETF,ARCA
+VEV,Vicinity Motor Corp. Common Stock,NASDAQ
 VEXTF,Vext Science Inc Common Shares,U
 VFAWF,VANGUARD FUNDS PLC FTSE ALL WORLD UCITS ETF ACCUM USD Exchange Traded Fund,U
 VFC,V.F. Corporation,NYSE
@@ -5412,6 +5411,7 @@ ZH,Zhihu Inc. American Depositary Shares (every two of each representing one Cla
 ZHAOF,Zhaojin Mining Industry Co LTD Shs -H- (China),U
 ZHAOY,Zhaojin Mining Industry Co LTD Unsponsored ADR (China),U
 ZHCLF,Zenith Cap Corp Common Stock (Canada),U
+ZHDG,Zega Buy & Hedge ETF,ARCA
 ZHDM,Zhong Hui Dao Ming Copper Holding Ltd. Common shares,U
 ZHEIF,ZHOU HEI YA INTL HLDGS CO LTD Shs (Cayman Islands),U
 ZHEXF,Zhejiang Southeast Electric Power-B Ordinary Shares,U

@@ -123,7 +123,7 @@ MVLY,"Mission Valley Bancorp (Sun Valley, CA) Common Stock",U
 MVMDF,MOUNTAIN VY MD INC COM (Canada),U
 MVNT,MOVEMENT INDS CORP Common Stock,U
 MVO,MV Oil Trust,NYSE
-MVP,Roundhill MVP ETF,ARCA
+MVP,"Roundhill Pro Sports, Media & Apparel ETF",ARCA
 MVPT,MVP Holdings Inc. Common Stock,U
 MVRBF,Medivir Ordinary Shares,U
 MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,ARCA
@@ -240,7 +240,7 @@ NAC,Nuveen California Quality Municipal Income Fund,NYSE
 NACB,NATIONAL CAP BANCORP INC Common Stock,U
 NACOF,"Nacional Financiera S N C Shares of Industrial, Retail and service Companies Indexes (Mexico)",U
 NACP,Impact Shares NAACP Minority Empowerment ETF,ARCA
-NACQF,NEXTPOINT ACQUISITION CORP CL A RESTRICTED VOTING SH (Canada),U
+NACQF,NextPoint Financial Inc Other,U
 NAD,Nuveen Quality Municipal Income Fund,NYSE
 NADA,"North American Datacom, Inc. Common Stock",U
 NAECF,National Arts Entertainment & Culture Group Ltd Ordinary Shares (Bermuda),U
@@ -331,7 +331,6 @@ NBYCF,Niobay Metals Inc Common Shares,U
 NC,"NACCO Industries, Inc.",NYSE
 NCA,Nuveen California Municipal Value Fund,NYSE
 NCABF,NCAB Group AB Common Stock (Sweden),U
-NCAP,"Northsight Capital, Inc. Common Stock",U
 NCAUF,Newcore Gold Ltd Ordinary Shares,U
 NCBDF,"Bandai Namco Holdings, Inc. Ordinary Shares (Korea South Republic of Korea)",U
 NCBDY,Bandai Namco Hldgs Inc American Depositary Receipts - Unsponsored,U
@@ -927,7 +926,7 @@ NRACU,Noble Rock Acquisition Corporation Unit,NASDAQ
 NRACW,Noble Rock Acquisition Corporation Warrant,NASDAQ
 NRBO,"NeuroBo Pharmaceuticals, Inc. Common Stock",NASDAQ
 NRBT,"Novus Robotics, Inc Common Stock",U
-NRC,National Research Corporation Common Stock,NASDAQ
+NRC,National Research Corporation Common Stock (Delaware),NASDAQ
 NRCD,"Nashville Records, Inc. Common Stock",U
 NRDBY,Nordea Bank ABp American Depositary Shares - Sponsored (Finland),U
 NRDXF,Nordex AG Ordinary Shares,U
@@ -960,6 +959,7 @@ NRPR,"Nutri Pharmaceuticals Research, Inc. New Common Stock",U
 NRRMF,NORRA METALS CORP Common Shares,U
 NRRSF,Norsemont Mining Inc Ordinary Shares,U
 NRRWF,Nuran Wireless Inc Ordinary Shares,U
+NRSAF,NORSE ATLANTIC AS SHS (Norway),U
 NRSCF,NOMURA HLDGS INC Ordinary Shares,U
 NRSDY,NORDIC SEMICONDUCTOR ASA  American Depositary Receipts - Unsponsored,U
 NRSTF,NORSTAR HLDGS INC Ordinary Shares,U
@@ -1011,7 +1011,7 @@ NSH WS,"NavSight Holdings, Inc. Warrants, each whole warrant exercisable for one
 NSHBY,Nisshinbo Holdings Inc. Unsponsored ADR (Japan),U
 NSHKF,Nippon Shokubai Co Ltd Ordinary Shares (Japan),U
 NSHRF,Northern Shield Res Inc Common Shares (Canada),U
-NSHSF,Nanosphere Health Sciences Inc Ordinary Shares,U
+NSHSD,Nanosphere Health Sciences Inc Ordinary Shares,U
 NSIT,"Insight Enterprises, Inc. Common Stock",NASDAQ
 NSKFF,Kongsberg Gruppen ASA Ordinary Shares (Norway),U
 NSL,NUVEEN SENIOR INCM FD,NYSE
@@ -1656,7 +1656,6 @@ ONCR,"Oncorus, Inc. Common Stock",NASDAQ
 ONCS,OncoSec Medical Incorporated Common Stock,NASDAQ
 ONCT,"Oncternal Therapeutics, Inc. Common Stock",NASDAQ
 ONCWF,Oncolytics Biotech Inc Warrants Expiring 06/01/2022 (Canada),U
-ONCX,"Oncolix, Inc. Common Stock",U
 ONCY,"Oncolytics Biotech, Inc. Common Shares",NASDAQ
 ONDR,"Online Disruptive Technologies, Inc Common Stock",U
 ONDS,Ondas Holdings Inc. Common Stock,NASDAQ
@@ -1869,7 +1868,6 @@ OSN,"Ossen Innovation Co., Ltd. American Depositary Shares",NASDAQ
 OSNDF,MBN Corporation Ordinary Shares (Canada),U
 OSOPF,Osotspa Pub Co Ltd Ordinary Shares  (Thailand),U
 OSOTF,OSOTSPA PUB CO LTD LOCAL SHARES (Thailand),U
-OSPMZ,Osprey Med Inc Chess Depositary Interests Repr 0.5 Sh,U
 OSPN,OneSpan Inc. Common Stock,NASDAQ
 OSRS,Osiris Corporation Common Stock,U
 OSS,"One Stop Systems, Inc. Common Stock",NASDAQ
@@ -3366,7 +3364,6 @@ PTHXF,PT HEXINDO ADIPERKASA Ordinary Shares,U
 PTIC,PropTech Investment Corporation II Class A Common Stock,NASDAQ
 PTICU,PropTech Investment Corporation II Unit,NASDAQ
 PTICW,PropTech Investment Corporation II Warrant,NASDAQ
-PTIFF,Petroceltic International Plc Ordinary Shares (IE),U
 PTIN,Pacer Trendpilot International ETF,ARCA
 PTITF,PT Indosat Tbk Ordinary Shares (Indonesia),U
 PTIX,"Protagenic Therapeutics, Inc. Common Stock",NASDAQ
@@ -4260,6 +4257,7 @@ RICE U,"Rice Acquisition Corp. Units, each consisting of one share of our Class 
 RICE WS,"Rice Acquisition Corp. Warrants, exercisable for one share of Class A common stock at an exercise pr",NYSE
 RICK,"RCI Hospitality Holdings, Inc. Common Stock",NASDAQ
 RICOF,Ricoh Co Ltd Ordinary Shares,U
+RICOU,Agrico Acquisition Corp. Unit,NASDAQ
 RICOY,"Ricoh Company, Ltd. Sponsored American Depositary Receipt",U
 RIDE,Lordstown Motors Corp. Class A Common Stock,NASDAQ
 RIDYF,Ridley Corp Ordinary Shares,U
@@ -4456,6 +4454,7 @@ RNR,RenaissanceRe Holdings Ltd.,NYSE
 RNR PRE,RENAISSANCERE HOLDINGS LTD 5.375% SER E,NYSE
 RNR PRF,"RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Se",NYSE
 RNRG,Global X Funds Global X Renewable Energy Producers ETF,NASDAQ
+RNRRV,RenaissanceRe Holdings Ltd Depositary Shares (Bermuda),U
 RNRTF,Reunert Ltd Ordinary Shares (South Africa),U
 RNRTY,Reunert Ltd Unsponsored ADR (South Africa),U
 RNSBF,Rimbunan Sawit Berhad Ordinary Shares (Malaysia),U
@@ -4516,7 +4515,6 @@ ROMJF,Rubicon Organics Inc Common Shares (Canada),U
 ROMO,Strategy Shares Newfound/ReSolve Robust Momentum ETF,BATS
 ROMWF,Rubicon Organics Inc Warrant Exp 02/26/2024 (Canada),U
 RONI U,"Rice Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fourth of one",NYSE
-RONWF,"Roan Holdings Group Co., Ltd. Warrant   07/06/2021",U
 ROOF,IQ US REAL ESTATE SMALL CAP ETF,ARCA
 ROOT,"Root, Inc. Class A Common Stock",NASDAQ
 ROP,"Roper Technologies, Inc",NYSE
@@ -5548,3 +5546,5 @@ SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
+SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
+SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U

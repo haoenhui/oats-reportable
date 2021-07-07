@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
 GWPD,"GP Solutions, Inc. Common Stock",U
 GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
@@ -760,7 +761,6 @@ HRTFF,Harte Gold Corp Ordinary Shares (Canada),U
 HRTG,HERITAGE INSURANCE HOLDINGS INC,NYSE
 HRTH,HARTE HANKS INC Common Stock,U
 HRTT,Heart Tronics Inc,U
-HRTUF,"Hearts United Group Co Ltd, Com Stk (Japan)",U
 HRTX,"Heron Therapeutics, Inc. Common Stock",NASDAQ
 HRUFF,H & R Real Estate Invt Tr Unit,U
 HRVOF,Harvest One Cannabis Inc. Ordinary Shares (Canada),U
@@ -1757,7 +1757,6 @@ INPAP,International Paper Company $4.00 Preferred Stock,U
 INPCF,Input Capital Corp Com (Canada),U
 INPOF,Inpost SA Ordinary Shares (Luxembourg),U
 INPOY,InPost S A American Depositary Receipts - Unsponsored (Luxembourg),U
-INPRF,"Inspur International Ltd, SHS NEW (Cayman Islands)",U
 INPX,Inpixon Common Stock,NASDAQ
 INQD,INDOOR HARVEST CORP  Common Stock,U
 INQQF,IShares NASDAQ 100 Index ETF (Canada),U
@@ -4912,7 +4911,7 @@ MINC,AdvisorShares Newfleet Multi-Sector Income ETF,ARCA
 MIND,"MIND Technology, Inc. Common Stock (DE)",NASDAQ
 MINDP,MIND Technology Inc. Series A 9.00% Series A Cumulative Preferred Stock (DE),NASDAQ
 MINE,"Minerco, Inc. Common Stock",U
-MINM,"Minim, Inc. Common Stock",U
+MINM,"Minim, Inc. Common Stock",NASDAQ
 MINN,Mairs & Power Minnesota Municipal Bond ETF,BATS
 MINOF,Minor International Public Co Ltd Ordinary Shares (Thailand),U
 MINRF,Minor International Public Co Ltd. Local Warrant Exp. 07/31/2023,U
@@ -4943,6 +4942,7 @@ MITJF,The Mint Corporation Ordinary Shares (Canada),U
 MITK,"Mitek Systems, Inc. Common Stock",NASDAQ
 MITO,Stealth BioTherapeutics Corp. ADS,NASDAQ
 MITPF,MITHRA PHARMACEUTICALS SA Ordinary Shares  (Belgium),U
+MITQ,"Moving iMage Technologies, Inc.",AMEX
 MITSF,"Mitsui & Company, Ltd. Ordinary Shares",U
 MITSY,"Mitsui & Company, Ltd. American Depositary Shares",U
 MITT,"AG MORTGAGE INVESTMENT TRUST, INC.",NYSE
@@ -4977,6 +4977,7 @@ MJUS,ETFMG U.S. Alternative Harvest ETF,ARCA
 MJWL,Majic Wheels Corp. Common Stock,U
 MJWNF,Naked Wines PLC Ordinary Shares,U
 MJWNY,NAKED WINES PLC American Depositary Receipts - Unsponsored (United Kingdom),U
+MJXL,ETFMG 2X Daily Alternative Harvest ETF,ARCA
 MKC,"McCormick & Company, Incorporated Non-VTG CS",NYSE
 MKC V,"McCormick & Company, Incorporated Voting CS",NYSE
 MKCOF,Makoto Construction Co Ltd. Ordinary Shares   (Japan),U

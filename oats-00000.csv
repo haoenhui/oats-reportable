@@ -935,6 +935,7 @@ ALBKY,Alpha Services and Holdings SA American Depositary Receipts - Sponsored,U
 ALBO,"Albireo Pharma, Inc. Common Stock",NASDAQ
 ALBY,"Community Capital Bancshares, Inc. Common Stock",U
 ALC,Alcon Inc. Ordinary Shares,NYSE
+ALCC,AltC Acquisition Corp.,NYSE
 ALCCF,Alicanto Minerals Ltd Ordinary Shares (Australia),U
 ALCN,Atlantic Central Entprs Ltd Common Stock,U
 ALCO,"Alico, Inc. Common Stock",NASDAQ
@@ -2231,6 +2232,7 @@ AWAY,ETFMG Travel Tech ETF,ARCA
 AWCMF,Alumina Ltd Ordinary Shares (Australia),U
 AWCMY,Alumina Ltd American Depositary Shares,U
 AWEB,"Areti Web Innovations, Inc. Common Stock",U
+AWEVF,Alphawave IP Group PLC Ordinary Shares (United Kingdom),U
 AWF,"ALLIANCEBERSTEIN GLOBAL HIGH INCOME FUND, INC.",NYSE
 AWGL,"AWG, Ltd. New Common Stock",U
 AWH,Aspira Women's Health Inc. Common Stock,NASDAQ
@@ -3764,7 +3766,6 @@ BURCP,"Burnham Holdings, Inc. Preferred Stock",U
 BURL,"BURLINGTON STORES, INC.",NYSE
 BUSC,"Blue Star Global, Inc. Common Stock",U
 BUSE,First Busey Corporation Class A Common Stock,NASDAQ
-BUSXF,VICINITY MTR CORP Ordinary Shares,U
 BUUZ,"CalEthos, Inc.  Common Stock",U
 BUYZ,Franklin Disruptive Commerce ETF,BATS
 BUZZ,VanEck Vectors Social Sentiment ETF,ARCA
@@ -4266,7 +4267,6 @@ CCOZY,China Coal Energy Co LTD Unsponsored ADR (China),U
 CCPPF,"Capital & Counties Properties PLC, London Ordinary Shares (United Kingdom)",U
 CCPR,"CaseyCorp Enterprises, Inc. Common Stock",U
 CCPTF,CCP TECHNOLOGIES LTD Ordinary Shares  (Austrailia),U
-CCRC,"China Customer Relations Centers, Inc. Ordinary Shares",NASDAQ
 CCRDF,Concordia Finl Group Ltd. Ordinary Shares (Japan),U
 CCRN,"Cross Country Healthcare, Inc. Common Stock $0.0001 Par Value",NASDAQ
 CCRRF,Green River Gold Corp. Common Shares (Canada),U
@@ -4933,7 +4933,9 @@ CLB,Core Laboratories N.V.,NYSE
 CLBEY,"Calbee Inc, American Depositary Receipts - Unsponsored (Japan)",U
 CLBK,"Columbia Financial, Inc. Common Stock",NASDAQ
 CLBN,"Caliber Energy, Inc. New Common Stock",U
+CLBR,Colombier Acquisition Corp.,NYSE
 CLBR U,"Colombier Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-thi",NYSE
+CLBR WS,"Colombier Acquisition Corp. Warrants, each exercisable for one share of Class A common stock at an e",NYSE
 CLBS,"Caladrius Biosciences, Inc. Common Stock",NASDAQ
 CLCFF,Christina Lake Cannabis Corp Common Shares (Canada),U
 CLCGY,Clicks Group Ltd SPONSORED ADR,U
@@ -5547,5 +5549,3 @@ CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
-CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
-CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
