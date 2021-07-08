@@ -1026,7 +1026,6 @@ NSP,"Insperity, Inc",NYSE
 NSPDF,Naturally Splendid Enterprises Ltd. Ordinary Shares (Canada),U
 NSPKF,9 Spokes International Ltd. Ordinary Shares (Australia),U
 NSPR,InspireMD Inc. Common Stock,NASDAQ
-NSPRW,"InspireMD, Inc. Warrants",NASDAQ
 NSPRZ,"InspireMD, Inc. Series B Warrants",NASDAQ
 NSPT,Newron Sport  Common Stock,U
 NSPX,"Inspyr Therapeutics, Inc.  Common Stock",U
@@ -1364,8 +1363,8 @@ NYCB PRU,New York Community Capital Trust V (BONUSES),NYSE
 NYF,iShares New York Muni Bond ETF,ARCA
 NYLE,Nyle Intl Corp Common Stock,U
 NYLXF,Nylex Malaysia Bhd Ordinary Shares (Malaysia),U
-NYMFP,NEW YORK MTG TR INC REDEEMABLE PFD SER F,U
 NYMT,"New York Mortgage Trust, Inc. Common Stock",NASDAQ
+NYMTL,"New York Mortgage Trust, Inc. 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",NASDAQ
 NYMTM,"New York Mortgage Trust, Inc. 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NASDAQ
 NYMTN,"New York Mortgage Trust, Inc. 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NASDAQ
 NYMTO,"New York Mortgage Trust, Inc. 7.875% Series C Cumulative Redeemable Preferred Stock",NASDAQ
@@ -2538,6 +2537,7 @@ PHLI,"PacificHealth Laboratories, Inc. Common Stock",U
 PHM,"Pultegroup, Inc.",NYSE
 PHMB,"PharmaCom BioVet, Inc. Common Stock",U
 PHMMF,PHARMA MAR SA Ordinary Shares,U
+PHNMF,Phenom Resources Corp Common Shares,U
 PHO,Invesco Exchange-Traded Fund Trust Invesco Water Resources ETF,NASDAQ
 PHOJY,Phosagro PJSC Global Depositary Receipts - Sponsored,U
 PHOS,Phosphate Holdings Inc Common shares,U
@@ -3081,6 +3081,7 @@ PRLX,Parallax Health Sciences Inc. Common Stock,U
 PRMAF,Purpose Multi-Asset Income Fund,U
 PRMD,PRIMEMD INC Common Stock,U
 PRMK,Proconcept Marketing Group Inc NEW Common Stock,U
+PRMMF,PREMIER AFRICAN MINERALS LTD ORD SHS (Virgin Islands British),U
 PRMNF,Prime Mining Corp Common Shares,U
 PRMO,"Prom Resources, Inc. New Common Stock",U
 PRMRF,Paramount Res Ltd Class A Shares (Canada),U
@@ -4340,6 +4341,7 @@ RLAY,"Relay Therapeutics, Inc. Common Stock",NASDAQ
 RLBD,"Real Brands, Inc.  NEW Common Stock",U
 RLBY,Reliability Incorporated Common Stock,U
 RLDGF,Roland Dg Corp Hamamatsu Ordinary Shares (Japan),U
+RLEVF,RAMI LEVI CHAIN STORES HASHIKMA MARKETING 2006 LTD SHS (Israel),U
 RLFTF,RELIEF THERAPEUTICS HLDG AG NAMEN -AKT (Switzerland),U
 RLGDF,Real Good Food PLC Ordinary Shares (United Kingdom),U
 RLGMF,West Red Lake Gold Mines Inc. Ordinary Shares (Canada),U
@@ -4454,7 +4456,7 @@ RNR,RenaissanceRe Holdings Ltd.,NYSE
 RNR PRE,RENAISSANCERE HOLDINGS LTD 5.375% SER E,NYSE
 RNR PRF,"RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Se",NYSE
 RNRG,Global X Funds Global X Renewable Energy Producers ETF,NASDAQ
-RNRRV,RenaissanceRe Holdings Ltd Depositary Shares (Bermuda),U
+RNRRP,RenaissanceRe Holdings Ltd Depositary Shares (Bermuda),U
 RNRTF,Reunert Ltd Ordinary Shares (South Africa),U
 RNRTY,Reunert Ltd Unsponsored ADR (South Africa),U
 RNSBF,Rimbunan Sawit Berhad Ordinary Shares (Malaysia),U
@@ -5548,3 +5550,5 @@ SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
 SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
+SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
+SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U

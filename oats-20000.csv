@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
-SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
@@ -263,7 +261,7 @@ SKPI,"Sky Petroleum, Inc. Common Stock",U
 SKPJY,Sky Perfect JSAT Corp Unsponsored ADR (Japan),U
 SKPN,"SkyShop Logistics, Inc. Common Stock",U
 SKPO,"Skye Petroleum, Inc. New Common Stock",U
-SKRED,Skeena Resources Ltd Ordinary Shares,U
+SKREF,Skeena Resources Ltd Ordinary Shares,U
 SKRJ,"Silk Road Entertainment, Inc. Common Stock",U
 SKRUF,Scottish RE Group Limited Perpetual Preferred (Cayman Islands),U
 SKRV,"SK Realty Ventures, Inc. Common Stock",U
@@ -523,6 +521,7 @@ SMTEF,Smart Eye Aktiebolag Share AK (Sweden),U
 SMTGF,"SMA Solar Technology Ag, Niestetal Ordinary shares (Germany)",U
 SMTGY,SMA Solar Technology AG Unsponsored ADR (Germany),U
 SMTI,Sanara MedTech Inc. Common Stock,NASDAQ
+SMTK,"SmartKem, Inc. Common Stock",U
 SMTLF,GCL New Energy Holdings Ltd. Ordinary Shares,U
 SMTOF,Sumitomo Electric Ordinary Shares,U
 SMTOY,Sumitomo Electric Industries Ltd Unsponsored ADR,U
@@ -1483,6 +1482,7 @@ SUSA,iShares MSCI USA ESG Select ETF,ARCA
 SUSB,iShares Trust iShares ESG Aware 1-5 Year USD Corporate Bond ETF,NASDAQ
 SUSC,iShares Trust iShares ESG Aware USD Corporate Bond ETF,NASDAQ
 SUSL,iShares Trust iShares ESG MSCI USA Leaders ETF,NASDAQ
+SUSMF,ISHARES IV PLC SUSTAINABLE MSCI EMERGING MARKETS SRI UCITS ETF (Ireland),U
 SUSRF,Surgical Science Sweden AB Shares AK New (Sweden),U
 SUSTF,SSGA SPDR ETFS EUROPE II PLC S&P US TECHNOLOGY SEL SEC USD (UCITS) Exchange Traded Fund,U
 SUTAF,Investigator Resources Ltd Ordinary Shares (Austrailia),U
@@ -1721,6 +1721,7 @@ SZKBF,Shizuoka Bank Ltd Ordinary Shares (Japan),U
 SZKMF,Suzuki Motor Corp Ordinary Shares,U
 SZKMY,Suzuki Motor Corp Unsponsored ADR (Japan),U
 SZLMY,Swiss Life Holding Unsponsored ADR representing Namen AKT Shares (Switzerland),U
+SZLSF,Stagezero Life Sciences Ltd Common Shares,U
 SZNE,Pacer CFRA- Stoval Equal Weight Seasonal Rotation ETF,ARCA
 SZNTF,"Shenzhen Investment, Ltd. Ordinary Shares (Hong Kong) HKD",U
 SZOXF,"DB Crude Oil Short Exchange Traded Notes due June 1, 2038 (Germany)",U
@@ -2790,7 +2791,6 @@ TRST,TrustCo Bank Corp NY Common Stock,NASDAQ
 TRSUF,Treasure ASA Ordinary Shares (Norway),U
 TRSWF,Transalta Renewables Inc Common Shares (Canada),U
 TRT,Trio-Tech International,AMEX
-TRTC,Terra Tech Corp Common Stock,U
 TRTI,"Transtech Industries, Inc. Common Stock",U
 TRTK,TORtec Group Corporation Common Stock,U
 TRTN,Triton International Limited,NYSE
@@ -3436,6 +3436,7 @@ UNPSF,Uni-President China Holdings Ltd. Ordinary Shares (Cayman Islands),U
 UNQL,"Unique Logistics International, Inc. Common Stock",U
 UNRG,United Energy Corporation Common Stock,U
 UNRIF,UNITED CO RUSAL INTL PUB JT STK CO Ordinary Shares (Russia),U
+UNRV,"Unrivaled Brands, Inc. Common Stock",U
 UNSS,"Universal Solar Technology, Inc. Common Stock",U
 UNTC,UNIT CORP COM NEW,U
 UNTN,"United Tennessee Bankshares, Inc. Common Stock",U
@@ -4421,6 +4422,7 @@ WAYN,Wayne Savings Bancshares Inc. - Common Stock,U
 WAYS,Wave Sync Corp. Common Stock,U
 WB,Weibo Corporation American Depositary Share,NASDAQ
 WBA,"Walgreens Boots Alliance, Inc. Common Stock",NASDAQ
+WBBA,"WB Burgers Asia, Inc. Common Stock",U
 WBBW,WESTBURY BANCORP INC Common Stock,U
 WBEMF,Winbond Electronic Corp Par Ord Sponsored GDR Reg S (Taiwan),U
 WBHC,Wilson Bank Holding Company (TN) Common Stock,U
@@ -4786,6 +4788,7 @@ WPG PRH,Washington Prime Group Inc. 7.5% Series H Cumulative Redeemable Preferre
 WPG PRI,Washington Prime Group Inc. 6.875% Series I Cumulative Redeemable Preferred Shares of Beneficial Int,NYSE
 WPHM,"Winston Pharmaceuticals, Inc. Common Stock",U
 WPKS,"World Poker Store, Inc. (The) Common Stock",U
+WPLCF,WISE PLC ORD GBP0.01 (United Kingdom),U
 WPM,Wheaton Precious Metals Corp. Common Stock,NYSE
 WPMLF,Western Pacific Minerals Ltd Common Shares (Canada),U
 WPNDF,Wishpond Technologies Ltd. Common Shares (Canada),U
@@ -4869,12 +4872,14 @@ WSSE,Wallstreet Secs Inc Common Stock,U
 WSSH,West Shore Bank Corporation Mi Common Stock,U
 WST,"West Pharmaceutical Services, Inc.",NYSE
 WSTG,"Wayside Technology Group, Inc. Common Stock",NASDAQ
+WSTHF,"West Holdings Corp., Hiroshima Ordinary Shares (Japan)",U
 WSTL,Westell Technologies Inc. Class A Common Stock,U
 WSTM,HRSoft Inc.  Common Stock,U
 WSTN,Westlin Corporation Common Stock,U
 WSTRF,Western Uranium & Vanadium Corp Ordinary Shares,U
 WSTTF,WESTPORTS HLDGS BHD Ordinary Shares (Malaysia),U
 WSVC,Wayne Svcs Legacy Inc Common Stock,U
+WSZWF,WESIZWE PLATINUM SHS (South Africa),U
 WTAIF,Wisdomtree Issuer ICAV Artificial Intelligence UCITS ETF USD ACC (Ireland),U
 WTBA,West Bancorporation Common Stock,NASDAQ
 WTBCF,Whitbread PLC Ordinary Shares,U
@@ -5061,7 +5066,6 @@ XLNX,"Xilinx, Inc. Common Stock",NASDAQ
 XLP,Consumers Staples Select Sector SPDR Fund,ARCA
 XLPI,Xcelplus International Inc Common Stock,U
 XLRE,Real Estate Select Sector SPDR Fund,ARCA
-XLRM,XLR Medical Corp. Common Stock,U
 XLRN,Acceleron Pharma Inc. Common Stock,NASDAQ
 XLSR,SPDR SSGA US Sector Rotation ETF,ARCA
 XLTD,EXCOIN LTD Common Stock,U

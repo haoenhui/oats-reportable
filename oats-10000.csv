@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
-GWPC,"Wholehealth Products, Inc. Common Stock",U
-GWPD,"GP Solutions, Inc. Common Stock",U
-GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
 GWRRF,Engold Mines Ltd Ordinary Shares,U
 GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
 GWSAF,Gowest Gold Ltd Ordinary Shares,U
@@ -2452,7 +2448,6 @@ JBULF,Jubilee Gold Exploration Ltd Common Shares (Canada),U
 JBZY,"JB&ZJMY Holding Company, Inc. Common Stock",U
 JCBXF,JcbNext Berhad Ordinary Shares (Malaysia),U
 JCDAF,Jacada Ltd. Ordinary Shares,U
-JCDS,"JC Data Solutions, Inc. Common Stock",U
 JCDXF,JC Decaux SA ACT,U
 JCDXY,JC Decaux SA Unsponsored ADR (France),U
 JCE,Nuveen Core Equity Alpha Fund,NYSE
@@ -2479,6 +2474,7 @@ JDEPY,JDE Peets NV American Depositary Receipts - Unsponsored (Netherlands),U
 JDHIF,JD HEALTH INTL INC Ordinary Shares,U
 JDHIY,JD Health International Inc. American Depositary Receipts - Unsponsored (Cayman Islands),U
 JDIV,JPMorgan U.S. Dividend ETF,ARCA
+JDLGF,JD LOGISTICS INC USD ORD SHS (Cayman Islands),U
 JDQTF,"Jasdaq-Top20 ETF, Tokyo UNITS 2010 -without fixed maturity (Japan)",U
 JDSPY,JD Sports Fashion PLC American Depositary Receipts - Unsponsored (United Kingdom),U
 JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,ARCA
@@ -2491,7 +2487,7 @@ JEHLY,Johnson Electric Holdings Ltd Unsponsored American Depository Shares,U
 JELCF,Johnson Electric Holdings Ltd Ordinary Shares,U
 JELD,"JELD-WEN Holding, Inc.",NYSE
 JELLF,JEOL LTD SHS (Japan),U
-JEMA,JPMorgan Emerging Markets Equity Core ETF,BATS
+JEMA,JPMorgan ActiveBuilders Emerging Markets Equity ETF,BATS
 JEMC,J.E.M. Capital Inc. Common Stock,U
 JEMD,"Nuveen Emerging Markets Debt 2022 Target Term Fund, Common Shares of Beneficial Interest, $0.01 par",NYSE
 JEMTF,Barclays Bk PLC iPath GEMS Index ETN due 02/04/2038 (United Kingdom),U
@@ -2532,6 +2528,7 @@ JGHHY,Jungheinrich AG American Depositary Receipts - Unsponsored (Germany),U
 JGLCF,JS GLOBAL LIFESTYLE CO LTD Common Stock  (Cayman Islands),U
 JGLD,Amplify Pure Junior Gold Miners ETF,ARCA
 JGLDF,JAPAN GOLD CORP Common Shares,U
+JGRRF,"Jinchuan Group International Resources Co., Ltd Ord Shs (Cayman Islands)",U
 JGSHF,J G Summit Hldgs Cl B Shs Ordinary Shares,U
 JGSMY,JG Summit Holdings Inc Unsponsored ADR (Phillippines),U
 JHAA,Nuveen Corporate Income 2023 Target Term Fund,NYSE
@@ -2559,6 +2556,7 @@ JHS,John Hancock Income Securities Trust Capital Stock,NYSE
 JHSC,John Hancock Multifactor Small Cap ETF,ARCA
 JHX,JAMES HARDIE INDUSTRIES plc.,NYSE
 JIAXF,Jiangxi Copper Co Ltd H Shs Ordinary Shares,U
+JIDA,JPMorgan ActiveBuilders International Equity ETF,ARCA
 JIG,JPMorgan International Growth ETF,ARCA
 JIGB,JPMorgan Corporate Bond Research Enhanced ETF,ARCA
 JILL,"J.Jill, Inc. Common Stock",NYSE
@@ -2786,6 +2784,7 @@ JUNZ,TrueShares Structured Outcome (June) ETF,BATS
 JUPGF,Jupiter Gold Corporation Ordinary Shares (Cayman Islands),U
 JUPW,"Jupiter Wellness, Inc. Common Stock",NASDAQ
 JUPWW,"Jupiter Wellness, Inc. Warrant",NASDAQ
+JUSA,JPMorgan ActiveBuilders U.S. Large Cap Equity ETF,ARCA
 JUSHF,JUSHI HLDGS INC CL B Sub Vtg (Canada),U
 JUST,Goldman Sachs JUST U.S. Large Cap Equity ETF,ARCA
 JUTHF,Jutha Maritime Public Co Ltd Units Non-Voting Depositary Receipt,U
@@ -3599,6 +3598,7 @@ LDHUF,Land and House Public Co Ltd NVDR Shares (Thailand),U
 LDI,"loanDepot, Inc.",NYSE
 LDL,"Lydall, Inc.",NYSE
 LDNXF,London Stock Exchange Group plc Ordinary Shares,U
+LDOC,LinkDoc Technology Limited American Depositary Shares,NASDAQ
 LDOMF,LIDO MINERALS LTD Common Shares,U
 LDOS,"Leidos Holdings, Inc.",NYSE
 LDP,COHEN & STEERS LIMITED DURATION PREFERRED AND INCOME FUND INC,NYSE
@@ -3806,6 +3806,7 @@ LINUF,LiNiu Technology Group Ordinary Shares (Cayman Islands),U
 LIOEF,Lion Energy Limited Ordinary Shares (Australia),U
 LIOPF,Lion Corp Ordinary Shares,U
 LIOPY,Lion Corp Unsponsored American Depository Receipt (Japan),U
+LIPDF,LIPIDOR AB Ordinary Shares (Sweden),U
 LIQDQ,LIQUID HLDGS GROUP INC Common Stock undefined,U
 LIQT,"LiqTech International, Inc. Common Stock",NASDAQ
 LISMF,Lithium South Dev Corp Ordinary Shares,U
@@ -4614,9 +4615,9 @@ MDKLF,MEDIKALOKA HERMINA TBK PT Ordinary Shares,U
 MDKM,Mdechem Inc New Common Stock,U
 MDLA,"Medallia, Inc.",NYSE
 MDLH,"Medical International Technology, Inc. Common Stock",U
-MDLQ,Medley LLC 7.25% Notes due 2024,NYSE
-MDLX,Medley LLC  6.875% Senior Notes due 2026,NYSE
-MDLY,Medley Management Inc,NYSE
+MDLQQ,MEDLEY LLC Other,U
+MDLXQ,MEDLEY LLC Other,U
+MDLYQ,MEDLEY MGMT INC Common Stock,U
 MDLZ,"Mondelez International, Inc. Class A Common Stock",NASDAQ
 MDMN,MEDINAH MINERALS INC Common Stock,U
 MDMP,"MDM Permian, Inc. Common Stock",U
@@ -4630,6 +4631,7 @@ MDOUF,Maisons Du Monde SA Common Stock (France),U
 MDP,Meredith Corporation,NYSE
 MDPCF,Madison Pac Ppts- B Ordinary Shares,U
 MDPEB,Meredith Corporation Common Stock Class B,U
+MDPEF,MEDPEER INC COM (Japan),U
 MDRA,Medra Corporation Common Stock,U
 MDRM,"Modern Mobility Aids, Inc Common Stock",U
 MDRNF,MODERN PLT BASED FOODS INC Ordinary Shares,U
@@ -5386,6 +5388,7 @@ MRGO,Margo Caribe Inc. Common Stock,U
 MRGR,ProShares Merger ETF,BATS
 MRGRY,Mirgor SaCifia Sponsored ADR representing Class C shares (Argentina),U
 MRIB,"Marani Brands, Inc. Common Stock",U
+MRIIF,MEHADRIN LTD ORD SHS (Israel),U
 MRIN,Marin Software Incorporated Common Stock,NASDAQ
 MRIRF,BMEX Gold Inc Ordinary Shares,U
 MRJOF,Purpose Marijuana Opportunities Fd Exchange Traded Fund,U

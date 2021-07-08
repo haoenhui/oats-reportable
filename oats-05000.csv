@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
-CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
-CPHI,"China Pharma Holdings, Inc.",AMEX
-CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
@@ -435,10 +431,10 @@ CTNI,Citron Inc Common Stock,U
 CTNR,Central Natural Resources Inc Common Stock,U
 CTNXF,Cornerstone Cap Res Inc (Canada) Common Shares,U
 CTO,"CTO Realty Growth, Inc.",NYSE
+CTO PRA,"CTO Realty Growth, Inc. 6.375% Series A Cumulative Redeemable Preferred Stock",NYSE
 CTOBF,China Tob Intl Hk Co Ltd Ordinary Shares  (Hong Kong),U
 CTOHF,Citigold Corp Ltd Ordinary Shares (Australia),U
 CTON,"Second Street Capital, Inc. Common Stock",U
-CTOPP,CTO RLTY GROWTH INC NEW Preferred Stock,U
 CTOS,"Custom Truck One Source, Inc.",NYSE
 CTOS WS,"Custom Truck One Source, Inc. Warrants, exerciseable for Common Stock",NYSE
 CTOUF,Charter Hall Group Stapled Security (Australia),U
@@ -1321,6 +1317,7 @@ DNAT,Dna Medical Tecnologies Inc Common Stock,U
 DNAX,"DNA Brands, Inc. Common Stock",U
 DNAY,"Codex DNA, Inc. Common Stock",NASDAQ
 DNB,"Dun & Bradstreet Holdings, Inc.",NYSE
+DNBBF,DNB NOR BANK ASA Ordinary Shares (Norway),U
 DNBBY,DNB BK ASA American Depositary Receipts - Sponsored,U
 DNCVF,Defiance Silver Corp. Ordinary Shares (Canada),U
 DNDDF,Dundee Sustainable Technologies Inc Ordinary Shares,U
@@ -1570,6 +1567,7 @@ DTEGF,Deutsche Telekom A G Ordinary Shares,U
 DTEGY,Deutsche Telekom AG Common Stock,U
 DTEMF,Ditem Explorations Inc Ordinary Shares,U
 DTEV,"Data Evolution Holdings, Inc. Common Stock",U
+DTEXY,DURATEX SA American Depositary Receipts - Unsponsored (Brazil),U
 DTF,DTF Tax-Free Income Inc.,NYSE
 DTGI,"Digerati Technologies, Inc. Common Stock",U
 DTH,WisdomTree International High Dividend Fund,ARCA
@@ -2140,7 +2138,6 @@ ELD,WisdomTree Emerging Markets Local Debt Fund,ARCA
 ELDN,"Eledon Pharmaceuticals, Inc. Common Stock",NASDAQ
 ELEAF,EL.EN. SPA FIRENZE Ordinary Shares,U
 ELECF,Electric Royalties Ltd. Common Shares (Canada),U
-ELED,"ExeLED Holdings, Inc. Common Stock",U
 ELEEF,Element Fleet Mgmt Corp Common Shares,U
 ELEK,"Elektros, Inc. Common Stock",U
 ELEMF,Elemental Royalties Corp. Ordinary Shares (Canada),U
@@ -2360,6 +2357,7 @@ ENMHF,ENM Holdings Ltd Ordinary Shares (Hong Kong),U
 ENMI,"Energy Management International, Inc. Common Stock",U
 ENMPF,Ensurge Micropower ASA Ordinary Shares,U
 ENMPY,Ensurge Micropower ASA American Depositary Receipts - Sponsored,U
+ENNPF,ENBRIDGE INC CUM RED PREF SHS SER N (Canada),U
 ENNV,ECP Environmental Growth Opportunities Corp. Class A Common Stock,NASDAQ
 ENNVU,ECP Environmental Growth Opportunities Corp. Unit,NASDAQ
 ENNVW,ECP Environmental Growth Opportunities Corp. Warrants,NASDAQ
@@ -3033,7 +3031,7 @@ FAPPF,CI ACTIVE UTILITY & INFRASTRUCTURE ETF Common Shares,U
 FAPR,FT Cboe Vest U.S. Equity Buffer ETF - April,BATS
 FARM,Farmer Brothers Company Common Stock,NASDAQ
 FARO,"FARO Technologies, Inc. Common Stock",NASDAQ
-FARYF,Far LTD Ordinary Shares (Australia),U
+FARYF,FAR Limited. Ordinary Shares,U
 FAS,Direxion Daily Financial Bull 3x Shares,ARCA
 FASDF,FANTASY ACES DAILY FANTASY SPORTS CORP Ordinary Shares,U
 FAST,Fastenal Company Common Stock,NASDAQ
@@ -3649,6 +3647,7 @@ FMCKO,Federal Home Loan Mortgage Corporation Perpetual Pfd,U
 FMCKP,Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation 5.70% Pfd,U
 FMCQF,Fresenius Med Car Ag Pfd N Vtg Ordinary Shares,U
 FMCXF,Foran Mining Corp Ordinary Shares (Canada),U
+FMEGF,Farmer's Edge Inc Common Shares (Canada),U
 FMEQF,FUNDSMITH EMERGING EQ TRUST Ord GBP0.01 (United Kingdom),U
 FMF,First Trust Managed Futures Strategy Fund,ARCA
 FMFB,First Missouri Bancshares Inc Common Stock,U
@@ -3905,6 +3904,8 @@ FREL,Fidelity MSCI Real Estate Index ETF,ARCA
 FREQ,"Frequency Therapeutics, Inc. Common Stock",NASDAQ
 FRERF,Fremont Gold Ltd.  Ordinary Shares,U
 FREVS,"First Real Estate Investment Trust of New Jersey, Inc. Shares of Beneficial Interest",U
+FREY,FREYR Battery,NYSE
+FREY WS,"FREYR Battery Warrants, each whole warrant exercisable to purchase one Ordinary Share at an exercise",NYSE
 FRFC,First Robinson Financial Corporation Common Stock,U
 FRFFF,Fairfax Financial Holdings Ltd Cum 5 Yr Rate Reset Pfd Shs Ser K,U
 FRFGF,Fairfax Financial Holdings Ltd Preferred Shs Ser E 5 Yr Rate Reset (Canada),U
@@ -4208,7 +4209,6 @@ FUWAY,Furukawa Elec Ltd American Depositary Shares,U
 FV,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright Focus 5 ETF,NASDAQ
 FVAL,Fidelity Value Factor ETF,ARCA
 FVAM,5:01 Acquisition Corp. Class A Common Stock,NASDAQ
-FVANF,Phenom Resources Corp Common Shares,U
 FVC,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright Dynamic Focus 5 ETF,NASDAQ
 FVCB,"FVCBankcorp, Inc. Common Stock",NASDAQ
 FVD,First Trust Value Line Dividend Fund,ARCA
@@ -4892,6 +4892,7 @@ GLSPT,Global SPAC Partners Co. Subunit,NASDAQ
 GLSPU,Global SPAC Partners Co. Unit,NASDAQ
 GLSPW,Global SPAC Partners Co. Warrants,NASDAQ
 GLT,Glatfelter Corporation,NYSE
+GLTA U,"Galata Acquisition Corp. Units, each consisting of one class A ordinary share and one-half of one wa",AMEX
 GLTC,"GelTech Solutions, Inc. Common Stock",U
 GLTO,"Galecto, Inc. Common Stock",NASDAQ
 GLTR,Aberdeen Standard Physical Precious Metals Basket Shares ETF,ARCA
@@ -4958,7 +4959,6 @@ GMNI,Gemini Group Global Corp. Common Stock,U
 GMNNF,Gamenet Group SPA Ordinary Shares (Italy),U
 GMNTF,Gaumont Ordinary Shares (France),U
 GMOFF,GMO Financial Gate Inc Common Stock (Japan),U
-GMOLQ,"General Moly, Inc.",U
 GMOM,Cambria Global Momentum ETF,BATS
 GMOYF,GMO INTERNET INC Ordinary Shares (Japan),U
 GMPFF,RF Capital Group Inc Preferred Stock,U
@@ -5062,7 +5062,6 @@ GNTX,Gentex Corporation Common Stock,NASDAQ
 GNTY,"Guaranty Bancshares, Inc. Common Stock",NASDAQ
 GNUS,"Genius Brands International, Inc. Common Stock",NASDAQ
 GNW,"Genworth Financial, Inc.",NYSE
-GNWSF,Stagezero Life Sciences Ltd Common Shares,U
 GNWTY,GENWORTH MTG INS AUSTRALIA LTD American Depositary Receipts - Unsponsored (Australia),U
 GNYPF,MASIVO SILVER CORP Ordinary Shares,U
 GNZR,"Generation Zero Gorup, Inc. Common Stock",U
@@ -5549,3 +5548,7 @@ GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
+GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
+GWPC,"Wholehealth Products, Inc. Common Stock",U
+GWPD,"GP Solutions, Inc. Common Stock",U
+GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE

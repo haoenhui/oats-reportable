@@ -287,6 +287,7 @@ ACRE,Ares Commercial Real Estate Corporation,NYSE
 ACRFF,Accor S A (F) Ordinary Shares,U
 ACRHF,"Acreage Holdings, Inc. Class E Sub Vtg Ord Shs (Canada)",U
 ACRL,"Atacama Resources International, Inc. Common Stock",U
+ACRO U,"Acropolis Infrastructure Acquisition Corp. Units, each consisting of one share of Class A Common Sto",NYSE
 ACRS,"Aclaris Therapeutics, Inc. Common Stock",NASDAQ
 ACRX,"AcelRx Pharmaceuticals, Inc. Common Stock",NASDAQ
 ACSAF,Acs Actividades de Construccion y Servicios SA Ordinary Shares (Spain),U
@@ -690,7 +691,9 @@ AGQPF,ALGONQUIN PWR & UTILS CORP CUM RATE RESET PFD SER D (Canada),U
 AGR,"Avangrid, Inc.",NYSE
 AGRDF,Minnova Corp. Ordinary Shares (Canada),U
 AGREF,Argonaut Resources NL Ordinary Shares (Australia),U
+AGRI,AgriFORCE Growing Systems Ltd. Common Shares,NASDAQ
 AGRIP,Agribank FCB Fixed-to-Floating Rate Series A Non-Cumulative Perpetual Preferred Stock,U
+AGRIW,AgriFORCE Growing Systems Ltd. Warrant,NASDAQ
 AGRO,ADECOAGRO S.A.,NYSE
 AGRPF,Absa Group Ltd Ordinary Shares,U
 AGRPY,Absa Group Ltd American Depositary Receipts - Sponsored,U
@@ -843,7 +846,7 @@ AIRTP,"Air T, Inc. Air T Funding Alpha Income Trust Preferred Securities",NASDAQ
 AIRTW,"Air T, Inc. Air T Funding Warrants to Purchase Alpha Income Trust Preferred Expiring 08/30/2021",NASDAQ
 AIRYY,Air China Limited Sponsored ADR (China),U
 AISFF,Amundi IDX Solutions SICAV Floating Rate USD Corp UCITS ETF USD C (Luxembourg),U
-AISSF,AIS Res Ltd Ordinary Shares (Bahamas),U
+AISSF,A I S RES LTD CDA Ordinary Shares,U
 AIT,"Applied Industrial Technologies, Inc.",NYSE
 AITA,Wunong Asia Pacific Company Limited Common Stock,U
 AITLF,AIRTIFICIAL INTELLIGENCE STRUCTURES S A Ordinary Shares (Spain),U
@@ -1080,9 +1083,6 @@ ALTUU,Altitude Acquisition Corp. Unit,NASDAQ
 ALTUW,Altitude Acquisition Corp. Warrant,NASDAQ
 ALTX,Altex Industries Inc Common Stock,U
 ALTY,Global X Funds Global X SuperDividend Alternatives ETF,NASDAQ
-ALUS,Alussa Energy Acquisition Corp.,NYSE
-ALUS U,Alussa Energy Acquisition Corp.,NYSE
-ALUS WS,"Alussa Energy Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Ordinary",NYSE
 ALV,"Autoliv, Inc.",NYSE
 ALVLF,Big Ridge Gold Corp. Common Shares,U
 ALVNF,ALVIVA HLDGS LTD Ordinary Shares  South Africa(ZA ),U
@@ -3109,6 +3109,7 @@ BLMC,Biloxi Marsh Lands Corp Common Stock,U
 BLMIF,Bank Leumi Le Israel Ordinary Shares,U
 BLMMF,BLACKMORES LTD Ordinary Shares (Australia),U
 BLMN,"Bloomin' Brands, Inc. Common Stock",NASDAQ
+BLMS,"Bloomios, Inc. Common Stock",U
 BLMUF,BALMUDA INC Common Stock,U
 BLNC,Balance Labs Inc  Common Stock,U
 BLNGU,Belong Acquisition Corp. Units,NASDAQ
@@ -3630,7 +3631,6 @@ BSPA,"Ballston Spa Bancorp, Inc. (NY) Common Stock",U
 BSPB,BOSP Bancshares Inc Common Stock,U
 BSPDF,PT Bumi Serpong Damai Ordinary Shares (Indonesia),U
 BSPDY,PT Bumi Serpong Damai Tbk Unsponsored ADR (Indonesia),U
-BSPI,"Business Solutions Plus, Inc. Common Stock",U
 BSPK,"Bespoke Extracts, Inc. Common Stock",U
 BSPM,BIOSTAR PHARMACEUTICALS INC Common Stock,U
 BSPOW,"Vintage Wine Estates, Inc. Warrant",U
@@ -3944,6 +3944,7 @@ CADNF,Cascades Inc Ordinary Shares,U
 CAE,CAE INC,NYSE
 CAEEF,"Career Design Center Co Ltd, Tokyo Ordinary shares (Japan)",U
 CAEN,California Engels Mng Co Common Stock,U
+CAETF,CHINA EAST ED HOLDINGS LTD Ordinary Shares (Cayman Islands),U
 CAF,"MORGAN STANLEY CHINA A SHARE FUND, INC",NYSE
 CAFI,"Consumer Automotive Finance, Inc. Common Stock",U
 CAFS,"Cafe Serendipity Holdings, Inc. Common Stock",U
@@ -4365,8 +4366,8 @@ CDXI,"Cardax, Inc. Common Stock",U
 CDXS,"Codexis, Inc. Common Stock",NASDAQ
 CDXXF,CHOICE CONSLDTN CORP UNIT 1 CL A RESTRICTED VTG & 1/4 WT EXP Unit,U
 CDYCF,Cardero Resource Corporation Ordinary Shares,U
-CDZAP,CADIZ INC DEP SHS REPSTG 1/1000TH SHS PERP PFD SER A,U
 CDZI,"CADIZ, Inc. Common Stock",NASDAQ
+CDZIP,"Cadiz, Inc. Depositary Shares",NASDAQ
 CE,Celanese Corporation Common Stock,NYSE
 CEA,China Eastern Airlines,NYSE
 CEAI,CREATIONS INC Common Stock,U
@@ -4558,7 +4559,6 @@ CGEN,Compugen Ltd. Ordinary Shares,NASDAQ
 CGFEF,CF Energy Corp Common Shares,U
 CGGGF,Coats Group PLC  Ordinary Shares (United Kingdom),U
 CGGYY,CGG American Depositary Receipts - Sponsored,U
-CGHBF,CHONG HING BANK LTD SHS (Hong Kong),U
 CGHC,"Capital Group Holdings, Inc. Common Stock",U
 CGHLY,"China Gas Holdings, Ltd. Unsponsored ADR (Bermuda)",U
 CGHOF,"China Gas Holdings, Ltd. Ordinary Shares (Bermuda) HKD",U
@@ -5549,3 +5549,7 @@ CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
+CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
+CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
+CPHI,"China Pharma Holdings, Inc.",AMEX
+CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
