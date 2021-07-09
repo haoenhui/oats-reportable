@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
@@ -143,7 +144,6 @@ SIM,"Groupo Simec, S.A.B de C.V.",AMEX
 SIMA,"Sonics & Materials, Inc. Common Stock",U
 SIMC,"Simclar, Inc. Common Stock",U
 SIMEF,Sime Darby Property Berhad Ordinary Shares (Malaysia),U
-SIMLD,BREWBILT BREWING CO Common Stock,U
 SIMO,Silicon Motion Technology Corporation American Depositary Shares,NASDAQ
 SIMP,"Simply, Inc. Common Stock",U
 SIMS,SPDR S&P Kensho Intelligent Structures ETF,ARCA
@@ -285,7 +285,9 @@ SKWG,Skywealth Group Inc. Common Stock,U
 SKX,"Skechers U.S.A., Inc.",NYSE
 SKXJF,Sankyo Co Ltd Gunma Ordinary Shares (Japan),U
 SKY,Skyline Champion Corporation Common Stock,NYSE
+SKYA,Skydeck Acquisition Corp. Class A Ordinary Shares,NASDAQ
 SKYAU,Skydeck Acquisition Corp. Units,NASDAQ
+SKYAW,Skydeck Acquisition Corp. Warrants,NASDAQ
 SKYE,"Skye Bioscience, Inc. Common Stock",U
 SKYF,SKY440 Inc Common Stock,U
 SKYI,"Sky Century Investment, Inc. Common Stock",U
@@ -319,7 +321,7 @@ SLDX,STELLA DIAGNOSTICS INC Common Stock,U
 SLF,Sun Life Financial Inc.,NYSE
 SLFFF,Future Mobility Solutions Ltd.  Ordinary Shares,U
 SLFIF,SUN LIFE FINL INC PFD SHS CL A SER 4 Preference Shares,U
-SLFPF,Standard Life Aberdeen PLC Ordinary Shares,U
+SLFPF,ABRDN PLC Ordinary Shares,U
 SLFPY,Standard Life Aberdeen PLC American Depositary Receipts - Unsponsored,U
 SLFSF,Sun Life Financial Inc. CL A SER 2 Preferred Stock (Canada),U
 SLFYF,Sun Life Financial Inc. Preferred Class A Series 1 (Canada),U
@@ -1595,6 +1597,7 @@ SWGI,Star Wealth Group Inc. Common Stock,U
 SWGNF,Swatch Group Ag (The) Namen AKT (Switzerland)Ordinary Shares,U
 SWGRF,SWORD GROUP Ordinary Shares  France(FR ),U
 SWI,SolarWinds Corporation Common Stock,NYSE
+SWI WI,SolarWinds Corporation,NYSE
 SWIM,"Latham Group, Inc. Common Stock",NASDAQ
 SWIOU,Southwest Iowa Renewable Energy LLC Units Class A,U
 SWIR,"Sierra Wireless, Inc. Common Stock",NASDAQ

@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
 GWRRF,Engold Mines Ltd Ordinary Shares,U
 GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
 GWSAF,Gowest Gold Ltd Ordinary Shares,U
@@ -1120,6 +1121,7 @@ IBHC,iShares iBonds 2023 Term High Yield and Income ETF,BATS
 IBHD,iShares iBonds 2024 Term High Yield and Income ETF,BATS
 IBHE,iShares iBonds 2025 Term High Yield and Income ETF,BATS
 IBHF,iShares iBonds 2026 Term High Yield and Income ETF,BATS
+IBHG,iShares iBonds 2027 Term High Yield and Income ETF,BATS
 IBIBF,"IBI Group, Inc. Ordinary Shares (Canada)",U
 IBIDF,Ibiden Co Ltd Ord Ordinary Shares,U
 IBIDY,Ibiden Co Ltd Ord American Depositary Receipts - Unsponsored (Japan),U
@@ -1491,6 +1493,7 @@ IIIN,"Insteel Industries, Inc.",NYSE
 IIIV,"i3 Verticals, Inc. Class A Common Stock",NASDAQ
 IIJIF,"Internet Initiative Japan, Inc. Ordinary Shares (japan)",U
 IIJIY,"Internet Initiative Japan, Inc. American Depositary Shares",U
+IIKKF,Iino Kaiun Kaisha Ltd Ordinary Shares (Japan),U
 IIM,INVESCO VALUE MUNICIPAL INCOME TRUST,NYSE
 IIN,Intricon Corporation Common Stock,NASDAQ
 IINDF,INTEGRA INDOCABINET TBK PT Ordinary Shares (Indonesia),U
@@ -2715,7 +2718,6 @@ JPXN,iShares JPX-Nikkei 400 ETF,ARCA
 JQC,Nuveen Credit Strategies Income Fund,NYSE
 JQTMF,JACQUET METAL SVC ACT (France),U
 JQUA,JPMorgan U.S. Quality Factor ETF,ARCA
-JRDN,Jardinier Corp. Common Stock,U
 JRE,Janus Henderson U.S. Real Estate ETF,ARCA
 JREIF,Japan Real Estate Investment Inc Tokyo Japan Real Estate Investment Inc Tokyo,U
 JRFIF,JAPAN MET FD INV CORP SHS Ordinary Shares,U
@@ -4135,7 +4137,7 @@ LTRPA,"Liberty TripAdvisor Holdings, Inc. Series A Common Stock",NASDAQ
 LTRPB,"Liberty TripAdvisor Holdings, Inc. Series B Common Stock",NASDAQ
 LTRX,"Lantronix, Inc. Common Stock",NASDAQ
 LTSA,Ladenburg Thalmann Financial Services Inc. 8.00% Series A,U
-LTSCD,Lightscape Technologies Inc. Common Stock,U
+LTSC,Lightscape Technologies Inc. Common Stock,U
 LTSF,Ladenburg Thalmann Financial Services Inc. 7.00% Senior Notes due 2028,U
 LTSH,Ladenburg Thalmann Financial Services Inc. 7.75% Senior Notes due 2029,U
 LTSK,Ladenburg Thalmann Financial Services Inc. 7.25% Senior Notes due 2028,U
@@ -4593,6 +4595,7 @@ MDFC,Mediforce Inc New Common Stock,U
 MDFZF,Medifocus Inc Ordinary Shares (Canada),U
 MDGC,"MediaG3, Inc. Common Stock",U
 MDGEF,Medigene Ag Ordinary Shares,U
+MDGIF,MEDIA & GAMES INVEST SE SHS A (Malta),U
 MDGL,"Madrigal Pharmaceuticals, Inc. Common Stock",NASDAQ
 MDGP,Medgroup Inc Common Stock,U
 MDGS,Medigus Ltd. American Depositary Shares,NASDAQ
@@ -4641,7 +4644,6 @@ MDRSF,MEDARTIS HOLDING AG Namen AKT (Switzerland),U
 MDRX,"Allscripts Healthcare Solutions, Inc. Common Stock",NASDAQ
 MDSI,"Matrix Denture Systems International, Inc. Common Stock",U
 MDSMF,Medusa Mining Ltd. Ordinary Shares (Australia),U
-MDSQF,Minsud Resources Ordinary Shares (Canada),U
 MDT,Medtronic plc,NYSE
 MDTC,Media Technologies Inc. Common Stock,U
 MDTKF,Media Tek Incorporation Ordinary Shares,U
@@ -4989,7 +4991,6 @@ MKEAY,Mauna Kea Technologies SA American Depositary Receipts - Sponsored (France
 MKENF,Merko Ehitus As New Tallin Common Shares (Estonia),U
 MKEWF,Makita Corp. Ordinary Shares,U
 MKGAF,Merck KGaA Ordinary Shares (Germany),U
-MKGI,"Monaker Group, Inc. Common Stock",NASDAQ
 MKGP,"Maverick Energy Group, Ltd. Common Stock",U
 MKIN,MCNB Banks Inc Common Stock,U
 MKKGY,"Merck KGaA, Darmstadt, Germany American Depositary Receipts - Sponsored",U
@@ -5372,7 +5373,6 @@ MRCWF,Glass House Brands Inc. Warrant,U
 MRCY,Mercury Systems Inc Common Stock,NASDAQ
 MRDH,"Meridian Holdings, Inc. Common Stock",U
 MRDY,Mobile Ready Entertainment Corp. New Common Stock,U
-MRELF,Maurel Et Prom Etabl Ordinary Shares,U
 MREO,Mereo BioPharma Group plc American Depositary Shares,NASDAQ
 MREOF,Demire Deutsche Mittelstand Real Estate AG Shs (Germany Federal Republic),U
 MRES,Institute of Biomedical Research Corp. NEW Common Stock,U
@@ -5552,3 +5552,7 @@ MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
+MTFGF,U K SPAC PLC Ordinary Shares,U
+MTG,MGIC Investment Corp.,NYSE
+MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
+MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U

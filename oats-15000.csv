@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTFGF,U K SPAC PLC Ordinary Shares,U
-MTG,MGIC Investment Corp.,NYSE
-MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
-MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGOF,MUSTI GROUP OYJ Ordinary Shares,U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
 MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
@@ -234,6 +230,7 @@ NAAC,North Atlantic Acquisition Corporation Class A Ordinary Share,NASDAQ
 NAACU,North Atlantic Acquisition Corporation Unit,NASDAQ
 NAACW,North Atlantic Acquisition Corporation Warrant,NASDAQ
 NABA,National Bancshares Inc (IA) Common Shares,U
+NABL WI,"N-able, Inc.",NYSE
 NABXF,Nabaltec AG Ordinary Shares (Germany),U
 NABZY,National Australia Bank Limited Common Stock,U
 NAC,Nuveen California Quality Municipal Income Fund,NYSE
@@ -1347,6 +1344,7 @@ NXTFF,Nextraction Energy Corp Ordinary Shares,U
 NXTG,First Trust Indxx NextG ETF,NASDAQ
 NXTH,"NXT Nutritionals Holdings, Inc. Common Stock",U
 NXTN,"Next10, Inc. Common Stock",U
+NXTP,"NextPlay Technologies, Inc. Common Stock",NASDAQ
 NXTTF,Namaste Technologies Inc Ordinary Shares (Canada) Common Shares,U
 NXTUF,FIRST TR GLOBAL FDS PLC SHS CLASS -A- JPY ETF (Ireland),U
 NXTYQ,Nexity Financial Corporation Common Stock,U
@@ -1600,6 +1598,7 @@ OLMA,"Olema Pharmaceuticals, Inc. Common Stock",NASDAQ
 OLMIF,Olam International Ltd Ordinary Shares (Singapore),U
 OLMIY,Olam International Ltd Unsponsored ADR (Singapore),U
 OLMM,OneLife Technologies Corp. Common Stock,U
+OLMRF,Olam International Ltd Rights Exp 07/19/2021 (Singapore),U
 OLN,Olin Corp.,NYSE
 OLNCF,Omni Lite Inds Cda Inc Ordinary Shares,U
 OLNK,OneLink Corporation Common Stock,U
@@ -2329,7 +2328,7 @@ PEG,Public Service Enterprise Group Incorporated,NYSE
 PEGA,Pegasystems Inc. Common Stock,NASDAQ
 PEGHY,Pegasus Hava Tasimaciligi AS Unsponsored ADR (Turkey),U
 PEGIY,Pt Energi Mega Persada Tbk Unsponsored ADR (Indonesia),U
-PEGRF,Pennon Group plc Ordinary Shares (United Kingdom),U
+PEGRF,Pennon Group plc Ordinary Shares,U
 PEGRY,Pennon Group plc Unsponsored ADR (United Kingdom),U
 PEGX,"The Pegasus Companies, Incorporated Common Stock",U
 PEI,Pennsylvania Real Estate Investment Trust,NYSE
@@ -2693,6 +2692,7 @@ PLGC,"Playlogic Entertainment, Inc. Common Stock",U
 PLGNF,PLAYGON GAMES INC Common Shares,U
 PLHCF,Plant Health Care Plc London Ordinary Shares (United Kingdom),U
 PLHNF,Paul Hartmann AG Heidenheim An Der Brenz Ordinary Shares (Germany),U
+PLHWF,PLANET 13 HLDGS INC WT EXP 11/05/2022 (Canada),U
 PLIN,"China Xiangtai Food Co., Ltd. Ordinary Shares",NASDAQ
 PLKT,Solar Gold Ltd. Common Stock,U
 PLL,Piedmont Lithium Inc. Common Stock,NASDAQ
@@ -2907,7 +2907,9 @@ POLR,Polar Petroleum Corp. Common Stock,U
 POLXF,Polydex Pharmaceuticals Limited Common Stock,U
 POLY,"Plantronics, Inc.",NYSE
 PONB,Pioneer Bancshares Inc Tex Common Stock,U
+POND,Angel Pond Holdings Corporation,NYSE
 POND U,"Angel Pond Holdings Corporation Units, each consisting of one Class A ordinary share and one-third o",NYSE
+POND WS,"Angel Pond Holdings Corporation Redeemable warrants, each whole warrant exercisable for one Class A",NYSE
 PONGF,Atari Shares Prov de Regroupement (France),U
 PONT,Pontiac Bancorp Inc Common Stock,U
 POOL,Pool Corporation Common Stock,NASDAQ
@@ -3294,6 +3296,7 @@ PSTV,"PLUS THERAPEUTICS, Inc. Common Stock",NASDAQ
 PSTVY,Postal Svgs Bk of China Ltd. Unsponsored ADR (China),U
 PSTX,"Poseida Therapeutics, Inc. Common Stock",NASDAQ
 PSUD,Petrosun Inc. Common Stock,U
+PSUTF,PT Alam Sutera Realty TBK Shs (Indonesia),U
 PSVNF,Phillipine Seven Corporation Ordinary Shares (Phillipines),U
 PSWR,Prism Software Corporation Common Stock,U
 PSWW,"Principal Solar, Inc Common Stock",U
@@ -3870,8 +3873,10 @@ RAIN,Rain Therapeutics Inc. Common Stock,NASDAQ
 RAIO,"Radioio, Inc. Common Stock",U
 RAKR,Rainmaker Worldwide Inc. Common Stock,U
 RALS,ProShares RAFI Long/Short,ARCA
+RAM,Aries I Acquisition Corporation Class A Ordinary Share,NASDAQ
 RAMMF,Ramm Pharma Corp Common Shares (Canada),U
 RAMMU,Aries I Acquisition Corporation Unit,NASDAQ
+RAMMW,Aries I Acquisition Corporation Warrant,NASDAQ
 RAMP,"LiveRamp Holdings, Inc. Common Stock",NYSE
 RAMPF,POLARIS INFRASTRUCTURE INC  Common Shares,U
 RAND,Rand Capital Corporation Common Stock,NASDAQ
@@ -5551,4 +5556,3 @@ SHGY,SearchGuy.com Inc. Common Stock,U
 SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
-SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U

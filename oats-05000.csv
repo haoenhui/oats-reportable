@@ -101,6 +101,7 @@ CRBTF,INTELLABRIDGE TECHNOLOGY CORP Ordinary Shares,U
 CRC,California Resources Corporation,NYSE
 CRCA,Connecticut River Community Bank (CT) Common Stock,U
 CRCBY,Chongqing Rural Commercial Bank Co Ltd Unsponsored ADR (China),U
+CRCCY,CRRC Corporation Ltd. American Depositary Receipts - Unsponsored (China),U
 CRCQW,CALIFORNIA RES CORP WT EXP 10/27/2024,U
 CRCRF,CAR INC Ordinary Shares (Cayman Islands),U
 CRCT,"Cricut, Inc. Class A Common Stock",NASDAQ
@@ -3372,6 +3373,7 @@ FHN PRC,"First Horizon Corporation Depositary Shares, each representing a 1/400t
 FHN PRD,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-",NYSE
 FHN PRE,"First Horizon Corporation Depositary Shares, Each Representing a 1/ 4000th Interest in a Share of No",NYSE
 FHN PRF,"First Horizon Corporation Depositary Shares, each representing 1/4000th Interest in a Share of Non-C",NYSE
+FHNGY,FOSCHINI GRP LTD American Depositary Receipts - Unsponsored (South Africa),U
 FHRT,First Hartford Corp Unclassified,U
 FHS,"First High-School Education Group Co., Ltd. American Depositary Shares (each representing three (3)",NYSE
 FHTF,FHT FUTURE TECHNOLOGY LTD Common Stock,U
@@ -4213,7 +4215,7 @@ FVC,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright Dynamic Focus 
 FVCB,"FVCBankcorp, Inc. Common Stock",NASDAQ
 FVD,First Trust Value Line Dividend Fund,ARCA
 FVE,Five Star Senior Living Inc. Common Stock,NASDAQ
-FVGCF,Fire River Gold Corp. Common Shares,U
+FVGCD,YUMY BEAR GOODS INC Common Shares,U
 FVIV,Fortress Value Acquisition Corp. IV,NYSE
 FVIV U,"Fortress Value Acquisition Corp. IV Units, each consisting of one share of Class A common stock and",NYSE
 FVIV WS,"Fortress Value Acquisition Corp. IV Warrants, each whole warrant exercisable for one share of Class",NYSE
@@ -4685,6 +4687,7 @@ GGSM,Gold and GemStone Mining Inc. Common Stock,U
 GGT,THE GABELLI MULTIMEDIA TRUST INC.,NYSE
 GGT PRE,The Gabelli Multimedia Trust Inc. 5.125 Percent Series E Cumulative Preferred Stock,NYSE
 GGT PRG,The Gabelli Multimedia Trust Inc. 5.125% Series G Cumulative Preferred Shares,NYSE
+GGT RTWI,"The Gabelli Multimedia Trust Inc. Rights (expiring August 25, 2021)",NYSE
 GGTHF,Golden Goliath Golden Goliath Resources Ltd,U
 GGTTF,Gtec Hldgs Ltd Ordinary Shares (Canada),U
 GGXXF,GGX Gold Corp. Ordinary Shares,U
@@ -4762,7 +4765,9 @@ GISMF,GRUPO INDUSTRIAL SALTILLO SAB DE CV SHS SERIES -A- (Mexico),U
 GITH,"Global IT Holdings, Inc. New Common Stock",U
 GIVPY,Grupo de Inversiones Suramericana S.A. Sponsored ADR Representing Level 1 Preferred Shares (Columbia),U
 GIVSY,Grupo De Inversiones Suramericana S.A. Sponsored ADR (Colombia),U
+GIW,"GigInternational1, Inc. Common Stock",NASDAQ
 GIWWU,"GigInternational1, Inc. Units",NASDAQ
+GIWWW,"GigInternational1, Inc. Warrant",NASDAQ
 GJCU,GJ Culture Group US Inc Common Stock,U
 GJH,"Synthetic Fixed-Income Sec STRATS 2004-06, 6.375% US Cellular Corp.",NYSE
 GJJSY,"Guotai Junan Securities Co., LTD American Depositary Receipts - Unsponsored (China)",U
@@ -5551,4 +5556,3 @@ GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
 GWPD,"GP Solutions, Inc. Common Stock",U
-GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
