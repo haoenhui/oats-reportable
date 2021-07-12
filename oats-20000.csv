@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
+SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
@@ -300,7 +302,6 @@ SLAB,"Silicon Laboratories, Inc. Common Stock",NASDAQ
 SLAC,Social Leverage Acquisition Corp I,NYSE
 SLAC U,"Social Leverage Acquisition Corp I Units, each consisting of one share of Class A common stock and o",NYSE
 SLAC WS,"Social Leverage Acquisition Corp I Redeemable warrants, each whole warrant exercisable for one share",NYSE
-SLAHF,Stella Chemifa Corp Osaka Ordinary Shares (Japan),U
 SLAM,Slam Corp. Class A Ordinary Share,NASDAQ
 SLAMU,Slam Corp. Unit,NASDAQ
 SLAMW,Slam Corp. warrant,NASDAQ
@@ -935,9 +936,6 @@ SPRE,SP Funds S&P Global REIT Sharia ETF,ARCA
 SPRL,"Strat Petroleum, Ltd. New Common Stock",U
 SPRN,SUPERNOVA ENERGY INC Common Stock,U
 SPRO,"Spero Therapeutics, Inc. Common Stock",NASDAQ
-SPRQ,Spartan Acquisition Corp. II,NYSE
-SPRQ U,"Spartan Acquisition Corp. II Units, each consisting of one share of Class A common stock, and one-ha",NYSE
-SPRQ WS,"Spartan Acquisition Corp. II Warrants, exercisable for one share of Class A Common Stock",NYSE
 SPRRY,SUPER RETAIL GROUP LTD  American Depositary Receipts - Unsponsored (Australia),U
 SPRS,"Surge Components, Inc. Common Stock",U
 SPRT,"Support.com, Inc. Common Stock",NASDAQ
@@ -1458,6 +1456,8 @@ SUN,SUNOCO L.P.,NYSE
 SUNC,"Suncast Solar Energy, Inc  Common Stock",U
 SUND,Sundance Strategies Inc. Common Stock,U
 SUNFF,SUN LIFE FINL INC PFD SHS NON CUMULATIVE RESET CL A SER 8R Preferred Stock (Canada),U
+SUNL,"Sunlight Financial Holdings, Inc.",NYSE
+SUNL WS,"Sunlight Financial Holdings, Inc. Warrants, exercisable for one share of Class A Common Stock",NYSE
 SUNPF,SUN PEAK METALS CORP Common Shares,U
 SUNR,Sun Sports and Entertainment New Common Stock,U
 SUNS,SLR Senior Investment Corp. Common Stock,NASDAQ

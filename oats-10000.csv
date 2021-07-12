@@ -720,6 +720,7 @@ HQY,"HealthEquity, Inc. Common Stock",NASDAQ
 HR,Healthcare Realty Trust Incorporated,NYSE
 HRAA,"Health Revenue Assurance Holdings, Inc. Common Stock",U
 HRAL,"Hear AtLast Holdings, Inc. Common Stock",U
+HRATF,Haba Laboratories Inc Tokyo Ordinary Shares (Japan),U
 HRB,"H&R Block, Inc.",NYSE
 HRBK,Harbor Bankshares Corporation Common Stock,U
 HRBR,"Harbor Diversified, Inc. Common Stock",U
@@ -1498,6 +1499,8 @@ IIM,INVESCO VALUE MUNICIPAL INCOME TRUST,NYSE
 IIN,Intricon Corporation Common Stock,NASDAQ
 IINDF,INTEGRA INDOCABINET TBK PT Ordinary Shares (Indonesia),U
 IINHF,Imagi International Holdings Ltd Ordinary Shares,U
+IINN,Inspira Technologies Oxy B.H.N. Ltd. Ordinary Shares,NASDAQ
+IINNW,Inspira Technologies Oxy B.H.N. Ltd. Warrant,NASDAQ
 IINX,"Ionix Technology, Inc. Common Stock",U
 IIPR,"Innovative Industrial Properties, Inc. Common stock",NYSE
 IIPR PRA,"Innovative Industrial Properties, Inc.9.00 Percent Series A Cumulative Redeemable Preferred Stock",NYSE
@@ -4420,7 +4423,7 @@ MBB,iShares MBS ETF,NASDAQ
 MBBB,VanEck Vectors Moody's Analytics BBB Corporate Bond ETF,BATS
 MBBC,Marathon Bancorp Inc Common Stock,U
 MBCC,Monarch Blue Chips Core ETF,BATS
-MBCFF,Itafos Common Shares,U
+MBCF,ITAFOS INC Common Shares,U
 MBCHF,Mindbeacon Holdings Inc. Common Shares (Canada),U
 MBCI,MabCure Inc. Common Stock,U
 MBCN,Middlefield Banc Corp. Common Stock,NASDAQ
@@ -4524,6 +4527,7 @@ MCI,Barings Corporate Investors,NYSE
 MCIAF,Mercia Asset Mgmt Plc Ordinary Shares,U
 MCIC,"Multicorp International, Inc. Common Stock",U
 MCIM,Macau Capital Investments Inc Common Stock New,U
+MCJKF,MCJ Co Ltd Kasukabe Ordinary Shares (Japan),U
 MCK,McKesson Corporation,NYSE
 MCKAF,McKay Securities PLC Ordinary Shares (United Kingdom),U
 MCKRF,Jade Leader Corp Ordinary Shares,U
@@ -5476,7 +5480,6 @@ MSFT,Microsoft Corporation Common Stock,NASDAQ
 MSGCF,MAS GOLD CORP Ordinary Shares,U
 MSGE,Madison Square Garden Entertainment Corp.,NYSE
 MSGM,Motorsport Games Inc. Class A Common Stock,NASDAQ
-MSGN,MSG Networks Inc.,NYSE
 MSGNF,Man Sang Intl Ltd Ordinary Shares,U
 MSGP,"MedSmart Group, Inc. Common Stock",U
 MSGS,Madison Square Garden Sports Corp.,NYSE
@@ -5553,6 +5556,3 @@ MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
-MTG,MGIC Investment Corp.,NYSE
-MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
-MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U

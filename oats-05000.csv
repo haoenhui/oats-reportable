@@ -103,7 +103,6 @@ CRCA,Connecticut River Community Bank (CT) Common Stock,U
 CRCBY,Chongqing Rural Commercial Bank Co Ltd Unsponsored ADR (China),U
 CRCCY,CRRC Corporation Ltd. American Depositary Receipts - Unsponsored (China),U
 CRCQW,CALIFORNIA RES CORP WT EXP 10/27/2024,U
-CRCRF,CAR INC Ordinary Shares (Cayman Islands),U
 CRCT,"Cricut, Inc. Class A Common Stock",NASDAQ
 CRCUF,CANAGOLD RES LTD Common Shares,U
 CRCW,The Crypto Company Common Stock,U
@@ -976,6 +975,7 @@ DENR,Discovery Energy Corp.,U
 DEO,Diageo plc,NYSE
 DEQI,"Direct Equity International, Inc. Common Stock",U
 DES,WisdomTree U.S. SmallCap Dividend Fund,ARCA
+DESLF,DESCENTE LTD SHS (Japan),U
 DESP,"Despegar.com, Corp.",NYSE
 DESTQ,Destination Maternity Corp Common Stock,U
 DETNF,Aker BP Asa Ordinary Shares,U
@@ -1033,8 +1033,6 @@ DFS,Discover Financial Services,NYSE
 DFTC,"Defentect Group, Inc. Common Stock",U
 DFTS,"Defense Technology Systems, Inc. Common Stock",U
 DFUS,Dimensional U.S. Equity ETF,ARCA
-DFVL,iPath US Treasury 5-year Bull ETN,BATS
-DFVS,iPath US Treasury 5-year Bear ETN,BATS
 DG,Dollar General Corp.,NYSE
 DGCRF,Diagnocure Inc Ordinary Shares,U
 DGDCF,Dynasty Gold Corporation Ordinary Shares,U
@@ -3061,7 +3059,6 @@ FBCE,"FiberCore, Inc. Common Stock",U
 FBCG,Fidelity Blue Chip Growth ETF,BATS
 FBCV,Fidelity Blue Chip Value ETF,BATS
 FBDHY,Fbd Holdings Plc Unsponsored ADR (Ireland),U
-FBDTF,Blackbird PLC Ordinary Shares,U
 FBEC,"FBEC Worldwide, Inc. Common Stock",U
 FBGBY,Fabege AB Unsponsored ADR (Sweden),U
 FBGGF,Fabege AB Shares AK (Sweden),U
@@ -3132,6 +3129,7 @@ FCG,First Trust Natural Gas ETF,ARCA
 FCGD,First Colombia Gold Corp. Common Stock,U
 FCGN,FCG Inc Common Stock,U
 FCGY,Forecastagility Corporation Common Stock,U
+FCHRF,GEORG FISCHER AG SCHAFFHAUSEN Ordinary Shares,U
 FCHS,"First Choice Healthcare Solutions, Inc. (DE) . Common Stock",U
 FCIC,"FCCC, Inc. Common Stock",U
 FCIT,First Citrus Bancorporation Inc Common Stock,U
@@ -3367,7 +3365,6 @@ FHLB,Friendly Hills Bank (CA) Common Stock,U
 FHLC,Fidelity MSCI Health Care Index ETF,ARCA
 FHLIF,F H L I Kyriakidis Marbles Granites SA Ordinary Shares (Registered with Vote),U
 FHN,First Horizon Corporation,NYSE
-FHN PRA,"First Horizon Corporation Depositary Shares each representing a 1/4,000th interest in a share of Non",NYSE
 FHN PRB,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-",NYSE
 FHN PRC,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-",NYSE
 FHN PRD,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-",NYSE
@@ -4094,7 +4091,7 @@ FTCVU,FinTech Acquisition Corp. V Unit,NASDAQ
 FTCVW,FinTech Acquisition Corp. V Warrant,NASDAQ
 FTDL,FirsTime Design Limited Common Stock,U
 FTDPF,First Trust Global Funds Plc Exchange Traded Fund (Ireland),U
-FTDR,"frontdoor, inc. Common Stock",NASDAQ
+FTDR,"Frontdoor, Inc. Common Stock",NASDAQ
 FTEC,Fidelity MSCI Information Technology Index ETF,ARCA
 FTEG,For The Earth Corporation Common Stock,U
 FTEK,"Fuel Tech, Inc. Common Stock",NASDAQ
@@ -4635,7 +4632,9 @@ GFLU,GFL Environmental Inc. Tangible Equity Units,NYSE
 GFMH,Goliath Film & Media Holdings Common Stock,U
 GFMRF,GFM RES LTD Ordinary Shares,U
 GFOO,Genufood Energy Enzymes Corporation Common Stock,U
+GFOR,Graf Acquisition Corp. IV,NYSE
 GFOR U,"Graf Acquisition Corp. IV Units, each consisting of one share of common stock, and one-fifth of one",NYSE
+GFOR WS,"Graf Acquisition Corp. IV Redeemable Warrants, each whole warrant exercisable for one share of commo",NYSE
 GFPTF,Gfpt Public Co Ltd (F) Units Non-Voting Depository Receipt (Thailand),U
 GFSZY,G4S Plc Unsponsored ADR (UK),U
 GFTRF,Gold'n Futures Mineral Corp. Common Shares,U
@@ -4689,7 +4688,7 @@ GGT PRE,The Gabelli Multimedia Trust Inc. 5.125 Percent Series E Cumulative Pref
 GGT PRG,The Gabelli Multimedia Trust Inc. 5.125% Series G Cumulative Preferred Shares,NYSE
 GGT RTWI,"The Gabelli Multimedia Trust Inc. Rights (expiring August 25, 2021)",NYSE
 GGTHF,Golden Goliath Golden Goliath Resources Ltd,U
-GGTTF,Gtec Hldgs Ltd Ordinary Shares (Canada),U
+GGTTF,Avant Brands Inc.  Ordinary Shares,U
 GGXXF,GGX Gold Corp. Ordinary Shares,U
 GGZ,The Gabelli Global Small and Mid Cap Value Trust,NYSE
 GGZ PRA,The Gabelli Global Small and Mid Cap Value Trust 5.450% Series A Cumulative Preferred Shares (Liquid,NYSE
@@ -5024,7 +5023,7 @@ GNHAY,Vifor Pharma AG American Depositary Receipts - Unsponsored,U
 GNHRF,Arian Resources Corp. Ordinary Shares (Canada),U
 GNIIF,GNI Group Ltd Ordinary Shares (Japan),U
 GNK,GENCO SHIPPING & TRADING LTD,NYSE
-GNKWF,Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 (Marshall Islands),U
+GNKWF,Genco Shipping & Trading Limited Warrants Exp 7/9/2021 (Marshall Islands),U
 GNL,"Global Net Lease, Inc.",NYSE
 GNL PRA,"Global Net Lease, Inc. 7.25% Series A Cumulative Redeemable Preferred Stock, $0.01 par value per sha",NYSE
 GNL PRB,"Global Net Lease, Inc. 6.875% Series B Cumulative Redeemable Perpetual Preferred Stock",NYSE
@@ -5545,6 +5544,7 @@ GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
+GWIIU,Good Works II Acquisition Corp. Unit,NASDAQ
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U

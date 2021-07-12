@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTG,MGIC Investment Corp.,NYSE
+MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
+MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGOF,MUSTI GROUP OYJ Ordinary Shares,U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
 MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
@@ -54,7 +57,6 @@ MTSKF,MATSUOKA CORP COM STK (Japan),U
 MTSL,MER Telemanagement Solutions Ltd. Common Shares,NASDAQ
 MTST,"MetaStat, Inc. Common Stock",U
 MTSUY,Mitsubishi Corp American Depositary Receipts - Unsponsored (Japan),U
-MTSYF,Matsuda Sangyo Co Ltd Ordinary Shares,U
 MTTCF,MEAT TECH 3D LTD Common Shares,U
 MTTGF,New Energy Minerals Ltd Ordinary Shares,U
 MTTRY,Ceconomy AG American Depositary Receipts - Unsponsored,U
@@ -403,7 +405,6 @@ NDVN,nDivision Inc. Common Stock,U
 NDVR,New Dover Capital Corporation,U
 NDWTF,NETDRAGON WEBSOFT HLDGS LTD SHS (Cayman Islands),U
 NDWTY,Netdragon Websoft Inc Unsponsored ADR (Cayman Islands),U
-NDYN,"Vinings Holdings, Inc. Common Stock",U
 NE,Noble Corporation,NYSE
 NEA,Nuveen AMT-Free Quality Municipal Income Fund,NYSE
 NEAPF,Nearmap Ltd Ordinary Shares (Australia),U
@@ -412,7 +413,7 @@ NEBC,Nebula Caravel Acquisition Corp. Class A Common Stock,NASDAQ
 NEBCU,Nebula Caravel Acquisition Corp. Unit,NASDAQ
 NEBCW,Nebula Caravel Acquisition Corp. Warrant,NASDAQ
 NECA,New America Energy Corp. Common Stock,U
-NECB,"Northeast Community Bancorp, Inc. Common Stock",U
+NECB,NORTHEAST CMNTY BANCORP INC Common Stock,U
 NEE,"Nextra Energy, Inc.",NYSE
 NEE PRK,"NextEra Energy Capital Holdings, Inc. Series K Junior Subordinated Debentures due June 1, 2076",NYSE
 NEE PRN,"NextEra Energy Capital Holdings, Inc. Series N Junior Subordinated Debentures due March 1, 2079",NYSE
@@ -1541,7 +1542,6 @@ OHMGF,Ohmoto Gumi Co Ltd Ordinary Shares (Japan),U
 OHPA,Orion Acquisition Corp. Class A common stock,NASDAQ
 OHPAU,Orion Acquisition Corp. Unit,NASDAQ
 OHPAW,Orion Acquisition Corp. Warrant,NASDAQ
-OHPB,Ohana Pacific Bank (HI) Common Stock,U
 OHTR,Oasis Hotel Resort & Casino - I Inc Common Stock,U
 OI,"O-I Glass, Inc.",NYSE
 OIA,INVESCO MUNICIPAL INCOME OPPORTUNITIES TRUST,NYSE
@@ -1707,7 +1707,6 @@ OPBK,OP Bancorp Common Stock,NASDAQ
 OPCGF,Organic Potash Corp Common Shares (Canada),U
 OPCH,"Option Care Health, Inc. Common Stock",NASDAQ
 OPEN,Opendoor Technologies Inc Common Stock,NASDAQ
-OPENW,Opendoor Technologies Inc Warrants expiring 12/18/2025,NASDAQ
 OPER,ClearShares Ultra-Short Maturity ETF,ARCA
 OPESF,Otello Corp Asa Ordinary Shares,U
 OPGN,"OpGen, Inc. Common Stock",NASDAQ
@@ -2763,7 +2762,7 @@ PMAY,Innovator S&P 500 Power Buffer ETF - May,BATS
 PMBC,Pacific Mercantile Bancorp Common Stock,NASDAQ
 PMBPF,Pembina Pipeline Corporation Reduced Rate Reset Preferred Class A Series 7 (Canada),U
 PMBY,POSTD Merchant Banque Common Stock,U
-PMCB,"PharmaCyte Biotech, Inc.  Common Stock",U
+PMCBD,"PharmaCyte Biotech, Inc.  Common Stock",U
 PMCCF,Peloton Minerals Corporation Common Shares,U
 PMCUF,Pro Medicus Ltd Ordinary Shares (Australia),U
 PMD,Psychemedics Corporation,NASDAQ
@@ -3221,6 +3220,7 @@ PSCX,Pacer Swan SOS Conservative (December) ETF,BATS
 PSDMF,Gaming Realms PLC Ordinary Shares (United Kingdom),U
 PSDNF,Poseidon Nickel Ltd Ordinary Shares (Australia),U
 PSEC,Prospect Capital Corporation Common Stock,NASDAQ
+PSECV,PROSPECT CAP CORP PERP PFD SER A Preferred Stock,U
 PSEP,Innovator S&P 500 Power Buffer ETF - September,BATS
 PSET,Principal Exchange-Traded Funds Principal Quality ETF,NASDAQ
 PSF,COHEN & STEERS SELECT PREFERRED AND INCOME FUND,NYSE
@@ -4562,7 +4562,7 @@ RPDT,"Rapidtron, Inc. Common Stock",U
 RPFG,"Rainier Pacific Financial Group, Inc. Common Stock",U
 RPG,Invesco S&P 500 Pure Growth ETF,ARCA
 RPGHF,RPMGLOBAL HLDGS LTD ORDINARY FULLY PAID (Australia),U
-RPGLF,Regent Pacific Group Ltd Ordinary Shares,U
+RPGLF,Endurance RP Ltd Ordinary Shares,U
 RPGRF,REA Group Ltd Ordinary Shares (Australia),U
 RPGRY,REA Group Ltd Unsponsored ADR (Australia),U
 RPHCF,Rohto Pharmaceutical Co Ordinary Shares (Japan),U
@@ -5545,6 +5545,7 @@ SHEGF,SHINKO ELECTRIC INDUSTRIES CO LTD Ordinary Shares Japan(JP ),U
 SHEN,Shenandoah Telecommunications Co Common Stock,NASDAQ
 SHERF,Sherritt Intl Copr Restr Vtg Ordinary Shares,U
 SHEZF,Shenzhen Hepalink Pharmaceutical Group Co Ltd. Registered Shares (China),U
+SHFGF,SHEFA GEMS LTD SHARE (Israel),U
 SHG,Shinhan Financial Group Co Ltd,NYSE
 SHGDF,Star Diamond Corporation Ordinary Shares,U
 SHGKY,Sun Hung Kai & Co Ltd ADR,U
@@ -5554,5 +5555,3 @@ SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
 SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
-SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
-SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE

@@ -251,6 +251,7 @@ ACMDY,Atlas Consolidated Mining & Development Corp American Depositary Share (Un
 ACMLF,Ascom Holdings A G Bearer Shs Ordinary Shares (Switzerland),U
 ACMMY,ACOM CO LTD ADR (Japan),U
 ACMR,"ACM Research, Inc. Class A Common Stock",NASDAQ
+ACMSY,Accustem Sciences Limited American Depositary Receipts - Sponsored,U
 ACMT,ACMAT Corporation Common Stock,U
 ACMTA,ACMAT Corporation Class A Common Stock,U
 ACN,Accenture PLC,NYSE
@@ -428,7 +429,7 @@ ADTM,"Adaptive Medias, Inc. Common Stock",U
 ADTN,"ADTRAN, Inc. Common Stock",NASDAQ
 ADTR,Alliance Media Holdings Inc. Common Stock,U
 ADTTF,Advantest Corp Ordinary Shares,U
-ADTX,"ADiTx Therapeutics, Inc. Common Stock",NASDAQ
+ADTX,"Aditxt, Inc. Common Stock",NASDAQ
 ADTY,Adtegrity.Com International Inc Common Stock,U
 ADUS,Addus HomeCare Corporation Common Stock,NASDAQ
 ADV,Advantage Solutions Inc. Class A Common Stock,NASDAQ
@@ -673,7 +674,6 @@ AGNG,Global X Funds Global X Aging Population ETF,NASDAQ
 AGNMF,AGRONOMICS LTD Ordinary Shares  Isle of Man(IM ),U
 AGNPF,Algernon Pharmaceuticals Inc Ordinary Shares,U
 AGO,"Assured Guaranty, LTD",NYSE
-AGO PRB,Assured Guaranty Municipal Holdings Inc. 6-7/8% Quarterly Interest Bonds due 2101,NYSE
 AGO PRE,Assured Guaranty Municipal Holdings Inc. 6.25% Notes due 2102,NYSE
 AGO PRF,Assured Guaranty Municipal Holdings Inc. 5.60% Notes due 2103,NYSE
 AGOAF,Abengoa Sa ABG/AC B 0.01 (Spain),U
@@ -916,7 +916,6 @@ AKTX,Akari Therapeutics plc ADR (0.01 USD),NASDAQ
 AKU,Akumin Inc. Common Shares,NASDAQ
 AKUS,"Akouos, Inc. Common Stock",NASDAQ
 AKVA,Arkanova Energy Corporation Common Stock,U
-AKWCF,Arakawa Chemical Industries Ltd Ordinary Shares,U
 AKYA,"Akoya BioSciences, Inc. Common Stock",NASDAQ
 AKZOF,Akzo Nobel N.V. Ordinary Shares,U
 AKZOY,Akzo Nobel N.V. American Depositary Receipts - Sponsored,U
@@ -2496,6 +2495,7 @@ BBMPY,BBMG Corp Unsponsored ADR (China),U
 BBN,BlackRock Taxable Municipal Bond Trust,NYSE
 BBP,Virtus LifeSci Biotech Products ETF,ARCA
 BBQ,"BBQ Holdings, Inc. Common Stock",NASDAQ
+BBRDF,Blackbird PLC Ordinary Shares,U
 BBRE,JPMorgan BetaBuilders MSCI U.S. REIT ETF,BATS
 BBRRF,Blueberries Medical Co Common Shares (Canada),U
 BBRW,BREWBILT MFG INC Common Stock,U
@@ -5111,7 +5111,7 @@ CMDY,iShares Bloomberg Roll Select Commodity Strategy ETF,ARCA
 CME,CME Group Inc. Class A Common Stock,NASDAQ
 CMECF,COMPUTER ENGINEERING & CONSULTING LTD SHS (Japan),U
 CMEIF,China Meidong Auto Hldgs Ordinary Shares (Cayman Islands),U
-CMETF,Chilean Metals Inc. Ordinary Shares,U
+CMETF,POWER NICKEL INC Ordinary Shares,U
 CMEY,"cMoney, Inc. Common Stock",U
 CMF,iShares California Muni Bond ETF,ARCA
 CMFO,China Marine Food Group Limited Common Stock,U
@@ -5410,6 +5410,7 @@ CODYY,Compagnie de Saint Gobain Unsponsored ADR (France),U
 COE,"China Online Education Group American depositary shares, each representing 15 Class A ordinary share",NYSE
 COECF,CanAm Coal Corp Ordinary Shares (Canada),U
 COENF,Contact Energy Limited Ordinary Shares,U
+COEP,"Coeptis Therapeutics, Inc. Common Stock",U
 COF,Capital One Financial,NYSE
 COF PRG,Capital One Financial Corporation,NYSE
 COF PRH,"Capital One Financial Corporation Depositary Shares, Each Representing 1/40th Interest in a Share of",NYSE
@@ -5456,7 +5457,6 @@ COLL,"Collegium Pharmaceutical, Inc. Common Stock",NASDAQ
 COLM,Columbia Sportswear Company Common Stock,NASDAQ
 COLTF,Colt Resources Inc Ordinary Shares (Canada),U
 COLUF,Colossus Minerals Inc Common Shares (Canada),U
-COLWF,Colowide Co Ltd Fujisawa Ordinary Shares,U
 COLZF,COCA COLA ICECEK A.S Ordinary Shares (Turkey),U
 COM,Direxion Auspice Broad Commodity Strategy ETF,ARCA
 COMB,GraniteShares Bloomberg Commodity Broad Strategy No K-1 ETF,ARCA
