@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
+MTFC,Minster Financial Corporation,U
+MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
@@ -413,7 +417,7 @@ NEBC,Nebula Caravel Acquisition Corp. Class A Common Stock,NASDAQ
 NEBCU,Nebula Caravel Acquisition Corp. Unit,NASDAQ
 NEBCW,Nebula Caravel Acquisition Corp. Warrant,NASDAQ
 NECA,New America Energy Corp. Common Stock,U
-NECB,NORTHEAST CMNTY BANCORP INC Common Stock,U
+NECB,"NorthEast Community Bancorp, Inc. Common Stock",NASDAQ
 NEE,"Nextra Energy, Inc.",NYSE
 NEE PRK,"NextEra Energy Capital Holdings, Inc. Series K Junior Subordinated Debentures due June 1, 2076",NYSE
 NEE PRN,"NextEra Energy Capital Holdings, Inc. Series N Junior Subordinated Debentures due March 1, 2079",NYSE
@@ -2320,6 +2324,7 @@ PEBO,Peoples Bancorp Inc. Common Stock,NASDAQ
 PECD,"Pet Ecology Brands, Inc. Common Stock",U
 PECGF,Petronas Chemicals Group Bhd Ordinary Shares (Malaysia),U
 PECN,Photoelectron Corporation Common Stock,U
+PECO,"Phillips Edison & Company, Inc. Common Stock",NASDAQ
 PED,PEDEVCO Corp.,AMEX
 PEDH,"Peoples Educational Holdings, Inc. Common Stock",U
 PEFDF,Defli Ltd. Ordinary Shares,U
@@ -2794,6 +2799,7 @@ PMMBF,Pembina Pipeline Corp Cum Redeemable Minimum Rate Reset Cl A Pfd Shs Ser 2
 PMMCF,PAMPA METALS CORP Common Shares,U
 PMMDF,PIMCO ETFS PLC Exchange Traded Fund,U
 PMMEF,Premium Expl Inc Common Shares (Canada),U
+PMMOF,PIMCO ETFS PLC US SHORT TERM HIGH YIELD CORPORATE BD INDEX UCITS ETF (Ireland),U
 PMMTF,Precious Metals & Mng TR TR Unit (Canada),U
 PMNXF,Perseus Mining Ltd Ordinary Shares (Austrailia),U
 PMO,Putnam Municipal Opportunities Trust,NYSE
@@ -3657,6 +3663,7 @@ QDF,FlexShares Quality Dividend Index Fund,ARCA
 QDIV,Global X S&P 500 Quality Dividend ETF,ARCA
 QDLC,Quadlogic Controls Corp Common Stock,U
 QDMI,QDM INTL INC Common Stock,U
+QDPL,Pacer Metaurus US Large Cap Dividend Multiplier 400 ETF,ARCA
 QDROF,Quadro Resources Ltd. Ordinary Shares (Canada),U
 QDRSF,"Quadrise Fuels International PLC, London Ordinary Shares (United Kingdom)",U
 QDYN,FlexShares Quality Dividend Dynamic Index Fund,ARCA
@@ -5552,6 +5559,3 @@ SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
-SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
-SHGY,SearchGuy.com Inc. Common Stock,U
-SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U

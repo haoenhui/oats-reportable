@@ -673,6 +673,7 @@ AGNCP,"AGNC Investment Corp. Depositary Shares Each Representing a 1/1,000th Int
 AGNG,Global X Funds Global X Aging Population ETF,NASDAQ
 AGNMF,AGRONOMICS LTD Ordinary Shares  Isle of Man(IM ),U
 AGNPF,Algernon Pharmaceuticals Inc Ordinary Shares,U
+AGNY,Agavenny Corporation Common Stock,U
 AGO,"Assured Guaranty, LTD",NYSE
 AGO PRE,Assured Guaranty Municipal Holdings Inc. 6.25% Notes due 2102,NYSE
 AGO PRF,Assured Guaranty Municipal Holdings Inc. 5.60% Notes due 2103,NYSE
@@ -1719,6 +1720,7 @@ ARXRF,Infinite Ore Corp.  Common Shares,U
 ARXXL,AirXpanders Inc Shs Chess Depository Interests Rep 3 Shs,U
 ARYC,Arrayit Corporation Common Stock,U
 ARYD,ARYA Sciences Acquisition Corp IV Class A Odinary Shares,NASDAQ
+ARYE,ARYA Sciences Acquisition Corp V Class A Ordinary Shares,NASDAQ
 ARYMF,Argosy Minerals Ltd Ordinary Shares (Australia),U
 ARYX,"ARYx Therapeutics, Inc. Common Stock",U
 ARZGF,Assicurazioni Generali Spa Ord Ordinary Shares,U
@@ -2065,6 +2067,7 @@ AUGX,AUGMEDIX INC COM,U
 AUGZ,TrueShares Structured Outcome (August) ETF,BATS
 AUHEF,Anhui Expressway Co Ltd Shares -H- (China),U
 AUIAF,"Aurania Resources, Ltd. Ordinary Shares (Bermuda)",U
+AUID,Ipsidy Inc. Common Stock,U
 AUKNY,Auckland International Airport Limited American Depositary Receipts - Sponsored,U
 AUKUF,AMS AG Ordinary Shares (Austria),U
 AULDF,ANGLOGOLD ASHANTI LIMITED CHESS UNITS FOR FOREIGN SECURITIES REPRESENTING 0.2 (ORD SHS)(South Africa),U
@@ -2076,7 +2079,7 @@ AUMN,Golden Minerals Company,AMEX
 AUMTF,Aurelia Metals Ltd Shs (Australia),U
 AUNFF,Aurcana Silver Corporation Common Shares,U
 AUNM,Auction Mills Inc. New Common Stock,U
-AUNXF,Fremont Pete Corp Lt Ordinary Shares,U
+AUNXF,AXP Energy Ltd. Ordinary Shares,U
 AUOTF,AU OPTRONICS CORP SHS (Taiwan),U
 AUOTY,AU Optronics Corp American Depositary Receipts - Sponsored,U
 AUPH,Aurinia Pharmaceuticals Inc Ordinary Shares,NASDAQ
@@ -2108,6 +2111,7 @@ AUUDW,Auddia Inc. Warrants,NASDAQ
 AUUMF,Aumann AG Ordinary Shares (Germany),U
 AUVGF,Australian Vintage Ltd Ordinary Shares (Australia),U
 AUVI,"Applied UV, Inc. Common Stock",NASDAQ
+AUVPP,Applied UV Inc. Perp Preferred Stock Series A,U
 AUXIF,Auxico Res Cda Common Shares (Canada),U
 AUXRF,AUX Resources Corp Common Shares,U
 AUXSF,AMUNDI IDX SOLUTIONS SICAV MSCI EMER MKT Exchange Traded Fund Luxembourg(LU ),U
@@ -2207,6 +2211,7 @@ AVSF,Avantis Short-Term Fixed Income ETF,ARCA
 AVSFY,Avi Ltd Unsponsored ADR (South Africa),U
 AVSR,Avistar Communications Corporation Common Stock,U
 AVT,"Avnet, Inc. Common Stock",NASDAQ
+AVTBF,Avant Brands Inc.  Ordinary Shares,U
 AVTD,"Artventive Medical Group, Inc. Common Stock",U
 AVTE,"Aerovate Therapeutics, Inc. Common Stock",NASDAQ
 AVTI,"Avitar, Inc. Common Stock",U
@@ -3102,6 +3107,7 @@ BLKLF,Blackline Safety Corp Ordinary Shares (Canada),U
 BLL,Ball Corporation,NYSE
 BLLB,"Bell Buckle Holdings, Inc. Common Stock",U
 BLLI,"Bell Industries, Inc. (DEL) Common Stock",U
+BLLQF,Bell Equipment Ltd. Ordinary Shares (South Africa),U
 BLLSF,BioLight Life Sciences Ltd. Ordinary shares (Israel),U
 BLLXF,PLANTFUEL LIFE INC Ordinary Shares,U
 BLLYF,Bluejay Mng PLC Ordinary Shares (United Kingdom),U
@@ -5044,9 +5050,12 @@ CLRO,"ClearOne, Inc. (DE) Common Stock",NASDAQ
 CLRSF,CASTILE RES LTD Ordinary Shares (Australia),U
 CLRYF,Clarocity Corporation Common Shares,U
 CLS,"Celestica, Inc.",NYSE
+CLSA,Cabana Target Leading Sector Aggressive ETF,ARCA
+CLSC,Cabana Target Leading Sector Conservative ETF,ARCA
 CLSD,"Clearside Biomedical, Inc. Common Stock",NASDAQ
 CLSH,"CLS Holdings USA, Inc. Common Stock",U
 CLSK,"CleanSpark, Inc. Common Stock",NASDAQ
+CLSM,Cabana Target Leading Sector Moderate ETF,ARCA
 CLSN,Celsion Corporation Common Stock,NASDAQ
 CLSPF,CANADIAN LIFE COS SPLIT CORP Common Shares  Canada(CA ),U
 CLSZF,China Oil and Gas Group Ltd Ordinary Shares (Bermuda),U
@@ -5534,7 +5543,9 @@ CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAI,Champion Pain Care Corporation Common Stock,U
 CPAMF,CAPITALAND INTEGRATED COMM TR Unit,U
+CPAR,Catalyst Partners Acquisition Corp. Class A ordinary share,NASDAQ
 CPARU,Catalyst Partners Acquisition Corp. Unit,NASDAQ
+CPARW,Catalyst Partners Acquisition Corp. Warrant,NASDAQ
 CPB,Campbell Soup Company,NYSE
 CPBLF,ALS Ltd. Ordinary Shares (Australia),U
 CPBQF,C.P. All Public Co Ltd Ordinary Shares (Thailand),U
@@ -5549,10 +5560,3 @@ CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
-CPG,CRESCENT POINT ENERGY CORP.,NYSE
-CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
-CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
-CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
-CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
-CPHI,"China Pharma Holdings, Inc.",AMEX
-CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U

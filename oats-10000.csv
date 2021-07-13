@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWPD,"GP Solutions, Inc. Common Stock",U
 GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
 GWRRF,Engold Mines Ltd Ordinary Shares,U
 GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
@@ -275,6 +276,7 @@ HEKRF,Hektar Real Estate Investment Trust Units (Malaysia),U
 HELE,Helen of Troy Limited Common Stock,NASDAQ
 HELFY,HELLOFRESH SE American Depositary Receipts - Unsponsored (Germany Federal Republic),U
 HELKF,Henkel AG and Co. KGAA Ordinary Shares (Germany),U
+HELNF,HELVETIA PATRIA HLDG STGALLEN Namen AKT (Switzerland),U
 HELOF,WINSHEAR GOLD CORP Common Shares,U
 HELX,Franklin Genomic Advancements ETF,BATS
 HEME,Healthmed Services Ltd. Common Stock,U
@@ -929,6 +931,7 @@ HVT A,"Haverty Furniture Companies, Inc. Class A",NYSE
 HVYB,"Home Valley Bancorp, Inc. (Grants Pass, Oregon) Common Stock",U
 HWAFF,HWA FONG RUBBER THAILAND PUB CO LTD NVDR SHARES Depositary Receipts,U
 HWAL,Hollywall Entertainment  Inc. Common Stock,U
+HWAUF,Headwater Gold Inc. Common Stock (Canada),U
 HWBK,"Hawthorn Bancshares, Inc. Common Stock",NASDAQ
 HWC,Hancock Whitney Corporation Common Stock,NASDAQ
 HWCPZ,Hancock Whitney Corporation 6.25% Subordinated Notes due 2060,NASDAQ
@@ -1280,7 +1283,6 @@ IDRSF,Idorsia AG Registered Shares (Switzerland),U
 IDRV,iShares Self-Driving EV and Tech ETF,ARCA
 IDT,IDT Corporation Class B,NYSE
 IDTA,Identa Corp Common Stock,U
-IDTYD,Ipsidy Inc. Common Stock,U
 IDU,iShares U.S. Utilities ETF,ARCA
 IDV,iShares International Select Dividend ETF,BATS
 IDVV,International Endeavors Corp Common Stock,U
@@ -3142,7 +3144,7 @@ KMLM,KFA Mount Lucas Index Strategy ETF,ARCA
 KMLXF,RESPIRI LTD Ordinary Shares,U
 KMMIF,KARAM MINERALS INC Ordinary Shares (Canada),U
 KMMPF,Killiam Apt Real Estate Invt Tr Unit (Canada),U
-KMMWF,Kew Media Group Inc Wt Expiring 07/25/2021 (Canada),U
+KMMWF,Kew Media Group Inc Wt Expiring 03/21/2022 (Canada),U
 KMNCF,Kingsmen Creatives LTD Ordinary Shares (Singapore),U
 KMNNF,KMN Capital Ltd. Ordinary Shares (Israel),U
 KMPH,"KemPharm, Inc. Common Stock",NASDAQ
@@ -3183,6 +3185,7 @@ KNFSF,KIATNAKIN PHATRA BK PUB CO LTD SHS FOREIGN REGISTERED (Thailand),U
 KNG,FT Cboe Vest S&P 500 Dividend Aristocrats Target Income ETF,BATS
 KNGS,UPHOLDINGS Compound Kings ETF,BATS
 KNGW,"Kenongwo Group US, Inc. Common Stock",U
+KNHGF,Kim Heng Ltd Ordinary Shares (Singapore),U
 KNIT,Kinetic Group Inc Common Stock,U
 KNKT,Kunekt Corporation Common Stock,U
 KNKZF,Kws Kleinwanzlebener Saatzucht Ag Ordinary Shares (Germany),U
@@ -4535,6 +4538,7 @@ MCLDF,MCLOUD TECHNOLOGIES CORP Ordinary Shares,U
 MCMJ,Merida Merger Corp. I Common Stock,NASDAQ
 MCMJW,Merida Merger Corp. I Warrant,NASDAQ
 MCN,Madison Covered Call & Equity Strategy Fund,NYSE
+MCNO,"Mucinno Holding, Inc. Common Stock",U
 MCO,Moody's Corporation,NYSE
 MCOA,"Marijuana Company of America, Inc. Common Stock",U
 MCOIF,MULTICHOICE GROUP LTD Ord Shs (South Africa),U
@@ -4693,6 +4697,7 @@ MEGGY,Meggitt Plc Unsponsored American Depository Receipt (United Kingdom),U
 MEGH,"MW Investment Holding Group, Inc. Common Stock",U
 MEGPF,Megachips Corp Osaka Ordinary Shares (Japan),U
 MEI,Methode Electronics,NYSE
+MEIJF,Meiji Electric Industries Co Ltd Nagoya Ordinary Shares (Japan),U
 MEIL,Methes Energies International Ltd.,U
 MEIP,"MEI Pharma, Inc. Common Stock",NASDAQ
 MEISF,MAEDA SEISAKUSHO CO LTD Shs (Japan),U
@@ -5183,6 +5188,7 @@ MNLFF,MANULIFE FINL CORP NON CUMULATIVE RATE RESET PFD SHS SER 4 CL 1 (Canada),U
 MNMB,Merchants & Marine Bancorp Inc. Common Stock,U
 MNMD,Mind Medicine (MindMed) Inc. Subordinate Voting Shares,NASDAQ
 MNMT,MOTIVATING THE MASSES INC Common Shares,U
+MNNDF,Nurosene Heath Inc Common Stock (Canada),U
 MNNFF,MINFOCUS EXPLORATION Ordinary Shares,U
 MNNGF,Affluent Partners Holdings Ltd. Ordinary Shares,U
 MNNLF,Menicon Co Ltd. Ordinary Shares,U
@@ -5516,6 +5522,7 @@ MSSV,"Meso Numismatics, Inc. Common Stock",U
 MSSZF,Massimo Zanetti Beverage Group SPA Ordinary Shares (Italy),U
 MSTB,LHA Market State Tactical Beta ETF,BATS
 MSTF,"Monarch Staffing, Inc. Common Stock",U
+MSTH,Mystic Holdings Inc Common Stock,U
 MSTLW,Morgan Stanley Call Warrants Based on Value of Euro Stoxx 50 Index 01/20/2026,U
 MSTO,Masterbeat Corporation. Common Stock,U
 MSTR,MicroStrategy Incorporated Common Stock Class A,NASDAQ
@@ -5552,7 +5559,3 @@ MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U
-MTFGF,U K SPAC PLC Ordinary Shares,U

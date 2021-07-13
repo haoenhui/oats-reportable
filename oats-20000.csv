@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
+SHGY,SearchGuy.com Inc. Common Stock,U
+SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
@@ -338,6 +341,7 @@ SLGRF,SLM Solutions Group AG Germany Federal Republic (DE ),U
 SLGWF,Slang Worldwide Inc  Common Shares  (Canada),U
 SLGYF,"San Leon Energy Plc, Dublin Ordinary Shares (Ireland)",U
 SLHG,Skylight Health Group Inc. Ordinary Shares,NASDAQ
+SLI,Standard Lithium Ltd.,AMEX
 SLJB,"Sulja Bros. Building Supplies, Ltd. Common Stock",U
 SLLDY,Sanlam Ltd Sponsored ADR (South Africa),U
 SLLFF,Gusbourne PLC Ordinary Shares (United Kingdom),U
@@ -822,6 +826,7 @@ SPDC,SPEED COMM INC Common Shares,U
 SPDE,Speedus Corp. Common Stock,U
 SPDL,"Spindle, Inc. Common Stock",U
 SPDN,Direxion Daily S&P 500 Bear 1X Shares,ARCA
+SPDRF,SSGA SPDR ETFS EUROPE II PLC SPDR MSCI WORLD CONSUMER DISCRETIONARY UCITS ETF (Ireland),U
 SPDV,AAM S&P 500 High Dividend Value ETF,ARCA
 SPDW,SPDR Portfolio Developed World ex-US ETF,ARCA
 SPE,"Special Opportunities Fund, Inc.",NYSE
@@ -1315,7 +1320,6 @@ STLC,iShares Factors US Blend Style ETF,BATS
 STLD,"Steel Dynamics, Inc.",NASDAQ
 STLFF,STILLFRONT GROUP AB Ordinary Shares,U
 STLG,iShares Factors US Growth Style ETF,BATS
-STLHF,Standard Lithium Ltd Ordinary Shares (Canada),U
 STLJF,Stella Jones Inc Ordinary Shares,U
 STLM,St Elmo Silver Mines Corp Unclassified,U
 STLV,iShares Factors US Value Style ETF,BATS
@@ -2772,6 +2776,7 @@ TROW,"T. Rowe Price Group, Inc. Common Stock",NASDAQ
 TROX,TRONOX LIMITED CL A ORDINARY SHARES,NYSE
 TRP,TC Energy Corporation,NYSE
 TRPEF,TC Energy Corp Cum Redem 1st Pfd Shs Ser 3 (Canada),U
+TRPL,Pacer Metaurus US Large Cap Dividend Multiplier 300 ETF,ARCA
 TRPRY,Trustpower Ltd Ord Unsponsored ADR (New Zealand),U
 TRPS,TRIP TECHNOLOGIES INC Common Stock,U
 TRQ,Turquoise Hill Resources Ltd,NYSE
@@ -3198,7 +3203,6 @@ UBEOY,UBE Industries Ltd Unsponsored ADR (Japan),U
 UBER,"Uber Technologies, Inc.",NYSE
 UBEX,"United Bullion Exchange, Inc. Common Stock",U
 UBFO,United Security Bancshares Common Stock,NASDAQ
-UBFPF,UBS Irl Etf Plc Accum Ptg Cl A Hedged Exchange Traded Fund (Ireland),U
 UBGHF,U BANQUET GROUP HLDG LTD SHS (Cayman Islands),U
 UBGZF,UBS AG LONDON BRH Warrant   07/26/2024,U
 UBIA,UBI BlockChain Internet Ltd. Common Stock,U
@@ -4139,7 +4143,7 @@ VOT,Vanguard Mid-Cap Growth ETF,ARCA
 VOTDF,VOTI DETECTION INC COM (Canada),U
 VOTE,Engine No. 1 Transform 500 ETF,BATS
 VOX,Vanguard Communication Services ETF,ARCA
-VOXCF,Vox Royalty Corp CAD Ordinary Shares (Cayman Islands),U
+VOXCF,Vox Royalty Corp CDA Ordinary Shares,U
 VOXX,VOXX International Corporation Class A Common Stock,NASDAQ
 VOYA,"VOYA FINANCIAL, INC.",NYSE
 VOYA PRB,"Voya Financial, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.35% Fixe",NYSE
@@ -4912,7 +4916,6 @@ WTM,White Mountains Insurance Group Ltd.,NYSE
 WTMF,WisdomTree Managed Futures Strategy Fund,ARCA
 WTNW,Water Now Inc Common Stock,U
 WTPNU,Western Plains Energy LLC Unit Class B,U
-WTREP,Watford Holdings Ltd. 8.5% Cumulative Redeemable Preference Shares,NASDAQ
 WTRG,"Essential Utilities, Inc.",NYSE
 WTRH,Waitr Holdings Inc. Common Stock,NASDAQ
 WTRNF,Western Res Corp Ordinary Shares (Canada),U
@@ -5054,6 +5057,7 @@ XJGTF,Xinjiang Tianye Water Saving Irrigation System Company Ltd Shares H (China
 XJH,iShares ESG Screened S&P Mid-Cap ETF,BATS
 XJNGF,Xinjiang Goldwind Science Ordinary Shares H (China),U
 XJR,iShares ESG Screened S&P Small-Cap ETF,BATS
+XJUN,FT Cboe Vest U.S. Equity Enhance & Moderate Buffer ETF - June,BATS
 XL,XL Fleet Corp.,NYSE
 XLB,Materials Select Sector SPDR Fund,ARCA
 XLC,The Communication Services Select Sector SPDR Fund,ARCA

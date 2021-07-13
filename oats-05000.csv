@@ -1,4 +1,11 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPG,CRESCENT POINT ENERGY CORP.,NYSE
+CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
+CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
+CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
+CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
+CPHI,"China Pharma Holdings, Inc.",AMEX
+CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
@@ -416,7 +423,6 @@ CTIMF,P2 Gold Inc Common Shares,U
 CTJHF,Citic Resources Holdings Ltd Ordinary Shares (Bermuda),U
 CTJHY,Citic Resources Holdings Ltd Unsponsored ADR (Bermuda),U
 CTK,CooTek (Cayman) Inc.,NYSE
-CTLED,"Mucinno Holding, Inc. Common Stock",U
 CTLGF,China Tian Lun Gas Holdings Ltd Common Shares (Cayman Islands),U
 CTLP,"Cantaloupe, Inc. Common Stock",NASDAQ
 CTLPP,CANTALOUPE INC Preferred Stock,U
@@ -546,7 +552,6 @@ CVAS,"Creative Vistas, Inc. Common Stock",U
 CVAT,"Cavitation Technologies, Inc. Common Stock",U
 CVBF,CVB Financial Corporation Common Stock,NASDAQ
 CVCO,"Cavco Industries, Inc. Common Stock When Issued",NASDAQ
-CVCS,"Charter Corporate Services, Inc. Common Stock",U
 CVCY,Central Valley Community Bancorp Common Stock,NASDAQ
 CVE,Cenovus Energy Inc.,NYSE
 CVE WS,Cenovus Energy Inc. Warrants (each warrant entitles the holder to purchase one common share at an ex,NYSE
@@ -1034,6 +1039,7 @@ DFTC,"Defentect Group, Inc. Common Stock",U
 DFTS,"Defense Technology Systems, Inc. Common Stock",U
 DFUS,Dimensional U.S. Equity ETF,ARCA
 DG,Dollar General Corp.,NYSE
+DGBBF,DGB Asia Berhad Ordinary Shares (Malaysia),U
 DGCRF,Diagnocure Inc Ordinary Shares,U
 DGDCF,Dynasty Gold Corporation Ordinary Shares,U
 DGEAF,Diageo Plc New Ord Ordinary Shares,U
@@ -4636,7 +4642,6 @@ GFOR,Graf Acquisition Corp. IV,NYSE
 GFOR U,"Graf Acquisition Corp. IV Units, each consisting of one share of common stock, and one-fifth of one",NYSE
 GFOR WS,"Graf Acquisition Corp. IV Redeemable Warrants, each whole warrant exercisable for one share of commo",NYSE
 GFPTF,Gfpt Public Co Ltd (F) Units Non-Voting Depository Receipt (Thailand),U
-GFSZY,G4S Plc Unsponsored ADR (UK),U
 GFTRF,Gold'n Futures Mineral Corp. Common Shares,U
 GFTX,"Global Fiber Technologies, Inc. Common Stock",U
 GFX,Golden Falcon Acquisition Corp.,NYSE
@@ -4688,7 +4693,6 @@ GGT PRE,The Gabelli Multimedia Trust Inc. 5.125 Percent Series E Cumulative Pref
 GGT PRG,The Gabelli Multimedia Trust Inc. 5.125% Series G Cumulative Preferred Shares,NYSE
 GGT RTWI,"The Gabelli Multimedia Trust Inc. Rights (expiring August 25, 2021)",NYSE
 GGTHF,Golden Goliath Golden Goliath Resources Ltd,U
-GGTTF,Avant Brands Inc.  Ordinary Shares,U
 GGXXF,GGX Gold Corp. Ordinary Shares,U
 GGZ,The Gabelli Global Small and Mid Cap Value Trust,NYSE
 GGZ PRA,The Gabelli Global Small and Mid Cap Value Trust 5.450% Series A Cumulative Preferred Shares (Liquid,NYSE
@@ -4804,6 +4808,7 @@ GLAXF,Glaxosmithkline Plc Ord 25p Ordinary Shares,U
 GLBB,Global Quest Ltd Common Stock,U
 GLBD,Global Seed Corp Common Stock,U
 GLBE,Global-E Online Ltd. Ordinary Shares,NASDAQ
+GLBGF,Globrands Group Ltd Ordinary Shares (Israel),U
 GLBH,"Global Tech Holdings, Inc. Common Stock",U
 GLBKF,Goldbank Mining Corporation Ordinary Shares (Canada),U
 GLBL,Cartesian Growth Corporation Class A Ordinary Share,NASDAQ
@@ -4845,6 +4850,7 @@ GLHD,PSH GROUP HLDG INC Common Stock,U
 GLHRF,Golden Harp Res Inc. Ordinary Shares (Canada),U
 GLIF,AGFiQ Global Infrastructure ETF,ARCA
 GLIIF,Glacier Lake Resources Ordinary Shares,U
+GLILF,Go Life International Ltd Ordinary Shares (Mauritius),U
 GLIN,VanEck Vectors India Growth Leaders ETF,ARCA
 GLIOF,Gold Lion Resources Inc Common Shares (Canada),U
 GLKFF,"Raise Production, Inc Ordinary Shares (Canada)",U
@@ -5023,7 +5029,6 @@ GNHAY,Vifor Pharma AG American Depositary Receipts - Unsponsored,U
 GNHRF,Arian Resources Corp. Ordinary Shares (Canada),U
 GNIIF,GNI Group Ltd Ordinary Shares (Japan),U
 GNK,GENCO SHIPPING & TRADING LTD,NYSE
-GNKWF,Genco Shipping & Trading Limited Warrants Exp 7/9/2021 (Marshall Islands),U
 GNL,"Global Net Lease, Inc.",NYSE
 GNL PRA,"Global Net Lease, Inc. 7.25% Series A Cumulative Redeemable Preferred Stock, $0.01 par value per sha",NYSE
 GNL PRB,"Global Net Lease, Inc. 6.875% Series B Cumulative Redeemable Perpetual Preferred Stock",NYSE
@@ -5555,4 +5560,3 @@ GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
-GWPD,"GP Solutions, Inc. Common Stock",U
