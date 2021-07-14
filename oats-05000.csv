@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPG,CRESCENT POINT ENERGY CORP.,NYSE
-CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
 CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
@@ -1721,6 +1719,7 @@ DXSPF,Dexus Property Group Ordinary Shares,U
 DXYN,"Dixie Group, Inc. (The) Common Stock",NASDAQ
 DY,"Dycom Industries, Inc.",NYSE
 DYAI,"Dyadic International, Inc. Common Stock",NASDAQ
+DYCU,Dynacure S.A. American Depositary Shares,NASDAQ
 DYFN,Angel Oak Dynamic Financial Strategies Income Term Trust,NYSE
 DYFSF,Dynacert Inc Common Shares (Canada),U
 DYHG,Direxion Dynamic Hedge ETF,ARCA
@@ -2538,6 +2537,7 @@ EQWL,Invesco S&P 100 Equal Weight ETF,ARCA
 EQX,Equinox Gold Corp.,AMEX
 EQXWF,Equinox Gold Corp Warrant,U
 ERAO,"Energy Revenue America, Inc. Common Stock",U
+ERAS,"Erasca, Inc. Common Stock",NASDAQ
 ERBB,"American Green, Inc. Common Stock",U
 ERC,Wells Fargo  Multi-Sector Income Fund,AMEX
 ERCLY,EUROCELL PLC American Depositary Receipts - Unsponsored (United Kingdom),U
@@ -3212,7 +3212,7 @@ FDNI,First Trust Exchange-Traded Fund II First Trust Dow Jones International Int
 FDOC,"Fuel Doctor Holdings, Inc. Common",U
 FDP,Fresh Del Monte Produce Inc.,NYSE
 FDRR,Fidelity Dividend ETF for Rising Rates,ARCA
-FDRVF,First Derivatives PLC Ordinary Shares (United Kingdom),U
+FDRVF,FD Technologies Plc Ordinary Shares,U
 FDS,Factset Research Systems,NYSE
 FDT,First Trust Developed Markets ex-US AlphaDEX Fund,NASDAQ
 FDTC,FNDS3000 Corp. Common Stock,U
@@ -3881,6 +3881,7 @@ FRAZ,Francisco Industries Inc Unclassified,U
 FRBA,First Bank Common Stock,NASDAQ
 FRBK,"Republic First Bancorp, Inc. Common Stock",NASDAQ
 FRBMF,FIREBIRD METALS LTD Ordinary Shares,U
+FRBSV,FIRST REP BK SAN FRANCISCO CALIF NEW DEP SHS REPSTG 1/40TH PERP PFD SER M,U
 FRC,First Republic Bank,NYSE
 FRC PRH,First Republic Bank,NYSE
 FRC PRI,"First Republic Bank  Depositary Shares, each representing a 1/40th interest in a share of 5.50% Nonc",NYSE
@@ -4260,6 +4261,7 @@ FXH,First Trust Health Care AlphaDEX Fund,ARCA
 FXI,iShares China Large-Cap ETF,ARCA
 FXL,First Trust Technology AlphaDEX Fund,ARCA
 FXLG,F S Bancorp Lagrange Ind Common Stock,U
+FXLV,F45 Training Holdings Inc.,NYSE
 FXMBF,Flexion Mobile PLC. Common Stock,U
 FXN,First Trust Energy AlphaDEX Fund,ARCA
 FXNC,First National Corporation Common Stock,NASDAQ
@@ -4295,7 +4297,6 @@ GAB PRG,The Gabelli Equity Trust Inc. Series G Cumulative Preferred,NYSE
 GAB PRH,THE GABELLI EQUITY TRUST INC. 5.00% Series H Cumulative Preferred Stock,NYSE
 GAB PRJ,The Gabelli Equity Trust Inc. 5.45% Series J Cumulative Preferred Stock,NYSE
 GAB PRK,The Gabelli Equity Trust Inc. 5.00% Series K Cumulative Preferred Stock,NYSE
-GAB RT,"The Gabelli Equity Trust Inc. Rights (expiring July 14, 2021)",NYSE
 GABA,"Georgia Bancshares, Inc. (GA) Common Stock",U
 GABC,"German American Bancorp, Inc. Common Stock",NASDAQ
 GABK,Grand Bk Corp Common Stock,U
@@ -5560,3 +5561,7 @@ GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
+GWPD,"GP Solutions, Inc. Common Stock",U
+GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
+GWRRF,Engold Mines Ltd Ordinary Shares,U
+GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ

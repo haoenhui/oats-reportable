@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
@@ -470,7 +467,6 @@ NEVE,"Nevo Energy, Inc.  Common Stock",U
 NEVPF,Abliva AB Ordinary Shares,U
 NEVWF,Neveda Copper Corp CDA Warrant Exp 01/27/2022 (Canada),U
 NEW,"Puxin Limited American Depositary Shares, each representing two Ordinary Shares",NYSE
-NEWA,"Newater Technology, Inc. Ordinary Shares",NASDAQ
 NEWEN,New England Power Company 6% Preferred Stock,U
 NEWG,NewGen BioPharma Corp. Common Stock,U
 NEWH,"NewHydrogen, Inc. Common Stock",U
@@ -742,6 +738,7 @@ NMMCU,North Mountain Merger Corp. Unit,NASDAQ
 NMMCW,North Mountain Merger Corp. Warrant,NASDAQ
 NMMRF,Nomura Real Estate master Fd Inc Ordinary Shares (Japan),U
 NMNSF,NUMINUS WELLNESS INC Warrant   12/29/2022,U
+NMNWF,Numinus Wellness Inc Warrant Exp 03/19/2023 (Canada),U
 NMNX,NationsMark Nexgen Common Stock,U
 NMNZF,Nortec Minerals Corporation Ordinary Shares,U
 NMOC,Nemo Motors Corp,U
@@ -1266,6 +1263,7 @@ NWHAF,Handa Mining Corp  Ordinary Shares,U
 NWHM,THE NEW HOME COMPANY INC.,NYSE
 NWHUF,Northwest Healthcare Properties Real Estate Investment Trust Unit (Canada),U
 NWIFF,Nuinsco Resources Limited New Ordinary Shares (Canada),U
+NWINF,Naked Wines PLC Ordinary Shares,U
 NWITY,Network International Holdings PLC Unsponsored ADR (United Kingdom),U
 NWKHY,Netcare Ltd Unsponsored ADR  (South Africa),U
 NWKLF,Network Int'l Holdings Ltd Ord Gbp 0.10 (United Kingdom),U
@@ -2103,6 +2101,7 @@ PBAM,"Private Bancorp of America, Inc. Common Stock",U
 PBATF,PT Tambang Batubara Bukit ASAM TBK SHS SERIES -B -Ordinary Shares (Indonesia),U
 PBBGF,Deutsche Pfandbriefbank Common Stock,U
 PBBIF,Probi Ab Ordinary Shares (Sweden),U
+PBBK,"PB Bankshares, Inc. Common Stock",NASDAQ
 PBBSF,Peekaboo Beans Inc Common Shares,U
 PBC,Prospect Capital Corporation 6.875% Notes due 2029,NYSE
 PBCBF,Publicis Sa New Bon de Souscription (France),U
@@ -2428,6 +2427,7 @@ PFSF,"Pacific Software, Inc. Common Stock",U
 PFSI,"PennyMac Financial Services, Inc. Common Stock",NYSE
 PFSMF,PERFECT SHAPE MEDICAL LTD Ordinary Shares,U
 PFSW,"PFSweb, Inc. Common Stock",NASDAQ
+PFTAU,Portage Fintech Acquisition Corporation Unit,NASDAQ
 PFTI,Puradyn Filter Technologies Incorporated Common Stock,U
 PFUT,Putnam Sustainable Future ETF,ARCA
 PFWIQ,"Petrone Worldwide, Inc. Common Stock",U
@@ -2865,7 +2865,7 @@ PNNTG,PennantPark Investment Corporation 5.50% Notes Due 2024,NASDAQ
 PNNX,"Pennexx Foods, Inc. Common Stock",U
 PNOCF,Penta Ocean Construction Co Ordinary Shares (Japan),U
 PNOV,Innovator S&P 500 Power Buffer ETF - November,BATS
-PNPFF,Pinetree Capital Ltd Ordinary Shares,U
+PNPFD,Pinetree Capital Ltd Ordinary Shares,U
 PNPL,"Pineapple Express, Inc. Common Stock",U
 PNQI,Invesco Exchange-Traded Fund Trust Invesco Nasdaq Internet ETF,NASDAQ
 PNR,Pentair plc,NYSE
@@ -4073,6 +4073,7 @@ RECAF,Reconnaissance Energy Africa Ltd Common Shares,U
 RECEF,RECCE PHARMACEUTICALS Ordinary Fully Paid (Australia),U
 RECOF,Reconstruction Capital II Limited Ordinary Shares (Cayman Islands),U
 RECS,Columbia Research Enhanced Core ETF,ARCA
+RECWF,RECONNAISSANCE ENERGY AFRICA LTD WT EXP 05/27/2024 (Canada),U
 REDFY,Rediff.com India Limited American Depositary Shares - Sponsored,U
 REDIF,"Redhill Biopharma Ltd, Ramat Gan Ordinary Shares (Israel)",U
 REDLF,RED 5 LTD ORDINARY FULLY PAID (Australia),U
@@ -4199,6 +4200,7 @@ RGBD,Regional Brands Inc Common Stock,U
 RGBOQ,"ReGen Biologics, Inc. Common Stock",U
 RGBP,"Regen Biopharma, Inc. Common",U
 RGBPP,"Regen Biopharma, Inc. Preferred Stock",U
+RGC,Regencell Bioscience Holdings Limited Ordinary Shares,NASDAQ
 RGCO,RGC Resources Inc. Common Stock,NASDAQ
 RGDCD,PATRIOT BATTERY METALS INC Ordinary Shares,U
 RGDEF,RDX Technologies Corporation Ordinary Shares (Canada),U
@@ -4574,6 +4576,7 @@ RPGRF,REA Group Ltd Ordinary Shares (Australia),U
 RPGRY,REA Group Ltd Unsponsored ADR (Australia),U
 RPHCF,Rohto Pharmaceutical Co Ordinary Shares (Japan),U
 RPHM,"Reneo Pharmaceuticals, Inc. Common Stock",NASDAQ
+RPID,"Rapid Micro Biosystems, Inc. Class A Common Stock",NASDAQ
 RPKIF,Richards Packaging Income Fd Tr Unit (Canada),U
 RPM,"RPM International, Inc.",NYSE
 RPMT,"Rego Payment Architectures, Inc. Common Stock",U
@@ -5333,6 +5336,7 @@ SEPJY,Spectris Plc Unsponsored American Depository Receipt (United Kingdom),U
 SEPOF,"Blumetric Environmental, Inc. Ordiinary Shares",U
 SEPZ,TrueShares Structured Outcome (September) ETF,BATS
 SEQIF,Sequoia Economic Infrastructure Income Fund Ltd. PTG Shs GBP,U
+SERA,"Sera Prognostics, Inc. Class A Common Stock",NASDAQ
 SERKF,Serko Ltd Ordinary Shares (New Zealand),U
 SESCF,SEASPAN CORP 7.125 Note 10/30/2027,U
 SESI,SES Solar Inc. Common Stock,U
@@ -5457,6 +5461,7 @@ SGHDY,SG Holdings Co Ltd. American Depositary Receipts - Unsponsored (Japan),U
 SGHHF,SG Hldgs Co Ltd Ordinary Shares (Japan),U
 SGHIF,Shanghai Industrial Holdings Limited Ordinary Shares,U
 SGHIY,Shanghai Industrial Holdings Limited American Depositary Shares,U
+SGHT,"Sight Sciences, Inc. Common Stock",NASDAQ
 SGIC,"Strategic Rlty Tr Inc, COM (United Stated)",U
 SGIL,Sunburst Acquisitions V Inc Common Stock,U
 SGIOF,Shionogi & Co Ltd Ordinary Shares,U
@@ -5559,3 +5564,4 @@ SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
+SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U

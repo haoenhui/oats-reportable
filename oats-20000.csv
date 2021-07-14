@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
 SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
@@ -439,7 +438,7 @@ SMDM,"Singing Machine Company, Inc. (The) Common Stock",U
 SMDPY,SUMITOMO DAINIPPON PHARMA CO LTD  American Depositary Receipts - Unsponsored (Japan),U
 SMDRF,Sierra Madre Gold & Silver Inc. Common Stock (Canada),U
 SMDV,ProShares Russell 2000 Dividend Growers ETF,BATS
-SMDXD,Goldshore Resources Inc Common Shares,U
+SMDXF,Goldshore Resources Inc Common Shares,U
 SMDY,Syntax Stratified MidCap ETF,ARCA
 SMDZF,Strategic Metals Ltd Ordinary Shares,U
 SMEBF,Sime Darby Bhd New Ordinary shares (Malaysia),U
@@ -666,6 +665,7 @@ SNRS,Sunrise Consulting Group Inc Common Stock,U
 SNRY,"Solar Energy Initiatives, Inc. Common Stock",U
 SNSE,"Sensei Biotherapeutics, Inc. Common Stock",NASDAQ
 SNSGF,"Sense Technologies, Inc. Common Shares",U
+SNSHP,Sunstone Hotel Invs Inc. New Preferred Stock Series I,U
 SNSKF,Sanko Sangyo Co Ltd Ordinary Shares (Japan),U
 SNSR,Global X Funds Global X Internet of Things ETF,NASDAQ
 SNST,"Sunset Capital Assets, Inc. Common Stock",U
@@ -1888,6 +1888,7 @@ TCAPF,TP ICAP GROUP PLC Ordinary Shares (Jersey),U
 TCBI,"Texas Capital Bancshares, Inc. Common Stock",NASDAQ
 TCBIO,"Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",NASDAQ
 TCBK,TriCo Bancshares Common Stock,NASDAQ
+TCBS,"Texas Community Bancshares, Inc. Common Stock",NASDAQ
 TCCHF,Technogym Spa Ordinary Shares (Italy),U
 TCCO,TECHNICAL COMMUNICATIONS CORP Common Stock,U
 TCCPY,TechnoPro Hldgs Inc American Depositary Receipts - Sponsored (Japan),U
@@ -3345,6 +3346,7 @@ UJUN,Innovator S&P 500 Ultra Buffer ETF - June,BATS
 UK,Ucommune International Ltd Ordinary Shares,NASDAQ
 UKLLF,UK Oil & Gas Invts Plc Ordinary Shares (United Kingdom),U
 UKOMW,Ucommune International Ltd Warrant expiring 11/17/2025,NASDAQ
+UKWIU,UK Wisdom Limited Units,NASDAQ
 UL,Unilever plc,NYSE
 ULBI,Ultralife Corporation Common Stock,NASDAQ
 ULBWF,UBS AG LONDON BRH CALL WTS LKD TO MSCI EMERGING MKTS INDEX (Switzerland),U
@@ -3464,6 +3466,8 @@ UONE,"Urban One, Inc. Class A Common Stock",NASDAQ
 UONEK,"Urban One, Inc. Class D Common Stock",NASDAQ
 UOVEF,United Overseas Bk Singapore Ordinary Shares,U
 UOVEY,United Overseas Bk Singapore American Depositary Shares,U
+UP,Wheels Up Experience Inc.,NYSE
+UP WS,"Wheels Up Experience Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class",NYSE
 UPBMF,United Plantations Berhad Ordinary Shares (Malaysia),U
 UPC,Universe Pharmaceuticals Inc. Ordinary Shares,NASDAQ
 UPCHY,Uni-President China Holdings Ltd. Unsponsored ADR (Cayman Islands),U
@@ -3979,6 +3983,7 @@ VIXM,ProShares VIX Mid-Term Futures ETF,BATS
 VIXY,ProShares VIX Short-Term Futures ETF,BATS
 VIZC,"VizConnect, Inc. Common Stock",U
 VIZG,VisionGlobal Corp Common Stock,U
+VIZNF,VISIONARY GOLD CORP COM (Canada),U
 VIZSF,VIZSLA SILVER CORP Ordinary Shares,U
 VJET,voxeljet AG American Depositary Shares,NASDAQ
 VKEMF,VEF LTD - SDR Depositary Receipts,U

@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWPD,"GP Solutions, Inc. Common Stock",U
-GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
-GWRRF,Engold Mines Ltd Ordinary Shares,U
-GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
 GWSAF,Gowest Gold Ltd Ordinary Shares,U
 GWSN,"Gulf West Security Network, Inc. Common Stock",U
 GWSO,"Global Warming Solutions, Inc. Common Stock",U
@@ -222,6 +218,7 @@ HCPHY,Holcim Philippines Inc Unsponsored ADR (Philippines),U
 HCRB,Hartford Core Bond ETF,BATS
 HCSG,"Healthcare Services Group, Inc. Common Stock",NASDAQ
 HCTPF,Hutchinson Port Holdings Trust Units (Singapore),U
+HCWB,HCW Biologics Inc. Common Stock,NASDAQ
 HCXLF,Hiscox Ltd Ordinary Shares,U
 HCXLY,Hiscox Ltd Unsponsored ADR (Bermuda),U
 HCXY,"Hercules Capital, Inc. 6.25% Notes due 2033",NYSE
@@ -370,7 +367,7 @@ HHC,The Howard Hughes Corporation,NYSE
 HHDS,Highlands REIT Inc Common Stock,U
 HHER,Her Imports Common Stock,U
 HHGI,"Hawaiian Hospitality Group, Inc.  Common Stock New",U
-HHHED,"37 Capital, Inc. Ordinary Shares",U
+HHHEF,"37 Capital, Inc. Ordinary Shares",U
 HHKIY,Hochiki Corp Ord American Depositary Shares,U
 HHKSY,DFCITY Group Berhad American Depositary Receipts - Sponsored,U
 HHLA,HH&L Acquisition Co.,NYSE
@@ -464,7 +461,6 @@ HKND,Humankind US Stock ETF,ARCA
 HKSHF,Hong Kong & Shanghai Hotels Ordinary Shares,U
 HKSHY,Hong Kong & Shanghai Hotels Unsponsored ADR (Hong Kong),U
 HKTGF,HIKARI TSUSHIN INC SHS (Japan),U
-HKTHF,"HOKUYAKU TAKEYAMA HOLDINGS, INC., SAPPORO COM STK (Japan)",U
 HKTTF,Hkt Trust and Hkt Ltd Ordindary Shares (Hong Kong),U
 HKTTY,Hkt Trust and Hkt Ltd Unsponsored ADR (Hong Kong),U
 HKTVY,Hong Kong Television Network Ltd. American Depositary Receipts - Sponsored (Hong Kong),U
@@ -976,6 +972,7 @@ HYD,VanEck Vectors High Yield Muni ETF,BATS
 HYDB,iShares High Yield Bond Factor ETF,BATS
 HYDI,"Hydromer, Inc. Common Stock",U
 HYDN,Hayden Hall Inc (DE) Common Stock,U
+HYDR,Global X Funds Global X Hydrogen ETF,NASDAQ
 HYDW,Xtrackers Low Beta High Yield Bond ETF,ARCA
 HYEG,"Hydrogen Engine Center, Inc. Common Stock",U
 HYEM,VanEck Vectors Emerging Markets High Yield Bond ETF,ARCA
@@ -1096,6 +1093,7 @@ IBAL,International Baler Corporation Common Stock,U
 IBB,iShares Biotechnology ETF,NASDAQ
 IBBJ,ETF Series Solutions Defiance Nasdaq Junior Biotechnology ETF,NASDAQ
 IBBQ,Invesco Exchange-Traded Fund Trust II Invesco Nasdaq Biotechnology ETF,NASDAQ
+IBBRF,IBERDROLA SA DERECHOS EXP 07/21/2021 (Spain),U
 IBCE,iShares iBonds Mar 2023 Term Corporate ex-Financials ETF,ARCA
 IBCP,Independent Bank Corporation Common Stock,NASDAQ
 IBD,Inspire Corporate Bond Impact ETF,ARCA
@@ -2431,6 +2429,7 @@ JAPSY,Japan Airlines Ltd Unsponsored ADR (Japan),U
 JARLF,Jardine Matheson Hldgs Ltd Ord Ordinary Shares,U
 JASSF,Japan Asset Marketing Co Ltd Ordinary Shares (Japan),U
 JASUF,Jasmine International Public Co Ltd Units Non-Voting Depositary Receipt (Thailand),U
+JATT U,"JATT Acquisition Corp Units, each consisting of one Class A ordinary share, and one-half of one rede",NYSE
 JAX,"J. Alexander's Holdings, Inc.",NYSE
 JAXAF,Jaxsta Ltd Ordinary Shares (Australia),U
 JAZTF,Jazztel plc Ordinary Shares (United Kingdom),U
@@ -2524,6 +2523,7 @@ JFR,Nuveen Floating Rate Income Fund,NYSE
 JFROF,J. Front Retailing Co. Ltd. Ordinary Shares (Japan),U
 JFTSF,JFT Strategies Fund Unit Class A (Canada),U
 JFU,9F Inc. American Depositary Shares,NASDAQ
+JFWD,Jacob Forward ETF,ARCA
 JFWV,Jefferson Security Bank (W VA) Common Stock,U
 JG,Aurora Mobile Limited American Depositary Shares,NASDAQ
 JGCCF,J G C Corp (F) Ordinary Shares,U
@@ -3210,6 +3210,7 @@ KNYJF,Kone Oyj Shares B (Finland),U
 KNYJY,Kone Oyj Unsponsored ADR representing B shares (Finland),U
 KO,Coca-Cola Company,NYSE
 KOAN,RESONATE BLENDS INC Common Stock,U
+KOCG,FIS Knights of Columbus Global Belief ETF,ARCA
 KOCT,Innovator Russell 2000 Power Buffer ETF - October,BATS
 KOD,Kodiak Sciences Inc Common Stock,NASDAQ
 KODK,EASTMAN KODAK COMPANY,NYSE
@@ -3312,6 +3313,7 @@ KRNY,Kearny Financial Corp Common Stock,NASDAQ
 KRO,"Kronos Worldwide, Inc.",NYSE
 KROEF,KR1 PLC Ordinary Shares (Isle of Man),U
 KRON,"Kronos Bio, Inc. Common Stock",NASDAQ
+KROP,Global X Funds Global X AgTech & Food Innovation ETF,NASDAQ
 KROS,"Keros Therapeutics, Inc. Common Stock",NASDAQ
 KRP,"Kimbell Royalty Partners, LP Common Units representing Limited Partner Interests",NYSE
 KRRGF,Karora Resources Inc. Common Shares,U
@@ -4512,6 +4514,7 @@ MCF,Contango Oil & Gas Co.,AMEX
 MCFE,McAfee Corp. Class A Common Stock,NASDAQ
 MCFT,"MasterCraft Boat Holdings, Inc. Common Stock",NASDAQ
 MCFUF,Micro Focus International Plc Ordinary Shares,U
+MCG,Membership Collective Group Inc.,NYSE
 MCGRF,Major Cineplex Group Public Co Ltd Shares Foreign Registered (Thailand),U
 MCHA,"Matchaah Holdings, Inc. Common Stock",U
 MCHB,Mechanics Bank (The) (CA) Common Stock,U
@@ -4735,6 +4738,7 @@ MET PRE,"MetLife, Inc. Depositary Shares, each representing a 1/1,000th interest
 MET PRF,"MetLife, Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.75% Non-Cumu",NYSE
 META,Roundhill Ball Metaverse ETF,ARCA
 METC,"Ramaco Resources, Inc. Common Stock",NASDAQ
+METCL,"Ramaco Resources, Inc. 9.00% Senior Notes due 2026",NASDAQ
 METOF,Meteoric Resorces NL Ordinary Shares (Australia),U
 METX,Meten EdtechX Education Group Ltd. Ordinary Shares,NASDAQ
 METXW,Meten EdtechX Education Group Ltd. Warrant,NASDAQ
@@ -4988,7 +4992,6 @@ MJSCZ,Majectic Holdco LLC Unit,U
 MJTV,"Michael James Enterprises, Inc. Common Stock",U
 MJUS,ETFMG U.S. Alternative Harvest ETF,ARCA
 MJWL,Majic Wheels Corp. Common Stock,U
-MJWNF,Naked Wines PLC Ordinary Shares,U
 MJWNY,NAKED WINES PLC American Depositary Receipts - Unsponsored (United Kingdom),U
 MJXL,ETFMG 2X Daily Alternative Harvest ETF,ARCA
 MKC,"McCormick & Company, Incorporated Non-VTG CS",NYSE
@@ -5559,3 +5562,6 @@ MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
+MTFC,Minster Financial Corporation,U
