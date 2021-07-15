@@ -1393,9 +1393,6 @@ AOMR,"Angel Oak Mortgage, Inc.",NYSE
 AOMUF,ACSL LTD Common Stock,U
 AON,Aon plc Class A,NYSE
 AONCF,Advanced Oncotherapy PLC Ordinary Shares,U
-AONE,one,NYSE
-AONE U,"one Units, each consisting of one Class A ordinary share, and one-fourth of a Warrant to acquire one",NYSE
-AONE WS,"one Warrants, each whole warrant exercisable for one Class A ordinary share at an exercise price of",NYSE
 AONNF,Aeon Co Ltd Ordinary Shares,U
 AONNY,Aeon Co Ltd American Depositary Shares,U
 AOOO,Autoco.Com Inc Common Stock,U
@@ -2447,6 +2444,7 @@ BATRA,Liberty Media Corporation Series A Liberty Braves Common Stock,NASDAQ
 BATRB,Liberty Media Corp Del Com Ser B Braves Group,U
 BATRK,Liberty Media Corporation Series C Liberty Braves Common Stock,NASDAQ
 BATT,Amplify Lithium & Battery Technology ETF,ARCA
+BAUFF,Blue Star Gold Corp Ordinary Shares,U
 BAUG,Innovator S&P 500 Buffer ETF - August,BATS
 BAX,Baxter International Inc.,NYSE
 BAYN,Bay National Corporation,U
@@ -2588,7 +2586,7 @@ BCOLF,Braincool AB Sub Rights Opt 3 (Sweden),U
 BCOMF,B Communications Ltd Ordinary Shares,U
 BCOR,"Blucora, Inc. Common Stock",NASDAQ
 BCOV,Brightcove Inc. Common Stock,NASDAQ
-BCOW,"1895 Bancorp of Wisconsin, Inc. Common Stock",NASDAQ
+BCOW,"1895 Bancorp of Wisconsin, Inc. (MD) Common Stock",NASDAQ
 BCPC,Balchem Corporation Common Stock,NASDAQ
 BCRD,BLUEONE CARD INC Common Stock,U
 BCRHF,BLUE CAP REINS HLDGS LTD Common Stock,U
@@ -3461,6 +3459,7 @@ BRCSF,Barra Resources Ltd Ordinary Shares (Australia),U
 BRDBF,Bredband2 I Skandinavien AB Common Stock (Sweden),U
 BRDCF,Bridgestone Corp  Ord Ordinary Shares,U
 BRDCY,Bridgestone Corp  Ord (Unsponsored)  American Depositary Shares,U
+BRDG,Bridge Investment Group Holdings Inc.,NYSE
 BREJY,mBank SA American Depositary Receipts - Unsponsored,U
 BRENF,Brookfield Renewable Partners Preferred LP Unit Class A Series 7 (Bermuda),U
 BRER,"Bresler & Reiner, Inc. Common Stock",U
@@ -3946,7 +3945,7 @@ CACH,CACHE Inc Common Stock,U
 CACI,CACI INTERNATIONAL CLA,NYSE
 CADE,Cadence Bancorporation,NYSE
 CADGF,Bio Papel Sab de Cv Ordinary Shares (Mexico),U
-CADIF,Cadillac Ventures Inc Common Shares,U
+CADID,Cadillac Ventures Inc Common Shares,U
 CADLF,CADELER AS Ordinary Shares,U
 CADMF,Chemesis Intl Inc Ordinary Shares,U
 CADNF,Cascades Inc Ordinary Shares,U
@@ -4780,7 +4779,7 @@ CHTH,Cnl Healthcare Pptys Inc Common Stock,U
 CHTM,Chatham Corp Common Stock,U
 CHTR,"Charter Communications, Inc. Class A Common Stock New",NASDAQ
 CHUAF,China Huarong Asset Management Co Ltd Ordinary Shares (China),U
-CHUCD,"Charlie's Holdings, Inc. Common Stock",U
+CHUC,"Charlie's Holdings, Inc. Common Stock",U
 CHUEF,Chubu Electric Power Ordinary Shares,U
 CHUY,"Chuy's Holdings, Inc. Common Stock",NASDAQ
 CHVEF,Charisma Energy Services Ltd. Ordinary Shares (Singapore),U
@@ -4927,7 +4926,7 @@ CL,Colgate-Palmolive Company,NYSE
 CLAA,Colonnade Acquisition Corp. II,NYSE
 CLAA U,"Colonnade Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of",NYSE
 CLAA WS,"Colonnade Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary sha",NYSE
-CLABF,Core One Labs Inc Common Shares,U
+CLABD,Core One Labs Inc Common Shares,U
 CLAD,"China Liaoning Dingxu Ecological Agriculture Development, Inc. Common Stock",U
 CLALF,Clal Insurance CO Ltd. Ordinary Shares (Israel),U
 CLAM,Classic Mining Corp Utah Common Stock,U
@@ -5565,3 +5564,4 @@ CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
+CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U

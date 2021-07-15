@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWPD,"GP Solutions, Inc. Common Stock",U
+GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
+GWRRF,Engold Mines Ltd Ordinary Shares,U
+GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
 GWSAF,Gowest Gold Ltd Ordinary Shares,U
 GWSN,"Gulf West Security Network, Inc. Common Stock",U
 GWSO,"Global Warming Solutions, Inc. Common Stock",U
@@ -508,6 +512,8 @@ HLLXF,Hellix Ventures Inc Ordinary Shares,U
 HLM PR,Hillman Group Capital Trust 11.6%,AMEX
 HLMAF,Halma Plc Ordinary Shares,U
 HLMB,"Swiftsure International, Inc. Common Stock",U
+HLMN,Hillman Solutions Corp. Class A Common Stock,NASDAQ
+HLMNW,Hillman Solutions Corp. Warrant,NASDAQ
 HLMNY,Holmen AB Unsponsored ADR representing Shs A (Sweden),U
 HLNE,Hamilton Lane Incorporated Class A Common Stock,NASDAQ
 HLNFF,High Liner Foods Inc Ordinary Shares,U
@@ -1158,6 +1164,7 @@ IBTH,iShares Trust iShares iBonds Dec 2027 Term Treasury ETF,NASDAQ
 IBTI,iShares Trust iShares iBonds Dec 2028 Term Treasury ETF,NASDAQ
 IBTJ,iShares Trust iShares iBonds Dec 2029 Term Treasury ETF,NASDAQ
 IBTK,iShares Trust iShares iBonds Dec 2030 Term Treasury ETF,NASDAQ
+IBTL,iShares Trust iShares iBonds Dec 2031 Term Treasury ETF,NASDAQ
 IBTN,INSCORP INC Common Stock,U
 IBTX,"Independent Bank Group, Inc Common Stock",NASDAQ
 IBUY,Amplify Online Retail ETF,ARCA
@@ -1586,6 +1593,7 @@ IMFL,Invesco International Developed Dynamic Multifactor ETF,BATS
 IMGI,"ImaginOn, Inc. Common Stock",U
 IMGL,IMAGE INTL GROUP INC Common Stock,U
 IMGN,"ImmunoGen, Inc. Common Stock",NASDAQ
+IMGO,"Imago BioSciences, Inc. Common stock",NASDAQ
 IMGX,"Image Metrics, Inc.  Common Stock",U
 IMH,Impac Mortgage Holdings Inc.,AMEX
 IMHC,Imperalis Holding Corp. Common Stock,U
@@ -1953,6 +1961,7 @@ IREHF,Integrated Research Ltd Ordinary Shares (Australia),U
 IREMF,Ishares Msci Ordinary shares (Ireland),U
 IREP,"Interep National Radio Sales, Inc. Class A Common Stock",U
 IRESF,Ishares Plc - Ishares Core FTSE 100 Ucits ETF Usd Hedged Acc (Ireland),U
+IRICF,ISRAS INVESTMENT CO LTD Ordinary Shares,U
 IRIDQ,Iridium World Communications Ltd. A Shares (United Kingdom),U
 IRIG,Integrated Drilling Equipment Holdings Corp. Common,U
 IRIX,IRIDEX Corporation Common Stock,NASDAQ
@@ -3590,9 +3599,6 @@ LCTSF,Lectra Ordinary Shares (France),U
 LCTU,BlackRock U.S. Carbon Transition Readiness ETF,ARCA
 LCTX,"Lineage Cell Therapeutics, Inc.",AMEX
 LCUT,"Lifetime Brands, Inc. Common Stock",NASDAQ
-LCY,"Landcadia Holdings III, Inc. Class A Common Stock",NASDAQ
-LCYAU,"Landcadia Holdings III, Inc. Unit",NASDAQ
-LCYAW,"Landcadia Holdings III, Inc. Warrant",NASDAQ
 LCYFF,Legal & Gen Ucits ETF Plc L&G CYBER SECURITY UCITS ETF USD ACCUMULATING ETF Exchange Traded Fund,U
 LD,"iPath Bloomberg Lead Subindex Total Return ETN due June 24, 2038",ARCA
 LDBTY,Lebanese Co For Dev & Recon of Beirut Cent Dist SAL American Depositary Receipts - Unsponsored (Lebanon),U
@@ -3902,7 +3908,6 @@ LMMPF,Lithium Australia NL Ordinary Shares Partly Paid (Australia),U
 LMND,"Lemonade, Inc.",NYSE
 LMNL,Liminal BioSciences Inc. Common Shares,NASDAQ
 LMNR,Limoneira Co Common Stock,NASDAQ
-LMNX,Luminex Corporation Common Stock,NASDAQ
 LMPMF,Lee & Man Paper Manufacturing Limited Ordinary Shares (Cayman Islands),U
 LMPMY,Lee & Man Paper Manufacturing Limited Sponsored ADR (China),U
 LMPRF,"Lamprell PLC, Isle of Man Ordinary Shares (Isle of Man)",U
@@ -3946,6 +3951,7 @@ LNKAY,Link Admin Hldgs Ltd Unsponsored ADR (Australia),U
 LNKB,LINKBANCORP INC Common Stock,U
 LNKE,Link Energy LLC Common Stock,U
 LNKG,"Link Group, Inc. (The) Common Stock",U
+LNKLF,LINKLOGIS INC USD CL B ORD SHS Ordinary Shares,U
 LNLHF,Leanlife Health Inc Common Shares,U
 LNN,Lindsay Corporation,NYSE
 LNNGF,Li Ning Company Limited Ordinary Shares (Cayman Islands),U
@@ -4742,6 +4748,7 @@ METCL,"Ramaco Resources, Inc. 9.00% Senior Notes due 2026",NASDAQ
 METOF,Meteoric Resorces NL Ordinary Shares (Australia),U
 METX,Meten EdtechX Education Group Ltd. Ordinary Shares,NASDAQ
 METXW,Meten EdtechX Education Group Ltd. Warrant,NASDAQ
+MEUEF,INVESCO MKTS PLC INVESCO MSCI EUROPE UCITS ETF A EUR Exchange Traded Fund,U
 MEUSW,23andMe Holding Co. Warrant,NASDAQ
 MEXGF,MEXICAN GOLD MNG CORP Common Shares,U
 MEXX,Direxion Daily MSCI Mexico Bull 3X Shares,ARCA
@@ -5002,6 +5009,8 @@ MKEAF,Mauna Kea Technologies Shs Nom Categorie - O - (France),U
 MKEAY,Mauna Kea Technologies SA American Depositary Receipts - Sponsored (France),U
 MKENF,Merko Ehitus As New Tallin Common Shares (Estonia),U
 MKEWF,Makita Corp. Ordinary Shares,U
+MKFG,Markforged Holding Corporation,NYSE
+MKFG WS,"Markforged Holding Corporation Warrants, each whole warrant exercisable for one share of Common Stoc",NYSE
 MKGAF,Merck KGaA Ordinary Shares (Germany),U
 MKGP,"Maverick Energy Group, Ltd. Common Stock",U
 MKIN,MCNB Banks Inc Common Stock,U
@@ -5116,7 +5125,7 @@ MMLG,First Trust Multi-Manager Large Growth ETF,ARCA
 MMLP,Martin Midstream Partners L.P. Limited Partnership,NASDAQ
 MMLTF,MMG Ltd Ordinary Shares (Hong Kong),U
 MMM,3M Company,NYSE
-MMMB,"MamaMancini's Holdings, Inc. COMMON",U
+MMMB,"MamaMancini's Holdings, Inc. Common Stock",NASDAQ
 MMMKF,Avenira Ltd. Ordinary Shares,U
 MMMM,"Quad M Solutions, Inc. Common Stock",U
 MMMRF,Mammoth Resources Corp (Canada),U
@@ -5380,9 +5389,7 @@ MRCBF,Morguard Corporation Ordinary Shares (Canada),U
 MRCC,Monroe Capital Corporation Common Stock,NASDAQ
 MRCHF,Miraca Holdings Inc Ordinary shares (Japan),U
 MRCIF,Mercari Inc Ordinary Shares,U
-MRCQF,Glass House Brands Inc. Common Shares,U
 MRCR,Moro Corporation Common Stock,U
-MRCWF,Glass House Brands Inc. Warrant,U
 MRCY,Mercury Systems Inc Common Stock,NASDAQ
 MRDH,"Meridian Holdings, Inc. Common Stock",U
 MRDY,Mobile Ready Entertainment Corp. New Common Stock,U
@@ -5558,10 +5565,3 @@ MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
-MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
-MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
-MTENY,Mahanagar Telephone Nigam Ltd ADS,U
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U

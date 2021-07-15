@@ -1,4 +1,11 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
+MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
+MTENY,Mahanagar Telephone Nigam Ltd ADS,U
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
+MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
@@ -1034,7 +1041,7 @@ NSRGY,Nestle SA Sponsored ADR representing Registered Shares Series B (Switzerla
 NSRPF,Novo Res Corp Common shares (Canada),U
 NSRS,North Springs Resources Corp. Common Stock,U
 NSRWF,NOMAD RTY CO LTD Warrant   11/19/2022,U
-NSRXD,NOMAD RTY CO LTD Common Shares,U
+NSRXF,NOMAD RTY CO LTD Common Shares,U
 NSS,"NUSTAR LOGISTICS, L.P. 7.625% Fixed-to-Floating Rate Subordinated Notes due 2043",NYSE
 NSSC,"NAPCO Security Technologies, Inc. Common Stock",NASDAQ
 NSSXF,NS Solutions Corp Tokyo Ordinary Shares (Japan),U
@@ -1506,7 +1513,6 @@ OEZVY,Verbund AG Sponsored ADR (Austria),U
 OFC,Corporate Office Properties Trust,NYSE
 OFED,Oconee Federal Financial Corp. Common Stock,NASDAQ
 OFG,OFG BANCORP,NYSE
-OFG PRD,"OFG BANCORP 7.125% Non-Cumulative Perpetual Preferred Stock, Series D",NYSE
 OFIX,Orthofix Medical Inc. Common Stock (DE),NASDAQ
 OFLX,"Omega Flex, Inc. Common Stock",NASDAQ
 OFS,OFS Capital Corporation Common Stock,NASDAQ
@@ -2179,6 +2185,7 @@ PCCWY,PCCW Limited American Depositary Shares New,U
 PCCYF,Petrochina Company Limited Ordinary Shares,U
 PCDAF,Postmedia Network CDA Corp Common Shares,U
 PCDVF,Pacific Century Regional Developments Ltd Ordinary Shares,U
+PCECP,PROSPECT CAP CORP PERP PFD SER A Preferred Stock,U
 PCEF,Invesco CEF Income Composite ETF,ARCA
 PCELF,Powercell Sweden AB Ordinary Shares (Sweden),U
 PCF,High Income Securities Fund,NYSE
@@ -2540,6 +2547,7 @@ PHLI,"PacificHealth Laboratories, Inc. Common Stock",U
 PHM,"Pultegroup, Inc.",NYSE
 PHMB,"PharmaCom BioVet, Inc. Common Stock",U
 PHMMF,PHARMA MAR SA Ordinary Shares,U
+PHNGF,PHINERGY LTD Ordinary Shares,U
 PHNMF,Phenom Resources Corp Common Shares,U
 PHO,Invesco Exchange-Traded Fund Trust Invesco Water Resources ETF,NASDAQ
 PHOJY,Phosagro PJSC Global Depositary Receipts - Sponsored,U
@@ -3226,7 +3234,6 @@ PSCX,Pacer Swan SOS Conservative (December) ETF,BATS
 PSDMF,Gaming Realms PLC Ordinary Shares (United Kingdom),U
 PSDNF,Poseidon Nickel Ltd Ordinary Shares (Australia),U
 PSEC,Prospect Capital Corporation Common Stock,NASDAQ
-PSECV,PROSPECT CAP CORP PERP PFD SER A Preferred Stock,U
 PSEP,Innovator S&P 500 Power Buffer ETF - September,BATS
 PSET,Principal Exchange-Traded Funds Principal Quality ETF,NASDAQ
 PSF,COHEN & STEERS SELECT PREFERRED AND INCOME FUND,NYSE
@@ -3444,6 +3451,7 @@ PTSH,"PTS, Inc. Common Stock",U
 PTSI,"P.A.M. Transportation Services, Inc. Common Stock",NASDAQ
 PTSRF,Partners Real Estate Investment Trust New Units (Canada),U
 PTSS,"Peartrack Security Systems, Inc.  Common Stock",U
+PTSWF,PT SAWIT SUMBERMAS SARANA TBK Ordinary Shares,U
 PTTCF,Pact Group Hldgs Ltd Ordinary Shares (Australia),U
 PTTL,"Pure Transit Technologies, Inc. Common Stock",U
 PTTMF,PT Timah TBK Ordinary Shares (Indonesia),U
@@ -3813,7 +3821,7 @@ QUAD,"QUAD/GRAPHICS, INC.",NYSE
 QUAL,iShares MSCI USA Quality Factor ETF,BATS
 QUAN,Quantum International Corporation. Common Stock,U
 QUBSF,Qantas Airways Ltd (F) Aust Ordinary Shares,U
-QUBT,Quantum Computing Inc. Common Stock,U
+QUBT,Quantum Computing Inc. Common Stock,NASDAQ
 QUCCF,Quanta Computer Inc Sponsored Reg S GDR Repstg 5 Common (Taiwan),U
 QUCOF,Qualitas Controladora SAB CV Shares of Financial Groups and Industrial Retail (Mexico),U
 QUCPF,Quanta Computer Inc  Ordinary Shares (Taiwan),U
@@ -3950,9 +3958,7 @@ RBYC,Ruby Creek Resources Inc. (NV) Common Stock,U
 RBZHF,Reebonz Holding Limited Ordinary Shares,U
 RBZWF,Reebonz Hldg Ltd Warrant   12/19/2023,U
 RC,Ready Capital Corporation,NYSE
-RC PRB,Ready Capital Corporation 8.625% Series B Cumulative Preferred Stock,NYSE
 RC PRC,Ready Capital Corporation 6.25% Series C Cumulative Convertible Preferred Stock,NYSE
-RC PRD,Ready Capital Corporation 7.625% Series D Cumulative Redeemable Preferred Stock,NYSE
 RC PRE,Ready Capital Corporation 6.50% Series E Cumulative Redeemable Preferred Stock,NYSE
 RCA,Ready Capital Corporation 7.00% Convertible Senior Notes due 2023,NYSE
 RCAR,"RenovaCare, Inc. Common Stock",U
@@ -4202,7 +4208,7 @@ RGBP,"Regen Biopharma, Inc. Common",U
 RGBPP,"Regen Biopharma, Inc. Preferred Stock",U
 RGC,Regencell Bioscience Holdings Limited Ordinary Shares,NASDAQ
 RGCO,RGC Resources Inc. Common Stock,NASDAQ
-RGDCD,PATRIOT BATTERY METALS INC Ordinary Shares,U
+RGDCF,PATRIOT BATTERY METALS INC Ordinary Shares,U
 RGDEF,RDX Technologies Corporation Ordinary Shares (Canada),U
 RGDFF,Reunion Gold Corporation Ordinary Shares (Canada),U
 RGDXQ,"Response Genetics, Inc.",U
@@ -4469,8 +4475,8 @@ RNP,"Cohen & Steers REIT and Preferred and Income Fund, Inc.",NYSE
 RNR,RenaissanceRe Holdings Ltd.,NYSE
 RNR PRE,RENAISSANCERE HOLDINGS LTD 5.375% SER E,NYSE
 RNR PRF,"RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Se",NYSE
+RNR PRG,"RenaissanceRe Holdings Ltd. Depositary Shares, each representing a 1/1, 000th interest in a share of",NYSE
 RNRG,Global X Funds Global X Renewable Energy Producers ETF,NASDAQ
-RNRRP,RenaissanceRe Holdings Ltd Depositary Shares (Bermuda),U
 RNRTF,Reunert Ltd Ordinary Shares (South Africa),U
 RNRTY,Reunert Ltd Unsponsored ADR (South Africa),U
 RNSBF,Rimbunan Sawit Berhad Ordinary Shares (Malaysia),U
@@ -4655,9 +4661,6 @@ RSTGF,Restaurant Group Plc Ordinary Shares (UK),U
 RSTN,RDE INC Common Stock,U
 RSTRF,RESTAURANT BRANDS INTL LTD PARTNERSHIP Unit (Canada),U
 RSTTF,R Stahl AG Stuttgart Ordinary Shares (Germany),U
-RSVA,Rodgers Silicon Valley Acquisition Corp. Common Stock,NASDAQ
-RSVAU,Rodgers Silicon Valley Acquisition Corp. Unit,NASDAQ
-RSVAW,Rodgers Silicon Valley Acquisition Corp. Warrant,NASDAQ
 RSX,VanEck Vectors Russia ETF,BATS
 RSXJ,VanEck Vectors Russia Small-Cap ETF,BATS
 RSYC,"Real Security Company, Inc. (The) Common Stock",U
@@ -5044,6 +5047,7 @@ SBYSF,SIBANYE STILLWATER LTD Ordinary Shares,U
 SC,SANTANDER CONSUMER USA HOLDINGS INC,NYSE
 SCABY,Svenska Cellulosa Aktiebolaget SCA American Depositary Receipts - Unsponsored,U
 SCAL,Stem Cell Authority Ltd. Common Stock,U
+SCAN,Perspectum Group Plc American Depositary Shares,NASDAQ
 SCANF,Scandi STD AB Ordinary Shares (Sweden),U
 SCAQ,Stratim Cloud Acquisition Corp. Class A Common Stock,NASDAQ
 SCAQU,Stratim Cloud Acquisition Corp. Unit,NASDAQ
@@ -5338,7 +5342,6 @@ SEPZ,TrueShares Structured Outcome (September) ETF,BATS
 SEQIF,Sequoia Economic Infrastructure Income Fund Ltd. PTG Shs GBP,U
 SERA,"Sera Prognostics, Inc. Class A Common Stock",NASDAQ
 SERKF,Serko Ltd Ordinary Shares (New Zealand),U
-SESCF,SEASPAN CORP 7.125 Note 10/30/2027,U
 SESI,SES Solar Inc. Common Stock,U
 SESMF,Suess Microtec Ag Ordinary Shares,U
 SESN,"Sesen Bio, Inc. Common Stock",NASDAQ
@@ -5562,6 +5565,3 @@ SHG,Shinhan Financial Group Co Ltd,NYSE
 SHGDF,Star Diamond Corporation Ordinary Shares,U
 SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
-SHGR,Success Holding Group Corp. USA Common Stock,U
-SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
-SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U

@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHGR,Success Holding Group Corp. USA Common Stock,U
+SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
+SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
 SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
@@ -345,7 +348,7 @@ SLJB,"Sulja Bros. Building Supplies, Ltd. Common Stock",U
 SLLDY,Sanlam Ltd Sponsored ADR (South Africa),U
 SLLFF,Gusbourne PLC Ordinary Shares (United Kingdom),U
 SLLN,"Searchlight Solutions, Ltd. Common Stock",U
-SLLTF,Le Mare Gold Corp Ordinary Shares,U
+SLLTF,RECHARGE RES LTD Ordinary Shares,U
 SLM,SLM Corporation Common Stock,NASDAQ
 SLMAF,Sanlam Ltd Ordinary Shares,U
 SLMBP,"SLM Corporation Floating Rate Non-Cumulative Preferred Stock, Series B",NASDAQ
@@ -781,7 +784,6 @@ SORT,Gunther International Ltd. Common Stock,U
 SOS,SOS Limited,NYSE
 SOSCF,Deoleo SA Ordinary Shares,U
 SOSO,Storage Computer Corporation Common Stock,U
-SOSSF,Sonae SGPS SA Maia Reg Shares (Portugal),U
 SOST,Southern States Sign Company Common,U
 SOTDF,Stroeer SE Ordinary Shares (Germany Federal Republic),U
 SOTDY,Stroeer SE and Co KGaA Unsponsored ADR (Germany),U
@@ -1052,7 +1054,6 @@ SRCU,Spire Inc Corporate Unit Exp 03/01/2024,U
 SRCX,Stonebridge Resources Explorations Ltd New Common Stock,U
 SRDX,"Surmodics, Inc. Common Stock",NASDAQ
 SRE,Sempra,NYSE
-SRE PRB,"Sempra 6.75% Mandatory Convertible Preferred Stock, Series B",NYSE
 SREA,Sempra 5.750% Junior Subordinated Notes due 2079,NYSE
 SREDF,Storebrand (F) Ordinary Shares,U
 SREDY,Storebrand ASA Unsponsored ADR (Norway),U
@@ -1936,6 +1937,7 @@ TCPYF,Ticon Property Fund Units (Thailand),U
 TCRI,TECHCOM INC Common Stock,U
 TCRR,TCR2 Therapeutics Inc. Common Stock,NASDAQ
 TCRRF,Terrace Energy Corp. Ordinary Shares (Canada),U
+TCRX,"TScan Therapeutics, Inc. Common Stock",NASDAQ
 TCS,"THE CONTAINER STORE GROUP, INC.",NYSE
 TCTL,Premise Capital Diversified Tactical ETF,BATS
 TCTZF,Tencent Holdings Limited Ordinary Shares (Cayman Islands),U
@@ -2756,7 +2758,7 @@ TRMB,Trimble Inc. Common Stock,NASDAQ
 TRMD,TORM plc Class A Common Stock,NASDAQ
 TRMK,Trustmark Corporation Common Stock,NASDAQ
 TRMLF,Tourmaline Oil Corp. Ordinary Shares (Canada),U
-TRMND,NEW WAVE HLDGS CORP Ordinary Shares,U
+TRMNF,NEW WAVE HLDGS CORP Ordinary Shares,U
 TRMR,Tremor International Ltd. American Depository Shares,NASDAQ
 TRMT,Tremont Mortgage Trust Common Shares of Beneficial Interest,NASDAQ
 TRN,"Trinity Industries, Inc.",NYSE
@@ -2780,6 +2782,7 @@ TRPEF,TC Energy Corp Cum Redem 1st Pfd Shs Ser 3 (Canada),U
 TRPL,Pacer Metaurus US Large Cap Dividend Multiplier 300 ETF,ARCA
 TRPRY,Trustpower Ltd Ord Unsponsored ADR (New Zealand),U
 TRPS,TRIP TECHNOLOGIES INC Common Stock,U
+TRPTF,TRIBE PPTY TECHNOLOGIES INC Common Stock,U
 TRQ,Turquoise Hill Resources Ltd,NYSE
 TRRB,Tripborn Inc Common Stock,U
 TRRE,"Terra Energy Resources, Ltd. Common Stock",U
@@ -4791,7 +4794,6 @@ WPCA WS,"Warburg Pincus Capital Corporation I-A Warrants, each whole warrant exe
 WPCB,Warburg Pincus Capital Corporation I-B,NYSE
 WPCB U,"Warburg Pincus Capital Corporation I-B Units, each consisting of one Class A ordinary share, and one",NYSE
 WPCB WS,"Warburg Pincus Capital Corporation I-B Warrants, each whole warrant exercisable for one Class A ordi",NYSE
-WPCZD,Blue Star Gold Corp Ordinary Shares,U
 WPDPF,"WPD Pharmaceuticals, Inc. Common Shares",U
 WPEC,Wei Pai Electronic Commerce Company Ltd. Common Stock,U
 WPFH,"World Poker Fund Holdings, Inc. Common Stock",U
@@ -5335,7 +5337,6 @@ YSHOF,Yoshitake Inc Ordinary Shares (Japan),U
 YTAYF,Yatak Ve Yorgan Sanayi Ve Ticaret Yatas Ordinary Shares (Turkey),U
 YTEN,"Yield10 Bioscience, Inc. Common Stock",NASDAQ
 YTFD,"Yacht Finders, Inc. Common Stock",U
-YTHL,Yingtui Holdings Limited. Common Stock,U
 YTLCF,YTL Corp Berhad Ordinary Shares (Malaysia),U
 YTLPF,Ytl Power International Bhd Ordinary Shares,U
 YTOEF,YTO EXPRESS INTL HLDGS LTD Ordinary Shares,U

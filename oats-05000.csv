@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
 CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
 CPHI,"China Pharma Holdings, Inc.",AMEX
@@ -519,7 +518,7 @@ CUII,China United Insurance Service Inc Common Stock,U
 CUIRF,Currie Rose Resources Inc (F) Ordinary Shares,U
 CUK,Carnival PLC,NYSE
 CUKPF,Carnival plc Ordinary Shares (UK),U
-CULL,Cullman Bancorp Inc. Common Stock,U
+CULL,"Cullman Bancorp, Inc. Common Stock",NASDAQ
 CULP,"Culp, Inc.",NYSE
 CUOTF,Cie Automotive Sa Shs (Spain),U
 CUPUF,Caribbean Utilities Ltd Cl A Ordinary Shares,U
@@ -895,6 +894,7 @@ DCRBW,Decarbonization Plus Acquisition Corporation Warrant,NASDAQ
 DCRC,Decarbonization Plus Acquisition Corporation III Class A Common Stock,NASDAQ
 DCRCU,Decarbonization Plus Acquisition Corporation III Unit,NASDAQ
 DCRCW,Decarbonization Plus Acquisition Corporation III Warrant,NASDAQ
+DCRDU,Decarbonization Plus Acquisition Corporation IV Unit,NASDAQ
 DCRN,Decarbonization Plus Acquisition Corporation II Class A Common stock,NASDAQ
 DCRNU,Decarbonization Plus Acquisition Corporation II Unit,NASDAQ
 DCRNW,Decarbonization Plus Acquisition Corporation II Warrant,NASDAQ
@@ -2333,6 +2333,7 @@ ENFAW,"890 5th Avenue Partners, Inc. Warrant",NASDAQ
 ENFR,Alerian Energy Infrastructure ETF,ARCA
 ENG,ENGlobal Corporation Common Stock,NASDAQ
 ENGA,"Engage Mobility, Inc. Com",U
+ENGDF,Energiedienst Holding AG Laufenburg Ordinary Shares,U
 ENGFF,Energulf Resources Inc Ordinary Shares,U
 ENGGF,Enagas sa Ordinary Shares,U
 ENGGY,Enagas sa Unsponsored ADR (Spain),U
@@ -2403,6 +2404,8 @@ ENVIU,Environmental Impact Acquisition Corp. Unit,NASDAQ
 ENVIW,Environmental Impact Acquisition Corp. Warrant,NASDAQ
 ENVL,Environmental Landfills Inc Common Stock,U
 ENVS,Enova Systems Inc. Common Stock,U
+ENVX,Enovix Corporation Common Stock,NASDAQ
+ENVXW,Enovix Corporation Warrant,NASDAQ
 ENX,Eaton Vance New York Municipal Bond Fund,AMEX
 ENYNF,ENERNORTH INDUSTRIES,U
 ENZ,"Enzo Biochem, Inc.",NYSE
@@ -4702,8 +4705,8 @@ GHAC,Gaming & Hospitality Acquisition Corp. Class A Common Stock,NASDAQ
 GHACU,Gaming & Hospitality Acquisition Corp. Unit,NASDAQ
 GHACW,Gaming & Hospitality Acquisition Corp. Warrants,NASDAQ
 GHAV,"Grand Havana, Inc. Common Stock",U
+GHBWF,Glass House Brands Inc. Warrant,U
 GHC,GRAHAM HOLDINGS COMPANY,NYSE
-GHCGF,GEORGIA HEALTHCARE GROUP PLC ORD GBP0.01 (United Kingdom),U
 GHEU,"Global Healthcare & Education Management, Inc. Common Stock",U
 GHG,"GreenTree Hospitality Group Ltd. American depositary shares, each representing one Class A ordinary",NYSE
 GHGH,GuanHua Corporation Common Stock,U
@@ -4794,7 +4797,6 @@ GKSGF,Grenekeleasing Ag Baden Ordinary Shares,U
 GKTRF,GEK Terna Holding Real Estate Construction Societe Anonyme Ordinary Regulary Shares (Greece),U
 GKTXF,Genkyotex DS21 Rights (France),U
 GL,Globe Life Inc.,NYSE
-GL PRC,Globe Life Inc.,NYSE
 GL PRD,Globe Life Inc. 4.25% Junior Subordinated Debentures due 2061,NYSE
 GLAD,Gladstone Capital Corporation Common Stock,NASDAQ
 GLADL,Gladstone Capital Corporation 5.375% Notes due 2024,NASDAQ
@@ -4804,6 +4806,7 @@ GLAPY,Glanbia Plc American Depositary Shares,U
 GLAQ,Globis Acquisition Corp. common stock,NASDAQ
 GLAQU,Globis Acquisition Corp. Unit,NASDAQ
 GLAQW,Globis Acquisition Corp. Warrant,NASDAQ
+GLASF,Glass House Brands Inc. Common Shares,U
 GLATF,Global Atomic Corp Ordinary Shares,U
 GLAXF,Glaxosmithkline Plc Ord 25p Ordinary Shares,U
 GLBB,Global Quest Ltd Common Stock,U
@@ -5087,7 +5090,7 @@ GOAU,US Global GO Gold and Precious Metal Miners ETF,ARCA
 GOBI,Gobi Acquisition Corp. Class A Ordinary Shares,NASDAQ
 GOCH,"Geeks On Call Holdings, Inc. Common Stock",U
 GOCO,"GoHealth, Inc. Class A Common Stock",NASDAQ
-GOCOD,Go Metals Corp Common Shares,U
+GOCOF,Go Metals Corp Common Shares,U
 GODWF,GREEN ORGANIC DUTCHMAN HLDGS LTD WT EXP 06/12/2024 (Canada),U
 GODYF,First Tellurium Corp.  Ordinary Shares,U
 GODZF,GOLDHILLS HLDG LTD Ordinary Shares,U
@@ -5366,6 +5369,7 @@ GSEVW,"Gores Holdings VII, Inc. Warrant",NASDAQ
 GSEW,Goldman Sachs Equal Weight U.S. Large Cap Equity ETF,BATS
 GSFD,"Global Seafood Technologies, Inc. Common Stock",U
 GSFI,"Green Stream Holdings, Inc. Common Stock",U
+GSFP,Goldman Sachs Future Planet Equity ETF,ARCA
 GSG,iShares S&P  GSCI Commodity-Indexed Trust,ARCA
 GSGG,GSG Group Inc. Common Stock,U
 GSGTF,Gensight Biologics SA Ordinary Shares (France),U
@@ -5561,7 +5565,3 @@ GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
-GWPD,"GP Solutions, Inc. Common Stock",U
-GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
-GWRRF,Engold Mines Ltd Ordinary Shares,U
-GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
