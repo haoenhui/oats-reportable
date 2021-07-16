@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
+CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
 CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
 CPHI,"China Pharma Holdings, Inc.",AMEX
@@ -1619,7 +1621,6 @@ DUK PRA,"Duke Energy Corporation Depositary Shares, each representing a 1/1,000t
 DUKB,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,NYSE
 DUKH,"Duke Energy Corporation 5.125% Junior Subordinated Debentures due January 15, 2073",NYSE
 DUKMF,DUKETON MNG LTD Ordinary Shares,U
-DUNBF,Daikokutenbussan Co Ltd Kurashiki Ordinary Shares (Japan),U
 DUNE,Dune Acquisition Corporation Class A Common Stock,NASDAQ
 DUNEU,Dune Acquisition Corporation Unit,NASDAQ
 DUNEW,Dune Acquisition Corporation Warrant,NASDAQ
@@ -2031,7 +2032,9 @@ EGF,"Blackrock Enhanced Government Fund, Inc.",NYSE
 EGFEF,EUROBANK ERGASIAS SVCS AND HOLDINGS SA Ordinary Shares,U
 EGFEY,EUROBANK ERGASIAS SVCS & HLDGS SA American Depositary Receipts - Unsponsored,U
 EGFHF,EFH Holdings Inc Common Shares,U
+EGGF,EG Acquisition Corp.,NYSE
 EGGF U,"EG Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of on",NYSE
+EGGF WS,"EG Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A common stoc",NYSE
 EGHSF,Enghouse Sys Ltd Ordinary Shares,U
 EGHT,"8x8, Inc. Common Stock",NYSE
 EGIEY,Engie Brasil Energia S A American Depositary Receipts - Sponsored,U
@@ -3811,6 +3814,7 @@ FORR,"Forrester Research, Inc. Common Stock",NASDAQ
 FORTY,Formula Systems (1985) Ltd. American Depositary Shares,NASDAQ
 FORU,"ForU Holdings, Inc. Common Stock",U
 FORW,"Forwardly, Inc. Common Stock",U
+FORZ,FORZA INNOVATIONS INC Common Stock,U
 FOSHY,Fountain Set Holding Ltd American Depositary Shares,U
 FOSL,"Fossil Group, Inc. Common Stock",NASDAQ
 FOSUF,Fosun International Ltd Ordinary shares (China),U
@@ -4388,6 +4392,7 @@ GBEN,"Global Resource Energy, Inc. Common Stock",U
 GBERF,Geberit Ag Namen -AKT (Switzerland),U
 GBERY,Geberit Ag Jona Unsponsored ADR (Switzerland),U
 GBF,iShares Government/Credit Bond ETF,ARCA
+GBFBF,GRUPO BAFAR SA DE CV BAFAR SHS B Ordinary Shares,U
 GBFH,GBANK FINL HLDGS INC COM,U
 GBFL,Great Basin Financial Corp. Common Stock,U
 GBGD,Global Gold Corporation Common Stock,U
@@ -4574,7 +4579,6 @@ GEGYF,Genel Energy PLC Ordinary Shares (Jersey),U
 GEGYY,Genel Energy PLC Unsponsored ADR (Jersey),U
 GEHDF,Great Eastern Holdings Ltd Ordinary Shares Singapore(SG ),U
 GEHDY,Great Eastern Holdings Ltd Unsponsored ADR (Singapore),U
-GEIND,FORZA INNOVATIONS INC Common Stock,U
 GEL,"Genesis Energy, L.P.",NYSE
 GELGF,Chatham Rock Phosphate Ltd. Ordinary Shares,U
 GELV,"Green Energy Live, Inc. Common stock",U
@@ -4695,7 +4699,7 @@ GGSM,Gold and GemStone Mining Inc. Common Stock,U
 GGT,THE GABELLI MULTIMEDIA TRUST INC.,NYSE
 GGT PRE,The Gabelli Multimedia Trust Inc. 5.125 Percent Series E Cumulative Preferred Stock,NYSE
 GGT PRG,The Gabelli Multimedia Trust Inc. 5.125% Series G Cumulative Preferred Shares,NYSE
-GGT RTWI,"The Gabelli Multimedia Trust Inc. Rights (expiring August 25, 2021)",NYSE
+GGT RT,"The Gabelli Multimedia Trust Inc. Rights (expiring August 25, 2021)",NYSE
 GGTHF,Golden Goliath Golden Goliath Resources Ltd,U
 GGXXF,GGX Gold Corp. Ordinary Shares,U
 GGZ,The Gabelli Global Small and Mid Cap Value Trust,NYSE
@@ -4919,7 +4923,7 @@ GLUE,"Monte Rosa Therapeutics, Inc. Common Stock",NASDAQ
 GLUX,"Great Lakes Aviation, Ltd. Common Stock",U
 GLV,Clough Global Dividend and Income Fund,AMEX
 GLVHF,Glenveagh Properties Plc Common Stock (Germany Federal Republic),U
-GLVMF,Golden Valley Mines Ltd Common Shares,U
+GLVMF,GOLDEN VY MINES & ROYALTIES LTD Common Shares,U
 GLVNF,Gallant Venture Ltd Ordinary Shares (Singapore),U
 GLW,Corning Incorporated,NYSE
 GLWA,Global Water Asset Corporation Common Stock,U
@@ -5563,5 +5567,3 @@ GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
 GWON,Grandwon Corp. Common Stock,U
-GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
-GWPC,"Wholehealth Products, Inc. Common Stock",U

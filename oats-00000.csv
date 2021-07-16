@@ -1416,6 +1416,7 @@ AP,Ampco-Pittsburgh Corp.,NYSE
 AP WS,Ampco-Pittsburgh Corporation Series A Warrants to purchase Shares of common stock,AMEX
 APA,APA Corporation Common Stock,NASDAQ
 APAAF,Appia Energy Corp Ordinary Shares (Canada),U
+APACU,StoneBridge Acquisition Corporation Unit,NASDAQ
 APAJF,APA Group Stapled Security (Australia),U
 APAM,ARTISAN PARTNERS ASSET MANAGEMENT INC.,NYSE
 APCDF,A Cap Energy Ltd Ordinary Shares,U
@@ -3117,6 +3118,7 @@ BLMN,"Bloomin' Brands, Inc. Common Stock",NASDAQ
 BLMS,"Bloomios, Inc. Common Stock",U
 BLMUF,BALMUDA INC Common Stock,U
 BLNC,Balance Labs Inc  Common Stock,U
+BLND,"Blend Labs, Inc.",NYSE
 BLNGU,Belong Acquisition Corp. Units,NASDAQ
 BLNK,Blink Charging Co. Common Stock,NASDAQ
 BLNKW,Blink Charging Co. Warrant,NASDAQ
@@ -3230,6 +3232,7 @@ BMTLF,Bemetals Corp Common Shares  (Canada),U
 BMTM,"Bright Mountain Media, Inc. Common Stock",U
 BMTX,"BM Technologies, Inc.",AMEX
 BMTX WS,"BM Technologies, Inc. Warrants, each warrant exercisable for one share of Common Stock at an exercis",AMEX
+BMVVF,Bathurst Metals Corp. Common Stock (Canada),U
 BMWYY,Bayerische Motoren Werke Ag Pf American Depositary Receipts - Sponsored (Germany),U
 BMXC,BEMAX INC Common Stock,U
 BMXI,Brookmount Explorations Inc. Common Stock,U
@@ -3878,6 +3881,7 @@ BYDIY,Byd Electronic International Co Ltd Unsponsored ADR (Hong Kong),U
 BYFC,Broadway Financial Corporation Common Stock,NASDAQ
 BYHFF,Bryah Res Ltd Ordinary Shares (Australia),U
 BYIN,Baying Ecological Holding Group Inc Common Stock,U
+BYITY,Bytes Technology Group PLC American Depositary Receipts - Unsponsored,U
 BYLB,Boyle Bancorp Boyle Kentucky Common Stock,U
 BYLD,iShares Yield Optimized Bond ETF,ARCA
 BYLG,Bylog Group Corp Common Stock,U
@@ -4938,6 +4942,7 @@ CLAS WS,"Class Acceleration Corp. Redeemable Warrants, each whole warrant exerci
 CLASF,Questex Gold & Copper Ltd Common Shares,U
 CLAVF,Camellia Investments Plc Ordinary Shares,U
 CLAYF,iShares 1-5 Year Laddered Corporate Bond Index ETF (Canada),U
+CLAYU,Chavant Capital Acquisition Corp. Unit,NASDAQ
 CLB,Core Laboratories N.V.,NYSE
 CLBEY,"Calbee Inc, American Depositary Receipts - Unsponsored (Japan)",U
 CLBK,"Columbia Financial, Inc. Common Stock",NASDAQ
@@ -5358,7 +5363,6 @@ CNSMF,CAENEUS MINERALS LTD Ordinary Shares,U
 CNSNF,Constantine Metal Res Ltd Common Shares,U
 CNSP,"CNS Pharmaceuticals, Inc. Common Stock",NASDAQ
 CNSRF,Coinshares Intl Ltd. Ordinary Shares (Jersey),U
-CNST,"Constellation Pharmaceuticals, Inc. Common Stock",NASDAQ
 CNSUF,Canasil Res Inc Unclassified,U
 CNSWF,Constellation Software Inc Common Shares (Canada),U
 CNTA,Centessa Pharmaceuticals plc American Depositary Shares,NASDAQ
@@ -5563,5 +5567,3 @@ CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
 CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
 CPG,CRESCENT POINT ENERGY CORP.,NYSE
-CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
-CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U

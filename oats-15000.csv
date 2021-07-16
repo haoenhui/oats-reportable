@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
+MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
@@ -198,7 +200,6 @@ MYIDF,KILLI LTD Common Shares,U
 MYJ,"Blackrock Muni Yield New Jersey Fund, Inc.",NYSE
 MYLUY,Malayan Utd Inds Berhad Ord American Depositary Shares,U
 MYMD,"MyMD Pharmaceuticals, Inc. Common Stock",NASDAQ
-MYMMF,MYM Nutraceuticals Inc Ordinary Shares (Canada),U
 MYMRF,Myanmar Metals Ltd Ordinary Shares (Austrailia),U
 MYMX,Mymetics Corporation Common Stock,U
 MYN,"BLACKROCK MUNIYIELD NEW YORK QUALITY FUND, INC.",NYSE
@@ -1958,6 +1959,8 @@ OWCP,OWC Pharmaceutical Research Corp. Common Stock,U
 OWECF,Odawara Engineering Co Ltd Ordinary Shares (Japan),U
 OWL,Blue Owl Capital Inc.,NYSE
 OWL WS,"Blue Owl Capital Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A C",NYSE
+OWLT,"Owlet, Inc.",NYSE
+OWLT WS,"Owlet, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exe",NYSE
 OWPC,"One World Pharma, Inc.  Common Stock",U
 OWRDF,One World Lithium Inc Ordinary Shares,U
 OWUV,One World Universe Inc. Common Stock,U
@@ -2185,7 +2188,6 @@ PCCWY,PCCW Limited American Depositary Shares New,U
 PCCYF,Petrochina Company Limited Ordinary Shares,U
 PCDAF,Postmedia Network CDA Corp Common Shares,U
 PCDVF,Pacific Century Regional Developments Ltd Ordinary Shares,U
-PCECP,PROSPECT CAP CORP PERP PFD SER A Preferred Stock,U
 PCEF,Invesco CEF Income Composite ETF,ARCA
 PCELF,Powercell Sweden AB Ordinary Shares (Sweden),U
 PCF,High Income Securities Fund,NYSE
@@ -3234,6 +3236,7 @@ PSCX,Pacer Swan SOS Conservative (December) ETF,BATS
 PSDMF,Gaming Realms PLC Ordinary Shares (United Kingdom),U
 PSDNF,Poseidon Nickel Ltd Ordinary Shares (Australia),U
 PSEC,Prospect Capital Corporation Common Stock,NASDAQ
+PSECP,PROSPECT CAP CORP PERP PFD SER A Preferred Stock,U
 PSEP,Innovator S&P 500 Power Buffer ETF - September,BATS
 PSET,Principal Exchange-Traded Funds Principal Quality ETF,NASDAQ
 PSF,COHEN & STEERS SELECT PREFERRED AND INCOME FUND,NYSE
@@ -3280,7 +3283,9 @@ PSNL,"Personalis, Inc. Common Stock",NASDAQ
 PSO,Pearson plc,NYSE
 PSORF,"Pearson, Plc Ordinary Shares",U
 PSP,Invesco Global Listed Private Equity ETF,ARCA
+PSPC,Post Holdings Partnering Corporation,NYSE
 PSPC U,"Post Holdings Partnering Corporation Units, each consisting of one share of Series A common stock, a",NYSE
+PSPC WS,"Post Holdings Partnering Corporation Redeemable Warrants, each whole warrant exercisable for one sha",NYSE
 PSPSF,Psp Swiss Property Namen-Akt Shares (Switzerland),U
 PSPSY,Psp Swiss Property Unsponsored American Depositary Receipt (Switzerland),U
 PSPW,3Power Energy Group Inc. Common Stock,U
@@ -4230,7 +4235,7 @@ RGMP,Regnum Corp Common Stock,U
 RGNNF,RENERGEN LTD Ordinary Shares  South Africa(ZA ),U
 RGNTF,"RENERGEN LTD, CHESS DEPOSITARY INTERESTS  (South Africa)",U
 RGNX,REGENXBIO Inc. Common Stock,NASDAQ
-RGOZF,"Range Energy Resources, Inc. Common Shares",U
+RGOZF,EnviroGold Global Limited Common Shares,U
 RGP,"Resources Connection, Inc. Common Stock",NASDAQ
 RGPCF,RATCH GROUP PUB CO LTD Ordinary Shares  (Thailand),U
 RGPMF,Enwell Energy Plc Common Shares,U
@@ -4984,9 +4989,6 @@ SBFFF,SBM Offshore Nv Ordinary Shares (Netherlands),U
 SBFFY,SBM Offshore Nv Unsponsored ADR (Netherlands),U
 SBFG,"SB Financial Group, Inc. Common Stock",NASDAQ
 SBFM,Sunshine Biopharma Inc. Common Stock,U
-SBG,Sandbridge Acquisition Corporation,NYSE
-SBG U,"Sandbridge Acquisition Corporation Units, each consisting of one share of Class A Common Stock and o",NYSE
-SBG WS,"Sandbridge Acquisition Corporation Warrants, each whole warrant exercisable for one share of Class A",NYSE
 SBGI,"Sinclair Broadcast Group, Inc. Class A Common Stock",NASDAQ
 SBGOF,"Standard Bank Group, Ltd. Ordinary Shares (South Africa)",U
 SBGSF,Schneider Electric Sa Ordinary Shares (France),U
@@ -5134,7 +5136,6 @@ SCNFF,Scanfil OYJ Ordinary Shares (Finland),U
 SCNG,SC Holdings Corporation Common Stock,U
 SCNLF,Scancell Holdings PLC Ordinary Shares (Great Britain),U
 SCNNF,SATIVA WELLNESS GROUP INC Common Shares,U
-SCNPF,Shandong Chenming Paper Holdings Ltd SHS (China),U
 SCNTQ,"Scient, Inc. Common Stock",U
 SCO,ProShares UltraShort Bloomberg Crude Oil,ARCA
 SCOA,ScION Tech Growth I Class A Ordinary Shares,NASDAQ
@@ -5565,3 +5566,4 @@ SHG,Shinhan Financial Group Co Ltd,NYSE
 SHGDF,Star Diamond Corporation Ordinary Shares,U
 SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
+SHGR,Success Holding Group Corp. USA Common Stock,U

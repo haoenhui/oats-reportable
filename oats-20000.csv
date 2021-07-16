@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
@@ -1199,7 +1198,7 @@ SSNLF,Samsung Elec Co Ltd N-Vtg Ordinary Shares,U
 SSNT,"SilverSun Technologies, Inc. Common Stock",NASDAQ
 SSO,ProShares Ultra S&P500,ARCA
 SSOF,"Sixty Six Oilfield Services, Inc. Common Stock",U
-SSOK,Sunstock Inc  Common Stock,U
+SSOKD,Sunstock Inc  Common Stock,U
 SSP,E.W. Scripps Company (The) Class A Common Stock,NASDAQ
 SSPCF,SiriusPoint Ltd. Contingent Value Rights (Bermuda),U
 SSPFF,SiriusPoint Ltd. Warrant Exp 02/26/2026 (Bermuda),U
@@ -1284,6 +1283,7 @@ STEM WS,"Stem, Inc. Warrants, each whole warrant exercisable for one share of Co
 STEP,StepStone Group Inc. Class A Common Stock,NASDAQ
 STEV,Stevia Corp. Common Stock,U
 STFC,State Auto Financial Corporation Common Stock,NASDAQ
+STFLV,Stifel Financial Corp DEP SHS REPSTG 1/1000TH INT PFD SER D,U
 STFR,STEADFAST APT REIT INC Common Stock,U
 STFYF,Standard Foods Taiwan Ltd Reg S GDR,U
 STG,"Sunlands Technology Group, American Depositary Shares,  each 25 representing one Class A Ordinary Sh",NYSE
@@ -1407,6 +1407,7 @@ STUUF,Streettracks S&P/ASX 200 Listed Property Fund Units,U
 STVA,Stevva Corp. Common Stock,U
 STVGF,STEVENS GOLD NEV INC Common Shares,U
 STVMF,STAVELY MINERALS LTD Ordinary Shares (Australia),U
+STVN,Stevanato Group S.p.A.,NYSE
 STWC,"STWC Holdings, Inc. Common Stock",U
 STWD,"STARWOOD PROPERTY TRUST, INC.",NYSE
 STWO,ACON S2 Acquisition Corp. Class A Ordinary Shares,NASDAQ
@@ -3906,7 +3907,6 @@ VHC,VirnetX Holding Corporation,NYSE
 VHI,"Valhi, Inc.",NYSE
 VHIBF,VITALHUB CORP COM NO PAR (Canada),U
 VHLD,VECTOR 21 HLDGS INC Common Stock,U
-VHLGF,Valuetronics Holdings Ltd Ordinary shares (Bermuda),U
 VHT,Vanguard Health Care ETF,ARCA
 VHUB,Vapor Hub International Inc. Common Stock,U
 VIAAY,Vienna International Airport Sponsored ADR (Austria),U
@@ -4477,7 +4477,7 @@ WCIG,Wee-Cig International Corporation Common Stock,U
 WCLD,WisdomTree Trust WisdomTree Cloud Computing Fund,NASDAQ
 WCN,"Waste Connections, Inc.",NYSE
 WCRS,"Western Capital Resources, Inc. Common Stock",U
-WCUFD,WORLD COPPER LTD Common Shares,U
+WCUFF,WORLD COPPER LTD Common Shares,U
 WCUI,Wellness Center USA Inc Common Stock,U
 WCVC,West Coast Ventures Group Corp. Common Stock,U
 WCYN,West Canyon Energy Corp. Common Stock,U
@@ -4487,7 +4487,7 @@ WDBG,"Woodbrook Group Holdings, Inc. Common Stock",U
 WDC,Western Digital Corporation Common Stock,NASDAQ
 WDCTF,Wildcat Resources Ltd. Ordinary Shares (Australia),U
 WDDD,Worlds Inc. Common Stock,U
-WDDMF,Weedmd Inc Ordinary Shares (Canada),U
+WDDMF,ENTOURAGE HEALTH CORP Ordinary Shares,U
 WDFC,WD-40 Company Common Stock,NASDAQ
 WDFCF,K9 Gold Corp Ordinary Shares,U
 WDFN,Woodlands Financial Services Company (PA) Common Stock,U
@@ -5430,6 +5430,7 @@ ZHAOY,Zhaojin Mining Industry Co LTD Unsponsored ADR (China),U
 ZHCLF,Zenith Cap Corp Common Stock (Canada),U
 ZHDG,Zega Buy & Hedge ETF,ARCA
 ZHDM,Zhong Hui Dao Ming Copper Holding Ltd. Common shares,U
+ZHEC,ZHRH Corporation Common Stock,U
 ZHEIF,ZHOU HEI YA INTL HLDGS CO LTD Shs (Cayman Islands),U
 ZHEXF,Zhejiang Southeast Electric Power-B Ordinary Shares,U
 ZHHHF,Zhuhai Holdings Investment Group Ltd. Ordinary Shares (Bermuda),U
