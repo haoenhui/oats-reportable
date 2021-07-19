@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
 SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
@@ -25,7 +24,7 @@ SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
 SHLX,"Shell Midstream Partners, L.P.",NYSE
 SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
 SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
-SHMCF,Renewi PLC Ordinary Shares,U
+SHMCD,Renewi PLC Ordinary Shares,U
 SHMDF,Shimano Inds Ordinary Shares,U
 SHMMF,SAHAMIT MACHINERY PCL PUB CO LTD UNITS NON -VOTING DEPOSITORY RECEIPTS (Thailand),U
 SHMN,"SOHM, Inc. Common Stock",U
@@ -891,6 +890,7 @@ SPLK,Splunk Inc. Common Stock,NASDAQ
 SPLM,Sentry Petroleum Ltd. Common Stock,U
 SPLP,STEEL PARTNERS HOLDINGS L.P.,NYSE
 SPLP PRA,"Steel Partners Holdings L.P. 6.0% Series A Preferred Units, no par value",NYSE
+SPLTF,SPOTLITE360 TECHNOLOGIES INC COM (Canada),U
 SPLV,Invesco S&P 500 Low Volatility ETF,ARCA
 SPLY,"SocialPlay USA, Inc. Common Stock",U
 SPMB,SPDR Portfolio Mortgage Backed Bond ETF,ARCA
@@ -1887,6 +1887,7 @@ TCACW,Tuatara Capital Acquisition Corporation Warrant,NASDAQ
 TCAI,"AIMTC, INC. Common Stock",U
 TCANF,TC Energy Corp Preferred Stock,U
 TCAPF,TP ICAP GROUP PLC Ordinary Shares (Jersey),U
+TCBC,"TC Bancshares, Inc. Common Stock",NASDAQ
 TCBI,"Texas Capital Bancshares, Inc. Common Stock",NASDAQ
 TCBIO,"Texas Capital Bancshares, Inc. Depositary Shares 5.75% Fixed Rate Non-Cumulative Perpetual Preferred Stock Series B",NASDAQ
 TCBK,TriCo Bancshares Common Stock,NASDAQ
@@ -2402,7 +2403,7 @@ TLMDW,"SOC Telemed, Inc. Warrants",NASDAQ
 TLND,Talend S.A. American Depositary Shares,NASDAQ
 TLOFF,Talon Metal Corp Ordinary Shares (British Virgin Islands) CAD,U
 TLOG,TETRALOGIC PHARMACEUTICALS CORP Common Stock,U
-TLOOF,TRACKER VENTURES CORP Common Shares,U
+TLOOF,Contakt World Technologies Corp. Common Shares,U
 TLPC,Telpac Industries Inc New Common Stock,U
 TLPFF,Teleperformance Ordinary Shares (France),U
 TLPFY,Teleperformance Unsponsored ADR (France),U
@@ -2806,6 +2807,7 @@ TRSWF,Transalta Renewables Inc Common Shares (Canada),U
 TRT,Trio-Tech International,AMEX
 TRTI,"Transtech Industries, Inc. Common Stock",U
 TRTK,TORtec Group Corporation Common Stock,U
+TRTL U,"TortoiseEcofin Acquisition Corp. III Units each consisting of one Class A Ordinary Share, and one-fo",NYSE
 TRTN,Triton International Limited,NYSE
 TRTN PRA,Triton International Limited 8.50% Series A Cumulative Redeemable Perpetual Preference Shares,NYSE
 TRTN PRB,Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares,NYSE
@@ -4617,6 +4619,7 @@ WHLRD,"Wheeler Real Estate Investment Trust, Inc. Series D Cumulative Preferred 
 WHLRP,"Wheeler Real Estate Investment Trust, Inc. Class B Preferred Stock",NASDAQ
 WHLT,Chase Packaging Corp 5pfd A Common Stock,U
 WHLX,WLMG Holding Inc Common Stock,U
+WHNWF,WESTHAVEN GOLD CORP WT EXP 03/03/2023 (Canada),U
 WHR,Whirlpool Corp.,NYSE
 WHSI,"Wearable Health Solutions, Inc Common Stock",U
 WHSPF,WHISPIR LTD ORDINARY FULLY PAID (Australia),U
@@ -4766,7 +4769,6 @@ WOAM,"World Am, Inc. Common Stock",U
 WOBK,WOODSBORO BK MD Common Stock,U
 WODI,WOD Retail Solutions Inc. Common Stock,U
 WOFA,"Wisdom Homes of America, Inc. Common Stock",U
-WOGI,"World Oil Group, Inc Common Stock",U
 WOIIF,ABILENE OIL & GAS LTD Ordinary Shares,U
 WOLTF,Wolters Kluwer NV Ordinary shares (Netherlands),U
 WOLV,Wolverine Technologies Corp. Common Stock,U

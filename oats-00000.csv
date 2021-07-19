@@ -31,6 +31,7 @@ AAIC PRB,Arlington Asset Investment Corp. 7.00% Series B Cumulative Perpetual Re
 AAIC PRC,Arlington Asset Investment Corp. 8.250% Series C Fixed-to-Floating Rate Cumulative Redeemable Prefer,NYSE
 AAIGF,"AIA Group, Ltd. Ordinary Shares (Hong Kong)",U
 AAIIQ,"Alabama Aircraft Industries, Inc. Common Stock",U
+AAIN,Arlington Asset Investment Corp. 6.000% Senior Notes Due 2026,NYSE
 AAIRF,American Aires Inc. Common Shares  Canada(CA ),U
 AAL,American Airlines Group Inc. Common Stock,NASDAQ
 AALBF,Aalberts Industries NV Ordinary Shares (Netherlands),U
@@ -1624,6 +1625,7 @@ ARHTF,"Arht Media, Inc. Ordinary Shares",U
 ARHUF,AAK AB Ordinary Shares,U
 ARHVF,Archer Ltd. Ordinary Shares (Bermuda),U
 ARI,"APOLLO COMMERCIAL REAL ESTATE FINANCE, INC.",NYSE
+ARIFF,Arion BankI HF Swedish Depositary Receipts (Sweden),U
 ARINA,Arista Investors Corp. Class A Common Stock,U
 ARIZF,Affinity Metals Corp.  Common Shares,U
 ARKAF,Arkema Ordinary Shares (France),U
@@ -1706,7 +1708,6 @@ ARTZF,Artnet AG Ordinary Shares (Germany),U
 ARUXF,Acrux Ltd Ordinary Shares (Australia),U
 ARVCF,Areva-Societe Des Participations Du Commissariat A Lenerg Ordinary Shares (France),U
 ARVL,Arrival Ordinary Shares,NASDAQ
-ARVLW,Arrival Warrant,NASDAQ
 ARVN,"Arvinas, Inc. Common Stock",NASDAQ
 ARVY,Alliance Recovery Corporation Common Stock,U
 ARW,"Arrow Electronics, Inc.",NYSE
@@ -3069,7 +3070,7 @@ BLDE,"Blade Air Mobility, Inc. Class A Common Stock",NASDAQ
 BLDEW,"Blade Air Mobility, Inc. Warrants",NASDAQ
 BLDG,Cambria Global Real Estate ETF,BATS
 BLDP,"Ballard Power Systems, Inc. Common Shares",NASDAQ
-BLDR,"Builders FirstSource, Inc. Common Stock",NASDAQ
+BLDR,"Builders FirstSource, Inc.",NYSE
 BLDV,"Blue Diamond Ventures, Inc. Common Stock",U
 BLE,BlackRock Municipal Income Trust II,NYSE
 BLEG,BRANDED LEGACY INC Common Stock,U
@@ -3274,6 +3275,7 @@ BNKL,Bionik Laboratories Corp. Common Stock,U
 BNKSF,ISHARES V PLC S&P US BANKS UCITS ETFUSD ACC (Ireland),U
 BNKU,MicroSectorsTM U.S. Big Banks Index 3X Leveraged ETNs,ARCA
 BNL,"Broadstone Net Lease, Inc.",NYSE
+BNLIF,BANK PERMATA TBK PT Rights Exp 07/21/2021 (Indonesia),U
 BNMDF,Banca Mediolanum SPA Azioni Ordinarie Senza Valore Ordinary Shares (Italy),U
 BNNCY,Banco BPM SPA American Depositary Receipts - Unsponsored (Italy),U
 BNNHF,Benjamin Hill Mining Corp. Common Shares,U
@@ -4083,7 +4085,7 @@ CAVVF,CAVU Mining Corp Ordinary Shares (Canada),U
 CAWLF,CWC Energy Services Corp. Common Shares (Canada),U
 CAWRF,CARAWINE RES LTD Ordinary Shares,U
 CAWW,"CCA Industries, Inc. Common Stock",U
-CAXPF,District Copper Corp Common Shares,U
+CAXPD,District Copper Corp Common Shares,U
 CAZGF,Catapult Group International Ltd Ordinary Shares (Australia),U
 CB,Chubb Limited,NYSE
 CBAF,CITBA Financial Corporation Common Stock,U
@@ -4413,6 +4415,8 @@ CELJF,CELLCOM ISRAEL LTD Ordinary Shares,U
 CELMF,CELLMID LTD Ordinary Shares   Australia (AU),U
 CELP,"Cypress Environmental Partners, L.P.",NYSE
 CELTF,Centamin PLC Ordinary Shares (Jersey),U
+CELU,Celularity Inc. Class A Common Stock,NASDAQ
+CELUW,Celularity Inc. Warrant,NASDAQ
 CELX,Celexpress Inc Common Stock,U
 CELZ,"Creative Medical Technology Holdings, Inc. Common Stock",U
 CEM,ClearBridge MLP and Midstream Fund Inc.,NYSE
@@ -5565,5 +5569,3 @@ CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
-CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
-CPG,CRESCENT POINT ENERGY CORP.,NYSE

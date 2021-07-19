@@ -19,9 +19,6 @@ GWYT,Greenway Technology Common Stock,U
 GXC,SPDR S&P China ETF,ARCA
 GXF,Global X FTSE Nordic Region ETF,ARCA
 GXG,Global X MSCI Colombia ETF,ARCA
-GXGX,GX Acquisiton Corp. Class A Common Stock,NASDAQ
-GXGXU,GX Acquisiton Corp. Unit,NASDAQ
-GXGXW,GX Acquisiton Corp. Warrant,NASDAQ
 GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
 GXIIU,GX Acquisition Corp. II Unit,NASDAQ
 GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
@@ -510,10 +507,12 @@ HLLGY,Hella Gmbh & Co Kgaa American Depositary Receipts - Unsponsored,U
 HLLK,"Hallmark Venture Group, Inc. Common Stock",U
 HLLPF,Hello Pal Intl Inc Ordinary Shares (Canada),U
 HLLXF,Hellix Ventures Inc Ordinary Shares,U
+HLLY,Holley Inc.,NYSE
+HLLY WS,"Holley Inc. Redeemable Warrants, each whole warrant exercisable for one share of Common Stock at an",NYSE
 HLM PR,Hillman Group Capital Trust 11.6%,AMEX
 HLMAF,Halma Plc Ordinary Shares,U
 HLMB,"Swiftsure International, Inc. Common Stock",U
-HLMN,Hillman Solutions Corp. Class A Common Stock,NASDAQ
+HLMN,Hillman Solutions Corp. Common Stock,NASDAQ
 HLMNW,Hillman Solutions Corp. Warrant,NASDAQ
 HLMNY,Holmen AB Unsponsored ADR representing Shs A (Sweden),U
 HLNE,Hamilton Lane Incorporated Class A Common Stock,NASDAQ
@@ -1038,6 +1037,8 @@ HYWS,Hollywood Studios International Common Stock,U
 HYXF,iShares Trust iShares ESG Advanced High Yield Corporate Bond ETF,NASDAQ
 HYXU,iShares Global ex USD High Yield Corporate Bond ETF,BATS
 HYZD,WisdomTree Trust WisdomTree Interest Rate Hedged High Yield Bond Fund,NASDAQ
+HYZN,Hyzon Motors Inc. Class A Common Stock,NASDAQ
+HYZNW,Hyzon Motors Inc. Warrants,NASDAQ
 HZAC,Horizon Acquisition Corporation,NYSE
 HZAC U,"Horizon Acquisition Corporation Units, each consisting of one Class A ordinary share and one-third o",NYSE
 HZAC WS,"Horizon Acquisition Corporation Warrants, each whole warrant exercisable for one Class A ordinary sh",NYSE
@@ -1761,7 +1762,7 @@ INNX,Infinite Networks Corporation Common Stock,U
 INO,"Inovio Pharmaceuticals, Inc. Common Stock",NASDAQ
 INOD,Innodata Inc. Common Stock,NASDAQ
 INOH,"In Ovations Holdings, Inc. Common Stock (CO)",U
-INOQ,"InnovaQor, Inc. Common Stock",U
+INOQ,"TPT Strategic, Inc. Common Stock",U
 INOTF,Predictiv AI Inc. Ordinary Shares,U
 INOV,"Inovalon Holdings, Inc. Class A Common Stock",NASDAQ
 INOW,InfoNow Corporation Common Stock,U
@@ -2398,7 +2399,7 @@ IYK,iShares U.S. Consumer Goods ETF,ARCA
 IYLD,iShares Morningstar Multi-Asset Income ETF,BATS
 IYM,iShares U.S. Basic Materials ETF,ARCA
 IYR,iShares U.S. Real Estate ETF,ARCA
-IYT,iShares Transportation Average ETF,BATS
+IYT,iShares U.S. Transportation ETF,BATS
 IYW,iShares U.S. Technology ETF,ARCA
 IYXI,"Inyx, Inc. Common Stock",U
 IYY,iShares Dow Jones U.S. ETF,ARCA
@@ -3133,6 +3134,7 @@ KLRGF,Keller Group Plc Ord 10 Par Ordinary Shares,U
 KLSVF,Klondike Silver Corp Common Shares (Canada),U
 KLTHF,Koolearn Technology Hldg Ltd Common Shares (Cayman Islands),U
 KLTI,"KlausTech, Inc. Common Stock",U
+KLTR,"Kaltura, Inc. Common Stock",NASDAQ
 KLXE,"KLX Energy Services Holdings, Inc. Common Stock",NASDAQ
 KLYCY,Kunlun Energy Co. Ltd Unsponsored ADR (Hong Kong),U
 KLYG,"Kelyniam Global, Inc. Common Stock",U
@@ -4298,6 +4300,7 @@ LZ,"LegalZoom.com, Inc. Common Stock",NASDAQ
 LZAGF,Lonza Group Ag Zuerich Namen AKT (Switzerland(,U
 LZAGY,Lonza Group Ag Zuerich Unsponsored ADR (Switzerland),U
 LZB,La-Z-Boy Incorporated,NYSE
+LZDLF,LUZ DEL SUR SA SHS -COMUN - (Peru),U
 LZENF,Lizhan Environmental Corporation Ordinary Shares,U
 LZGI,LZG International Inc Common Stock,U
 LZNN,Lazuriton Nano Biotechnology USA Inc Common Stock,U
@@ -4506,6 +4509,7 @@ MCBS,"MetroCity Bankshares, Inc. Common Stock",NASDAQ
 MCCHF,Mcchip Resources Inc Ordinary Shares,U
 MCCK,Mestek Inc Common Stock NEW,U
 MCCLF,Macromill Inc Ordinary Shares (Japan),U
+MCCNF,Medocolcanna Organics Inc Common Shares (Canada),U
 MCCRF,"McCoy Global, Inc. Ordinary Shares (Canada)",U
 MCCX,MCX Technologies Corporation Common Stock,U
 MCD,McDonald's Corporation,NYSE
@@ -4638,9 +4642,9 @@ MDKLF,MEDIKALOKA HERMINA TBK PT Ordinary Shares,U
 MDKM,Mdechem Inc New Common Stock,U
 MDLA,"Medallia, Inc.",NYSE
 MDLH,"Medical International Technology, Inc. Common Stock",U
+MDLM,MEDLEY MGMT INC Common Stock,U
 MDLQQ,MEDLEY LLC Other,U
 MDLXQ,MEDLEY LLC Other,U
-MDLYQ,MEDLEY MGMT INC Common Stock,U
 MDLZ,"Mondelez International, Inc. Class A Common Stock",NASDAQ
 MDMN,MEDINAH MINERALS INC Common Stock,U
 MDMP,"MDM Permian, Inc. Common Stock",U
@@ -4865,7 +4869,6 @@ MGXMF,MGX Minerals Inc Ordinary Shares (Canada),U
 MGY,Magnolia Oil & Gas Corporation Class A Common Stock,NYSE
 MGYOY,Mol Magyar Olay Es Gazipari Rt Sponsored ADR representing Ord Shs Series A (Hungary),U
 MGYR,"Magyar Bancorp, Inc. Common Stock",NASDAQ
-MGYTF,Magyar Telekom PLC Ordinary Shares (Hungary),U
 MH PRA,"MAIDEN HOLDINGS, LTD. 8.25% Non-Cumulative Preference Shares, Series A",NYSE
 MH PRC,"Maiden Holdings North America, Ltd. 7.125% Non-Cumulative Preference Shares, Series C",NYSE
 MH PRD,"Maiden Holdings North America, Ltd. 6.700% Non-Cumulative Preference Shares, Series D",NYSE
@@ -5284,6 +5287,7 @@ MONCW,Monument Circle Acquisition Corp. Warrant,NASDAQ
 MONDF,Mondi Plc Ordinary shares (United Kingdom),U
 MONDY,Mondi Plc Unsponsored ADR (UK),U
 MONGF,Montego Resources Inc Common Stock,U
+MONI,MOON EQUITY HLDGS CORP Common Stock,U
 MONOF,"Monotaro Co. Ltd., Osaka Ordinary Shares (Japan)",U
 MONOY,"Monotaro Co. Ltd., Osaka Unsponsored ADR (Japan)",U
 MONRF,Moncler S.P.A. AOR SVN - Ordinary Shares (Italy),U
@@ -5565,5 +5569,3 @@ MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
-MTD,Mettler-Toledo International,NYSE
-MTDR,MATADOR RESOURCES COMPANY,NYSE

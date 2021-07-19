@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
+CPG,CRESCENT POINT ENERGY CORP.,NYSE
 CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
@@ -890,9 +892,6 @@ DCP,"DCP Midstream, LP",NYSE
 DCP PRB,"DCP Midstream, LP 7.875% Series B Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred U",NYSE
 DCP PRC,"DCP Midstream, LP 7.95% Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Un",NYSE
 DCPH,"Deciphera Pharmaceuticals, Inc. Common Stock",NASDAQ
-DCRB,Decarbonization Plus Acquisition Corporation Class A Common Stock,NASDAQ
-DCRBU,Decarbonization Plus Acquisition Corporation Unit,NASDAQ
-DCRBW,Decarbonization Plus Acquisition Corporation Warrant,NASDAQ
 DCRC,Decarbonization Plus Acquisition Corporation III Class A Common Stock,NASDAQ
 DCRCU,Decarbonization Plus Acquisition Corporation III Unit,NASDAQ
 DCRCW,Decarbonization Plus Acquisition Corporation III Warrant,NASDAQ
@@ -1119,6 +1118,7 @@ DIA,SPDR Dow Jones Industrial Average ETF Trust,ARCA
 DIAAF,Diamant Art Corporation Ordinary Shares (Canada),U
 DIAL,Columbia Diversified Fixed Income Allocation ETF,ARCA
 DIALF,Dialight Plc Ordinary shares (United Kingdom),U
+DIARF,DISTRIBUIDORA INTERNACIONAL DE ALIMENTACION RIGHTS EXP 07/27/2021,U
 DIAX,NUVEEN DOW 30SM DYNAMIC OVERWRITE FUND,NYSE
 DIBS,"1stdibs.com, Inc. Common Stock",NASDAQ
 DIBUY,Daibiru Corporation Ord American Depositary Shares,U
@@ -1253,6 +1253,7 @@ DLTR,Dollar Tree Inc. Common Stock,NASDAQ
 DLTTF,Dalata Hotel Group PLC Ordinary Shares (Ireland),U
 DLTXF,DLT ASA Ordinary Shares (Norway),U
 DLUEY,De La Rue Plc American Depositary Receipts - Unsponsored,U
+DLVEY,DELIVEROO PLC American Depositary Receipts - Unsponsored (United Kingdom),U
 DLVHF,Delivery Hero AG NA Ordinary Shares (Germany),U
 DLX,Deluxe Corporation,NYSE
 DLY,DoubleLine Yield Opportunities Fund,NYSE
@@ -1439,7 +1440,6 @@ DQJCY,Pan Pac Intl Hldgs Corp American Depositary Receipts - Unsponsored,U
 DQWS,Dswiss Inc Common Stock,U
 DRAYU,Macondray Capital Acquisition Corp. I Unit,NASDAQ
 DRCAF,D Rotshtein Construction & Assets Co Ltd Common Stock (Israel),U
-DRCHF,Direcional Engenharia Sa Ordinary Shares (Brazil),U
 DRCMF,DORE COPPER MNG CORP Common Shares Canada(CA ),U
 DRCR,Dear Cashmere Holding Company Common Stock,U
 DRD,DRDGOLD Ltd.,NYSE
@@ -1538,7 +1538,6 @@ DSPC,The De-SPAC ETF,ARCA
 DSPG,"DSP Group, Inc. Common Stock",NASDAQ
 DSRLF,Diasorin S.R.L. Shares (Italy),U
 DSS,"Document Security Systems, Inc.",AMEX
-DSSI,Diamond S Shipping Inc. Common Shares,NYSE
 DSSMY,DS Smith plc Unpsonsored ADR (United Kingdom),U
 DSSPF,"Deep Sea Supply Plc, Cyprus Reg Shares (Finland)",U
 DSTFF,Distinct Infrastructure Group Inc Ordinary Shares (Canada),U
@@ -1910,6 +1909,7 @@ EDIT,"Editas Medicine, Inc. Common Stock",NASDAQ
 EDIV,SPDR S&P Emerging Markets Dividend ETF,ARCA
 EDMCQ,Education Management Corporation Common Stock,U
 EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor),NYSE
+EDNEF,EDEN EMPIRE INC COM (Canada),U
 EDNMF,"Edenred, Malakoff Ordinary Shares (France)",U
 EDNMY,Edenred S A Unsponsored ADR (France),U
 EDOC,Global X Funds Global X Telemedicine & Digital Health ETF,NASDAQ
@@ -1935,6 +1935,7 @@ EDUC,Educational Development Corporation Common Stock,NASDAQ
 EDULF,EDULAB INC Common Stock,U
 EDUT,Global X Funds Global X Education ETF,NASDAQ
 EDV,Vanguard World Funds Extended Duration ETF,ARCA
+EDVGF,ENDEAVOUR GROUP LTD ORDINARY FULLY PAID (Australia),U
 EDVMF,ENDEAVOUR MNG PLC Ordinary Shares,U
 EDVR,Endeavor Bk Common Stock,U
 EDWZF,Edgewater Exploration Ltd. Common Shares,U
@@ -2276,9 +2277,6 @@ EMPM,"Empire Post Media, Inc. Common",U
 EMPO,"Empowered Products, Inc. Common",U
 EMPR,Empire Petroleum Corporation.  Common Stock,U
 EMPS,EMP Solutions Inc. Common Stock,U
-EMPW,Empower Ltd.,NYSE
-EMPW U,"Empower Ltd. Units, each consisting of one Class A ordinary share and one-third of one redeemable wa",NYSE
-EMPW WS,"Empower Ltd. Redeemable Warrants, each whole warrant exercisable for one Class A ordinary share at a",NYSE
 EMPYF,EMPRESS RTY CORP COM (Canada),U
 EMQQ,EMQQ The Emerging Markets Internet & Ecommerce ETF,ARCA
 EMQU,EM Quantum Technologies Inc. Common Stock,U
@@ -2689,6 +2687,7 @@ ESXB,Community Bankers Trust Corporation Common Stock (VA),NASDAQ
 ESXMF,ESSEX MINERALS INC COM NEW (Canada),U
 ESYJY,easyJet PLC Sponsored ADR (United Kingdom),U
 ESYL,Easylink Solutions Corp. Common Stock,U
+ESYSF,Essensys PLC Ordinary Shares (United Kingdom),U
 ESYYF,EASY SOFTWARE Ordinary Shares,U
 ET,Energy Transfer LP Common Units representing limited partner interests,NYSE
 ET PRC,Energy Transfer LP 7.375% Series C Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred,NYSE
@@ -2826,6 +2825,9 @@ EVLI,Everlert Inc Common Stock,U
 EVLLF,Enviroleach Tech Inc Ordinary Shares (Canada),U
 EVLMC,Eaton Vance NextShares Trust II Eaton Vance TABS 5-to-15 Year Laddered Municipal Bond NextShares,NASDAQ
 EVLO,"Evelo Biosciences, Inc. Common Stock",NASDAQ
+EVLV,"Evolv Technologies Holdings, Inc. Class A Common Stock",NASDAQ
+EVLVU,"Evolv Technologies Holdings, Inc. Unit",NASDAQ
+EVLVW,"Evolv Technologies Holdings, Inc. Warrant",NASDAQ
 EVM,Eaton Vance California Municipal Bond Fund,AMEX
 EVMGF,EVERYSPORT MEDIA GROUP AB Ordinary Shares,U
 EVMNY,Evolution Mng Ltd American Depositary Receipts - Unsponsored (Australia),U
@@ -3208,7 +3210,7 @@ FDLO,Fidelity Low Volatility Factor ETF,ARCA
 FDLPF,FONDUL PROPRIETATEA S A SPONSORED GDR REG S Global Depositary Receipts,U
 FDM,First Trust Dow Jones Select MicroCap Index Fund,ARCA
 FDMDF,4DMEDICAL LTD Ordinary Shares (Australia),U
-FDMF,"Freedom Energy Holdings, Inc. Common Stock",U
+FDMFD,FREEDOM HLDG INC Common Stock,U
 FDMO,Fidelity Momentum Factor ETF,ARCA
 FDMQQ,Freedom Oil & Gas Ltd. Ordinary Shares,U
 FDMSF,Fandom Sports Media Corp. Ordinary Shares,U
@@ -3315,7 +3317,7 @@ FFNW,"First Financial Northwest, Inc. Common Stock",NASDAQ
 FFOXF,Firefox Gold Corp Ordinary Shares (Canada),U
 FFPM,"FFP Marketing Company, Inc. Common Stock",U
 FFR,First Trust FTSE EPRA/NAREIT Global Real Estate Index Fund,ARCA
-FFRIF,FAST FORWARD INNOVATIONS LTD SHS (Guernsey),U
+FFRIF,SEED INNOVATIONS LTD Ordinary Shares,U
 FFRMF,Future Farm Technologies Inc Ordinary Shares,U
 FFSG,FormulaFolios Smart Growth ETF,BATS
 FFTG,FormulaFolios Tactical Growth ETF,BATS
@@ -3888,7 +3890,7 @@ FRAZ,Francisco Industries Inc Unclassified,U
 FRBA,First Bank Common Stock,NASDAQ
 FRBK,"Republic First Bancorp, Inc. Common Stock",NASDAQ
 FRBMF,FIREBIRD METALS LTD Ordinary Shares,U
-FRBSV,FIRST REP BK SAN FRANCISCO CALIF NEW DEP SHS REPSTG 1/40TH PERP PFD SER M,U
+FRBSP,FIRST REP BK SAN FRANCISCO CALIF NEW DEP SHS REPSTG 1/40TH PERP PFD SER M,U
 FRC,First Republic Bank,NYSE
 FRC PRH,First Republic Bank,NYSE
 FRC PRI,"First Republic Bank  Depositary Shares, each representing a 1/40th interest in a share of 5.50% Nonc",NYSE

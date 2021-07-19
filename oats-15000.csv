@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTD,Mettler-Toledo International,NYSE
+MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
@@ -583,9 +585,6 @@ NHHEF,NH Hotel Group SA Ordinary Shares,U
 NHHHF,FUELPOSITIVE CORP Common Shares,U
 NHHS,NORTHSTAR HEALTHCARE INCOME INC Common Stock,U
 NHI,National Health Investors,NYSE
-NHIC,NewHold Investment Corp. Class A Common Stock,NASDAQ
-NHICU,NewHold Investment Corp. Unit,NASDAQ
-NHICW,NewHold Investment Corp. Warrant,NASDAQ
 NHKFF,NICHIIKO PHARMACEUTICAL CO LTD Ordinary Shares Japan(JP ),U
 NHKGF,NHK Spriing Co Ltd Ordinary shares (Japan),U
 NHLE,Nhale Inc. Common Share,U
@@ -1896,7 +1895,9 @@ OSW,OneSpaWorld Holdings Limited Common Shares,NASDAQ
 OSWWF,OneSpaWorld Holdings Ltd Warrants Expiring 03/19/2024 (Bahamas),U
 OTCKU,Otter Creek Ethanol LLC Cap Unit Class A,U
 OTCM,OTC Markets Group Inc. Common Stock Class A,U
+OTEC,OceanTech Acquisitions I Corp. Class A Common Stock,NASDAQ
 OTECU,OceanTech Acquisitions I Corp. Units,NASDAQ
+OTECW,OceanTech Acquisitions I Corp. Warrant,NASDAQ
 OTED,"Oak Tree Educational Partners, Inc. Common Stock",U
 OTEX,Open Text Corporation Common Shares,NASDAQ
 OTFT,Outfront Companies Common Stock,U
@@ -2801,6 +2802,7 @@ PMGMW,Priveterra Acquisition Corp. Warrant,NASDAQ
 PMGYF,Perpetual Energy Inc. Common Shares,U
 PMHG,Prime Meridian Holding Co Common Shares,U
 PMIR,"PMI Group, Inc. (The) Com New",U
+PMKRF,PLAYMAKER CAP INC NEW COM (Canada),U
 PMKY,Pinkmonkey . Com Inc Common Stock,U
 PML,PIMCO MUNICIPAL INCOME FUND II COMMON SHARES OF BENEFICIAL INT.,NYSE
 PMM,Putnam Managed Municipal Income,NYSE
@@ -2903,7 +2905,6 @@ PNYTF,Poynt Corp. Ordinary Shares (Canada),U
 POAHF,Porsche Automobil Holding SE Stuttgart Pref No VTG RTS,U
 POAHY,Porsche Automobile Holding SE Unsponsored ADR (Germany),U
 POAI,Predictive Oncology Inc. Common Stock,NASDAQ
-POCEF,Photon Control Inc Common Shares (Canada),U
 POCT,Innovator S&P 500 Power Buffer ETF - October,BATS
 PODAF,PODA Lifestyle and Wellness Ltd. Subordinate Voting Shs (Canada),U
 PODD,Insulet Corporation Common Stock,NASDAQ
@@ -3019,7 +3020,6 @@ PPTL,Premium Energy Corporation Common Stock,U
 PPTY,PPTY-US Diversified Real Estate ETF,ARCA
 PPWLM,PacifiCorp 7.00% Preferred Stock,U
 PPWLO,PacifiCorp 6% Preferred Stock,U
-PPX,"PPL CAPITAL FUNDING, INC. 2013 Series B Junior Subordinated Notes due 2073",NYSE
 PPZRF,Western Atlas Res Inc Cda Ordinary Shares,U
 PQDI,Principal Spectrum Tax-Advantaged Dividend Active ETF,ARCA
 PQEFF,Petroteq Energy Inc Ordinary Shares,U
@@ -4492,7 +4492,7 @@ RNSHF,Renishaw Plc  Ordinary Shares,U
 RNSHY,Renishaw PLC Unsponsored ADR (United Kingdom),U
 RNST,Renasant Corporation Common Stock,NASDAQ
 RNUGF,Reneuron Group plc Guildford Ordinary Shares,U
-RNVA,"Rennova Health, Inc. Common Stock",U
+RNVAD,"Rennova Health, Inc. Common Stock",U
 RNVT,"Renovate Neighborhoods, Inc. Common Stock",U
 RNWB,Renewable Corporation (The) New Common Stock,U
 RNWEF,REC SILICON ASA Ordinary Shares (Norway),U
@@ -5567,3 +5567,4 @@ SHGDF,Star Diamond Corporation Ordinary Shares,U
 SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
+SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
