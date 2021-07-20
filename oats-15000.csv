@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
 MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
@@ -243,7 +242,7 @@ NAAC,North Atlantic Acquisition Corporation Class A Ordinary Share,NASDAQ
 NAACU,North Atlantic Acquisition Corporation Unit,NASDAQ
 NAACW,North Atlantic Acquisition Corporation Warrant,NASDAQ
 NABA,National Bancshares Inc (IA) Common Shares,U
-NABL WI,"N-able, Inc.",NYSE
+NABL,"N-able, Inc.",NYSE
 NABXF,Nabaltec AG Ordinary Shares (Germany),U
 NABZY,National Australia Bank Limited Common Stock,U
 NAC,Nuveen California Quality Municipal Income Fund,NYSE
@@ -1203,7 +1202,6 @@ NVDA,NVIDIA Corporation Common Stock,NASDAQ
 NVDEF,Nevada Expl Inc Common Shares,U
 NVEC,NVE Corporation Common Stock,NASDAQ
 NVEE,"NV5 Global, Inc. Common Stock",NASDAQ
-NVES,Nvest Inc. Common Stock,U
 NVFY,"Nova Lifestyle, Inc. Common Stock",NASDAQ
 NVG,Nuveen AMT-Free Municipal Credit Income Fund,NYSE
 NVGI,"Noble Vici Group, Inc. Common Stock",U
@@ -1606,7 +1604,6 @@ OLMA,"Olema Pharmaceuticals, Inc. Common Stock",NASDAQ
 OLMIF,Olam International Ltd Ordinary Shares (Singapore),U
 OLMIY,Olam International Ltd Unsponsored ADR (Singapore),U
 OLMM,OneLife Technologies Corp. Common Stock,U
-OLMRF,Olam International Ltd Rights Exp 07/19/2021 (Singapore),U
 OLN,Olin Corp.,NYSE
 OLNCF,Omni Lite Inds Cda Inc Ordinary Shares,U
 OLNK,OneLink Corporation Common Stock,U
@@ -2578,6 +2575,7 @@ PHXHF,PHX Energy Services Corp. Ordinary Shares (Canada),U
 PHYL,PGIM Active High Yield Bond ETF,ARCA
 PHYMF,ISHARES PHYSICAL METALS PLC PHYSICAL GOLD USD PERP Foreign Exchange Traded Fund   12/12/2025,U
 PHYOF,IXICO PLC Ordinary Shares,U
+PHYRF,Pure Hydrogen Corp Ltd Chess Depositary Interests 1:1 (Canada),U
 PHYS,Sprott Physical Gold Trust,ARCA
 PI,"Impinj, Inc. Common Stock",NASDAQ
 PIAC,Princeton Capital Corporation Common Stock,U
@@ -3186,7 +3184,6 @@ PRYNF,Backstageplay Inc Common Shares,U
 PRZFF,BOUNDARY GOLD & COPPER MNG LTD Ordinary Shares,U
 PRZM,PRISM TECHNOLOGIES GROUP INC Common Stock,U
 PSA,Public Storage,NYSE
-PSA PRD,Public Storage,NYSE
 PSA PRE,Public Storage Depositary Shares Each Representing 1/1000 of a 4.90% Cumulative Preferred Share of B,NYSE
 PSA PRF,"Public Storage Depositary Shares Each Representing 1/1,000 of a 5.15% Cumulative Preferred Share of",NYSE
 PSA PRG,"Public Storage Depositary Shares, Each Representing 1/1,000 of a 5.05% Cumulative Preferred Share of",NYSE
@@ -3604,6 +3601,7 @@ PY,Principal Exchange-Traded Funds Principal Value ETF,NASDAQ
 PYBX,"Hydro Power Technologies, Inc. Common Stock",U
 PYCEF,Pryce Corp SHS (Philippines),U
 PYCFF,Mount Logan Cap Inc Ordinary Shares,U
+PYCR,"Paycor HCM, Inc. Common Stock",NASDAQ
 PYCT,"Paychest, Inc. Common Stock",U
 PYDPF,Pyramid Petroleum Inc Common Shares (Canada),U
 PYHOF,"Playmates Holdings, Ltd. Ordinary Shares",U
@@ -4293,6 +4291,7 @@ RIGH,"RightSmile, Inc. Common Stock",U
 RIGL,"Rigel Pharmaceuticals, Inc. Common Stock",NASDAQ
 RIGMF,Ridgestone Mining Inc Common Shares (Canada),U
 RIGS,RiverFront Strategic Income Fund,ARCA
+RIGZ,Viridi Cleaner Energy Crypto-Mining & Semiconductor ETF,ARCA
 RIHC,Rorine International Holding Corp. Common Stock,U
 RIHT,"Rightscorp, Inc. Common Stock",U
 RIII,"Renavotio, Inc. Common Stock",U
@@ -5568,3 +5567,5 @@ SHGKY,Sun Hung Kai & Co Ltd ADR,U
 SHGP,Sharpe Resource Corporation Ordinary Shares (Canada),U
 SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
+SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
+SHGY,SearchGuy.com Inc. Common Stock,U

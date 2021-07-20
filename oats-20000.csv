@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
-SHGY,SearchGuy.com Inc. Common Stock,U
 SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
@@ -43,6 +41,7 @@ SHNXY,Shandong Xinhua Pharmaceutical Co Ltd ADR Unsponsored (China),U
 SHO,"Sunstone Hotel Investors, Inc.",NYSE
 SHO PRF,"Sunstone Hotel Investors, Inc.  6.450% Series F Cumulative Redeemable Preferred Stock",NYSE
 SHO PRH,"Sunstone Hotel Investors, Inc. 6.125% Series H Cumulative Redeemable Preferred Stock",NYSE
+SHO PRI,"Sunstone Hotel Investors, Inc. 5.70% Series I Cumulative Redeemable Preferred Stock",NYSE
 SHOFF,Shoei Co Ltd Ordinary Shares (Japan),U
 SHOLF,Stadio Holdings Ltd Ordinary Shares (South Africa),U
 SHOM,"Southern Home Medical, Inc. Common Stock",U
@@ -666,7 +665,6 @@ SNRS,Sunrise Consulting Group Inc Common Stock,U
 SNRY,"Solar Energy Initiatives, Inc. Common Stock",U
 SNSE,"Sensei Biotherapeutics, Inc. Common Stock",NASDAQ
 SNSGF,"Sense Technologies, Inc. Common Shares",U
-SNSHP,Sunstone Hotel Invs Inc. New Preferred Stock Series I,U
 SNSKF,Sanko Sangyo Co Ltd Ordinary Shares (Japan),U
 SNSR,Global X Funds Global X Internet of Things ETF,NASDAQ
 SNST,"Sunset Capital Assets, Inc. Common Stock",U
@@ -1283,7 +1281,7 @@ STEM WS,"Stem, Inc. Warrants, each whole warrant exercisable for one share of Co
 STEP,StepStone Group Inc. Class A Common Stock,NASDAQ
 STEV,Stevia Corp. Common Stock,U
 STFC,State Auto Financial Corporation Common Stock,NASDAQ
-STFLV,Stifel Financial Corp DEP SHS REPSTG 1/1000TH INT PFD SER D,U
+STFLP,Stifel Financial Corp DEP SHS REPSTG 1/1000TH INT PFD SER D,U
 STFR,STEADFAST APT REIT INC Common Stock,U
 STFYF,Standard Foods Taiwan Ltd Reg S GDR,U
 STG,"Sunlands Technology Group, American Depositary Shares,  each 25 representing one Class A Ordinary Sh",NYSE
@@ -1603,7 +1601,6 @@ SWGI,Star Wealth Group Inc. Common Stock,U
 SWGNF,Swatch Group Ag (The) Namen AKT (Switzerland)Ordinary Shares,U
 SWGRF,SWORD GROUP Ordinary Shares  France(FR ),U
 SWI,SolarWinds Corporation Common Stock,NYSE
-SWI WI,SolarWinds Corporation,NYSE
 SWIM,"Latham Group, Inc. Common Stock",NASDAQ
 SWIOU,Southwest Iowa Renewable Energy LLC Units Class A,U
 SWIR,"Sierra Wireless, Inc. Common Stock",NASDAQ
@@ -2691,6 +2688,7 @@ TPZEF,TOPAZ ENERGY CORP COM (Canada),U
 TQLB,"Torque Lifestyle Brands, Inc. Common Stock",U
 TQQQ,ProShares UltraPro QQQ,NASDAQ
 TR,"Tootsie Roll Industries, Inc.",NYSE
+TRAA,Traack Technologies Inc. Common Stock,U
 TRAC,Track Data Corporation Common Stock,U
 TRAE,Triton Amern Energy Corp Inc Common Stock,U
 TRAGF,Terago Inc Ordinary Shares (Canada),U
@@ -3528,7 +3526,6 @@ URNM,NorthShore Global Uranium Mining ETF,ARCA
 URNXF,Magnis Energy Technologies Ltd Ordinary Shares,U
 UROY,Uranium Royalty Corp. Common Stock,NASDAQ
 URPLF,New Klondike Exploration Ltd. Ordinary Shares,U
-URPTF,Uranium Participation Corp Common Shares (Canada),U
 URTH,iShares MSCI World ETF,ARCA
 URTY,ProShares UltraPro Russell2000,ARCA
 URVNF,Uravan Minerals Inc Common Shares (Canada),U
@@ -3802,6 +3799,7 @@ VEC,"Vectrus, Inc.",NYSE
 VECO,Veeco Instruments Inc. Common Stock,NASDAQ
 VECT,VectivBio Holding AG Ordinary Shares,NASDAQ
 VEDL,Vedanta Limited  American Depostary Shares (Each representing four equity shares),NYSE
+VEEE,Twin Vee PowerCats Co. Common Stock,NASDAQ
 VEEV,Veeva Systems Inc.,NYSE
 VEGA,AdvisorShares STAR Global Buy-Write ETF,ARCA
 VEGGF,BETTER PLT SCIENCES INC Common Shares,U
@@ -4261,6 +4259,7 @@ VSMR,Verify Smart Corp. Common Stock,U
 VSMV,Victory Portfolios II VictoryShares US Multi-Factor Minimum Volatility ETF,NASDAQ
 VSOGF,"VISTA OIL & GAS SAB DE CV SHARES OF FINANCIAL GROUPS AND INDUSTRIAL, RETAIL Ordinary Shares",U
 VSPC,Viaspace Inc. Common Stock,U
+VSPY,VectorShares Min Vol ETF,ARCA
 VSQTF,Victory Square Technologies Inc Ordinary Shares,U
 VSRV,"Voiceserve, Inc. Common Stock",U
 VSS,Vanguard FTSE All-World EX-US Small-Cap Index Fund,ARCA
@@ -4291,6 +4290,7 @@ VTDRF,Vantage Drilling International Ord Shs (Cayman Islands),U
 VTEB,Vanguard Tax-Exempt Bond Index Fund,ARCA
 VTEPF,VITEC GROUP PLC SHS (United Kingdom),U
 VTEQ,VeriTeQ Corporation Common Stock,U
+VTEX,VTEX,NYSE
 VTEXF,VENTUREX RESOURCES LTD Ordinary Shares,U
 VTGDF,Vantage Drilling Company Common Shares,U
 VTGFF,Vita Group Ltd. Ordinary Shares (Australia),U
@@ -4578,6 +4578,7 @@ WFHY,WisdomTree U.S. High Yield Corporate Bond Fund,BATS
 WFICF,Wall Finl Corp Canada Ordinary Shares (Canada),U
 WFIG,WisdomTree U.S. Corporate Bond Fund,BATS
 WFPCF,Schroder UK Pub Private Tr PLC Ordinary Shares,U
+WFPDV,WELLS FARGO & COMPANY DEP SHS REPSTG 1/1000TH INT PERP PFD CL A SER DD,U
 WFRD,Weatherford International plc Ordinary Shares,NASDAQ
 WFRSF,West African Resources Limited,U
 WFSTF,Western Forest Products Inc Common Shares (Canada),U
@@ -4744,7 +4745,7 @@ WMT,Walmart Inc.,NYSE
 WMTN,"Westmountain Gold, Inc Common Stock",U
 WMWWF,"West Wits Mining Ltd, Armadale Vic Ordinary Shares (Australia)",U
 WMWXF,Elements Lkd Morningstar Wide Moat (Focus Total Return Index) (Germany),U
-WMXCF,Wiluna Mining Corp Ltd. Ordinary Shares (Australia),U
+WMXCF,WILUNA MINING CORP LTD Ordinary Shares,U
 WNARF,Western Areas NL Ordinary Shares (Australia),U
 WNBD,Winning Brands Corporation Common Stock,U
 WNC,Wabash National Corp.,NYSE

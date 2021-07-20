@@ -2109,7 +2109,7 @@ AUUDW,Auddia Inc. Warrants,NASDAQ
 AUUMF,Aumann AG Ordinary Shares (Germany),U
 AUVGF,Australian Vintage Ltd Ordinary Shares (Australia),U
 AUVI,"Applied UV, Inc. Common Stock",NASDAQ
-AUVPP,Applied UV Inc. Perp Preferred Stock Series A,U
+AUVIP,"Applied UV, Inc. 10.5% Series A Cumulative Perpetual Preferred Stock, $0.0001 par value per share",NASDAQ
 AUXIF,Auxico Res Cda Common Shares (Canada),U
 AUXRF,AUX Resources Corp Common Shares,U
 AUXSF,AMUNDI IDX SOLUTIONS SICAV MSCI EMER MKT Exchange Traded Fund Luxembourg(LU ),U
@@ -2438,6 +2438,7 @@ BARK,The Original BARK Company,NYSE
 BARK WS,"The Original BARK Company Redeemable Warrants, each whole warrant exercisable for shares of Common S",NYSE
 BARUF,Baru Gold Corp  Common Shares,U
 BASA,"Basanite, Inc. Common Stock",U
+BASE,"Couchbase, Inc. Common Stock",NASDAQ
 BASFY,BASF SE American Depositary Shares,U
 BASWW,Basic Energy Services New Warrant Exp 12/23/2023,U
 BASX,"Basis Energy Services, Inc. Common Stock",U
@@ -2892,7 +2893,7 @@ BILL,"Bill.com Holdings, Inc.",NYSE
 BILS,SPDR Bloomberg Barclays 3-12 Month T-Bill ETF,ARCA
 BILSU,Belle Isle Corp (Net Prft Ut) Unit,U
 BILZF,Ignite Intl Brands Ltd Ordinary Shares (Canada),U
-BIMI,BOQI International Medical Inc. Common Stock,NASDAQ
+BIMI,BIMI International Medical Inc. Common Stock,NASDAQ
 BIMO,"BioNeutra International, Ltd. Common Stock",U
 BIMT,Bitmis Corp Common Stock,U
 BINFF,Brookfield Infrastructure Partners LP Unit Class A Series 7 (Bermuda),U
@@ -2957,7 +2958,6 @@ BJINF,Beijing Enterprises Holdings Limited Ordinary Shares,U
 BJK,VanEck Vectors Gaming ETF,NASDAQ
 BJPUF,Berli Jucker Public Co Ltd BJC Ordinary Shares  (Thailand),U
 BJRI,"BJ's Restaurants, Inc. Common Stock",NASDAQ
-BJRRF,Beijer Electronics AB Ordinary Shares (Sweden),U
 BJSAF,Berjaya Sports Toto Loan Stk Ordinary Shares,U
 BJTRF,"Beijing Tong Ren Tang Chinese Medicine Co Ltd, Hong Kong Ordinary Shares (Hong Kong)",U
 BJUL,Innovator S&P 500 Buffer ETF - July,BATS
@@ -3923,7 +3923,7 @@ BZRT,BizRocket.com Inc. Common Stock,U
 BZTAF,BOOZT AB Ordinary Shares,U
 BZTG,"Buzz Technologies, Inc. Common Stock",U
 BZUN,Baozun Inc. American Depositary Shares,NASDAQ
-BZWHF,B2W Companhia Global Do Varejo Ordinary shares (Brazil),U
+BZWHF,AMERICANAS SA Ordinary Shares,U
 BZWR,Business Warrior Corporation Common Stock,U
 BZYR,Burzynski Research Institute Inc Common Stock,U
 BZZUF,Buzzi Unicem Spa Ordinary Shares (Italy),U
@@ -4450,7 +4450,6 @@ CERWF,Ceres Acquisition Corp Warrant Exp 03/03/2028 (Canada),U
 CERX,"Colombia Energy Resources, Inc. Common Stock",U
 CESDF,CES Energy Solutions Corp. Common Shares,U
 CESF,"CE Software, Inc. Common Stock",U
-CESJF,CESP Companhia Energetica de Sao Paulo SA Pfd Shs B (Brazil),U
 CESO,Central Service Corporation Common Stock,U
 CESSF,"Chesser Resources Ltd, Adelaide Ordinary Shares (Australia)",U
 CESTF,Chinese Estates Holdings Ltd Ordinary Shares (Bermuda),U
@@ -5029,6 +5028,7 @@ CLNV,Clean Vision Corporation Common Stock,U
 CLNXF,Cellnex Telecom SA Ordinary Shares (Spain),U
 CLNZF,Cdl Investment Ltd NZ Ordinary Shares (New Zealand),U
 CLOEF,Cloetta AB Shares -B- (Sweden),U
+CLOEU,Clover Leaf Capital Corp. Unit,NASDAQ
 CLOK,Cipherloc Corp. Common Stock,U
 CLOQ,"Cyberloq Technologies, Inc.  Common Stock",U
 CLOU,Global X Funds Global X Cloud Computing ETF,NASDAQ
@@ -5303,6 +5303,7 @@ CNIGO,Corning Natural Gas Holding Corporation 6% Pfd Ser A,U
 CNIGP,Corning Natural Gas Holding Corporation 4.8% Pfd Conv Ser B,U
 CNIKF,Canada Nickel Co Inc Common Shares (Canada),U
 CNINF,China International Marine Containers Group Ltd H Ordinary Shares (China),U
+CNIVF,CHINA INVESTMENT FUND CO LTD Ordinary Shares (Cayman Islands),U
 CNJG,Jufeel International Group Common Stock,U
 CNK,"Cinemark Holdings, Inc.",NYSE
 CNKYF,XMTCH IE ON NIKKEI 225 ACCUM PART SHS ETF JPY (Ireland),U

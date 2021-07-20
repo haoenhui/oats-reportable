@@ -457,6 +457,7 @@ HKHHY,Heineken Holding NV Sponsored ADR (Netherlands),U
 HKHKF,Hokuhoku Financial Group Inc Toyama (Japan),U
 HKHUY,"Hokuhoku Financial Group, Inc. American Depositary Receipts - Unsponsored (Japan)",U
 HKIB,AMTD International Inc.,NYSE
+HKIT,Hitek Global Inc. Ordinary Share,NASDAQ
 HKMPF,"Hikma Pharmaceuticals plc, London Ordinary Shares (United Kingdom)",U
 HKMPY,"Hikma Pharmaceuticals plc, London Sponsored ADR (United Kingdom)",U
 HKND,Humankind US Stock ETF,ARCA
@@ -2164,7 +2165,6 @@ ISXVF,Ishares IV PLC Digitalization UCITS Exchange Traded Fund (Ireland),U
 ISXXF,Ishares PLC - Ishares Euro Dividend UCITS ETF (Ireland),U
 ISYX,"In-Systcom, Inc. New Common Stock",U
 ISZE,iShares MSCI Intl Size Factor ETF,ARCA
-ISZNF,Intershop Holding AG Zuerich Namen AKT (Switzerland),U
 ISZXF,IShares VII PLC Iboxx USD 3-7 Year Treasury Bond UCITS ETF (Ireland),U
 ISZZF,IShares IV PLC Sustainable MSCI USA SRI UCITS ETF (Ireland),U
 IT,"Gartner, Inc.",NYSE
@@ -2890,7 +2890,7 @@ KATA,Katana Broadband Corporation Common Stock,U
 KATSF,Katsuragawa Electric Co Ltd Ordinary Shares (Japan),U
 KATX,KAT Exploration Inc.  Common Stock,U
 KAURF,KAISER REEF LTD ORDINARY FULLY PAID (Australia),U
-KAVL,"Kaival Brands Innovations Group, Inc. Common Stock",U
+KAVLD,"Kaival Brands Innovations Group, Inc. Common Stock",U
 KAYS,"Kaya Holdings, Inc. Common Stock",U
 KB,KB Financial Group Inc,NYSE
 KBA,KraneShares Bosera MSCI China A ETF,ARCA
@@ -3204,7 +3204,6 @@ KNIT,Kinetic Group Inc Common Stock,U
 KNKBF,KINNEVIK AB SHARE AK B Ordinary Shares,U
 KNKT,Kunekt Corporation Common Stock,U
 KNKZF,Kws Kleinwanzlebener Saatzucht Ag Ordinary Shares (Germany),U
-KNL,"Knoll, Inc.",NYSE
 KNMOF,Kanamoto Co Ltd Ordinary Shares (Japan),U
 KNNCF,KH NEOCHEM CO LTD COM STK (Japan),U
 KNNGF,Kion Group AG Ordinary Shares (Germany),U
@@ -3524,6 +3523,7 @@ LATNU,Union Acquisition Corp. II Units containing one ordinary share and one red
 LATNW,Union Acquisition Corp. II Warrant,NASDAQ
 LAUCF,Laurentian Bank Canada Que Preference Shares Series 13 (Canada),U
 LAUR,"Laureate Education, Inc. Class A Common Stock",NASDAQ
+LAW,"CS Disco, Inc.",NYSE
 LAWS,"Lawson Products, Inc. Common Stock",NASDAQ
 LAXAF,Laxai Pharma Ltd. Ordinary Shares,U
 LAZ,Lazard Ltd. Class A,NYSE
@@ -4509,7 +4509,7 @@ MCBS,"MetroCity Bankshares, Inc. Common Stock",NASDAQ
 MCCHF,Mcchip Resources Inc Ordinary Shares,U
 MCCK,Mestek Inc Common Stock NEW,U
 MCCLF,Macromill Inc Ordinary Shares (Japan),U
-MCCNF,Medocolcanna Organics Inc Common Shares (Canada),U
+MCCNF,MEDCOLCANNA ORGANICS INC COM (Canada),U
 MCCRF,"McCoy Global, Inc. Ordinary Shares (Canada)",U
 MCCX,MCX Technologies Corporation Common Stock,U
 MCD,McDonald's Corporation,NYSE
@@ -5569,3 +5569,4 @@ MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
+MTD,Mettler-Toledo International,NYSE
