@@ -1,11 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
-SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
-SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
-SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
-SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
-SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
-SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
@@ -553,6 +546,8 @@ SNANF,Sona Nanotech Inc Common Shares,U
 SNAP,Snap Inc.,NYSE
 SNAS,Sino Assurance Inc.Common Stock,U
 SNAVF,"Star Navigation Systems Group, Ltd. Ordinary Shares (Canada)",U
+SNAX,"Stryve Foods, Inc. Class A Common Stock",NASDAQ
+SNAXW,"Stryve Foods, Inc. Warrant",NASDAQ
 SNBH,"Sentient Brands Holdings, Inc. Common Stock",U
 SNBIF,Sanbio Co Ltd. Common Stock (Japan),U
 SNBOY,Sanbio Co Ltd. American Depositary Receipts - Unsponsored (Japan),U
@@ -771,6 +766,7 @@ SONVF,Sonova Holding AG Ordinary Shares,U
 SONVY,Sonova Holding AG Unsponsored ADR (Switzerland),U
 SONY,Sony Group Corporation American Depositary Shares (Each Representing One Share of Dollar Validated C,NYSE
 SOOBF,"Sappora Holdings, Ltd. Ordinary Shares",U
+SOPH,SOPHiA GENETICS SA Ordinary Shares,NASDAQ
 SOPK,SouthPeak Interactive Corporation Common Stock,U
 SOPV,"Solar Park Initiatives, Inc. Common Stock",U
 SOQDQ,Sonde Resources Corporation Ordinary Shares,U
@@ -1144,6 +1140,7 @@ SSCFF,SmartCool Systems Inc Ordinary Shares (Canada),U
 SSCHF,SMT Scharf Ag Ordinary Shares,U
 SSCR,SMSA Crane Acquisition Corp Common Stock,U
 SSD,"Simpson Manufacturing Co., Inc.",NYSE
+SSDEF,SSGA SPDR ETFS EUROPE I PLC Shs Exchange Traded Fund USD (Ireland),U
 SSDOF,Shiseido Co Ltd Ord Ordinary Shares,U
 SSDOY,Shiseido Co Ltd Ord American Depositary Shares,U
 SSDRF,SSGA SPDR ETFS EUROPE I PLC SPDR S&P US MIDCAP 400 ETF USD (Ireland),U
@@ -1178,6 +1175,7 @@ SSHLF,SUNAC SVCS HLDGS LTD Common Stock,U
 SSHLY,Sunac Services Holdings Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
 SSHPF,Vow ASA Ordinary Shares,U
 SSHXF,SSGA SPDR ETFs Europe II PLC MSCI Europe Health Care UCITs,U
+SSIC,Silver Spike Investment Corp. Common Stock,NASDAQ
 SSILF,Sa Sa International Holdings Ltd Ordinary Shares  Cayman Islands(KY ),U
 SSKN,"Strata Skin Sciences, Inc. Common Stock",NASDAQ
 SSL,Sasol Limited,NYSE
@@ -1323,7 +1321,7 @@ STLJF,Stella Jones Inc Ordinary Shares,U
 STLM,St Elmo Silver Mines Corp Unclassified,U
 STLV,iShares Factors US Value Style ETF,BATS
 STLXF,Stellar AfricaGold Inc. Ordinary Shares,U
-STLY,"HG Holdings, Inc. Common Stock",U
+STLYD,"HG Holdings, Inc. Common Stock",U
 STM,STMicroelectronics N.V.,NYSE
 STMAF,Star Mica Holdings Co Ltd. Common Stock (Japan),U
 STMB,iShares Factors US Mid Blend Style ETF,BATS
@@ -1366,6 +1364,7 @@ STRE U,"Supernova Partners Acquisition Company III, Ltd. Units, each consisting 
 STRE WS,"Supernova Partners Acquisition Company III, Ltd. Redeemable warrants, each whole warrant exercisable",NYSE
 STREF,Sthree Group Limited London Ordinary Shares (United Kingdom),U
 STRFF,Star Royalties Ltd Common Shares (Canada),U
+STRG,STARGUIDE GROUP INC Common Stock,U
 STRH,Star8 Corp. Common Stock,U
 STRI,"STR Holdings, Inc. Common Stock",U
 STRL,Sterling Construction Company Inc Common Stock,NASDAQ
@@ -1616,6 +1615,7 @@ SWN,Southwestern Energy Company,NYSE
 SWNLF,SCOZINC MNG LTD Common Shares,U
 SWNM,"Southwestern Medical Solutions, Inc. New Common Stock",U
 SWNNU,Southwest Minn Agrifuels Coop LLC Unit,U
+SWONF,SOFTWAREONE HLDG AG NAMEN AKT (Switzerland),U
 SWOOF,SSGA SPDR ETFs Europe II PLC SPDR MSCI World Health Care UCITS ETF (Ireland),U
 SWPFF,Swire Pptys Ltd Ord Shs (Hong Kong),U
 SWPIF,Sawai Pharmaceutical Co Ltd Ordinary Shares,U
@@ -2006,7 +2006,7 @@ TECK,Teck Resources Limited,NYSE
 TECL,Direxion Daily Technology Bull 3x Shares,ARCA
 TECS,Direxion Daily Technology Bear 3x Shares,ARCA
 TECTP,"Tectonic Financial, Inc. 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",NASDAQ
-TECXF,TECHX TECHNOLOGIES INC Common Shares,U
+TECXF,MOBILUM TECHNOLOGIES INC Common Shares,U
 TEDU,"Tarena International, Inc. American Depositary Shares",NASDAQ
 TEF,"Telefonica, S.A.",NYSE
 TEFOF,Telefonica SA Ordinary Shares (Spain),U
@@ -4247,6 +4247,7 @@ VSAT,"ViaSat, Inc. Common Stock",NASDAQ
 VSBC,VitaSpring Biomedical Co. Ltd.  Common Stock,U
 VSBGF,VSBLTY GROUPE TECHNOLOGIES CORP COM (Canada),U
 VSCFF,Viscofan Industria Navarra de Envolturas Celulosicas Sa Ordinary Shares (Spain),U
+VSCO WI,Victoria's Secret & Co.,NYSE
 VSDA,Victory Portfolios II VictoryShares Dividend Accelerator ETF,NASDAQ
 VSEC,VSE Corporation Common Stock,NASDAQ
 VSGX,Vanguard ESG International Stock ETF,BATS
@@ -4739,7 +4740,7 @@ WMMVF,Wal-mart de Mexico S A B de C V Ordinary Shares,U
 WMMVY,Wal-mart de Mexico S A B de C V Sponsored ADR representing Series V Shares (Mexico),U
 WMNNF,ASTON MINERALS LTD Ordinary Shares,U
 WMPN,William Penn Bancorporation Common Stock,NASDAQ
-WMRSF,Westminster Res Ltd Common Shares,U
+WMRSF,SOLIS MINERALS LTD Common Shares,U
 WMS,"ADVANCED DRAINAGE SYSTEMS, INC.",NYSE
 WMT,Walmart Inc.,NYSE
 WMTN,"Westmountain Gold, Inc Common Stock",U

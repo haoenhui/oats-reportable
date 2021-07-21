@@ -1,11 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
-GWPC,"Wholehealth Products, Inc. Common Stock",U
-GWPD,"GP Solutions, Inc. Common Stock",U
-GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
-GWRRF,Engold Mines Ltd Ordinary Shares,U
-GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
-GWSAF,Gowest Gold Ltd Ordinary Shares,U
 GWSN,"Gulf West Security Network, Inc. Common Stock",U
 GWSO,"Global Warming Solutions, Inc. Common Stock",U
 GWTI,"Greenway Technologies, Inc. Common Stock",U
@@ -1628,6 +1621,7 @@ IMO,Imperial Oil Limited,AMEX
 IMOM,Alpha Architect International Quantitative Momentum ETF,BATS
 IMOS,ChipMOS TECHNOLOGIES INC. American Depositary Shares,NASDAQ
 IMPCF,Impact Coatings AB Ordinary Shares (Sweden),U
+IMPHF,Imperial Helium Corp Common Shares,U
 IMPHO,"Impac Mortgage Holdings, Inc. Preferred Series C",U
 IMPHP,"Impac Mortgage Holdings, Inc. Preferred Series B",U
 IMPJY,Webuild SpA American Depositary Receipts - Unsponsored,U
@@ -2088,7 +2082,6 @@ ISMMF,ISHARES IV PLC ISHARES EDGE MSCI EUROPE VALUE FACTOR UCITS ETF EUR ACC Exc
 ISMUF,Ishares MSCI China Tracker Units,U
 ISMVF,ISHARES IV PLC Ordinary Shares,U
 ISNPY,Intesa Sanpaolo S.P.A. Sponsored ADR (Italy),U
-ISNS,"Image Sensing Systems, Inc. Common Stock",NASDAQ
 ISOL,Image Software Inc. Common Stock,U
 ISOLF,Isodiol International Inc. Ordinary Shares,U
 ISON,Isonics Corporation Common Stock,U
@@ -3895,7 +3888,6 @@ LMAOU,LMF Acquisition Opportunities Inc. Unit,NASDAQ
 LMAOW,LMF Acquisition Opportunities Inc. Warrant,NASDAQ
 LMAT,"LeMaitre Vascular, Inc. Common Stock",NASDAQ
 LMB,"Limbach Holdings, Inc. Common Stock",NASDAQ
-LMBHW,"Limbach Holdings, Inc Warrant 07/20/2021",U
 LMBS,First Trust Exchange-Traded Fund IV First Trust Low Duration Opportunities ETF,NASDAQ
 LMDCF,Lingo Media Corporation New Ordinary Shares (Canada),U
 LMEFF,Laurion Minerals Exploration Inc Ordinary Shares (Canada),U
@@ -5046,7 +5038,6 @@ MLACU,Malacca Straits Acquisition Company Limited Units,NASDAQ
 MLACW,Malacca Straits Acquisition Company Limited Warrants,NASDAQ
 MLBEF,WEBCENTRAL GROUP LTD   Ordinary Shares,U
 MLBEY,Melbourne It Limited Unsponsored ADR (Australia),U
-MLBGF,Mulberry Grp Plc Ordinary Shares (United Kingdom),U
 MLCG,ML Capital Group Inc Common Stock,U
 MLCO,Melco Resorts & Entertainment Limited American Depositary Shares,NASDAQ
 MLCOF,Mountain China Resorts Holdings Ltd Ordinary Shares (Canada),U
@@ -5570,3 +5561,13 @@ MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYS
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
+MTDR,MATADOR RESOURCES COMPANY,NYSE
+MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
+MTEI,Mountain Energy Inc Common Stock,U
+MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
+MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
+MTENY,Mahanagar Telephone Nigam Ltd ADS,U
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
+MTFC,Minster Financial Corporation,U

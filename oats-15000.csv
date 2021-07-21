@@ -1,14 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTDR,MATADOR RESOURCES COMPANY,NYSE
-MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
-MTEI,Mountain Energy Inc Common Stock,U
-MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
-MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
-MTENY,Mahanagar Telephone Nigam Ltd ADS,U
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
@@ -133,6 +123,7 @@ MVMDF,MOUNTAIN VY MD INC COM (Canada),U
 MVNT,MOVEMENT INDS CORP Common Stock,U
 MVO,MV Oil Trust,NYSE
 MVP,"Roundhill Pro Sports, Media & Apparel ETF",ARCA
+MVPS,Amplify Thematic All-Stars ETF,ARCA
 MVPT,MVP Holdings Inc. Common Stock,U
 MVRBF,Medivir Ordinary Shares,U
 MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,ARCA
@@ -1448,6 +1439,7 @@ OCCIP,"OFS Credit Company, Inc. 6.875% Series A Term Preferred Stock",NASDAQ
 OCDDY,OCADO GROUP PLC  American Depositary Receipts - Sponsored (United Kingdom),U
 OCDGF,"Ocado Group PLC, Hatfield Ordinary Shares (United Kingdom)",U
 OCDX,Ortho Clinical Diagnostics plc Ordinary Shares,NASDAQ
+OCEA,"Ocean Biomedical, Inc. Common Stock",NASDAQ
 OCEHF,Oceania Healthcare Ltd SHS (New Zealand),U
 OCESO,"Ocean Spray Cranberries, Inc. Part 2nd 4% Preferred Stock",U
 OCESP,"Ocean Spray Cranberries, Inc. 4% Preferred Stock",U
@@ -1714,6 +1706,8 @@ OPCH,"Option Care Health, Inc. Common Stock",NASDAQ
 OPEN,Opendoor Technologies Inc Common Stock,NASDAQ
 OPER,ClearShares Ultra-Short Maturity ETF,ARCA
 OPESF,Otello Corp Asa Ordinary Shares,U
+OPFI,OppFi Inc.,NYSE
+OPFI WS,"OppFi Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exer",NYSE
 OPGN,"OpGen, Inc. Common Stock",NASDAQ
 OPGX,Optigenex Inc. Common Stock,U
 OPHC,"OptimumBank Holdings, Inc. Common Stock",NASDAQ
@@ -4693,7 +4687,6 @@ RTNB,"root9B Holdings, Inc. Common Stock",U
 RTNTF,Rio Tinto Ltd (Nz)(Clob) Ordinary Shares,U
 RTNXF,RENALYTIX PLC Ordinary Shares,U
 RTOBF,Ratos Ab Shs-B Ordinary Shares,U
-RTOEF,RATIO OIL EXPLORATION (1992) LTD PARTNERSHIP EXP 07/20/2021,U
 RTOKY,Rentokil Initial Plc (Fgn) American Depositary Shares,U
 RTON,"Right On Brands, Inc. Common Stock",U
 RTOXF,Rotork Plc Ord 5p Ordinary Shares,U
@@ -5561,6 +5554,7 @@ SHEN,Shenandoah Telecommunications Co Common Stock,NASDAQ
 SHERF,Sherritt Intl Copr Restr Vtg Ordinary Shares,U
 SHEZF,Shenzhen Hepalink Pharmaceutical Group Co Ltd. Registered Shares (China),U
 SHFGF,SHEFA GEMS LTD SHARE (Israel),U
+SHFT,iClima Distributed Renewable Energy Transition Leaders ETF,ARCA
 SHG,Shinhan Financial Group Co Ltd,NYSE
 SHGDF,Star Diamond Corporation Ordinary Shares,U
 SHGKY,Sun Hung Kai & Co Ltd ADR,U
@@ -5569,3 +5563,11 @@ SHGR,Success Holding Group Corp. USA Common Stock,U
 SHGXF,Shenguan Holdings Group Ltd Ordinary Shares (Cayman Islands),U
 SHGXY,Shenguan Holdings Group Ltd Unsponsored ADR (Hong Kong),U
 SHGY,SearchGuy.com Inc. Common Stock,U
+SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
+SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
+SHHPF,Ship Healthcare Holdings Inc Ordinary Shares (Japan),U
+SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
+SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
+SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
+SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
+SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ

@@ -56,6 +56,7 @@ AASL,"America's Suppliers, Inc. Common Stock",U
 AASP,Global Acquisitions Corporation Common Stock,U
 AASZF,Atlantic Sapphire AS Common Shares,U
 AAT,"AMERICAN ASSETS TRUST, INC.",NYSE
+AATC,Autoscope Technologies Corporation Common Stock,NASDAQ
 AATDF,AA LTD Ordinary Shares (United Kingdom),U
 AATGF,ATI Airtest Technologies Inc Ordinary Shares,U
 AATP,Agape ATP Corporation Common Stock,U
@@ -1295,10 +1296,6 @@ ANCE,"RESTANCE, INC. Common Stock",U
 ANCSQ,American Consumers Inc Common Stock,U
 ANCTF,"Alimentation Couche-Tard, Inc. Multiple Voting Shares (Canada)",U
 ANCUF,"Alimentation Couche-Tard, Inc. Subordinate Voting Shares (Canada)",U
-ANDA,Andina Acquisition Corp. III Ordinary Shares,NASDAQ
-ANDAR,Andina Acquisition Corp. III Right,NASDAQ
-ANDAU,Andina Acquisition Corp. III Unit,NASDAQ
-ANDAW,Andina Acquisition Corp. III Warrant,NASDAQ
 ANDC,"Andover Bancorp, Inc. (Ohio) Common Stock",U
 ANDD,ANR Inc Contingent Rev Pmt Rt Expires 03/31/2023,U
 ANDE,"Andersons, Inc. (The) Common Stock",NASDAQ
@@ -2111,7 +2108,6 @@ AUVGF,Australian Vintage Ltd Ordinary Shares (Australia),U
 AUVI,"Applied UV, Inc. Common Stock",NASDAQ
 AUVIP,"Applied UV, Inc. 10.5% Series A Cumulative Perpetual Preferred Stock, $0.0001 par value per share",NASDAQ
 AUXIF,Auxico Res Cda Common Shares (Canada),U
-AUXRF,AUX Resources Corp Common Shares,U
 AUXSF,AMUNDI IDX SOLUTIONS SICAV MSCI EMER MKT Exchange Traded Fund Luxembourg(LU ),U
 AUXXF,Allegiant Gold Ltd Common Stock,U
 AUY,"Yamana Gold, Inc.",NYSE
@@ -2518,6 +2514,7 @@ BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",NYSE
 BBVKF,DISTIL PLC Ordinary Shares (United Kingdom),U
 BBVXF,Banco Bilbao Vizcaya Pfd B Ordinary Shares,U
 BBW,"Build-A-Bear Workshop, Inc.",NYSE
+BBWI WI,"Bath & Body Works, Inc.",NYSE
 BBXIA,"BBX Capital, Inc. Common Stock Class A",U
 BBXIB,"BBX Capital, Inc. Common Stock Class B",U
 BBXMF,BBX MINERALS LTD ORDINARY FULLY PAID (Australia),U
@@ -3197,7 +3194,6 @@ BMIN,Britannia Mining Inc. Common Stock,U
 BMIX,"Brazil Minerals, Inc. Common Stock",U
 BMIXF,Beacon Minerals Ltd Ordinary Shares (Australia),U
 BMJJF,BMO Junior Gold Index ETF Common Shares,U
-BMKAF,Brookfield Asset Mgmt Preferred Stock (Canada),U
 BMKDF,BIOMARK DIAGNOSTICS INC Ordinary Shares (Canada),U
 BML PRG,Bank Of America Corporation Depositary Shares(Each representing a 1/1200th interest in a share of Ba,NYSE
 BML PRH,Bank Of America Corporation Depositary Shares(Each representing a 1/1200th interest in a share of Ba,NYSE
@@ -4765,7 +4761,6 @@ CHRNY,China Reins Group Corp American Depositary Receipts - Unsponsored Cl H (Ch
 CHRRF,"Chorus Aviation, Inc. Ordinary Shares Vtg & Variable Vtg (Canada)",U
 CHRS,"Coherus BioSciences, Inc. Common Stock",NASDAQ
 CHRW,"C.H. Robinson Worldwide, Inc. Common Stock",NASDAQ
-CHRXF,CHARGEURS SA EX CHARGEURS INTERNATIONAL SA PARIS Ordinary Shares,U
 CHRYY,Chorus Limited Sponsored,U
 CHS,"Chicos FAS, Inc.",NYSE
 CHSCL,"CHS Inc Class B Cumulative Redeemable Preferred Stock, Series 4",NASDAQ
@@ -5014,6 +5009,7 @@ CLLNY,Cellnex Telecom SA Unsponsored ADR (Spain),U
 CLLS,Cellectis S.A. American Depositary Shares,NASDAQ
 CLLXF,"Callinex Mines, Inc. Common Shares",U
 CLM,Cornerstone Strategic Value Fund,AMEX
+CLMA,iClima Global Decarbonization Transition Leaders ETF,ARCA
 CLMHF,Calgro M3 Holdings Ltd Ordinary Shares (South Africa),U
 CLMOF,Cliemon AB Shares AK B,U
 CLMPF,Canadian Prem Sand Inc Common Shares,U
@@ -5570,3 +5566,8 @@ CPEU,"Chapeau, Inc. Common Stock",U
 CPEVF,Capital Environment Holdings Ltd Ordinary Shares (Cayman Islands),U
 CPF,Central Pacific Financial Corporation,NYSE
 CPFH,"Capital Financial Holdings, Inc. Common Stock",U
+CPFXF,Copper Fox Metals Inc Common Shares (Canada),U
+CPG,CRESCENT POINT ENERGY CORP.,NYSE
+CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
+CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
+CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
