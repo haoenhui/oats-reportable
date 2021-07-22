@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWSAF,Gowest Gold Ltd Ordinary Shares,U
 GWSN,"Gulf West Security Network, Inc. Common Stock",U
 GWSO,"Global Warming Solutions, Inc. Common Stock",U
 GWTI,"Greenway Technologies, Inc. Common Stock",U
@@ -16,6 +17,7 @@ GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
 GXIIU,GX Acquisition Corp. II Unit,NASDAQ
 GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
 GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
+GXO WI,"GXO Logistics, Inc.",NYSE
 GXRFF,Prospera Energy Inc Common Shares,U
 GXSBF,Geox Spa Ordinary Shares (Italy),U
 GXSBY,Geox Spa Unsponsored ADR (Italy),U
@@ -32,7 +34,6 @@ GYOG,"Green Energy Enterprises, Inc. Common Stock",U
 GYPHQ,Gryphon Gold Corp Common Stock,U
 GYPPF,GYP Properties Ltd Ordinary Shares (Singapore),U
 GYRO,"Gyrodyne, LLC Common Stock",NASDAQ
-GYRRF,Silver Wolf Exploration Ltd Ordinary Shares,U
 GYSLF,Eco Oro Minerals Corp Ordinary Shares (Canada),U
 GYSN,Greyson International Inc. Common Stock,U
 GYSRF,"Geyser Brands, Inc. Com (Canada)",U
@@ -1096,7 +1097,6 @@ IBAL,International Baler Corporation Common Stock,U
 IBB,iShares Biotechnology ETF,NASDAQ
 IBBJ,ETF Series Solutions Defiance Nasdaq Junior Biotechnology ETF,NASDAQ
 IBBQ,Invesco Exchange-Traded Fund Trust II Invesco Nasdaq Biotechnology ETF,NASDAQ
-IBBRF,IBERDROLA SA DERECHOS EXP 07/21/2021 (Spain),U
 IBCE,iShares iBonds Mar 2023 Term Corporate ex-Financials ETF,ARCA
 IBCP,Independent Bank Corporation Common Stock,NASDAQ
 IBD,Inspire Corporate Bond Impact ETF,ARCA
@@ -1782,6 +1782,7 @@ INSI,Insight Select Income Fund,NYSE
 INSM,"Insmed, Inc. Common Stock",NASDAQ
 INSO,"Industry Source Consulting, Inc. Common Stock",U
 INSP,"Inspire Medical Systems, Inc.",NYSE
+INST,"Instructure Holdings, Inc.",NYSE
 INSW,"International Seaways, Inc. Common Stock",NYSE
 INSW PRA,"International Seaways, Inc. 8.50% Senior Notes due June 30, 2023",NYSE
 INSXF,INSTALLUX SA SHS (France),U
@@ -2980,6 +2981,7 @@ KEY PRI,KeyCorp Depositary Shares each representing a 1/40th ownership interest 
 KEY PRJ,KeyCorp Depositary Shares each representing a 1/40th ownership interest in a share of Fixed Rate Per,NYSE
 KEY PRK,"KeyCorp Depositary Shares, each representing a 1/40th ownership interest in a share of Fixed Rate Pe",NYSE
 KEYCF,KEY COFFEE INC Ordinary Shares,U
+KEYR,KEYSTAR CORP COM,U
 KEYS,"Keysight Technologies, Inc.",NYSE
 KEYUF,Keyera Corp (Canada),U
 KF,"KOREA FUND, INC",NYSE
@@ -3039,7 +3041,6 @@ KHRNF,Khiron Life Sciences Corp Common Stock,U
 KHRWF,Khiron Life Sciences Corp Warrant Exp 11/26/2025,U
 KHTRF,Knight Therapeutics Inc Common Shares (Canada),U
 KHZM,"Madison Ave Media, Inc.  Common Stock",U
-KIADF,KIADIS PHARMA N V Ordinary Shares (Netherlands),U
 KICK,"HPN Holdings, Inc. Common Stock",U
 KIDBQ,"Kid Brands, Inc.",U
 KIDS,OrthoPediatrics Corp. Common Stock,NASDAQ
@@ -3234,6 +3235,7 @@ KOMOF,Komo Plant Based Foods Inc. Common Shares,U
 KOMP,SPDR S&P Kensho New Economies Composite ETF,ARCA
 KONA,"Kona Grill, Inc. Common Stock",U
 KONEF,KetamineOne Capital Ltd Common Stock,U
+KONG,Formidable Fortress ETF,ARCA
 KONMY,Konami Holdings Corporation ADS REPSTG 1/2 SH COM STK - Unsponsored (Japan),U
 KOOYF,"Kootenay Silver, Inc. Common Shares (Canada)",U
 KOP,"Koppers Holdings, Inc.",NYSE
@@ -3353,7 +3355,6 @@ KSICW,Kadem Sustainable Impact Corporation Warrant,NASDAQ
 KSIH,KS International Holdings Corporation Common Stock,U
 KSKD,Kaskad Corp. Common Stock,U
 KSKGF,Kingsgate Consolidated Nl Ordinary Shares,U
-KSLBF,KSL HOLDINGS BHD Ordinary Shares,U
 KSLLF,KALERA AS Other Norway(NO ),U
 KSM,DWS Strategic Municipal Income Trust,NYSE
 KSMRF,"Contagious Gaming, Inc. Ordinary Shares",U
@@ -3998,6 +3999,7 @@ LOONF,Loon Energy Corp. Common Shares,U
 LOOP,"Loop Industries, Inc. Common Stock",NASDAQ
 LOPE,"Grand Canyon Education, Inc. Common Stock",NASDAQ
 LOPP,Gabelli Love Our Planet & People ETF,ARCA
+LOPX,Direxion Low Priced Stock ETF,ARCA
 LOQPF,Accesso Technology Group Plc (United Kingdom),U
 LORL,"Loral Space and Communications, Inc. Common Stock",NASDAQ
 LOTBY,Lotus Bakeries NV Unsponsored American Depository Receipt (Germany Federal Republic),U
@@ -5028,6 +5030,8 @@ MKSEF,"Marksmen Energy, Inc. Ordinary Shares (Canada)",U
 MKSI,"MKS Instruments, Inc. Common Stock",NASDAQ
 MKTAY,Makita Corp. American Depositary Shares,U
 MKTDF,Deepmarkit Corp Common Shares,U
+MKTW,"MarketWise, Inc. Class A Common Stock",NASDAQ
+MKTWW,"MarketWise, Inc. Warrant",NASDAQ
 MKTX,"MarketAxess Holdings, Inc. Common Stock",NASDAQ
 MKTY,Mechanical Technology Incorporated Common Stock (Nevada),NASDAQ
 MKVNF,District Metals Corp Ordinary Shares,U
@@ -5568,6 +5572,3 @@ MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U

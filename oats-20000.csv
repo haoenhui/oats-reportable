@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
@@ -318,7 +317,7 @@ SLF,Sun Life Financial Inc.,NYSE
 SLFFF,Future Mobility Solutions Ltd.  Ordinary Shares,U
 SLFIF,SUN LIFE FINL INC PFD SHS CL A SER 4 Preference Shares,U
 SLFPF,ABRDN PLC Ordinary Shares,U
-SLFPY,Standard Life Aberdeen PLC American Depositary Receipts - Unsponsored,U
+SLFPY,ABRDN PLC American Depositary Receipts - Unsponsored,U
 SLFSF,Sun Life Financial Inc. CL A SER 2 Preferred Stock (Canada),U
 SLFYF,Sun Life Financial Inc. Preferred Class A Series 1 (Canada),U
 SLG,SL Green Realty Corp.,NYSE
@@ -1121,6 +1120,7 @@ SRTTY,Zozo Inc American Depositary Receipts - Unsponsored,U
 SRTY,ProShares UltraPro Short Russell2000,ARCA
 SRUS,Stratus Capital Corp. Common Stock,U
 SRUTF,Sproutly Cda Inc Ordinary Shares,U
+SRUUF,SPROTT PHYSICAL URANIUM TR UNIT (Canada),U
 SRV,The Cushing MLP & Infrastructure Total Return Fund,NYSE
 SRVR,Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF,ARCA
 SRVTF,"Star Vault AB, Malmo Ordinary Shares B (Sweden)",U
@@ -1607,6 +1607,7 @@ SWISF,GlobeX Data Ltd. Common Stock,U
 SWK,"Stanley Black & Decker, Inc.",NYSE
 SWKH,SWK Holdings Corporation Common Stock,NASDAQ
 SWKS,"Skyworks Solutions, Inc. Common Stock",NASDAQ
+SWLFF,Silver Wolf Exploration Ltd Ordinary Shares,U
 SWM,"Schweitzer-Mauduit International, Inc.",NYSE
 SWMAF,SWEDISH MATCH AB Ordinary Shares,U
 SWMAY,Swedish Match AB Frueher Svenska Taendsticks AB Unsponsored ADR (Sweden),U
@@ -4430,7 +4431,6 @@ WARM,"Cool Technologies, Inc. Common Stock",U
 WARR,Warrior Technologies Acquisition Company,NYSE
 WARR U,"Warrior Technologies Acquisition Company Units, each consisting of one share of Class A common stock",NYSE
 WARR WS,"Warrior Technologies Acquisition Company Warrants, each whole warrant exercisable for one share of C",NYSE
-WASEF,WAH SEONG CORPORATION BHD Ordinary Shares,U
 WASH,"Washington Trust Bancorp, Inc. Common Stock",NASDAQ
 WAT,Waters Corp,NYSE
 WATT,Energous Corporation Common Stock,NASDAQ
@@ -4783,7 +4783,6 @@ WOPEF,Woodside Pete Ltd Ordinary Shares,U
 WOPEY,Woodside Petroleum Ltd American Depositary Shares,U
 WOR,"WORTHINGTON INDUSTRIES, INC. COMMON SHARES",NYSE
 WORC,"Wake Up Now, Inc. New Common Stock",U
-WORK,"Slack Technologies, Inc.",NYSE
 WORX,SCWorx Corp. Common Stock,NASDAQ
 WOSGF,Watches of Switzerland Group PLC Ordinary Shares (United Kingdom),U
 WOSSF,Water Oasis Group Limited Ordinary Shares,U
@@ -5135,9 +5134,11 @@ XPHYF,XPhyto Therapeutics Corporation Common Shares (Canada),U
 XPL,Solitario Zinc Corp,AMEX
 XPND,First Trust Expanded Technology ETF,ARCA
 XPO,"XPO LOGISTICS, INC.",NYSE
+XPO WI,XPO Logistics Inc.,NYSE
 XPOA,"DPCM Capital, Inc.",NYSE
 XPOA U,"DPCM Capital, Inc. Units, each consisting of one share of Class A common stock and one-third of one",NYSE
 XPOA WS,"DPCM Capital, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at",NYSE
+XPOF,"Xponential Fitness, Inc.",NYSE
 XPP,ProShares Ultra FTSE China 50 of PROSHARES TRUST,ARCA
 XPPLF,XP Power Ltd Ordinary Shares (Singapore),U
 XRAY,DENTSPLY SIRONA Inc. Common Stock,NASDAQ
@@ -5549,6 +5550,7 @@ ZUMZ,Zumiez Inc. Common Stock,NASDAQ
 ZUO,"Zuora, Inc.",NYSE
 ZURVY,Zurich Insurance Group Limited Sponsored American Depositary Shares,U
 ZUUS,"ZEUUS, INC. Common Stock",U
+ZVIA,Zevia PBC,NYSE
 ZVLO,"zvelo, Inc. Common Stock",U
 ZVO,Zovio Inc. Common Stock,NASDAQ
 ZVTK,"Zevotek, Inc.  Common Stock",U

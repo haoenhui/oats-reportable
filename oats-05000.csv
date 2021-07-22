@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
 CPHI,"China Pharma Holdings, Inc.",AMEX
 CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
@@ -420,6 +419,7 @@ CTIMF,P2 Gold Inc Common Shares,U
 CTJHF,Citic Resources Holdings Ltd Ordinary Shares (Bermuda),U
 CTJHY,Citic Resources Holdings Ltd Unsponsored ADR (Bermuda),U
 CTK,CooTek (Cayman) Inc.,NYSE
+CTKB,"Cytek Biosciences, Inc. Common Stock",NASDAQ
 CTLGF,China Tian Lun Gas Holdings Ltd Common Shares (Cayman Islands),U
 CTLP,"Cantaloupe, Inc. Common Stock",NASDAQ
 CTLPP,CANTALOUPE INC Preferred Stock,U
@@ -2006,7 +2006,7 @@ EFOI,"Energy Focus, Inc. Common Stock",NASDAQ
 EFOR,Efoora Health Mgmt Inc Common Stock,U
 EFOT,Efotoxpress Inc Common Stock,U
 EFR,Eaton Vance Senior Floating-Rate Fund,NYSE
-EFRGF,PASOFINO GOLD LTD Ordinary Shares,U
+EFRGD,PASOFINO GOLD LTD Ordinary Shares,U
 EFRMF,"East Africa Metals, Inc. Ordinary Shares (Canada)",U
 EFRTF,Nexus Real Estate Investment Trust  Unit,U
 EFSC,Enterprise Financial Services Corporation Common Stock,NASDAQ
@@ -2196,6 +2196,7 @@ ELST,Electronic Systems Technology Common Stock,U
 ELTK,Eltek Ltd. Ordinary Shares,NASDAQ
 ELTLF,Elementos Ltd. Ordinary Shares (Australia),U
 ELTP,"Elite Pharmaceuticals, Inc. Common Stock",U
+ELTX,"Elicio Therapeutics, Inc. Common Stock",NASDAQ
 ELUXF,AB Electrolux Ordinary Shares,U
 ELUXY,AB Electrolux Class B American Depositary Receipts,U
 ELVAF,Evolva Holding AG Namen -AKT- (Switzerland),U
@@ -2831,7 +2832,7 @@ EVN,Eaton Vance Municipal Income Trust,NYSE
 EVNNF,Eviana Health Corp Ordinary Shares (Canada),U
 EVNVY,EVN AG Sponsored ADR (Austria),U
 EVOA,"EVO Transportation & Energy Services, Inc. Common Stock",U
-EVOGF,EVOLVING GOLD CORP Common Shares,U
+EVOGD,EVOLVING GOLD CORP Common Shares,U
 EVOJ,Evo Acquisition Corp. Class A Common Stock,NASDAQ
 EVOJU,Evo Acquisition Corp. Unit,NASDAQ
 EVOJW,Evo Acquisition Corp. Warrant,NASDAQ
@@ -3123,7 +3124,6 @@ FCAX U,"Fortress Capital Acquisition Corp. Units, each consisting of one Class A
 FCAX WS,"Fortress Capital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary",NYSE
 FCBBF,FINECOBANK BANCA FINECO SPA Ordinary Shares (Italy),U
 FCBC,"First Community Bankshares, Inc. (VA) Common Stock",NASDAQ
-FCBP,First Choice Bancorp Common Stock,NASDAQ
 FCCN,Spectral Capital Corporations Common Stock,U
 FCCO,First Community Corporation Common Stock,NASDAQ
 FCCT,First Community Corporation (TN) Common Stock,U
@@ -3300,6 +3300,8 @@ FFHHF,FFI Hldgs PLC Ordinary Shares (United Kingdom),U
 FFHL,"Fuwei Films (Holdings) Co., Ltd. Ordinary Shares",NASDAQ
 FFHMY,First Financial Holding Co. Ltd. GDR Reg S (Taiwan),U
 FFIC,Flushing Financial Corporation Common Stock,NASDAQ
+FFIE,Faraday Future Intelligent Electric Inc. Common Stock,NASDAQ
+FFIEW,Faraday Future Intelligent Electric Inc. Warrant,NASDAQ
 FFIN,"First Financial Bankshares, Inc. Common Stock",NASDAQ
 FFIU,UVA Unconstrained Medium-Term Fixed Income ETF,ARCA
 FFIV,"F5 Networks, Inc. Common Stock",NASDAQ
@@ -3883,13 +3885,13 @@ FRAZ,Francisco Industries Inc Unclassified,U
 FRBA,First Bank Common Stock,NASDAQ
 FRBK,"Republic First Bancorp, Inc. Common Stock",NASDAQ
 FRBMF,FIREBIRD METALS LTD Ordinary Shares,U
-FRBSP,FIRST REP BK SAN FRANCISCO CALIF NEW DEP SHS REPSTG 1/40TH PERP PFD SER M,U
 FRC,First Republic Bank,NYSE
 FRC PRH,First Republic Bank,NYSE
 FRC PRI,"First Republic Bank  Depositary Shares, each representing a 1/40th interest in a share of 5.50% Nonc",NYSE
 FRC PRJ,"First Republic Bank Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.70% Noncu",NYSE
 FRC PRK,"First Republic Bank Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.125% Nonc",NYSE
 FRC PRL,"First Republic Bank Depositary Shares, Each Representing a 1/40th Interest in a Share of 4.250% Nonc",NYSE
+FRC PRM,"First Republic Bank Depositary Shares, each representing a 1/40th interest in a share of 4.000% Nonc",NYSE
 FRCEF,Fletcher Building Ltd Ordinary Shares (New Zealand),U
 FRCGF,Faircourt Gold Income Corp. Class A Ordinary Shares (Canada),U
 FRCH,"Frenchtex, Inc. Frenchtex Inc",U
@@ -4015,7 +4017,6 @@ FSEP,FT Cboe Vest U.S. Equity Buffer ETF - September,BATS
 FSFG,"First Savings Financial Group, Inc. Common Stock",NASDAQ
 FSGB,First Fed Sc Federal Svgs Bk Common Stock,U
 FSGCY,First Gen Corporation Unsponsored ADR (Phillipines),U
-FSGR,FS Global Cr Opportunities Fd - A Common Shares of Beneficial Interest,U
 FSHRF,Feishang Anthracite Resources Ltd. Ordinary Shares,U
 FSHUF,FU SHOU YUAN INTL GROUP LTD  Ordinary Shares (Cayman Islands),U
 FSHYF,Shougang Fushan Resources Group Ltd Ordinary Shares (Hong Kong),U
@@ -4646,6 +4647,7 @@ GFOO,Genufood Energy Enzymes Corporation Common Stock,U
 GFOR,Graf Acquisition Corp. IV,NYSE
 GFOR U,"Graf Acquisition Corp. IV Units, each consisting of one share of common stock, and one-fifth of one",NYSE
 GFOR WS,"Graf Acquisition Corp. IV Redeemable Warrants, each whole warrant exercisable for one share of commo",NYSE
+GFPRF,GREENFIRST FST PRODS INC RTS 07/30/2021,U
 GFPTF,Gfpt Public Co Ltd (F) Units Non-Voting Depository Receipt (Thailand),U
 GFTRF,Gold'n Futures Mineral Corp. Common Shares,U
 GFTX,"Global Fiber Technologies, Inc. Common Stock",U
@@ -5570,4 +5572,3 @@ GWPD,"GP Solutions, Inc. Common Stock",U
 GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
 GWRRF,Engold Mines Ltd Ordinary Shares,U
 GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
-GWSAF,Gowest Gold Ltd Ordinary Shares,U
