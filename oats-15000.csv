@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
@@ -63,6 +61,8 @@ MTST,"MetaStat, Inc. Common Stock",U
 MTSUY,Mitsubishi Corp American Depositary Receipts - Unsponsored (Japan),U
 MTTCF,MEAT TECH 3D LTD Common Shares,U
 MTTGF,New Energy Minerals Ltd Ordinary Shares,U
+MTTR,"Matterport, Inc. Class A Common Stock",NASDAQ
+MTTRW,"Matterport, Inc. Warrant",NASDAQ
 MTTRY,Ceconomy AG American Depositary Receipts - Unsponsored,U
 MTTWF,METRO AG Ordinary Shares,U
 MTUAF,MTU Aero Engines Holdings AG Namen Akt (Germany),U
@@ -322,7 +322,7 @@ NBST,Newbury Street Acquisition Corporation Common Stock,NASDAQ
 NBSTU,Newbury Street Acquisition Corporation Units,NASDAQ
 NBSTW,Newbury Street Acquisition Corporation Warrants,NASDAQ
 NBTB,NBT Bancorp Inc. Common Stock,NASDAQ
-NBTRF,NOBEL29 RES CORP Common Shares,U
+NBTRF,NOBEL RES CORP NEW Common Shares,U
 NBTX,Nanobiotix S.A. American Depositary Shares,NASDAQ
 NBVAF,Nubeva Technologies Ltd Ordinary Shares,U
 NBVB,Nationwide Beverage Bottling Corp Common Stock,U
@@ -2321,7 +2321,7 @@ PEB PRE,Pebblebrook Hotel Trust 6.375% Series E Cumulative Redeemable Preferred 
 PEB PRF,Pebblebrook Hotel Trust 6.3% Series F Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE
 PEB PRG,Pebblebrook Hotel Trust 6.375% Series G Cumulative Redeemable Preferred Shares of Beneficial Interes,NYSE
 PEBA,Penn Bancshares Inc Common Stock,U
-PEBBV,PEBBLEBROOK HOTEL TR Preferred Stock,U
+PEBBP,PEBBLEBROOK HOTEL TR Preferred Stock,U
 PEBC,Peoples Bancorp Inc MD Common,U
 PEBK,"Peoples Bancorp of North Carolina, Inc. Common Stock",NASDAQ
 PEBN,Pacific Enterprise Bancorp Irvine California Common Stock,U
@@ -2337,8 +2337,8 @@ PEG,Public Service Enterprise Group Incorporated,NYSE
 PEGA,Pegasystems Inc. Common Stock,NASDAQ
 PEGHY,Pegasus Hava Tasimaciligi AS Unsponsored ADR (Turkey),U
 PEGIY,Pt Energi Mega Persada Tbk Unsponsored ADR (Indonesia),U
+PEGRD,Pennon Group plc American Depositary Receipts - Unsponsored,U
 PEGRF,Pennon Group plc Ordinary Shares,U
-PEGRY,Pennon Group plc Unsponsored ADR (United Kingdom),U
 PEGX,"The Pegasus Companies, Incorporated Common Stock",U
 PEI,Pennsylvania Real Estate Investment Trust,NYSE
 PEI PRB,PENNSYLVANIA REAL ESTATE INVESTMENT TRUST 7.375% Series B Cumulative Redeemable Perpetual Preferred,NYSE
@@ -3229,7 +3229,7 @@ PSCX,Pacer Swan SOS Conservative (December) ETF,BATS
 PSDMF,Gaming Realms PLC Ordinary Shares (United Kingdom),U
 PSDNF,Poseidon Nickel Ltd Ordinary Shares (Australia),U
 PSEC,Prospect Capital Corporation Common Stock,NASDAQ
-PSECP,PROSPECT CAP CORP PERP PFD SER A Preferred Stock,U
+PSEC PRA,Prospect Capital Corporation 5.35% Series A Fixed Rate Cumulative Perpetual Preferred Stock,NYSE
 PSEP,Innovator S&P 500 Power Buffer ETF - September,BATS
 PSET,Principal Exchange-Traded Funds Principal Quality ETF,NASDAQ
 PSF,COHEN & STEERS SELECT PREFERRED AND INCOME FUND,NYSE
@@ -3803,7 +3803,6 @@ QTEYF,Questerre Energy Corp Class A Shares (Canada),U
 QTGI,Quark Technology Global Inc. Common Stock,U
 QTGPF,QT Group OYJ Ordinary Shares  (Finland),U
 QTJL,Innovator Growth Accelerated Plus ETF - July,BATS
-QTMM,Quantum Materials Corp. Common Stock,U
 QTNT,Quotient Limited Ordinary Shares,NASDAQ
 QTRHF,Quarterhill Inc. Common Shares,U
 QTRRF,Quaterra Resources Inc Ordinary Shares,U
@@ -4081,6 +4080,8 @@ REDIF,"Redhill Biopharma Ltd, Ramat Gan Ordinary Shares (Israel)",U
 REDLF,RED 5 LTD ORDINARY FULLY PAID (Australia),U
 REDU,RISE Education Cayman Ltd American Depositary Shares,NASDAQ
 REDW,Redwood Financial Inc Common Stock,U
+REE,REE Automotive Ltd. Class A Ordinary Shares,NASDAQ
+REEAW,REE Automotive Ltd. Warrant,NASDAQ
 REECF,Reece Ltd Ordinary Shares,U
 REED,"Reeds, Inc. Common Stock",NASDAQ
 REEEF,Rarex Ltd Ordinary Shares (Australia),U
@@ -5572,3 +5573,4 @@ SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U

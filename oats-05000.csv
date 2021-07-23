@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPHI,"China Pharma Holdings, Inc.",AMEX
-CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
@@ -1364,6 +1362,7 @@ DNTUF,Dentsu Group Inc Common Shares,U
 DNTUY,Dentsu Group Inc. American Depositary Receipts - Unsponsored,U
 DNUT,"Krispy Kreme, Inc. Common Stock",NASDAQ
 DNVB,Denver Bankshares Inc Common Stock,U
+DNVVF,"Deinove, Paris Shs (France)",U
 DNXG,DONGXING INTL INC Common Stock,U
 DNZ,D and Z Media Acquisition Corp.,NYSE
 DNZ U,"D and Z Media Acquisition Corp. Units, each consisting of one share of Class A Common Stock and one-",NYSE
@@ -2053,6 +2052,7 @@ EGPLF,"Eagle Plains Resources, Ltd. (Canada) Ordinary Shares",U
 EGPT,VanEck Vectors Egypt Index ETF,ARCA
 EGRAF,Energy Resources of Australia Ltd A Shares,U
 EGRAY,Energy Resources Of Austr Ltd Unsponsored ADR RPSTG A Shares (Australia),U
+EGRDF,E-Guardian Inc Ordinary Shares (Japan),U
 EGRGF,Eagle Energy Inc Ordinary Shares (Canada),U
 EGRNF,China Evergrande Group Ordinary Shares,U
 EGRNY,China Evergrande Group American Depositary Receipts - Unsponsored,U
@@ -2130,7 +2130,7 @@ ELALY,EL AL Israel Airlines Ltd Unsponsored ADR (Israel),U
 ELAMF,Elamex S.A. de C.V. Ordinary Shares,U
 ELAN,Elanco Animal Health Incorporated Common Stock,NYSE
 ELAT,Elanco Animal Health Incorporated 5.00% Tangible Equity Units,NYSE
-ELBSF,Engagement Labs Inc Ordinary Shares,U
+ELBSD,Engagement Labs Inc Ordinary Shares,U
 ELC,"Entergy Louisiana, LLC Collateral Trust Mortgage Bonds, 4.875 % Series due September 1, 2066",NYSE
 ELCGF,ELECTRA STONE LTD  Ordinary Shares,U
 ELCI,"Eastern Light Capital, Incorporated Common Stock",U
@@ -2203,6 +2203,7 @@ ELVAF,Evolva Holding AG Namen -AKT- (Switzerland),U
 ELVAY,Evolva Holding SA Sponsored ADR (Switzerland),U
 ELVG,"Elvictor Group, Inc. Common Stock",U
 ELVT,"Elevate Credit, Inc.",NYSE
+ELVUF,ELEVATE URANIUM LTD Ordinary Shares,U
 ELWSF,Electreon Wireless Ltd. Ord Shares (Israel),U
 ELXMF,NOVA EYE MED LTD Ordinary Shares,U
 ELXMY,Nova Eye Medical Limited  American Depositary Receipts - Sponsored,U
@@ -2242,6 +2243,7 @@ EMHC,SPDR Bloomberg Barclays Emerging Markets USD Bond ETF,ARCA
 EMHI,East Morgan Holdings Inc  Common Stock,U
 EMHLF,EUROPEAN METALS HLDGS LTD Ordinary Shares,U
 EMHTF,EMERALD HEALTH THERAPEUTICS INC  Ordinary Shares,U
+EMHXY,EUROPEAN METALS HLDGS LTD American Depositary Receipts - Sponsored,U
 EMHY,iShares J.P. Morgan EM High Yield Bond ETF,BATS
 EMIF,iShares Emerging Markets Infrastructure ETF,NASDAQ
 EMINF,Kore Potash Ltd Ordinary Shares (Australia) Ordinary Shares,U
@@ -2861,6 +2863,7 @@ EVT,Eaton Vance Tax-Advantaged Dividend Income Fund,NYSE
 EVTC,"EVERTEC, INC.",NYSE
 EVTCY,Evotec SE American Depositary Receipts - Sponsored,U
 EVTI,"Eventure Interactive, Inc. Common Stock",U
+EVTK,Eventiko Inc Common Stock,U
 EVTN,"Enviro Technologies U.S., Inc. Common Stock",U
 EVTNF,Eviation Aircraft Ltd. Ordinary Shares,U
 EVTP,"EV Transportation, Inc. Common Stock",U
@@ -3256,7 +3259,6 @@ FELTY,Fuji Electric Holdings Co Ltd Unsponsored ADR (Japan),U
 FEM,First Trust Emerging Markets AlphaDEX Fund,NASDAQ
 FEMB,First Trust Exchange-Traded Fund III First Trust Emerging Markets Local Currency Bond ETF,NASDAQ
 FEMFF,First Energy Metals Ltd Common Shares,U
-FEMPF,Food Empire Holdings Ltd Ordinary Shares (Singapore),U
 FEMS,First Trust Developed Markets Small Cap AlphaDex Fund,NASDAQ
 FEMY,Femasys Inc. Common Stock,NASDAQ
 FEN,First Trust Energy Income and Growth Fund,AMEX
@@ -4558,7 +4560,6 @@ GEBHF,Genting Berhad Ord Ordinary Shares,U
 GEBHY,Genting Berhad Sponsored ADR (Malaysia),U
 GEBRF,Greenbriar Capital Corporation Com (Canada),U
 GECC,Great Elm Capital Corp. Common Stock,NASDAQ
-GECCL,Great Elm Capital Corp. 6.50% Notes due 2022,NASDAQ
 GECCM,Great Elm Capital Corp. 6.75% Notes Due 2025,NASDAQ
 GECCN,Great Elm Capital Corp. 6.5% Notes due 2024,NASDAQ
 GECCO,Great Elm Capital Corp. 5.875% Notes due 2026,NASDAQ
@@ -4726,9 +4727,6 @@ GHRS,GH Research PLC Ordinary Shares,NASDAQ
 GHSI,"Guardion Health Sciences, Inc. Common Stock",NASDAQ
 GHST,"Ghost Technology, Inc. Common Stock",U
 GHTI,"G-H-3 International, Inc. Common Stock",U
-GHVI,"Gores Holdings VI, Inc. Class A Common Stock",NASDAQ
-GHVIU,"Gores Holdings VI, Inc. Unit",NASDAQ
-GHVIW,"Gores Holdings VI, Inc. Warrant",NASDAQ
 GHVNF,GoldHaven Resources Corp Common Shares,U
 GHY,"PGIM Global High Yield Fund, Inc.",NYSE
 GHYB,Goldman Sachs Access High Yield Corporate Bond ETF,ARCA
@@ -5379,6 +5377,7 @@ GSGTF,Gensight Biologics SA Ordinary Shares (France),U
 GSHD,"Goosehead Insurance, Inc. Class A Common Stock",NASDAQ
 GSHHY,Guangshen Railway Co. Ltd American Depositary Receipts - Sponsored (China),U
 GSHN,Gushen Inc Common Stock,U
+GSHRF,Goldshore Resources Inc Common Shares,U
 GSID,Goldman Sachs MarketBeta International Equity ETF,BATS
 GSIE,Goldman Sachs ActiveBeta International Equity ETF,ARCA
 GSIG,Goldman Sachs Access Investment Grade Corporate 1-5 Year Bond ETF,ARCA
@@ -5572,3 +5571,6 @@ GWPD,"GP Solutions, Inc. Common Stock",U
 GWRE,"GUIDEWIRE SOFTWARE, INC.",NYSE
 GWRRF,Engold Mines Ltd Ordinary Shares,U
 GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
+GWSAF,Gowest Gold Ltd Ordinary Shares,U
+GWSN,"Gulf West Security Network, Inc. Common Stock",U
+GWSO,"Global Warming Solutions, Inc. Common Stock",U

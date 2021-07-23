@@ -1055,7 +1055,6 @@ ALRT,"ALR Technologies, Inc. Common Stock",U
 ALRY,Allenergy Inc Common Stock,U
 ALSE,"Alseres Pharmaceuticals, Inc. Common Stock",U
 ALSI,"Atlas Resources International, Inc. Common Stock",U
-ALSK,"Alaska Communications Systems Group, Inc. Common Stock",NASDAQ
 ALSMY,Alstom Unsponsored ADR (France),U
 ALSN,"ALLISON TRANSMISSION HOLDINGS, INC.",NYSE
 ALSRF,"Alstria Office AG, Hamburg Ordinary Shares",U
@@ -1505,6 +1504,7 @@ APSKY,"Primorsk Shipping Corporation, Joint Stock Company Sponsored ADR (Russia)
 APT,"Alpha Pro Tech, Ltd.",AMEX
 APTCF,Advanced Proteome Therapeutics Corporation Common Shares,U
 APTL,Alaska Pwr & Tel Co Common Stock,U
+APTMU,Alpha Partners Technology Merger Corp. Unit,NASDAQ
 APTO,"Aptose Biosciences, Inc. Common Shares",NASDAQ
 APTPF,Airports of Thailand Pblic Co Ltd Ordinary Shares,U
 APTS,"Preferred Apartment Communities, Inc.",NYSE
@@ -2235,6 +2235,7 @@ AWH,Aspira Women's Health Inc. Common Stock,NASDAQ
 AWHI,"ANGO World Holdings, Inc. Common Stock",U
 AWI,"Armstrong World Industries, Inc.",NYSE
 AWK,"American Water Works Company, Inc",NYSE
+AWKNF,Awakn Life Sciences Corp Common Stock (Canada),U
 AWKS,"AmeriWorks, Inc. Common Stock",U
 AWLCF,Awilco Drilling Ltd. Ordinary Shares,U
 AWLNF,AWILCO LNG AS SHS (Norway),U
@@ -2854,6 +2855,7 @@ BHRB,Burke & Herbert Bank & Trust Company (VA) Common Stock,U
 BHSE,Bull Horn Holdings Corp. Ordinary Shares,NASDAQ
 BHSEU,Bull Horn Holdings Corp. Unit,NASDAQ
 BHSEW,Bull Horn Holdings Corp. Warrants,NASDAQ
+BHSIF,"Bayhorse Silver, Inc. Ordinary Shares (Canada)",U
 BHTG,"BioHiTech Global, Inc. Common Stock",NASDAQ
 BHV,BlackRock Virginia Muni Bond Trust,NYSE
 BHVN,Biohaven Pharmaceutical Holding Company Ltd.,NYSE
@@ -3154,7 +3156,7 @@ BLUW,Blue Water Acquisition Corp. Class A Common Stock,NASDAQ
 BLUWU,Blue Water Acquisition Corp. Unit,NASDAQ
 BLUWW,Blue Water Acquisition Corp. Warrant,NASDAQ
 BLV,Vanguard Long-Term Bond ETF,ARCA
-BLVDF,Helix Applications Inc Ordinary Shares,U
+BLVDF,GLOBALBLOCK DIGITAL ASSET TRADING LTD Ordinary Shares,U
 BLW,Blackrock Limited Duration Income Trust,NYSE
 BLWYF,Bellway Plc 25p Ords Ordinary Shares,U
 BLWYY,Bellway Plc 25p Ords Unsponsored American Depository Receipt (United Kingdom),U
@@ -4021,6 +4023,7 @@ CAOLF,China Aviation Oil Singapore Corp Ltd Ordinary Shares (Singapore),U
 CAOVF,China Overseas Land&Invt Ltd Ordinary Shares,U
 CAOVY,China Overseas Land&Invt Ltd Unsponsored ADR (Hong Kong),U
 CAOX,California Orchards Co Common Stock,U
+CAOYF,China Aoyuan Group Ltd Ordinary Shares (Cayman Islands),U
 CAP,Capitol Investment Corp. V,NYSE
 CAP U,"Capitol Investment Corp. V Units, each consisting of one share of Class A common stock, and one-thir",NYSE
 CAP WS,"Capitol Investment Corp. V Warrants, each whole warrant exercisable for one share of Class A common",NYSE
@@ -4245,6 +4248,7 @@ CCKWF,CCK CONS HOLDINGS BERHAD WARRANTS EXP 6/18/2023 (Malaysia),U
 CCL,Carnival Corporation,NYSE
 CCLLF,CCL Inds Inc Cl A Ordinary Shares (Canada),U
 CCLP,CSI Compressco LP Common Units,NASDAQ
+CCLV,"CocoLuv, Inc. Common Stock",U
 CCLX,"CableClix (USA), Inc. Common Stock",U
 CCM,Concord Medical Services Holding Limited,NYSE
 CCMMF,CMC Markets PLC London Ordinary Shares (United Kingdom),U
@@ -5152,9 +5156,6 @@ CMIM,Changming Industrial Management Group Holding Common Stock,U
 CMIT,CMARK International Inc Common Stock,U
 CMKI,"CMK Gaming International, Inc. Common Stock",U
 CMLEF,Cominar Real Estate Investment Trust Trust Units,U
-CMLF,"CM Life Sciences, Inc. Class A Common Stock",NASDAQ
-CMLFU,"CM Life Sciences, Inc. Unit",NASDAQ
-CMLFW,"CM Life Sciences, Inc. Warrant",NASDAQ
 CMLGF,"Canickel Mining, Ltd. Ordinary Shares (Canada)",U
 CMLLF,China Maple Leaf Educational Systems Ltd.  Ordinary Shares,U
 CMLS,Cumulus Media Inc. Class A Common Stock,NASDAQ
@@ -5572,3 +5573,5 @@ CPGPY,"CPP Group, PLC American Depositary Receipts - Unsponsored",U
 CPGSF,"Cropenergies AG, Mannheim Ordinary Shares (Germany)",U
 CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
 CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
+CPHI,"China Pharma Holdings, Inc.",AMEX
+CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U

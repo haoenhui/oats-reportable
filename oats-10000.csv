@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWSAF,Gowest Gold Ltd Ordinary Shares,U
-GWSN,"Gulf West Security Network, Inc. Common Stock",U
-GWSO,"Global Warming Solutions, Inc. Common Stock",U
 GWTI,"Greenway Technologies, Inc. Common Stock",U
 GWTR,"Global Water Technologies, Inc. Common Stock",U
 GWW,"W.W. Grainger, Inc.",NYSE
@@ -1272,6 +1269,7 @@ IDKOY,"Idemitsu Kosan Co Ltd, Tokyo Unsponsored ADR (Japan)",U
 IDLB,Invesco Exchange-Traded Fund Trust II Invesco FTSE International Low Beta Equal Weight ETF,NASDAQ
 IDLM,"Idle Media, Inc. Common Stock",U
 IDLV,Invesco S&P International Developed Low Volatility ETF,ARCA
+IDME,International Drawdown Managed Equity ETF,BATS
 IDMO,Invesco S&P International Developed Momentum ETF,ARCA
 IDN,"Intellicheck, Inc. Common Stock",NASDAQ
 IDNA,iShares Genomics Immunology and Healthcare ETF,ARCA
@@ -2256,6 +2254,7 @@ ITXXF,Itaconix Plc Ordinary Shares (United Kingdom),U
 IUAGF,ISHARES IV PLC AGEING POPULATION UCITS ETF USD (Ireland),U
 IUCDL,Ishares Ubs Composite Bd Index Fd Units Exchange Traded Fund,U
 IUGNF,Imugene Ltd Ordinary Shares (Australia),U
+IUKSF,iShares II plc UK PROPERTY UCITS ETF GBP DIST (Ireland),U
 IUNSF,iShares S&P/TSX Capped Energy Index ETF (Canada),U
 IUNTF,iShares MSCI EAFE Index ETF CAD-Hedged (Canada),U
 IUQFF,ISHARES IV PLC ISHARES EDGE MSCI USA QUALITY FACTOR UCITS ETFUSD ACC Exchange Traded Fund,U
@@ -2702,6 +2701,7 @@ JPM PRK,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th int
 JPM PRL,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 4.625% No",NYSE
 JPMB,JPMorgan USD Emerging Markets Sovereign Bond ETF,ARCA
 JPME,JPMorgan Diversified Return US Mid Cap Equity ETF,ARCA
+JPMMV,JPMORGAN CHASE & CO DEP SHS REPSTG 1/400TH PFD SER MM,U
 JPN,Xtrackers Japan JPX-Nikkei 400 Equity ETF,ARCA
 JPNCF,JAPAN CASH MACHINE CO LTD SHS (Japan),U
 JPNPY,Japan Post Ins Co Ltd ADS Repstg Com Stk (Japan),U
@@ -2861,7 +2861,7 @@ KALA,"Kala Pharmaceuticals, Inc. Common Stock",NASDAQ
 KALG,"KAL Energy, Inc. Common Stock",U
 KALL,KraneShares MSCI All China Index ETF,ARCA
 KALO,Kallo Inc. Common Stock,U
-KALTF,CLARITAS PHARMACEUTICALS INC Common Shares,U
+KALTD,CLARITAS PHARMACEUTICALS INC Common Shares,U
 KALU,Kaiser Aluminum Corporation Common Stock,NASDAQ
 KALV,"KalVista Pharmaceuticals, Inc. Common Stock",NASDAQ
 KALY,"Kali, Inc. Common Stock",U
@@ -3456,7 +3456,6 @@ KXI,iShares Global Consumer Staples ETF,ARCA
 KXIN,Kaixin Auto Holdings Ordinary Share,NASDAQ
 KXINW,a Warrant   04/30/2024,U
 KXNXF,Kenedix Retail Reit Corp Ordinary Shares (Japan),U
-KXPLF,"Bayhorse Silver, Inc. Ordinary Shares (Canada)",U
 KXSCF,"Kinaxis, Inc Ordinary Shares (Canada)",U
 KYCCF,Keyence Corp Ordinary Shares,U
 KYDKF,Kyudenko Corp Ordinary Shares (Japan),U
@@ -3485,7 +3484,9 @@ KZIA,Kazia Therapeutics Limited American Depositary Shares,NASDAQ
 KZMYY,Kaz Minerals Plc American Depositary Receipts - Unsponsored,U
 KZR,"Kezar Life Sciences, Inc. Common Stock",NASDAQ
 L,Loews Corporation,NYSE
+LAAA,Lakeshore Acquisition I Corp. Ordinary Shares,NASDAQ
 LAAAU,Lakeshore Acquisition I Corp. Unit,NASDAQ
+LAAAW,Lakeshore Acquisition I Corp. Warrant,NASDAQ
 LAAB,"Startech Labs, Inc. Common Stock",U
 LABD,Direxion Daily S&P Biotech Bear 3X Shares,ARCA
 LABFF,LABORATORIOS FARMACEUTICOS ROVI SA Ordinary Shares,U
@@ -3752,7 +3753,6 @@ LGMMY,LEG IMMOBILIEN AG  American Depositary Receipts - Unsponsored (Germany),U
 LGNC,Logan Clay Prods Co Common Stock,U
 LGND,Ligand Pharmaceuticals Incorporated Common Stock,NASDAQ
 LGNDZ,Ligand Pharmaceuticals Incorporated Roche Contingent Value Rights,U
-LGNNF,LEGAL & GEN  UCITS ETF PLC US ENERGY INFRASTRUCTURE MLP UCITS ETF USD DISTRIBUTING Exchange Traded Fund  Ireland(IE ),U
 LGNRF,Legend Holdings Corp Registered\Shares H\Cny 1.00 (China),U
 LGNXZ,Ligand Pharmaceuticals Incorporated Glucagon Contingent Value Rt,U
 LGNYZ,Ligand Pharmaceuticals Incorporated General Contingent Value Right,U
@@ -4391,7 +4391,6 @@ MARPS,Marine Petroleum Trust Units of Beneficial Interest,NASDAQ
 MARUF,Marubeni Corp Ord Ordinary Shares,U
 MARUY,Marubeni Corp Ord American Depositary Shares,U
 MARVF,MARVEL DISCOVERY CORP Ordinary Shares,U
-MARXF,ELEVATE URANIUM LTD Ordinary Shares,U
 MARZ,TrueShares Structured Outcome (March) ETF,BATS
 MARZF,Marston's PLC Ordinary Shares (United Kingdom),U
 MAS,Masco Corporation,NYSE
@@ -4845,6 +4844,7 @@ MGPUF,M&G PLC Common Shares  United Kingdom(GB ),U
 MGR,"Affiliated Managers Group, Inc. 5.875% Junior Subordinated Notes due 2059",NYSE
 MGRB,"Affiliated Managers Group, Inc. 4.750% Junior Subordinated Notes due 2060",NYSE
 MGRC,McGrath RentCorp Common Stock,NASDAQ
+MGRD,"Affiliated Managers Group, Inc. 4.200% Junior Subordinated Notes due 2061",NYSE
 MGRLF,Magmatic Res Ltd Ordinary Shares (Australia),U
 MGROF,MustGrow Biologics Corporation Common Shares (Canada),U
 MGRTF,"MCGRATH HLDG CO LTD,  Ordinary Fully Paid (Austrailia)",U
@@ -5572,3 +5572,5 @@ MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
