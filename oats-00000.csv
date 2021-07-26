@@ -3532,7 +3532,6 @@ BRRE,Blue Ridge Real Estate Co. Common Stock,U
 BRRGF,Bergenbio AS Ordinary Shares (Norway),U
 BRRLY,Barry Callebaut AG ADR Unsponsored (Switzerland),U
 BRRN,Born Inc. Common Stock,U
-BRRZY,Total Brain Ltd American Depositary Receipts - Sponsored,U
 BRSE,"Broadside Enterprises, Inc. Common Stock",U
 BRSF,"Brain Scientific, Inc. Common Stock",U
 BRSGF,Queens Rd Cap Invt Ltd Ordinary Shares,U
@@ -3714,7 +3713,7 @@ BTN,"Ballantyne Strong, Inc",AMEX
 BTNB,Bridgetown 2 Holdings Limited Class A Ordinary Shares,NASDAQ
 BTO,John Hancock Financial Opportunities Fund,NYSE
 BTOF,Benton Financial Corp Common Stock,U
-BTOOY,B2W - Companhia Digital Sponsored GDR Reg S (Brazil),U
+BTOOY,AMERICANAS S A American Depositary Receipts - Sponsored,U
 BTOW,GTFN HLDGS INC Common Stock,U
 BTPNF,BANK BTPN TBK PT Ordinary Shares  Indonesia(ID ),U
 BTQNF,"BQE Water, Inc. Common Shares",U
@@ -4124,7 +4123,6 @@ CBDS,"Cannabis Sativa, Inc. Common Stock",U
 CBDX,"Curative Biosciences, Inc. Common Stock",U
 CBDY,Target Group Inc. Common Stock,U
 CBEEF,Cabo Drilling Corp Ordinary Shares (Canada),U
-CBEVD,Spirits Cap Corp. Common Stock,U
 CBEX,Cambex Corporation Common Stock,U
 CBFC,Cnb Financial Services Inc Common Stock,U
 CBFV,"CB Financial Services, Inc. Common Stock",NASDAQ
@@ -4237,9 +4235,6 @@ CCHI,"Cambridge Capital Holdings, Inc. Common Stock",U
 CCHWF,Columbia Care Inc Common Shares (Canada),U
 CCHZ,Career College Holding Company Inc Common Stock,U
 CCI,Crown Castle Intl. Corp.,NYSE
-CCIV,Churchill Capital Corp IV,NYSE
-CCIV U,"Churchill Capital Corp IV Units, each consisting of one share of Class A common stock and one-fifth",NYSE
-CCIV WS,"Churchill Capital Corp IV Warrants, each exercisable for one share of Class A common stock at an exe",NYSE
 CCIXF,Canadian Imperial Bank Comm Toronto Ont Preference Shares Series 45 Class A (Canada),U
 CCJ,Cameco Corporation,NYSE
 CCJMF,"Melior Resources, Inc Ordinary Shares",U
@@ -5438,6 +5433,7 @@ COF PRL,"Capital One Financial Corporation Depositary Shares, Each Representing 
 COFE,Cafe Holdings Inc. Common Stock,U
 COFI,"Credit One Financial, Inc. Common Stock",U
 COFJF,COFCO JOYCOME FOODS LTD Ordinary Shares (Cayman Islands),U
+COFNV,CAPITAL ONE FINL CORP DEP SHS REPSTG 1/40TH PERP PFD SER N Depositary Shares,U
 COFRF,COMFORIA RESIDENTIAL REIT INC REIT  (Japan),U
 COFS,"ChoiceOne Financial Services, Inc. Common Stock",NASDAQ
 COFSF,Colour Life Services Group Co HKD Shares (Cayman Islands),U
@@ -5575,3 +5571,5 @@ CPHC,Canterbury Park Holding Corporation 'New' Common Stock,NASDAQ
 CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
 CPHI,"China Pharma Holdings, Inc.",AMEX
 CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
+CPI,CPI Inflation Hedged ETF,ARCA
+CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U

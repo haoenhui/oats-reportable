@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
@@ -271,7 +273,6 @@ SKTO,"SK3 Group, Inc. Common Stock",U
 SKTP,Skytop Lodge Corporation Common Stock,U
 SKTPP,Skytop Lodge Corporation Preferred Stock,U
 SKUFF,Svenska Kullagerfabriken Ab Skf Shares B (Sweden),U
-SKUNF,Seikagaku Corp SHS (Japan),U
 SKURF,"SAKURA INTERNET INC, OSAKA SHS (Japan)",U
 SKUYF,Sansei Yusoki Co Ltd Ordinary Shares,U
 SKVI,"Skinvisible, Inc. Common Stock",U
@@ -1138,6 +1139,7 @@ SSAAY,Ssab Swedish Steel A Sh Sk25 P Unsponsored ADR (Sweden),U
 SSB,South State Corporation Common Stock,NASDAQ
 SSBI,Summit State Bank Common Stock,NASDAQ
 SSBP,SSB Bancorp Inc Common Stock,U
+SSCC,Spirits Cap Corp. Common Stock,U
 SSCFF,SmartCool Systems Inc Ordinary Shares (Canada),U
 SSCHF,SMT Scharf Ag Ordinary Shares,U
 SSCR,SMSA Crane Acquisition Corp Common Stock,U
@@ -2172,10 +2174,7 @@ THC,Tenet Healthcare Corporation New,NYSE
 THCA,Tuscan Holdings Corp. II Common Stock,NASDAQ
 THCAU,Tuscan Holdings Corp. II Unit,NASDAQ
 THCAW,Tuscan Holdings Corp. II Warrant,NASDAQ
-THCB,Tuscan Holdings Corp. Common Stock,NASDAQ
 THCBF,THC BIOMED INTL LTD Ordinary Shares (Canada),U
-THCBU,Tuscan Holdings Corp. Unit,NASDAQ
-THCBW,Tuscan Holdings Corp. Warrant,NASDAQ
 THCC,The Healing Company Inc. Common Stock,U
 THCPU,"Thunder Bridge Capital Partners IV, Inc. Unit",NASDAQ
 THCT,"THC Therapeutics, Inc. Common Stock",U
@@ -3138,7 +3137,6 @@ TXMC,The Tirex Corporation Common Stock,U
 TXMD,"TherapeuticsMD, Inc. Common Stock",NASDAQ
 TXN,Texas Instruments Incorporated Common Stock,NASDAQ
 TXRH,"Texas Roadhouse, Inc. Common Stock",NASDAQ
-TXSO,"Texas South Energy, Inc. Common Stock",U
 TXSP,TAXUS PHARMACEUTICALS HLDGS INC Common Stock,U
 TXT,"Textron, Inc.",NYSE
 TXTM,"ProText Mobility, Inc. Common Stock",U
@@ -5082,7 +5080,7 @@ XLK,Technology Select Sector SPDR Fund,ARCA
 XLMDF,XLMEDIA PLC Ordinary Shares USD0.000001 (Jersey),U
 XLNX,"Xilinx, Inc. Common Stock",NASDAQ
 XLP,Consumers Staples Select Sector SPDR Fund,ARCA
-XLPI,Xcelplus International Inc Common Stock,U
+XLPID,Xcelplus International Inc Common Stock,U
 XLRE,Real Estate Select Sector SPDR Fund,ARCA
 XLRN,Acceleron Pharma Inc. Common Stock,NASDAQ
 XLSR,SPDR SSGA US Sector Rotation ETF,ARCA

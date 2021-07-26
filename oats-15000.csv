@@ -1,9 +1,10 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
-MTGGY,Metro AG American Depositary Receipts - Unsponsored (Germany),U
 MTGOF,MUSTI GROUP OYJ Ordinary Shares,U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
 MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
@@ -130,6 +131,8 @@ MVPS,Amplify Thematic All-Stars ETF,ARCA
 MVPT,MVP Holdings Inc. Common Stock,U
 MVRBF,Medivir Ordinary Shares,U
 MVRL,ETRACS Monthly Pay 1.5X Leveraged Mortgage REIT ETN,ARCA
+MVST,"Microvast Holdings, Inc. Common Stock",NASDAQ
+MVSTW,"Microvast Holdings, Inc. Warrants",NASDAQ
 MVT,Blackrock Munivest Fund II,NYSE
 MVV,ProShares Ultra MidCap400,ARCA
 MVVYF,Moovly Media Inc Ordinary Shares (Canada),U
@@ -174,7 +177,6 @@ MXTRF,Montero Mining Common Shares,U
 MXTSF,Maxcom Telecomunicaciones Sa De Cv Mexico Other,U
 MXTTF,MEDXTRACTOR CORP COM (Canada),U
 MXVAF,Maxvalu Tokai Co Ltd Ordinary Shares (Japan),U
-MXVDF,Carbon Streaming Corporation Common Shares,U
 MXXEF,Mdax Ex Thesaurierungs -Anteile Shares (Germany),U
 MYAGF,AYA GOLD & SILVER INC Common Shares,U
 MYBF,"Muncy Bank Financial, Inc. (PA) Common Stock",U
@@ -1120,7 +1122,6 @@ NTTCF,Netcents Technology Inc Ordinary Shares (Canada),U
 NTTDF,NTT Data Corporation Ordinary Shares (Japan),U
 NTTHF,Neo Lithium Corp  Ordinary Shares (Canada),U
 NTTIF,Novatti Group Ltd Ordinary Shares (Australia),U
-NTTNP,National Gen Hldgs Corp Depository Sh Repstg 1/40th Pfd Ser C 7.50%,U
 NTTYY,Nippon Telegraph and Telephone Corporation American Depositary Shares - Sponsored,U
 NTULF,Nihon Unisys Ltd Ordinary Shares (Japan),U
 NTUR,"Natural Blue Resources, Inc. Common Stock",U
@@ -1513,6 +1514,7 @@ OFS,OFS Capital Corporation Common Stock,NASDAQ
 OFSI,"Omni Financial Services, Inc. Commmon Stock",U
 OFSSG,OFS Capital Corporation 6.25% Notes Due 2023,NASDAQ
 OFSSI,OFS Capital Corporation 5.95% Notes due 2026,NASDAQ
+OFSTF,Carbon Streaming Corporation Common Shares,U
 OG,Onion Global Limited American Depositary Shares (each ten (10) ADSs representing one (1) Class A Ord,NYSE
 OGAA,Organic Agricultural Company Limited Common Stock,U
 OGCP,"Empire State Realty OP, L.P. Series 60",ARCA
@@ -1683,7 +1685,6 @@ ONTF,"ON24, Inc.",NYSE
 ONTO,Onto Innovation Inc.,NYSE
 ONTRF,Blackrock Oil Corporation Common Stock,U
 ONTX,"Onconova Therapeutics, Inc. Common Stock",NASDAQ
-ONTXW,"Onconova Therapeutics, Inc. Warrants",NASDAQ
 ONTZF,O-Net Technologies Group Ltd Ordinary Shares,U
 ONVC,Online Vacation Center Holdings Corp. Common Stock,U
 ONVO,"Organovo Holdings, Inc. Common Stock",NASDAQ
@@ -4291,7 +4292,6 @@ RIHT,"Rightscorp, Inc. Common Stock",U
 RIII,"Renavotio, Inc. Common Stock",U
 RIINF,"Braveheart Resources, Inc.  Common Shares",U
 RILY,"B. Riley Financial, Inc. Common Stock",NASDAQ
-RILYG,"B. Riley Financial, Inc. 7.25% Senior Notes due 2027",NASDAQ
 RILYH,"B. Riley Financial, Inc. 7.375% Senior Notes due 2023",NASDAQ
 RILYI,"B. Riley Financial, Inc. 6.875% Senior Notes due 2023",NASDAQ
 RILYK,"B. Riley Financial, Inc. 5.50% Senior Notes Due 2026",NASDAQ
@@ -5003,6 +5003,7 @@ SBKO,"Summit Bank Group, Inc.  Common Stock",U
 SBKT,Sumner Bank and Trust Common Stock,U
 SBLK,Star Bulk Carriers Corp. Common Shares,NASDAQ
 SBLKZ,Star Bulk Carriers Corp. 8.30% Senior Notes due 2022,NASDAQ
+SBLOF,Shin Nippon Biomedical Laboratories Ltd Kagoshima Ordinary Shares (Japan),U
 SBLRF,Sable Resources Ltd Ordinary Shares,U
 SBLUY,STABILUS S A American Depositary Receipts - Unsponsored Luxembourg(LU ),U
 SBM,ProShares Short Basic Materials,ARCA
@@ -5572,5 +5573,3 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U

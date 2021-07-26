@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWTI,"Greenway Technologies, Inc. Common Stock",U
 GWTR,"Global Water Technologies, Inc. Common Stock",U
 GWW,"W.W. Grainger, Inc.",NYSE
 GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
@@ -163,7 +162,6 @@ HBUV,Hubilu Venture Corporation Common Shares,U
 HCA,"HCA Healthcare, Inc.",NYSE
 HCAEF,Holding Co Admie Ipto SA Common Stock (Greece),U
 HCANF,HALO COLLECTIVE INC Ordinary Shares,U
-HCAPZ,Harvest Capital Credit Corporation 6.125% Notes due 2022,NASDAQ
 HCAQ,HealthCor Catalio Acquisition Corp. Class A Ordinary Shares,NASDAQ
 HCAR,Healthcare Services Acquisition Corporation Class A Common Stock,NASDAQ
 HCARU,Healthcare Services Acquisition Corporation Unit,NASDAQ
@@ -653,7 +651,6 @@ HOLHF,Hoegh Lng Holdings Ltd Ordinray Share (Bermuda),U
 HOLI,"Hollysys Automation Technologies, Ltd. Common Shares (British Virgin Islands)",NASDAQ
 HOLX,"Hologic, Inc. Common Stock",NASDAQ
 HOMB,"Home BancShares, Inc. Common Stock",NASDAQ
-HOME,At Home Group Inc.,NYSE
 HOMU,HOUMU HLDGS LTD Common Stock,U
 HOMZ,Hoya Capital Housing ETF,ARCA
 HON,Honeywell International Inc. Common Stock,NASDAQ
@@ -1667,6 +1664,7 @@ IMXI,"International Money Express, Inc. Common Stock",NASDAQ
 IMXXF,Impax Environmental Mark PLC Ordinary Shares (UK),U
 IMYSF,Imerys SA Ordinary Shares (France),U
 IMYSY,Imerys SA Unsponsored ADR (France),U
+INAB,"IN8bio, Inc. Common Stock",NASDAQ
 INAN,InterNatural Pharmaceuticals Inc Common Stock,U
 INAR,"InternetArray, Inc. Common Stock",U
 INBC,InBankShares Corporation Common Stock,U
@@ -2208,7 +2206,7 @@ ITMSF,Intermap Technologies Corporation Cl A Ordinary Shares,U
 ITMTF,Intertainment Media Inc Common Shares,U
 ITMZF,INTEMA SOLUTIONS INC Ordinary Shares,U
 ITNF,"Internet Infinity, Inc. Common Stock",U
-ITNMD,"International Monetary Systems, Ltd. Common Stock",U
+ITNM,"International Monetary Systems, Ltd. Common Stock",U
 ITNRF,LB Shell PLC Ordinary Shares,U
 ITNS,Itonis Inc. Common Stock,U
 ITOCF,Itochu Corp Ordinary Shares,U
@@ -2778,6 +2776,7 @@ JT,"Jianpu Technology Inc. American Depositary Shares, each representing twenty 
 JTA,Nuveen Tax-Advantaged Total Return Strategy Fund,NYSE
 JTBK,Jetblack Corp. Common Stock,U
 JTCMF,Jetcom Inc (F) Ordinary Shares,U
+JTCPF,JTC PLC Ordinary Shares,U
 JTD,NUVEEN TAX-ADVANTAGE DIVIDEND GROWTH FUND,NYSE
 JTEKF,JTEKT Corporation Ordinary Shares (Japan),U
 JTEKY,JTEKT Corporation Unsponsored ADR (Japan),U
@@ -3581,6 +3580,8 @@ LCHD,"Leader Capital Holdings, Corp. Common Stock",U
 LCHIF,Leoch International Technology Limited Ordinary Shares (Cayman Islands),U
 LCHTF,LIvechat Software SA Ordinary Shares (Poland),U
 LCI,"Lannett Company, Inc.",NYSE
+LCID,"Lucid Group, Inc. Common Stock",NASDAQ
+LCIDW,"Lucid Group, Inc. Warrant",NASDAQ
 LCII,LCI Industries,NYSE
 LCKYF,GOLDEN SKY MINERALS CORP Common Shares,U
 LCLP,"Life Clips, Inc. Common Stock",U
@@ -5400,7 +5401,7 @@ MREO,Mereo BioPharma Group plc American Depositary Shares,NASDAQ
 MREOF,Demire Deutsche Mittelstand Real Estate AG Shs (Germany Federal Republic),U
 MRES,Institute of Biomedical Research Corp. NEW Common Stock,U
 MRETF,"Martinrea International, Inc. Ordinary Shares (Canada)",U
-MREYF,Monterey Minerals Inc Common Stock (Canada),U
+MREYD,Monterey Minerals Inc Common Stock,U
 MRFGF,Marfin Financial Group Holdings Sa Reg. Shares (Greece),U
 MRFGY,Marfin Financial Group Holdings Sa Unsponsored ADR (Greece),U
 MRGE,Mirage Energy Corporation Common Stock,U
@@ -5572,5 +5573,3 @@ MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
