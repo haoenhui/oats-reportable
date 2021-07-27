@@ -639,6 +639,7 @@ SNPHF,Santen Pharmaceutical Co Ordinary Shares,U
 SNPHY,Santen Pharmaceutical Co Unsponsored American Depository Shares (Japan),U
 SNPKF,SINOPEC KANTONS HOLDINGS LTD Ordinary Shares (Bermuda),U
 SNPMF,China Petroleum & Chemical Corp Ordinary Shares,U
+SNPO,Snap One Holdings Corp. Common Stock,NASDAQ
 SNPR,Tortoise Acquisition Corp. II,NYSE
 SNPR U,"Tortoise Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fourth of",NYSE
 SNPR WS,"Tortoise Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary shar",NYSE
@@ -795,6 +796,7 @@ SOYO,"Soyo Group, Inc. Common Stock",U
 SP,SP Plus Corporation Common Stock,NASDAQ
 SPAB,SPDR Portfolio Aggregate Bond ETF,ARCA
 SPAGF,ISHARES V PLC AGRIBUSINESS UCITS ETF (Ireland),U
+SPAIF,SPROUT A I INC COM (Canada),U
 SPAK,Defiance Next Gen SPAC Derived ETF,ARCA
 SPAQ,Spartan Acquisition Corp. III,NYSE
 SPAQ U,"Spartan Acquisition Corp. III Units, each consisting of one share of Class A common stock and one-fo",NYSE
@@ -1262,6 +1264,7 @@ STBFF,Suntory Beverage & Food Ltd Ordinary Shares (Japan),U
 STBFY,Suntory Beverage & Food Ltd American Depositary Shares (Unsponsored)(Japan),U
 STBI,"Sturgis Bancorp, Inc. (MI) Common Stock",U
 STBK,Studio Bank Common Stock,U
+STBL,DriveWealth Steady Saver ETF,ARCA
 STBMF,St. Barbara Ltd Ordinary Shares (Australia),U
 STBMY,St. Barbara Ltd Sponsored ADR (Australia),U
 STBV,"Strategic Global Investments, Inc. Common Stock",U
@@ -1774,6 +1777,7 @@ TAHEF,Tahera Diamond Corporation Ordinary Shares (Canada),U
 TAHIF,"TAI HING GROUP HOLDINGS LTD, HKD SHS, (Cayman Islands)",U
 TAHKF,Tracker Fund Of Hong Kong Units (Hong Kong),U
 TAICF,TAI CHEUNG HOLDINGS LTD SHS (Bermuda),U
+TAIHF,TAIHO KOGYO CO LTD AICHI SHS (Japan),U
 TAIL,Cambria Tail Risk ETF,BATS
 TAIMF,Taiga Mtrs Corp Common Shares (Canada),U
 TAIPY,Taisho Pharmaceutical Holdings Co Ltd. American Depositary Receipts - Unsponsored (Japan),U
@@ -1860,6 +1864,7 @@ TBK,"Triumph Bancorp, Inc. Common Stock",NASDAQ
 TBKCP,"Triumph Bancorp, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.125% Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock",NASDAQ
 TBLA,Taboola.com Ltd. Ordinary Shares,NASDAQ
 TBLAW,Taboola.com Ltd. Warrant,NASDAQ
+TBLD,Thornburg Income Builder Opportunities Trust Common Stock,NASDAQ
 TBLLF,TOMBILL MINES LTD CDA NEW Common Shares,U
 TBLMF,Tiger Brands Ltd Ordinary Shares (South Africa),U
 TBLMY,Tiger Brands Ltd Sponsored ADR New (South Africa),U
@@ -2602,6 +2607,7 @@ TOLZ,ProShares DJ Brookfield Global Infrastructure ETF,ARCA
 TOMDF,Todos Med Ltd Ordinary Shares (Israel),U
 TOMYY,Tomy Co Ltd American Depositary Receipts - Unsponsored,U
 TOMZ,"TOMI Environmental Solutions, Inc. Common Stock",NASDAQ
+TONOF,TOENEC CORP SHS (Japan),U
 TONPF,Toppan Printing Ltd Ord Ordinary Shares,U
 TONR,"Tonner-One World Holdings, Inc Common Stock",U
 TOOD,Thermwood Corporation Common Stock,U
@@ -3761,7 +3767,6 @@ VCKVF,VANECK VECTORS UCITS ETFS PLC Exchange Traded Fund,U
 VCLD,Verecloud Inc. Common Stock,U
 VCLO,Simplify Volt Cloud and Cybersecurity Disruption ETF,ARCA
 VCLT,Vanguard Long-Term Corporate Bond ETF,NASDAQ
-VCMMF,Vocus Communications Ltd Ordinary Shares (Australia),U
 VCMP,VCampus Corporation Common Stock,U
 VCNX,"Vaccinex, Inc. Common Stock",NASDAQ
 VCOGF,Vicotoria Oil & Gas Plc London Ordinary Shares,U
@@ -4818,6 +4823,7 @@ WPTIF,WPT Industrial Real Estate Investment Trust Ordinary Shares (Unit Trust) (
 WPUR,"WaterPure International, Inc. Common Stock",U
 WQNI,"WQN, Inc. Common Stock",U
 WQTEF,Weiqiao Textile Company Ltd Shs H (China),U
+WRAC U,"Williams Rowland Acquisition Corp. Units, each consisting of one share of common stock and one-half",NYSE
 WRAP,"Wrap Technologies, Inc. Common Stock",NASDAQ
 WRB,W.R. Berkley Corporation,NYSE
 WRB PRE,W.R. Berkley Corporation 5.70% Subordinated Debentures due 2058,NYSE
@@ -4829,7 +4835,6 @@ WRDEF,Wereldhave Nv Ordinary Shares,U
 WRDLY,Worldline SA American Depositary Receipts - Unsponsored (France),U
 WRE,Washington Real Estate Investment Trust,NYSE
 WRFRF,Wharf Real Estate Investment Co Ltd,U
-WRFX,"Worldflix, Inc. Common Stock",U
 WRGL,Warrior Girl Corp Common Stock,U
 WRHLF,LOVE HEMP GROUP PLC Ordinary Shares,U
 WRI,Weingarten Realty Investors,NYSE
@@ -4861,7 +4866,6 @@ WSDDF,WISDOMTREE ISSUER ICAV WISDOMTREE US QUALITY DIVIDEND GROWTH UCITS ETF USD
 WSDMF,WISDOMTREE ISSUER PLC Ptg.Shs Exchange Traded Fund Class Hedged USD (Ireland),U
 WSEMF,WISDOMTREE ISSUER PLC EMERGING MKT EQTY INC UCITS ETF USD ACC Exchange Traded Fund Ireland(IE ),U
 WSEWF,"WARSAW STOCK EXCHANGE, WARSAW Ordinary Shares",U
-WSEZF,WISE CSI 300 China Tracker Units ETF (Hong Kong),U
 WSFGQ,"WSB Financial Group, Inc. Common Stock",U
 WSFL,"Woodstock Holdings, Inc. Common Stock",U
 WSFS,WSFS Financial Corporation Common Stock,NASDAQ

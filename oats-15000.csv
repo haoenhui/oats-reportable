@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
@@ -970,7 +968,7 @@ NRTSF,Nobilis Health Corporation Common Shares (Canada),U
 NRTZF,Noritz Corp Ordinary Shares (Japan),U
 NRUC,National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordi,NYSE
 NRUNF,Northern Uranium Corp Common Stock (Canada),U
-NRVTF,Noram Ventures Inc. Common Shares,U
+NRVTF,NORAM LITHIUM CORP Common Shares,U
 NRWEF,"NORWEGIAN ENERGY COMPANY AS, STAVENGER SHS (Norway)",U
 NRWRF,Newriver Reit Plc Reit (United Kingdom),U
 NRWS,Narrowstep Inc. Common Stock,U
@@ -1074,7 +1072,7 @@ NTCXF,Natcore Technology Inc Ordinary Shares (Canada),U
 NTDOF,Nintendo Co Ltd-Ord- Ordinary Shares,U
 NTDOY,Nintendo Co Ltd ADR,U
 NTDTY,Ntt Data Corp Ltd Unsponsored ADR (Japan),U
-NTEC,Intec Pharma Ltd. Ordinary Shares,NASDAQ
+NTEC,Intec Parent Inc. Common Stock (DE),NASDAQ
 NTEDY,Notre Dame Intermedica Participacoes SA American Depositary Receipts - Unsponsored,U
 NTEI,"Nova Tech Enterprises, Inc. Common Stock",U
 NTEK,"NanoTech Entertainment, Inc. Common Stock",U
@@ -1958,6 +1956,7 @@ OWL,Blue Owl Capital Inc.,NYSE
 OWL WS,"Blue Owl Capital Inc. Redeemable Warrants, each whole warrant exercisable for one share of Class A C",NYSE
 OWLT,"Owlet, Inc.",NYSE
 OWLT WS,"Owlet, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at an exe",NYSE
+OWNS,Impact Shares Affordable Housing MBS ETF,ARCA
 OWPC,"One World Pharma, Inc.  Common Stock",U
 OWRDF,One World Lithium Inc Ordinary Shares,U
 OWUV,One World Universe Inc. Common Stock,U
@@ -3559,6 +3558,7 @@ PWQQF,Invesco Markets III PLC Exchange Traded Fund,U
 PWR,"Quanta Services, Inc.",NYSE
 PWRMF,Power Metals Corp Common Shares,U
 PWS,Pacer WealthShield ETF,BATS
+PWSC,"PowerSchool Holdings, Inc.",NYSE
 PWV,Invesco Dynamic Large Cap Value ETF,ARCA
 PWVI,"PowerVerde, Inc. Common Stock",U
 PWWBF,Powerband Solutions Inc Ordinary Shares,U
@@ -4340,6 +4340,7 @@ RKIGF,Reko Intl Grp Inc Ordinary Shares,U
 RKLC,Rockelle Corp. Common  Stock,U
 RKLIF,Rentokil Initial 2005 Plc Ordinary Shares,U
 RKMSF,Rokmaster Resources Corp. Common Shares,U
+RKNCF,RIKEN CORP SHS (Japan),U
 RKNEF,Optiva Inc. Ordinary Shares,U
 RKOS,Arkose Energy Corp. Common Stock,U
 RKSCF,Rocksheild Capital Corp. Ordinary Shares (Canada),U
@@ -4507,6 +4508,7 @@ ROCAF,Roca Mines Inc Ordinary Shares (Canada),U
 ROCC,Roth CH Acquisition II Co. Common Stock,NASDAQ
 ROCCU,Roth CH Acquisition II Co. Unit,NASDAQ
 ROCCW,Roth CH Acquisition II Co. Warrant,NASDAQ
+ROCGU,Roth CH Acquisition IV Co. Unit,NASDAQ
 ROCK,"Gibraltar Industries, Inc. Common Stock",NASDAQ
 ROCLF,"Royal Olympic Cruise Lines, Inc. Ordinary Shares (Liberia)",U
 ROCR,Roth CH Acquisition III Co. Common stock,NASDAQ
@@ -4825,6 +4827,7 @@ RYMTF,Royal BK CDA Montreal Que NON CUM 5 YR RATE RESET PFD SER BM NON VARIABLE 
 RYN,Rayonier Inc.,NYSE
 RYNL,Reynaldos Mexican Food Company Common Stock,U
 RYOOF,Rio Silver Inc Common Shares (Canada),U
+RYOTF,RYODEN CORP SHS (Japan),U
 RYPE,"Royalite Petroleum Company, Inc. Common Stock",U
 RYPPF,RYU APPAREL INC  Ordinary Shares,U
 RYPTF,RNY Property Trust Ordinary Shares (Australia),U

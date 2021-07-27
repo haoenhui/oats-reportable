@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWTR,"Global Water Technologies, Inc. Common Stock",U
-GWW,"W.W. Grainger, Inc.",NYSE
-GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
 GWX,SPDR S&P International Small Cap ETF,ARCA
 GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
 GWYNF,Genoway Ordinary Shares  France (FR),U
@@ -90,6 +87,7 @@ HAP,VanEck Vectors Natural Resources ETF,ARCA
 HAPBF,HAPBEE TECHNOLOGIES INC COM SUB VTG SHS (Canada),U
 HAPP,Happiness Biotech Group Limited Ordinary Shares,NASDAQ
 HAPVY,HAPVIDA PARTICIPACOES E INVESTIMENTOS SA American Depositary Receipts - Unsponsored  (Brazil),U
+HAPYF,HAPPINET CORP TOKYO SHS (Japan),U
 HARL,Harleysville Financial Corp. Common Stock,U
 HARP,"Harpoon Therapeutics, Inc. Common Stock",NASDAQ
 HART,IQ Healthy Hearts ETF,ARCA
@@ -1212,6 +1210,7 @@ ICNM,"Icon Media Holdings, Inc. Common Stock",U
 ICNN,"Incoming, Inc Class A Common Stock",U
 ICNOF,Icon Energy LTd Ordinary Shares,U
 ICOA,Icoa Inc  Common Stock,U
+ICOIF,ICOM INC SHS (Japan),U
 ICOL,iShares MSCI Colombia ETF,ARCA
 ICON,"Iconix Brand Group, Inc. Common Stock",NASDAQ
 ICOTF,"Ico Therapeutics, Inc. Common Shares (Canada)",U
@@ -2505,7 +2504,7 @@ JENGQ,Just Energy Group Inc Common Stock (Canada),U
 JEPI,JPMorgan Equity Premium Income ETF,ARCA
 JEQ,ABERDEEN JAPAN EQUITY FUND,NYSE
 JERT,"JER Investors Trust, Inc. New Common Stock",U
-JESCF,JP MORGAN EUROPEAN SMALLER COS TR PLC SHS (United Kingdom),U
+JESCF,JPMORGAN EUROPEAN DISCOVERY TR PLC Ordinary Shares,U
 JETGF,JPMorgan Fleming Continental European Investment Trust Plc Shs-Growth-Class (United Kingdom),U
 JETMF,Global Crossing Airlines Group Inc.  Ordinary Shares,U
 JETR,"Star Jets International, Inc. Common Stock",U
@@ -2699,7 +2698,7 @@ JPM PRK,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th int
 JPM PRL,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 4.625% No",NYSE
 JPMB,JPMorgan USD Emerging Markets Sovereign Bond ETF,ARCA
 JPME,JPMorgan Diversified Return US Mid Cap Equity ETF,ARCA
-JPMMV,JPMORGAN CHASE & CO DEP SHS REPSTG 1/400TH PFD SER MM,U
+JPMML,JPMORGAN CHASE & CO DEP SHS REPSTG 1/400TH PFD SER MM,U
 JPN,Xtrackers Japan JPX-Nikkei 400 Equity ETF,ARCA
 JPNCF,JAPAN CASH MACHINE CO LTD SHS (Japan),U
 JPNPY,Japan Post Ins Co Ltd ADS Repstg Com Stk (Japan),U
@@ -3520,6 +3519,7 @@ LAUR,"Laureate Education, Inc. Class A Common Stock",NASDAQ
 LAW,"CS Disco, Inc.",NYSE
 LAWS,"Lawson Products, Inc. Common Stock",NASDAQ
 LAXAF,Laxai Pharma Ltd. Ordinary Shares,U
+LAXXU,8i Acquisition 2 Corp. Unit,NASDAQ
 LAZ,Lazard Ltd. Class A,NYSE
 LAZR,"Luminar Technologies, Inc. Class A Common Stock",NASDAQ
 LAZY,"Lazydays Holdings, Inc. Common Stock",NASDAQ
@@ -4681,6 +4681,7 @@ MDY,SPDR S&P MidCap 400 ETF Trust,ARCA
 MDYG,SPDR S&P 400 Mid Cap Growth ETF (Based on S&P MidCap 400 Growth Index--symbol MUV),ARCA
 MDYV,SPDR S&P 400 Mid Cap Value ETF (based on S&P MidCap 400 Value Index--symbol: MGD),ARCA
 ME,23andMe Holding Co. Class A Common Stock,NASDAQ
+MEACU,Mercury Ecommerce Acquisition Corp Unit,NASDAQ
 MEAR,BlackRock Short Maturity Municipal Bond ETF,BATS
 MEAUF,Moneta Porcupine Mines Inc Ordinary Shares,U
 MEBUF,Mebuki Financial Group Inc Ordinary Shares (Japan),U
@@ -5573,3 +5574,5 @@ MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U

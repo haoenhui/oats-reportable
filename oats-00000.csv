@@ -1849,6 +1849,7 @@ ASRV,AmeriServ Financial Inc. Common Stock,NASDAQ
 ASRVP,"AmeriServ Financial Inc. AmeriServ Financial Trust I - 8.45% Beneficial Unsecured Securities, Series A",NASDAQ
 ASSF,Assisted 4 Living Inc Common Stock,U
 ASSPF,AP Thailand PCL Units Non Voting Depositary Receipt (Thailand),U
+ASTA,Astra Veda Corporation Common Stock,U
 ASTC,Astrotech Corporation (DE) Common Stock,NASDAQ
 ASTE,"Astec Industries, Inc. Common Stock",NASDAQ
 ASTI,ASCENT SOLAR TECHNOLOGIES INC Common Stock,U
@@ -2453,7 +2454,6 @@ BBAGF,BB Biotech AG Schaffhausen Namen - AKT,U
 BBAJF,Banco Del Bajio Shares of Banks (Mexico),U
 BBAL,"New York Health Care, Inc. Common Stock",U
 BBAR,Banco BBVA Argentina S.A.,NYSE
-BBAVY,Signature Aviation PLC American Depositary Receipts - Unsponsored,U
 BBAX,JPMorgan BetaBuilders Developed Asia-ex Japan ETF,BATS
 BBBK,Baker Boyer Bancorp Common Stock,U
 BBBMF,Huntsman Exploration Inc. Ordinary Shares,U
@@ -3424,11 +3424,10 @@ BPTH,"Bio-Path Holdings, Inc. Common Stock",NASDAQ
 BPTNF,PT Barito Pacific TBK Ordinary Shares (Indonesia),U
 BPTS,Biophytis SA American Depositary Share,NASDAQ
 BPXXY,BPER BANCA S.P.A American Depositary Receipts - Unsponsored,U
-BPY,Brookfield Property Partners L.P. Limited Partnership Units,NASDAQ
+BPYPM,"Brookfield Property Partners L.P. 6.25% Class A Cumulative Redeemable Preferred Units, Series 1",NASDAQ
 BPYPN,"Brookfield Property Partners L.P. 5.750% Class A Cumulative Redeemable Perpetual Preferred Units, Series 3",NASDAQ
 BPYPO,"Brookfield Property Partners L.P. 6.375% Class A Cumulative Redeemable Perpetual Preferred Units, Series 2",NASDAQ
 BPYPP,Brookfield Property Partners L.P. 6.50% Class A Cumulative Redeemable Perpetual Preferred Units,NASDAQ
-BPYU,Brookfield Property REIT Inc. Class A Common Stock,NASDAQ
 BPYUP,Brookfield Property REIT Inc. 6.375% Series A Preferred Stock,NASDAQ
 BPZZF,Boston Pizza Royalties Income Fund Trust Unit (Canada),U
 BQ,"Boqii Holding Limited American Depositary Shares (ADSs), representing Class A Ordinary Shares",NYSE
@@ -4148,6 +4147,7 @@ CBLAQ,CBL & ASSOC PPTYS INC Common Stock,U
 CBLDQ,CBL & ASSOC PPTYS INC DEP SHS REPSTG 1/10TH PFD SER D 7.375% Depositary Shares,U
 CBLEQ,CBL & ASSOC PPTYS INC DEPOSITARY SHS REPSTG 1/10 6.625% SER E CUM REDEEMABLE (PFD STK) Depositary Shares,U
 CBLI,"Cleveland BioLabs, Inc. Common Stock",NASDAQ
+CBLNF,MERSEN SHS (France),U
 CBLNY,Mersen Unsponsored ADR (France),U
 CBLRF,"Campbell Resources, Inc. Ordinary Shares (Canada)",U
 CBLS,Changebridge Capital Long/Short Equity ETF,ARCA
@@ -5376,6 +5376,7 @@ CNTRF,Centr Brands Corp Common Stock (Canada),U
 CNTSF,Constellation Resources Ltd. Ordinary Shares (Australia),U
 CNTTQ,CANNTRUST HLDGS INC COM (Canada),U
 CNTWW,Contura Energy Inc Wt Exp Ser A Expiring 07/26/2023,U
+CNTX,Context Therapeutics Inc. Common Stock,NASDAQ
 CNTY,"Century Casinos, Inc. Common Stock",NASDAQ
 CNUCF,Canuc Res Corp CDA Common Shares,U
 CNUN,"Community Bancshares, Inc. (OH) Common Stock",U
@@ -5573,3 +5574,6 @@ CPHI,"China Pharma Holdings, Inc.",AMEX
 CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
+CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
+CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
+CPK,Chesapeake Utilities,NYSE

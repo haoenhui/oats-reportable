@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
-CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
-CPK,Chesapeake Utilities,NYSE
 CPKB,Chesapeake Bancorp Common Stock,U
 CPKF,Chesapeake Financial Shares Inc Common Stock,U
 CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
@@ -526,7 +523,7 @@ CURLF,Curaleaf Hldgs Inc Common Shares,U
 CURN,Currency Exchange International Corporation Common Stock,U
 CURO,CURO Group Holdings Corp.,NYSE
 CURR,CURE Pharmaceutical Holding Corp. Common Stock,U
-CURUF,International Cons Uranium Inc Common Shares,U
+CURUF,CONSOLIDATED URANIUM INC Common Shares,U
 CURV,Torrid Holdings Inc.,NYSE
 CUSI,"Cuisine Solutions, Inc. Common Stock NEW",U
 CUSPY,Countryside Properties PLC American Depositary Receipts - Unsponsored,U
@@ -772,6 +769,7 @@ DAL,"Delta Air Lines, Inc.",NYSE
 DALI,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright DALI 1 ETF,NASDAQ
 DALN,DallasNews Corporation Series A Common Stock,NASDAQ
 DALQF,D & L Industries Inc Common Shares (Phillippines),U
+DALS,DA32 Life Science Tech Acquisition Corp. Class A Common Stock,NASDAQ
 DALT,Anfield Capital Diversified Alternatives ETF,BATS
 DALXF,SPARTAN DELTA CORP Common Shares,U
 DAN,Dana Incorporated,NYSE
@@ -1619,6 +1617,7 @@ DUNEU,Dune Acquisition Corporation Unit,NASDAQ
 DUNEW,Dune Acquisition Corporation Warrant,NASDAQ
 DUNIY,Duni Ab Unsponsored ADR (Sweden),U
 DUO,Fangdd Network Group Ltd. American Depositary Shares,NASDAQ
+DUOL,"Duolingo, Inc. Class A Common Stock",NASDAQ
 DUOT,"Duos Technologies Group, Inc. Common Stock",NASDAQ
 DURA,VanEck Vectors Morningstar Durable Dividend ETF,BATS
 DUROF,Duro Felguera SA Ordinary Shares,U
@@ -1960,6 +1959,7 @@ EENEY,Electrocomponents Unsponsored ADR (United Kingdom),U
 EENNF,Enav SPA Ordinary Shares (Italy),U
 EENR,"Elite Energies, Inc. Common",U
 EERGF,ENERGEAN OIL AND GAS PLC Ord GBP0.01 (United Kingdom),U
+EERN,DriveWealth Power Saver ETF,ARCA
 EES,WisdomTree U.S. SmallCap Fund,ARCA
 EESE,Energy & Environmental Services Inc Common Stock,U
 EESH,"EESTech, Inc. Common Stock",U
@@ -5573,3 +5573,6 @@ GWSAF,Gowest Gold Ltd Ordinary Shares,U
 GWSN,"Gulf West Security Network, Inc. Common Stock",U
 GWSO,"Global Warming Solutions, Inc. Common Stock",U
 GWTI,"Greenway Technologies, Inc. Common Stock",U
+GWTR,"Global Water Technologies, Inc. Common Stock",U
+GWW,"W.W. Grainger, Inc.",NYSE
+GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
