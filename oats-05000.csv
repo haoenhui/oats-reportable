@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPK,Chesapeake Utilities,NYSE
 CPKB,Chesapeake Bancorp Common Stock,U
 CPKF,Chesapeake Financial Shares Inc Common Stock,U
 CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
@@ -6,7 +7,6 @@ CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U
 CPKPY,C P Pokphand Co Ltd Sponsored ADR (Bermuda) USD,U
 CPLCF,IShares VII PLC Exchange Traded Fund,U
 CPLG,CorePoint Lodging Inc. Common Stock,NYSE
-CPLLF,"Colopl, Inc. Common Stock (Japan)",U
 CPLP,Capital Product Partners L.P. Common Units,NASDAQ
 CPLT,"CommercePlanet, Inc. Common Stock",U
 CPMD,CANNAPHARMARX INC Common Stock,U
@@ -638,6 +638,7 @@ CWVWF,Lithoquest Resources Inc.  Ordinary Shares,U
 CWWBF,PLANT-BASED INVT CORP Ordinary Shares,U
 CWWGF,"Chaowei Power Holdings, Ltd Ordinary Shares (Cayman Islands)",U
 CWXZF,Doman Building Materials Group Ltd Ordinary Shares,U
+CWYCF,China Railway Construction Corporation Ltd Shs H (China),U
 CWYUF,SmartCentres Real Estate Investment Trust Unit,U
 CX,Cemex S.A.B. de C.V.,NYSE
 CXBMF,Calibre Mining Corp Ordinary Shares,U
@@ -1109,7 +1110,6 @@ DIA,SPDR Dow Jones Industrial Average ETF Trust,ARCA
 DIAAF,Diamant Art Corporation Ordinary Shares (Canada),U
 DIAL,Columbia Diversified Fixed Income Allocation ETF,ARCA
 DIALF,Dialight Plc Ordinary shares (United Kingdom),U
-DIARF,DISTRIBUIDORA INTERNACIONAL DE ALIMENTACION RIGHTS EXP 07/27/2021,U
 DIAX,NUVEEN DOW 30SM DYNAMIC OVERWRITE FUND,NYSE
 DIBS,"1stdibs.com, Inc. Common Stock",NASDAQ
 DIBUY,Daibiru Corporation Ord American Depositary Shares,U
@@ -5576,3 +5576,7 @@ GWTI,"Greenway Technologies, Inc. Common Stock",U
 GWTR,"Global Water Technologies, Inc. Common Stock",U
 GWW,"W.W. Grainger, Inc.",NYSE
 GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
+GWX,SPDR S&P International Small Cap ETF,ARCA
+GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
+GWYNF,Genoway Ordinary Shares  France (FR),U
+GWYT,Greenway Technology Common Stock,U

@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWX,SPDR S&P International Small Cap ETF,ARCA
-GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
-GWYNF,Genoway Ordinary Shares  France (FR),U
-GWYT,Greenway Technology Common Stock,U
 GXC,SPDR S&P China ETF,ARCA
 GXF,Global X FTSE Nordic Region ETF,ARCA
 GXG,Global X MSCI Colombia ETF,ARCA
@@ -1229,6 +1225,7 @@ ICTY,"EyeCity.com, Inc. Common Stock",U
 ICUI,"ICU Medical, Inc. Common Stock",NASDAQ
 ICUSF,"Icecure Medical Ltd, Caesarea Ordinary Shares (Israel)",U
 ICVT,iShares Convertible Bond ETF,BATS
+ICVX,"Icosavax, Inc. Common Stock",NASDAQ
 ID,"PARTS iD, Inc.",AMEX
 IDA,"IDACORP, Inc.",NYSE
 IDAI,T STAMP INC COM CL A Common Stock,U
@@ -1550,7 +1547,6 @@ ILIM,IL2M International Corp. Common Stock,U
 ILKAF,Iluka Resources Ltd Ordinary Shares,U
 ILKAY,Iluka Resources Ltd Unsponsored ADR (Australia),U
 ILMN,"Illumina, Inc. Common Stock",NASDAQ
-ILNLF,INV Metals Inc. Common shares (Canada),U
 ILPMF,Permanent TSB Group Holdings PLC Ordinary Shares,U
 ILPMY,Permanent TSB Group Holdings plc Sponsored ADR (Ireland),U
 ILPT,Industrial Logistics Properties Trust Common Shares of Beneficial Interest,NASDAQ
@@ -1634,6 +1630,7 @@ IMRN,Immuron Limited American Depositary Shares,NASDAQ
 IMRNW,Immuron Limited Warrants,NASDAQ
 IMRSQ,Imris Inc,U
 IMRTF,Iomart Group PLC Ordinary Shares (United Kingdom),U
+IMRX,Immuneering Corporation Class A Common Stock,NASDAQ
 IMSBF,IShares V PLC MSCI World Consumer Staples ETF (Ireland),U
 IMSCF,IShares VII Plc Msci Japan Ucits Etf Accum Ptg Shs Exchange Traded Fund (Ireland),U
 IMSEF,iShares II plc MSCI Europe EUR UCITS ETF Inc. (Ireland),U
@@ -1809,6 +1806,7 @@ INVO,"INVO BioScience, Inc. Common Stock",NASDAQ
 INVPF,INVESCO MARKETS PLC Exchange Traded Fund  (Ireland),U
 INVT,INVENTERGY GLOBAL INC Common Stock,U
 INVU,Investview Inc. Common Stock,U
+INVUP,INVESTVIEW INC PFD SER B Preferred Stock,U
 INVVY,INDIVIOR PLC  American Depositary Receipts - Sponsored,U
 INVXF,INVESCO MARKETS PLC INVESCO MATERIALS S&P US SELECT SECTOR UCITS ETF ACC Exchange Traded Fund,U
 INVZ,Innoviz Technologies Ltd. Ordinary shares,NASDAQ
@@ -1823,6 +1821,7 @@ IOFFF,Invesco Office J REIT Inc Ordinary Shares (Japan),U
 IOFNF,"Iofina Plc, London Ordinary shares (United Kingdom)",U
 IOGEF,ISHARES V PLC OIL & GAS EXPLORATION & PRODUCTION UCITS ETF (Ireland),U
 IOIOF,IOI Corporation BHDIOI Ordinary Shares (Malaysia),U
+IOKIF,ITOKI CORP Ordinary Shares,U
 IOMT,Isomet Corporation Common Stock,U
 IONAF,"Iona Energy, Inc. Ordinary Shares (Canada)",U
 IONGF,ION ENERGY LTD COM (Canada),U
@@ -4019,6 +4018,7 @@ LOWC,SPDR MSCI ACWI Low Carbon Target ETF,ARCA
 LOWLF,LOWELL FARMS INC Ordinary Shares,U
 LPBC,Lincoln Park Bancorp Common Stock,U
 LPCN,Lipocine Inc. Common Stock,NASDAQ
+LPCUF,Lees Pharmaceutical Holdings Ltd Ordinary Shares (Cayman Islands),U
 LPDNF,Lepidico Ltd Ordinary Shares (Australia),U
 LPG,DORIAN LPG LTD,NYSE
 LPGDF,LPP S.A. GDANSK Ordinary Shares (Poland),U
@@ -4490,6 +4490,8 @@ MCADU,Mountain Crest Acquisition Corp. II Unit,NASDAQ
 MCAE,Mountain Crest Acquisition Corp. III Common Stock,NASDAQ
 MCAER,Mountain Crest Acquisition Corp. III Right,NASDAQ
 MCAEU,Mountain Crest Acquisition Corp. III Unit,NASDAQ
+MCAF,Mountain Crest Acquisition Corp. IV Common Stock,NASDAQ
+MCAFR,Mountain Crest Acquisition Corp. IV Rights,NASDAQ
 MCAFU,Mountain Crest Acquisition Corp. IV Unit,NASDAQ
 MCAP,"Mango Capital, Inc. Common Stock",U
 MCARY,Mercari Inc. American Depositary Receipts - Unsponsored   (Japan),U
@@ -5068,6 +5070,7 @@ MLMN,"Millennium Prime, Inc. Common Stock",U
 MLMZF,Metallica Minerals Ltd. Ordinary Shares (Australia),U
 MLN,VanEck Vectors Long Muni ETF,BATS
 MLNHF,Midland Holdings Ltd Ordinary Shares (Hong Kong),U
+MLNK,"MeridianLink, Inc.",NYSE
 MLNLF,Millennial Lithium Corp. Common Shares,U
 MLORF,Montello Resources Ltd Ordinary Shares (Canada),U
 MLP,Maui Land & Pineapple Co.,NYSE
@@ -5556,6 +5559,7 @@ MTAC,MedTech Acquisition Corporation Class A Common Stock,NASDAQ
 MTACU,MedTech Acquisition Corporation Unit,NASDAQ
 MTACW,MedTech Acquisition Corporation Warrant,NASDAQ
 MTAGF,Ceconomy AG Ordinary Shares,U
+MTAL U,"Metals Acquisition Corp Units, each consisting of one Class A ordinary share and one-third of one re",NYSE
 MTALF,METALLICA METALS CORP Ordinary Shares,U
 MTB,M&T Bank Corp.,NYSE
 MTBC,"CareCloud, Inc. Common Stock",NASDAQ
@@ -5575,4 +5579,3 @@ MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U

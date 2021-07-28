@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
 MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
@@ -55,7 +56,6 @@ MTSFF,Mitsui Fudosan Co Ltd Ordinary Shares,U
 MTSFY,Mitsui Fudosan Co Ltd Unsponsored ADR (Japan),U
 MTSI,"MACOM Technology Solutions Holdings, Inc. Common Stock",NASDAQ
 MTSKF,MATSUOKA CORP COM STK (Japan),U
-MTSL,MER Telemanagement Solutions Ltd. Common Shares,NASDAQ
 MTST,"MetaStat, Inc. Common Stock",U
 MTSUY,Mitsubishi Corp American Depositary Receipts - Unsponsored (Japan),U
 MTTCF,MEAT TECH 3D LTD Common Shares,U
@@ -776,7 +776,7 @@ NNGPF,NN Group NV Ordinary Shares (Netherlands),U
 NNGRF,NANOREPRO AG SHS (Germany Federal Republic),U
 NNGRY,NN Group NV American Depositary Receipts - Unsponsored (Netherlands),U
 NNGVF,Tesoro Minerals Corp. Common Shares (Canada),U
-NNHHF,NHS INDUSTRIES LTD Ordinary Shares,U
+NNHHF,FEEL FOODS LTD Ordinary Shares,U
 NNI,"Nelnet, Inc. Class A",NYSE
 NNLX,"NanoLogix, Inc. Common Stock",U
 NNMIF,Nearctic Nickel Mines Inc Ordinary Shares (Canada),U
@@ -1177,6 +1177,7 @@ NUVB WS,"Nuvation Bio Inc. Redeemable warrants, each whole warrant exercisable f
 NUVCF,NUVEI CORP Common Shares,U
 NUVG,Nuvus Gro Corp Common Stock,U
 NUVI,Emo Capital Corp. Common Stock,U
+NUVL,"Nuvalent, Inc. Class A Common Stock",NASDAQ
 NUVM,"NuVim, Inc. Common Stock",U
 NUVR,"Nuvera Communications, Inc. Common Stock",U
 NUVSF,Nuvista Energy Ltd Ordinary Shares (Canada),U
@@ -1250,7 +1251,6 @@ NWDMF,Capella Minerals Ltd Common Shares,U
 NWDVW,New Media Investment Group Inc. Warrants Expiring 11/26/2023,U
 NWE,NorthWestern Corporation Common Stock,NASDAQ
 NWEAF,NATIONAL WESTMINSTER BANK PLC 9% NON-CUM PREF SHS - A - (United Kingdom),U
-NWEGF,Norwegian Finans Holding ASA Ordinary Shares (Norway),U
 NWFAF,New Focus Auto Tech Holdings Ltd HK Shares (Cayman Islands),U
 NWFL,Norwood Financial Corp. Common Stock,NASDAQ
 NWG,"NatWest Group plc American Depositary Shares, (Each representing 2 ordinary shares)",NYSE
@@ -1586,7 +1586,6 @@ OKLOF,Oklo RES Ltd Ordinary Shares (Austrailia),U
 OKSCF,OKASAN SECURITIES CO LTD Ordinary Shares,U
 OKSWF,Osisko Gold Royalties Ltd Warrant EXP Restricted 4 Month Hold Expiring 02/18/2022 (Canada),U
 OKTA,"Okta, Inc. Class A Common Stock",NASDAQ
-OKUMF,Okuma Corporation Ordinary Shares (Japan),U
 OLB,"The OLB Group, Inc. Common Stock",NASDAQ
 OLCLF,Oriental Land Co Ltd Ordinary Shares,U
 OLCLY,Oriental Land Co Ltd Unsponsored ADR (Japan),U
@@ -1622,6 +1621,7 @@ OMEX,"Odyssey Marine Exploration, Inc. Common Stock",NASDAQ
 OMF,"OneMain Holdings, Inc.",NYSE
 OMFL,Invesco Russell 1000 Dynamic Multifactor ETF,BATS
 OMFS,Invesco Russell 2000 Dynamic Multifactor ETF,BATS
+OMGA,"Omega Therapeutics, Inc. Common Stock",NASDAQ
 OMGGF,OMAI GOLD MINES CORP Common Shares (Canada),U
 OMHE,Omni Health Inc Common Stock,U
 OMHI,"OM HOLDINGS INTERNATIONAL, INC. Common Stock",U
@@ -2211,6 +2211,7 @@ PCIMF,Pacific Imperial Mines Inc. Ordinary Shares (Canada),U
 PCK,PIMCO CALIFORNIA MUNICIPAL INCOME FUND II COMMON SHARES OF BENEFICIAL INT.,NYSE
 PCKCF,Pack Corp Ordinary Shares (Japan),U
 PCLB,"Pinnacle Bancshares, Inc. Common Stock",U
+PCLGF,PACIFIC LEGEND GROUP LTD Ordinary Shares,U
 PCLI,Protocall Technologies Incorporated Common Stock,U
 PCLOF,PHARMACIELO LTD  Common Stock (Canada),U
 PCM,"PCM Fund, Inc.",NYSE
@@ -2514,6 +2515,7 @@ PHB,Invesco Fundamental High Yield Corporate Bond ETF,ARCA
 PHBBF,PHARMARON BEIJING CO LTD Ordinary Shares (China),U
 PHBI,Pharmagreen Biotech Inc. Common Stock,U
 PHBR,"PhoneBrasil International, Inc. Common Stock",U
+PHCC,"Preston Hollow Community Capital, Inc.",NYSE
 PHCF,"Puhui Wealth Investment Management Co., Ltd. Ordinary Shares",NASDAQ
 PHCG,"Pure Harvest Corporate Group, Inc. Common Stock",U
 PHCUF,Photocure Asa Ordinary Shares,U
@@ -4387,6 +4389,7 @@ RLTR,Reeltime Rentals Inc Common Stock,U
 RLX,"RLX Technology Inc. American Depositary Shares, each representing the right to receive one (1) Class",NYSE
 RLXXF,RELX PLC Ordinary Shares (United Kingdom),U
 RLY,SPDR SSgA Multi-Asset Real Return ETF of SSgA Active Trust,ARCA
+RLYB,"Rallybio Holdings, LLC Common Stock",NASDAQ
 RLYGF,RILEY GOLD CORP COM (Canada),U
 RLYNF,Rallye SA Neuilly-Sur-Seine Ordinary Shares (France),U
 RM,REGIONAL MANAGEMENT CORP,NYSE
@@ -4793,6 +4796,7 @@ RXRAU,RXR Acquisition Corp. Units,NASDAQ
 RXRAW,RXR Acquisition Corp. Warrants to purchase Class A common stock,NASDAQ
 RXRLF,"Rex Minerals Ltd, Melbourne Ordinary Shares (Australia)",U
 RXRX,"Recursion Pharmaceuticals, Inc. Class A Common Stock",NASDAQ
+RXST,"RxSight, Inc. Common Stock",NASDAQ
 RXT,"Rackspace Technology, Inc. Common Stock",NASDAQ
 RXXRF,Rox Resources Ltd Ordinary Shares (Australia),U
 RY,Royal Bank of Canada,NYSE
@@ -4979,6 +4983,7 @@ SBEA,SilverBox Engaged Merger Corp I Class A Common Stock,NASDAQ
 SBEAU,SilverBox Engaged Merger Corp I Units,NASDAQ
 SBEAW,SilverBox Engaged Merger Corp I Warrant,NASDAQ
 SBES,"South Beach Spirits, Inc. Common Stock",U
+SBET,SharpLink Gaming Ltd. Ordinary Shares,NASDAQ
 SBEV,"Splash Beverage Group, Inc.",AMEX
 SBEV WS,"Splash Beverage Group, Inc. Warrants to purchase one whole share of Common Stock at an exercise pric",AMEX
 SBFFF,SBM Offshore Nv Ordinary Shares (Netherlands),U
@@ -5005,7 +5010,6 @@ SBKK,"Suncrest Bank (Visalia, CA) Common Stock",U
 SBKO,"Summit Bank Group, Inc.  Common Stock",U
 SBKT,Sumner Bank and Trust Common Stock,U
 SBLK,Star Bulk Carriers Corp. Common Shares,NASDAQ
-SBLKZ,Star Bulk Carriers Corp. 8.30% Senior Notes due 2022,NASDAQ
 SBLOF,Shin Nippon Biomedical Laboratories Ltd Kagoshima Ordinary Shares (Japan),U
 SBLRF,Sable Resources Ltd Ordinary Shares,U
 SBLUY,STABILUS S A American Depositary Receipts - Unsponsored Luxembourg(LU ),U
@@ -5356,6 +5360,7 @@ SF,Stifel Financial Corp.,NYSE
 SF PRA,Stifel Financial Corp.,NYSE
 SF PRB,"Stifel Financial Corp. Depositary Shares, Each Representing 1/1,000th Interest in a Share of 6.25% N",NYSE
 SF PRC,"Stifel Financial Corp. Depositary Shares, Each Representing 1/1, 000th Interest in a Share of 6.125%",NYSE
+SF PRD,"Stifel Financial Corp. Depositary Shares, Each Representing 1/1,000th Interest in a Share of 4.50% N",NYSE
 SFB,Stifel Financial Corp.5.20 percent Senior Notes due 2047,NYSE
 SFBC,"Sound Financial Bancorp, Inc. Common Stock",NASDAQ
 SFBE,Sino Bioenergy Corp. Common Stock,U
@@ -5574,5 +5579,3 @@ SHHPF,Ship Healthcare Holdings Inc Ordinary Shares (Japan),U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
-SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
-SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ

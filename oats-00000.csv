@@ -627,7 +627,7 @@ AGE,"AgeX Therapeutics, Inc.",AMEX
 AGEN,Agenus Inc. Common Stock,NASDAQ
 AGESF,Ageas NV Ordinary Shares (Belgium),U
 AGESY,Ageas Sponsored ADR (Belgium),U
-AGFAF,Agraflora Organics Intl Inc Ordinary Shares,U
+AGFAF,AGRA VENTURES LTD Ordinary Shares,U
 AGFMF,A G F Mgmt Ltd Cl B Non Vtg Ordinary Shares,U
 AGFS,"AgroFresh Solutions, Inc. Common Stock",NASDAQ
 AGFXF,"DB Agriculture Long ETN due April 1, 2038 (Germany)",U
@@ -1456,6 +1456,7 @@ APM,Aptorum Group Limited Class A Ordinary Shares,NASDAQ
 APMBF,APM AUTOMATIVE HOLDINGS BHD Ordinary Shares,U
 APMCF,Morien Resources Corp. Common Shares,U
 APMFF,EAGLE GRAPHITE INC  Ordinary Shares,U
+APMIU,AxonPrime Infrastructure Acquisition Corporation Unit,NASDAQ
 APMOF,ASPERMONT LTD Ordinary Shares (Australia),U
 APMSF,"Aperam S.A., Luxembourg Ordinary Shares (Luxembourg)",U
 APNHF,Aspen Pharmacare Holdings plc Ordinary Shares (South Africa),U
@@ -3598,6 +3599,8 @@ BSET,"Bassett Furniture Industries, Incorporated Common Stock",NASDAQ
 BSFC,BLUE STAR FOODS CORP COM,U
 BSFFF,Basic-Fit N.V. Ordinary Shares (Netherlands),U
 BSFO,Bank of San Francisco NEW,U
+BSGA,Blue Safari Group Acquisition Corp. Class A Ordinary Share,NASDAQ
+BSGAR,Blue Safari Group Acquisition Corp. Right,NASDAQ
 BSGAU,Blue Safari Group Acquisition Corp. Unit,NASDAQ
 BSGC,BigString Corporation Common Stock,U
 BSGM,"BioSig Technologies, Inc. Common Stock",NASDAQ
@@ -4146,7 +4149,7 @@ CBKPP,Cobank ACB Perp Pfd Cl F Fixed To Fltg,U
 CBLAQ,CBL & ASSOC PPTYS INC Common Stock,U
 CBLDQ,CBL & ASSOC PPTYS INC DEP SHS REPSTG 1/10TH PFD SER D 7.375% Depositary Shares,U
 CBLEQ,CBL & ASSOC PPTYS INC DEPOSITARY SHS REPSTG 1/10 6.625% SER E CUM REDEEMABLE (PFD STK) Depositary Shares,U
-CBLI,"Cleveland BioLabs, Inc. Common Stock",NASDAQ
+CBLI,Cytocom Inc. Common Stock,NASDAQ
 CBLNF,MERSEN SHS (France),U
 CBLNY,Mersen Unsponsored ADR (France),U
 CBLRF,"Campbell Resources, Inc. Ordinary Shares (Canada)",U
@@ -4389,6 +4392,7 @@ CECE,CECO Environmental Corp. Common Stock,NASDAQ
 CECL,"Cecil Bancorp, Inc. Common Stock",U
 CEDWF,CENTRAIS ELETRICAS SANTA CATARINA SA REGISTERED SHARES PREFERENCIALS PREFERRED SHARES Prefered Shares (Brazil),U
 CEE,"The Central and Eastern Europe Fund, Inc.",NYSE
+CEEIF,CERES INC Common Stock,U
 CEENF,"UpSnap, Inc. Ordinary Shares (Canada)",U
 CEF,Sprott Physical Gold and Silver Trust,ARCA
 CEFA,Global X Funds Global X S&P Catholic Values Developed ex-U.S. ETF,NASDAQ
@@ -5212,7 +5216,6 @@ CMTUF,"COMTURE CORP, TOKYO Ordinary Shares  Japan(JP )",U
 CMTV,Community Bancorp. (VT) Common Stock,U
 CMTX,Comtex News Network Inc. Common Stock,U
 CMU,MFS High Yield Municipal Trust,NYSE
-CMULF,Cyclone Metals Ltd Ordinary Shares,U
 CMUV,CMUV Bancorp Common Stock,U
 CMVLF,"Cellectis, Romainville Ordinary Shares (France)",U
 CMWAY,Commonwealth Bank Of Australia Sponsored ADR (Australia),U
@@ -5434,7 +5437,7 @@ COF PRL,"Capital One Financial Corporation Depositary Shares, Each Representing 
 COFE,Cafe Holdings Inc. Common Stock,U
 COFI,"Credit One Financial, Inc. Common Stock",U
 COFJF,COFCO JOYCOME FOODS LTD Ordinary Shares (Cayman Islands),U
-COFNV,CAPITAL ONE FINL CORP DEP SHS REPSTG 1/40TH PERP PFD SER N Depositary Shares,U
+COFNL,CAPITAL ONE FINL CORP DEP SHS REPSTG 1/40TH PERP PFD SER N Depositary Shares,U
 COFRF,COMFORIA RESIDENTIAL REIT INC REIT  (Japan),U
 COFS,"ChoiceOne Financial Services, Inc. Common Stock",NASDAQ
 COFSF,Colour Life Services Group Co HKD Shares (Cayman Islands),U
@@ -5489,6 +5492,7 @@ CONXF,NICKEL 28 CAP CORP Common Shares,U
 CONXU,CONX Corp. Unit,NASDAQ
 CONXW,CONX Corp. Warrant,NASDAQ
 COO,"The Cooper Companies, Inc.",NYSE
+COOK,"Traeger, Inc.",NYSE
 COOL,Corner Growth Acquisition Corp. Class A Ordinary Shares,NASDAQ
 COOLU,Corner Growth Acquisition Corp. Unit,NASDAQ
 COOLW,Corner Growth Acquisition Corp. Warrant,NASDAQ
@@ -5576,4 +5580,3 @@ CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
 CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
-CPK,Chesapeake Utilities,NYSE

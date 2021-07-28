@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
+SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
@@ -1286,7 +1288,6 @@ STEM WS,"Stem, Inc. Warrants, each whole warrant exercisable for one share of Co
 STEP,StepStone Group Inc. Class A Common Stock,NASDAQ
 STEV,Stevia Corp. Common Stock,U
 STFC,State Auto Financial Corporation Common Stock,NASDAQ
-STFLP,Stifel Financial Corp DEP SHS REPSTG 1/1000TH INT PFD SER D,U
 STFR,STEADFAST APT REIT INC Common Stock,U
 STFYF,Standard Foods Taiwan Ltd Reg S GDR,U
 STG,"Sunlands Technology Group, American Depositary Shares,  each 25 representing one Class A Ordinary Sh",NYSE
@@ -1299,6 +1300,7 @@ STGXF,Smartgroup Corp Ltd Ordinary Shares  (Austrailia),U
 STGYF,STINGRAY GROUP INC SUB VTG SHS Other,U
 STGZ,Stargaze Entertainment Group Inc. Common Stock,U
 STHC,"Southcorp Capital, Inc. Common Stock",U
+STHFF,STELMINE CDA LTD Common Stock,U
 STHHF,Steinhoff Intl Hldgs NV Ordinary Shares (Netherlands),U
 STHI,SPROUT TINY HOMES Common Stock,U
 STHLW,Stearns Holdings LLC Warrant Exp 11/05/2039,U
@@ -1583,6 +1585,7 @@ SVVC,"Firsthand Technology Value Fund, Inc. Common Stock",NASDAQ
 SVXA,"Sovereign Exploration Associates International, Inc. Common Stock",U
 SVXY,ProShares Short VIX Short-Term Futures ETF,BATS
 SVYSF,Solvay Et Cie Sa A Shs Ordinary Shares,U
+SWAGU,Software Acquisition Group Inc. III Unit,NASDAQ
 SWAN,Amplify BlackSwan Growth & Treasure Core ETF,ARCA
 SWAV,"ShockWave Medical, Inc. Common Stock",NASDAQ
 SWBI,"Smith & Wesson Brands, Inc. Common Stock",NASDAQ
@@ -1834,7 +1837,6 @@ TAVKF,TAVISTOCK INVTS PLC Ordinary SHS (United Kingdom),U
 TAWNF,Thai Airways Intl- Foreign Ordinary Shares,U
 TAXF,American Century Diversified Municipal Bond ETF,ARCA
 TAYD,"Taylor Devices, Inc. Common Stock",NASDAQ
-TAYL,Taylor S Cos Inc,U
 TAYO,Taylor Consulting Inc Common Stock,U
 TBABF,Trelleborg Ab B Fria (F) Ordinary Shares,U
 TBABY,Trelleborg AB Unsponsored American Depositary Receipts Representing B Shares (Sweden),U
@@ -2006,6 +2008,7 @@ TDW WSB,"Tidewater Inc. Series B Warrants to purchase shares of common stock (ex
 TDXP,Global Smart Capital Corp. Common Stock,U
 TDY,Teledyne Technologies Incorporated,NYSE
 TDYT,"Thermodynetics, Inc. (NV) Common Stock",U
+TEAD,Teads N.V. Class A Common Shares,NASDAQ
 TEAF,Ecofin Sustainable and Social Impact Term Fund,NYSE
 TEAH,Worry Free Tea House Holdings Company Common Stock,U
 TEAM,Atlassian Corporation Plc Class A Ordinary Shares,NASDAQ
@@ -2959,6 +2962,7 @@ TTAPF,TTW Public Company Limited Ordinary Shares (Thailand),U
 TTAPY,TTW Public Company Limited Unsponsored ADR (Thailand),U
 TTAXF,Tritax Eurobox PLC Ordinary Shares (United Kingdom),U
 TTAZF,Tata Consumer Products Ltd Global Depositary Receipts - Sponsored,U
+TTBKF,2020 BULKERS LTD Ordinary Shares,U
 TTBLF,Total Brain Ltd. Ordinary Shares,U
 TTBXF,Tritax Big Box Reit Plc Ord Gbp0.01 (United Kingdom),U
 TTC,Toro Company (The),NYSE
@@ -3849,7 +3853,6 @@ VEST,"Vestiage, Inc. Common Stock",U
 VESTF,Vesta Shs (Mexico),U
 VET,VERMILION ENERGY INC.,NYSE
 VETOF,Vetoquinol Ordinary Shares (France),U
-VETS,Pacer Military Times Best Employers ETF,NASDAQ
 VETTF,Vector Ltd Ordinary Shares (New Zealand),U
 VEU,Vanguard FTSE All-World Ex-US ETF,ARCA
 VEV,Vicinity Motor Corp. Common Stock,NASDAQ
