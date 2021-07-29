@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPK,Chesapeake Utilities,NYSE
-CPKB,Chesapeake Bancorp Common Stock,U
-CPKF,Chesapeake Financial Shares Inc Common Stock,U
-CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
-CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U
 CPKPY,C P Pokphand Co Ltd Sponsored ADR (Bermuda) USD,U
 CPLCF,IShares VII PLC Exchange Traded Fund,U
 CPLG,CorePoint Lodging Inc. Common Stock,NYSE
@@ -1009,7 +1004,7 @@ DFILF,Dairy Farm Intl Holdings Ordinary Shares,U
 DFIN,"Donnelley Financial Solutions, Inc.",NYSE
 DFJ,WisdomTree Japan SmallCap Dividend Fund,ARCA
 DFKCY,Daifuku Co Ltd American Depositary Receipts - Unsponsored   Japan (JP),U
-DFLYF,DRAGANFLY INC Common Shares  Canada(CA ),U
+DFLYD,DRAGANFLY INC Common Shares,U
 DFMTF,Defense Metals Corp Common Shares  Canada (CA),U
 DFND,Siren DIVCON Dividend Defender ETF,BATS
 DFNFF,Dividend 15 Split Corp II-A Preferred Stock (Canada),U
@@ -1381,8 +1376,11 @@ DOG,ProShares Short Dow30,ARCA
 DOGEF,Orsted A/S Ordinary Shares,U
 DOGZ,Dogness (International) Corporation Class A Common Stock,NASDAQ
 DOL,WisdomTree International LargeCap Dividend Fund,ARCA
+DOLE,Dole plc,NYSE
 DOLHF,Dolphin Capital Investors Ltd Reg  Shares (British Virgin Islands),U
 DOLLF,Dolly Varden Silver Corporation Common Shares,U
+DOMA,"Doma Holdings, Inc.",NYSE
+DOMA WS,"Doma Holdings, Inc. Warrants, each whole warrant exercisable for one share of Common Stock at an exe",NYSE
 DOMO,"Domo, Inc. Class B Common Stock",NASDAQ
 DOMR,Dominion Resources Black Warrior Trust Unit Ben Int,U
 DOMWF,DOMINION WTR RESVS CORP Common Shares,U
@@ -1528,6 +1526,7 @@ DSOX,Triton Emission Solutions Inc. Common Stock,U
 DSP,Viant Technology Inc. Class A Common Stock,NASDAQ
 DSPC,The De-SPAC ETF,ARCA
 DSPG,"DSP Group, Inc. Common Stock",NASDAQ
+DSPHF,DISPERSION HOLDINGS PLC Ordinary Shares,U
 DSRLF,Diasorin S.R.L. Shares (Italy),U
 DSS,"Document Security Systems, Inc.",AMEX
 DSSMY,DS Smith plc Unpsonsored ADR (United Kingdom),U
@@ -3466,7 +3465,6 @@ FJTSF,Fujitsu Ltd Ordinary Shares,U
 FJTSY,Fujitsu Ltd ADR,U
 FJUL,FT Cboe Vest U.S. Equity Buffer ETF - July,BATS
 FJUN,FT Cboe Vest U.S. Equity Buffer ETF - June,BATS
-FKCIF,Fukui Computer Holdings Inc Ordinary Shares (Japan),U
 FKKEF,Charter Hall Ed Tr Unit,U
 FKKFF,"Fukuoka Financial Group Inc, Fukuoka Common Shares (Japan)",U
 FKKFY,"Fukuoka Financial Group Inc, Fukuoka Unsponsored ADR (Japan)",U
@@ -4135,7 +4133,7 @@ FTRHF,Future Bright Holdings Ltd. Ordinary Shares (Bermuda),U
 FTRI,First Trust Exchange-Traded Fund II First Trust Indxx Global Natural Resources Income ETF,NASDAQ
 FTRK,"Fast Track Solutions, Inc. Common Stock",U
 FTROF,First Resources Ltd Ordinary shares (Singapore),U
-FTRPF,Field Trip Health Ltd. Common Shares (Canada),U
+FTRP,Field Trip Health Ltd. Common Shares,NASDAQ
 FTRRF,Fonterra Shareholders FD Ordinary Units Fully Paid (New Zealand),U
 FTRS,FUTURIS CO Common Stock,U
 FTRSF,Fortis Inc Cum Redeemable 5 Yr Fixed (Rate Reset First Pfd Shs Series G) (Canada),U
@@ -4179,6 +4177,7 @@ FUJHY,Subaru Corporation American Depositary Receipts - Unsponsored,U
 FUJIF,FUJIFILM Holdings Corporation Ordinary Shares,U
 FUJIY,FUJIFILM Holdings Corporation American Depositary Shares,U
 FUJSF,Fuji Seal Intl Inc Ordinary Shares (Japan),U
+FUJXF,Fujimi Inc Ordinary Shares,U
 FUL,H.B. Fuller Company,NYSE
 FULC,"Fulcrum Therapeutics, Inc. Common Stock",NASDAQ
 FULO,FULLNET COMMUNICATIONS INC Common Stock,U
@@ -5580,3 +5579,7 @@ GWX,SPDR S&P International Small Cap ETF,ARCA
 GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
 GWYNF,Genoway Ordinary Shares  France (FR),U
 GWYT,Greenway Technology Common Stock,U
+GXC,SPDR S&P China ETF,ARCA
+GXF,Global X FTSE Nordic Region ETF,ARCA
+GXG,Global X MSCI Colombia ETF,ARCA
+GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ

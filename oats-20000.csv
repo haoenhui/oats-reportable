@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
-SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
@@ -184,6 +181,7 @@ SIUAF,Stabilus SA Shs (Luxembourg LU),U
 SIUDF,Shanghai Industrial Urban Development Group Ltd. Ordinary Shares (Bermuda),U
 SIVB,SVB Financial Group Common Stock,NASDAQ
 SIVBP,"SVB Financial Group Depositary Shs each representing a 1/40th interest in a share of 5.25% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ
+SIVCV,SILVERGATE CAP CORP DEP SHS REPSTG 1/40TH PERP PFD SER A Depositary Shares,U
 SIVE,Silver Verde May Mng Co Unclassified,U
 SIVR,Aberdeen Standard Physical Silver Shares ETF,ARCA
 SIX,Six Flags Entertainment Corp.,NYSE
@@ -2573,6 +2571,7 @@ TNTTF,Toronto Dominion Bk Ont Non Cum 5 Yr Rate Reset Pfd Ser 3 (Canada),U
 TNVDF,THAI NVDR CO LTD Warrants Exp 5/26/2023 (Thailand),U
 TNXP,Tonix Pharmaceuticals Holding Corp. Common Stock,NASDAQ
 TNXXF,TALANX AG Ordinary Shares (Germany),U
+TNYA,"Tenaya Therapeutics, Inc. Common Stock",NASDAQ
 TNYBF,"Tinley Beverage Co, Inc. Ordinary Shares",U
 TNYYF,Tinybeans Group Pty Ltd. Ordinary Shares (Australia),U
 TOAGF,Toagosei Co Ltd Ordinary Shares (Japan),U
@@ -2657,6 +2656,7 @@ TPGY U,"TPG Pace Beneficial Finance Corp. Units, each consisting of one Class A 
 TPGY WS,"TPG Pace Beneficial Finance Corp. Warrants, each whole warrant exercisable for one Class A ordinary",NYSE
 TPH,"Tri Pointe Homes, Inc.",NYSE
 TPHD,Timothy Plan High Dividend Stock ETF,ARCA
+TPHE,TIMOTHY PLAN HIGH DIVIDEND STOCK ENHANCED ETF,ARCA
 TPHIF,Top Frontier Investment Holdings Inc Ordinary Shares (Phillipines),U
 TPHS,Trinity Place Holdings Inc.com,AMEX
 TPIA,Mycotopia Therapies Inc. Common Stock,U
@@ -2666,6 +2666,7 @@ TPII,"Triad Pro Innovators, Inc. Common Stock",U
 TPIL,"TPI International, Inc. Common Stock",U
 TPL,Texas Pacific Land Corporation,NYSE
 TPLC,Timothy Plan US Large/Mid Cap Core ETF,ARCA
+TPLE,TIMOTHY PLAN US LARGE/MID CAP CORE ENHANCED ETF,ARCA
 TPLKF,Tepla AG Kirchheim Ordinary Shares (Germany),U
 TPLWF,Temple & Webster Group Ltd. Ordinary Shares (Australia),U
 TPMT,Temple Mtns Ind New Unclassified,U
@@ -4568,6 +4569,7 @@ WFAFY,Wesfarmers Ltd American Depositary Receipts - Unsponsored,U
 WFC,Wells Fargo & Co.,NYSE
 WFC PRA,"Wells Fargo & Company Depositary Shares, each representing a 1/1, 000th interest in a share of Non-C",NYSE
 WFC PRC,"Wells Fargo & Company Depositary Shares, each representing a 1/1, 000th interest in a share of Non-C",NYSE
+WFC PRD,"Wells Fargo & Company Depositary Shares, each representing a 1/1, 000th interest in a share of Non-C",NYSE
 WFC PRL,WELLS FARGO 7.5% NON CUMV PERP CONV,NYSE
 WFC PRO,"WELLS FARGO & COMPANY Depositary Shares, each representing a 1/1,000th interest in a share of Non-Cu",NYSE
 WFC PRQ,Wells Fargo & Co.,NYSE
@@ -4586,7 +4588,6 @@ WFHY,WisdomTree U.S. High Yield Corporate Bond Fund,BATS
 WFICF,Wall Finl Corp Canada Ordinary Shares (Canada),U
 WFIG,WisdomTree U.S. Corporate Bond Fund,BATS
 WFPCF,Schroder UK Pub Private Tr PLC Ordinary Shares,U
-WFPDP,WELLS FARGO & COMPANY DEP SHS REPSTG 1/1000TH INT PERP PFD CL A SER DD,U
 WFRD,Weatherford International plc Ordinary Shares,NASDAQ
 WFRSF,West African Resources Limited,U
 WFSTF,Western Forest Products Inc Common Shares (Canada),U
@@ -4846,6 +4847,7 @@ WRIV,White River Bancshares Co Common Stock,U
 WRK,WestRock Company,NYSE
 WRLC,WINDROCK LD CO Common Stock,U
 WRLD,World Acceptance Corporation Common Stock,NASDAQ
+WRLPF,WHIRLPOOL SA Preference Shares,U
 WRMA,Wiremedia Inc. Common Stock,U
 WRMCF,WHITE ROCK MINERALS LTD Ordinary Shares,U
 WRMK,Watermark Lodging Trust Inc Common Shares Cl A,U
@@ -5129,6 +5131,7 @@ XONE,The ExOne Company Common Stock,NASDAQ
 XOP,SPDR S&P Oil & Gas Exploration & Production ETF,ARCA
 XOUT,GraniteShares XOUT U.S. Large Cap ETF,ARCA
 XP,XP Inc. Class A Common Stock,NASDAQ
+XPAXU,XPAC Acquisition Corp. Unit,NASDAQ
 XPDI,Power & Digital Infrastructure Acquisition Corp. Class A Common Stock,NASDAQ
 XPDIU,Power & Digital Infrastructure Acquisition Corp. Unit,NASDAQ
 XPDIW,Power & Digital Infrastructure Acquisition Corp. Warrant,NASDAQ

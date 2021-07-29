@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U
-MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGOF,MUSTI GROUP OYJ Ordinary Shares,U
@@ -1206,7 +1203,7 @@ NVGT,Novagant Corp. Common Stock,U
 NVIV,InVivo Therapeutics Holdings Corp Common Stock,NASDAQ
 NVLPF,NOVA LEAP HEALTH CORP Common Stock (Canada),U
 NVMDF,NOVAMIND INC Common Shares,U
-NVMI,Nova Measuring Instruments Ltd. Ordinary Shares,NASDAQ
+NVMI,Nova Ltd. Ordinary Shares,NASDAQ
 NVMLF,Navarre Minerals Ltd. Ordinary Shares (Australia),U
 NVMZ,TrueShares Structured Outcome (November) ETF,BATS
 NVNT,"Novint Technologies, Inc. Common Stock",U
@@ -3342,6 +3339,7 @@ PTBD,Pacer Trendpilot US Bond ETF,ARCA
 PTBFF,PT BEKASI FAJAR INDL ESTATE TBK Ordinary Shares,U
 PTBKF,PT Surya Citra Media TBK Ordinary Shares Indonesia(ID ),U
 PTBLF,"PT BUANA LISTYA TAMA TBK, JAKARTA Ordinary Shares",U
+PTBMF,PT BANK MAYAPADA INTERNASIONAL TBK Ordinary Shares,U
 PTBPF,"PT BANK PEMB DAER JAWA BAR BPD JABAR, SHS SERIES B (Indonesia)",U
 PTBRF,PT BERLINA TBK Ordinary Shares,U
 PTBRY,Pt Bank Negara Indonesia (Persero) Unsponsored ADR (Indonesia),U
@@ -3447,6 +3445,7 @@ PTRRF,Pointerra Ltd Ordinary Shares (Australia),U
 PTRRY,PETRO RIO S A American Depositary Receipts - Unsponsored,U
 PTRS,Partners Bancorp Common Stock,NASDAQ
 PTRUF,Petrus Res Ltd Ordinary Shares (Canada),U
+PTRVF,Petro Viking Energy Inc Common Shares,U
 PTSH,"PTS, Inc. Common Stock",U
 PTSI,"P.A.M. Transportation Services, Inc. Common Stock",NASDAQ
 PTSRF,Partners Real Estate Investment Trust New Units (Canada),U
@@ -3893,6 +3892,7 @@ RAMMW,Aries I Acquisition Corporation Warrant,NASDAQ
 RAMP,"LiveRamp Holdings, Inc. Common Stock",NYSE
 RAMPF,POLARIS INFRASTRUCTURE INC  Common Shares,U
 RAND,Rand Capital Corporation Common Stock,NASDAQ
+RANI,"Rani Therapeutics Holdings, Inc. Class A Common Stock",NASDAQ
 RANJF,Randstad Holdings Nv Ordinary Shares,U
 RANJY,Randstad NV American Depositary Receipts - Unsponsored,U
 RANKF,Rank Group plc Ordinary Shares (United Kingdom),U
@@ -4389,7 +4389,7 @@ RLTR,Reeltime Rentals Inc Common Stock,U
 RLX,"RLX Technology Inc. American Depositary Shares, each representing the right to receive one (1) Class",NYSE
 RLXXF,RELX PLC Ordinary Shares (United Kingdom),U
 RLY,SPDR SSgA Multi-Asset Real Return ETF of SSgA Active Trust,ARCA
-RLYB,"Rallybio Holdings, LLC Common Stock",NASDAQ
+RLYB,Rallybio Corporation Common Stock,NASDAQ
 RLYGF,RILEY GOLD CORP COM (Canada),U
 RLYNF,Rallye SA Neuilly-Sur-Seine Ordinary Shares (France),U
 RM,REGIONAL MANAGEMENT CORP,NYSE
@@ -4508,9 +4508,6 @@ ROBOF,"Robo Group TEK, Ltd. Ordinary Shares",U
 ROBT,First Trust Exchange-Traded Fund VI First Trust Nasdaq Artificial Intelligence and Robotics ETF,NASDAQ
 ROBXF,"Robix Environmental Technologies, Inc. Ordinary Shares (Canada)",U
 ROCAF,Roca Mines Inc Ordinary Shares (Canada),U
-ROCC,Roth CH Acquisition II Co. Common Stock,NASDAQ
-ROCCU,Roth CH Acquisition II Co. Unit,NASDAQ
-ROCCW,Roth CH Acquisition II Co. Warrant,NASDAQ
 ROCGU,Roth CH Acquisition IV Co. Unit,NASDAQ
 ROCK,"Gibraltar Industries, Inc. Common Stock",NASDAQ
 ROCLF,"Royal Olympic Cruise Lines, Inc. Ordinary Shares (Liberia)",U
@@ -4643,6 +4640,7 @@ RSHPF,Irish Residential Properties REIT PLC Ordinary Shares Euro.10,U
 RSHTF,RESONANCE HEALTH LTD SHS (Australia),U
 RSHYY,RusHydro PJSC American Depositary Receipts - Sponsored,U
 RSI,"Rush Street Interactive, Inc.",NYSE
+RSKD,Riskified Ltd.,NYSE
 RSKIA,"Risk (George) Industries, Inc. Class A",U
 RSLBF,Raysearch Laboratories AB Ordinary Shares Class B (Sweden),U
 RSLS,"ReShape Lifesciences, Inc. Common Stock",NASDAQ
@@ -4664,6 +4662,8 @@ RSTGF,Restaurant Group Plc Ordinary Shares (UK),U
 RSTN,RDE INC Common Stock,U
 RSTRF,RESTAURANT BRANDS INTL LTD PARTNERSHIP Unit (Canada),U
 RSTTF,R Stahl AG Stuttgart Ordinary Shares (Germany),U
+RSVR,"Reservoir Media, Inc. Common Stock",NASDAQ
+RSVRW,"Reservoir Media, Inc. Warrant",NASDAQ
 RSX,VanEck Vectors Russia ETF,BATS
 RSXJ,VanEck Vectors Russia Small-Cap ETF,BATS
 RSYC,"Real Security Company, Inc. (The) Common Stock",U
@@ -4731,6 +4731,7 @@ RUSHB,"Rush Enterprises, Inc. Class B",NASDAQ
 RUSL,Direxion Daily Russia Bull 2X Shares,ARCA
 RUSMF,"Russel Metals, Inc. Ordinary Shares",U
 RUTH,"Ruth's Hospitality Group, Inc. Common Stock",NASDAQ
+RVACU,Riverview Acquisition Corp. Unit,NASDAQ
 RVBR,Markray Corp. Common Stock,U
 RVCB,River Vy Cmnty Bancorp Common Stock,U
 RVI,Retail Value Inc. Common Shares,NYSE
@@ -5579,3 +5580,6 @@ SHHPF,Ship Healthcare Holdings Inc Ordinary Shares (Japan),U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
+SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
+SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ

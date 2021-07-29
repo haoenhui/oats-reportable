@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GXC,SPDR S&P China ETF,ARCA
-GXF,Global X FTSE Nordic Region ETF,ARCA
-GXG,Global X MSCI Colombia ETF,ARCA
-GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
 GXIIU,GX Acquisition Corp. II Unit,NASDAQ
 GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
 GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
@@ -651,6 +647,7 @@ HON,Honeywell International Inc. Common Stock,NASDAQ
 HONE,"HarborOne Bancorp, Inc. Common Stock",NASDAQ
 HONT,"Honat Bancorp, Inc. Common Stock",U
 HOOB,"Holobeam, Inc. Common Stock",U
+HOOD,"Robinhood Markets, Inc. Class A Common Stock",NASDAQ
 HOOK,HOOKIPA Pharma Inc. Common Stock,NASDAQ
 HOPE,"Hope Bancorp, Inc. Common Stock",NASDAQ
 HOPHF,HEMOGENYX PHARMACEUTICALS PLC Ordinary Shares (United Kingdom),U
@@ -1559,6 +1556,7 @@ IMAB,I-MAB American Depositary Shares,NASDAQ
 IMAC,"IMAC Holdings, Inc. Common Stock",NASDAQ
 IMACW,"IMAC Holdings, Inc. Warrant",NASDAQ
 IMAHF,I-Minerals Inc Ordinary Shares (Canada),U
+IMAQU,International Media Acquisition Corp. Unit,NASDAQ
 IMATF,ISHARES V PLC S&P 500 MATERIALS SECTOR UCITS ETF USD (Ireland) Exchange Traded Fund,U
 IMAX,Imax Corp,NYSE
 IMBBF,IMPERIAL BRANDS PLC Ordinary Shares,U
@@ -2483,6 +2481,7 @@ JDHIF,JD HEALTH INTL INC Ordinary Shares,U
 JDHIY,JD Health International Inc. American Depositary Receipts - Unsponsored (Cayman Islands),U
 JDIV,JPMorgan U.S. Dividend ETF,ARCA
 JDLGF,JD LOGISTICS INC USD ORD SHS (Cayman Islands),U
+JDLGY,JD LOGISTICS INC American Depositary Receipts - Unsponsored,U
 JDQTF,"Jasdaq-Top20 ETF, Tokyo UNITS 2010 -without fixed maturity (Japan)",U
 JDSPY,JD Sports Fashion PLC American Depositary Receipts - Unsponsored (United Kingdom),U
 JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,ARCA
@@ -2881,7 +2880,7 @@ KATA,Katana Broadband Corporation Common Stock,U
 KATSF,Katsuragawa Electric Co Ltd Ordinary Shares (Japan),U
 KATX,KAT Exploration Inc.  Common Stock,U
 KAURF,KAISER REEF LTD ORDINARY FULLY PAID (Australia),U
-KAVLD,"Kaival Brands Innovations Group, Inc. Common Stock",U
+KAVL,"Kaival Brands Innovations Group, Inc. Common Stock",NASDAQ
 KAYS,"Kaya Holdings, Inc. Common Stock",U
 KB,KB Financial Group Inc,NYSE
 KBA,KraneShares Bosera MSCI China A ETF,ARCA
@@ -3117,6 +3116,7 @@ KLKBY,Kuala Lumpur Kepong Berhad Ord Unsponsored American Depository Receipt,U
 KLKNF,Kloeckner & Co Ag Duisburg Namen-Akt Shares (Germany),U
 KLMAF,KLIMATOR AB SHARE AK (Sweden),U
 KLMR,KLM Royal Dutch Airlines Common Stock New York Registry,U
+KLNE,Direxion Daily Global Clean Energy Bull 2X Shares,ARCA
 KLOC,Kushner-Locke Company (The) Common Stock,U
 KLPEF,Klepierre Sa Ord Ordinary Shares,U
 KLR,"Kaleyra, Inc.",AMEX
@@ -5079,6 +5079,7 @@ MLPB,"ETRACS Alerian MLP Infrastructure Index ETN Series B due April 2, 2040",AR
 MLPH,Molecular Pharmacology (USA) Limited,U
 MLPKF,MLP AG (Germany) Ordinary Shares,U
 MLPLF,PT Multipolar Technology TBK Ordinary Shares (Indonesia),U
+MLPMF,MILLENNIAL PRECIOUS METALS CORP Common Shares,U
 MLPO,Credit Suisse S&P MLP Index ETN,ARCA
 MLPR,ETRACS Quarterly Pay 1.5X Leveraged Alerian MLP Index ETN,ARCA
 MLPX,Global X MLP & Energy Infrastructure ETF,ARCA
@@ -5579,3 +5580,6 @@ MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
+MTFC,Minster Financial Corporation,U
+MTFGF,U K SPAC PLC Ordinary Shares,U
