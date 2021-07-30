@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GXF,Global X FTSE Nordic Region ETF,ARCA
+GXG,Global X MSCI Colombia ETF,ARCA
+GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
 GXIIU,GX Acquisition Corp. II Unit,NASDAQ
 GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
 GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
@@ -3037,6 +3040,7 @@ KHRNF,Khiron Life Sciences Corp Common Stock,U
 KHRWF,Khiron Life Sciences Corp Warrant Exp 11/26/2025,U
 KHTRF,Knight Therapeutics Inc Common Shares (Canada),U
 KHZM,"Madison Ave Media, Inc.  Common Stock",U
+KIARF,KIARO HLDGS CORP Common Shares,U
 KICK,"HPN Holdings, Inc. Common Stock",U
 KIDBQ,"Kid Brands, Inc.",U
 KIDS,OrthoPediatrics Corp. Common Stock,NASDAQ
@@ -3437,6 +3441,7 @@ KWBT,Kiwa Bio-Tech Products Group Corporation Common Stock,U
 KWEB,KraneShares CSI China Internet ETF,ARCA
 KWEMF,KWESST MICRO SYS INC Common Stock (Canada),U
 KWGBF,KWG RESOURCES INC Ordinary Shares,U
+KWGHF,KINGSWOOD HLDGS LTD SHS (Guernsey),U
 KWGPF,KWG GROUP HLDGS LTD Ordinary Shares,U
 KWHAF,K Wah Intl Hldgs Ltd Ord Ordinary Shares,U
 KWHIF,Kawasaki Heavy Industries Ltd Ordinary Shares,U
@@ -4413,7 +4418,6 @@ MAWHF,Man Wah Holdings Limited New Ordinary Shares (Bermuda),U
 MAWHY,Man Wah Holdings Limited American Depository Receipt (Unsponsored),U
 MAX,"MediaAlpha, Inc.",NYSE
 MAXAF,Maxclean Holdings Ltd Ordinary Shares (Cayman Islands),U
-MAXC,MAXCYTE INC COM,U
 MAXD,Max Sound Corporation Common Stock,U
 MAXFF,Max Stock Ltd Ordinary Shares (Israel),U
 MAXMF,Southern Energy Corp Common Shares,U
@@ -5117,7 +5121,7 @@ MMD,MainStay MacKay DefinedTerm Municipal Opportunities Fund,NYSE
 MMDCF,MIND MEDICINE MINDMED INC Warrant   01/07/2024,U
 MMDDF,Mirriad Advertising Ltd Ordinary Shares (United Kingdom),U
 MMDWF,Mind Medicine Mindmed Inc Warrant Exp 05/22/2022 (Canada),U
-MMEXD,MMEX Resources Corporation Common Stock,U
+MMEX,MMEX Resources Corporation Common Stock,U
 MMHEF,Malaysia Marine & Heavy Engineering SDN BHD Ordinary Shares (Malaysia),U
 MMHTF,Miramar Hotel & Invvest Ordinary Shares,U
 MMI,MARCUS & MILLICHAP,NYSE
@@ -5580,6 +5584,3 @@ MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFBF,MOTIF BIO PLC  Ordinary Shares (United Kingdom),U
-MTFC,Minster Financial Corporation,U
-MTFGF,U K SPAC PLC Ordinary Shares,U

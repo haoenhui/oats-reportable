@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTFC,Minster Financial Corporation,U
+MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGOF,MUSTI GROUP OYJ Ordinary Shares,U
@@ -149,6 +151,7 @@ MXC,Mexco Energy Corporation,AMEX
 MXCHF,Orbia Advance Corp S A B DE CV Ordinary Shares,U
 MXCHY,ORBIA ADVANCE CORP S A B DE C V American Depositary Receipts - Unsponsored,U
 MXCLF,Max Co Ltd Ordinary Shares Japan(JP ),U
+MXCT,"MaxCyte, Inc. Common Stock",NASDAQ
 MXDHF,MDXHealth SA Ordinary Shares (Belgium),U
 MXDU,Nationwide Maximum Diversification U.S. Core Equity ETF,ARCA
 MXE,"The Mexico Equity and Income Fund, Inc.",NYSE
@@ -1363,7 +1366,6 @@ NYMT,"New York Mortgage Trust, Inc. Common Stock",NASDAQ
 NYMTL,"New York Mortgage Trust, Inc. 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock, $0.01 par value per share",NASDAQ
 NYMTM,"New York Mortgage Trust, Inc. 7.875% Series E Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NASDAQ
 NYMTN,"New York Mortgage Trust, Inc. 8.00% Series D Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock",NASDAQ
-NYMTO,"New York Mortgage Trust, Inc. 7.875% Series C Cumulative Redeemable Preferred Stock",NASDAQ
 NYMTP,"New York Mortgage Trust, Inc. 7.75% Series B Cumulative Redeemable Preferred Stock",NASDAQ
 NYMX,Nymox Pharmaceutical Corporation Common Stock (Bahamas),NASDAQ
 NYOM,NYC on the Move Inc Common Stock,U
@@ -2318,8 +2320,8 @@ PEB PRD,Pebblebrook Hotel Trust 6.375% Series D Cumulative Redeemable Preferred 
 PEB PRE,Pebblebrook Hotel Trust 6.375% Series E Cumulative Redeemable Preferred Shares of Beneficial Interes,NYSE
 PEB PRF,Pebblebrook Hotel Trust 6.3% Series F Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE
 PEB PRG,Pebblebrook Hotel Trust 6.375% Series G Cumulative Redeemable Preferred Shares of Beneficial Interes,NYSE
+PEB PRH,Pebblebrook Hotel Trust 5.700% Series H Cumulative Redeemable Preferred Shares of Beneficial Interes,NYSE
 PEBA,Penn Bancshares Inc Common Stock,U
-PEBBP,PEBBLEBROOK HOTEL TR Preferred Stock,U
 PEBC,Peoples Bancorp Inc MD Common,U
 PEBK,"Peoples Bancorp of North Carolina, Inc. Common Stock",NASDAQ
 PEBN,Pacific Enterprise Bancorp Irvine California Common Stock,U
@@ -2512,7 +2514,6 @@ PHB,Invesco Fundamental High Yield Corporate Bond ETF,ARCA
 PHBBF,PHARMARON BEIJING CO LTD Ordinary Shares (China),U
 PHBI,Pharmagreen Biotech Inc. Common Stock,U
 PHBR,"PhoneBrasil International, Inc. Common Stock",U
-PHCC,"Preston Hollow Community Capital, Inc.",NYSE
 PHCF,"Puhui Wealth Investment Management Co., Ltd. Ordinary Shares",NASDAQ
 PHCG,"Pure Harvest Corporate Group, Inc. Common Stock",U
 PHCUF,Photocure Asa Ordinary Shares,U
@@ -2862,6 +2863,7 @@ PNINF,Pininfarina SPA Torino Ordinary Shares (Italy),U
 PNLT,"Paneltech International Holdings, Inc. Common Stock",U
 PNM,"PNM Resources, Inc.",NYSE
 PNMLF,"Jayden Resources, Inc. Ordinary Shares",U
+PNMRF,PENTAMASTER INTL LTD SHS BOARD LOT 2000 SHS (Cayman Islands),U
 PNMXO,Public Service Company of New Mexico 4.58 Cumulative Preferred Stock,U
 PNNB,Pinnacle Bank of Oregon (OR) Common Stock,U
 PNNCU,Pinnacle Ethanol LLC Cap Unit Cl A,U
@@ -3561,7 +3563,6 @@ PWRMF,Power Metals Corp Common Shares,U
 PWS,Pacer WealthShield ETF,BATS
 PWSC,"PowerSchool Holdings, Inc.",NYSE
 PWV,Invesco Dynamic Large Cap Value ETF,ARCA
-PWVI,"PowerVerde, Inc. Common Stock",U
 PWWBF,Powerband Solutions Inc Ordinary Shares,U
 PWZ,Invesco California AMT-Free Municipal Bond ETF,ARCA
 PWZYF,POWSZECHNY ZAKLAD UBEZPIECZEN SA Ordinary Shares (Poland),U
@@ -4484,7 +4485,6 @@ RNRTY,Reunert Ltd Unsponsored ADR (South Africa),U
 RNSBF,Rimbunan Sawit Berhad Ordinary Shares (Malaysia),U
 RNSC,First Trust Exchange-Traded Fund VI Small Cap US Equity Select ETF,NASDAQ
 RNSDF,Renault Sa Regie Natl 25 Par Ordinary Shares,U
-RNSFF,Renaissance Oil Corp. Ordinary Shares (Canada),U
 RNSHF,Renishaw Plc  Ordinary Shares,U
 RNSHY,Renishaw PLC Unsponsored ADR (United Kingdom),U
 RNST,Renasant Corporation Common Stock,NASDAQ
@@ -5193,6 +5193,7 @@ SCVUF,Siam Cement Public Co Ltd Fgn Units Non Voting Depository Receipt,U
 SCVX,SCVX Corp.,NYSE
 SCVX U,"SCVX Corp. Units, each consisting of one Class A ordinary share, $0.0001 par value per share, and on",NYSE
 SCVX WS,SCVX Corp.,NYSE
+SCWO,374Water Inc. Common Stock,U
 SCWTF,Schweiter Technologies Ag Horgen Ordinary Shares (Switzerland),U
 SCWX,SecureWorks Corp. Class A Common Stock,NASDAQ
 SCX,The L.S. Starrett Company,NYSE
@@ -5582,4 +5583,3 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ

@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
@@ -461,7 +462,9 @@ SMHGF,SIMCERE PHARMACEUTICAL GROUP LTD Ordinary Shares Public Company Limited by
 SMHI,SEACOR Marine Holdings Inc. Common Stock,NYSE
 SMHRY,Smoore Intl Hldgs Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
 SMID,Smith-Midland Corporation Common Stock,NASDAQ
+SMIH,Summit Healthcare Acquisition Corp. Class A Ordinary Share,NASDAQ
 SMIHU,Summit Healthcare Acquisition Corp. Units,NASDAQ
+SMIHW,Summit Healthcare Acquisition Corp. Warrant,NASDAQ
 SMIN,iShares MSCI India Small-Cap ETF,BATS
 SMIRF,SEMIRARA MINING & POWER CORP Ordinary Shares Philippines(PH ),U
 SMIT,"Schmitt Industries, Inc. Common Stock",NASDAQ
@@ -1026,6 +1029,7 @@ SRAC,Stable Road Acquisition Corp. Class A Common Stock,NASDAQ
 SRACU,Stable Road Acquisition Corp. Unit,NASDAQ
 SRACW,Stable Road Acquisition Corp. Warrant,NASDAQ
 SRAFF,Sandfire Resources America Inc Common Shares,U
+SRAIF,STADLER RAIL AG NAMEN AKT (Switzerland),U
 SRAMF,SISRAM MED LTD SHARE (Israel),U
 SRAWY,Srisawad Corp Pub Co Ltd. American Depositary Receipts - Unsponsored (Thailand),U
 SRAX,"SRAX, Inc. Class A Common Stock",NASDAQ
@@ -1139,6 +1143,7 @@ SSAAU,Science Strategic Acquisition Corp. Alpha Unit,NASDAQ
 SSAAW,Science Strategic Acquisition Corp. Alpha Warrant,NASDAQ
 SSAAY,Ssab Swedish Steel A Sh Sk25 P Unsponsored ADR (Sweden),U
 SSB,South State Corporation Common Stock,NASDAQ
+SSBBF,SSGA SPDR ETFS EUROPE I PLC BLOOMBERG BARCLAYS U.S. TIPS UCITS ETF (Ireland),U
 SSBI,Summit State Bank Common Stock,NASDAQ
 SSBP,SSB Bancorp Inc Common Stock,U
 SSCC,Spirits Cap Corp. Common Stock,U
@@ -1509,9 +1514,6 @@ SUZ,Suzano S.A. American Depositary Shares (each representing one Ordinary Share
 SUZRY,Sulzer AG Unsponsored ADR (Switzerland),U
 SV,Spring Valley Acquisition Corp. Class A Ordinary Share,NASDAQ
 SVA,"Sinovac Biotech, Ltd. Ordinary Shares",NASDAQ
-SVAC,Starboard Value Acquisition Corp. Class A Common Stock,NASDAQ
-SVACU,Starboard Value Acquisition Corp. Unit,NASDAQ
-SVACW,Starboard Value Acquisition Corp. Warrant,NASDAQ
 SVAD,"Silverton Adventures, Inc. Common Stock",U
 SVAKF,DIGILIFE TECHNOLOGIES LTD Ordinary Shares,U
 SVAL,iShares US Small Cap Value Factor ETF,BATS
@@ -2406,7 +2408,6 @@ TLLYF,Trilogy Intl Partners Inc Ordinary Shares (Canada),U
 TLLZF,GOLD LINE RES LTD Ordinary Shares,U
 TLMD,"SOC Telemed, Inc. Class A Common Stock",NASDAQ
 TLMDW,"SOC Telemed, Inc. Warrants",NASDAQ
-TLND,Talend S.A. American Depositary Shares,NASDAQ
 TLOFF,Talon Metal Corp Ordinary Shares (British Virgin Islands) CAD,U
 TLOG,TETRALOGIC PHARMACEUTICALS CORP Common Stock,U
 TLOOF,Contakt World Technologies Corp. Common Shares,U
@@ -2698,7 +2699,7 @@ TPX,"TEMPUR SEALY INTERNATIONAL, INC.",NYSE
 TPYP,Tortoise North American Pipeline ETF,ARCA
 TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc.",NYSE
 TPZEF,TOPAZ ENERGY CORP COM (Canada),U
-TQLB,"Torque Lifestyle Brands, Inc. Common Stock",U
+TQLBD,"Torque Lifestyle Brands, Inc. Common Stock",U
 TQQQ,ProShares UltraPro QQQ,NASDAQ
 TR,"Tootsie Roll Industries, Inc.",NYSE
 TRAA,Traack Technologies Inc. Common Stock,U
@@ -4881,6 +4882,7 @@ WSIOF,Wasion Holdings Ltd Ordinary Shares (Cayman Islands),U
 WSKEF,Wisekey International Holdings Ltd. Ordinary Shares (Switzerland),U
 WSM,"Williams-Sonoma, Inc.",NYSE
 WSML,"Williamsville Sears Management, Inc. Common Stock",U
+WSNAF,WESANA HEALTH HLDGS INC Common Shares,U
 WSO,"Watsco, Inc.",NYSE
 WSO B,"Watsco, Inc. Class B",NYSE
 WSOUF,Washington Hsoul Pattison & Co Ltd (Australia),U
@@ -4968,7 +4970,6 @@ WWE,World Wrestling Entertainment,NYSE
 WWHC,W World Corp. Common Stock,U
 WWHZF,Worldwide Healthcare Trust Plc Ordinary Shares (United Kingdom),U
 WWII,"World Of Wireless International Telecom, Inc. Common Stock",U
-WWIN,"AllyMe Group, Inc. Common Stock",U
 WWIO,Wowio Inc Common Stock,U
 WWJD,Inspire International ESG ETF,ARCA
 WWLNF,Worldline SA Ordinary Shares (France),U
@@ -5390,7 +5391,7 @@ YZOFF,Yangtze Optical Fibre & Cable Joint Stk Ltd Co Ordinary Shares (China),U
 YZZKF,Yamazaki Baking Ltd Ordinary Shares (Japan),U
 Z,"Zillow Group, Inc. Class C Capital Stock",NASDAQ
 ZAAG,ZA Group Inc. Common Stock,U
-ZADDF,ZADAR VENTURES LTD Ordinary Shares,U
+ZADDF,XRAPPLIED TECHNOLOGIES INC Ordinary Shares,U
 ZAHA,"Zahav, Inc. Common Stock",U
 ZAIRF,Zinc8 Energy Solutions Inc.  Common Stock,U
 ZAPNF,ZAPF CREATION AG Ordinary Shares,U

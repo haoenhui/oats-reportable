@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPKPY,C P Pokphand Co Ltd Sponsored ADR (Bermuda) USD,U
 CPLCF,IShares VII PLC Exchange Traded Fund,U
 CPLG,CorePoint Lodging Inc. Common Stock,NYSE
 CPLP,Capital Product Partners L.P. Common Units,NASDAQ
@@ -200,7 +199,7 @@ CRSQ,"Corporate Restaurant Concepts, Inc. Common",U
 CRSR,"Corsair Gaming, Inc. Common Stock",NASDAQ
 CRSS,"Crossroads Systems, Inc. NEW Common Stock",U
 CRSTF,Crest Resources Inc Ordinary Shares (Canada),U
-CRSWF,CROSSWINDS HLDGS INC  Ordinary Shares,U
+CRSWF,BIOMIND LABS INC Ordinary Shares,U
 CRSXF,Corsa Coal Corp. Common Shares,U
 CRT,Cross Timbers Royalty Trust,NYSE
 CRTD,Creatd Inc. Common Stock,NASDAQ
@@ -298,6 +297,7 @@ CSLLY,Csl Ltd SPONSORED ADR (Australia),U
 CSLT,"CASTLIGHT HEALTH, INC.",NYSE
 CSM,ProShares Large Cap Core Plus,BATS
 CSML,IndexIQ ETF Trust IQ Chaikin U.S. Small Cap ETF,NASDAQ
+CSMYF,"COSMOS PHARMACEUTICAL CORP, MIYAZAKI SHS (Japan)",U
 CSNVF,Corbion NV Ordinary Shares,U
 CSNVY,Corbion NV Unsponsored ADR (Netherlands),U
 CSOC,Caduceus Software Systems Corp. Common Stock,U
@@ -722,6 +722,8 @@ CYUFF,China Yurun Food Group Limited Ordinary Shares (Bermuda),U
 CYUNF,China Huiyuan Juice Group Limited Ordinary shares (Cayman Islands),U
 CYUXF,BC Moly Ltd. Ordinary Shares (Canada),U
 CYVF,Crystal Valley Financial Corporation (IN) Common Stock,U
+CYXT,"Cyxtera Technologies, Inc. Class A Common Stock",NASDAQ
+CYXTW,"Cyxtera Technologies, Inc. Warrant",NASDAQ
 CYYHF,China Yongda Automobile Svcs Hldgs Ltd Ordinary Shares (Cayman Islands),U
 CYYNF,CYNATA THERAPEUTICS LTD Ordinary Shares(Australia),U
 CYZN,"Cyberzone, Inc. Common Stock",U
@@ -798,7 +800,6 @@ DBBPF,Double Bd Pharmaeutical Intl AB Ordinary Shares B (Sweden),U
 DBC,Invesco DB Commodity Index Tracking Fund,ARCA
 DBCCF,Decibel Cannabis Co Inc Common Shares,U
 DBD,Diebold Nixdorf Incorporated,NYSE
-DBDIF,WESANA HEALTH HLDGS INC Common Shares,U
 DBDR,Roman DBDR Tech Acquisition Corp. Class A Common Stock,NASDAQ
 DBDRU,Roman DBDR Tech Acquisition Corp. Unit,NASDAQ
 DBDRW,Roman DBDR Tech Acquisition Corp. Warrant,NASDAQ
@@ -1004,7 +1005,6 @@ DFILF,Dairy Farm Intl Holdings Ordinary Shares,U
 DFIN,"Donnelley Financial Solutions, Inc.",NYSE
 DFJ,WisdomTree Japan SmallCap Dividend Fund,ARCA
 DFKCY,Daifuku Co Ltd American Depositary Receipts - Unsponsored   Japan (JP),U
-DFLYD,DRAGANFLY INC Common Shares,U
 DFMTF,Defense Metals Corp Common Shares  Canada (CA),U
 DFND,Siren DIVCON Dividend Defender ETF,BATS
 DFNFF,Dividend 15 Split Corp II-A Preferred Stock (Canada),U
@@ -1411,6 +1411,7 @@ DPMAY,Diploma Plc Unsponsored ADR (United Kingdom),U
 DPMLF,Dundee Precious Metals Inc Common Shares (Canada),U
 DPNEF,Daphne International Holdings Ltd Ordinary Shares (Cayman Islands),U
 DPNEY,Daphne International Holdings Ltd. Unsponsored ADR (Cayman Islands),U
+DPRO,Draganfly Inc. Common Shares,NASDAQ
 DPSGY,Deutsche Post AG Sponsored ADR (Germany),U
 DPSI,"DecisionPoint Systems, Inc. Common Stock",U
 DPSIP,"DecisionPoint Systems, Inc. Pfd Conv Ser D 8%",U
@@ -1887,7 +1888,7 @@ EDAP,EDAP TMS S.A. American Depositary Shares,NASDAQ
 EDC,"Direxion Daily Emerging Markets Bull 3X Shares, Shares of beneficial interest, no par value",ARCA
 EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",NYSE
 EDDRF,Edreams Odigeo SA Ordinary Shares (Luxemborg),U
-EDDYF,Edison Cobalt Corp. Ordinary Shares,U
+EDDYF,EDISON BATTERY METALS CORP Ordinary Shares,U
 EDEMY,EDreams Odigeo SA American Depositary Receipts - Unsponsored (Luxembourg),U
 EDEN,iShares MSCI Denmark ETF,BATS
 EDESY,Elders Ltd American Depositary Receipts - Unsponsored,U
@@ -2111,7 +2112,6 @@ EKIVF,Enka Insaat Ve Sanayi AS Ordinary Shares,U
 EKIVY,Enka Insaat Ve Sanayi AS Unsponsored ADR (Turkey),U
 EKNL,EKO International Corp NEW Common Stock,U
 EKNPF,EKINOPS SA SHS (France),U
-EKONF,Great Wall Belt & Rd Hldgs Ltd Ordinary Shares,U
 EKPTF,Elk Petroleum Ltd Ordinary shares (Australia),U
 EKSN,ERICKSON INC NEW COM,U
 EKSO,"Ekso Bionics Holdings, Inc. Common Stock",NASDAQ
@@ -4303,7 +4303,9 @@ GABA,"Georgia Bancshares, Inc. (GA) Common Stock",U
 GABC,"German American Bancorp, Inc. Common Stock",NASDAQ
 GABK,Grand Bk Corp Common Stock,U
 GABLF,GABY INC Common Shares,U
+GACQ,Global Consumer Acquisition Corp. Common Stock,NASDAQ
 GACQU,Global Consumer Acquisition Corp. Unit,NASDAQ
+GACQW,Global Consumer Acquisition Corp. Warrant,NASDAQ
 GACR,Green Automotive Company Corporation Common Stock,U
 GADS,"Gadsden Properties, Inc. Common Stock",U
 GAEC,Gulf Alternative Energy Corporation Common Stock,U
@@ -5137,18 +5139,20 @@ GOVXW,"GeoVax Labs, Inc. Warrants",NASDAQ
 GOVZ,iShares 25+ Year Treasury STRIPS Bond ETF,BATS
 GP,GreenPower Motor Company Inc. Common Shares,NASDAQ
 GPAC,Global Partner Acquisition Corp II Class A Ordinary Share,NASDAQ
-GPACF,Geopacific Resources NL Ordinary Shares (Austrailia),U
+GPACF,GEOPACIFIC RES LTD Ordinary Shares,U
 GPACU,Global Partner Acquisition Corp II Unit,NASDAQ
 GPACW,Global Partner Acquisition Corp II Warrant,NASDAQ
 GPAEF,Grupo Aeropuerto del Pacifico Sa De Cv Shares -B- (Mexico),U
 GPAGF,Gruma SAB de CV Gruma Shares -B- (Mexico),U
 GPBI,"Golden Pacific Bancorp, Inc. Common Stock",U
 GPC,Genuine Parts Company,NYSE
+GPCO,Golden Path Acquisition Corporation Ordinary Shares,NASDAQ
+GPCOR,Golden Path Acquisition Corporation Rights,NASDAQ
 GPCOU,Golden Path Acquisition Corporation Units,NASDAQ
+GPCOW,Golden Path Acquisition Corporation Warrant,NASDAQ
 GPDB,Green PolkaDot Box Incorporated. Common Stock,U
 GPDNF,Groupe Danone Fgn Ordinary Shares,U
 GPEAF,Great Portland Estates Common Shares,U
-GPEDF,GEDI Gruppo Editoriale SPA Ordinary Shares,U
 GPELL,Great Plains Ethanol LLC Capital Unit Class E,U
 GPEOL,Great Plains Ethanol LLC Capital Unit Class C,U
 GPEOU,Great Plains Ethanol LLC Cap Unit Cl A,U
@@ -5580,6 +5584,3 @@ GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
 GWYNF,Genoway Ordinary Shares  France (FR),U
 GWYT,Greenway Technology Common Stock,U
 GXC,SPDR S&P China ETF,ARCA
-GXF,Global X FTSE Nordic Region ETF,ARCA
-GXG,Global X MSCI Colombia ETF,ARCA
-GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ

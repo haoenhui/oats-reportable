@@ -1911,7 +1911,7 @@ ATCX,"Atlas Technical Consultants, Inc. Class A Common Stock",NASDAQ
 ATDEF,Montana Exploration Corp. Common Shares,U
 ATDRF,AUTO TRADER GROUP PLC Ordinary Shares GBP (United Kingdom),U
 ATDRY,AUTO TRADER GROUP PLC American Depositary Receipts - Unsponsored (United Kingdom),U
-ATDSD,DATA443 RISK MITIGATION INC NEV Common Stock,U
+ATDS,DATA443 RISK MITIGATION INC NEV Common Stock,U
 ATEAY,ATEA ASA American Depositary Receipts - Unsponsored (Norway),U
 ATEC,"Alphatec Holdings, Inc. Common Stock",NASDAQ
 ATEN,A10 NETWORKS INC,NYSE
@@ -3276,7 +3276,7 @@ BNL,"Broadstone Net Lease, Inc.",NYSE
 BNMDF,Banca Mediolanum SPA Azioni Ordinarie Senza Valore Ordinary Shares (Italy),U
 BNNCY,Banco BPM SPA American Depositary Receipts - Unsponsored (Italy),U
 BNNHF,Benjamin Hill Mining Corp. Common Shares,U
-BNNLF,Bannerman Resources Ltd Ordinary Shares (Australia),U
+BNNLF,BANNERMAN ENERGY LTD Ordinary Shares,U
 BNNNF,BEENOS INC Ordinary Shares (Japan),U
 BNO,"United States Brent Oil Fund, LP",ARCA
 BNOEF,Bionomics Limited Ordinary Shares (Austrailia),U
@@ -3721,9 +3721,7 @@ BTPNF,BANK BTPN TBK PT Ordinary Shares  Indonesia(ID ),U
 BTQNF,"BQE Water, Inc. Common Shares",U
 BTRS,BTRS Holdings Inc. Class 1 Common Stock,NASDAQ
 BTRSW,BTRS Holdings Inc. Warrants,NASDAQ
-BTRY,Clarios International Inc.,NYSE
 BTRYF,BATTERY MINERALS LTD SHS (Australia),U
-BTSC,"Bitcoin Services, Inc. Common Stock",U
 BTSDF,Health & Happiness International Holdings Ltd.  Ordinary Shares,U
 BTSEF,BET SHEMESH ENGINES HOLDINGS 1997 LTD SHS (Israel),U
 BTSGF,BTS Group Holdings Public Co Ltd. Local Shares (Thailand),U
@@ -4645,7 +4643,7 @@ CHCT,"Community Healthcare Trust Incorporated Common Stock, $0.01 par value per 
 CHCX,"CTGX Mining, Inc.  Common Stock",U
 CHD,"Church & Dwight Co., Inc.",NYSE
 CHDGF,Cosco Intl Hldgs Ltd Ordinary Shares,U
-CHDHF,CHINA DYNAMICS HLDGS LTD SHS (Bermuda),U
+CHDHF,EV DYNAMICS HLDGS LTD Ordinary Shares,U
 CHDN,"Churchill Downs, Incorporated Common Stock",NASDAQ
 CHDRF,Christian Dior SA Ordinary Shares (France),U
 CHDRY,Christian Dior SE American Depositary Receipts - Unsponsored,U
@@ -4728,6 +4726,7 @@ CHMOF,Chikaranomoto Holdings Co Ordinary Shares (Japan),U
 CHMP,"Champion Industries, Inc. Common Stock",U
 CHMR,Chimera Energy Corp Common Stock,U
 CHMT,CHARMT INC Common Stock,U
+CHMX,Next-ChemX Corporation Common Stock,U
 CHN,CHINA FUND,NYSE
 CHNA,ETF Series Solutions Loncar China BioPharma ETF,NASDAQ
 CHNC,China Infrastructure Construction Corporation Common Stock,U
@@ -4895,7 +4894,7 @@ CJETF,Chanjet Information Technology Co Limited Shares -H-,U
 CJEWF,Chow Tai Fook Jewellery Group Limited Ordinary Shares (Cayman Islands),U
 CJEWY,Chow Tai Fook Jewellery Group Limited ADR Repstg 10 Ord Shs,U
 CJIMF,Gunpoint Exploration Ltd. Ordinary Shares (Canada),U
-CJJD,"China Jo-Jo Drugstores, Inc. Common Stock",NASDAQ
+CJJD,"China Jo-Jo Drugstores, Inc. (Cayman Islands) Ordinary Shares",NASDAQ
 CJNHF,CHINA JINMAO HLDGS GROUP LTD SHS (Hong Kong),U
 CJPRF,Central Japan Railway Co Ordinary Shares,U
 CJPRY,Central Japan Railway Co Unsponsored ADR (Japan),U
@@ -5546,6 +5545,7 @@ COYJF,Citycon OYJ Ordinary Shares (Finland),U
 COZIF,CZR RES LTD Ordinary Shares,U
 CP,Canadian Pacific Railway,NYSE
 CPA,"Copa Holdings, S.A.",NYSE
+CPAAU,Conyers Park III Acquisition Corp. Unit,NASDAQ
 CPAC,CEMENTOS PACASMAYO S.A.A.,NYSE
 CPADF,Cookpad Inc Tokyo Ordinary Shares (Japan),U
 CPAI,Champion Pain Care Corporation Common Stock,U
@@ -5583,3 +5583,4 @@ CPKB,Chesapeake Bancorp Common Stock,U
 CPKF,Chesapeake Financial Shares Inc Common Stock,U
 CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
 CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U
+CPKPY,C P Pokphand Co Ltd Sponsored ADR (Bermuda) USD,U
