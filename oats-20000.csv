@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
@@ -182,7 +183,7 @@ SIUAF,Stabilus SA Shs (Luxembourg LU),U
 SIUDF,Shanghai Industrial Urban Development Group Ltd. Ordinary Shares (Bermuda),U
 SIVB,SVB Financial Group Common Stock,NASDAQ
 SIVBP,"SVB Financial Group Depositary Shs each representing a 1/40th interest in a share of 5.25% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ
-SIVCV,SILVERGATE CAP CORP DEP SHS REPSTG 1/40TH PERP PFD SER A Depositary Shares,U
+SIVCL,SILVERGATE CAP CORP DEP SHS REPSTG 1/40TH PERP PFD SER A Depositary Shares,U
 SIVE,Silver Verde May Mng Co Unclassified,U
 SIVR,Aberdeen Standard Physical Silver Shares ETF,ARCA
 SIX,Six Flags Entertainment Corp.,NYSE
@@ -198,7 +199,6 @@ SIZE,iShares MSCI USA Size Factor ETF,ARCA
 SIZYF,Major Precious Metals Corp Ordinary Shares,U
 SJ,Scienjoy Holding Corporation Ordinary Shares,NASDAQ
 SJB,ProShares Short High Yield,ARCA
-SJGFF,SCHRODER JAPAN GROWTH FUND PLC SHS (United Kingdom),U
 SJI,"South Jersey Industries, Inc.",NYSE
 SJIJ,"South Jersey Industries, Inc. 5.625% Junior Subordinated Notes due 2079",NYSE
 SJIV,"South Jersey Industries, Inc. Corporate Units",NYSE
@@ -3136,7 +3136,7 @@ TX,Ternium S.A. American Depositary Shares,NYSE
 TXBUF,TOPIX Banks Exchange Traded Fund Units ETF (Japan),U
 TXCB,"Cang Bao Tian Xia International Art Trade Center, Inc. Common Stock",U
 TXCCQ,TranSwitch Corporation Common Stock New,U
-TXEMF,Templeton Emerging Markets Investment Trust PLC Ordinary Shares (United Kingdom),U
+TXEMF,TEMPLETON EMERGING MARKETS INVESTMENT TRUST PLC Ordinary Shares,U
 TXG,"10x Genomics, Inc. Class A Common Stock",NASDAQ
 TXGE,"Texas Gulf Energy, Incorporated. Common Stock",U
 TXGWU,TEXGEN PWR LLC Units (Delaware),U
@@ -5144,7 +5144,6 @@ XPHYF,XPhyto Therapeutics Corporation Common Shares (Canada),U
 XPL,Solitario Zinc Corp,AMEX
 XPND,First Trust Expanded Technology ETF,ARCA
 XPO,"XPO LOGISTICS, INC.",NYSE
-XPO WI,XPO Logistics Inc.,NYSE
 XPOA,"DPCM Capital, Inc.",NYSE
 XPOA U,"DPCM Capital, Inc. Units, each consisting of one share of Class A common stock and one-third of one",NYSE
 XPOA WS,"DPCM Capital, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at",NYSE
@@ -5349,7 +5348,6 @@ YSGG,1399 INTERNET TECHNOLOGY APPLICATION GROUP INC Common Stock,U
 YSHCF,YESTAR HEALTHCARE HLDGS CO LTD Common Shares Cayman Islands(KY ),U
 YSHLF,Yangzijiang Shipbuilding Holdings Ltd Ordinary shares (Singapore),U
 YSHOF,Yoshitake Inc Ordinary Shares (Japan),U
-YTAYF,Yatak Ve Yorgan Sanayi Ve Ticaret Yatas Ordinary Shares (Turkey),U
 YTEN,"Yield10 Bioscience, Inc. Common Stock",NASDAQ
 YTFD,"Yacht Finders, Inc. Common Stock",U
 YTLCF,YTL Corp Berhad Ordinary Shares (Malaysia),U

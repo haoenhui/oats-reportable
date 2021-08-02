@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
+CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U
+CPKPY,C P Pokphand Co Ltd Sponsored ADR (Bermuda) USD,U
 CPLCF,IShares VII PLC Exchange Traded Fund,U
 CPLG,CorePoint Lodging Inc. Common Stock,NYSE
 CPLP,Capital Product Partners L.P. Common Units,NASDAQ
@@ -633,7 +636,6 @@ CWVWF,Lithoquest Resources Inc.  Ordinary Shares,U
 CWWBF,PLANT-BASED INVT CORP Ordinary Shares,U
 CWWGF,"Chaowei Power Holdings, Ltd Ordinary Shares (Cayman Islands)",U
 CWXZF,Doman Building Materials Group Ltd Ordinary Shares,U
-CWYCF,China Railway Construction Corporation Ltd Shs H (China),U
 CWYUF,SmartCentres Real Estate Investment Trust Unit,U
 CX,Cemex S.A.B. de C.V.,NYSE
 CXBMF,Calibre Mining Corp Ordinary Shares,U
@@ -1048,9 +1050,6 @@ DGMLF,De Grey Mining Ltd Ordinary Shares (Australia),U
 DGMS,"DigiMedical Solutions, Inc. Common Stock",U
 DGNG,"Diguang International Development Co., Ltd. Common Stock",U
 DGNOF,"Diagnos, Inc. Common Shares",U
-DGNR,Dragoneer Growth Opportunities Corp.,NYSE
-DGNR U,"Dragoneer Growth Opportunities Corp. Units, each consisting of one Class A ordinary share, and one-f",NYSE
-DGNR WS,"Dragoneer Growth Opportunities Corp. Redeemable warrants, each whole warrant exercisable for one Cla",NYSE
 DGNS,Dragoneer Growth Opportunities Corp. II Class A Ordinary Shares,NASDAQ
 DGNU,Dragoneer Growth Opportunities Corp. III Class A Ordinary Shares,NASDAQ
 DGNYF,Dignity Plc Sutton Coldfield Ordinary Shares (United Kingdom),U
@@ -2939,7 +2938,7 @@ EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,NYSE
 EXHI,Exlites Holdings International Inc Common Stock,U
 EXI,iShares Global Industrials ETF,ARCA
 EXK,Endeavour Silver Corp.,NYSE
-EXLA,Helmer Directional Drilling Corp. Common Stock,U
+EXLA,"EXLA Resources, Inc. Common Stock",U
 EXLGF,Exasol AG Ordinary Shares (Germany),U
 EXLMF,EXCELLENCE COML PPTY & FACS MGMT GOUP LTD Ordinary Shares,U
 EXLS,"ExlService Holdings, Inc. Common Stock",NASDAQ
@@ -3453,7 +3452,6 @@ FJAN,FT Cboe Vest U.S. Equity Buffer ETF - January,BATS
 FJHL,"Fovea Jewelry Holdings, Ltd. Common Stock",U
 FJIOF,"Fujicco Co., Ltd. Ordinary Shares (Japan)",U
 FJLLF,Fuji Oil Holdings Inc Common Stock,U
-FJNK,Pacific Global Focused High Yield ETF,ARCA
 FJP,First Trust Japan AlphaDEX Fund,NASDAQ
 FJSGF,FUJII SANGYO CORP Shs (Japan),U
 FJSIY,"Fuji Seal International, Inc. American Depositary Receipts - Unsponsored",U
@@ -3834,7 +3832,6 @@ FPAFF,First Pacific Co Ord Ordinary Shares,U
 FPAFY,First Pacific Co Ord American Depositary Shares,U
 FPAY,"FlexShopper, Inc. Common Stock",NASDAQ
 FPCG,"First Physicians Capital Group, Inc. Common Stock",U
-FPCPF,FP Corp Ordinary Shares (Japan),U
 FPE,First Trust Preferred Securities and Income ETF,ARCA
 FPEI,First Trust Institutional Preferred Securities and Income ETF,ARCA
 FPF,FIRST TRUST INTERMEDIATE DURATION PREFERRED & INCOME FUND,NYSE
@@ -4016,7 +4013,6 @@ FSFG,"First Savings Financial Group, Inc. Common Stock",NASDAQ
 FSGB,First Fed Sc Federal Svgs Bk Common Stock,U
 FSGCY,First Gen Corporation Unsponsored ADR (Phillipines),U
 FSHRF,Feishang Anthracite Resources Ltd. Ordinary Shares,U
-FSHUF,FU SHOU YUAN INTL GROUP LTD  Ordinary Shares (Cayman Islands),U
 FSHYF,Shougang Fushan Resources Group Ltd Ordinary Shares (Hong Kong),U
 FSI,"Flexible Solutions International, Inc.",AMEX
 FSII,FS Development Corp. II Class A Common Stock,NASDAQ
@@ -4226,7 +4222,6 @@ FVIV,Fortress Value Acquisition Corp. IV,NYSE
 FVIV U,"Fortress Value Acquisition Corp. IV Units, each consisting of one share of Class A common stock and",NYSE
 FVIV WS,"Fortress Value Acquisition Corp. IV Warrants, each whole warrant exercisable for one share of Class",NYSE
 FVPI,FV Pharma International Corp. Common Stock,U
-FVRG,ForeverGreen Worldwide Corp. Common Stock,U
 FVRR,Fiverr International Ltd.,NYSE
 FVSTA,Far Vista Petroleum Corp. Class A Common Stock,U
 FVT,Fortress Value Acquisition Corp. III,NYSE
@@ -4647,7 +4642,6 @@ GFOO,Genufood Energy Enzymes Corporation Common Stock,U
 GFOR,Graf Acquisition Corp. IV,NYSE
 GFOR U,"Graf Acquisition Corp. IV Units, each consisting of one share of common stock, and one-fifth of one",NYSE
 GFOR WS,"Graf Acquisition Corp. IV Redeemable Warrants, each whole warrant exercisable for one share of commo",NYSE
-GFPRF,GREENFIRST FST PRODS INC RTS 07/30/2021,U
 GFPTF,Gfpt Public Co Ltd (F) Units Non-Voting Depository Receipt (Thailand),U
 GFTRF,Gold'n Futures Mineral Corp. Common Shares,U
 GFTX,"Global Fiber Technologies, Inc. Common Stock",U
@@ -5584,3 +5578,7 @@ GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
 GWYNF,Genoway Ordinary Shares  France (FR),U
 GWYT,Greenway Technology Common Stock,U
 GXC,SPDR S&P China ETF,ARCA
+GXF,Global X FTSE Nordic Region ETF,ARCA
+GXG,Global X MSCI Colombia ETF,ARCA
+GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
+GXIIU,GX Acquisition Corp. II Unit,NASDAQ

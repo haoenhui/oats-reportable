@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
@@ -291,9 +290,9 @@ NBCO,"Neon Bloom, Inc. Common Stock",U
 NBDR,"No Borders, Inc. Common Stock",U
 NBEV,"NewAge, Inc. Common Stock (Delaware)",NASDAQ
 NBFJF,Nippon Building Fund Inc Ordinary Shares (Japan),U
-NBGCY,NATIONAL BK GREECE S A American Depositary Receipts - Unsponsored  Greece(GR ),U
 NBGIF,National Bank of Greece SA Ordinary Shares,U
 NBGLF,NBI GLOBAL REAL ASSETS INCOME ETF Exchange Traded Fund Canada(CA ),U
+NBGRY,NATIONAL BK GREECE S A American Depositary Receipts - Sponsored,U
 NBGV,"NewBridge Global Ventures, Inc. Common Stock",U
 NBH,Neuberger Berman Municipal Fund Inc.,AMEX
 NBHC,NATIONAL BANK HOLDINGS CORP.,NYSE
@@ -413,9 +412,6 @@ NE,Noble Corporation,NYSE
 NEA,Nuveen AMT-Free Quality Municipal Income Fund,NYSE
 NEAPF,Nearmap Ltd Ordinary Shares (Australia),U
 NEAR,BlackRock Short Maturity Bond ETF,BATS
-NEBC,Nebula Caravel Acquisition Corp. Class A Common Stock,NASDAQ
-NEBCU,Nebula Caravel Acquisition Corp. Unit,NASDAQ
-NEBCW,Nebula Caravel Acquisition Corp. Warrant,NASDAQ
 NECA,New America Energy Corp. Common Stock,U
 NECB,"NorthEast Community Bancorp, Inc. Common Stock",NASDAQ
 NEE,"Nextra Energy, Inc.",NYSE
@@ -1010,7 +1006,7 @@ NSH WS,"NavSight Holdings, Inc. Warrants, each whole warrant exercisable for one
 NSHBY,Nisshinbo Holdings Inc. Unsponsored ADR (Japan),U
 NSHKF,Nippon Shokubai Co Ltd Ordinary Shares (Japan),U
 NSHRF,Northern Shield Res Inc Common Shares (Canada),U
-NSHSD,Nanosphere Health Sciences Inc Ordinary Shares,U
+NSHSF,Nanosphere Health Sciences Inc Ordinary Shares,U
 NSIT,"Insight Enterprises, Inc. Common Stock",NASDAQ
 NSKFF,Kongsberg Gruppen ASA Ordinary Shares (Norway),U
 NSL,NUVEEN SENIOR INCM FD,NYSE
@@ -3200,7 +3196,6 @@ PSAG,Property Solutions Acquisition Corporation II Class A Common Stock,NASDAQ
 PSAGU,Property Solutions Acquisition Corporation II Units,NASDAQ
 PSAGW,Property Solutions Acquisition Corporation II Warrant,NASDAQ
 PSAHF,Pt Summarecon Agung Ordinary Shares (Indonesia),U
-PSAKF,"Plant Co Ltd, Sakai Ordinary Shares (Japan)",U
 PSB,"PS Business Parks, Inc.",NYSE
 PSB PRW,"PS Business Parks, Inc    Depositary Shares Each Representing 1/1000 of a Share of 5.20% Cumulative",NYSE
 PSB PRX,"PS Business Parks, Inc. Depositary Shares Each Representing 1/1,000 of a Share of 5.25 Percent Cumul",NYSE
@@ -4557,6 +4552,8 @@ ROT WS,"Rotor Acquisition Corp. Redeemable Warrants, each whole warrant exercisa
 ROTH,"PharmaRoth Labs, Inc. Common Shares",U
 ROUS,Hartford Multifactor US Equity ETF,ARCA
 ROVMF,Rover Metals Corp. Ordinary Shares,U
+ROVR,"Rover Group, Inc. Class A Common Stock",NASDAQ
+ROVRW,"Rover Group, Inc. Warrant",NASDAQ
 ROVVF,Rovio Entertainment Ltd Ordinary Shares (Finland),U
 ROWC,Rowe Companies (The) Common Stock,U
 ROWKF,Renoworks Software Inc Common Shares (Canada),U
@@ -4891,6 +4888,7 @@ SAGD,South American Gold Corp. Common Stock,U
 SAGE,"Sage Therapeutics, Inc. Common Stock",NASDAQ
 SAGGF,Sterling Metals Corp Common Shares,U
 SAGKF,Stagecoach Group Plc Ords Ordinary Shares (UK),U
+SAGRF,S&O AGRAR AG ENAPTER AGINHABER AKTIEN O N (Germany),U
 SAH,"Sonic Automotive, Inc.",NYSE
 SAHAF,SAHA PATHANAPIBUL PUBLIC CO LTD UNITS NON -VOTING DEPOSITORY RECEIPT (Thailand),U
 SAHN,"Saudi American Holdings, Corp. Common Stock",U
@@ -5250,6 +5248,7 @@ SDRWW,Sandridge Energy Inc. Warrant Series A Exp 10/04/2022,U
 SDS,ProShares UltraShort S&P500,ARCA
 SDSS,Suspect Detection Systems Inc. Common Stock,U
 SDSYA,"South Dakota Soybean Processors, LLC CAP UNIT CL A",U
+SDTHF,SDIPTECH AB Shares AK B (Sweden),U
 SDTTU,SANDRIDGE MISSISSIPPIAN TR I Unit,U
 SDURF,Stroud Resources Ltd Ordinary Shares,U
 SDVI,"Signature Devices, Inc. Common Stock",U
@@ -5582,4 +5581,3 @@ SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
-SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ

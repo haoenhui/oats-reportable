@@ -1,11 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GXF,Global X FTSE Nordic Region ETF,ARCA
-GXG,Global X MSCI Colombia ETF,ARCA
-GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
-GXIIU,GX Acquisition Corp. II Unit,NASDAQ
 GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
 GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
-GXO WI,"GXO Logistics, Inc.",NYSE
+GXO,"GXO Logistics, Inc.",NYSE
 GXRFF,Prospera Energy Inc Common Shares,U
 GXSBF,Geox Spa Ordinary Shares (Italy),U
 GXSBY,Geox Spa Unsponsored ADR (Italy),U
@@ -196,7 +192,9 @@ HCM,HUTCHMED (China) Limited American Depositary Shares,NASDAQ
 HCMC,Healthier Choices Management Corp. Common Shares,U
 HCMLF,HOLCIM LTD Ordinary Shares,U
 HCMLY,HOLCIM LTD NEW American Depositary Receipts - Unsponsored,U
+HCNE,Jaws Hurricane Acquisition Corp. Class A Common Stock,NASDAQ
 HCNEU,Jaws Hurricane Acquisition Corp. Unit,NASDAQ
+HCNEW,Jaws Hurricane Acquisition Corp. Warrant,NASDAQ
 HCPHF,Holcim Philippines Inc Ordinary Shares (Philippines),U
 HCPHY,Holcim Philippines Inc Unsponsored ADR (Philippines),U
 HCRB,Hartford Core Bond ETF,BATS
@@ -420,7 +418,6 @@ HJGP,HANJIAO GROUP INC Common Stock,U
 HJLBW,Hancock Jaffe Laboratories Inc Warrant Pur Com Exp 02/11/2026,U
 HJLI,"Hancock Jaffe Laboratories, Inc. Common Stock",NASDAQ
 HJLIW,"Hancock Jaffe Laboratories, Inc. Warrants",NASDAQ
-HJMNF,Heijmans Nv Ordinary Shares (Netherlands),U
 HJPX,iShares Currency Hedged JPX-Nikkei 400 ETF,ARCA
 HJVDF,FONDAK FONDS FUER DEUTSCHE AKTIEN Shs Hldgs Class A (Germany),U
 HKBNF,HKBN Ltd Ordinary Shares (Cayman Islands),U
@@ -1004,6 +1001,7 @@ HYPLF,Hyundai Mobis Co Ltd  Ordinary Shares (South Korea),U
 HYPMY,Hypera SA American Depositary Receipts - Sponsored,U
 HYPOF,"Hypoport AG, Berlin Ordinary Shares  (Germany)",U
 HYPPF,Hypebeast Ltd Ordinary Shares (Cayman Islands),U
+HYPRF,Hydrogenpro AS Ordinary Shares (Norway),U
 HYQC,HYQC Investment Holding Company Common Stock,U
 HYRE,HyreCar Inc. Common Stock,NASDAQ
 HYS,PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund,ARCA
@@ -1947,7 +1945,6 @@ IRCKF,Inter Rock Minerals Inc (Canada) Ordinary Shares,U
 IRCLF,INTERCURE LTD Ordinary Shares,U
 IRCP,IRSA Propiedades Comerciales S.A. American Depositary Shares,NASDAQ
 IRCUF,Irish Continental Group Plc Units (Ireland),U
-IRCWF,IRC Ltd Hong Kong Ordinary Shares (Hong Kong),U
 IRDEF,Iren SPA Ordinary shares (Italy),U
 IRDEY,Iren SPA Unsponsored ADR (Italy),U
 IRDM,Iridium Communications Inc Common Stock,NASDAQ
@@ -2924,7 +2921,6 @@ KC,Kingsoft Cloud Holdings Limited American Depositary Shares,NASDAQ
 KCAC,Kensington Capital Acquisition Corp. II,NYSE
 KCAC U,"Kensington Capital Acquisition Corp. II Units, each consisting of one share of Class A common stock,",NYSE
 KCAC WS,"Kensington Capital Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one",NYSE
-KCCB,KraneShares CCBS China Corporate High Yield Bond USD Index ETF,ARCA
 KCCFF,Kutcho Copper Corp Ordinary Shares,U
 KCDMF,Kimberly-Clark De Mexico S A B de C V Ordinary Shares Class B (Mexico),U
 KCDMY,Kimberly-Clark De Mexico S A B de C V Sponsored ADR (Mexico),U
@@ -3039,6 +3035,7 @@ KHRIF,Cypherpunk Hldgs Inc Common Shares,U
 KHRNF,Khiron Life Sciences Corp Common Stock,U
 KHRWF,Khiron Life Sciences Corp Warrant Exp 11/26/2025,U
 KHTRF,Knight Therapeutics Inc Common Shares (Canada),U
+KHYB,KraneShares Asia Pacific High Yield Bond ETF,ARCA
 KHZM,"Madison Ave Media, Inc.  Common Stock",U
 KIARF,KIARO HLDGS CORP Common Shares,U
 KICK,"HPN Holdings, Inc. Common Stock",U
@@ -3732,7 +3729,7 @@ LGCHF,LCT Hldgs Ltd Ordinary Shares,U
 LGCLF,LG Chem Ltd Ordinary Shares (South Korea),U
 LGCOF,LG Corp PFD Shs Non-Voting (South Republic of Korea),U
 LGCP,LEGION CAP CORP Common Stock,U
-LGDDF,Lagardere Groupe Sca Fgn Ordinary Shares,U
+LGDDF,LAGARDERE SA Ordinary Shares,U
 LGDTF,Liberty Gold Corp Common Shares,U
 LGF A,Lions Gate Entertainment Corp. Class A Voting Shares,NYSE
 LGF B,Lions Gate Entertainment Corp. Class B Non-Voting Shares,NYSE
@@ -5584,3 +5581,4 @@ MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFC,Minster Financial Corporation,U

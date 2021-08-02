@@ -1005,7 +1005,6 @@ ALL PRG,"The Allstate Corporation Depositary Shares each representing a 1/1,000t
 ALL PRH,The Allstate Corporation,NYSE
 ALL PRI,The Allstate Corporation,NYSE
 ALLE,Allegion Public Limited Company,NYSE
-ALLIF,Alpha Lithium Corp Ordinary Shares,U
 ALLK,Allakos Inc. Common Stock,NASDAQ
 ALLM,"Alliance Bioenergy Plus, Inc. Common Stock",U
 ALLN,Allin Corporation. Common Stock,U
@@ -3651,7 +3650,7 @@ BSRR,Sierra Bancorp Common Stock,NASDAQ
 BSRTF,Bsr Real Estate Invt Tr Unit (Canada),U
 BSRUF,BASE RESOURCES LTD SHS (Australia),U
 BSSC,"Bank Southside Corp (Carson, VA) Common stock",U
-BSSMF,Bass Metals Ltd Ordinary shares (Australia),U
+BSSMF,GREENWING RES LTD Ordinary Shares,U
 BSSP,"Bassline Productions, Inc. Common",U
 BST,BlackRock Science and Technology Trust,NYSE
 BSTG,"Biostage, Inc. Cmn Stk Common Stock",U
@@ -4212,6 +4211,8 @@ CCCHF,CITY CHIC COLLECTIVE LTD Ordinary Shares  Australia(AU ),U
 CCCI,"China Cable & Communication, Inc. Common Stock",U
 CCCMF,Cancom AG Ordinary Shares (Germany),U
 CCCP,Crona Corp Common Stock,U
+CCCS,CCC Intelligent Solutions Holdings Inc.,NYSE
+CCCS WS,"CCC Intelligent Solutions Holdings Inc. Redeemable warrants, each whole warrant exercisable for one",NYSE
 CCD,Calamos Dynamic Convertible & Income Fund Common Stock,NASDAQ
 CCDBF,Ccl Inds Inc Cl B Cda Ordinary Shares,U
 CCEDF,Cascadero Copper Corp Common Shares (Canada),U
@@ -5431,10 +5432,10 @@ COF PRI,Capital One Financial Corporation Depositary shares each representing a 
 COF PRJ,"Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share",NYSE
 COF PRK,"Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Ownership Interest i",NYSE
 COF PRL,"Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share",NYSE
+COF PRN,"Capital One Financial Corporation Depositary Shares, Each Representing a 1/40th Ownership Interest i",NYSE
 COFE,Cafe Holdings Inc. Common Stock,U
 COFI,"Credit One Financial, Inc. Common Stock",U
 COFJF,COFCO JOYCOME FOODS LTD Ordinary Shares (Cayman Islands),U
-COFNL,CAPITAL ONE FINL CORP DEP SHS REPSTG 1/40TH PERP PFD SER N Depositary Shares,U
 COFRF,COMFORIA RESIDENTIAL REIT INC REIT  (Japan),U
 COFS,"ChoiceOne Financial Services, Inc. Common Stock",NASDAQ
 COFSF,Colour Life Services Group Co HKD Shares (Cayman Islands),U
@@ -5581,6 +5582,3 @@ CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
 CPK,Chesapeake Utilities,NYSE
 CPKB,Chesapeake Bancorp Common Stock,U
 CPKF,Chesapeake Financial Shares Inc Common Stock,U
-CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
-CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U
-CPKPY,C P Pokphand Co Ltd Sponsored ADR (Bermuda) USD,U
