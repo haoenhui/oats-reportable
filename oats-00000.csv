@@ -151,7 +151,7 @@ ABTO,AB&T Financial Corporation (NC) Common Stock,U
 ABTX,"Allegiance Bancshares, Inc. Common Stock",NASDAQ
 ABTZY,Aboitiz Equity Ventures Inc. Unsponsored ADR (Phillipines),U
 ABUS,Arbutus Biopharma Corporation Common Stock,NASDAQ
-ABVC,"ABVC BioPharma, Inc. Common Stock",U
+ABVC,"ABVC Biopharma, Inc. Common Stock",NASDAQ
 ABVG,"Affinity Beverage Group, Inc. Common Stock",U
 ABVN,ABV CONSULTING INC Common Stock,U
 ABWN,Airborne Wireless Network Common Stock,U
@@ -1795,7 +1795,6 @@ ASKE,Alaska Pacific Energy Corporation Common Stock,U
 ASKH,"Astika Holdings, Inc. Com",U
 ASKTF,Asetek A S Ordinary Shares (Denmark),U
 ASLE,AerSale Corporation Common Stock,NASDAQ
-ASLEF,Asaleo Care Ltd. Ordinary Shares (Australia),U
 ASLEW,AerSale Corporation Warrants,NASDAQ
 ASLM,American Silver Mining Co Common Stock,U
 ASLN,ASLAN Pharmaceuticals Limited American Depositary Shares,NASDAQ
@@ -2462,6 +2461,7 @@ BBBXF,Brixton Metals Corp. Ordinary Shares (Canada),U
 BBBY,Bed Bath & Beyond Inc. Common Stock,NASDAQ
 BBC,Virtus LifeSci Biotech Clinical Trials ETF,ARCA
 BBCA,JPMorgan BetaBuilders Canada ETF,BATS
+BBCO,The Better Being Co.,NYSE
 BBCP,"Concrete Pumping Holdings, Inc. Common Stock",NASDAQ
 BBCPW,Concrete Pumping Cm Stk Warrant   12/06/2023,U
 BBD,Banco Bradesco S.A. American Depositary Shares (Each representing one Preferred Shares),NYSE
@@ -2512,7 +2512,7 @@ BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",NYSE
 BBVKF,DISTIL PLC Ordinary Shares (United Kingdom),U
 BBVXF,Banco Bilbao Vizcaya Pfd B Ordinary Shares,U
 BBW,"Build-A-Bear Workshop, Inc.",NYSE
-BBWI WI,"Bath & Body Works, Inc.",NYSE
+BBWI,"Bath & Body Works, Inc.",NYSE
 BBXIA,"BBX Capital, Inc. Common Stock Class A",U
 BBXIB,"BBX Capital, Inc. Common Stock Class B",U
 BBXMF,BBX MINERALS LTD ORDINARY FULLY PAID (Australia),U
@@ -2614,9 +2614,9 @@ BDABF,Boule Diagnostics AB Ordinary Shares,U
 BDC,Belden Inc.,NYSE
 BDCM,"Broadcast Marketing Group, Inc. New Common Stock",U
 BDCO,Blue Dolphin Energy Company Common Stock,U
-BDCX,ETRACS Quarterly Pay 1.5X  Leveraged Wells Fargo BDC Index ETN,ARCA
+BDCX,"ETRACS Quarterly Pay 1.5X Leveraged MVIS BDC Index ETN due June 10, 2050",ARCA
 BDCYY,Bodycote PLC Unsponsored ADR (Sweden),U
-BDCZ,"ETRACS Wells Fargo Business Development Company Index ETN Series B due April 26, 2041",ARCA
+BDCZ,"ETRACS MVIS Business Development Companies Index ETN due April 26, 2041",ARCA
 BDDDY,BID Corp Ltd Sponsored ADR (S. Africa),U
 BDDXF,"DB Base Metals Double Long Exchange Traded Notes due June 1, 2038 (Germany)",U
 BDEC,Innovator S&P 500 Buffer ETF - December,BATS
@@ -3126,7 +3126,7 @@ BLOK,Amplify Transformational Data Sharing ETF,ARCA
 BLONF,Co2 Gro Inc Ordinary Shares,U
 BLOZF,Cannabix Technologies Inc. Ordinary Shares (Canada),U
 BLPFF,Blok Technologies Inc Ordinary Shares (Canada),U
-BLPGD,"Blue Line Protection Group, Inc. Common Stock",U
+BLPG,"Blue Line Protection Group, Inc. Common Stock",U
 BLPH,"Bellerophon Therapeutics, Inc. Common Stock",NASDAQ
 BLRDF,Billerud AB Shs (Sweden),U
 BLRDY,Billerud Korsnas AB American Depositary Receipts - Unsponsored,U
@@ -3286,7 +3286,7 @@ BNPJY,Banpu Public Co Ltd (Fgn) Unsponsored  American Depository Receipt (Thaila
 BNPQF,BNP Paribas Ordinary Shares,U
 BNPQY,BNP Paribas American Depositary Shares,U
 BNR,Burning Rock Biotech Limited American Depositary Shares,NASDAQ
-BNRJF,Organimax Nutrient Corp Common Shares,U
+BNRJF,SILVER VY METALS CORP Common Shares,U
 BNRPF,Solon Eiendom ASA Ordinary Shares,U
 BNRQY,Solon Eiendom ASA American Depositary Receipts - Unsponsored,U
 BNS,Bank of Nova Scotia,NYSE
@@ -5373,6 +5373,7 @@ CNTHO,Connecticut Light & Power Company 5.28% Series 1967 Preferred Stock,U
 CNTHP,Connecticut Light & Power Company 6.56% Series 1968 Preferred Stock,U
 CNTMF,Cansortium Inc Common Stock (Canada),U
 CNTO,"Centor Energy, Inc. Common Stock",U
+CNTQU,Chardan NexTech Acquisition 2 Corp. Unit,NASDAQ
 CNTRF,Centr Brands Corp Common Stock (Canada),U
 CNTSF,Constellation Resources Ltd. Ordinary Shares (Australia),U
 CNTTQ,CANNTRUST HLDGS INC COM (Canada),U
@@ -5580,5 +5581,3 @@ CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
 CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
 CPK,Chesapeake Utilities,NYSE
-CPKB,Chesapeake Bancorp Common Stock,U
-CPKF,Chesapeake Financial Shares Inc Common Stock,U

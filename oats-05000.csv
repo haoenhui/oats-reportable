@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPKB,Chesapeake Bancorp Common Stock,U
+CPKF,Chesapeake Financial Shares Inc Common Stock,U
 CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
 CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U
 CPKPY,C P Pokphand Co Ltd Sponsored ADR (Bermuda) USD,U
@@ -1874,6 +1876,7 @@ ECTE,ECHO THERAPEUTICS INC Common Stock,U
 ECTM,ECA MARCELLUS TR I Unit,U
 ECTXF,ELECTROLUX PROFESSIONAL AB SHARE AK B (Sweden),U
 ECUI,"Ecuity, Inc. Common Stock",U
+ECVT,Ecovyst Inc.,NYSE
 ECVTF,Economic Investment Trust Ltd. Ordinary Shares (Canada),U
 ECWDF,EC World REIT (Singapore),U
 ECXJ,"CXJ Group Co., Limited Common Stock",U
@@ -3598,7 +3601,6 @@ FLXN,"Flexion Therapeutics, Inc. Common Stock",NASDAQ
 FLXP,"FlexPower, Inc. Common Stock",U
 FLXS,"Flexsteel Industries, Inc. Common Stock",NASDAQ
 FLXT,"Flexpoint Sensor Systems, Inc. Common Stock",U
-FLY,Fly Leasing Limited,NYSE
 FLYE,Intl Jet Engine Supply Inc Common Stock,U
 FLYLF,"Flyht Aerospace Solutions, Inc. Ordinary Shares",U
 FLYT,Direxion Flight to Safety Strategy ETF,ARCA
@@ -3874,7 +3876,6 @@ FRA,"Blackrock Floating Rate Income Strategies Fund, Inc.",NYSE
 FRACF,"Foraco International, Marseille Ordinary Shares Nom (France)",U
 FRAF,Franklin Financial Services Corporation Common Stock,NASDAQ
 FRAK,VanEck Vectors Unconventional Oil & Gas ETF,ARCA
-FRANQ,FRANCESCAS HLDGS CORP Common Stock,U
 FRAZ,Francisco Industries Inc Unclassified,U
 FRBA,First Bank Common Stock,NASDAQ
 FRBK,"Republic First Bancorp, Inc. Common Stock",NASDAQ
@@ -5248,7 +5249,7 @@ GRMN,Garmin Ltd. Common Stock (Switzerland),NASDAQ
 GRMWF,TPCO HLDG CORP WT EXP 01/15/2026 Warrant,U
 GRN,iPath Series B Carbon Exchange-Traded Notes,ARCA
 GRNB,VanEck Vectors Green Bond ETF,ARCA
-GRNBF,Greenbank Cap Inc Common Shares (Canada),U
+GRNBF,Greenbank Capital Inc. Common Shares,U
 GRNCY,GRAINCORP LTD American Depositary Receipts - Unsponsored,U
 GRNF,GRN Holding Corporation Common Stock,U
 GRNH,"GreenGro Technologies, Inc. Common Stock",U
@@ -5580,5 +5581,3 @@ GWYT,Greenway Technology Common Stock,U
 GXC,SPDR S&P China ETF,ARCA
 GXF,Global X FTSE Nordic Region ETF,ARCA
 GXG,Global X MSCI Colombia ETF,ARCA
-GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
-GXIIU,GX Acquisition Corp. II Unit,NASDAQ

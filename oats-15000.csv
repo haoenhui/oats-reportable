@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
@@ -2036,7 +2038,7 @@ PALC,Pacer Lunt Large Cap Multi-Factor Alternator ETF,ARCA
 PALI,"Palisade Bio, Inc. Common Stock",NASDAQ
 PALL,Aberdeen Standard Physical Palladium Shares ETF,ARCA
 PALS,"Mopals.com, Inc. Common Stock",U
-PALT,"Paltalk, Inc.  Common Stock",U
+PALT,"Paltalk, Inc. Common Stock",NASDAQ
 PAM,PAMPA ENERGIA S.A.,NYSE
 PAMC,Pacer Lunt MidCap Multi-Factor Alternator ETF,ARCA
 PANA,Panacea Acquisition Corp. II Class A Ordinary Shares,NASDAQ
@@ -2517,7 +2519,7 @@ PHD,"Pioneer Floating Rate Fund, Inc.",NYSE
 PHDG,Invesco S&P 500 Downside Hedged ETF,ARCA
 PHDVF,Prince Housing Development Corp Ordinary Shares (Taiwan),U
 PHDWY,"PT Ace Hardware Indonesia, TBK American Depositary Receipts - Unsponsored",U
-PHECD,PHILLIPS EDISON & CO INC Common Stock,U
+PHEC,PHILLIPS EDISON & CO INC Common Stock,U
 PHG,KONINKLIJKE PHILIPS  N.V.,NYSE
 PHGD,Phil Good Prods Inc Common Stock,U
 PHGE,BiomX Inc.,AMEX
@@ -3017,7 +3019,6 @@ PPWLO,PacifiCorp 6% Preferred Stock,U
 PPZRF,Western Atlas Res Inc Cda Ordinary Shares,U
 PQDI,Principal Spectrum Tax-Advantaged Dividend Active ETF,ARCA
 PQEFF,Petroteq Energy Inc Ordinary Shares,U
-PQG,PQ Group Holdings Inc. Common Stock,NYSE
 PQIN,PGIM QMA Strategic Alpha International Equity ETF,ARCA
 PQLC,PGIM QMA Strategic Alpha Large-Cap Core ETF,ARCA
 PQSG,PGIM QMA Strategic Alpha Small-Cap Growth ETF,ARCA
@@ -4699,9 +4700,6 @@ RTPPF,Rio Tinto Plc Ordinary Shares,U
 RTPY,Reinvent Technology Partners Y Class A Ordinary Shares,NASDAQ
 RTPYU,Reinvent Technology Partners Y Unit,NASDAQ
 RTPYW,Reinvent Technology Partners Y Warrant,NASDAQ
-RTPZ,Reinvent Technology Partners Z,NYSE
-RTPZ U,"Reinvent Technology Partners Z Units, each consisting of one Class A ordinary share and one-fifth o",NYSE
-RTPZ WS,"Reinvent Technology Partners Z Redeemable warrants, each whole warrant exercisable for one Class A o",NYSE
 RTRFF,"Rumble Resources Ltd, Subiaco, WA Ordinary Shares (Australia)",U
 RTRK,Red Truck Entertainment Inc. Common Stock,U
 RTRZY,Rieter Holding AG Unsponsored ADR (Switzerland),U
@@ -5581,3 +5579,5 @@ SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
+SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ

@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
@@ -1299,6 +1297,7 @@ STGC,STARTENGINE CROWDFUNDING INC Common Stock,U
 STGGQ,"STG Group, Inc. Common Stock",U
 STGPF,Scentre Group STAPLED SECURITY Australia (AU ),U
 STGRF,STRAKER TRANSLATIONS LTD ORDINARY FULLY PAID (New Zealand),U
+STGW,Stagwell Inc. Class A Common Stock,NASDAQ
 STGXF,Smartgroup Corp Ltd Ordinary Shares  (Austrailia),U
 STGYF,STINGRAY GROUP INC SUB VTG SHS Other,U
 STGZ,Stargaze Entertainment Group Inc. Common Stock,U
@@ -1771,7 +1770,6 @@ TACYY,Total Access Comm Plc Local Unsponsored ADR (Thailand),U
 TADS,The Active Dividend Stock ETF,ARCA
 TAEQ,Trend Aggregation U.S. ETF,BATS
 TAER,Tarsier Ltd. Common Stock,U
-TAGMF,Tag Master AB Ordinary Shares (Sweden),U
 TAGOF,TAG Immobilien AG Shs (Germany Federal Republic),U
 TAGP,Tristar Acquisition Group Common Stock,U
 TAGS,Teucrium Agricultural Fund,ARCA
@@ -2465,6 +2463,7 @@ TMHC,Taylor Morrison Home Corporation Common Stock,NYSE
 TMHTY,Tsim Sha Tsui Properties Ltd Unsponsored ADR (Hong Kong),U
 TMICF,Trend Micro Incorporated Ordinary Shares,U
 TMICY,Trend Micro Incorporated American Depositary Shares,U
+TMILF,TAYLOR MARITIME INVTS LTD ORD NPV USD (Guernsey),U
 TMIN,Trendmaker Inc Limited Common Stock,U
 TMIX,"Tarsin Mobile, Inc. Common Stock",U
 TMKR,Tastemaker Acquisition Corp. Class A Common Stock,NASDAQ
@@ -4256,7 +4255,7 @@ VSAT,"ViaSat, Inc. Common Stock",NASDAQ
 VSBC,VitaSpring Biomedical Co. Ltd.  Common Stock,U
 VSBGF,VSBLTY GROUPE TECHNOLOGIES CORP COM (Canada),U
 VSCFF,Viscofan Industria Navarra de Envolturas Celulosicas Sa Ordinary Shares (Spain),U
-VSCO WI,Victoria's Secret & Co.,NYSE
+VSCO,Victoria's Secret & Co.,NYSE
 VSDA,Victory Portfolios II VictoryShares Dividend Accelerator ETF,NASDAQ
 VSEC,VSE Corporation Common Stock,NASDAQ
 VSGX,Vanguard ESG International Stock ETF,BATS
@@ -4481,6 +4480,7 @@ WCC PRA,"WESCO International, Inc. Depositary Shares each representing 1/1,000th
 WCCP,"Wealthcraft Capital, Inc. Common Stock",U
 WCEXF,World CL Extractions Inc Common Shares (Canada),U
 WCFB,"WCF Bancorp, Inc. Cm St Common Stock",U
+WCGC,"WCG Clinical, Inc. Common Stock",NASDAQ
 WCHEF,WINCHESTER ENERGY LTD Ordinary Shares (Australia),U
 WCHNF,"West China Cement Ltd, St Helier Ordinary shares (Jersey)",U
 WCHS,Winchester Holding Group Com,U

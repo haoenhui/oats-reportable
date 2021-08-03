@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
+GXIIU,GX Acquisition Corp. II Unit,NASDAQ
 GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
 GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
 GXO,"GXO Logistics, Inc.",NYSE
@@ -398,6 +400,8 @@ HINVF,Hyprop Investments Ordinary Shares (South Africa),U
 HIO,"Western Asset High Income Opportunity Fund, Inc.",NYSE
 HIPEF,Hibiscus Petroleum Bhd Ordinary Shares (Malaysia),U
 HIPH,American Premium Water Corporation Common Stock,U
+HIPO,Hippo Holdings Inc.,NYSE
+HIPO WS,"Hippo Holdings Inc. Redeemable warrants, each whole warrant exercisable for one share of Common Sto",NYSE
 HIPR,Direxion High Growth ETF,ARCA
 HIPS,GraniteShares HIPS US High Income ETF,ARCA
 HIRRF,Hire Technologies Inc Common Shares (Canada),U
@@ -445,7 +449,7 @@ HKSHY,Hong Kong & Shanghai Hotels Unsponsored ADR (Hong Kong),U
 HKTGF,HIKARI TSUSHIN INC SHS (Japan),U
 HKTTF,Hkt Trust and Hkt Ltd Ordindary Shares (Hong Kong),U
 HKTTY,Hkt Trust and Hkt Ltd Unsponsored ADR (Hong Kong),U
-HKTVY,Hong Kong Television Network Ltd. American Depositary Receipts - Sponsored (Hong Kong),U
+HKTVY,Hong Kong Technology Venture Company Ltd American Depositary Receipts - Sponsored,U
 HKUOF,Hakuhodo Dy Holdings Inc Tokyo Ordinary Shares (Japan),U
 HKUOY,Hakuhodo Dy Holdings Inc Tokyo Unsponsored American Depository Receipt (Japan),U
 HKVTY,HK Electric Investments and HK Electric Investments Ltd Sponsored American Depository Receipt Representing Staple Unit (Hong Kong),U
@@ -920,6 +924,7 @@ HWC,Hancock Whitney Corporation Common Stock,NASDAQ
 HWCPZ,Hancock Whitney Corporation 6.25% Subordinated Notes due 2060,NASDAQ
 HWDJF,Howden Joinery Group Plc Ordinary Shares (United Kingdom),U
 HWDJY,Howden Joinery Group Plc Unsponsored ADR (United Kingdom),U
+HWELU,Healthwell Acquisition Corp. I Unit,NASDAQ
 HWEN,Home Financial Bancorp (IN) Common Stock,U
 HWGG,HWGG Entertainment Limited Common Stock,U
 HWIN,"Hometown International, Inc Common Stock",U
@@ -1119,7 +1124,7 @@ IBIDY,Ibiden Co Ltd Ord American Depositary Receipts - Unsponsored (Japan),U
 IBIN,"IBSG International, Inc. Common Stock",U
 IBIO,"iBio, Inc.",AMEX
 IBJHF,Ibstock PLC Ordinary Shares (United Kingdom),U
-IBKKF,Imining Blockchain & Cryptocurrency Inc Ordinary Shares (Canada),U
+IBKKF,IMINING TECHNOLOGIES INC Ordinary Shares,U
 IBKR,"Interactive Brokers Group, Inc. Class A Common Stock",NASDAQ
 IBM,International Business Machines Corporation,NYSE
 IBMJ,iShares iBonds Dec 2021 Term Muni Bond ETF,ARCA
@@ -2518,7 +2523,6 @@ JFEYF,JFE SYS INC SHS (Japan),U
 JFHHF,Jupiter Fund Management Ltd. Ordinary Shares (United Kingdom),U
 JFIL,Jubilant Flame International LTD. Common Stock,U
 JFIN,Jiayin Group Inc. American Depositary Shares,NASDAQ
-JFOOF,Japan Foods Holding Limited Ordinary Shares (Singapore),U
 JFR,Nuveen Floating Rate Income Fund,NYSE
 JFROF,J. Front Retailing Co. Ltd. Ordinary Shares (Japan),U
 JFTSF,JFT Strategies Fund Unit Class A (Canada),U
@@ -2894,6 +2898,7 @@ KBDCF,Kingboard Chemical Holdings Ltd Ordinary Shares (Cayman Islands),U
 KBDCY,Kingboard Hldgs Ltd Cayman Is American Depositary Receipts - Unsponsored,U
 KBDHF,Kabel Deutschland Holding AG Ordinary Shares (Germany),U
 KBE,SPDR S&P Bank ETF,ARCA
+KBECF,KOBELCO ECO-SOLUTIONS CO LTD SHS (Japan),U
 KBEVF,Koios Beverage Corp Ordinary Shares,U
 KBGCF,Kings Bay Res Corp Ordinary Shares,U
 KBH,KB Home,NYSE
@@ -3525,7 +3530,6 @@ LAZ,Lazard Ltd. Class A,NYSE
 LAZR,"Luminar Technologies, Inc. Class A Common Stock",NASDAQ
 LAZY,"Lazydays Holdings, Inc. Common Stock",NASDAQ
 LAZYW,"Lazydays Holdings, Inc. Cm St Warrant   03/15/2023",U
-LB,"L Brands, Inc.",NYSE
 LBAI,"Lakeland Bancorp, Inc. Common Stock",NASDAQ
 LBAO,"Luboa Group, Inc. Common Stock",U
 LBAS,"Location Based Technologies, Inc. Common Stock",U
@@ -4597,7 +4601,6 @@ MDBKY,MEDIBANK PRIVATE LTD American Depositary Receipts - Unsponsored (Australia
 MDBPF,Medibank Private LTD Common Stock,U
 MDBS,"Master Distribution Systems, Inc. Common Stock",U
 MDC,"M.D.C. Holdings, Inc.",NYSE
-MDCA,MDC Partners Inc. CL A Subordinate Voting Shares,NASDAQ
 MDCE,Medical Care Technologies Inc. Common Stock,U
 MDCKF,MEDIQON GROUP AG Ordinary Shares,U
 MDCLF,Medincell Ordinary Shares (France),U
@@ -4912,7 +4915,6 @@ MIDE,Xtrackers S&P MidCap 400 ESG ETF,ARCA
 MIDF,iShares MSCI USA Mid-Cap Multifactor ETF,ARCA
 MIDLF,Midland Expl Inc Common shares (Canada),U
 MIDU,Direxion Daily Mid Cap Bull 3X Shares,ARCA
-MIE,"COHEN & STEERS MLP INCOME AND ENERGY OPPORTUNITY FUND, INC.",NYSE
 MIELF,Mitsubishi Elect Corp Ordinary Shares,U
 MIELY,Mitsubishi Electric Corp ADR,U
 MIESF,Mitsui E&S Hldgs Co Ltd Ordinary Shares,U
@@ -5172,7 +5174,6 @@ MMXXF,MMX Mineracao E Metalicos SA Trust Units (Brazil),U
 MMYT,MakeMyTrip Limited Ordinary Shares,NASDAQ
 MN,"MANNING & NAPIER, INC.",NYSE
 MNA,IQ ARB Merger Arbitrage ETF,ARCA
-MNACF,M&A Cap Partners Co Ltd. Ordinary Shares (Japan),U
 MNAP,MNP Petroleum Corporation Common Stock,U
 MNARF,Morguard North American Residential Real Estate Investment Trust Tr Unit (Canada),U
 MNAT,Marquette National Corporation Common Stock,U
@@ -5281,7 +5282,7 @@ MOIFF,MOBEUS INCOME & GROWTH 4 VCT PLC Ordinary Shares  United Kingdom(GB ),U
 MOJO,"Mojo Organics, Inc.  Common Stock",U
 MOLFF,MOL MAGYAR OLAJ ES GAZIPARI NYILVANOSAN MUKODO RESZVENYTARSASAG Ordinary Shares (Hungary),U
 MOLN,Molecular Partners AG American Depositary Shares,NASDAQ
-MOMO,Momo Inc. American Depositary Shares,NASDAQ
+MOMO,Hello Group Inc. American Depositary Shares,NASDAQ
 MOMT,"MoneyOnMobile, Inc Common Stock",U
 MON,Monument Circle Acquisition Corp. Class A Common Stock,NASDAQ
 MONCU,Monument Circle Acquisition Corp. Unit,NASDAQ
@@ -5580,5 +5581,3 @@ MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFC,Minster Financial Corporation,U
