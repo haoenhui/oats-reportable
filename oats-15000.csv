@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTENY,Mahanagar Telephone Nigam Ltd ADS,U
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
@@ -277,6 +279,7 @@ NATI,National Instruments Corporation Common Stock,NASDAQ
 NATR,"Nature's Sunshine Products, Inc. Common Stock",NASDAQ
 NATUF,North Amern Tungsten Cp Ltd Ordinary Shares,U
 NAUBF,National Australia Bk Ltd  Ord Ordinary Shares,U
+NAUFF,Nevgold Corp. Common Shares,U
 NAUH,"National American University Holdings, Inc. Common Stock",U
 NAUT,"Nautilus Biotechnolgy, Inc. Common Stock",NASDAQ
 NAVB,Navidea Biopharmaceuticals Inc.,AMEX
@@ -811,7 +814,7 @@ NOBGY,Noble Group Ltd American Depositary Receipts - Unsponsored,U
 NOBH,"Nobility Homes, Inc. Common Stock",U
 NOBL,ProShares S&P 500 Dividend Aristocrats ETF,BATS
 NOC,Northrop Grumman Corp.,NYSE
-NOCRD,Norden Crown Metals Corp Common Shares,U
+NOCRF,Norden Crown Metals Corp Common Shares,U
 NOCSF,NORSEMAN SILVER INC Common Stock (Canada),U
 NOCT,Innovator Nasdaq-100 Power Buffer ETF- October,BATS
 NODB,North Dallas Bank & Trust Co Tex Common Stock,U
@@ -1070,7 +1073,6 @@ NTCXF,Natcore Technology Inc Ordinary Shares (Canada),U
 NTDOF,Nintendo Co Ltd-Ord- Ordinary Shares,U
 NTDOY,Nintendo Co Ltd ADR,U
 NTDTY,Ntt Data Corp Ltd Unsponsored ADR (Japan),U
-NTEC,Intec Parent Inc. Common Stock (DE),NASDAQ
 NTEDY,Notre Dame Intermedica Participacoes SA American Depositary Receipts - Unsponsored,U
 NTEI,"Nova Tech Enterprises, Inc. Common Stock",U
 NTEK,"NanoTech Entertainment, Inc. Common Stock",U
@@ -1376,7 +1378,7 @@ NYXH,Nyxoah SA Ordinary Shares,NASDAQ
 NYXO,Nyxio Technologies Corporation Common Stock,U
 NZEOF,New Zealand Oil & Gas Ltd Ordinary Shares,U
 NZEOY,New Zealand Oil & Gas Ltd American Depositary Receipts - Unsponsored,U
-NZERD,New Zealand Energy Corp. Common Shares,U
+NZERF,New Zealand Energy Corp. Common Shares,U
 NZF,Nuveen Municipal Credit Income Fund,NYSE
 NZIH,"NZJ Holdings, Inc. Common Stock",U
 NZMEF,Nzme Ltd Ordinary Shares (New Zealand),U
@@ -4666,6 +4668,7 @@ RSX,VanEck Vectors Russia ETF,BATS
 RSXJ,VanEck Vectors Russia Small-Cap ETF,BATS
 RSYC,"Real Security Company, Inc. (The) Common Stock",U
 RTAI,Rareview Tax Advantaged Income ETF,BATS
+RTALF,RETAILORS LTD Ordinary Shares,U
 RTAS,"REDtone Asia, Inc.  Common Stock",U
 RTBBF,Rathbone Bros Plc Ordinary Shares (United Kingdom),U
 RTBRF,RESTAURANT BRANDS NEW ZEALAND LTD Ordinary Shares,U
@@ -5580,4 +5583,3 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ

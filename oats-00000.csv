@@ -139,6 +139,7 @@ ABPR,"Airborne Security & Protective Services, Inc. New Common Stock",U
 ABQQ,AB INTL GROUP CORP Common Stock,U
 ABR,"Arbor Realty Trust, Inc.",NYSE
 ABR PRD,"Arbor Realty Trust, Inc. 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preferen",NYSE
+ABREV,ARBOR RLTY TR INC PFD SER E Preferred Stock,U
 ABRUF,AMERICAN PAC BURATE & LITHIUM LTD Ord Shs Fully Paid (Australia),U
 ABSCF,"AB Science, Paris Ordinary Shares (France)",U
 ABSI,Absci Corporation Common Stock,NASDAQ
@@ -1468,7 +1469,6 @@ APO PRB,"Apollo Global Management, Inc. 6.375 percent Series B Preferred Shares"
 APOG,"Apogee Enterprises, Inc. Common Stock",NASDAQ
 APOOF,Apollo Tourism & Leisure Limited Ordinary Shares (Australia),U
 APOP,Cellect Biotechnology Ltd. American Depositary Shares,NASDAQ
-APOPW,Cellect Biotechnology Ltd. Warrants to Purchase ADRs,NASDAQ
 APP,Applovin Corporation Class A Common Stock,NASDAQ
 APPB,Applied Biosciences Corp. Common Stock,U
 APPCF,APAC RESOURCES LTD Ordinary Shares,U
@@ -1981,6 +1981,7 @@ ATNNF,"Autoneum Holding AG, Winterthur Ordinary Shares (Switzerland)",U
 ATNP,Atlantis Technology Group Common Stock,U
 ATNX,"Athenex, Inc. Common Stock",NASDAQ
 ATO,Atmos Energy Corporation,NYSE
+ATOGF,AUTO1 GROUP SE SEINHABER AKTIEN O N Ordinary Shares,U
 ATOKF,ATOK-BIG WEDGE CO INC Ordinary Shares,U
 ATOM,Atomera Incorporated Common Stock,NASDAQ
 ATONF,Anton Oilfield Services Group Ordinary shares (Cayman Islands),U
@@ -2258,7 +2259,7 @@ AWYX,ETFMG 2x Daily Travel Tech ETF,ARCA
 AX,"Axos Financial, Inc. Common Stock",NYSE
 AXAHF,Axa-Uap Sa Ordinary Shares,U
 AXAHY,AXA SA Sponsored ADR (France),U
-AXAS,Abraxas Petroleum Corporation Common Stock,NASDAQ
+AXAS,ABRAXAS PETE CORP COM NEW,U
 AXBSF,Axios Mobile Assets Corp. Ordinary Shares,U
 AXCG,"Eyes on the Go, Inc.  Common Stock",U
 AXCP,Allixon International Corporation Common Stock,U
@@ -2461,7 +2462,6 @@ BBBXF,Brixton Metals Corp. Ordinary Shares (Canada),U
 BBBY,Bed Bath & Beyond Inc. Common Stock,NASDAQ
 BBC,Virtus LifeSci Biotech Clinical Trials ETF,ARCA
 BBCA,JPMorgan BetaBuilders Canada ETF,BATS
-BBCO,The Better Being Co.,NYSE
 BBCP,"Concrete Pumping Holdings, Inc. Common Stock",NASDAQ
 BBCPW,Concrete Pumping Cm Stk Warrant   12/06/2023,U
 BBD,Banco Bradesco S.A. American Depositary Shares (Each representing one Preferred Shares),NYSE
@@ -3315,6 +3315,7 @@ BOARF,"Boart Longyear Ltd, Sydney NSW Ordinary Shares",U
 BOAS,BOA Acquisition Corp.,NYSE
 BOAS U,"BOA Acquisition Corp. Units, each consisting of one share of Class A common stock, and one third of",NYSE
 BOAS WS,"BOA Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class A c",NYSE
+BOAT,SonicShares Global Shipping ETF,ARCA
 BOB,Merlyn.AI Best-of-Breed Core Momentum ETF,BATS
 BOCH,Bank of Commerce Holdings (CA) Common Stock,NASDAQ
 BOCOF,Bougainville Copper Ltd Ord Ordinary Shares,U
@@ -3814,6 +3815,7 @@ BWAV,Betawave Corporation Common Stock,U
 BWAY,BrainsWay Ltd. American Depositary Shares,NASDAQ
 BWB,"Bridgewater Bancshares, Inc. Common Stock",NASDAQ
 BWBA,"BroadWebAsia, Inc. Common Stock",U
+BWCAU,Blue Whale Acquisition Corp I Unit,NASDAQ
 BWCGF,BLACKWOLF COPPER & GOLD LTD Common Shares,U
 BWEL,Boswell J G Co Common Stock,U
 BWEN,"Broadwind, Inc. Common Stock",NASDAQ
@@ -4932,7 +4934,10 @@ CLABD,Core One Labs Inc Common Shares,U
 CLAD,"China Liaoning Dingxu Ecological Agriculture Development, Inc. Common Stock",U
 CLALF,Clal Insurance CO Ltd. Ordinary Shares (Israel),U
 CLAM,Classic Mining Corp Utah Common Stock,U
+CLAQ,CleanTech Acquisition Corp. Common stock,NASDAQ
+CLAQR,CleanTech Acquisition Corp. Rights,NASDAQ
 CLAQU,CleanTech Acquisition Corp. Units,NASDAQ
+CLAQW,CleanTech Acquisition Corp. Warrant,NASDAQ
 CLAR,Clarus Corporation Common Stock,NASDAQ
 CLAS,Class Acceleration Corp.,NYSE
 CLAS U,"Class Acceleration Corp. Units, each consisting of one share of Class A common stock and one-half of",NYSE
@@ -5579,5 +5584,3 @@ CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
-CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
-CPK,Chesapeake Utilities,NYSE

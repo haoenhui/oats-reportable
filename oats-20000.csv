@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
@@ -904,6 +905,7 @@ SPMXF,Supermax Corporation BHD Ordinary Shares,U
 SPMYY,Spirent Communications plc American Depositary Shares,U
 SPND,Spindletop Oil & Gas Co Common Stock,U
 SPNE,SeaSpine Holdings Corporation Common Stock,NASDAQ
+SPNR,SUPERIOR ENERGY SVCS INC Common Stock,U
 SPNRF,Sparton Resources Inc (F) Ordinary Shares,U
 SPNS,Sapiens International Corporation N.V. Common Shares (Cayman Islands),NASDAQ
 SPNT,SiriusPoint Ltd.,NYSE
@@ -945,6 +947,7 @@ SPRRY,SUPER RETAIL GROUP LTD  American Depositary Receipts - Unsponsored (Austra
 SPRS,"Surge Components, Inc. Common Stock",U
 SPRT,"Support.com, Inc. Common Stock",NASDAQ
 SPRV,"Supurva Healthcare Group, Inc. Common Stock",U
+SPRX,Listed Funds Trust Spear Alpha ETF,NASDAQ
 SPRZ,"Spriza, Inc. Common Stock",U
 SPSAF,Sopra Sa Ordinary Shares (France),U
 SPSB,SPDR Portfolio Short Term Corporate Bond ETF,ARCA
@@ -1547,7 +1550,6 @@ SVLT,"Sunvault Energy, Inc. Common Stock",U
 SVM,Silvercorp Metals Inc. Common Shares,AMEX
 SVMB,"Savmobi Technology, Inc. Common Stock",U
 SVMLF,Sovereign Metals Ltd Ordinary Shares (Australia),U
-SVMMF,Nevgold Corp. Common Shares,U
 SVMN,Silverore Mines Inc Unclassified,U
 SVMRF,Sevan Marine ASA Ordinary Shares (Norway),U
 SVNBY,Seven Bank Ltd Unsponsored ADR (Japan),U
@@ -2017,7 +2019,6 @@ TECK,Teck Resources Limited,NYSE
 TECL,Direxion Daily Technology Bull 3x Shares,ARCA
 TECS,Direxion Daily Technology Bear 3x Shares,ARCA
 TECTP,"Tectonic Financial, Inc. 9.00% Fixed-to-Floating Rate Series B Non-Cumulative Perpetual Preferred Stock",NASDAQ
-TECXF,MOBILUM TECHNOLOGIES INC Common Shares,U
 TEDU,"Tarena International, Inc. American Depositary Shares",NASDAQ
 TEF,"Telefonica, S.A.",NYSE
 TEFOF,Telefonica SA Ordinary Shares (Spain),U
@@ -3002,7 +3003,6 @@ TTNUF,Titanium Group Limited Common Shares (British Virgin Islands),U
 TTOO,"T2 Biosystems, Inc. Common Stock",NASDAQ
 TTOPF,"Toronto Pictures, Inc. Common Shares (Canada)",U
 TTP,"TORTOISE PIPELINE & ENERGY FUND, INC.",NYSE
-TTPPF,"Total Produce Plc, Co Louth Ordinary shares (Ireland)",U
 TTRAF,Telstra Corporation Limited Ordinary Shares,U
 TTRHF,Terra Energy Corp Ordinary Shares (Canada),U
 TTRKF,Turk Traktor Ve Ziraat Makineleri AS Ordinary Shares (Turkey),U
@@ -3530,7 +3530,7 @@ UREQF,Devex Res Ltd Ordinary Shares,U
 URFFF,US Masters Residential Property Fund CNT Pref 6.25% Perp Semi Sub Cum Step Unit Exp 01/01/2023 (Australia),U
 URG,Ur-Energy Inc.,AMEX
 URGN,UroGen Pharma Ltd. Ordinary Shares,NASDAQ
-URGYD,"Academy Metals, Inc.  Common Shares",U
+URGYF,"Academy Metals, Inc.  Common Shares",U
 URHG,"United Resources Holdings Group, Inc. Common Stock",U
 URI,"United Rentals, Inc.",NYSE
 URLOF,NameSilo Technologies Corp Ordinary Shares,U
@@ -3770,6 +3770,7 @@ VCKAU,Vickers Vantage Corp. I Unit,NASDAQ
 VCKAW,Vickers Vantage Corp. I Warrant,NASDAQ
 VCKVF,VANECK VECTORS UCITS ETFS PLC Exchange Traded Fund,U
 VCLD,Verecloud Inc. Common Stock,U
+VCLN,Virtus Duff & Phelps Clean Energy ETF,ARCA
 VCLO,Simplify Volt Cloud and Cybersecurity Disruption ETF,ARCA
 VCLT,Vanguard Long-Term Corporate Bond ETF,NASDAQ
 VCMP,VCampus Corporation Common Stock,U
@@ -4526,6 +4527,7 @@ WEBC,"Webco Industries, Inc. New Common Stock",U
 WEBJF,Webjet Ltd Ordinary Shares (Australia),U
 WEBL,Direxion Daily Dow Jones Internet Bull 3X Shares,ARCA
 WEBNF,Westpac Banking Corp Nz (Clob) Ordinary Shares,U
+WEBR,Weber Inc.,NYSE
 WEBS,Direxion Daily Dow Jones Internet Bear 3X Shares,ARCA
 WEC,"WEC Energy Group, Inc.",NYSE
 WECFF,White Energy Co Ltd Ordinary Shares (Australia),U
@@ -4693,7 +4695,8 @@ WKME,WalkMe Ltd. Ordinary Shares,NASDAQ
 WKPPF,Workspace Group Plc Ordinary Shares (United Kingdom),U
 WKPYF,PT Waskita Karya Persero Tbk Pt Shs Series B (Indonesia),U
 WKRCF,Wacker Neuson SE Namen-Akt (Germany),U
-WKSP,WORKSPORT LTD Common Stock,U
+WKSP,"Worksport, Ltd. Common Stock",NASDAQ
+WKSPW,"Worksport, Ltd. Warrant",NASDAQ
 WKSVF,WORK SVC S A Ordinary Shares,U
 WKYN,"WebSky, Inc. New Common Stock",U
 WLAB,"White Label Liquid, Inc. Common Stock",U
@@ -4842,7 +4845,6 @@ WRE,Washington Real Estate Investment Trust,NYSE
 WRFRF,Wharf Real Estate Investment Co Ltd,U
 WRGL,Warrior Girl Corp Common Stock,U
 WRHLF,LOVE HEMP GROUP PLC Ordinary Shares,U
-WRI,Weingarten Realty Investors,NYSE
 WRIT,"WRIT Media Group, Inc Common Stock",U
 WRIV,White River Bancshares Co Common Stock,U
 WRK,WestRock Company,NYSE
@@ -5419,7 +5421,7 @@ ZEON,Zeons Corporation. Common Stock,U
 ZEOOF,Zeon Corp. Tokyo Ordinary Shares (Japan),U
 ZEOOY,ZEON CORP ADR (Japan),U
 ZEPP,Zepp Health Corporation,NYSE
-ZEST,"Ecoark Holdings, Inc. Common Stock",U
+ZEST,"Ecoark Holdings, Inc. Common Stock",NASDAQ
 ZETA,Zeta Global Holdings Corp.,NYSE
 ZEUCF,ZEU TECHNOLOGIES INC Common Shares,U
 ZEUS,"Olympic Steel, Inc. Common Stock",NASDAQ

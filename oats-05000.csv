@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
+CPK,Chesapeake Utilities,NYSE
 CPKB,Chesapeake Bancorp Common Stock,U
 CPKF,Chesapeake Financial Shares Inc Common Stock,U
 CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
@@ -619,7 +621,7 @@ CWLDY,Crown Resorts Ltd.  Unsponsored ADR (Australia),U
 CWLPF,Caldwell Partners International Inc. Common Shares (Canada),U
 CWMCF,Consolidated Woodjam Copper Corp Ordinary Shares (Canada),U
 CWNOF,ChineseWorldNet.com Inc. Common Shares (Caymen Islands),U
-CWNR,Crosswind Renewable Energy Corp. Common Stock,U
+CWNRD,COMMUNITY REDEVELOPMENT INC. Common Stock,U
 CWPE,CW Petroleum Corporation Common Stock,U
 CWPS,Conwest Partnership Part Units LP,U
 CWPWF,CONCORD NEW ENERGY GROUP LTD Ordinary Shares,U
@@ -1124,7 +1126,9 @@ DIGTF,Thruvision Group PLC Ordinary Shares,U
 DIIBF,"Dorel Industries, Inc. Class B Subordinate Voting Shares",U
 DIISF,Direct Line Insurance Group PLC Ordinary Shares,U
 DIISY,Direct Line Insurance Group PLC American Depositary Receipts - Unsponsored,U
+DILA,DILA Capital Acquisition Corp. Class A Common Stock,NASDAQ
 DILAU,DILA Capital Acquisition Corp. Unit,NASDAQ
+DILAW,DILA Capital Acquisition Corp. Warrant,NASDAQ
 DIM,WisdomTree International MidCap Dividend Fund,ARCA
 DIMC,Dimeco Inc Common Stock,U
 DIN,"Dine Brands Global, Inc.",NYSE
@@ -4218,7 +4222,7 @@ FVC,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright Dynamic Focus 
 FVCB,"FVCBankcorp, Inc. Common Stock",NASDAQ
 FVD,First Trust Value Line Dividend Fund,ARCA
 FVE,Five Star Senior Living Inc. Common Stock,NASDAQ
-FVGCD,YUMY BEAR GOODS INC Common Shares,U
+FVGCF,YUMY BEAR GOODS INC Common Shares,U
 FVIV,Fortress Value Acquisition Corp. IV,NYSE
 FVIV U,"Fortress Value Acquisition Corp. IV Units, each consisting of one share of Class A common stock and",NYSE
 FVIV WS,"Fortress Value Acquisition Corp. IV Warrants, each whole warrant exercisable for one share of Class",NYSE
@@ -5580,4 +5584,3 @@ GWYNF,Genoway Ordinary Shares  France (FR),U
 GWYT,Greenway Technology Common Stock,U
 GXC,SPDR S&P China ETF,ARCA
 GXF,Global X FTSE Nordic Region ETF,ARCA
-GXG,Global X MSCI Colombia ETF,ARCA

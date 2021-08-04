@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GXG,Global X MSCI Colombia ETF,ARCA
 GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
 GXIIU,GX Acquisition Corp. II Unit,NASDAQ
 GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
@@ -143,7 +144,7 @@ HBOSF,EastWest Bioscience Inc Common Shares,U
 HBP,"Huttig Building Products, Inc. Common Stock",NASDAQ
 HBPCF,Helix Biopharma Cp Ordinary Shares (Canada),U
 HBPE,HBP Energy Corp. Common Stock,U
-HBRID,Harbour Energy Plc American Depositary Receipts - Sponsored,U
+HBRIY,Harbour Energy Plc American Depositary Receipts - Sponsored,U
 HBRM,Herborium Group Inc Common Stock,U
 HBSI,Highlands Bankshares Inc (WV) Common Stock,U
 HBT,"HBT Financial, Inc. Common Stock",NASDAQ
@@ -1282,7 +1283,7 @@ IDTA,Identa Corp Common Stock,U
 IDU,iShares U.S. Utilities ETF,ARCA
 IDV,iShares International Select Dividend ETF,BATS
 IDVV,International Endeavors Corp Common Stock,U
-IDWM,"IDW Media Holdings, Inc. Common Stock",U
+IDW,IDW Media Holdings,AMEX
 IDX,VanEck Vectors Indonesia Index ETF,ARCA
 IDXAF,IDEX Biometrics ASA Ordinary Shares,U
 IDXG,INTERPACE BIOSCIENCES INC Common Stock,U
@@ -1695,6 +1696,7 @@ INDL,Direxion Daily MSCI India Bull 2X Shares,ARCA
 INDMF,INDORAMA VENTURES CO LTD Ordinary Shares,U
 INDO,Indonesia Energy Corporation Limited,AMEX
 INDOY,Indorama Ventures Public Company Limited Unsponsored ADR (Thailand),U
+INDP,"Indaptus Therapeutics, Inc. Common Stock",NASDAQ
 INDPF,Innovaderma Plc Common Stock (United Kingdom),U
 INDR,Indie Ranch Media Inc Common Stock,U
 INDS,Pacer Benchmark Industrial Real Estate SCTR ETF,ARCA
@@ -2698,9 +2700,9 @@ JPM PRD,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th  in
 JPM PRJ,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of JPMorgan",NYSE
 JPM PRK,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 4.55% Non",NYSE
 JPM PRL,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 4.625% No",NYSE
+JPM PRM,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 4.20% Non",NYSE
 JPMB,JPMorgan USD Emerging Markets Sovereign Bond ETF,ARCA
 JPME,JPMorgan Diversified Return US Mid Cap Equity ETF,ARCA
-JPMML,JPMORGAN CHASE & CO DEP SHS REPSTG 1/400TH PFD SER MM,U
 JPN,Xtrackers Japan JPX-Nikkei 400 Equity ETF,ARCA
 JPNCF,JAPAN CASH MACHINE CO LTD SHS (Japan),U
 JPNPY,Japan Post Ins Co Ltd ADS Repstg Com Stk (Japan),U
@@ -3836,7 +3838,9 @@ LITB,"LIGHTINTHEBOX HOLDING CO., LTD.",NYSE
 LITE,Lumentum Holdings Inc. Common Stock,NASDAQ
 LITH,U.S. Lithium Corp. Common Stock,U
 LITOF,Frontier Lithium  Ordinary Shares,U
+LITT,Logistics Innovation Technologies Corp. Class A Common Stock,NASDAQ
 LITTU,Logistics Innovation Technologies Corp. Units,NASDAQ
+LITTW,Logistics Innovation Technologies Corp. Warrant,NASDAQ
 LIV,Emles @Home ETF,BATS
 LIVC,Live Current Media Inc. Common Stock,U
 LIVE,Live Ventures Incorporated Common Stock,NASDAQ
@@ -4460,6 +4464,7 @@ MBIO,"Mustang Bio, Inc. Common Stock",NASDAQ
 MBISF,Orange Belgium SA Ordinary Shares,U
 MBKBF,"METAL BANK LTD, SYDNEY NSW SHS (Australia)",U
 MBKL,"MBT Bancshares, Inc. Common Stock",U
+MBLMF,MOBILUM TECHNOLOGIES INC Common Shares,U
 MBLU,Morris St Bancshares Inc Common Shares,U
 MBLV,MobiVentures Inc. Common Stock,U
 MBND,SPDR Nuveen Municipal Bond ETF,BATS
@@ -5579,5 +5584,3 @@ MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
-MTENY,Mahanagar Telephone Nigam Ltd ADS,U
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
