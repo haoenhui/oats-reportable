@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GXC,SPDR S&P China ETF,ARCA
+GXF,Global X FTSE Nordic Region ETF,ARCA
 GXG,Global X MSCI Colombia ETF,ARCA
 GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
 GXIIU,GX Acquisition Corp. II Unit,NASDAQ
@@ -75,7 +77,6 @@ HALO,"Halozyme Therapeutics, Inc. Common Stock",NASDAQ
 HAMBF,Horizons Active CDN Municipal Bond ETF Unit Advisor CL (Canada),U
 HANCF,HANSTONE GOLD CORP Common Stock,U
 HANNF,"Hannan Metals, Ltd.  Common Shares",U
-HANOF,Hansen Technologies Ltd Ordinary Shares (Australia),U
 HAON,"Halitron, Inc. Common Stock",U
 HAP,VanEck Vectors Natural Resources ETF,ARCA
 HAPBF,HAPBEE TECHNOLOGIES INC COM SUB VTG SHS (Canada),U
@@ -152,7 +153,6 @@ HBTC,"Harbourton Capital Group, Inc. Common Stock",U
 HBTPF,BetaPro Crude Oil Inverse Leveraged Daily Bear ETF  Unit,U
 HBUV,Hubilu Venture Corporation Common Shares,U
 HCA,"HCA Healthcare, Inc.",NYSE
-HCAEF,Holding Co Admie Ipto SA Common Stock (Greece),U
 HCANF,HALO COLLECTIVE INC Ordinary Shares,U
 HCAQ,HealthCor Catalio Acquisition Corp. Class A Ordinary Shares,NASDAQ
 HCAR,Healthcare Services Acquisition Corporation Class A Common Stock,NASDAQ
@@ -336,7 +336,6 @@ HGLC,Hunt Gold Corporation Common Stock,U
 HGLD,Patagonia Gold Corp  Common Shares,U
 HGMCF,Harmony Gold Mining Co. Ltd. Ordinary Shares,U
 HGPI,"Horizon Group Properties, Inc. Common Stock",U
-HGPLF,HEADLAM GROUP PLC FORMERLY HEADLAM SIMS & COGGINS PLC Ordinary Shares,U
 HGRL,Holy Grail Company Common Stock,U
 HGRVF,"Hargreaves Services Plc, Durham Ordinary Shares (United Kingdom)",U
 HGSFF,Hang Seng Ftse/Xinhua China 25 Index ETF Units (Hong Kong),U
@@ -811,7 +810,6 @@ HTAB,Hartford Schroders Tax-Aware Bond ETF,ARCA
 HTBI,"HomeTrust Bancshares, Inc. Common Stock",NASDAQ
 HTBK,Heritage Commerce Corp Common Stock,NASDAQ
 HTBX,"Heat Biologics, Inc. Common Stock",NASDAQ
-HTCIY,Hitachi Capital Corp American Depositary Receipts - Unsponsored (Japan),U
 HTCKF,HTC Corp Corp Sponsored GDR Reg S (China),U
 HTCMF,Hitachi Construction Machinery Ordinary Shares,U
 HTCMY,Hitachi Construction Machinery Unsponsored ADR (Japan),U
@@ -1212,7 +1210,6 @@ ICNOF,Icon Energy LTd Ordinary Shares,U
 ICOA,Icoa Inc  Common Stock,U
 ICOIF,ICOM INC SHS (Japan),U
 ICOL,iShares MSCI Colombia ETF,ARCA
-ICON,"Iconix Brand Group, Inc. Common Stock",NASDAQ
 ICOTF,"Ico Therapeutics, Inc. Common Shares (Canada)",U
 ICOW,Pacer Developed Markets International Cash Cows 100 ETF,BATS
 ICPBF,Inscape Corporation Ordinary Shares,U
@@ -3674,7 +3671,6 @@ LEKOF,Lekoil Ltd GBP Ordinary Shares (Cayman Islands),U
 LEMB,iShares J.P. Morgan EM Local Currency Bond ETF,ARCA
 LEMIF,Leading Edge Materials Corp. Common Shares,U
 LEMLF,LEAF MOBILE INC COM (Canada),U
-LEMOF,Lee & Man Holdings Ltd Ordinary Shares (Hong Kong),U
 LEN,Lennar Corporation Class A,NYSE
 LEN B,Lennar Corporation Class B,NYSE
 LENSF,Presbia PLC Ordinary Shares,U
@@ -4954,6 +4950,7 @@ MINRF,Minor International Public Co Ltd. Local Warrant Exp. 07/31/2023,U
 MINT,PIMCO Enhanced Short Maturity Active Exchange-Traded Fund,ARCA
 MINWF,Excelsior Mining Corp Warrant Exp 08/22/2022 (Canada),U
 MINXF,Mercantile Investment Trust PLC Ordinary Shares,U
+MIO,"Pioneer Municipal High Income Opportunities Fund, Inc.",NYSE
 MIOFF,Milbon Co Ltd Ordinary Shares (Japan),U
 MIPCF,MINOR INTERNATIONAL PUBLIC CO LTD NVDR SHARES (Thailand),U
 MIRAF,Mirai Corp Unit (Japan),U
@@ -5584,3 +5581,7 @@ MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
+MTENY,Mahanagar Telephone Nigam Ltd ADS,U
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFC,Minster Financial Corporation,U

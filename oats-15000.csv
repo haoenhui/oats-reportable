@@ -1,8 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTENY,Mahanagar Telephone Nigam Ltd ADS,U
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
@@ -408,6 +404,7 @@ NDSN,Nordson Corporation Common Stock,NASDAQ
 NDTAF,Northern Data AG  INH O N Ordinary Shares Germany Federal Republic(DE ),U
 NDTP,"NDT Pharmaceuticals, Inc. Common Stock",U
 NDVAF,Indiva Ltd. Ordinary Shares,U
+NDVG,Nuveen Dividend Growth ETF,ARCA
 NDVLY,New World Dev Ltd Ord American Depositary Shares,U
 NDVN,nDivision Inc. Common Stock,U
 NDVR,New Dover Capital Corporation,U
@@ -857,6 +854,7 @@ NOVN,"Novan, Inc. Common Stock",NASDAQ
 NOVNW,"Novan, Inc  Warrant 01/09/2022",U
 NOVRF,NOVA RTY CORP Common Shares,U
 NOVT,Novanta Inc. Common Stock,NASDAQ
+NOVVU,Nova Vision Acquisition Corp. Unit,NASDAQ
 NOW,"SERVICENOW, INC.",NYSE
 NOXL,Noxel Corp Common Stock,U
 NOXOF,Noxopharm Limited Ordinary Shares (Australia),U
@@ -998,6 +996,7 @@ NSAV,"Net Savings Link, Inc. Common Stock",U
 NSBK,Northern Star Financial Inc. Common Stock,U
 NSC,Norfolk Southern Corp.,NYSE
 NSCIF,Nanalysis Scientific Corp Common Shares (Canada),U
+NSCS,Nuveen Small Cap Select ETF,ARCA
 NSEC,"National Security Group, Inc. Common Stock",NASDAQ
 NSEIF,Nippon Seiki Co Ltd Ordinary Shares (Japan),U
 NSEO,NS8 Corporation Common Stock,U
@@ -1266,6 +1265,7 @@ NWITY,Network International Holdings PLC Unsponsored ADR (United Kingdom),U
 NWKHY,Netcare Ltd Unsponsored ADR  (South Africa),U
 NWKLF,Network Int'l Holdings Ltd Ord Gbp 0.10 (United Kingdom),U
 NWL,Newell Brands Inc. Common Stock,NASDAQ
+NWLG,Nuveen Winslow Large-Cap Growth ESG ETF,ARCA
 NWLI,"National Western Life Group, Inc. Class A Common Stock",NASDAQ
 NWLXF,NEWLOX GOLD VENTURES Common Shares,U
 NWMH,"National Waste Management Holdings, Inc.  Common Stock",U
@@ -1420,6 +1420,7 @@ OBNNF,Osisko Mng Inc Ordinary Shares,U
 OBOR,Kraneshares MSCI One Belt One Road Index ETF,ARCA
 OBSJF,Obrascon Huarte Lain Sa Ordinary Shares,U
 OBSV,ObsEva SA Ordinary Shares,NASDAQ
+OBT,"Orange County Bancorp, Inc. Common Stock",NASDAQ
 OBTC,OSPREY BITCOIN TR UNIT BEN INT,U
 OBTEF,Orbital Corporation Ltd  Ordinary Shares (Australia),U
 OBTX,Obitx Inc Common Stock,U
@@ -1432,7 +1433,6 @@ OCANF,Oceanagold Corp Common (Canada),U
 OCAX,OCA Acquisition Corp. Class A Common Stock,NASDAQ
 OCAXU,OCA Acquisition Corp. Unit,NASDAQ
 OCAXW,OCA Acquisition Corp. Warrant,NASDAQ
-OCBI,"Orange County Bancorp, Inc. Common Stock",U
 OCBM,Preferred Commerce Inc. Common Stock,U
 OCC,Optical Cable Corporation Common Stock,NASDAQ
 OCCI,"OFS Credit Company, Inc. Common Stock",NASDAQ
@@ -1866,6 +1866,7 @@ OSN,"Ossen Innovation Co., Ltd. American Depositary Shares",NASDAQ
 OSNDF,MBN Corporation Ordinary Shares (Canada),U
 OSOPF,Osotspa Pub Co Ltd Ordinary Shares  (Thailand),U
 OSOTF,OSOTSPA PUB CO LTD LOCAL SHARES (Thailand),U
+OSPMZ,Osprey Med Inc Chess Depositary Interests Repr 0.5 Sh (Australia),U
 OSPN,OneSpan Inc. Common Stock,NASDAQ
 OSRS,Osiris Corporation Common Stock,U
 OSS,"One Stop Systems, Inc. Common Stock",NASDAQ
@@ -2822,7 +2823,7 @@ PMT,PennyMac Mortgage Investment Trust,NYSE
 PMT PRA,PennyMac Mortgage Investment Trust 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Pref,NYSE
 PMT PRB,PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Prefe,NYSE
 PMTRF,Precious Metals Bullion Trust Units (Canada),U
-PMTS,CPI Card Group Inc Common Stock,U
+PMTS,CPI Card Group Inc. Common Stock,NASDAQ
 PMTYF,Playmates Toys Ltd Ordinary shares (Bermuda),U
 PMVC,PMV Consumer Acquisition Corp.,NYSE
 PMVC U,"PMV Consumer Acquisition Corp. Units, each consisting of one share of Class A common stock and one-h",NYSE
@@ -3112,7 +3113,6 @@ PROF,Profound Medical Corp. Common Stock,NASDAQ
 PROG,"Progenity, Inc. Common Stock",NASDAQ
 PROM,"Propel Media, Inc Common Stock",U
 PROP,Pledge Petroleum Corp. Common Stock,U
-PROS,"ProSight Global, Inc.",NYSE
 PROSF,PROSUS N V Shs (Netherlands),U
 PROSY,Prosus NV Sponsored ADR (Netherlands),U
 PROT,Proteonomix Inc Common Stock,U
@@ -3360,7 +3360,7 @@ PTEEF,Plaintree Systems Inc. Ordinary Shares (Canada),U
 PTEFF,Pioneering Technology Corp Ordinary Shares (Canada),U
 PTEL,"Pegasus Tel, Inc. Common Stock",U
 PTEN,"Patterson-UTI Energy, Inc. Common Stock",NASDAQ
-PTEO,"Proteo, Inc. Common Stock",U
+PTEOD,"Proteo, Inc. Common Stock",U
 PTEPF,PT Ensevel Putera Megatrading Tbk Ordinary Shares (Indonesia),U
 PTEU,Pacer TrendpilotTM European Index ETF,BATS
 PTEXF,Pacific Textiles Holdings Ltd Ordinary Shares (Cayman Islands),U
@@ -5583,3 +5583,4 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ

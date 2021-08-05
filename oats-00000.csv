@@ -1123,6 +1123,8 @@ AMBG,AMBG INC Common Stock,U
 AMBK,American Bank Inc Common Stock,U
 AMBKP,American Bank Inc Capital Trust I 6% Convertible Preferred,U
 AMBO,"Ambow Education Holding Ltd. American Depository Shares, each representing two Class A ordinary shar",AMEX
+AMBP,Ardagh Metal Packaging S.A.,NYSE
+AMBP WS,"Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at an exercise price of $11.50",NYSE
 AMBS,"Amarantus Bioscience Holdings, Inc. Common Stock",U
 AMBZ,American Business Bank Common Stock,U
 AMC,"AMC ENTERTAINMENT HOLDINGS, INC.",NYSE
@@ -1439,6 +1441,7 @@ APGOF,Apollo Gold & Silver Corp Common Shares,U
 APH,Amphenol Corporation,NYSE
 APHE,Alpha Energy Inc  Common Stock,U
 APHIF,AUSTRALIAN PHARMACEUTICALS INDUSTRIES LIMITED SHS (Australia),U
+APHLF,Alpha Lithium Corp New Common Shares (Canada),U
 APHTF,Alphinat Inc Ordinary Shares (Canada),U
 APHWF,APOLLO HEALTHCARE CORP WT EXP 01/03/2022 (Canada),U
 API,"Agora, Inc. American Depositary Shares",NASDAQ
@@ -2019,7 +2022,6 @@ ATTBF,Abattis Bioceuticals Corp. Ordinary Shares (Canada),U
 ATTGF,Auto Italia Hldgs Ltd SHS HKD (Bermuda),U
 ATTLF,Atlas Copco Aktiebolag Ordinary Shares,U
 ATTO,Atento S.A.,NYSE
-ATTQF,ATTACQ LTD Ordinary Shares (South Africa),U
 ATTRF,Ascott Residence Trust REIT  (Singapore),U
 ATUS,"Altice USA, Inc. Class A Common Stock",NYSE
 ATUSF,Altius Minerals Corp Ordinary Shares (Canada),U
@@ -2673,6 +2675,7 @@ BEBE,BEBE STORES INC Common Stock,U
 BECBF,iShares III PLC BARCLAYS EURO CORPORATE BOND EURO SHS Exchange Traded Fund,U
 BECEF,BCE Inc 1st Pfd Shs Class AH (Canada),U
 BECN,"Beacon Roofing Supply, Inc. Common Stock",NASDAQ
+BECO,BlackRock Future Climate and Sustainable Economy ETF,ARCA
 BECTY,Bechtle AG American Depositary Receipts - Unsponsored (Germany),U
 BECVY,BEC World Public Co Ltd American Depositary Shares (Thailand),U
 BECXF,Bec World Plc (F) Ordinary Shares (Thailand),U
@@ -5094,7 +5097,6 @@ CLWT,Euro Tech Holdings Company Limited Common Stock,NASDAQ
 CLWY,"Calloway's Nursery, Inc. Common Stock",U
 CLX,Clorox Company,NYSE
 CLXLF,CALIX LTD ORDINARY FULLY PAID (Australia),U
-CLXPF,"Cybin, Inc. Common Shares",U
 CLXS,"Collexis Holdings, Inc. Common Stock",U
 CLXT,"Calyxt, Inc. Common Stock",NASDAQ
 CLYAF,iShares Global Agriculture ETF Common Unit (Canada),U
@@ -5583,4 +5585,3 @@ CPHI,"China Pharma Holdings, Inc.",AMEX
 CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
-CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U

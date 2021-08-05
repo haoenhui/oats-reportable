@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
 CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
 CPK,Chesapeake Utilities,NYSE
 CPKB,Chesapeake Bancorp Common Stock,U
@@ -672,6 +673,7 @@ CYBD,"Cyber Digital, Inc. Common Stock",U
 CYBE,CyberOptics Corporation Common Stock,NASDAQ
 CYBF,"Cyberfort Software, Inc. Common Stock",U
 CYBL,Cyberlux Corporation NEW Common Stock,U
+CYBN,Cybin Inc.,AMEX
 CYBNY,Cyber Security 1 AB American Depositary Receipts - Sponsored,U
 CYBQF,CYBERDYNE INC Ordinary Shares (Japan),U
 CYBQY,Cyberdyne Inc Sponsored ADR (Japan),U
@@ -2213,6 +2215,7 @@ ELXMY,Nova Eye Medical Limited  American Depositary Receipts - Sponsored,U
 ELXPF,Elixir Energy Limited Ordinary Shares,U
 ELY,Callaway Golf Company,NYSE
 ELYGF,Ely Gold Royalties Inc Ordinary Shares,U
+ELYM,"Eliem Therapeutics, Inc Common Stock",NASDAQ
 ELYS,"Elys Game Technology, Corp. Common Stock",NASDAQ
 EM,Smart Share Global Limited American Depositary Shares,NASDAQ
 EMAG,VanEck Vectors Emerging Markets Aggregate Bond ETF,ARCA
@@ -2824,7 +2827,7 @@ EVK,"Ever-Glory International Group, Inc. Common Stock",NASDAQ
 EVKIF,Evonik Industries AG Shs (Germany Federal Republic),U
 EVKIY,EVONIK INDS AG  American Depositary Receipts - Unsponsored (Germany),U
 EVLI,Everlert Inc Common Stock,U
-EVLLF,Enviroleach Tech Inc Ordinary Shares (Canada),U
+EVLLF,ENVIROMETAL TECHNOLOGIES INC Ordinary Shares,U
 EVLMC,Eaton Vance NextShares Trust II Eaton Vance TABS 5-to-15 Year Laddered Municipal Bond NextShares,NASDAQ
 EVLO,"Evelo Biosciences, Inc. Common Stock",NASDAQ
 EVLV,"Evolv Technologies Holdings, Inc. Class A Common Stock",NASDAQ
@@ -2885,6 +2888,7 @@ EWBC,"East West Bancorp, Inc. Common Stock",NASDAQ
 EWC,iShares MSCI Canada ETF,ARCA
 EWCLF,Energy World Corporation Ltd Ordinary Shares,U
 EWCO,Invesco Exchange-Traded Fund Trust Invesco S&P 500 Equal Weight Communication Services ETF,ARCA
+EWCZ,"European Wax Center, Inc. Class A Common Stock",NASDAQ
 EWD,iShares MSCI Sweden ETF,ARCA
 EWEB,Global X Funds Global X Emerging Markets Internet & E-commerce ETF,NASDAQ
 EWG,iShares MSCI Germany ETF,ARCA
@@ -2898,7 +2902,7 @@ EWK,iShares MSCI Belgium ETF,ARCA
 EWKS,"Earthworks Entertainment, Inc. Common Stock New",U
 EWL,iShares MSCI Switzerland ETF,ARCA
 EWLL,EWELLNESS HEALTHCARE CORP Common Stock,U
-EWLU,"Merion, Inc. Common Stock",U
+EWLUD,"Merion, Inc. Common Stock",U
 EWM,iShares MSCI Malaysia ETF,ARCA
 EWMC,Invesco S&P MidCap 400 Equal Weight ETF,ARCA
 EWN,iShares MSCI Netherlands ETF,ARCA
@@ -5069,7 +5073,7 @@ GNT PRA,"GAMCO Natural Resources, Gold & Income Trust 5.2 Percent Series A Cumul
 GNTGF,GENTING PLANTATIONS BHD Ordinary Shares,U
 GNTLF,Genetic Technologies Ltd Ordinary Shares,U
 GNTOF,Gentor Resources Inc. Common Shares,U
-GNTW,Globe Net Wireless Corp. Common Stock,U
+GNTWD,Globe Net Wireless Corp. Common Stock,U
 GNTX,Gentex Corporation Common Stock,NASDAQ
 GNTY,"Guaranty Bancshares, Inc. Common Stock",NASDAQ
 GNUS,"Genius Brands International, Inc. Common Stock",NASDAQ
@@ -5303,9 +5307,6 @@ GRSFF,Greencastle Resources Ltd Ordinary Shares (Canada),U
 GRSLF,GR SILVER MNG LTD Common Shares,U
 GRSO,"Grow Solutions Holdings, Inc. Common Stock",U
 GRST,Ethema Health Corporation Common Stock,U
-GRSV,"Gores Holdings V, Inc. Common stock",NASDAQ
-GRSVU,"Gores Holdings V, Inc. Unit",NASDAQ
-GRSVW,"Gores Holdings V, Inc. Warrant",NASDAQ
 GRSXY,Grasim Inds Ltd Ords 10par American Depositary Shares,U
 GRTNF,GREENTOWN SVC GROUP CO LTD Ordinary Shares,U
 GRTS,"Gritstone bio, Inc. Common Stock",NASDAQ
@@ -5406,7 +5407,9 @@ GSPH,Geospatial Corporation Common Stock,U
 GSPI,Green Star Products Inc,U
 GSPT,Golden Star Enterprises Ltd. Common Stock,U
 GSPY,Gotham Enhanced 500 ETF,ARCA
+GSQB,G Squared Ascend II Inc.,NYSE
 GSQB U,"G Squared Ascend II Inc. Units, each consisting of one Class A ordinary share and one-third of a red",NYSE
+GSQB WS,"G Squared Ascend II Inc. Warrants, each whole warrant exercisable for one Class A ordinary share at",NYSE
 GSQD,G Squared Ascend I Inc.,NYSE
 GSQD U,"G Squared Ascend I Inc. Units, each consisting of one Class A ordinary share and one-fifth of one Wa",NYSE
 GSQD WS,"G Squared Ascend I Inc. Redeemable Warrants, each whole warrant exercisable for one Class A Ordinary",NYSE
@@ -5582,5 +5585,3 @@ GWX,SPDR S&P International Small Cap ETF,ARCA
 GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
 GWYNF,Genoway Ordinary Shares  France (FR),U
 GWYT,Greenway Technology Common Stock,U
-GXC,SPDR S&P China ETF,ARCA
-GXF,Global X FTSE Nordic Region ETF,ARCA
