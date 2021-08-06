@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
@@ -86,6 +87,7 @@ SHZNF,Shenzhen Express Co Ltd H Shs Ordinary Shares,U
 SHZNY,Shenzhen Express Co Ltd H Shs Unsponsored ADR (China),U
 SHZUY,Shizuoka Bank Limited ADR,U
 SI,Silvergate Capital Corporation,NYSE
+SI PRA,"Silvergate Capital Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of",NYSE
 SIACF,STAR ASIA INVT CORP SHS  (Japan),U
 SIAF,Sino Agro Food Inc Common Stock,U
 SIBE,"Sibling Group Holdings, Inc. Common Stock",U
@@ -181,7 +183,6 @@ SIUAF,Stabilus SA Shs (Luxembourg LU),U
 SIUDF,Shanghai Industrial Urban Development Group Ltd. Ordinary Shares (Bermuda),U
 SIVB,SVB Financial Group Common Stock,NASDAQ
 SIVBP,"SVB Financial Group Depositary Shs each representing a 1/40th interest in a share of 5.25% Fixed-Rate Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ
-SIVCL,SILVERGATE CAP CORP DEP SHS REPSTG 1/40TH PERP PFD SER A Depositary Shares,U
 SIVE,Silver Verde May Mng Co Unclassified,U
 SIVR,Aberdeen Standard Physical Silver Shares ETF,ARCA
 SIX,Six Flags Entertainment Corp.,NYSE
@@ -520,6 +521,7 @@ SMTC,Semtech Corporation Common Stock,NASDAQ
 SMTEF,Smart Eye Aktiebolag Share AK (Sweden),U
 SMTGF,"SMA Solar Technology Ag, Niestetal Ordinary shares (Germany)",U
 SMTGY,SMA Solar Technology AG Unsponsored ADR (Germany),U
+SMTHV,SUMMIT HOTEL PPTYS INC CUM RED PFD SER F,U
 SMTI,Sanara MedTech Inc. Common Stock,NASDAQ
 SMTK,"SmartKem, Inc. Common Stock",U
 SMTLF,GCL New Energy Holdings Ltd. Ordinary Shares,U
@@ -930,7 +932,6 @@ SPPI,"Spectrum Pharmaceuticals, Inc.Common Stock",NASDAQ
 SPPJY,Sappi Limited Common Stock,U
 SPPP,Sprott Physical Platinum and Palladium Trust,ARCA
 SPPSY,Sopra Steria Group American Depositary Receipts - Unsponsored (France),U
-SPPT,SHOPOFF PPTYS TR INC Common Stock,U
 SPQDF,SPECIALTY LIQUID Common Stock (Canada),U
 SPQQ,Siren ETF Trust Siren Large Cap Blend Index ETF,NASDAQ
 SPQS,"SportsQuest, Inc. Common Stock",U
@@ -5546,7 +5547,9 @@ ZSL,ProShares UltraShort Silver,ARCA
 ZSTN,"ZST Digital Networks, Inc. Common Stock",U
 ZSTTF,BMO Ultra Short-Term Bd Fund Unit (Canada),U
 ZSYC,SMART CLOSET INC Common Stock,U
+ZT,Zimmer Energy Transition Acquisition Corp. Class A Common Stock,NASDAQ
 ZTAQU,Zimmer Energy Transition Acquisition Corp. Units,NASDAQ
+ZTAQW,Zimmer Energy Transition Acquisition Corp. Warrants,NASDAQ
 ZTCOF,Zte Corporation Shares H (China),U
 ZTCOY,Zte Corporation Unsponsored ADR representing H Shares (China),U
 ZTLLF,Zonetail Inc Common Shares (Canada),U

@@ -3078,6 +3078,7 @@ PRIF PRF,"Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 20
 PRIF PRG,"Priority Income Fund, Inc. 6.25% Series G Preferred Stock Due 2026",NYSE
 PRIF PRH,"Priority Income Fund, Inc. 6.00% Series H Term Preferred Stock due 2026",NYSE
 PRIF PRI,"Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028",NYSE
+PRIJP,PRIORITY INCOME FD INC TERM PFD SER J Preferred Stock,U
 PRIM,Primoris Services Corporation Common Stock,NASDAQ
 PRISY,Promotora De Informaciones SA American Depositary Receipts - Sponsored,U
 PRK,Park National Corporation,AMEX
@@ -4087,6 +4088,7 @@ REEAW,REE Automotive Ltd. Warrant,NASDAQ
 REECF,Reece Ltd Ordinary Shares,U
 REED,"Reeds, Inc. Common Stock",NASDAQ
 REEEF,Rarex Ltd Ordinary Shares (Australia),U
+REEGF,RESOURCES & ENERGY GROUP LTD Ordinary Shares,U
 REEMF,Rare Element Resources Ltd. Common Stock,U
 REET,iShares Global REIT ETF,ARCA
 REFG,Medical Cannabis Payment Solutions. Common Stock,U
@@ -4534,7 +4536,9 @@ ROM,ProShares Ultra Technology,ARCA
 ROMJF,Rubicon Organics Inc Common Shares (Canada),U
 ROMO,Strategy Shares Newfound/ReSolve Robust Momentum ETF,BATS
 ROMWF,Rubicon Organics Inc Warrant Exp 02/26/2024 (Canada),U
+RONI,Rice Acquisition Corp. II,NYSE
 RONI U,"Rice Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fourth of one",NYSE
+RONI WS,"Rice Acquisition Corp. II Redeemable warrants, each whole warrant exercisable for one Class A ordina",NYSE
 ROOF,IQ US REAL ESTATE SMALL CAP ETF,ARCA
 ROOT,"Root, Inc. Class A Common Stock",NASDAQ
 ROP,"Roper Technologies, Inc",NYSE
@@ -5169,7 +5173,6 @@ SCRSF,SCREENPRO SEC INC COM (Canada),U
 SCRYY,SCOR S.A. American Depositary Shares,U
 SCS,"Steelcase, Inc.",NYSE
 SCSC,"ScanSource, Inc. Common Stock",NASDAQ
-SCSG,"SouthCrest Financial Group, Inc. Common Stock",U
 SCSHF,Scottish Oriental Smaller Companies Trust Plc Shs (United Kingdom),U
 SCSKF,SCSK Corp Ordinary Shares (Japan),U
 SCSYF,SSH Communications Security OYJ SHS (Finland),U
@@ -5381,6 +5384,7 @@ SFFFF,Ste Fonciere Financiere ACT (France),U
 SFFLY,Schaeffler Ag American Depositary Receipts - Unsponsored (Germany),U
 SFFRF,"SHEFFIELD RESOURCES LTD, Wembley WA Shs (Australia)",U
 SFFYF,Signify NV Ordinary Shares (Netherlands),U
+SFGLF,STEADFAST GROUP LTD Ordinary Shares (Australia),U
 SFHD,Hui Ying Financial Holdings Corp. Common Stock,U
 SFHI,"Sports Field Holdings, Inc. Com",U
 SFHLF,SAF Holland SE Ordinary Shares,U
@@ -5583,4 +5587,3 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ

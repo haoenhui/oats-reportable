@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GXC,SPDR S&P China ETF,ARCA
-GXF,Global X FTSE Nordic Region ETF,ARCA
 GXG,Global X MSCI Colombia ETF,ARCA
 GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
 GXIIU,GX Acquisition Corp. II Unit,NASDAQ
@@ -201,6 +199,7 @@ HCNEW,Jaws Hurricane Acquisition Corp. Warrant,NASDAQ
 HCPHF,Holcim Philippines Inc Ordinary Shares (Philippines),U
 HCPHY,Holcim Philippines Inc Unsponsored ADR (Philippines),U
 HCRB,Hartford Core Bond ETF,BATS
+HCRX,"Healthcare Royalty, Inc. Class A Common Stock",NASDAQ
 HCSG,"Healthcare Services Group, Inc. Common Stock",NASDAQ
 HCTPF,Hutchinson Port Holdings Trust Units (Singapore),U
 HCWB,HCW Biologics Inc. Common Stock,NASDAQ
@@ -1070,7 +1069,7 @@ IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,ARCA
 IAIC,Information Analysis Incorporated Common Stock,U
 IAK,iShares U.S. Insurance ETF,ARCA
 IAPR,Innovator MSCI EAFE Power Buffer ETF-April,ARCA
-IARE,INVENTRUST PPTYS CORP Common Stock,U
+IARED,INVENTRUST PPTYS CORP Common Stock,U
 IARGF,I A R Systems Group AB Ordinary Shares,U
 IART,Integra LifeSciences Holdings Corporation Common Stock,NASDAQ
 IAS,Integral Ad Science Holding Corp. Common Stock,NASDAQ
@@ -1727,6 +1726,7 @@ INIX,Ifinix Corporation. Common Stock,U
 INKA,KludeIn I Acquisition Corp. Class A Common Stock,NASDAQ
 INKAU,KludeIn I Acquisition Corp. Unit,NASDAQ
 INKAW,KludeIn I Acquisition Corp. Warrant,NASDAQ
+INKI,INKY Common Stock,U
 INKM,SPDR SSgA Income Allocation ETF of SSgA Active Trust,ARCA
 INKW,"Greene Concepts, Incorporated Common Stock",U
 INLB,Item 9 Labs Corp. Common Stock,U
@@ -2059,6 +2059,7 @@ ISHWF,Ishares MSCI World Quality Div UCITS ETF USD (Ireland),U
 ISHXF,iShares Core Canadian  Government Bond Index ETF Unit,U
 ISHYF,ISHARES II PLC HIGH YIELD CORP BOND UCITS ETF USD ACC Exchange Traded Fund (Ireland),U
 ISHZF,iShares III PLC Ordinary Shares (Ireland),U
+ISIDF,ISHARES VI PLC ISHARES INCLUSION AND DIVERSITY UCITS ETF USD ACC Exchange Traded Fund,U
 ISIG,"Insignia Systems, Inc. Common Stock",NASDAQ
 ISIVF,ISHARES IV PLC ISHARES EDGE MSCI EUROPE QUALITY FACTOR UCITS ETFEUR (ACC) Exchange Traded Fund,U
 ISJMF,ISHARES V PLC J P MORGAN EM CORP BOND UCITS ETF USD ACC (Ireland),U
@@ -2073,7 +2074,6 @@ ISMAY,Indra Sistemas Sa Fgn Ord Unsponsored ADR (Spain),U
 ISMCF,iShares MSCI USA UCITS ETF Exchange Traded Fund (Ireland),U
 ISMD,Inspire Small/Mid Cap Impact ETF,ARCA
 ISMJF,IShares VII PLC Ordinary Shares,U
-ISMKF,iShares Emerging Mkts Fundamental Index ETF Unit Com (Canada),U
 ISML,"ISM International, Inc. Common Stock",U
 ISMMF,ISHARES IV PLC ISHARES EDGE MSCI EUROPE VALUE FACTOR UCITS ETF EUR ACC Exchange Traded Fund,U
 ISMUF,Ishares MSCI China Tracker Units,U
@@ -2745,7 +2745,7 @@ JROOF,JERICHO ENERGY VENTURES INC Ordinary Shares,U
 JRS,Nuveen Real Estate Income Fund,NYSE
 JRSH,"Jerash Holdings (US), Inc. Common Stock",NASDAQ
 JRSS,JRSIS Health Care Corp Common Stock,U
-JRVMF,Jervois Mining Ltd Ordinary Shares (Austrailia),U
+JRVMF,Jervois Global Limited Ordinary Shares,U
 JRVR,"James River Group Holdings, Ltd. Common Shares",NASDAQ
 JRVS,iMine Corporation Common Stock,U
 JSAIY,J Sainsbury Plc Sponsored ADR NEW (UK),U
@@ -4228,6 +4228,7 @@ LVS,Las Vegas Sands Corp.,NYSE
 LVSDF,"Lai Sun Development Co., Ltd. Ordinary Shares",U
 LVSYF,LEVER STYLE CORP HKD SHS  Ordinary Shares,U
 LVTSF,Livetiles Ltd Ordinary Shares   (Australia),U
+LVTTF,LEVITEE LABS INC Common Stock,U
 LVTX,LAVA Therapeutics N.V. Ordinary Shares,NASDAQ
 LVVEF,Yooma Wellness Inc. Ordinary Shares,U
 LVVP,LIGHTSTONE VALUE PLUS REAL ESTATE INVT TR V INC COM,U
@@ -5104,6 +5105,7 @@ MLVF,"Malvern Bancorp, Inc. Common Stock",NASDAQ
 MLWN,"Malwin Ventures, Inc. Common Stock",U
 MLXEF,Metals X Limited Ordinary Shares,U
 MLXSF,Melexis Nv Ieper Ordinary Shares (Belgium),U
+MLXSY,Melexis NV American Depositary Receipts - Unsponsored,U
 MLYBY,Malayan Banking Berhad Sponsored ADR (Malaysia),U
 MLYCF,American Cumo Mining Corp. Ordinary Shares (Canada),U
 MLYF,Western Magnesium Corp Common Shares,U

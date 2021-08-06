@@ -365,6 +365,7 @@ ADFJF,ADF Group Inc Sub Vtg Shs (Canada),U
 ADFS,"American Defense Systems, Inc Common Stock",U
 ADFT,"Adfitech, Inc. Common Stock",U
 ADGCF,ADVANCE GOLD CORP Common Shares,U
+ADGI,"Adagio Therapeutics, Inc. Common Stock",NASDAQ
 ADGL,"AllDigital Holdings, Inc. Common Stock",U
 ADGO,Advantego Corporation Common Stock,U
 ADHC,American Diversified Holdings Corporation Common Stock,U
@@ -778,6 +779,7 @@ AHWSF,Athens Water & Sewage Public Co Eydap Ordinary Shares (Greece),U
 AI,"C3.ai, Inc.",NYSE
 AIA,iShares Asia 50 ETF,NASDAQ
 AIABF,AirAsia Group BHD SHS (Malaysia),U
+AIAD,AIADVERTISING INC Common Stock,U
 AIAGF,Aurubis Ag Ordinary Shares (Germany),U
 AIAGY,Aurubis Ag Unsponsored ADR (Germany),U
 AIAPF,Ascential Group Ltd Ord GBP 0.10 Ordinary Shares (United Kingdom),U
@@ -862,7 +864,6 @@ AIV,Apartment Investment and Management Company,NYSE
 AIVAF,Aviva plc Ordinary Shares (United Kingdom),U
 AIVN,"American International Ventures, Inc. Common Stock",U
 AIVTF,Aurora Investment Trust Plc  London Ordinary Shares (United Kingdom),U
-AIW,"Arlington Asset Investment Corp. 6.625% Notes due 2023,",NYSE
 AIXN,"AiXin Life International, Inc. Common Stock",U
 AIXXF,AIXTRON SE  Namen - AKT,U
 AIZ,"Assurant, Inc.",NYSE
@@ -1824,6 +1825,7 @@ ASOMF,ASOS Plc Ordinary Shares (United Kingdom),U
 ASOMY,ASOS Plc Unsponsored ADR (United Kingdom),U
 ASOZF,Asseco Poland S.A. Ordinary Shares (Poland),U
 ASOZY,Asseco Poland S.A. Sponsored ADR (Poland),U
+ASPAU,"Abri SPAC I, Inc. Unit",NASDAQ
 ASPC,Alpha Capital Acquisition Company One Class A Ordinary Share,NASDAQ
 ASPCF,ACERUS PHARMACEUTICALS CORP Common Shares,U
 ASPCU,Alpha Capital Acquisition Company Unit,NASDAQ
@@ -4062,7 +4064,7 @@ CASY,"Casey's General Stores, Inc. Common Stock",NASDAQ
 CAT,Caterpillar Inc.,NYSE
 CATB,"Catabasis Pharmaceuticals, Inc. Common Stock",NASDAQ
 CATC,Cambridge Bancorp Common Stock,NASDAQ
-CATG,"Capstone Technologies Group, Inc. Common Stock",U
+CATGD,"Capstone Technologies Group, Inc. Common Stock",U
 CATH,Global X Funds Global X S&P 500 Catholic Values ETF,NASDAQ
 CATI,Clone Algo Technologies Inc. Common Stock,U
 CATKU,Catskill Litigation Trust Units,U
@@ -4718,7 +4720,6 @@ CHLLF,China Literature Ltd Ordinary Shares (Cayman Islands),U
 CHLLY,China Literature Limited American Depositary Receipts - Unsponsored,U
 CHLTF,Cache Logistics Trust REIT (Signapore),U
 CHLWF,Charter Hall Long Wale Reit Fully Paid Units Stapled Securities (Australia),U
-CHMA,"Chiasma, Inc. Common Stock",NASDAQ
 CHMCF,"Chinaamc Etf Ser Unit Tr, Fund Manager: China Asset Management (Hong Kong)",U
 CHME,China Medicine Corporation Common Stock,U
 CHMG,Chemung Financial Corp Common Stock,NASDAQ
@@ -5092,7 +5093,6 @@ CLVT,Clarivate Plc,NYSE
 CLVT PRA,Clarivate Plc 5.25% Series A Mandatory Convertible Preferred Shares,NYSE
 CLW,Clearwater Paper Corporation,NYSE
 CLWA,"CallWave, Inc. New Common Stock",U
-CLWD,"CloudCommerce, Inc. Common Stock",U
 CLWT,Euro Tech Holdings Company Limited Common Stock,NASDAQ
 CLWY,"Calloway's Nursery, Inc. Common Stock",U
 CLX,Clorox Company,NYSE
@@ -5139,6 +5139,7 @@ CMF,iShares California Muni Bond ETF,ARCA
 CMFO,China Marine Food Group Limited Common Stock,U
 CMFV,"ComF5 International, Inc.  Common Stock",U
 CMG,"Chipotle Mexican Grill, Inc.",NYSE
+CMGEF,CMGE TECHNOLOGIES GROUP LTD Ordinary Shares,U
 CMGGF,Commercial International Bank Ltd Sponsored Reg S GDR (Egypt),U
 CMGHF,Chaoda Modern Agriculture Holdings Inc Ordinary Shares,U
 CMGHY,Chaoda Modern Agriculture Holdings Inc Unsponsored ADR (Cayman Islands),U
@@ -5585,3 +5586,5 @@ CPHI,"China Pharma Holdings, Inc.",AMEX
 CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
+CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
+CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
