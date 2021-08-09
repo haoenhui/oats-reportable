@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GXG,Global X MSCI Colombia ETF,ARCA
-GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
 GXIIU,GX Acquisition Corp. II Unit,NASDAQ
 GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
 GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
@@ -390,7 +388,6 @@ HIIIW,Hudson Executive Investment Corp. III Warrant,NASDAQ
 HIL,"Hill International, Inc. Common Stock",NYSE
 HIMR,Hollund Industrial Marine Inc. Common Stock,U
 HIMS,"Hims & Hers Health, Inc.",NYSE
-HIMS WS,"Hims & Hers Health, Inc. Warrants, each whole warrant exercisable for one Class A Common Stock at an",NYSE
 HIMX,"Himax Technologies, Inc. American Depositary Shares",NASDAQ
 HINKF,Heineken NV Ordinary Shares (Netherlands) EUR 2.5,U
 HINOF,Hino Moters Ltd Ord Ordinary Shares,U
@@ -2783,7 +2780,9 @@ JTEKY,JTEKT Corporation Unsponsored ADR (Japan),U
 JTNB,"JTNB Bancorp, Inc. Common Stock",U
 JTTRY,Japan Arpt Term Co Ltd American Depositary Receipts - Unsponsored (Japan),U
 JUBPF,Jubilee Metals Group PLC Ordinary Shares,U
+JUGG,Jaws Juggernaut Acquisition Corporation Class A Ordinary Share,NASDAQ
 JUGGU,Jaws Juggernaut Acquisition Corporation Unit,NASDAQ
+JUGGW,Jaws Juggernaut Acquisition Corporation Warrant,NASDAQ
 JUGRF,Juggernaut Expl Ltd Ordinary Shares,U
 JUHDY,JANUS HENDERSON GROUP PLC Chess Depositary Interests (Jersey),U
 JUHL,"Juhl Energy, Inc. Common Stock",U
@@ -3628,7 +3627,7 @@ LDRUF,Lidco Group Ltd Ordinary Shares,U
 LDRXF,Leader Energy Services Ltd New Common Shares (Canada),U
 LDSCY,Land Securities Group Plc American Depositary Receipts - Unsponsored,U
 LDSF,First Trust Exchange-Traded Fund VIII First Trust Low Duration Strategic Focus ETF,NASDAQ
-LDSI,"Life Design Station International, Inc. Common Stock",U
+LDSID,American Picture House Corporation Common Stock,U
 LDSN,Luduson G Inc. Common Stock,U
 LDSVF,Lindt & Sprungli Ag Part Cert Ordinary Shares,U
 LDUR,PIMCO Enhanced Low Duration Active Exchange-Traded Fund,ARCA
@@ -3996,6 +3995,7 @@ LOKB WS,"Live Oak Acquisition Corp. II Redeemable Warrants, each whole warrant e
 LOKM,Live Oak Mobility Acquisition Corp.,NYSE
 LOKM U,"Live Oak Mobility Acquisition Corp. Units, each consisting of one share of Class A common stock, and",NYSE
 LOKM WS,"Live Oak Mobility Acquisition Corp. Warrants, exercisable for one share of Class A common stock at a",NYSE
+LOLCF,FRESHLOCAL SOLUTIONS INC COM (Canada),U
 LOMA,"Loma Negra Compania Industrial Argentina Sociedad Anonima American Depositary Shares (ADSs), each re",NYSE
 LOMLF,Lion One Metals Ltd. Ordinary Shares (Canada),U
 LONCF,LONCOR GOLD INC Ordinary Shares,U
@@ -5587,3 +5587,5 @@ MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFC,Minster Financial Corporation,U
+MTFGF,U K SPAC PLC Ordinary Shares,U
+MTG,MGIC Investment Corp.,NYSE

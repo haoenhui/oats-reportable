@@ -139,7 +139,7 @@ ABPR,"Airborne Security & Protective Services, Inc. New Common Stock",U
 ABQQ,AB INTL GROUP CORP Common Stock,U
 ABR,"Arbor Realty Trust, Inc.",NYSE
 ABR PRD,"Arbor Realty Trust, Inc. 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preferen",NYSE
-ABREV,ARBOR RLTY TR INC PFD SER E Preferred Stock,U
+ABREP,ARBOR RLTY TR INC PFD SER E Preferred Stock,U
 ABRUF,AMERICAN PAC BURATE & LITHIUM LTD Ord Shs Fully Paid (Australia),U
 ABSCF,"AB Science, Paris Ordinary Shares (France)",U
 ABSI,Absci Corporation Common Stock,NASDAQ
@@ -767,6 +767,7 @@ AHLD,ATD NEW HOLDINGS INC Common Stock,U
 AHNMF,Archon Minerals Ltd Ordinary Shares,U
 AHNR,Athena Gold Corporation Common Stock,U
 AHODF,Koninklijke Ahold Delhaize N V  Ordinary Shares,U
+AHPAU,Avista Public Acquisition Corp. II Unit,NASDAQ
 AHPI,"Allied Healthcare Products, Inc. Common Stock",NASDAQ
 AHROQ,"Atheronova, Inc.Common Stock",U
 AHT,"Ashford Hospitality Trust, Inc.",NYSE
@@ -1234,7 +1235,6 @@ AMPY,Amplify Energy Corp.,NYSE
 AMPYW,Amplify Energy Corp. Warrant,U
 AMR,"Alpha Metallurgical Resources, Inc.",NYSE
 AMRA,"American Racing Capital, Inc. Common Stock",U
-AMRB,American River Bankshares Common Stock,NASDAQ
 AMRC,"Ameresco, Inc.",NYSE
 AMRCF,AM Resources Corp. Common Shares Canada (CA),U
 AMRK,"A-Mark Precious Metals, Inc. Common Stock",NASDAQ
@@ -3020,6 +3020,7 @@ BKLC,BNY Mellon US Large Cap Core Equity ETF,ARCA
 BKLIF,Blockmint Technologies Common Shares (Canada),U
 BKLLF,CODEBASE VENTURES INC  Ordinary Shares,U
 BKLN,Invesco Senior Loan ETF,ARCA
+BKLPF,BUKALAPAK.COM PT TBK Ordinary Shares,U
 BKLRF,Berkeley Energy Ltd Ordinary Shares,U
 BKMC,BNY Mellon US Mid Cap Core Equity ETF,ARCA
 BKMM,"Bekem Metals, Inc. Common Stock",U
@@ -3048,7 +3049,7 @@ BKSH,"Berkshire Homes, Inc. Common Stock",U
 BKSLF,Banks IS Gold Ltd Ordinary Shares (Canada),U
 BKT,BlackRock Income Trust Inc.,NYSE
 BKTI,BK Technologies Corporation,AMEX
-BKTPF,Cruz Cobalt Corp Common Shares,U
+BKTPF,Cruz Battery Metals Corp. Common Shares,U
 BKTRF,Black Rock Mining Ltd. Ordinary Shares (Australia),U
 BKU,"Bankunited, Inc.",NYSE
 BKUCF,Blue Sky Uranium Corp Common Shares,U
@@ -3300,6 +3301,7 @@ BNSPF,BANK N S HALIFAX NON-CUM 5YR RATE RESET PFD SHS SER 40 (Canada),U
 BNTC,Benitec Biopharma Inc. Common Stock,NASDAQ
 BNTGF,BRENNTAG SE Ordinary Shares,U
 BNTGY,Brenntag SE American Depositary Receipts - Unsponsored,U
+BNTOF,"BENEFIT ONE INC, TOKYO Ordinary Shares",U
 BNTRF,Benton Resources Inc. Com (Canada),U
 BNTT,Bnet Media Group Inc Common Stock,U
 BNTX,BioNTech SE American Depositary Share,NASDAQ
@@ -3853,7 +3855,7 @@ BWX,SPDR Bloomberg Barclays International Treasury Bond ETF,ARCA
 BWXT,"BWX Technologies, Inc.",NYSE
 BWXXF,BWX LTD Ordinary Shares (Australia),U
 BWZ,SPDR Bloomberg Barclays Short Term International Treasury Bond ETF,ARCA
-BX,The Blackstone Group Inc.,NYSE
+BX,Blackstone Inc.,NYSE
 BXBLY,Brambles Ltd Sponsored ADR (Australia),U
 BXC,BlueLinx Holdings Inc.,NYSE
 BXDIF,Brookfield Asset Management Inc Preference Shares Series 13 Class A (Canada),U
@@ -4882,7 +4884,7 @@ CISO,CERBERUS CYBER SENTINEL CORP Common Stock,U
 CISXF,China Steel Corp GDR representing 20 Shs,U
 CIT,CIT Group Inc.,NYSE
 CIT PRB,"CIT Group Inc. 5.625 % Non-Cumulative Perpetual Preferred Stock, Series B",NYSE
-CITAF,China Shipping Container Lines Co Ltd Shares H  (China),U
+CITAF,COSCO SHIPPING DEV CO LTD Ordinary Shares,U
 CITAY,Cosco Shipping Development Co Ltd American Depositary Receipts - Unsponsored,U
 CITY,"Avalon Correctional Services, Inc. Common Stock",U
 CITZ,Citizens Bancshares Corp South Carolina Common Stock,U
@@ -5587,4 +5589,3 @@ CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
-CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ

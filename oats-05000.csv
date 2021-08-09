@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
 CPK,Chesapeake Utilities,NYSE
 CPKB,Chesapeake Bancorp Common Stock,U
 CPKF,Chesapeake Financial Shares Inc Common Stock,U
@@ -2700,7 +2701,6 @@ ET PRE,Energy Transfer LP 7.600% Series E Fixed-to-Floating Rate Cumulative Rede
 ETAC,E.Merge Technology Acquisition Corp. Class A Common Stock,NASDAQ
 ETACU,E.Merge Technology Acquisition Corp. Unit,NASDAQ
 ETACW,E.Merge Technology Acquisition Corp. Warrant,NASDAQ
-ETAH,"Eternity Healthcare, Inc. Common stock",U
 ETAR,"Entertainment Arts, Inc. New Common Stock",U
 ETB,Eaton Vance Tax-Managed Buy-Write Income Fund,NYSE
 ETBI,Eastgate Biotech Corp. Common Stock,U
@@ -3000,6 +3000,7 @@ EYUUF,Electricity Generating Public Co Ltd Unit Non-Voting Depository Receipt (T
 EZA,iShares MSCI South Africa ETF,ARCA
 EZCL,Ezy Cloud Holding Inc. Common Stock,U
 EZEN,Ezenia! Incorporated Common Stock,U
+EZFL,"EzFill Holdings, Inc. Common Stock",NASDAQ
 EZGO,EZGO Technologies Ltd. Ordinary Shares,NASDAQ
 EZIDF,Ezion Holdings Limited Ordinary Shares (Singapore),U
 EZJ,ProShares Ultra MSCI Japan,ARCA
@@ -3496,7 +3497,6 @@ FLC,Flaherty & Crumrine Total Return Fund Incorporated,NYSE
 FLCA,Franklin FTSE Canada ETF,ARCA
 FLCB,Franklin Liberty U.S. Core Bond ETF,ARCA
 FLCH,Franklin FTSE China ETF,ARCA
-FLCLF,FRESHLOCAL SOLUTIONS INC COM (Canada),U
 FLCO,Franklin Liberty Investment Grade Corporate ETF,ARCA
 FLCX,flooidCX Corp. Common Shares,U
 FLDAY,Fluidra SA American Depositary Receipts - Unsponsored (Spain),U
@@ -5587,3 +5587,5 @@ GWYNF,Genoway Ordinary Shares  France (FR),U
 GWYT,Greenway Technology Common Stock,U
 GXC,SPDR S&P China ETF,ARCA
 GXF,Global X FTSE Nordic Region ETF,ARCA
+GXG,Global X MSCI Colombia ETF,ARCA
+GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ

@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTFGF,U K SPAC PLC Ordinary Shares,U
-MTG,MGIC Investment Corp.,NYSE
 MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGOF,MUSTI GROUP OYJ Ordinary Shares,U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
@@ -855,6 +853,7 @@ NOVNW,"Novan, Inc  Warrant 01/09/2022",U
 NOVRF,NOVA RTY CORP Common Shares,U
 NOVT,Novanta Inc. Common Stock,NASDAQ
 NOVVU,Nova Vision Acquisition Corp. Unit,NASDAQ
+NOVZ,TrueShares Structured Outcome (November) ETF,BATS
 NOW,"SERVICENOW, INC.",NYSE
 NOXL,Noxel Corp Common Stock,U
 NOXOF,Noxopharm Limited Ordinary Shares (Australia),U
@@ -1207,7 +1206,6 @@ NVLPF,NOVA LEAP HEALTH CORP Common Stock (Canada),U
 NVMDF,NOVAMIND INC Common Shares,U
 NVMI,Nova Ltd. Ordinary Shares,NASDAQ
 NVMLF,Navarre Minerals Ltd. Ordinary Shares (Australia),U
-NVMZ,TrueShares Structured Outcome (November) ETF,BATS
 NVNT,"Novint Technologies, Inc. Common Stock",U
 NVNXF,NOVONIX LTD Ordinary Shares Australia(AU ),U
 NVO,Novo-Nordisk A/S,NYSE
@@ -1605,6 +1603,7 @@ OLO,Olo Inc.,NYSE
 OLOXF,"DB Crude Oil Long Exchange Traded Notes due June 1, 2038 (Germany)",U
 OLP,"One Liberty Properties, Inc.",NYSE
 OLVI,"Oliveda International, Inc. Common Stock",U
+OLVOY,OLVI OYJ American Depositary Receipts - Unsponsored,U
 OLVRF,Olivut Res Ltd Common shares (Canada),U
 OLYRF,O Leary Canadian Income Opportunities Fund 2 Unit (Canada),U
 OM,"Outset Medical, Inc. Common Stock",NASDAQ
@@ -2776,7 +2775,7 @@ PMAY,Innovator S&P 500 Power Buffer ETF - May,BATS
 PMBC,Pacific Mercantile Bancorp Common Stock,NASDAQ
 PMBPF,Pembina Pipeline Corporation Reduced Rate Reset Preferred Class A Series 7 (Canada),U
 PMBY,POSTD Merchant Banque Common Stock,U
-PMCBD,"PharmaCyte Biotech, Inc.  Common Stock",U
+PMCB,"PharmaCyte Biotech, Inc.  Common Stock",U
 PMCCF,Peloton Minerals Corporation Common Shares,U
 PMCUF,Pro Medicus Ltd Ordinary Shares (Australia),U
 PMD,Psychemedics Corporation,NASDAQ
@@ -2876,7 +2875,7 @@ PNNTG,PennantPark Investment Corporation 5.50% Notes Due 2024,NASDAQ
 PNNX,"Pennexx Foods, Inc. Common Stock",U
 PNOCF,Penta Ocean Construction Co Ordinary Shares (Japan),U
 PNOV,Innovator S&P 500 Power Buffer ETF - November,BATS
-PNPFD,Pinetree Capital Ltd Ordinary Shares,U
+PNPFF,Pinetree Capital Ltd Ordinary Shares,U
 PNPL,"Pineapple Express, Inc. Common Stock",U
 PNQI,Invesco Exchange-Traded Fund Trust Invesco Nasdaq Internet ETF,NASDAQ
 PNR,Pentair plc,NYSE
@@ -4304,6 +4303,7 @@ RILYN,"B. Riley Financial, Inc. 6.50% Senior Notes Due 2026",NASDAQ
 RILYO,"B. Riley Financial, Inc. 6.75% Senior Notes due 2024",NASDAQ
 RILYP,"B. Riley Financial, Inc. Depositary Shares, each representing a 1/1000th fractional interest in a share of Series A Cumulative Perpetual Preferred Stock",NASDAQ
 RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",NASDAQ
+RILYZ,"B. Riley Financial, Inc. 5.25% Senior Notes due 2028",NASDAQ
 RINF,ProShares Inflation Expectations ETF,ARCA
 RING,iShares MSCI Global Gold Miners Fund,NASDAQ
 RINIF,Rinnai Corp Ordinary Shares,U
@@ -4402,6 +4402,7 @@ RMBL,"RumbleOn, Inc. Class B Common Stock",NASDAQ
 RMBS,Rambus Inc. Common Stock,NASDAQ
 RMCF,"Rocky Mountain Chocolate Factory, Inc. Common Stock",NASDAQ
 RMD,ResMed Inc.,NYSE
+RMDEF,REMEDY ENTMT OYJ Ordinary Shares,U
 RMDFF,Richmond Minerals Inc Ordinary Shares (Canada),U
 RMED,"Ra Medical Systems, Inc",AMEX
 RMES,Red Metal Resources Ltd. Common Stock NEW,U
@@ -5587,3 +5588,4 @@ SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ

@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
@@ -601,7 +600,6 @@ SNIRF,Senior Plc Ordinary Shares,U
 SNKEF,SANKEI REAL ESTATE INC REIT (Japan),U
 SNKOF,Sanko Co Ltd Ordinary Shares (Japan),U
 SNKSY,Renewi plc American Depositary Receipts - Unsponsored,U
-SNKUF,SANKYU INC TOKYO Ordinary Shares Japan(JP ),U
 SNLAF,Sino Land Co Ltd Ord H $1 Par Ordinary Shares,U
 SNLAY,Sino Land Company Ltd Sponsored ADR,U
 SNLC,"Security National Corporation (Sioux City, Iowa) Common Stock",U
@@ -2639,6 +2637,7 @@ TOWTF,Tower One Wireless Corp Ordinary Shares,U
 TOYOF,Toyota Motor Corp Ltd Ord Ordinary Shares,U
 TPAY,Ecofin Digital Payments Infrastructure Fund,ARCA
 TPB,"Turning Point Brands, Inc.",NYSE
+TPBAU,TPB Acquisition Corporation I Unit,NASDAQ
 TPBTF,BETMAKERS TECHNOLOGY GROUP LTD ORDINARY FULLY PAID (Australia),U
 TPC,Tutor Perini Corporation,NYSE
 TPCAF,TIPCO ASPHALT PUB CO LTD Ordinary Shares,U
@@ -2787,7 +2786,9 @@ TRNX,TARONIS TECHNOLOGIES INC Common Stock,U
 TROG,Triumph Oil & Gas Common Stock,U
 TROIF,NEWORIGIN GOLD CORP Ordinary Shares,U
 TROLB,"Tootsie Roll Industries, Inc. Class B Common Stock",U
+TRON,Corner Growth Acquisition Corp. 2 Class A Ordinary Share,NASDAQ
 TRONU,Corner Growth Acquisition Corp. 2 Units,NASDAQ
+TRONW,Corner Growth Acquisition Corp. 2 Warrants,NASDAQ
 TROUF,Troubadour Resources Inc Common Shares (Canada),U
 TROW,"T. Rowe Price Group, Inc. Common Stock",NASDAQ
 TROX,TRONOX LIMITED CL A ORDINARY SHARES,NYSE
@@ -4858,6 +4859,7 @@ WRMCF,WHITE ROCK MINERALS LTD Ordinary Shares,U
 WRMK,Watermark Lodging Trust Inc Common Shares Cl A,U
 WRN,Western Copper and Gold Corporation,AMEX
 WRPSF,SILVER X MNG CORP Common Shares,U
+WRPT,WARPSPEED TAXI INC Common Stock,U
 WRRI,"Wari, Inc. Common Stock",U
 WRRNF,Westcore Energy Ltd Common Shares,U
 WRRZF,WALKER RIV RES CORP Ordinary Shares (Canada),U
