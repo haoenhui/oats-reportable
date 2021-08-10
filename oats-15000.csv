@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGOF,MUSTI GROUP OYJ Ordinary Shares,U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
 MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
@@ -243,7 +242,6 @@ NACP,Impact Shares NAACP Minority Empowerment ETF,ARCA
 NACQF,NextPoint Financial Inc Other,U
 NAD,Nuveen Quality Municipal Income Fund,NYSE
 NADA,"North American Datacom, Inc. Common Stock",U
-NAECF,National Arts Entertainment & Culture Group Ltd Ordinary Shares (Bermuda),U
 NAEX,"National Art Exchange, Inc. Common Shares",U
 NAFS,"North America Frac Sand, Inc. Common Stock",U
 NAGGF,NAGA GROUP AG Common Shares (Germany Federal Republic),U
@@ -1127,7 +1125,6 @@ NTWB,Northwest Bk & Tr Co Davenport New Common Stock,U
 NTWK,NetSol Technologies Inc. Common  Stock,NASDAQ
 NTWN,"Newtown Lane Marketing, Incorporated Common Stock",U
 NTXFF,Natixis Ordinary Shares (France),U
-NTXFY,Natixis Unsponsored ADR (France),U
 NTXVF,Nexteer Automotive Group Ltd. HKD Ordinary Shares (Cayman Islands),U
 NTZ,"Natuzzi, S.p.A",NYSE
 NUAG,Nuveen Enhanced Yield U.S. Aggregate Bond ETF,ARCA
@@ -1973,6 +1970,7 @@ OXLC,Oxford Lane Capital Corp. Common Stock,NASDAQ
 OXLCL,Oxford Lane Capital Corp. 6.75% Notes due 2031,NASDAQ
 OXLCM,Oxford Lane Capital Corp. 6.75% Series 2024 Term Preferred Stock,NASDAQ
 OXLCP,Oxford Lane Capital Corp. 6.25% Series 2027 Term Preferred Shares,NASDAQ
+OXLNV,Oxford Lane Capital Corp 6% Series 2029 Preferred Stock,U
 OXM,"Oxford Industries, Inc.",NYSE
 OXNXF,Onxeo SA Ordinary Shares Cat P (France),U
 OXSQ,Oxford Square Capital Corp. Common Stock,NASDAQ
@@ -2775,7 +2773,7 @@ PMAY,Innovator S&P 500 Power Buffer ETF - May,BATS
 PMBC,Pacific Mercantile Bancorp Common Stock,NASDAQ
 PMBPF,Pembina Pipeline Corporation Reduced Rate Reset Preferred Class A Series 7 (Canada),U
 PMBY,POSTD Merchant Banque Common Stock,U
-PMCB,"PharmaCyte Biotech, Inc.  Common Stock",U
+PMCB,"PharmaCyte Biotech, Inc. Common Stock",NASDAQ
 PMCCF,Peloton Minerals Corporation Common Shares,U
 PMCUF,Pro Medicus Ltd Ordinary Shares (Australia),U
 PMD,Psychemedics Corporation,NASDAQ
@@ -4289,7 +4287,6 @@ RIGL,"Rigel Pharmaceuticals, Inc. Common Stock",NASDAQ
 RIGMF,Ridgestone Mining Inc Common Shares (Canada),U
 RIGS,RiverFront Strategic Income Fund,ARCA
 RIGZ,Viridi Cleaner Energy Crypto-Mining & Semiconductor ETF,ARCA
-RIHC,Rorine International Holding Corp. Common Stock,U
 RIHT,"Rightscorp, Inc. Common Stock",U
 RIII,"Renavotio, Inc. Common Stock",U
 RIINF,"Braveheart Resources, Inc.  Common Shares",U
@@ -4499,6 +4496,7 @@ RNWF,"Renewal Fuels, Inc. Common Stock",U
 RNWHF,Renew Holdings PLC Ordinary Shares (United Kingdom),U
 RNWK,"RealNetworks, Inc. Common Stock",NASDAQ
 RNWR,808 Renewable Energy Corp. Common,U
+RNXT,"RenovoRx, Inc. Common Stock",NASDAQ
 ROAD,"Construction Partners, Inc. Class A Common Stock",NASDAQ
 ROAG,"Rogue One, Inc. Common Stock",U
 ROAM,Hartford Multifactor Emerging Markets ETF,ARCA
@@ -4943,6 +4941,7 @@ SARCF,SARASELECT NAMEN -ANTEILE (Switzerland),U
 SARDF,SANFORD LTD O N (New Zealand),U
 SARDY,Sanford Ltd Unsponsored ADR (New Zealand),U
 SAREF,Sabre Resources Ltd Ordinary Shares (Austrailia),U
+SARMF,Southern Arc Minerals Inc Class A Shares,U
 SARSF,Canada House Wellness Group Inc. Ordinary Shares,U
 SARTF,Sartorius Ag Ordinary Shares,U
 SASDF,SAS AB Stockholm Ordinary Shares (Sweden),U
@@ -5589,3 +5588,4 @@ SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U

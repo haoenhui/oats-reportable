@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
@@ -520,7 +519,7 @@ SMTC,Semtech Corporation Common Stock,NASDAQ
 SMTEF,Smart Eye Aktiebolag Share AK (Sweden),U
 SMTGF,"SMA Solar Technology Ag, Niestetal Ordinary shares (Germany)",U
 SMTGY,SMA Solar Technology AG Unsponsored ADR (Germany),U
-SMTHV,SUMMIT HOTEL PPTYS INC CUM RED PFD SER F,U
+SMTHP,SUMMIT HOTEL PPTYS INC CUM RED PFD SER F,U
 SMTI,Sanara MedTech Inc. Common Stock,NASDAQ
 SMTK,"SmartKem, Inc. Common Stock",U
 SMTLF,GCL New Energy Holdings Ltd. Ordinary Shares,U
@@ -877,8 +876,6 @@ SPKAU,SPK Acquisition Corp Unit,NASDAQ
 SPKB,Silver Spike Acquisition Corp II Class A Ordinary Shares,NASDAQ
 SPKBU,Silver Spike Acquisition Corp II Units,NASDAQ
 SPKBW,Silver Spike Acquisition Corp II Warrant,NASDAQ
-SPKE,"Spark Energy, Inc. Class A Common Stock",NASDAQ
-SPKEP,"Spark Energy, Inc. 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 SPKKY,Spark New Zealand Limited ADS,U
 SPKOY,Sinopec Kantons Holdings Ltd. Unsponsored ADR (Bermuda),U
 SPKTF,SPECTRA PRODS INC Ordinary Shares,U
@@ -1875,6 +1872,7 @@ TBNGY,PT Bukit Asam Persero TBK American Depositary Receipts - Unsponsored,U
 TBNK,Territorial Bancorp Inc. Common Stock,NASDAQ
 TBPH,"Theravance Biopharma, Inc. Ordinary Shares",NASDAQ
 TBPMF,Tetra Bio-Pharma Inc. Ordinary Shares,U
+TBRIF,Therma Bright Inc Ordinary Shares (Canada),U
 TBSA,TB SA Acquisition Corp Class A Ordinary Share,NASDAQ
 TBSAU,TB SA Acquisition Corp Unit,NASDAQ
 TBSAW,TB SA Acquisition Corp Warrant,NASDAQ
@@ -1993,6 +1991,7 @@ TDSC,Cabana Target Drawdown 10 ETF,ARCA
 TDSD,Cabana Target Drawdown 13 ETF,ARCA
 TDSE,Cabana Target Drawdown 16 ETF,ARCA
 TDSGF,Telo Genomics Corp Ordinary Shares,U
+TDSLV,TELEPHONE & DATA SYS INC DEP SHS REPSTG 1/1000TH PERP PFD SER VV Depositary Shares,U
 TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund,ARCA
 TDTRF,Trident Royalties PLC Ordinary Shares (United Kingdom),U
 TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund,ARCA
@@ -2231,7 +2230,6 @@ THQ,TEKLA HEALTHCARE OPPORTUNITIES FUND,NYSE
 THQQF,Embracer Group AB Ordinary Shares,U
 THR,"THERMON GROUP HOLDINGS, INC.",NYSE
 THRA,Therma-Med Inc .  Common Stock,U
-THRBF,Therma Bright Inc Ordinary Shares (Canada),U
 THRGF,SSGA SPDR ETFS EUROPE II PLC SSGA SPDR ETFS EUROPE II PLC THOMSON REUTERS GBL CONVERT BD Exchange Traded Fund,U
 THRM,Gentherm Inc Common Stock,NASDAQ
 THRO,Theron Resource Group Common Stock,U
@@ -2352,7 +2350,6 @@ TKHVY,Turk Hava Yallari Ao Unsponsored ADR (Turkey),U
 TKIAF,TAIKISHA LTD SHS (Japann),U
 TKIDU,Tru Kids Parent LLC Unit,U
 TKIEF,Tokyo Keiki Inc Ordinary Shares,U
-TKINF,Takasago International Ordinary Shares,U
 TKKHF,Tikehau Capital Partners Ordinary Shares (France),U
 TKKYY,Turkiye Sise Ve Cam Fabikalari AS JSC American Depositary Receipts - Unsponsored (Turkey),U
 TKLS,"Trutankless, Inc. Common Stock",U
@@ -2606,6 +2603,7 @@ TOL,"Toll Brothers, Inc.",NYSE
 TOLWF,TRICAN WELL SERVICE LTD Ordinary Shares,U
 TOLZ,ProShares DJ Brookfield Global Infrastructure ETF,ARCA
 TOMDF,Todos Med Ltd Ordinary Shares (Israel),U
+TOMOF,Tomo Holdings Ltd Ordinary Shares (Cayman Islands),U
 TOMYY,Tomy Co Ltd American Depositary Receipts - Unsponsored,U
 TOMZ,"TOMI Environmental Solutions, Inc. Common Stock",NASDAQ
 TONOF,TOENEC CORP SHS (Japan),U
@@ -3351,7 +3349,6 @@ UHS,"Universal Health Services, Inc. Class B",NYSE
 UHT,Universal Health Realty Income Trust,NYSE
 UI,Ubiquiti Inc. Common Stock,NYSE
 UIBGF,UIB Group Limited Ordinary Shares (Cayman Islands),U
-UIFD,Unifunds Limited Common Stock,U
 UIHC,United Insurance Holdings Corp. Common Stock,NASDAQ
 UILCF,SINGAPORE LD GROUP LTD Ordinary Shares,U
 UILCY,SINGAPORE LD GROUP LTD American Depositary Receipts - Unsponsored,U
@@ -3542,6 +3539,7 @@ URNM,NorthShore Global Uranium Mining ETF,ARCA
 URNXF,Magnis Energy Technologies Ltd Ordinary Shares,U
 UROY,Uranium Royalty Corp. Common Stock,NASDAQ
 URPLF,New Klondike Exploration Ltd. Ordinary Shares,U
+URRNF,Twenty Seven Co Ltd Ordinary Shares (Australia),U
 URTH,iShares MSCI World ETF,ARCA
 URTY,ProShares UltraPro Russell2000,ARCA
 URVNF,Uravan Minerals Inc Common Shares (Canada),U
@@ -3631,7 +3629,6 @@ USTB,VictoryShares USAA Core Short-Term Bond ETF,ARCA
 USTC,USA Real Estate Holding Company Common Stock,U
 USUTF,SSGA SPDR ETFS Europe II Plc S&P US utilities Select Sector USD (UCITS) Exchange Traded Fund   Ireland (IE),U
 USVM,VictoryShares USAA MSCI USA Small Cap Value Momentum ETF,ARCA
-USVR,US VR Global.com Inc. Common Stock,U
 USWF,"U.S. Wind Farming, Inc. Common Stock",U
 USWS,"U.S. Well Services, Inc. Class A Common Stock",NASDAQ
 USWSW,"U.S. Well Services, Inc. Warrants",NASDAQ
@@ -3922,12 +3919,14 @@ VHIBF,VITALHUB CORP COM NO PAR (Canada),U
 VHLD,VECTOR 21 HLDGS INC Common Stock,U
 VHT,Vanguard Health Care ETF,ARCA
 VHUB,Vapor Hub International Inc. Common Stock,U
+VIA,"Via Renewables, Inc. Class A Common Stock",NASDAQ
 VIAAY,Vienna International Airport Sponsored ADR (Austria),U
 VIAC,ViacomCBS Inc. Class B Common Stock,NASDAQ
 VIACA,ViacomCBS Inc. Class A Common Stock,NASDAQ
 VIACP,ViacomCBS Inc. 5.75% Series A Mandatory Convertible Preferred Stock,NASDAQ
 VIAO,"VIA optronics AG American Depositary Shares, each representing one-fifth of an Ordinary Share",NYSE
 VIAP,"VIA Pharmaceuticals, Inc. Common Stock",U
+VIASP,"Via Renewables, Inc. 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 VIAV,Viavi Solutions Inc. Common Stock,NASDAQ
 VIBI,Vilacto Bio Inc. Common Stock,U
 VIBVY,Vib Vermoegen AG American Depositary Shares (Unsponsored)(Federal Republic of Germany),U
@@ -4832,6 +4831,7 @@ WPRT,Westport Fuel Systems Inc Common Shares,NASDAQ
 WPS,iShares International Developed Property ETF,ARCA
 WPTIF,WPT Industrial Real Estate Investment Trust Ordinary Shares (Unit Trust) (Canada),U
 WPUR,"WaterPure International, Inc. Common Stock",U
+WQGA U,"World Quantum Growth Acquisition Corp. Units, each consisting of one Class A ordinary share and one-",NYSE
 WQNI,"WQN, Inc. Common Stock",U
 WQTEF,Weiqiao Textile Company Ltd Shs H (China),U
 WRAC U,"Williams Rowland Acquisition Corp. Units, each consisting of one share of common stock and one-half",NYSE

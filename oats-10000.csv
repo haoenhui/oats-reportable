@@ -508,7 +508,6 @@ HLPXF,Hellenic Petroleum SA Sponsored GDR Reg S (Greece),U
 HLRD,Hilliard Corp Common Stock,U
 HLRTF,HILLCREST ENERGY TECHNOLOGIES LTD Ordinary Shares,U
 HLSPF,HELIOSPECTRA AB  Ordinary Shares (Sweden),U
-HLSPY,Heliospectra AB Sponsored American Depository Receipt (Sweden),U
 HLSTF,HALLENSTEIN GLASSONS HOLDINGS LTD Ordinary Shares (New Zealand),U
 HLT,Hilton Worldwide Holdings Inc.,NYSE
 HLTC,HEALTHCARE TR INC Common Stock,U
@@ -841,7 +840,6 @@ HTRC,Hunter Creek Mng Co Unclassified,U
 HTRE,"H3 Enterprises, Inc. Common Stock",U
 HTSC,Here to Serve Holding Corp. Common Stock (DE),U
 HTSF,"Heartsoft, Inc. Common Stock",U
-HTSLF,Hitachi Transport System Ltd. Ordinary Shares (Japan),U
 HTSUF,Hisamitsu Pharmaceutical Co Ltd Ordinary Shares (Japan),U
 HTSUY,Hisamitsu Pharmaceutical Co Inc American Depositary Receipts - Unsponsored (Japan),U
 HTUS,Hull Tactical US ETF,ARCA
@@ -1217,10 +1215,9 @@ ICTAF,ROLLING OPTICS HLDG AB Ordinary Shares,U
 ICTEF,Intl Container Terminal Svcs Ordinary Shares,U
 ICTEY,INTERNATIONAL CONTAINER TERMINAL SVCS INC American Depositary Receipts - Unsponsored (Phillippines),U
 ICTSF,ICTS International N.V. Common Shares,U
-ICTV,ICTV Brands Inc. Common Stock,U
 ICTY,"EyeCity.com, Inc. Common Stock",U
 ICUI,"ICU Medical, Inc. Common Stock",NASDAQ
-ICUSF,"Icecure Medical Ltd, Caesarea Ordinary Shares (Israel)",U
+ICUSF,"Icecure Medical Ltd, Caesarea Ordinary Shares",U
 ICVT,iShares Convertible Bond ETF,BATS
 ICVX,"Icosavax, Inc. Common Stock",NASDAQ
 ID,"PARTS iD, Inc.",AMEX
@@ -2426,6 +2423,7 @@ JANZ,TrueShares Structured Outcome (January) ETF,BATS
 JAPAF,Japan Tobacco Ordinary Shares,U
 JAPAY,Japan Tobacco Unsponsored American Depository Receipt ( Japan),U
 JAPSY,Japan Airlines Ltd Unsponsored ADR (Japan),U
+JAQCU,Jupiter Acquisition Corporation Units,NASDAQ
 JARLF,Jardine Matheson Hldgs Ltd Ord Ordinary Shares,U
 JASSF,Japan Asset Marketing Co Ltd Ordinary Shares (Japan),U
 JASUF,Jasmine International Public Co Ltd Units Non-Voting Depositary Receipt (Thailand),U
@@ -3187,7 +3185,7 @@ KNCRY,Konecranes Plc Unsponsored ADR (Finland),U
 KNDEF,Kinden Corp Ordinary Shares Japan (JP),U
 KNDGF,KINDRED GROUP PLC SWEDISH DEPOSITORY RECEIPT SDB Depositary Receipts,U
 KNDI,"Kandi Technologies Group, Inc Common Stock",NASDAQ
-KNDYF,Kenadyr Mining Holdings Corp Ordinary Shares (Canada),U
+KNDYD,KENADYR METALS CORP Ordinary Shares,U
 KNEOF,Kneomedia Limited Ordinary Shares (Australia),U
 KNFHF,Kingfish Ltd. Ordinary Shares (New Zealand),U
 KNFSF,KIATNAKIN PHATRA BK PUB CO LTD SHS FOREIGN REGISTERED (Thailand),U
@@ -3402,6 +3400,8 @@ KTOS,"Kratos Defense & Security Solutions, Inc. Common Stock",NASDAQ
 KTPPF,Katipult Technology Corp Ordinary Shares (Canada),U
 KTRA,"Kintara Therapeutics, Inc. Common Stock",NASDAQ
 KTRPF,Kito Corp Ordinary shares (Japan),U
+KTTA,Pasithea Therapeutics Corp. Common Stock,NASDAQ
+KTTAW,Pasithea Therapeutics Corp. Warrant,NASDAQ
 KTWIF,Kurita Water Inds Ltd Ordinary Shares,U
 KTWIY,Kurita Wtr Inds Ltd Unsponsored ADR (Japan),U
 KTYCF,KITS EYECARE LTD Common Stock,U
@@ -4111,7 +4111,7 @@ LSMG,Lode-Star Mining Inc. Common Stock,U
 LSMLF,Lodestar Minerals Ltd Ordinary shares (Australia),U
 LSMNF,LASTMINUTE COM N V Common Shares Netherlands(NL ),U
 LSNVY,Lai Sun Dev Co Ltd American Depositary Receipts - Sponsored (Hong Kong),U
-LSPD,Lightspeed POS Inc.,NYSE
+LSPD,Lightspeed Commerce Inc.,NYSE
 LSRCF,Lasertec Corp Ordinary Shares (Japan),U
 LSRCY,Lasertec Corporation American Depositary Receipts - Unsponsored,U
 LSST,Natixis Loomis Sayles Short Duration Income ETF,ARCA
@@ -5252,7 +5252,6 @@ MNXBF,"Monex Group, Inc. Ordinary Shares (Japan)",U
 MNXBY,"Monex Group, Inc. Unsponsored ADR (Japan)",U
 MNXMF,Auteco Minerals Ltd Ordinary Shares,U
 MNXXF,Manganese X Energy Corp Ordinary Shares,U
-MNYFF,Money Forward Inc. Ordinary Shares (Japan),U
 MNZO,"Manzo Pharmaceuticals, Inc. Common Stock",U
 MO,"Altria Group, Inc.",NYSE
 MOAEF,Mongolia Energy Corporation Ltd Ordinary Shares,U
@@ -5589,3 +5588,4 @@ MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
 MTG,MGIC Investment Corp.,NYSE
+MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
