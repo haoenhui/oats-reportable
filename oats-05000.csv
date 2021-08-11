@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
 CPK,Chesapeake Utilities,NYSE
 CPKB,Chesapeake Bancorp Common Stock,U
 CPKF,Chesapeake Financial Shares Inc Common Stock,U
@@ -1106,6 +1105,7 @@ DHUA,"Dahua, Inc. Common Stock",U
 DHX,"DHI Group, Inc.",NYSE
 DHY,Credit Suisse High Yield Bond Fund,AMEX
 DHYAF,ISHARES II PLC HIGH YIELD CORP BOND ESG UCITS ETF (Ireland),U
+DHYDF,ISHARES II PLC HIGH YIELD CORP BOND ESG UCITS ETF USD (Ireland),U
 DIA,SPDR Dow Jones Industrial Average ETF Trust,ARCA
 DIAAF,Diamant Art Corporation Ordinary Shares (Canada),U
 DIAL,Columbia Diversified Fixed Income Allocation ETF,ARCA
@@ -3956,6 +3956,7 @@ FROG,JFrog Ltd. Ordinary Shares,NASDAQ
 FRON,Frontier Acquisition Corp. Class A Ordinary Shares,NASDAQ
 FRONU,Frontier Acquisition Corp. Units,NASDAQ
 FRONW,Frontier Acquisition Corp. Warrant,NASDAQ
+FRPAF,FRANKLIN LIBERTY SHARES ICAV S&P 500 PARIS ALIGNED CLIMATE UCITS ETF USD (ACCUMULATION SHARES) Ireland,U
 FRPC,First Republic Corporation of America (The) Common Stock,U
 FRPH,"FRP Holdings, Inc. Common Stock",NASDAQ
 FRPMF,FORTY PILLARS MNG CORP Common Shares,U
@@ -4910,7 +4911,9 @@ GLSPT,Global SPAC Partners Co. Subunit,NASDAQ
 GLSPU,Global SPAC Partners Co. Unit,NASDAQ
 GLSPW,Global SPAC Partners Co. Warrants,NASDAQ
 GLT,Glatfelter Corporation,NYSE
+GLTA,Galata Acquisition Corp.,AMEX
 GLTA U,"Galata Acquisition Corp. Units, each consisting of one class A ordinary share and one-half of one wa",AMEX
+GLTA WS,"Galata Acquisition Corp. Warrants, each whole warrant exercisable for one class A ordinary share at",AMEX
 GLTC,"GelTech Solutions, Inc. Common Stock",U
 GLTO,"Galecto, Inc. Common Stock",NASDAQ
 GLTR,Aberdeen Standard Physical Precious Metals Basket Shares ETF,ARCA

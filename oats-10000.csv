@@ -233,7 +233,6 @@ HDUGF,Hunter Douglas NV Unclassified,U
 HDUP,"HeadsUp Entertainment International, Inc. Common Stock",U
 HDV,iShares Core High Dividend ETF,ARCA
 HDVTY,Henderson Investment Ltd American Depositary Shares,U
-HDVW,"HD View 360, Inc. Common Stock",U
 HDVY,Health Discovery Corporation Common Stock,U
 HDYNQ,Hyperdynamics Corp Common Stock,U
 HE,"Hawaiian Electric Industries, Inc.",NYSE
@@ -241,6 +240,7 @@ HEAR,Turtle Beach Corporation Common Stock,NASDAQ
 HEDJ,WisdomTree Europe Hedged Equity Fund,ARCA
 HEEM,iShares Currency Hedged MSCI Emerging Markets,BATS
 HEES,"H&E Equipment Services, Inc. Common Stock",NASDAQ
+HEET,Hartford Schroders ESG US Equity ETF,BATS
 HEFA,iShares Currency Hedged MSCI EAFE ETF,BATS
 HEGD,Swan Hedged Equity US Large Cap ETF,BATS
 HEGIF,Hengan International Ordinary Shares,U
@@ -1766,7 +1766,6 @@ INSD,Instadose Pharma Corp. Common Stock,U
 INSE,"Inspired Entertainment, Inc. Common Stock",NASDAQ
 INSEW,INSPIRED ENTMT INC Warrant   10/20/2021,U
 INSG,Inseego Corp. Common Stock,NASDAQ
-INSHF,Inner Spirit Holdings Ordinary Shares,U
 INSI,Insight Select Income Fund,NYSE
 INSM,"Insmed, Inc. Common Stock",NASDAQ
 INSO,"Industry Source Consulting, Inc. Common Stock",U
@@ -1955,6 +1954,7 @@ IRIDQ,Iridium World Communications Ltd. A Shares (United Kingdom),U
 IRIG,Integrated Drilling Equipment Holdings Corp. Common,U
 IRIX,IRIDEX Corporation Common Stock,NASDAQ
 IRJHF,IR JAPAN HLDGS LTD Ordinary Shares (Japan),U
+IRJHY,IR JAPAN HLDGS LTD American Depositary Receipts - Unsponsored (Japan),U
 IRL,NEW IRELAND FUND INC,NYSE
 IRLCF,Israel Corp Ordinary Shares,U
 IRLTF,Intralot SA - Integrated IT Systems and Lottery Services Ordinary Shares,U
@@ -2115,6 +2115,7 @@ ISSXF,IShares Core S&P 500 Index ETF (Canada),U
 ISSZF,iShares V PLC S&P 500 Utilities Sector UCITS ETF (Ireland) Exchange Traded Fund,U
 ISTB,iShares Core 1-5 Year USD Bond ETF,NASDAQ
 ISTC,Instructivision Inc Common Stock,U
+ISTOF,ISHARES STOXX EUROPE 600 TRAVEL & LEISURE DE Shs Holdings (Germany),U
 ISTR,Investar Holding Corporation Common Stock,NASDAQ
 ISTXF,Ishares PLC Treasury Bond 1 3 Year UCITS ETF (Ireland),U
 ISUDF,Ishares IV Plc Ishares Ultrashort Bond Ucits Etf Usd Acc Exchange Traded Fund (Ireland),U
@@ -2655,6 +2656,8 @@ JO,iPath Series B Bloomberg Coffee Subindex Total ReturnSM ETN,ARCA
 JOAN,"JOANN, Inc. Common Stock",NASDAQ
 JOB,GEE Group Inc.,AMEX
 JOBS,"51job, Inc. American Depositary Shares",NASDAQ
+JOBY,"Joby Aviation, Inc.",NYSE
+JOBY WS,"Joby Aviation, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Common Sto",NYSE
 JOE,St. Joe Company,NYSE
 JOET,Virtus ETF Trust II Virtus Terranova U.S. Quality Momentum ETF,NASDAQ
 JOEY,"Joey New York, Inc Common Stock",U
@@ -2695,6 +2698,7 @@ JPM PRL,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th int
 JPM PRM,"JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 4.20% Non",NYSE
 JPMB,JPMorgan USD Emerging Markets Sovereign Bond ETF,ARCA
 JPME,JPMorgan Diversified Return US Mid Cap Equity ETF,ARCA
+JPMTF,JPMORGAN ETFS IRELAND ICAV USD EMERGING MARKETS SOVEREIGN BOND UCITS ETF SHARES,U
 JPN,Xtrackers Japan JPX-Nikkei 400 Equity ETF,ARCA
 JPNCF,JAPAN CASH MACHINE CO LTD SHS (Japan),U
 JPNPY,Japan Post Ins Co Ltd ADS Repstg Com Stk (Japan),U
@@ -3797,6 +3801,8 @@ LIACF,American Lithium Corp. Ordinary Shares,U
 LIBC,Liberty Bancorp (CA) Common Stock,U
 LICH,LIVECHAIN INC Common Stock,U
 LICT,LICT Corporation Common Stock,U
+LICY,Li-Cycle Holdings Corp.,NYSE
+LICY WS,"Li-Cycle Holdings Corp. Redeemable Warrants, each whole warrant exercisable for one Common Share at",NYSE
 LIDM,Limco Del Mar Common Stock,U
 LIFE,"aTyr Pharma, Inc. Common Stock",NASDAQ
 LIFNF,Lifenet Ins Co Ordinary Shares (Japan),U
@@ -4745,7 +4751,6 @@ MERC,Mercer International Inc. Common Stock,NASDAQ
 MERG,Merger Mines Corp. Common Stock,U
 MERR,"Merriman Holdings, Inc Common Stock",U
 MERT,Metropolitan Rty Corp Common Stock,U
-MERVF,Manila Electric Co Ordinary Shares Philippines (PH),U
 MESA,"Mesa Air Group, Inc. Common Stock",NASDAQ
 MESO,Mesoblast Limited American Depositary Shares,NASDAQ
 MET,"MetLife, Inc.",NYSE
@@ -5587,5 +5592,3 @@ MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
-MTG,MGIC Investment Corp.,NYSE
-MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U

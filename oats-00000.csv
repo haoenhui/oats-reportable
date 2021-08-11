@@ -878,6 +878,7 @@ AJIA,Ajia Innogroup Holdings Limited Common Stock,U
 AJINF,"Ajinomoto Company, Inc. Ordinary Shares (Japan)",U
 AJINY,"Ajinomoto Company, Inc. American Depositary Shares",U
 AJISF,Ajis Co Ltd Ordinary Shares,U
+AJLGF,AJ LUCAS GROUP LIMITED SHS (Australia),U
 AJMPF,Ashmore Group Plc Ordinary shares (United Kingdom),U
 AJOY,Ayujoy Herbals Ltd. Common Stock,U
 AJPLF,AJ Plast Public Co Ltd Ordinary Shares (Thailand),U
@@ -1599,7 +1600,7 @@ ARECW,American Resources Corporation Warrants Expiring 08/27/2024,U
 ARES,Ares Management Corporation Class A Common Stock,NYSE
 ARESF,Artis Real Estate Invt Tr Trust Unit (Canada),U
 ARET,"Arete Industries, Inc. Common Stock",U
-AREVF,AREV NanoTec Brands Inc Common Shares,U
+AREVF,AREV LIFE SCIENCES GLOBAL CORP Common Shares,U
 ARFXF,PROMIS NEUROSCIENCES INC Common Shares,U
 ARGC,Arion Group Corp. Common Stock,U
 ARGD,"Argo Group US, Inc. 6.500% Senior Notes due 2042",NYSE
@@ -2597,7 +2598,6 @@ BCSF,"Bain Capital Specialty Finance, Inc.",NYSE
 BCSO,Bancorp Southern Indiana Common Stock,U
 BCTCF,BC TECHNOLOGY GROUP LTD HKD ORD SHS (Cayman Islands),U
 BCTF,BANCORP 34 INC Common Stock,U
-BCTG,BCTG Acquisition Corp. Common Stock,NASDAQ
 BCTX,BriaCell Therapeutics Corp. Common Shares,NASDAQ
 BCTXW,BriaCell Therapeutics Corp. Warrant,NASDAQ
 BCUCF,Brunello Cucinelli S P A Ordinary Shares (Italy),U
@@ -3053,6 +3053,7 @@ BKTRF,Black Rock Mining Ltd. Ordinary Shares (Australia),U
 BKU,"Bankunited, Inc.",NYSE
 BKUCF,Blue Sky Uranium Corp Common Shares,U
 BKUH,"Bakhu Holdings, Corp. Common Stock",U
+BKUI,BNY Mellon Ultra Short Income ETF,ARCA
 BKUT,Bank Utica NY Common Stock,U
 BKUTK,Bank Utica NY Non-Voting Common Stock,U
 BKYI,"BIO-key International, Inc. Common Stock",NASDAQ
@@ -3954,7 +3955,7 @@ CACH,CACHE Inc Common Stock,U
 CACI,CACI INTERNATIONAL CLA,NYSE
 CADE,Cadence Bancorporation,NYSE
 CADGF,Bio Papel Sab de Cv Ordinary Shares (Mexico),U
-CADID,Cadillac Ventures Inc Common Shares,U
+CADIF,Cadillac Ventures Inc Common Shares,U
 CADL,"Candel Therapeutics, Inc. Common Stock",NASDAQ
 CADLF,CADELER AS Ordinary Shares,U
 CADMF,Chemesis Intl Inc Ordinary Shares,U
@@ -4406,6 +4407,7 @@ CEFB,"Central Florida State Bank (Belleview, FL) Common Stock",U
 CEFC,Commercial National Financial Corporation Common Stock,U
 CEFD,ETRACS Monthly Pay 1.5X Leveraged Closed-End Fund Index ETN,ARCA
 CEFS,Saba Closed-End Funds ETF,BATS
+CEGHF,CHINA ED GROUP HLDGS LTD HKD SHS (Cayman Islands),U
 CEGMF,Cerro Grande Mining Corp. Ordinary Shares (Canada),U
 CEHCF,COSMO ENERGY HLDGS CO LTD Ordinary Shares,U
 CEHD,"China Electronics Holdings, Inc. Common Stock",U
@@ -5590,3 +5592,4 @@ CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
+CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ

@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTG,MGIC Investment Corp.,NYSE
+MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
 MTGOF,MUSTI GROUP OYJ Ordinary Shares,U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
 MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
@@ -1958,6 +1960,7 @@ OWRDF,One World Lithium Inc Ordinary Shares,U
 OWUV,One World Universe Inc. Common Stock,U
 OWVI,ONE WORLD VENTURES INC Common Stock,U
 OWWAF,Okuwa Co Ltd Wakayama Ordinary Shares (Japan),U
+OXACU,Oxbridge Acquisition Corp. Unit,NASDAQ
 OXBC,Oxford Bank Corporation (MI) Common Stock,U
 OXBDF,Oxford Biomedical PLC Ordinary Shares,U
 OXBOF,Oxford Biodynamics PLC Ordinary Shares (United Kingdom),U
@@ -2070,6 +2073,7 @@ PARXF,Parex Resources Inc Ordinary Shares (Canada),U
 PASG,"Passage Bio, Inc. Common Stock",NASDAQ
 PASMF,Premier Asset Management Group Ordinary Shares (United Kingdom),U
 PASO,Patient Access Solutions Inc. Common Stock,U
+PASQV,PUBLIC STORAGE DEPOSITARY SH REPSTG PFD SH BEN INT SER Q,U
 PASTF,Plastic Omnium Ordinary Shares (France),U
 PASTY,PLASTIC OMNIUM Unsponsored American Depositary Receipts (France),U
 PATH,"UiPath, Inc.",NYSE
@@ -2264,9 +2268,6 @@ PCYN,Procyon Corp Common Stock,U
 PCYO,Pure Cycle Corporation Common Stock,NASDAQ
 PCYS,"PrimeCare Systems, Inc Common Stock",U
 PD,"PagerDuty, Inc.",NYSE
-PDAC,Peridot Acquisition Corp.,NYSE
-PDAC U,"Peridot Acquisition Corp. Units, each consisting of one Class A ordinary share, and one-half of one",NYSE
-PDAC WS,"Peridot Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one Class A ordina",NYSE
 PDBC,Invesco Actively Managed Exch-Traded Commodity Fd Tr Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,NASDAQ
 PDCE,"PDC Energy, Inc. Common Stock (Delaware)",NASDAQ
 PDCO,"Patterson Companies, Inc. Common Stock",NASDAQ
@@ -2365,7 +2366,8 @@ PETFF,PTT PUBLIC COMPANY LIMITED Ordinary Shares,U
 PETQ,"PetIQ, Inc. Class A Common Stock",NASDAQ
 PETRY,Petrobras Distribuidora American Depositary Receipts - Unsponsored (Brazil),U
 PETS,"PetMed Express, Inc. Common Stock",NASDAQ
-PETV,PetVivo Holdings Inc. Common Stock,U
+PETV,"PetVivo Holdings, Inc. Common Stock",NASDAQ
+PETVW,"PetVivo Holdings, Inc. Warrant",NASDAQ
 PETZ,"TDH Holdings, Inc. Common Shares",NASDAQ
 PEX,ProShares Global Listed Private Equity ETF,BATS
 PEXL,Pacer US Export Leaders ETF,ARCA
@@ -2923,6 +2925,7 @@ POND,Angel Pond Holdings Corporation,NYSE
 POND U,"Angel Pond Holdings Corporation Units, each consisting of one Class A ordinary share and one-third o",NYSE
 POND WS,"Angel Pond Holdings Corporation Redeemable warrants, each whole warrant exercisable for one Class A",NYSE
 PONGF,Atari Shares Prov de Regroupement (France),U
+PONOU,Pono Capital Corp Unit,NASDAQ
 PONT,Pontiac Bancorp Inc Common Stock,U
 POOL,Pool Corporation Common Stock,NASDAQ
 POOSF,Poseidon Concepts Corporation Ordinary Shares (Canada),U
@@ -2981,6 +2984,7 @@ PPGHW,Poema Global Holdings Corp. Warrant,NASDAQ
 PPH,VanEck Vectors Pharmaceutical ETF,NASDAQ
 PPHI,POSITIVE PHYSICIANS HLDGS INC Common Stock,U
 PPHOF,Polyphor AG Namen-AKT (Switzerland),U
+PPHPU,PHP Ventures Acquisition Corp. Units,NASDAQ
 PPIH,"Perma-Pipe International Holdings, Inc. Common Stock",NASDAQ
 PPII,Coenzyme A Inc. Common Stock,U
 PPINF,Philippine Naitonal Bank PNB Ordinary Shares (Philippines),U
@@ -3068,7 +3072,6 @@ PRHB,"Pure H2o Bio-Technologies, Inc. Common Stock New",U
 PRHL,Premier Holding Corp Common Stock,U
 PRI,"PRIMERICA, INC.",NYSE
 PRIEF,"Paleo Resources, Inc.  Ordinary Shares",U
-PRIF PRA,"Priority Income Fund, Inc. 6.375% Series A Term Preferred Stock due 2025",NYSE
 PRIF PRD,"Priority Income Fund, Inc. 7.00% Series D Term Preferred Stock due 2029",NYSE
 PRIF PRE,"Priority Income Fund, Inc. 6.375% Series E Preferred Stock Due 2024",NYSE
 PRIF PRF,"Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 2027",NYSE
@@ -3134,6 +3137,7 @@ PRRCF,Procredit Holding Ag Ordinary Shares (Germany),U
 PRRE,"Praetorian Property, Inc. Common Stock",U
 PRRFY,Premier Foods Plc Unsponsored ADR (UK),U
 PRRMF,Premium Income Corp Ordinary Shares Cl A (Canada),U
+PRRSF,PROSPECT RIDGE RES CORP COM (Canada),U
 PRRUF,Immutep Ltd Ordinary Shares,U
 PRRVF,Providence Gold Mines Inc Ordinary Shares (Canada),U
 PRRWF,Park Lawn Corp Ordinary Shares (Canada),U
@@ -3268,6 +3272,7 @@ PSMMF,Persimmon PLC Ordinary Shares,U
 PSMMY,Persimmon Plc Unsponsored ADR (UK),U
 PSMR,Pacer Swan SOS Moderate (April) ETF,BATS
 PSMT,"PriceSmart, Inc. Common Stock",NASDAQ
+PSMUF,Pt Sinar Mas Multhiartha Tbk Ordinary Shares Series A (Indonesia),U
 PSN,Parsons Corporation,NYSE
 PSNL,"Personalis, Inc. Common Stock",NASDAQ
 PSO,Pearson plc,NYSE
@@ -4474,7 +4479,6 @@ RNNCF,Renaissance Inc Tokyo Ordinary Shares (Japan),U
 RNOPF,Renold Plc Ordinary Shares (United Kingdom),U
 RNP,"Cohen & Steers REIT and Preferred and Income Fund, Inc.",NYSE
 RNR,RenaissanceRe Holdings Ltd.,NYSE
-RNR PRE,RENAISSANCERE HOLDINGS LTD 5.375% SER E,NYSE
 RNR PRF,"RenaissanceRe Holdings Ltd. Depositary Shares, each Representing a 1/1,000th Interest in a 5.750% Se",NYSE
 RNR PRG,"RenaissanceRe Holdings Ltd. Depositary Shares, each representing a 1/1, 000th interest in a share of",NYSE
 RNRG,Global X Funds Global X Renewable Energy Producers ETF,NASDAQ
@@ -4571,6 +4575,7 @@ ROYMF,Royal Mail Plc Shs (United Kingdom),U
 ROYMY,Royal Mail PLC Unsponsored ADR (United Kingdom),U
 ROYTL,Pacific Coast Oil Trust Units Beneficial Int,U
 ROYUF,Royal Unibrew A S Common Shares,U
+ROYUY,ROYAL UNIBREW American Depositary Receipts - Unsponsored (Denmark),U
 RPAI,"RETAIL PROPERTIES OF AMERICA, INC.",NYSE
 RPAR,RPAR Risk Parity ETF,ARCA
 RPAY,Repay Holdings Corporation Class A Common Stock,NASDAQ
@@ -4699,9 +4704,6 @@ RTOBF,Ratos Ab Shs-B Ordinary Shares,U
 RTOKY,Rentokil Initial Plc (Fgn) American Depositary Shares,U
 RTON,"Right On Brands, Inc. Common Stock",U
 RTOXF,Rotork Plc Ord 5p Ordinary Shares,U
-RTP,Reinvent Technology Partners,NYSE
-RTP U,"Reinvent Technology Partners Units, each consisting of one Class A ordinary share and one-fourth of",NYSE
-RTP WS,"Reinvent Technology Partners Redeemable Warrants, each whole warrant exercisable for one Class A ord",NYSE
 RTPPF,Rio Tinto Plc Ordinary Shares,U
 RTPY,Reinvent Technology Partners Y Class A Ordinary Shares,NASDAQ
 RTPYU,Reinvent Technology Partners Y Unit,NASDAQ
@@ -5178,7 +5180,7 @@ SCSKF,SCSK Corp Ordinary Shares (Japan),U
 SCSYF,SSH Communications Security OYJ SHS (Finland),U
 SCTBF,Securitas A B Ordinary Shares SHS-B-,U
 SCTBY,Securitas A B Unsponsored ADR representing B Shares (Sweden),U
-SCTC,SCOUTCAM INC Common Stock,U
+SCTCD,SCOUTCAM INC Common Stock,U
 SCTH,SECURETECH INNOVATIONS INC COM,U
 SCTN,Schimatic Technologies Inc Common Stock,U
 SCTQ,SPECTRA SYS CORP Common Stock,U
@@ -5589,3 +5591,4 @@ SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U

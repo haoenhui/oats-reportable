@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
@@ -1943,7 +1942,7 @@ TCPTF,Thanachart Capital Public Co Ltd. NVDR Shares (Thailand),U
 TCPYF,Ticon Property Fund Units (Thailand),U
 TCRI,TECHCOM INC Common Stock,U
 TCRR,TCR2 Therapeutics Inc. Common Stock,NASDAQ
-TCRRF,Terrace Energy Corp. Ordinary Shares (Canada),U
+TCRRD,Terrace Energy Corp. Common Shares,U
 TCRX,"TScan Therapeutics, Inc. Common Stock",NASDAQ
 TCS,"THE CONTAINER STORE GROUP, INC.",NYSE
 TCTL,Premise Capital Diversified Tactical ETF,BATS
@@ -2220,6 +2219,7 @@ THNVF,THANACHART CAPITAL PUBLIC CO  LTD Ordinary Shares  (Thailand),U
 THO,"Thor Industries, Inc.",NYSE
 THOGF,Toho Gas Co Ltd Ordinary Shares,U
 THOOF,TOHO CO LTD OSAKA Ordinary Shares,U
+THOPF,THAI OIL PUBLIC CO LTD NVDR SHARES (Thailand),U
 THORF,"THOR MINING PLC, BUCKINGHAMSHIRE ORD GBP0.0001 (United Kingdom)",U
 THOXF,BIOPORTO A/S Ordinary Shares,U
 THPFF,Thai President Food Unit Non Voting Depository Receipt (Thailand),U
@@ -2524,6 +2524,7 @@ TNGL,"Tonogold Resources, Inc. Common Stock",U
 TNGMF,True North Gems Inc Common Shares,U
 TNGNQ,"Tengion, Inc. Common Stock",U
 TNGRF,THUNGELA RES LTD Ordinary Shares,U
+TNGX,"Tango Therapeutics, Inc.",NASDAQ
 TNGZF,TNG LTD  Ordinary Shares (Australia),U
 TNHDF,Times Neighborhood Holdings Limited Ordinary Shares (Cayman Islands),U
 TNHPF,Technip SA Ordinary Shares (France),U
@@ -3006,6 +3007,7 @@ TTP,"TORTOISE PIPELINE & ENERGY FUND, INC.",NYSE
 TTRAF,Telstra Corporation Limited Ordinary Shares,U
 TTRHF,Terra Energy Corp Ordinary Shares (Canada),U
 TTRKF,Turk Traktor Ve Ziraat Makineleri AS Ordinary Shares (Turkey),U
+TTRNV,TRITON INTL LTD PERP PREF SER E (Bermuda),U
 TTSH,"Tile Shop Holdings, Inc. Common Stock",NASDAQ
 TTSI,"Tactical Services, Inc. Common Stock",U
 TTSRF,Tartisan Nickel Corp Ordinary Shares,U
@@ -3342,7 +3344,6 @@ UGLDF,Credit Suisse AG Nassau Brh VelocityShares 3x Long Gold ETN,U
 UGP,Ultrapar Participacoes S.A.,NYSE
 UGRO,"urban-gro, Inc. Common Stock",NASDAQ
 UHAL,Amerco Common Stock,NASDAQ
-UHGSF,UNITED HUNTER OIL & GAS Ordinary Shares Canada(CA ),U
 UHID,"Universal Health Services, Inc. Common Stock",U
 UHOIF,Ushio Inc. Ordinary Shares,U
 UHS,"Universal Health Services, Inc. Class B",NYSE
@@ -3788,6 +3789,8 @@ VCTR,"Victory Capital Holdings, Inc. Class A Common Stock",NASDAQ
 VCTY,"Videolocity International, Inc. Common Stock",U
 VCV,INVESCO  CALIFORNIA VALUE MUNI INCOME TRUST,NYSE
 VCVOF,Vinacapital Vietnam Opportnty Fd Ltd Ordinary Shares,U
+VCVVF,VATIC VENTURES CORP COM NO PAR (Canada),U
+VCXAU,10X Capital Venture Acquisition Corp. II Unit,NASDAQ
 VCYE,Velocity Energy Inc. Common Stock,U
 VCYT,"Veracyte, Inc. Common Stock",NASDAQ
 VDAHF,Vinda International Holdings Ltd. Ordinary Shares (Cayman Islands),U
@@ -4128,7 +4131,7 @@ VNUE,"VNUE, Inc. Common Stock",U
 VNWTF,Vecima Networks Inc Ordinary Shares (Canada),U
 VO,Vanguard Mid-Cap ETF,ARCA
 VOAXF,VOLTABOX AG INH O N  Common Stock (Germany Federal Republic),U
-VOBIF,VOBILE GROUP LTD Shs (Cayman Islands),U
+VOBIF,VOBILE GROUP LTD Common Stock,U
 VOC,VOC ENERGY TRUST,NYSE
 VOD,Vodafone Group Plc American Depositary Shares,NASDAQ
 VODAF,Vodacom Group Limited Ordinary Shares (South America),U
