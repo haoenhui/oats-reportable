@@ -355,6 +355,7 @@ ADERW,26 Capital Acquisition Corp. Warrant,NASDAQ
 ADERY,Aida Engineering Ltd ADR,U
 ADES,"Advanced Emissions Solutions, Inc. Common Stock",NASDAQ
 ADEVF,ADEVINTA ASA Ordinary Shares (Norway),U
+ADEVY,Adevinta ASA American Depositary Receipts - Unsponsored,U
 ADEX,Adit EdTech Acquisition Corp,NYSE
 ADEX U,"Adit EdTech Acquisition Corp Units, each consisting of one share of common stock, and one-half of on",NYSE
 ADEX WS,"Adit EdTech Acquisition Corp Redeemable Warrants, each whole warrant exercisable for shares of commo",NYSE
@@ -396,7 +397,7 @@ ADMV,ADAMAS VENTURES INC Common Stock,U
 ADN,"Advent Technologies Holdings, Inc. Class A Common Stock",NASDAQ
 ADNT,Adient plc Ordinary Shares,NYSE
 ADNWW,"Advent Technologies Holdings, Inc. Warrant",NASDAQ
-ADNY,Adino Energy Corporation Common Stock,U
+ADNYD,CAREPAY INC Common Stock,U
 ADOB,Adorbs Inc Common Stock,U
 ADOC,Edoc Acquisition Corp. Class A Ordinary Share,NASDAQ
 ADOCR,Edoc Acquisition Corp. Right,NASDAQ
@@ -447,6 +448,7 @@ ADVWW,Advantage Solutions Inc. Warrant,NASDAQ
 ADVYF,ADVERTY AB SHARE AK (Sweden),U
 ADVZF,Adventus Mng Corp Common Shares,U
 ADWPF,Andrew Peller Ltd Class A Ordinary Shares (Canada),U
+ADWYF,Adways Co Ltd Ordinary Shares (Japan),U
 ADX,"Adams Diversified Equity Fund, Inc",NYSE
 ADXDF,Adex Mining Corp Ordinary Shares,U
 ADXN,Addex Therapeutics Ltd American Depositary Shares,NASDAQ
@@ -600,6 +602,7 @@ AFTLF,"Afrimat Limited, Johannesburg Ordinary Shares (South Africa)",U
 AFTM,"AfterMaster, Inc. Common Stock",U
 AFTPF,Afterpay Ltd Ordinary Shares,U
 AFTPY,AFTERPAY LTD ADR (Australia),U
+AFTR U,"AfterNext HealthTech Acquisition Corp. Units, each consisting of one Class A ordinary share and one-",NYSE
 AFTTF,Afritin Mng Ltd Ordinary Shares (Guernsey),U
 AFTY,Pacer CSOP FTSE China A50 ETF,ARCA
 AFXXF,AFRY AB Ordinary Shares,U
@@ -1028,7 +1031,6 @@ ALMMF,Aluminum Corp China Limited Aluminum Corp China Limited H Shares,U
 ALMTF,Almonty Industries Inc. Ordinary Shares (Canada),U
 ALMY,Alchemy Creative Inc COM,U
 ALNA,"Allena Pharmaceuticals, Inc. Common Stock",NASDAQ
-ALNKF,Arealink Co Ltd Tokyo Ordinary Shares,U
 ALNPF,ANA Holdings Inc. Ordinary Shares,U
 ALNPY,ANA Holdings Inc. Ord American Depositary Shares,U
 ALNRF,Mediclinic Intl PLC Ordinary Shares (United Kingdom),U
@@ -1605,7 +1607,6 @@ ARFXF,PROMIS NEUROSCIENCES INC Common Shares,U
 ARGC,Arion Group Corp. Common Stock,U
 ARGD,"Argo Group US, Inc. 6.500% Senior Notes due 2042",NYSE
 ARGGY,Aston Martin Lagonda Global Holdings plc American Depositary Receipts - Unsponsored,U
-ARGKF,Aggreko Plc Ordinary Shares,U
 ARGL,"Argyle Security, Inc. Common Stock",U
 ARGNF,Argen X NV Ordinary Shares (Netherlands),U
 ARGO,"Argo Group International Holdings, Ltd.",NYSE
@@ -4244,6 +4245,7 @@ CCHI,"Cambridge Capital Holdings, Inc. Common Stock",U
 CCHWF,Columbia Care Inc Common Shares (Canada),U
 CCHZ,Career College Holding Company Inc Common Stock,U
 CCI,Crown Castle Intl. Corp.,NYSE
+CCIFU,CCIF Acquisition Corp. Unit,NASDAQ
 CCIXF,Canadian Imperial Bank Comm Toronto Ont Preference Shares Series 45 Class A (Canada),U
 CCJ,Cameco Corporation,NYSE
 CCJMF,"Melior Resources, Inc Ordinary Shares",U
@@ -4434,6 +4436,7 @@ CENEF,Carenet Inc Tokyo Ordinary shares (Japan),U
 CENH,Centricus Acquisition Corp. Class A Ordinary Share,NASDAQ
 CENHU,Centricus Acquisition Corp. Unit,NASDAQ
 CENHW,Centricus Acquisition Corp. Warrant,NASDAQ
+CENQU,CENAQ Energy Corp. Unit,NASDAQ
 CENT,Central Garden & Pet Company Common Stock,NASDAQ
 CENTA,Central Garden & Pet Company Class A Common Stock Nonvoting,NASDAQ
 CENX,Century Aluminum Company Common Stock,NASDAQ
@@ -4673,9 +4676,6 @@ CHFHF,CHINA ART FINL HLDG LTD Ordinary Shares,U
 CHFHY,China Foods Ltd Unsponsored ADR (China),U
 CHFI,"China Finance, Inc. Common Stock",U
 CHFLF,CHINA FEIHE LTD Ordinary Shares,U
-CHFW,Consonance-HFW Acquisition Corp.,AMEX
-CHFW U,"Consonance-HFW Acquisition Corp. Units, each consisting of one Class A Ordinary Share, and one-third",AMEX
-CHFW WS,"Consonance-HFW Acquisition Corp. Warrants, each whole warrant exercisable for one Class A Ordinary S",AMEX
 CHGCF,Chugai Pharmaceutical Co Ltd Ordinary Shares (Japan),U
 CHGCY,Chugai Pharmaceutical Ltd Unsponsored ADR (Japan),U
 CHGG,"CHEGG, INC.",NYSE
@@ -4814,6 +4814,7 @@ CHYHY,CHR Hansen Hldg A/S SPONSORED ADR (Denmark),U
 CHYI,CHYKINGYOUNG INVT DEV HLDGS INC Common Stock,U
 CHYL,China Senior Living Industry International Holding Corporation Common Stock,U
 CHYMF,Cahya Mata Sarawak Bhd Ordinary Shares (Malaysia),U
+CHYOF,Chiyoda Corp Common Ordinary Shares,U
 CHYPF,HEALTH LOGIC INTERACTIVE INC Ordinary Shares,U
 CHYUF,China Yuhua Education Corporation Limited  HKD Shares (Cayman Islands),U
 CHZHF,China Zhongwang Holdings Ltd Ordinary Shares (Cayman Islands),U
@@ -5388,7 +5389,6 @@ CNTMF,Cansortium Inc Common Stock (Canada),U
 CNTO,"Centor Energy, Inc. Common Stock",U
 CNTQU,Chardan NexTech Acquisition 2 Corp. Unit,NASDAQ
 CNTRF,Centr Brands Corp Common Stock (Canada),U
-CNTSF,Constellation Resources Ltd. Ordinary Shares (Australia),U
 CNTTQ,CANNTRUST HLDGS INC COM (Canada),U
 CNTWW,Contura Energy Inc Wt Exp Ser A Expiring 07/26/2023,U
 CNTX,Context Therapeutics Inc. Common Stock,NASDAQ
@@ -5593,3 +5593,4 @@ CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
 CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
+CPK,Chesapeake Utilities,NYSE

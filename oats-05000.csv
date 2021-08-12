@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPK,Chesapeake Utilities,NYSE
 CPKB,Chesapeake Bancorp Common Stock,U
 CPKF,Chesapeake Financial Shares Inc Common Stock,U
 CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
@@ -2083,7 +2082,6 @@ EHVVF,Ehave Inc Ordinary Shares,U
 EHYD,"Ehydrogen Solutions, Inc. Common Stock",U
 EIC,Eagle Point Income Company Inc.,NYSE
 EICAF,Enegrica Mtr Co SPA Ordinary Shares (Italy),U
-EICSF,Electricite de Strasbourg Ordinary Shares (France),U
 EIDO,iShares MSCI Indonesia ETF,ARCA
 EIFZF,Exchange Income Corp. Ordinary Shares (Canada),U
 EIG,"Employers Holdings, Inc.",NYSE
@@ -2498,7 +2496,6 @@ EPWDF,Electric Power Development Co EPDC Ordinary Shares (Japan),U
 EPWR,Empowerment & Inclusion Capital I Corp.,NYSE
 EPWR U,"Empowerment & Inclusion Capital I Corp. Units, each consisting of one share of Class A common stock",NYSE
 EPWR WS,"Empowerment & Inclusion Capital I Corp. Redeemable warrants, each whole warrant exercisable for one",NYSE
-EPXY,"EPOXY, INC. Common Stock",U
 EPYFF,E-Play Digital Inc Ordinary Shares,U
 EPZM,"Epizyme, Inc. Common Stock",NASDAQ
 EQ,"Equillium, Inc. Common Stock",NASDAQ
@@ -3379,7 +3376,7 @@ FHBI,BAYFIRST FINL CORP Common Stock,U
 FHGDF,Founder Holdings Ltd Ordinary Shares,U
 FHI,"Federated Hermes, Inc.",NYSE
 FHILF,Freehill Mining Ltd Ordinary Shares (Australia),U
-FHLB,Friendly Hills Bank (CA) Common Stock,U
+FHLB,FRIENDLY HILLS BANCORP Common Stock,U
 FHLC,Fidelity MSCI Health Care Index ETF,ARCA
 FHLIF,F H L I Kyriakidis Marbles Granites SA Ordinary Shares (Registered with Vote),U
 FHN,First Horizon Corporation,NYSE
@@ -3430,6 +3427,7 @@ FINMY,Leonardo S.P.A. American Depositary Receipts - Unsponsored,U
 FINN,"First National of Nebraska, Inc. Common Stock",U
 FINS,Angel Oak Financial Strategies Income Term Trust,NYSE
 FINV,"FinVolution Group American depositary shares, each representing five Class A ordinary shares",NYSE
+FINW,FinWise Bancorp Common Stock,NASDAQ
 FINX,Global X Funds Global X FinTech ETF,NASDAQ
 FIOGF,Fiore Gold Ltd Ordinary Shares (Canada),U
 FIORF,Fiore Cannabais Ltd  Ordinary Shares,U
@@ -3540,6 +3538,7 @@ FLL,"Full House Resorts, Inc. Common Stock",NASDAQ
 FLLA,Franklin FTSE Latin America,ARCA
 FLLHF,Fullshare Holdings Ltd Ordinary Shares (Cayman Islands),U
 FLLIY,Folli Follie Group Unsponsored ADR (Greece),U
+FLLLF,FEEL FOODS LTD Ordinary Shares,U
 FLLV,Franklin Liberty U.S. Low Volatility ETF,ARCA
 FLLWF,Fullwealth International Group Holdings Ltd Ordinary Shares (Cayman Islands),U
 FLLZ,Fellazo Corp Common Stock,U
@@ -4155,6 +4154,7 @@ FTTRF,Forterra Plc Ordinary Shares Gbp0.01 (United Kingdom),U
 FTUAF,Fuller Smith & Turner Plc A Ordinary Shares (United Kingdom),U
 FTV,Fortive Corporation,NYSE
 FTVIU,FinTech Acquisition Corp. VI Units,NASDAQ
+FTVIW,FinTech Acquisition Corp. VI Warrants,NASDAQ
 FTWS,Flitways Technology Inc Common Stock,U
 FTWYF,Freightways Ltd Ordinary Shares (New Zealand),U
 FTWYY,Freightways Ltd Unsponsored ADR (New Zealand),U
@@ -5257,6 +5257,7 @@ GRLGF,"Greatland Gold PLC, London, Ordinary Shares  (United Kingdom)",U
 GRLT,"Grillit, Inc. Common Stock",U
 GRLVF,Group Eleven Res Corp Ordinary Shares (Canada),U
 GRMC,Goldrich Mining Company Common Stock,U
+GRMHF,GREENTOWN MGMT HLDGS CO LTD Ordinary Shares,U
 GRMN,Garmin Ltd. Common Stock (Switzerland),NASDAQ
 GRMWF,TPCO HLDG CORP WT EXP 01/15/2026 Warrant,U
 GRN,iPath Series B Carbon Exchange-Traded Notes,ARCA
@@ -5340,7 +5341,6 @@ GRYEF,"AU MIN AFRICA PTY, LTD. (South Africa)Common Stock",U
 GRYG,"Green Energy Group, Inc. Common Stock",U
 GRYN,Green Hygienics Holdings Inc. Common Stock,U
 GRYRF,GEO ENERGY RES LTD Ordinary Shares (Singapore),U
-GRYW,Grayling Wireless USA Inc Common Stock,U
 GRZZP,Grizzly Energy LLC Preferred Series A,U
 GRZZU,"Grizzly Energy, LLC Series C Common Unit",U
 GS,Goldman Sachs Group Inc.,NYSE
@@ -5571,7 +5571,6 @@ GWLLF,Great Wall Motor Company Ltd Ordinary Shares H (China),U
 GWLLY,Great Wall Motor Company Ltd Unsponsored ADR (China),U
 GWLOF,Great West Lifeco Inc 1st Preferred Series F 5.9% (Canada),U
 GWMGF,"Great Western Minerals Group, Ltd. Ordinary Shares (Canada)",U
-GWON,Grandwon Corp. Common Stock,U
 GWOX,"Goodheart-Willcox Company, Inc. (The) Common Stock",U
 GWPC,"Wholehealth Products, Inc. Common Stock",U
 GWPD,"GP Solutions, Inc. Common Stock",U
@@ -5593,3 +5592,5 @@ GXC,SPDR S&P China ETF,ARCA
 GXF,Global X FTSE Nordic Region ETF,ARCA
 GXG,Global X MSCI Colombia ETF,ARCA
 GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
+GXIIU,GX Acquisition Corp. II Unit,NASDAQ
+GXIIW,GX Acquisition Corp. II Warrant,NASDAQ

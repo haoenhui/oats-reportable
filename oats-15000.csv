@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTG,MGIC Investment Corp.,NYSE
-MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
-MTGOF,MUSTI GROUP OYJ Ordinary Shares,U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
 MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
 MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
@@ -228,6 +225,7 @@ MZHOF,Mizuho Financial Group Inc Tokyo Ordinary Shares,U
 MZPS,"Myzipsoft, Inc. Common Stock",U
 MZTFF,Mizrahi Tefahot Bank Ltd Ordinary Shares (Israel),U
 MZTLF,John Menzies Plc Ordinary Shares (United Kingdom),U
+MZWAF,Maezawa Kasei Industries Co Ltd Ordinary Shares (Japan),U
 MZZ,ProShares UltraShort MidCap400,ARCA
 MZZMF,Matador Mining Ltd. Ordinary Shares (Australia),U
 NAAC,North Atlantic Acquisition Corporation Class A Ordinary Share,NASDAQ
@@ -772,7 +770,6 @@ NNGPF,NN Group NV Ordinary Shares (Netherlands),U
 NNGRF,NANOREPRO AG SHS (Germany Federal Republic),U
 NNGRY,NN Group NV American Depositary Receipts - Unsponsored (Netherlands),U
 NNGVF,Tesoro Minerals Corp. Common Shares (Canada),U
-NNHHF,FEEL FOODS LTD Ordinary Shares,U
 NNI,"Nelnet, Inc. Class A",NYSE
 NNLX,"NanoLogix, Inc. Common Stock",U
 NNMIF,Nearctic Nickel Mines Inc Ordinary Shares (Canada),U
@@ -2435,6 +2432,7 @@ PFSMF,PERFECT SHAPE MEDICAL LTD Ordinary Shares,U
 PFSW,"PFSweb, Inc. Common Stock",NASDAQ
 PFTAU,Portage Fintech Acquisition Corporation Unit,NASDAQ
 PFTI,Puradyn Filter Technologies Incorporated Common Stock,U
+PFTY,PARALLEL FLIGHT TECHNOLOGIES INC CL B,U
 PFUT,Putnam Sustainable Future ETF,ARCA
 PFWIQ,"Petrone Worldwide, Inc. Common Stock",U
 PFX,PhenixFIN Corporation Common Stock,NASDAQ
@@ -2753,6 +2751,7 @@ PLTYF,"Plastec Technologies, Ltd Ordinary Shares (Cayman Islands)",U
 PLUG,"Plug Power, Inc. Common Stock",NASDAQ
 PLUNF,Pt Lautan Luas Tbk Ordinary Shares,U
 PLUS,ePlus inc. Common Stock,NASDAQ
+PLVFF,PLANT VEDA FOODS LTD Common Stock,U
 PLW,Invesco Exchange-Traded Fund Trust II Invesco 1-30 Laddered Treasury ETF,NASDAQ
 PLWN,Pinelawn Cemetery Common Stock,U
 PLWY,"Peoplesway.Com, Inc. Common Stock",U
@@ -2824,6 +2823,7 @@ PMT PRB,PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate
 PMTRF,Precious Metals Bullion Trust Units (Canada),U
 PMTS,CPI Card Group Inc. Common Stock,NASDAQ
 PMTYF,Playmates Toys Ltd Ordinary shares (Bermuda),U
+PMUHF,Pt Multistrada Arah Sarana Tbk Ordinary Shares (Indonesia),U
 PMVC,PMV Consumer Acquisition Corp.,NYSE
 PMVC U,"PMV Consumer Acquisition Corp. Units, each consisting of one share of Class A common stock and one-h",NYSE
 PMVC WS,"PMV Consumer Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for one share of",NYSE
@@ -2885,6 +2885,7 @@ PNRLY,PARINGA RES LTD American Depositary Receipts - Sponsored,U
 PNRXF,Porto Energy Corp. Ordinary Shares (Canada),U
 PNT,POINT Biopharma Global Inc. Common Stock,NASDAQ
 PNTG,"The Pennant Group, Inc. Common Stock",NASDAQ
+PNTHF,POINTSBET HLDGS LTD Rights   08/20/2021,U
 PNTLF,PENTANET LTD ORDINARY FULLY PAID (Australia),U
 PNTM,Pontem Corporation,NYSE
 PNTM U,"Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeem",NYSE
@@ -4344,6 +4345,8 @@ RKHNF,"Rockhaven Resources, Ltd. Ordinary Shares (Canada)",U
 RKIGF,Reko Intl Grp Inc Ordinary Shares,U
 RKLC,Rockelle Corp. Common  Stock,U
 RKLIF,Rentokil Initial 2005 Plc Ordinary Shares,U
+RKLY,Rockley Photonics Holdings Limited,NYSE
+RKLY WS,"Rockley Photonics Holdings Limited Warrants, each warrant exercisable for one ordinary share at an e",NYSE
 RKMSF,Rokmaster Resources Corp. Common Shares,U
 RKNCF,RIKEN CORP SHS (Japan),U
 RKNEF,Optiva Inc. Ordinary Shares,U
@@ -5156,9 +5159,6 @@ SCOO,"School Specialty, Inc. Com",U
 SCOR,"comScore, Inc. Common Stock",NASDAQ
 SCOTF,Scout24 AG Ordinary Shares (Germany),U
 SCPAF,Shopping Centres Australasia Property Group Stapled Security (Australia),U
-SCPE,SC Health Corporation,NYSE
-SCPE U,"SC Health Corporation Units, each consisting of one Class A ordinary share, $0.0001 par value, and o",NYSE
-SCPE WS,"SC Health Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an",NYSE
 SCPH,scPharmaceuticals Inc. Common Stock,NASDAQ
 SCPJ,Scope Industries Common Stock,U
 SCPKF,7C SOLARPARKEN AG O N (Germany),U
@@ -5592,3 +5592,4 @@ SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U

@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GXIIU,GX Acquisition Corp. II Unit,NASDAQ
-GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
 GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
 GXO,"GXO Logistics, Inc.",NYSE
 GXRFF,Prospera Energy Inc Common Shares,U
@@ -489,7 +487,6 @@ HLLPF,Hello Pal Intl Inc Ordinary Shares (Canada),U
 HLLXF,Hellix Ventures Inc Ordinary Shares,U
 HLLY,Holley Inc.,NYSE
 HLLY WS,"Holley Inc. Redeemable Warrants, each whole warrant exercisable for one share of Common Stock at an",NYSE
-HLM PR,Hillman Group Capital Trust 11.6%,AMEX
 HLMAF,Halma Plc Ordinary Shares,U
 HLMB,"Swiftsure International, Inc. Common Stock",U
 HLMN,Hillman Solutions Corp. Common Stock,NASDAQ
@@ -765,6 +762,7 @@ HSDTW,HELIUS MED TECHNOLOGIES INC Warrant  02/02/2026,U
 HSEEF,Hill Street Beverage Co Inc,U
 HSEN,Honsen Energy & Resources International Limited Common Stock,U
 HSFI,"Homeland Safety International, Inc. Common Stock",U
+HSHCY,Haier Smart Home Co Ltd American Depositary Receipts - Unsponsored,U
 HSHIF,Hoshizaki Electric Co Ltd Ordinary Shares (Japan),U
 HSHL,"Home Solutions Health, Inc. Common Stock",U
 HSHZY,Hoshizaki Corporation American Depositary Receipts - Unsponsored (Japan),U
@@ -4722,6 +4720,7 @@ MEGGY,Meggitt Plc Unsponsored American Depository Receipt (United Kingdom),U
 MEGH,"MW Investment Holding Group, Inc. Common Stock",U
 MEGPF,Megachips Corp Osaka Ordinary Shares (Japan),U
 MEI,Methode Electronics,NYSE
+MEIEF,ISHARES IV PLC ISHARES MSCI EM IMI ESG SCREENED UCITS ETF USD ACC Exchange Traded Fund,U
 MEIJF,Meiji Electric Industries Co Ltd Nagoya Ordinary Shares (Japan),U
 MEIL,Methes Energies International Ltd.,U
 MEIP,"MEI Pharma, Inc. Common Stock",NASDAQ
@@ -5592,3 +5591,6 @@ MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFC,Minster Financial Corporation,U
 MTFGF,U K SPAC PLC Ordinary Shares,U
+MTG,MGIC Investment Corp.,NYSE
+MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
+MTGOF,MUSTI GROUP OYJ Ordinary Shares,U
