@@ -1,4 +1,9 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
@@ -11,7 +16,7 @@ SHLS,"Shoals Technologies Group, Inc. Class A Common Stock",NASDAQ
 SHLX,"Shell Midstream Partners, L.P.",NYSE
 SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,ARCA
 SHMAY,Shimao Group Holdings Ltd. American Depositary Receipts - Unsponsored,U
-SHMCD,Renewi PLC Ordinary Shares,U
+SHMCF,Renewi PLC Ordinary Shares,U
 SHMDF,Shimano Inds Ordinary Shares,U
 SHMMF,SAHAMIT MACHINERY PCL PUB CO LTD UNITS NON -VOTING DEPOSITORY RECEIPTS (Thailand),U
 SHMN,"SOHM, Inc. Common Stock",U
@@ -966,7 +971,7 @@ SPUP,Sipup Corp Common Stock,U
 SPUS,SP Funds S&P 500 Sharia  ETF,ARCA
 SPUU,Direxion Daily S&P 500 Bull 2X Shares,ARCA
 SPVM,Invesco S&P 500 Value with Momentum ETF,ARCA
-SPVNF,Spectra7 Microsystems Inc Common Shares (Canada),U
+SPVND,Spectra7 Microsystems Inc Common Shares,U
 SPVU,Invesco S&P 500 Enhanced Value ETF,ARCA
 SPWH,"Sportsman's Warehouse Holdings, Inc. Common Stock",NASDAQ
 SPWR,SunPower Corporation Common Stock,NASDAQ
@@ -1019,9 +1024,6 @@ SQZ,SQZ Biotechnologies Company,NYSE
 SQZZF,Serica Energy Plc Ordinary Shares (UK),U
 SR,Spire Inc.,NYSE
 SR PRA,"Spire Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.90% Series A Cu",NYSE
-SRAC,Stable Road Acquisition Corp. Class A Common Stock,NASDAQ
-SRACU,Stable Road Acquisition Corp. Unit,NASDAQ
-SRACW,Stable Road Acquisition Corp. Warrant,NASDAQ
 SRAFF,Sandfire Resources America Inc Common Shares,U
 SRAIF,STADLER RAIL AG NAMEN AKT (Switzerland),U
 SRAMF,SISRAM MED LTD SHARE (Israel),U
@@ -1201,7 +1203,7 @@ SSNLF,Samsung Elec Co Ltd N-Vtg Ordinary Shares,U
 SSNT,"SilverSun Technologies, Inc. Common Stock",NASDAQ
 SSO,ProShares Ultra S&P500,ARCA
 SSOF,"Sixty Six Oilfield Services, Inc. Common Stock",U
-SSOKD,Sunstock Inc  Common Stock,U
+SSOK,Sunstock Inc  Common Stock,U
 SSP,E.W. Scripps Company (The) Class A Common Stock,NASDAQ
 SSPCF,SiriusPoint Ltd. Contingent Value Rights (Bermuda),U
 SSPFF,SiriusPoint Ltd. Warrant Exp 02/26/2026 (Bermuda),U
@@ -3030,6 +3032,7 @@ TTXTF,TEXHONG TEXTILE GROUP LIMITED Ordinary Shares,U
 TTYP,Trinity Petroleum Trust Cbi Common Stock,U
 TU,Telus Corporation,NYSE
 TUALF,Tuas Ltd. Ordinary Shares (Australia),U
+TUDRF,Thunderful Group AB Share AK (Sweden),U
 TUEM,Tuesday Morning Corp. Common Stock,NASDAQ
 TUERF,TRUE NORTH COMMERICAL REIT (Canada),U
 TUFBY,Thai Union Group Public Company Limited American Depositary Receipts - Unsponsored,U
@@ -3054,7 +3057,6 @@ TUWLF,Tullow Oil Plc (United Kingdom) Tullow Oil Plc Ord (United Kingdom),U
 TUWOY,Tullow Oil Plc Unsponsored ADR (United Kingdom),U
 TUXS,Tuxis Corporation Common Stock,U
 TUYA,"Tuya Inc. American Depositary Shares, each representing one Class A Ordinary Share",NYSE
-TUYIF,TU YI HLDG CO LTD Ordinary Shares,U
 TV,Grupo Televisa S.A.,NYSE
 TVAC,Thayer Ventures Acquisition Corporation Class A Common Stock,NASDAQ
 TVACU,Thayer Ventures Acquisition Corporation Units,NASDAQ

@@ -14,6 +14,7 @@ AAC WS,"Ares Acquisition Corporation Redeemable Warrants, each whole warrant exe
 AACAF,AAC Technologies Holdings Inc Ordinary Shares (Cayman Islands),U
 AACAY,AAC Technologies Holdings Inc Unsponsored ADR (Cayman Islands),U
 AACG,ATA Creativity Global American Depositary Shares,NASDAQ
+AACIU,Armada Acquisition Corp. I Unit,NASDAQ
 AACOU,Advancit Acquisition Corp. I Units,NASDAQ
 AACS,"American Commerce Solutions, Inc. Common Stock",U
 AACTF,AURORA SOLAR TECHNOLOGIES INC  Common Shares,U
@@ -1716,7 +1717,6 @@ ARWD,"Arrow Resources Development, Inc. Common Stock",U
 ARWGF,Arrow Global Group PLC Ordinary Shares (United Kingdom),U
 ARWJF,"Aroway Energy, Inc. Ordinary Shares (Canada)",U
 ARWMF,AIRWAY MEDIX SA Ordinary Shares,U
-ARWPF,ARROWHEAD PROPERTIES LTD Ordinary Shares,U
 ARWR,"Arrowhead Pharmaceuticals, Inc. Common Stock",NASDAQ
 ARXRF,Infinite Ore Corp.  Common Shares,U
 ARXXL,AirXpanders Inc Shs Chess Depository Interests Rep 3 Shs,U
@@ -2999,7 +2999,6 @@ BKGFF,Berkeley Group Holdings Plc Ordinary Units Consisting of One Ordinary shar
 BKGFY,Berkeley Group Holdings Plc Unsponsored ADR representing Ordinary Units Consisting of One Ordinary share & Four Class B Ordinary shares (UK),U
 BKGM,BANKGUAM HLDG CO Common Stock,U
 BKH,Black Hills Corporation,NYSE
-BKHOF,Build King Holdings Ltd Ordinary Shares (Bermuda),U
 BKHPF,Bank Hapoalim BM Ordinary Shares,U
 BKHY,BNY Mellon High Yield Beta ETF,ARCA
 BKHYY,Bank Hapoalim BM Sponsored ADR (Israel),U
@@ -3110,6 +3109,7 @@ BLKB,"Blackbaud, Inc. Common Stock",NASDAQ
 BLKCF,Global Gaming Technologies Corp. Ordinary Shares,U
 BLKIF,ISHARES IV PLC Healthcare Innovation UCITS ETF USD ACC (Ireland),U
 BLKLF,Blackline Safety Corp Ordinary Shares (Canada),U
+BLKXF,ISHARES IV PLC MSCI USA ESG SCREENED UCITS ETF USD ACC (Ireland),U
 BLL,Ball Corporation,NYSE
 BLLB,"Bell Buckle Holdings, Inc. Common Stock",U
 BLLI,"Bell Industries, Inc. (DEL) Common Stock",U
@@ -4089,7 +4089,7 @@ CAVVF,CAVU Mining Corp Ordinary Shares (Canada),U
 CAWLF,CWC Energy Services Corp. Common Shares (Canada),U
 CAWRF,CARAWINE RES LTD Ordinary Shares,U
 CAWW,"CCA Industries, Inc. Common Stock",U
-CAXPD,District Copper Corp Common Shares,U
+CAXPF,District Copper Corp Common Shares,U
 CAZGF,Catapult Group International Ltd Ordinary Shares (Australia),U
 CB,Chubb Limited,NYSE
 CBAF,CITBA Financial Corporation Common Stock,U
@@ -4752,6 +4752,7 @@ CHNSF,CHINA STARCH HOLDINGS LIMITED SHS (Cayman Islands),U
 CHNTF,China LNG Group Ltd Ordinary Shares (Cayman Islands),U
 CHNUF,China Education Resources Inc Ordinary Shares (Canada),U
 CHNVF,CHINA YOUZAN LTD Common Stock,U
+CHNYF,ISHARES IV PLC CHINA CNY BOND UCITS ETF USD (Ireland),U
 CHOB,Charter Oak Bank (CA) Common Stock,U
 CHOLF,China Oilfield Services Limited H Shares (China),U
 CHOOF,Choom Hldgs Inc Common Shares,U
@@ -4953,8 +4954,10 @@ CLAS U,"Class Acceleration Corp. Units, each consisting of one share of Class A 
 CLAS WS,"Class Acceleration Corp. Redeemable Warrants, each whole warrant exercisable for one share of Class",NYSE
 CLASF,Questex Gold & Copper Ltd Common Shares,U
 CLAVF,Camellia Investments Plc Ordinary Shares,U
+CLAY,Chavant Capital Acquisition Corp. Ordinary Shares,NASDAQ
 CLAYF,iShares 1-5 Year Laddered Corporate Bond Index ETF (Canada),U
 CLAYU,Chavant Capital Acquisition Corp. Unit,NASDAQ
+CLAYW,Chavant Capital Acquisition Corp. Warrants,NASDAQ
 CLB,Core Laboratories N.V.,NYSE
 CLBEY,"Calbee Inc, American Depositary Receipts - Unsponsored (Japan)",U
 CLBK,"Columbia Financial, Inc. Common Stock",NASDAQ
@@ -5250,6 +5253,7 @@ CNBKA,"Century Bancorp, Inc. Class A Common Stock",NASDAQ
 CNBKB,"Century BanCorp, Inc. Common Stock Class B",U
 CNBL,Citizens National Bancshares Of Bossier Inc Common Stock,U
 CNBN,CNB Bk Shs Inc Common Stock,U
+CNBOV,CONNECTONE BANCORP INC NEW DEPOSITARY SHS REPSTG A 1/40TH INT IN SH FXD-RATE RESET NON-CUMULATIVE PERPETUAL PFD STK SER A,U
 CNBP,"Cornerstone Bancorp, Inc. Common Shares",U
 CNBQF,AYR WELLNESS INC Warrant,U
 CNBS,Amplify Seymour Cannabis ETF,ARCA
@@ -5592,5 +5596,3 @@ CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
-CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
-CPK,Chesapeake Utilities,NYSE

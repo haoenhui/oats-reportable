@@ -1,4 +1,11 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
+MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
+MTFC,Minster Financial Corporation,U
+MTFGF,U K SPAC PLC Ordinary Shares,U
+MTG,MGIC Investment Corp.,NYSE
+MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
+MTGOF,MUSTI GROUP OYJ Ordinary Shares,U
 MTGP,WisdomTree Mortgage Plus Bond Fund,ARCA
 MTGRF,Mount Gibson Iron Ltd Ordinary Shares (Australia),U
 MTGRY,Mount Gibson Iron Ltd Unsponsored ADR (Austrailia),U
@@ -1970,7 +1977,7 @@ OXLC,Oxford Lane Capital Corp. Common Stock,NASDAQ
 OXLCL,Oxford Lane Capital Corp. 6.75% Notes due 2031,NASDAQ
 OXLCM,Oxford Lane Capital Corp. 6.75% Series 2024 Term Preferred Stock,NASDAQ
 OXLCP,Oxford Lane Capital Corp. 6.25% Series 2027 Term Preferred Shares,NASDAQ
-OXLNV,Oxford Lane Capital Corp 6% Series 2029 Preferred Stock,U
+OXLNP,Oxford Lane Capital Corp 6% Series 2029 Preferred Stock,U
 OXM,"Oxford Industries, Inc.",NYSE
 OXNXF,Onxeo SA Ordinary Shares Cat P (France),U
 OXSQ,Oxford Square Capital Corp. Common Stock,NASDAQ
@@ -2070,7 +2077,7 @@ PARXF,Parex Resources Inc Ordinary Shares (Canada),U
 PASG,"Passage Bio, Inc. Common Stock",NASDAQ
 PASMF,Premier Asset Management Group Ordinary Shares (United Kingdom),U
 PASO,Patient Access Solutions Inc. Common Stock,U
-PASQV,PUBLIC STORAGE DEPOSITARY SH REPSTG PFD SH BEN INT SER Q,U
+PASQL,PUBLIC STORAGE DEPOSITARY SH REPSTG PFD SH BEN INT SER Q,U
 PASTF,Plastic Omnium Ordinary Shares (France),U
 PASTY,PLASTIC OMNIUM Unsponsored American Depositary Receipts (France),U
 PATH,"UiPath, Inc.",NYSE
@@ -3079,7 +3086,7 @@ PRIF PRF,"Priority Income Fund, Inc. 6.625% Series F Term Preferred Stock due 20
 PRIF PRG,"Priority Income Fund, Inc. 6.25% Series G Preferred Stock Due 2026",NYSE
 PRIF PRH,"Priority Income Fund, Inc. 6.00% Series H Term Preferred Stock due 2026",NYSE
 PRIF PRI,"Priority Income Fund, Inc. 6.125% Series I Term Preferred Stock due 2028",NYSE
-PRIJP,PRIORITY INCOME FD INC TERM PFD SER J Preferred Stock,U
+PRIF PRJ,"Priority Income Fund, Inc. 6.000% Series J Term Preferred Stock due 2028",NYSE
 PRIM,Primoris Services Corporation Common Stock,NASDAQ
 PRISY,Promotora De Informaciones SA American Depositary Receipts - Sponsored,U
 PRK,Park National Corporation,AMEX
@@ -5588,8 +5595,3 @@ SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
-SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
-SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U

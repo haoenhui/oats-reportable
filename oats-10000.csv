@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
+GXIIU,GX Acquisition Corp. II Unit,NASDAQ
+GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
 GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
 GXO,"GXO Logistics, Inc.",NYSE
 GXRFF,Prospera Energy Inc Common Shares,U
@@ -871,6 +874,7 @@ HUKEF,Hokuriku Electrical Construction Ltd Ordinary Shares (Japan),U
 HULCF,"Hulic Co Ltd, Tokyo Ordinary Shares",U
 HULK,"Stan Lee Media, Inc. Common Stock",U
 HUM,Humana Inc.,NYSE
+HUMBF,Humble & Fume Inc Common Shares (Canada),U
 HUMDF,Hua Medicine Ordinary Shares (Cayman Islands),U
 HUML,Humble Energy Inc (NV)  Common Stock,U
 HUMRF,"Hummingbird Resources Limited, Birmingham Ordinary Shares (United Kingdom)",U
@@ -1363,7 +1367,7 @@ IGA,VOYA GLOBAL ADVANTAGE AND PREMIUM OPPORTUNITY FUND,NYSE
 IGAC,IG Acquisition Corp. Class A Common Stock,NASDAQ
 IGACU,IG Acquisition Corp. Unit,NASDAQ
 IGACW,IG Acquisition Corp. Warrant,NASDAQ
-IGAP,Integrity Applications Incorporation Com,U
+IGAPD,Integrity Applications Incorporation Common Stock,U
 IGBH,iShares Interest Rate Hedged Long-Term Corporate Bond ETF,ARCA
 IGC,"India Globalization Capital, Inc.",AMEX
 IGD,VOYA GLOBAL EQUITY DIVIDEND AND PREMIUM OPPORTUNITY FUND,NYSE
@@ -1641,7 +1645,6 @@ IMTV,"Imagination TV, Inc  Common Stock",U
 IMTX,Immatics N.V. Ordinary Shares,NASDAQ
 IMTXW,Immatics N.V. Warrants,NASDAQ
 IMUC,IMMUNOCELLULAR THERAPEUTICS LTD Common Stock,U
-IMUCW,IMMUNOCELLULAR THERAPEUTICS LTD Warrant   08/12/2021,U
 IMUN,"Immune Therapeutics, Inc. Common Stock",U
 IMUX,"Immunic, Inc. Common Stock",NASDAQ
 IMV,IMV Inc. Common Shares,NASDAQ
@@ -2057,7 +2060,6 @@ ISIVF,ISHARES IV PLC ISHARES EDGE MSCI EUROPE QUALITY FACTOR UCITS ETFEUR (ACC) 
 ISJMF,ISHARES V PLC J P MORGAN EM CORP BOND UCITS ETF USD ACC (Ireland),U
 ISJPF,Ishares II PLC JP Morgan EM Bond UCITS ETF,U
 ISJSF,ISHARES JANTZI SOCIAL INDEX Unit,U
-ISKCF,"ISK CHELOVEKA OAO, MOSCOW Ordinary Shares",U
 ISLE,Isleworth Healthcare Acquisition Corporation Common stock,NASDAQ
 ISLEW,Isleworth Healthcare Acquisition Corporation Warrant,NASDAQ
 ISLV,"International Silver, Inc. Common Stock",U
@@ -2929,6 +2931,7 @@ KCDMF,Kimberly-Clark De Mexico S A B de C V Ordinary Shares Class B (Mexico),U
 KCDMY,Kimberly-Clark De Mexico S A B de C V Sponsored ADR (Mexico),U
 KCE,SPDR S&P Capital Markets ETF,ARCA
 KCEEY,KCE Electronics Pub Co Ltd. American Depositary Receipts - Unsponsored (Thailand),U
+KCGI U,"Kensington Capital Acquisition Corp. V Units, each consisting of one Class A ordinary share and thre",NYSE
 KCIGF,Karelia Tobacco Co Inc Ordinary Shares (Greece),U
 KCKSF,Keck Seng Investments Ordinary Shares,U
 KCLI,Kansas City Life Insurance Co Common Stock,U
@@ -4452,6 +4455,7 @@ MBDC,Massachusetts Business Development Corp Common Stock,U
 MBDE,Morris Business Development Company Common Stock,U
 MBFJF,Mitsubishi UFJ Financial Group Inc Ordinary Shares (Japan),U
 MBGCF,Mitsubishi Gas Chemical Co Inc Ordinary Shares,U
+MBGFF,Mitsuboshi Belting Ltd Ord Ordinary Shares (Japan),U
 MBGNF,MED BIOGENE INC Common Shares,U
 MBHCF,MBH CORP PLC ORD EUR1 (United Kingdom),U
 MBHPF,MASCHINENFABRIK BERTHOLD HERMLE AG PREF SHS VTG RTS (Germany),U
@@ -4927,7 +4931,7 @@ MIESF,Mitsui E&S Hldgs Co Ltd Ordinary Shares,U
 MIESY,"Mitsui E&S Holdings Co., Ltd. American Depositary Receipts - Unsponsored",U
 MIFF,"Mifflinburg Bancorp, Inc. Common Stock",U
 MIG,VanEck Vectors Moody's Analytics IG Corporate Bond ETF,BATS
-MIGI,Mawson Infrastructure Group Inc. Common Stock,U
+MIGID,Mawson Infrastructure Group Inc. Common Stock,U
 MIHDF,Misc Bhd Ordinary Shares (Malaysia),U
 MIHL,MONTAGUE INTERNATIONAL HOLDING LTD. Common Stock New,U
 MIILF,Minor International Public Co Limited Local Warrants Expiring 09/30/2021 (Thailand),U
@@ -4968,7 +4972,9 @@ MISVF,Minco Silver Corp Common Shares (Canada),U
 MIT,"Mason Industrial Technology, Inc.",NYSE
 MIT U,"Mason Industrial Technology, Inc. Units, each consisting of one share of Class A common stock and on",NYSE
 MIT WS,"Mason Industrial Technology, Inc. Redeemable warrants, exercisable for one share of Class A common s",NYSE
+MITA,Coliseum Acquisition Corp. Class A Ordinary Share,NASDAQ
 MITAU,Coliseum Acquisition Corp. Unit,NASDAQ
+MITAW,Coliseum Acquisition Corp. Warrant,NASDAQ
 MITC,MeaTech 3D Ltd. American Depositary Shares,NASDAQ
 MITCF,Mitani Corp Ordinary Shares (Japan),U
 MITEF,Mitsubishi Estate Co Ltd Ordinary Shares (Japan),U
@@ -5245,6 +5251,8 @@ MNTHF,Minth Group Ltd Ordinary Shares (Cayman Islands),U
 MNTHY,Minth Group Ltd Unsponsored ADR (Cayman Islands),U
 MNTK,"Montauk Renewables, Inc. Common Stock",NASDAQ
 MNTR,"Mentor Capital, Inc. Common Stock",U
+MNTS,Momentus Inc. Class A Common Stock,NASDAQ
+MNTSW,Momentus Inc. Warrant,NASDAQ
 MNTTF,Multi Units Luxembourg SICAV Ord Shs Lyxor EU High Rat M W G BD 3Yr (Luxembourg),U
 MNTUF,"Manitou Gold, Inc Ordinary Shares (Canada)",U
 MNTV,Momentive Global Inc. Common Stock,NASDAQ
@@ -5587,10 +5595,3 @@ MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
 MTENY,Mahanagar Telephone Nigam Ltd ADS,U
-MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
-MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
-MTFC,Minster Financial Corporation,U
-MTFGF,U K SPAC PLC Ordinary Shares,U
-MTG,MGIC Investment Corp.,NYSE
-MTGCF,Mapletree North China Commercial Trust Units REIT (Singapore),U
-MTGOF,MUSTI GROUP OYJ Ordinary Shares,U

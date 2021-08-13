@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
+CPK,Chesapeake Utilities,NYSE
 CPKB,Chesapeake Bancorp Common Stock,U
 CPKF,Chesapeake Financial Shares Inc Common Stock,U
 CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
@@ -531,7 +533,6 @@ CUSPY,Countryside Properties PLC American Depositary Receipts - Unsponsored,U
 CUT,Invesco MSCI Global Timber ETF,ARCA
 CUTLF,Canadian Utilities Ltd 2 Preferred Series EE,U
 CUTR,"Cutera, Inc. Common Stock",NASDAQ
-CUUCF,Computacenter PLC Ordinary Shares (United Kingdom),U
 CUYRF,C Uyemura & Co Ltd Osaka Ordinary Shares (Japan),U
 CUYTF,Etablissements Fr Colruyt SA Ordinary Shares (Belgium),U
 CUYTY,Colruyt SA Unsponsored ADR (Belgium),U
@@ -788,6 +789,8 @@ DASH,"DoorDash, Inc.",NYSE
 DASTF,Dassault Systemes Ordinary Shares,U
 DASTY,"Dassault Systemes, S.A. American Depositary Shares",U
 DATI,"Digital Asset Monetary Network, Inc. Common Stock",U
+DATS,"DatChat, Inc. Common Stock",NASDAQ
+DATSW,"DatChat, Inc. Series A Warrant",NASDAQ
 DATWY,Datwyler Holding AG Unsponsored ADR (Switzerland),U
 DAUG,FT Cboe Vest U.S. Equity Deep Buffer ETF - August,BATS
 DAUGF,Desert Gold Ventures Inc Common Shares,U
@@ -1457,6 +1460,8 @@ DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares,ARCA
 DRIV,Global X Funds Global X Autonomous & Electric Vehicles ETF,NASDAQ
 DRKOF,Martello Technologies Group Inc Ordinary Shares,U
 DRKTF,DARKTRACE PLC ORD GBP0.01 (United Kingdom),U
+DRMA,"Dermata Therapeutics, Inc. Common Stock",NASDAQ
+DRMAW,"Dermata Therapeutics, Inc. Warrant",NASDAQ
 DRMKY,Dormakaba Hldg AG Unsponsored ADR (Switzerland),U
 DRMMF,Dream International Ltd Ordinary Shares (Hong Kong),U
 DRN,Direxion Daily Real Estate Bull 3X,ARCA
@@ -4154,7 +4159,6 @@ FTTRF,Forterra Plc Ordinary Shares Gbp0.01 (United Kingdom),U
 FTUAF,Fuller Smith & Turner Plc A Ordinary Shares (United Kingdom),U
 FTV,Fortive Corporation,NYSE
 FTVIU,FinTech Acquisition Corp. VI Units,NASDAQ
-FTVIW,FinTech Acquisition Corp. VI Warrants,NASDAQ
 FTWS,Flitways Technology Inc Common Stock,U
 FTWYF,Freightways Ltd Ordinary Shares (New Zealand),U
 FTWYY,Freightways Ltd Unsponsored ADR (New Zealand),U
@@ -5214,6 +5218,7 @@ GRA,W.R. Grace & Co.,NYSE
 GRAH,GRIFFIN-AMERICAN HEALTHCARE REIT III INC Common Stock,U
 GRAMF,TPCO HLDG CORP Ordinary Shares,U
 GRAY,"Graybug Vision, Inc. Common Stock",NASDAQ
+GRAZ,"Graze, Inc. Series A Preferred Stock",U
 GRBG,"Green Bridge Industries, Inc. Common Stock",U
 GRBK,"Green Brick Partners, Inc. Common Stock",NASDAQ
 GRBMF,Grupo Bimbo Sa A Ordinary Shares,U
@@ -5591,6 +5596,3 @@ GWYT,Greenway Technology Common Stock,U
 GXC,SPDR S&P China ETF,ARCA
 GXF,Global X FTSE Nordic Region ETF,ARCA
 GXG,Global X MSCI Colombia ETF,ARCA
-GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
-GXIIU,GX Acquisition Corp. II Unit,NASDAQ
-GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
