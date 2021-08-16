@@ -141,7 +141,7 @@ ABPR,"Airborne Security & Protective Services, Inc. New Common Stock",U
 ABQQ,AB INTL GROUP CORP Common Stock,U
 ABR,"Arbor Realty Trust, Inc.",NYSE
 ABR PRD,"Arbor Realty Trust, Inc. 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preferen",NYSE
-ABREP,ARBOR RLTY TR INC PFD SER E Preferred Stock,U
+ABR PRE,"Arbor Realty Trust, Inc. 6.25% Series E Cumulative Redeemable Preferred Stock",NYSE
 ABRUF,AMERICAN PAC BURATE & LITHIUM LTD Ord Shs Fully Paid (Australia),U
 ABSCF,"AB Science, Paris Ordinary Shares (France)",U
 ABSI,Absci Corporation Common Stock,NASDAQ
@@ -850,7 +850,6 @@ AIRC,Apartment Income REIT Corp.,NYSE
 AIRG,"Airgain, Inc. Common Stock",NASDAQ
 AIRI,Air Industries Group,AMEX
 AIRMF,Airmate Cayman International Co Ltd Ordinary Shares (Cayman Islands),U
-AIRO,Airspan Networks Inc. Common Stock,U
 AIRR,First Trust Exchange-Traded Fund VI First Trust RBA American Industrial Renaissance ETF,NASDAQ
 AIRRF,"Aurion Resources, Ltd. Ordinary Shares (Canada)",U
 AIRT,"Air T, Inc. Common Stock",NASDAQ
@@ -4940,7 +4939,7 @@ CL,Colgate-Palmolive Company,NYSE
 CLAA,Colonnade Acquisition Corp. II,NYSE
 CLAA U,"Colonnade Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fifth of",NYSE
 CLAA WS,"Colonnade Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary sha",NYSE
-CLABD,Core One Labs Inc Common Shares,U
+CLABF,Core One Labs Inc Common Shares,U
 CLAD,"China Liaoning Dingxu Ecological Agriculture Development, Inc. Common Stock",U
 CLALF,Clal Insurance CO Ltd. Ordinary Shares (Israel),U
 CLAM,Classic Mining Corp Utah Common Stock,U
@@ -5595,4 +5594,3 @@ CPHI,"China Pharma Holdings, Inc.",AMEX
 CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
-CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U

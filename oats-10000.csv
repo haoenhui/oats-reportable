@@ -462,7 +462,9 @@ HLAHW,"Hamilton Lane Alliance Holdings I, Inc. Warrant",NASDAQ
 HLAL,Listed Funds Trust Wahed FTSE USA Shariah ETF,NASDAQ
 HLAN,Heartland Banccorp Common Stock,U
 HLBYL,Heron Lake Bioenergy LLC UNIT,U
+HLBZ,"Helbiz, Inc. Class A Common stock",NASDAQ
 HLBZF,HeidelbergerCement AG Ordinary Shares (Germany Federal Republic),U
+HLBZW,"Helbiz, Inc. Warrant",NASDAQ
 HLCN,"Holoco, Inc. New Common Stock",U
 HLDCY,Henderson Land Dev Co Ltd  Ord American Depositary Shares,U
 HLDRF,Holland Colours NV Ordinary Shares (Netherlands),U
@@ -1735,6 +1737,7 @@ INMU,BlackRock Intermediate Muni Income Bond ETF,ARCA
 INN,"Summit Hotel Properties, Inc.",NYSE
 INN PRD,"Summit Hotel Properties, Inc. 6.45% Series D Cumulative Redeemable Preferred Stock",NYSE
 INN PRE,"Summit Hotel Properties, Inc. 6.250% Series E Cumulative Redeemable Preferred Stock",NYSE
+INN PRF,"Summit Hotel Properties, Inc. 5.875% Series F Cumulative Redeemable Preferred Stock",NYSE
 INNBF,Innovative Pharmaceutical Biotech Ltd Ordinary Shares (Bermuda),U
 INNCF,INNOTECH CORP Ordinary Shares,U
 INND,"Innerscope Hearing Technologies, Inc. Common Stock",U
@@ -3627,7 +3630,6 @@ LDOC,LinkDoc Technology Limited American Depositary Shares,NASDAQ
 LDOMF,LIDO MINERALS LTD Common Shares,U
 LDOS,"Leidos Holdings, Inc.",NYSE
 LDP,COHEN & STEERS LIMITED DURATION PREFERRED AND INCOME FUND INC,NYSE
-LDRS,Innovator IBD ETF Leaders ETF,ARCA
 LDRUF,Lidco Group Ltd Ordinary Shares,U
 LDRXF,Leader Energy Services Ltd New Common Shares (Canada),U
 LDSCY,Land Securities Group Plc American Depositary Receipts - Unsponsored,U
@@ -4902,6 +4904,7 @@ MHLA,"Maiden Holdings, Ltd.",NYSE
 MHLD,"Maiden Holdings, Ltd.",NASDAQ
 MHN,"BLACKROCK MUNIHOLDINGS NEW YORK QUALITY FUND, INC",NYSE
 MHNC,"MAIDEN HOLDINGS NORTH AMERICA, LTD",NYSE
+MHNLF,MEDNHADEN RESOURCE EFFICIENCY PLC ORG GBP0.01 (United Kingdom),U
 MHO,"M/I Homes, Inc.",NYSE
 MHPC,Manufactured Housing Properties Inc. Common Stock,U
 MHPSY,MHP S A GDR Reg S,U
@@ -4945,6 +4948,11 @@ MILOF,Mobilicom Ltd Ordinary Shares (Australia),U
 MILTY,Mills Estruturas E Servicos De Engenharia SA American Depositary Receipt (Sponsored) (Brazil),U
 MIME,Mimecast Limited Ordinary Shares,NASDAQ
 MIMNF,Mimis Rock Corp Common Stock (Canada),U
+MIMO,Airspan Networks Holdings Inc.,AMEX
+MIMO WS,"Airspan Networks Holdings Inc. Redeemable Warrants, each warrant exercisable for one share of Common",AMEX
+MIMO WSA,"Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stoc",AMEX
+MIMO WSB,"Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stoc",AMEX
+MIMO WSC,"Airspan Networks Holdings Inc. Warrants, each whole warrant exercisable for one share of common stoc",AMEX
 MIMTF,Mitsubishi Materials Ord Ordinary Shares,U
 MIMZF,Nighthawk Gold Corp. Ordinary Shares,U
 MIN,MFS Intermediate Income Trust,NYSE
@@ -5121,7 +5129,6 @@ MLYCF,American Cumo Mining Corp. Ordinary Shares (Canada),U
 MLYF,Western Magnesium Corp Common Shares,U
 MLYNF,Malayan Banking Ord Singapore Ordinary Shares,U
 MLYSF,MARLEY SPOON AG Chess Depository Interests 10000 1 (Germany),U
-MMAC,"MMA Capital Holdings, Inc. Common Stock",NASDAQ
 MMAPF,Memscap SAOrdinary Shares (France),U
 MMAT,Meta Materials Inc. Common Stock,NASDAQ
 MMAYF,MSM Malaysia Holdings BHD Ordinary Shares (Malaysia),U
@@ -5451,6 +5458,7 @@ MRMEF,Marmota Ltd.  Ordinary Shares,U
 MRNA,"Moderna, Inc. Common Stock",NASDAQ
 MRNJ,"Metatron, Inc. Common Stock",U
 MRNS,"Marinus Pharmaceuticals, Inc. Common Stock",NASDAQ
+MRNVF,MIRAINOVATE CO LTD SHS (Japan),U
 MRO,Marathon Oil Corporation,NYSE
 MROIF,Madagascar Oil Limited Ordinary Shares (Bermuda),U
 MROMF,Nextage Therapeutics Ltd Ordinary Shares,U
@@ -5586,12 +5594,3 @@ MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
-MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
-MTCR,"Metacrine, Inc. Common Stock",NASDAQ
-MTD,Mettler-Toledo International,NYSE
-MTDR,MATADOR RESOURCES COMPANY,NYSE
-MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
-MTEI,Mountain Energy Inc Common Stock,U
-MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
-MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
-MTENY,Mahanagar Telephone Nigam Ltd ADS,U

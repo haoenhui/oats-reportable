@@ -1,4 +1,13 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
+MTCR,"Metacrine, Inc. Common Stock",NASDAQ
+MTD,Mettler-Toledo International,NYSE
+MTDR,MATADOR RESOURCES COMPANY,NYSE
+MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
+MTEI,Mountain Energy Inc Common Stock,U
+MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
+MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
+MTENY,Mahanagar Telephone Nigam Ltd ADS,U
 MTERF,Minterra Resource Corporation Ordinary Shares (Canada),U
 MTEX,"Mannatech, Incorporated Common Stock",NASDAQ
 MTFC,Minster Financial Corporation,U
@@ -285,9 +294,6 @@ NAVB,Navidea Biopharmaceuticals Inc.,AMEX
 NAVI,Navient Corporation Common Stock,NASDAQ
 NAVVF,NAVF PLC ORD GBP0.01 (United Kingdom),U
 NAZ,Nuveen Arizona Quality Municipal Income Fund,NYSE
-NBA,New Beginnings Acquisition Corp.,AMEX
-NBA U,"New Beginnings Acquisition Corp. Units, each consisting of one share of common stock and one redeema",AMEX
-NBA WS,"New Beginnings Acquisition Corp. Redeemable Warrants, each warrant exercisable for one share of Comm",AMEX
 NBB,Nuveen Taxable Municipal Income Fund,NYSE
 NBBTF,Natural Beauty Bio Technology Limited Ordinary Shares,U
 NBCO,"Neon Bloom, Inc. Common Stock",U
@@ -1697,7 +1703,6 @@ OOAG,OMDA Oil and Gas Inc New Common Stock,U
 OOBHF,On the Beach Group Ordinary Shares (United Kingdom),U
 OODH,Orion Diversified Holding Co Inc. COMM,U
 OOGI,"C2E Energy, Inc. Common Stock",U
-OOIL,Perkins Oil & Gas Inc. Common Stock,U
 OOMA,"Ooma, Inc. Common Stock",NYSE
 OONEF,01 Communique Lab Inc Common Shares (Canada),U
 OOTO,Direxion Daily Travel & Vacation Bull 2X Shares,ARCA
@@ -1907,6 +1912,8 @@ OTLK,"Outlook Therapeutics, Inc. Common Stock",NASDAQ
 OTLKW,"Outlook Therapeutics, Inc. Series A Warrant Expiring 02/18/2022",NASDAQ
 OTLY,Oatly Group AB American Depositary Shares,NASDAQ
 OTMN,O T Mining Corp Common Stock,U
+OTMO,Otonomo Technologies Ltd. Ordinary shares,NASDAQ
+OTMOW,Otonomo Technologies Ltd. Warrant,NASDAQ
 OTOW,"O2 Secure Wireless, Inc. Common Stock",U
 OTPBF,OTP Bank Ltd Ordinary Shares (Hungary),U
 OTPGF,Otp Bank Ltd Sponsored GDR Representing 1/2 shares Reg S (Hungary),U
@@ -2214,7 +2221,6 @@ PCHZF,Paints & Chemicals Industries Company Sponsored Reg S GDR,U
 PCI,PIMCO Dynamic Credit and Mortgage Income Fund,NYSE
 PCIMF,Pacific Imperial Mines Inc. Ordinary Shares (Canada),U
 PCK,PIMCO CALIFORNIA MUNICIPAL INCOME FUND II COMMON SHARES OF BENEFICIAL INT.,NYSE
-PCKCF,Pack Corp Ordinary Shares (Japan),U
 PCLB,"Pinnacle Bancshares, Inc. Common Stock",U
 PCLGF,PACIFIC LEGEND GROUP LTD Ordinary Shares,U
 PCLI,Protocall Technologies Incorporated Common Stock,U
@@ -4172,7 +4178,6 @@ REW,Proshares UltraShort Technology,ARCA
 REX,REX American Resources Corp.,NYSE
 REXHF,Rex International Holdings Ltd Ordinary Shares (Singapore),U
 REXR,"REXFORD INDUSTRIAL REALTY, INC.",NYSE
-REXR PRA,"Rexford Industrial Realty, Inc 5.875% Series A Cumulative Redeemable Preferred Stock",NYSE
 REXR PRB,"Rexford Industrial Realty, Inc. 5.875% Series B Cumulative Redeemable Preferred Stock",NYSE
 REXR PRC,"Rexford Industrial Realty, Inc. 5.625% Series C Cumulative Redeemable Preferred Stock, par value $0.",NYSE
 REYN,Reynolds Consumer Products Inc. Common Stock,NASDAQ
@@ -4501,7 +4506,7 @@ RNSHF,Renishaw Plc  Ordinary Shares,U
 RNSHY,Renishaw PLC Unsponsored ADR (United Kingdom),U
 RNST,Renasant Corporation Common Stock,NASDAQ
 RNUGF,Reneuron Group plc Guildford Ordinary Shares,U
-RNVAD,"Rennova Health, Inc. Common Stock",U
+RNVA,"Rennova Health, Inc. Common Stock",U
 RNVT,"Renovate Neighborhoods, Inc. Common Stock",U
 RNWB,Renewable Corporation (The) New Common Stock,U
 RNWEF,REC SILICON ASA Ordinary Shares (Norway),U
@@ -4912,9 +4917,6 @@ SAHRF,Sahara Energy Ltd Ordinary Shares,U
 SAIA,"Saia, Inc. Common Stock",NASDAQ
 SAIC,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION,NYSE
 SAIDF,Fidelity Minerals Corp Common Shares,U
-SAII,Software Acquisition Group Inc. II Class A Common Stock,NASDAQ
-SAIIU,Software Acquisition Group Inc. II Unit,NASDAQ
-SAIIW,Software Acquisition Group Inc. II Warrant,NASDAQ
 SAIL,"SailPoint Technologies Holdings, Inc. Common Stock",NYSE
 SAK,Saratoga Investment Corp. 7.25% Notes due 2025,NYSE
 SAKH,Sakha Enterprises Corp. Common Stock,U
@@ -5504,7 +5506,6 @@ SGMD,"Sugarmade, Inc. Common Stock",U
 SGMLF,Sigma Lithium Corporation Ordinary Shares,U
 SGMNF,Sutter Gold Mining Inc. Ordinary Shares (Canada),U
 SGMO,"Sangamo Therapeutics, Inc. Common Stock",NASDAQ
-SGMR,Sagamore Trading Group Inc Common Stock,U
 SGMS,Scientific Games Corp Common Stock,NASDAQ
 SGNI,"StemGen, Inc. Common Stock",U
 SGOC,"SGOCO Group, Ltd Ordinary Shares (Cayman Islands)",NASDAQ
@@ -5593,5 +5594,3 @@ SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHHPF,Ship Healthcare Holdings Inc Ordinary Shares (Japan),U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
-SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
-SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ

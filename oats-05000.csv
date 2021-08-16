@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
 CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
 CPK,Chesapeake Utilities,NYSE
 CPKB,Chesapeake Bancorp Common Stock,U
@@ -844,7 +845,6 @@ DBOXF,D Box Technologies Inc Ordinary Shares Class A (Canada),U
 DBP,Invesco DB Precious Metals Fund,ARCA
 DBPRF,"DB ETC PLC, ST HELIER PHYSICAL RHODIUM ETC ON RHODIUM Ordinary Shares",U
 DBRG,"DigitalBridge Group, Inc.",NYSE
-DBRG PRG,"DigitalBridge Group, Inc. 7.50% Series G Cumulative Redeemable Perpetual Preferred Stock",NYSE
 DBRG PRH,"DigitalBridge Group, Inc. 7.125% Series H Cumulative Redeemable Perpetual Preferred Stock",NYSE
 DBRG PRI,"DigitalBridge Group, Inc. 7.15% Series I Cumulative Redeemable Perpetual Preferred Stock",NYSE
 DBRG PRJ,"DigitalBridge Group, Inc. 7.125% Series J Cumulative Redeemable Perpetual Preferred Stock",NYSE
@@ -2369,7 +2369,7 @@ ENLTF,ENLIGHT RENEWABLE ENERGY LTD Shs (Israel),U
 ENLV,Enlivex Therapeutics Ltd. Ordinary Shares,NASDAQ
 ENMFF,Energem Resources Inc Ordinary Shares (Canada),U
 ENMHF,ENM Holdings Ltd Ordinary Shares (Hong Kong),U
-ENMI,"Energy Management International, Inc. Common Stock",U
+ENMID,DH ENCHANTMENT INC Common Stock,U
 ENMPF,Ensurge Micropower ASA Ordinary Shares,U
 ENMPY,Ensurge Micropower ASA American Depositary Receipts - Sponsored,U
 ENNPF,ENBRIDGE INC CUM RED PREF SHS SER N (Canada),U
@@ -2434,6 +2434,7 @@ EOHHF,EOH HOLDINGS LTD SHS (South Africa),U
 EOI,Eaton Vance Enhanced Equity Income Fund,NYSE
 EOLS,"Evolus, Inc. Common Stock",NASDAQ
 EONGY,E.ON SE Sponsored ADR (Germany),U
+EONXF,EONX TECHNOLOGIES INC COM (Canada),U
 EOPAF,EUROPA METALS LTD Ordinary Shares,U
 EOPS,Emles Alpha Opportunities ETF,BATS
 EOPSF,Electro Optic Systems Ltd Ordinary Shares (Australia),U
@@ -2712,13 +2713,13 @@ ETCG,Grayscale Ethereum Classic Trust (ETC) Common Stock,U
 ETCIA,Electronic Tele-Communications  Inc. Class A Common Stock,U
 ETCK,EnerTeck Corporation Common Stock,U
 ETCMY,Eutelsat Communications SA Sponsored ADR (France),U
+ETD,Ethan Allen Interiors Inc,NYSE
 ETEC,Emtec Inc Common Stock,U
 ETEK,"Eco-Tek Group, Inc. Common Stock",U
 ETER,Enterra Corporation Common Stock,U
 ETFBF,Wisdomtree Commodity Sec Ltd Gold Other,U
 ETFLF,Eastfield Res Ltd Ordinary Shares,U
 ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,NYSE
-ETH,Ethan Allen Interiors Inc,NYSE
 ETHE,GRAYSCALE ETHEREUM TR ETH Common units of fractional undivided beneficial interest Delaware,U
 ETHO,ETF Managers Trust New Issue,ARCA
 ETHOF,Ethos Gold Corp. Ordinary Shares (Canada),U
@@ -3001,7 +3002,6 @@ EYPT,"EyePoint Pharmaceuticals, Inc. Common Stock",NASDAQ
 EYUBY,Electricity Generating Public Co Ltd Unsponsored ADR (Thailand),U
 EYUUF,Electricity Generating Public Co Ltd Unit Non-Voting Depository Receipt (Thailand),U
 EZA,iShares MSCI South Africa ETF,ARCA
-EZCL,Ezy Cloud Holding Inc. Common Stock,U
 EZEN,Ezenia! Incorporated Common Stock,U
 EZFL,"EzFill Holdings, Inc. Common Stock",NASDAQ
 EZGO,EZGO Technologies Ltd. Ordinary Shares,NASDAQ
@@ -3035,6 +3035,7 @@ FAF,First American Financial Corporation,NYSE
 FAFL,"First Americano Financial Corporation (Elizabeth, NJ) Common Stock",U
 FAGI,"Full Alliance Group, Inc. Common Stock",U
 FAHE,Fahey Bkg Co Marion Ohio Common Stock,U
+FAHYF,ISHARES IV PLC FALLEN ANGELS HIGH YIELD CORP BOND UCITS ETF USD (Ireland),U
 FAIL,Cambria Global Tail Risk ETF,BATS
 FAKC,FaceKey Corp. Common Stock,U
 FALC,FALCONSTOR SOFTWARE INC Common Stock,U
@@ -3219,7 +3220,6 @@ FDLO,Fidelity Low Volatility Factor ETF,ARCA
 FDLPF,FONDUL PROPRIETATEA S A SPONSORED GDR REG S Global Depositary Receipts,U
 FDM,First Trust Dow Jones Select MicroCap Index Fund,ARCA
 FDMDF,4DMEDICAL LTD Ordinary Shares (Australia),U
-FDMFD,FREEDOM HLDG INC Common Stock,U
 FDMO,Fidelity Momentum Factor ETF,ARCA
 FDMQQ,Freedom Oil & Gas Ltd. Ordinary Shares,U
 FDMSF,Fandom Sports Media Corp. Ordinary Shares,U
@@ -3383,6 +3383,7 @@ FHI,"Federated Hermes, Inc.",NYSE
 FHILF,Freehill Mining Ltd Ordinary Shares (Australia),U
 FHLB,FRIENDLY HILLS BANCORP Common Stock,U
 FHLC,Fidelity MSCI Health Care Index ETF,ARCA
+FHLD,FREEDOM HLDG INC Common Stock,U
 FHLIF,F H L I Kyriakidis Marbles Granites SA Ordinary Shares (Registered with Vote),U
 FHN,First Horizon Corporation,NYSE
 FHN PRB,"First Horizon Corporation Depositary Shares, each representing a 1/400th interest in a share of Non-",NYSE
@@ -4158,7 +4159,9 @@ FTSSF,First Cobalt Corp Ordinary Shares (Canada),U
 FTTRF,Forterra Plc Ordinary Shares Gbp0.01 (United Kingdom),U
 FTUAF,Fuller Smith & Turner Plc A Ordinary Shares (United Kingdom),U
 FTV,Fortive Corporation,NYSE
+FTVI,FinTech Acquisition Corp. VI Class A Common Stock,NASDAQ
 FTVIU,FinTech Acquisition Corp. VI Units,NASDAQ
+FTVIW,FinTech Acquisition Corp. VI Warrants,NASDAQ
 FTWS,Flitways Technology Inc Common Stock,U
 FTWYF,Freightways Ltd Ordinary Shares (New Zealand),U
 FTWYY,Freightways Ltd Unsponsored ADR (New Zealand),U
@@ -5052,7 +5055,6 @@ GNLKQ,"Genelink, Inc. Common Stock",U
 GNLN,"Greenlane Holdings, Inc. Class A Common Stock",NASDAQ
 GNMA,iShares GNMA Bond ETF,NASDAQ
 GNMLF,Genoma Lab International SAB DE CV Ordinary Shares (Mexico),U
-GNMP,General Chemical Group Inc.  (The) Common Stock,U
 GNMSF,Genmab A/S Ordinary Shares,U
 GNNDY,GN Store Nord A/S ADR (Denmark),U
 GNNSF,Genscript Biotech Corp Ordinary Shares (Cayman Islands),U
@@ -5276,10 +5278,6 @@ GRNNF,Grand City Pptys SA Ordinary Shares (Luxembourg),U
 GRNO,Green Oasis Envrnmntl Inc Common Stock,U
 GRNQ,Greenpro Capital Corp. Common Stock,NASDAQ
 GRNTF,Barclays Bk PLC iPath Global Carbon ETN due 06/24/2038 (United Kingdom),U
-GRNV,GreenVision Acquisition Corp Common stock,NASDAQ
-GRNVR,GreenVision Acquisition Corp Rights,NASDAQ
-GRNVU,GreenVision Acquisition Corp Unit,NASDAQ
-GRNVW,GreenVision Acquisition Corp Warrant,NASDAQ
 GRNWF,Greenlane Renewables Inc Common Stock (Canada),U
 GRODF,GREEN ORGANIC DUTCHMAN HLDGS LTD  WT EXP 12/19/2022 Canada(CA ),U
 GROLF,Petrotarg AB Ordinary Shares,U

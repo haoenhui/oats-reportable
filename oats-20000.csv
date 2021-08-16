@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
+SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
@@ -249,7 +251,6 @@ SKLUY,Skellerup Holdings Ltd. Unsponsored ADR (New Zealand),U
 SKLV,SKYE LIFE VENTURES LTD Common Stock,U
 SKLYF,Skylark Co Ltd. Ordinary Shares (Japan),U
 SKLZ,Skillz Inc.,NYSE
-SKLZ WS,"Skillz Inc. Warrants, each whole warrant exercisable for one share of Class A common stock at an exe",NYSE
 SKM,"SK Telecom Co., Ltd.",NYSE
 SKMT,"Chengda Technology Co., Ltd. Common Shares",U
 SKOR,FlexShares Trust FlexShares Credit-Scored US Corporate Bond Index Fund,NASDAQ
@@ -522,7 +523,6 @@ SMTC,Semtech Corporation Common Stock,NASDAQ
 SMTEF,Smart Eye Aktiebolag Share AK (Sweden),U
 SMTGF,"SMA Solar Technology Ag, Niestetal Ordinary shares (Germany)",U
 SMTGY,SMA Solar Technology AG Unsponsored ADR (Germany),U
-SMTHP,SUMMIT HOTEL PPTYS INC CUM RED PFD SER F,U
 SMTI,Sanara MedTech Inc. Common Stock,NASDAQ
 SMTK,"SmartKem, Inc. Common Stock",U
 SMTLF,GCL New Energy Holdings Ltd. Ordinary Shares,U
@@ -2124,6 +2124,7 @@ TGGRF,Taruga Gold Ltd Ordinary Shares (Australia),U
 TGH,Textainer Group Holdings limited,NYSE
 TGH PRA,"Textainer Group Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share",NYSE
 TGHI,"Touchpoint Group Holdings, Inc. Common Stock",U
+TGHPV,TEXTAINER GROUP HLDGS LTD DEP SHS REPSTG 1/1000TH RED PERP PREF SHS SER B,U
 TGI,"Triumph Group, Inc.",NYSE
 TGIC,Triad Guaranty Inc. Common Stock,U
 TGIF,SoFi Weekly Income ETF,ARCA
@@ -3011,7 +3012,7 @@ TTP,"TORTOISE PIPELINE & ENERGY FUND, INC.",NYSE
 TTRAF,Telstra Corporation Limited Ordinary Shares,U
 TTRHF,Terra Energy Corp Ordinary Shares (Canada),U
 TTRKF,Turk Traktor Ve Ziraat Makineleri AS Ordinary Shares (Turkey),U
-TTRNV,TRITON INTL LTD PERP PREF SER E (Bermuda),U
+TTRNF,TRITON INTL LTD PERP PREF SER E (Bermuda),U
 TTSH,"Tile Shop Holdings, Inc. Common Stock",NASDAQ
 TTSI,"Tactical Services, Inc. Common Stock",U
 TTSRF,Tartisan Nickel Corp Ordinary Shares,U
@@ -3173,7 +3174,6 @@ TYG,Tortoise Energy Infrastructure Corp.,NYSE
 TYHJF,Tyhee Gold Corporation Ordinary Shares (Canada),U
 TYHOF,Toyota Tsusho Ord Ordinary Shares,U
 TYHT,"Shineco, Inc. Common Stock",NASDAQ
-TYIBF,Turkiye IS Bankasi AS Cl C Ordinary Shares (Turkey),U
 TYIDF,Toyota Industries Corporation Ordinary Shares,U
 TYIDY,Toyota Industries Corporation Unsponsored ADR (Japan),U
 TYL,"Tyler Technologies, Inc.",NYSE
@@ -3228,7 +3228,7 @@ UBEOY,UBE Industries Ltd Unsponsored ADR (Japan),U
 UBER,"Uber Technologies, Inc.",NYSE
 UBEX,"United Bullion Exchange, Inc. Common Stock",U
 UBFO,United Security Bancshares Common Stock,NASDAQ
-UBGHF,U BANQUET GROUP HLDG LTD SHS (Cayman Islands),U
+UBGHF,NET-A-GO TECHNOLOGY CO LTD Ordinary Shares,U
 UBGZF,UBS AG LONDON BRH Warrant   07/26/2024,U
 UBIA,UBI BlockChain Internet Ltd. Common Stock,U
 UBIHF,UBICOM HOLDINGS INC Ordinary Shares,U
@@ -3547,7 +3547,7 @@ URPLF,New Klondike Exploration Ltd. Ordinary Shares,U
 URRNF,Twenty Seven Co Ltd Ordinary Shares (Australia),U
 URTH,iShares MSCI World ETF,ARCA
 URTY,ProShares UltraPro Russell2000,ARCA
-URVNF,Uravan Minerals Inc Common Shares (Canada),U
+URVND,Uravan Minerals Inc Common Shares,U
 URXZF,Tenth Avenue Petroleum Corp Common Shares,U
 URYL,United Royale Holdings Corp Common Stock,U
 USA,Liberty All-Star Equity Fund,NYSE
@@ -3845,7 +3845,6 @@ VEOEF,Veolia Environnement Ordinary Shares (France),U
 VEOEY,Veolia Environnement American Depositary Receipts - Sponsored,U
 VEON,VEON Ltd. ADS,NASDAQ
 VER,"VEREIT, Inc.",NYSE
-VER PRF,"VEREIT, Inc. 6.70% Series F Cumulative Redeemable Preferred Stock",NYSE
 VERA,"Vera Therapeutics, Inc. Class A Common Stock",NASDAQ
 VERB,"Verb Technology Company, Inc. Common Stock",NASDAQ
 VERBW,"Verb Technology Company, Inc. Warrant",NASDAQ
@@ -4637,6 +4636,7 @@ WHLKF,Wheelock & Co Ltd Hkd .50 Ord Ordinary Shares,U
 WHLM,"Wilhelmina International, Inc. Common Stock",NASDAQ
 WHLR,"Wheeler Real Estate Investment Trust, Inc. Common Stock",NASDAQ
 WHLRD,"Wheeler Real Estate Investment Trust, Inc. Series D Cumulative Preferred Stock",NASDAQ
+WHLRL,"Wheeler Real Estate Investment Trust, Inc. 7.00% Senior Subordinated Convertible Notes Due 2031",NASDAQ
 WHLRP,"Wheeler Real Estate Investment Trust, Inc. Class B Preferred Stock",NASDAQ
 WHLT,Chase Packaging Corp 5pfd A Common Stock,U
 WHLX,WLMG Holding Inc Common Stock,U
@@ -5223,7 +5223,7 @@ XVV,iShares ESG Screened S&P 500 ETF,BATS
 XVZ,iPath S&P 500 Dynamic VIX ETN,BATS
 XWEB,SPDR S&P Internet ETF,ARCA
 XXFPL,"FFP Partners, L.P. Units Rep. Class A Limited Partnership Interests",U
-XXII,22nd Century Group Inc.,AMEX
+XXII,"22nd Century Group, Inc. Common Stock",NASDAQ
 XXLLY,XXL ASA American Depositary Receipts - Unsponsored (Norway),U
 XXMMF,XIMEN MINING CORP Ordinary Shares,U
 XYF,"X Financial American Depositary Shares, each representing six Class A Ordinary Shares",NYSE
@@ -5512,7 +5512,6 @@ ZMSPF,Zecotek Photonics Inc Ordinary Shares (Canada),U
 ZMTBY,Zumtobel Ag Dornbirn Unsponsored ADR (Austria),U
 ZMWYF,Zoomaway Technologies Inc Common Shares,U
 ZNAE,Zane Interactive Publishng Inc Common Stock,U
-ZNCM,"Zunicom, Inc. Common Stock",U
 ZNCXF,Zincx Res Corp Common Shares,U
 ZNGA,Zynga Inc. Class A Common Stock,NASDAQ
 ZNGGF,Zanaga Iron Ore Company Ltd Ordinary Shares (British Virgin Islands),U
