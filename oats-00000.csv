@@ -895,7 +895,7 @@ AKAAF,Aker Asa Shares A (Norway),U
 AKABY,Alk Abello A S Sponsored ADR (Denmark),U
 AKAFF,Akatsuki Inc Common Shares (Japan),U
 AKAM,"Akamai Technologies, Inc. Common Stock",NASDAQ
-AKAVF,Envirotek Remediation Inc Common Shares,U
+AKAVF,HOMERUN RES INC Common Shares,U
 AKBA,"Akebia Therapeutics, Inc. Common Stock",NASDAQ
 AKBIF,Akebono Brake Industries Ordinary Shares,U
 AKBLF,Alk-Abello A/S Shares -B- (Denmark),U
@@ -1620,6 +1620,7 @@ ARGYF,AVANTI ENERGY INC Ordinary Shares,U
 ARHCF,Alfresa Holdings Corp Tokyo Ordinary Shares (Japan),U
 ARHH,Assure Hldgs Corp Common Stock,U
 ARHI,"American Restaurant Holdings, Inc. Common Stock",U
+ARHLF,ARCHTIS LTD Ordinary Shares,U
 ARHN,Archon Corporation Common Stock,U
 ARHOF,Amrest Hldgs Se Ordinary Shares,U
 ARHTF,"Arht Media, Inc. Ordinary Shares",U
@@ -1731,7 +1732,7 @@ ARZTY,"Aryzta Ag, Zuerich Unsponsored ADR (Switzerland)",U
 ASA,ASA GOLD AND PRECIOUS METALS LIMITED,NYSE
 ASAAF,At& S Austria Technologie & & SystemTechnik AG Leoben (Austria),U
 ASAGF,Australian Agricultural Co Ordinary Shares,U
-ASAI,Sendas Distribuidora S.A. American Depositary Share (each representing one Common Share),NYSE
+ASAI,Sendas Distribuidora S.A. American Depositary Share (each representing five common shares),NYSE
 ASAIF,Artificial Solutions International AB Ordinary Shares (Sweden),U
 ASAM,AssuranceAmerica Corporation Common Stock,U
 ASAN,"Asana, Inc. Class A Common Stock",NYSE
@@ -3407,7 +3408,6 @@ BPCP,Bishop Capital Corporation NewCommon Stock,U
 BPCVF,BANCA PICCOLO CREDITO VALTELLINESE SPA AZIONI Ordinary Shares (Italy),U
 BPHLF,Bank of the Philippine Islands BPI Ordinary Shares,U
 BPHLY,Bank of the Philippine Islands BPI Unsponsored ADR (Philippines),U
-BPHMF,BIOFERMIN PHARMACEUTICAL CO LTD SHS,U
 BPIGF,"BPI Energy Holdings, Inc. Ordinary Shares (Canada)",U
 BPIRF,PIRAEUS FINL HLDGS S A Ordinary Shares,U
 BPIRY,Piraeus Financial Holdings S.A. American Depositary Receipts - Sponsored,U
@@ -3692,7 +3692,7 @@ BTBIF,BTB Real Estate Invt Tr Tr Unit (Canada),U
 BTBT,"Bit Digital, Inc. Ordinary Shares",NASDAQ
 BTCA,"Bactolac Pharmaceutical, Inc. Common Stock New",U
 BTCM,BIT Mining Limited,NYSE
-BTCS,BTCS Inc. Common Stock,U
+BTCSD,BTCS Inc. Common Stock,U
 BTCWF,Bluesky Digital Assets Corp Ordinary Shares,U
 BTCY,Biotricity Inc. Common Stock,U
 BTDG,"B2Digital, Inc. Common Stock",U
@@ -3829,7 +3829,6 @@ BWEN,"Broadwind, Inc. Common Stock",NASDAQ
 BWERY,BW Energy American Depository Receipts (Bermuda),U
 BWFG,"Bankwell Financial Group, Inc. Common Stock",NASDAQ
 BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc.,NYSE
-BWL A,Bowl America Incorporated,AMEX
 BWLKF,Boardwalktech Software Corporation Common Shares (Canada),U
 BWLLF,BW Lpg Ltd. Ordinary Shares (Bermuda),U
 BWLLY,BW Lpg Ltd. American Depositary Receipt (Unsponsored)(Bermuda),U
@@ -4514,7 +4513,6 @@ CFFVW,CF Acquisition Corp. V Warrant,NASDAQ
 CFG,"Citizens Financial Group, Inc.",NYSE
 CFG PRD,"Citizens Financial Group, Inc. Depositary Shares, each representing a 1/40th Interest in a Share of",NYSE
 CFG PRE,"Citizens Financial Group, Inc.Depositary Shares Each Representing 1/40th Interest in a Share of 5.00",NYSE
-CFGMF,California Gold Mining Inc. Common Shares,U
 CFGW,Community Financial Group Inc (Washington) Common Stock,U
 CFGX,"Capital Financial Global, Inc. Common Stock",U
 CFIC,Cornerstone Financial Corporation (NJ) Common Stock,U
@@ -5517,7 +5515,6 @@ COP,ConocoPhillips,NYSE
 COPGF,Croplogic Ltd Ordinary Shares  (New Zealand),U
 COPHF,Creso Pharma Ltd Ordinary Shares (Australia),U
 COPJF,Cooper Energy Limited Ordinary Shares (Australia),U
-COPLF,SEAFARMS GROUP LTD  Ordinary Shares,U
 COPRF,MEDIVOLVE INC Common Shares,U
 COPX,Global X Copper Miners ETF (NEW),ARCA
 COR,Coresite Realty Corporation,NYSE
@@ -5532,7 +5529,6 @@ CORR,"CorEnergy Infrastructure Trust, Inc. (NEW",NYSE
 CORR PRA,"CorEnergy Infrastructure Trust, Inc Depositary Shares representing a 1/100th fractional interest of",NYSE
 CORS U,"Corsair Partnering Corporation Units, each consisting of one Class A ordinary share and one-third of",NYSE
 CORT,Corcept Therapeutics Incorporated Common Stock,NASDAQ
-CORX,Core Lithium Corp. Common Stock,U
 COSDF,Cosol Ltd. Ordinary Shares (Australia),U
 COSG,Cosmos Group Holdings Inc. Common Stock,U
 COSLF,CO2 Solutions Inc Common Shares (Canada),U
@@ -5594,3 +5590,8 @@ CPHI,"China Pharma Holdings, Inc.",AMEX
 CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
+CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
+CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
+CPK,Chesapeake Utilities,NYSE
+CPKB,Chesapeake Bancorp Common Stock,U
+CPKF,Chesapeake Financial Shares Inc Common Stock,U

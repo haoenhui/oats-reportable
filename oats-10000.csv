@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
-GXIIU,GX Acquisition Corp. II Unit,NASDAQ
 GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
 GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
 GXO,"GXO Logistics, Inc.",NYSE
@@ -426,7 +424,6 @@ HKBNY,HKBN Ltd Unsponsored ADR (Hong Kong),U
 HKBT,HK Battery Technology Inc. Common Stock,U
 HKBV,"Hat Trick Beverage, Inc. Common Stock",U
 HKCVF,HK ELEC INVTS & HK ELEC INVTS LTD  Ordinary Shares Stapled Unit (Hong Kong),U
-HKEB,HK eBus Corporation Common Stock,U
 HKFIF,HONG KONG FOOD INVESTMENT HOLDNGS LTD Ordinary Shares  Hong Kong(HK ),U
 HKGEF,Hong Kong Economic Times Holdings Limited Ordinary Shares (Cayman Islands),U
 HKGT,HK Graphene Technology Corp. Common Stock,U
@@ -1491,7 +1488,6 @@ IIKKF,Iino Kaiun Kaisha Ltd Ordinary Shares (Japan),U
 IIM,INVESCO VALUE MUNICIPAL INCOME TRUST,NYSE
 IIN,Intricon Corporation Common Stock,NASDAQ
 IINDF,INTEGRA INDOCABINET TBK PT Ordinary Shares (Indonesia),U
-IINHF,Imagi International Holdings Ltd Ordinary Shares,U
 IINN,Inspira Technologies Oxy B.H.N. Ltd. Ordinary Shares,NASDAQ
 IINNW,Inspira Technologies Oxy B.H.N. Ltd. Warrant,NASDAQ
 IINX,"Ionix Technology, Inc. Common Stock",U
@@ -1529,7 +1525,6 @@ IKTSF,Intertek Group Plc Ordinary Shares (UK),U
 IKTSY,Intertek Group Plc Unsponsored ADR (UK),U
 ILAL,"International Land Alliance, Inc. Common Stock",U
 ILCB,iShares Morningstar U.S. Equity ETF,ARCA
-ILCC,International Leaders Capital Corporation Common Stock,U
 ILCG,iShares Morningstar Growth ETF,ARCA
 ILCM,Illinois Community Bancorp Common Stock,U
 ILCV,iShares Morningstar Value ETF,ARCA
@@ -1557,7 +1552,10 @@ IMAB,I-MAB American Depositary Shares,NASDAQ
 IMAC,"IMAC Holdings, Inc. Common Stock",NASDAQ
 IMACW,"IMAC Holdings, Inc. Warrant",NASDAQ
 IMAHF,I-Minerals Inc Ordinary Shares (Canada),U
+IMAQ,International Media Acquisition Corp. Class A Common Stock,NASDAQ
+IMAQR,International Media Acquisition Corp. Rights,NASDAQ
 IMAQU,International Media Acquisition Corp. Unit,NASDAQ
+IMAQW,International Media Acquisition Corp. Warrants,NASDAQ
 IMATF,ISHARES V PLC S&P 500 MATERIALS SECTOR UCITS ETF USD (Ireland) Exchange Traded Fund,U
 IMAX,Imax Corp,NYSE
 IMBBF,IMPERIAL BRANDS PLC Ordinary Shares,U
@@ -1711,6 +1709,7 @@ INGEF,Ingenia Communities Group Units Fully Paid Stapled Securities (Australia),
 INGKY,ING Bk Slaski SA American Depositary Receipts - Unsponsored (Poland),U
 INGLF,Ingenta PLC Ordinary Shares (United Kingdom),U
 INGN,"Inogen, Inc Common Stock",NASDAQ
+INGP,INTERNATIONAL PROFESSIONAL TRAININGS GROUP LTD Common Stock,U
 INGR,Ingredion Incorporated,NYSE
 INGVF,"ING Group, N.V. Other",U
 INGXF,Innergex Renewable Energy Inc Common shares (Canada),U
@@ -1744,7 +1743,6 @@ INND,"Innerscope Hearing Technologies, Inc. Common Stock",U
 INNI,Innovaro Inc Common Stock,U
 INNMF,Amplia Therapeutics Ltd Ordinary Shares,U
 INNPF,Innocan Pharma Corp Common Stock (Canada),U
-INNTW,9 METERS BIOPHARMA INC Warrant,U
 INNV,InnovAge Holding Corp. Common Stock,NASDAQ
 INNX,Infinite Networks Corporation Common Stock,U
 INO,"Inovio Pharmaceuticals, Inc. Common Stock",NASDAQ
@@ -1918,6 +1916,7 @@ IPXHF,Inpex Corporation Ordinary Shares (Japan),U
 IPXHY,Inpex Corporation Unsponsored ADR (Japan),U
 IPZYF,IP Group PLC Ordinary Shares (United Kingdom),U
 IQ,"iQIYI, Inc. American Depositary Shares",NASDAQ
+IQAIF,IQ AI Ltd Ordinary Shares,U
 IQDE,FlexShares International Quality Dividend Defensive Index Fund,ARCA
 IQDF,FlexShares International Quality Dividend Index Fund,ARCA
 IQDG,WisdomTree International Quality Dividend Growth Fund,BATS
@@ -3116,7 +3115,7 @@ KLDIW,KLDISCOVERY RED WT EXP 12/01/2025,U
 KLDO,"Kaleido Biosciences, Inc. Common Stock",NASDAQ
 KLDW,Knowledge Leaders Developed World ETF,ARCA
 KLEEF,Kleeman Hellas Sa Kilkis Ordinary Shares,U
-KLGDF,Kalo Gold Holdings Corp. Ordinary Shares (Canada),U
+KLGDF,Kalo Gold Corp Ordinary Shares,U
 KLGG,"Klegg Electronics, Inc. Common Stock",U
 KLGSY,Kerry Logistics Network Ltd Unpsonsored ADR (Bermuda),U
 KLIB,"Killbuck Bancshares, Inc. (Ohio) Common Stock",U
@@ -3627,7 +3626,7 @@ LDI,"loanDepot, Inc.",NYSE
 LDL,"Lydall, Inc.",NYSE
 LDNXF,London Stock Exchange Group plc Ordinary Shares,U
 LDOC,LinkDoc Technology Limited American Depositary Shares,NASDAQ
-LDOMF,LIDO MINERALS LTD Common Shares,U
+LDOMF,HIGHLANDER SILVER CORP Common Shares,U
 LDOS,"Leidos Holdings, Inc.",NYSE
 LDP,COHEN & STEERS LIMITED DURATION PREFERRED AND INCOME FUND INC,NYSE
 LDRUF,Lidco Group Ltd Ordinary Shares,U
@@ -3638,6 +3637,7 @@ LDSID,American Picture House Corporation Common Stock,U
 LDSN,Luduson G Inc. Common Stock,U
 LDSVF,Lindt & Sprungli Ag Part Cert Ordinary Shares,U
 LDUR,PIMCO Enhanced Low Duration Active Exchange-Traded Fund,ARCA
+LDXHF,LUMOS DIAGNOSTICS HLDGS LTD ORDINARY FULLY PAID (Australia),U
 LE,"Lands' End, Inc. Common Stock",NASDAQ
 LEA,Lear Corporation,NYSE
 LEAD,Siren DIVCON Leaders Dividend ETF,BATS
@@ -3676,7 +3676,7 @@ LEJU,Leju Holdings Limited,NYSE
 LEKOF,Lekoil Ltd GBP Ordinary Shares (Cayman Islands),U
 LEMB,iShares J.P. Morgan EM Local Currency Bond ETF,ARCA
 LEMIF,Leading Edge Materials Corp. Common Shares,U
-LEMLF,LEAF MOBILE INC COM (Canada),U
+LEMLD,LEAF MOBILE INC Other,U
 LEN,Lennar Corporation Class A,NYSE
 LEN B,Lennar Corporation Class B,NYSE
 LENSF,Presbia PLC Ordinary Shares,U
@@ -4984,7 +4984,6 @@ MITA,Coliseum Acquisition Corp. Class A Ordinary Share,NASDAQ
 MITAU,Coliseum Acquisition Corp. Unit,NASDAQ
 MITAW,Coliseum Acquisition Corp. Warrant,NASDAQ
 MITC,MeaTech 3D Ltd. American Depositary Shares,NASDAQ
-MITCF,Mitani Corp Ordinary Shares (Japan),U
 MITEF,Mitsubishi Estate Co Ltd Ordinary Shares (Japan),U
 MITEY,Mitsubishi Estate Co Ltd American Depositary Shares,U
 MITFF,Mitie Group plc Ordinary Shares (United Kingdom),U
@@ -5231,7 +5230,7 @@ MNMB,Merchants & Marine Bancorp Inc. Common Stock,U
 MNMD,Mind Medicine (MindMed) Inc. Subordinate Voting Shares,NASDAQ
 MNMT,MOTIVATING THE MASSES INC Common Shares,U
 MNNDF,Nurosene Heath Inc Common Stock (Canada),U
-MNNFF,MINFOCUS EXPLORATION Ordinary Shares,U
+MNNFD,MINFOCUS EXPLORATION Ordinary Shares,U
 MNNGF,Affluent Partners Holdings Ltd. Ordinary Shares,U
 MNNLF,Menicon Co Ltd. Ordinary Shares,U
 MNOIY,Mandarin Oriental International Ltd Unsponsored ADR,U
@@ -5347,7 +5346,7 @@ MOV,"Movado Group, Inc.",NYSE
 MOVAA,Movado Group Inc. Class A Common Stock,U
 MOVE,Movano Inc. Common Stock,NASDAQ
 MOVYY,Movida Participacoes SA Sponsored ADR (Brazil),U
-MOXC,"Moxian, Inc. Common Stock",NASDAQ
+MOXC,Moxian (BVI) Inc Ordinary Shares,NASDAQ
 MOYFF,Mynaric AG Ordinary Shares (Germany),U
 MOZBF,MOSAIC BRANDS LTD ORDINARY FULLY PAID (Australia),U
 MP,MP Materials Corp.,NYSE
@@ -5594,3 +5593,4 @@ MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
+MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U

@@ -871,6 +871,8 @@ SPIB,SPDR Portfolio Intermediate Term Corporate Bond ETF,ARCA
 SPIDY,Septeni Holdings Co Ltd Tokyo Unsponsored ADR (Japan),U
 SPIN,"Spine Injury Solutions, Inc. Common Stock",U
 SPIP,SPDR Portfolio TIPS ETF,ARCA
+SPIR,"Spire Global, Inc.",NYSE
+SPIR WS,"Spire Global, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Stock at",NYSE
 SPIWF,Spie SA Ordinary Shares (France),U
 SPIZF,Sparebanken Vest AS Primary Cap Cert (Norway),U
 SPK,SPK Acquisition Corp. Common Stock,NASDAQ
@@ -1627,7 +1629,6 @@ SWNNU,Southwest Minn Agrifuels Coop LLC Unit,U
 SWONF,SOFTWAREONE HLDG AG NAMEN AKT (Switzerland),U
 SWOOF,SSGA SPDR ETFs Europe II PLC SPDR MSCI World Health Care UCITS ETF (Ireland),U
 SWPFF,Swire Pptys Ltd Ord Shs (Hong Kong),U
-SWPIF,Sawai Pharmaceutical Co Ltd Ordinary Shares,U
 SWPLY,Swire Pptys Ltd American Depositary Receipts - Unsponsored (Hong Kong),U
 SWPRF,Swiss Prime Site AG Namen AKT,U
 SWQGF,SWISSQUOTE GROUP HOLDING SA GLAND SHS NOM (Switzerland),U
@@ -1938,7 +1939,6 @@ TCOM,Trip.com Group Limited American Depositary Shares,NASDAQ
 TCON,"TRACON Pharmaceuticals, Inc. Common Stock",NASDAQ
 TCOR,"TreeCon Resources, Inc. Common Stock",U
 TCPC,BlackRock TCP Capital Corp. Common Stock,NASDAQ
-TCPDF,TRUE CORPORATION PUBLIC COMPANY LIMITED NVDR SHARES Depositary Receipts,U
 TCPFF,True Corporation Public Co Ltd Ordinary Shares,U
 TCPHF,THANACHART CAPITAL PUBLIC CO LTD LOCAL SHARES (Thailand),U
 TCPTF,Thanachart Capital Public Co Ltd. NVDR Shares (Thailand),U
@@ -3176,6 +3176,7 @@ TYHOF,Toyota Tsusho Ord Ordinary Shares,U
 TYHT,"Shineco, Inc. Common Stock",NASDAQ
 TYIDF,Toyota Industries Corporation Ordinary Shares,U
 TYIDY,Toyota Industries Corporation Unsponsored ADR (Japan),U
+TYKIF,TOYO INK MFG CO LTD Ordinary Shares,U
 TYL,"Tyler Technologies, Inc.",NYSE
 TYME,"Tyme Technologies, Inc. Common Stock",NASDAQ
 TYNPF,Nippon Sanso Holdings Corp Ordinary Shares,U
@@ -4611,7 +4612,6 @@ WGIH,"WGI Holdings, Inc. Common Stock",U
 WGLD,Wilshire wShares Enhanced Gold Trust,ARCA
 WGMCF,Winston Gold Corp Ordinary Shares,U
 WGNAP,WGNB Corp. 9% Series A Convertible Preferred Stock,U
-WGNHF,WAGNERS HLDG CO LTD Ordinary Shares,U
 WGNR,Wegener Corporation Common Stock,U
 WGO,"Winnebago Industries, Inc.",NYSE
 WGRO,WisdomTree Trust WisdomTree U.S. Growth & Momentum Fund,NASDAQ

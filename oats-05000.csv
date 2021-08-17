@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
-CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
-CPK,Chesapeake Utilities,NYSE
-CPKB,Chesapeake Bancorp Common Stock,U
-CPKF,Chesapeake Financial Shares Inc Common Stock,U
 CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
 CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U
 CPKPY,C P Pokphand Co Ltd Sponsored ADR (Bermuda) USD,U
@@ -287,6 +282,7 @@ CSGH,China Sun Group High-Tech Co. Common Stock,U
 CSGKF,Credit Suisse Group Ordinary Shares,U
 CSGP,"CoStar Group, Inc. Common Stock",NASDAQ
 CSGQF,Costain Group PLC Ordinary Shares (United Kingdom),U
+CSGRF,CHINA SILVER GROUP LTD Ordinary Shares,U
 CSGS,"CSG Systems International, Inc. Common Stock",NASDAQ
 CSGU,Consolidated Sports Media Group Common Stock,U
 CSGYY,Cosmo Energy Hldgs Co Ltd American Depositary Receipts - Unsponsored (Japan),U
@@ -2237,6 +2233,7 @@ EMBYF,Nexera Energy Inc Ordinary Shares,U
 EMCB,WisdomTree Trust WisdomTree Emerging Markets Corporate Bond Fund,NASDAQ
 EMCF,Emclaire Financial Corp Common Stock,NASDAQ
 EMCHF,EML Payments Ltd. Ordinary Shares,U
+EMCMF,EMERGE COMM LTD Common Shares,U
 EMD,"Western Asset Emerging Markets Debt Fund, Inc",NYSE
 EMDF,"E Med Future, Inc. Common Stock",U
 EMDV,ProShares MSCI Emerging Markets Dividend Growers ETF,BATS
@@ -3059,7 +3056,7 @@ FARYF,FAR Limited. Ordinary Shares,U
 FAS,Direxion Daily Financial Bull 3x Shares,ARCA
 FASDF,FANTASY ACES DAILY FANTASY SPORTS CORP Ordinary Shares,U
 FAST,Fastenal Company Common Stock,NASDAQ
-FAT,FAT Brands Inc. Common Stock,NASDAQ
+FAT,FAT Brands Inc. Class A Common Stock,NASDAQ
 FATBP,FAT Brands Inc. 8.25% Series B Cumulative Preferred Stock,NASDAQ
 FATBW,FAT Brands Inc. Warrant,NASDAQ
 FATE,"Fate Therapeutics, Inc. Common Stock",NASDAQ
@@ -3392,6 +3389,7 @@ FHN PRD,"First Horizon Corporation Depositary Shares, each representing a 1/400t
 FHN PRE,"First Horizon Corporation Depositary Shares, Each Representing a 1/ 4000th Interest in a Share of No",NYSE
 FHN PRF,"First Horizon Corporation Depositary Shares, each representing 1/4000th Interest in a Share of Non-C",NYSE
 FHNGY,FOSCHINI GRP LTD American Depositary Receipts - Unsponsored (South Africa),U
+FHPGF,5TH PLANET GAMES SHS (Denmark),U
 FHRT,First Hartford Corp Unclassified,U
 FHS,"First High-School Education Group Co., Ltd. American Depositary Shares (each representing three (3)",NYSE
 FHTF,FHT FUTURE TECHNOLOGY LTD Common Stock,U
@@ -3497,7 +3495,6 @@ FLAU,Franklin FTSE Australia ETF,ARCA
 FLAX,Franklin FTSE Asia ex Japan ETF,ARCA
 FLBL,Franklin Liberty Senior Loan ETF,BATS
 FLBR,Franklin FTSE Brazil ETF,ARCA
-FLBSF,IQ AI Ltd Ordinary Shares,U
 FLC,Flaherty & Crumrine Total Return Fund Incorporated,NYSE
 FLCA,Franklin FTSE Canada ETF,ARCA
 FLCB,Franklin Liberty U.S. Core Bond ETF,ARCA
@@ -4461,7 +4458,7 @@ GBUG,Pacer iPath Gold ETNs,ARCA
 GBUX,GIVBUX INC Common Stock,U
 GBX,"The Greenbrier Companies, Inc.",NYSE
 GBXI,"GBX International Group, Inc. Common Stock",U
-GBXPF,VIA VAREJO SA REGISTERED SHARES ORDINARY COMMON SHARES (Brazil),U
+GBXPF,VIA SA Ordinary Shares,U
 GBXPY,Via Varejo S.A.  American Depositary Shares,U
 GBXXY,Grand Baoxin Auto Group Ltd American Depositary Receipts - Unsponsored (Cayman Islands),U
 GCAAF,Guardian Cap Grp Ltd Cl-A Ordinary Shares,U
@@ -4680,6 +4677,8 @@ GGGOF,Galane Gold Ltd Common Shares (Canada),U
 GGGRF,Global Gardens Group Ordinary Shares,U
 GGGSF,Greggs plc Ordinary Shares (United Kingdom),U
 GGGSY,Greggs plc Unsponsored ADR (UK),U
+GGGV,G3 VRM Acquisition Corp. Class A Common Stock,NASDAQ
+GGGVR,G3 VRM Acquisition Corp. Rights,NASDAQ
 GGGVU,G3 VRM Acquisition Corp. Units,NASDAQ
 GGIFF,Garibaldi Resources Corp Ordinary Shares (Canada),U
 GGII,"Green Globe International, Inc. Common Stock",U
@@ -4733,7 +4732,6 @@ GHL,"Greenhill & Co., Inc.",NYSE
 GHLD,Guild Holdings Company,NYSE
 GHM,Graham Corporation,NYSE
 GHMP,GOOD HEMP INC Common Stock,U
-GHRID,INTERNATIONAL PROFESSIONAL TRAININGS GROUP LTD Common Stock,U
 GHRS,GH Research PLC Ordinary Shares,NASDAQ
 GHSI,"Guardion Health Sciences, Inc. Common Stock",NASDAQ
 GHST,"Ghost Technology, Inc. Common Stock",U
@@ -4818,6 +4816,7 @@ GLAPY,Glanbia Plc American Depositary Shares,U
 GLAQ,Globis Acquisition Corp. common stock,NASDAQ
 GLAQU,Globis Acquisition Corp. Unit,NASDAQ
 GLAQW,Globis Acquisition Corp. Warrant,NASDAQ
+GLARF,GLADIATOR RESOURCES LTD Ordinary Shares,U
 GLASF,Glass House Brands Inc. Common Shares,U
 GLATF,Global Atomic Corp Ordinary Shares,U
 GLAXF,Glaxosmithkline Plc Ord 25p Ordinary Shares,U
@@ -5343,7 +5342,6 @@ GRYCF,GRAYCLIFF EXPL LTD Common Stock (Canada),U
 GRYEF,"AU MIN AFRICA PTY, LTD. (South Africa)Common Stock",U
 GRYG,"Green Energy Group, Inc. Common Stock",U
 GRYN,Green Hygienics Holdings Inc. Common Stock,U
-GRYRF,GEO ENERGY RES LTD Ordinary Shares (Singapore),U
 GRZZP,Grizzly Energy LLC Preferred Series A,U
 GRZZU,"Grizzly Energy, LLC Series C Common Unit",U
 GS,Goldman Sachs Group Inc.,NYSE
@@ -5594,3 +5592,5 @@ GWYT,Greenway Technology Common Stock,U
 GXC,SPDR S&P China ETF,ARCA
 GXF,Global X FTSE Nordic Region ETF,ARCA
 GXG,Global X MSCI Colombia ETF,ARCA
+GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
+GXIIU,GX Acquisition Corp. II Unit,NASDAQ

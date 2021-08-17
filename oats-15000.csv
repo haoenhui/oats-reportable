@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
@@ -1013,9 +1012,6 @@ NSFDF,NXT Energy Solutions Inc. Ordinary Shares (Canada),U
 NSFMF,NISSHIN SEIFUN GROUP INC  Ltd Ordinary Shares  Japan(JP ),U
 NSGCF,NORTHSTAR GOLD CORP Common Stock  (Canada),U
 NSGDF,NSGold Corp. Common Shares,U
-NSH,"NavSight Holdings, Inc.",NYSE
-NSH U,"NavSight Holdings, Inc. Units, each consisting of one share of Class A Common Stock and one-half of",NYSE
-NSH WS,"NavSight Holdings, Inc. Warrants, each whole warrant exercisable for one share of Class A Common Sto",NYSE
 NSHBY,Nisshinbo Holdings Inc. Unsponsored ADR (Japan),U
 NSHKF,Nippon Shokubai Co Ltd Ordinary Shares (Japan),U
 NSHRF,Northern Shield Res Inc Common Shares (Canada),U
@@ -1096,6 +1092,7 @@ NTGSF,Golden Predator Mining Corp Common Cl A (Canada),U
 NTHD,NetImpact Holdings Inc Common Stock,U
 NTIC,Northern Technologies International Corporation Common Stock,NASDAQ
 NTII,"Neurobiological Technologies, Inc. Common Stock",U
+NTILF,NEUROTECH INTL LTD ORDINARY FULLY PAID (Australia),U
 NTIOF,"National Bank of Canada (Montreal, Quebec) Ordinary Shares",U
 NTIP,"Network-1 Technologies, Inc.",AMEX
 NTLA,"Intellia Therapeutics, Inc. Common Stock",NASDAQ
@@ -2705,6 +2702,7 @@ PLCKF,PLURILOCK SEC INC Common Shares,U
 PLCQF,Polar Capital Technology Trust plc Ordinary Shares,U
 PLD,"PROLOGIS, INC.",NYSE
 PLDGP,"ProLogis, Inc. Series Q Preferred Stock",U
+PLDIF,PLAID INC. Common Stock,U
 PLDR,Putnam Sustainable Leaders ETF,ARCA
 PLFF,Orpheum Property Inc. Common Stock,U
 PLFRF,Palfinger AG Ordinary Shares (Austria),U
@@ -2833,6 +2831,7 @@ PMSO,Primal Solutions Inc New Common Stock,U
 PMT,PennyMac Mortgage Investment Trust,NYSE
 PMT PRA,PennyMac Mortgage Investment Trust 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Pref,NYSE
 PMT PRB,PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Prefe,NYSE
+PMTCV,PENNYMAC MTG INVT TR PFD SHS BEN INT SER C Preferred Stock,U
 PMTRF,Precious Metals Bullion Trust Units (Canada),U
 PMTS,CPI Card Group Inc. Common Stock,NASDAQ
 PMTYF,Playmates Toys Ltd Ordinary shares (Bermuda),U
@@ -3334,6 +3333,7 @@ PSY,Defiance Next Gen Altered Experience ETF,ARCA
 PSYBF,PSYBIO THERAPEAUTICS CORP SUB VTG SHS (Canada),U
 PSYC,"Global Trac Solutions, Inc. Common Stock",U
 PSYCF,Psyched Wellness Ltd. Common Shares,U
+PSYGF,PSYENCE GROUP INC Common Shares,U
 PSYS,"Paradigm System Solutions, Inc. Common Stock",U
 PSYTF,Pason Systems Inc Ordinary Shares,U
 PSZKF,Powszechna Kasa Oszczednosci Bank Polski SA Ordinary Shares (Poland),U
