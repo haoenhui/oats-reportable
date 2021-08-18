@@ -88,6 +88,7 @@ ABBY,"Abby, Inc  Common Stock",U
 ABC,AmerisourceBergen Corp.,NYSE
 ABCAF,Athabasca Minerals Inc Common Shares (Canada),U
 ABCB,Ameris Bancorp Common Stock,NASDAQ
+ABCCF,Abc Arbitrage Sa Ordinary Shares (France),U
 ABCE,"ABCO Energy, Inc Common Stock",U
 ABCFF,Abacus Mining & Exploration Corporation Common Shares,U
 ABCL,AbCellera Biologics Inc. Common Shares,NASDAQ
@@ -299,7 +300,6 @@ ACSAF,Acs Actividades de Construccion y Servicios SA Ordinary Shares (Spain),U
 ACSAY,ACS Actividades De Construccion Y Servicios SA Unsponsored ADR (Spain),U
 ACSBL,Access Bk Nigeria Plc Sponsored GDR Reg S (Nigeria),U
 ACSEF,ACS Motion Control Ltd. Common Stock,U
-ACSG,Xtrackers MSCI ACWI ex USA ESG Leaders Equity ETF,ARCA
 ACSI,American Customer Satisfaction ETF,BATS
 ACST,"Acasti Pharma, Inc. Class A Common Stock",NASDAQ
 ACSYF,Accsys Technologies plc Ordinary Shares (United Kingdom),U
@@ -749,7 +749,7 @@ AHCCF,APOLLO HEALTHCARE CORP Ordinary Shares,U
 AHCD,Archivalcd Common Stock,U
 AHCHF,Anhui Conch Cement Shares -H-Ordinary Shares,U
 AHCHY,Anhui Conch Cement Unsponsored ADR representing Shares -H- (China),U
-AHCO,AdaptHealth Corp. Class A Common Stock,NASDAQ
+AHCO,AdaptHealth Corp. Common Stock,NASDAQ
 AHELF,American Helium Inc. Ordinary Shares,U
 AHEXF,Adecco Group AG Ordinary Shares,U
 AHEXY,Adecco Group AG American Depositary Receipts - Unsponsored,U
@@ -907,6 +907,7 @@ AKIC,Sports Ventures Acquisition Corp. Class A Ordinary Shares,NASDAQ
 AKICU,Sports Ventures Acquisition Corp. Unit,NASDAQ
 AKICW,Sports Ventures Acquisition Corp. Warrant,NASDAQ
 AKKVF,AKASTOR ASA  ASA Ordinary Shares (Norway),U
+AKMYF,KB Recycling Industries Ltd Shs CAD (Israel),U
 AKO A,Embotelladora Andina S.A. Series A,NYSE
 AKO B,Embotelladora Andina S.A. Series B,NYSE
 AKOM,Aerkomm Inc. Common Stock,U
@@ -2442,8 +2443,8 @@ BARUF,Baru Gold Corp  Common Shares,U
 BASA,"Basanite, Inc. Common Stock",U
 BASE,"Couchbase, Inc. Common Stock",NASDAQ
 BASFY,BASF SE American Depositary Shares,U
-BASWW,Basic Energy Services New Warrant Exp 12/23/2023,U
-BASX,"Basis Energy Services, Inc. Common Stock",U
+BASWQ,Basic Energy Services New Warrant Exp 12/23/2023,U
+BASXQ,"Basis Energy Services, Inc. Common Stock",U
 BATL,Battalion Oil Corporation,AMEX
 BATRA,Liberty Media Corporation Series A Liberty Braves Common Stock,NASDAQ
 BATRB,Liberty Media Corp Del Com Ser B Braves Group,U
@@ -2720,6 +2721,7 @@ BEPTF,Beach Petroleum Ltd Ordinary Shares (Australia),U
 BERI,"Blue Earth Resources, Inc. Common Stock",U
 BERK,"Berkshire Bancorp, Inc. Common Stock",U
 BERY,"Berry Global Group, Inc.",NYSE
+BERZ,MicroSectors FANG & Innovation -3x Inverse Leveraged ETN,ARCA
 BESIY,BE Semiconductor Industries NV New York Registry Shares,U
 BESP,BENEFIT STR PARTNERS RLTY TR INC Common Stock,U
 BEST,"BEST Inc. American Depositary Shares, each representing one Class A Ordinary Share",NYSE
@@ -2938,7 +2940,6 @@ BITE WS,"Bite Acquisition Corp. Warrants, each whole warrant exercisable for one
 BITF,Bitfarms Ltd. Common Stock,NASDAQ
 BITGF,Biotage AB Ordinary Shares A (Sweden),U
 BITGY,Biotage AB American Depositary Receipts - Unsponsored (Sweden),U
-BITKF,Biosign Technologies Inc Common Shares,U
 BITQ,Bitwise Crypto Industry Innovators ETF,ARCA
 BITRF,Biotron Ltd Ordinary Shares (Australia),U
 BITTF,Bitterroot Resources Ltd Common Shares,U
@@ -3771,6 +3772,7 @@ BUI,"BlackRock Utilities, Infrastructure & Power Opportunities Trust",NYSE
 BUIQL,"BUILDINGIQ INC, SHS CHESS DEPOSITORY INTERESTS REPR 1 SHS, (United States)",U
 BUKS,Butler National Corporation Common Stock,U
 BUL,Pacer US Cash Cows Growth ETF,ARCA
+BULZ,MicroSectors FANG & Innovation 3x Leveraged ETN,ARCA
 BUNM,Burned Media Ltd. Common Stock,U
 BUNNF,BWP TR Unit,U
 BUOPF,BUSINESS ONLINE PUBLIC CO LTD SHS FOREIGN REGISTERED  Ordinary Shares,U
@@ -3822,6 +3824,7 @@ BWAV,Betawave Corporation Common Stock,U
 BWAY,BrainsWay Ltd. American Depositary Shares,NASDAQ
 BWB,"Bridgewater Bancshares, Inc. Common Stock",NASDAQ
 BWBA,"BroadWebAsia, Inc. Common Stock",U
+BWBBP,"Bridgewater Bancshares, Inc. Depositary Shares, Each Representing a 1/100th Interest in a Share of 5.875% Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ
 BWCAU,Blue Whale Acquisition Corp I Unit,NASDAQ
 BWCGF,BLACKWOLF COPPER & GOLD LTD Common Shares,U
 BWEL,Boswell J G Co Common Stock,U
@@ -4488,9 +4491,6 @@ CEYFF,PARENT CAP CORP Common Shares,U
 CEZYY,Cez AS American Depositary Receipts - Unsponsored (Czech Republic),U
 CF,"CF Industries Holding, Inc.",NYSE
 CFA,VictoryShares US 500 Volatility Wtd ETF,NASDAQ
-CFAC,CF Finance Acquisition Corp. III Common Stock,NASDAQ
-CFACU,CF Finance Acquisition Corp. III Unit,NASDAQ
-CFACW,CF Finance Acquisition Corp. III Warrant,NASDAQ
 CFACY,Coface S.A. ADR (France),U
 CFB,"CrossFirst Bankshares, Inc. Common Stock",NASDAQ
 CFBK,CF Bankshares Inc. Common Stock,NASDAQ
@@ -4743,7 +4743,7 @@ CHNFF,CHINA FOODS LTD SHS (Bermuda),U
 CHNG,Change Healthcare Inc. Common Stock,NASDAQ
 CHNGQ,"China Natural Gas, Inc. Common Stock",U
 CHNGU,Change Healthcare Inc. Tangible Equity Units,NASDAQ
-CHNO,"Chill N Out Cryotherapy, Inc. Common Stock",U
+CHNO,"Classworx, Inc. Common Stock",U
 CHNR,"China Natural Resources, Inc. Common Stock",NASDAQ
 CHNSF,CHINA STARCH HOLDINGS LIMITED SHS (Cayman Islands),U
 CHNTF,China LNG Group Ltd Ordinary Shares (Cayman Islands),U
@@ -5250,7 +5250,7 @@ CNBKA,"Century Bancorp, Inc. Class A Common Stock",NASDAQ
 CNBKB,"Century BanCorp, Inc. Common Stock Class B",U
 CNBL,Citizens National Bancshares Of Bossier Inc Common Stock,U
 CNBN,CNB Bk Shs Inc Common Stock,U
-CNBOV,CONNECTONE BANCORP INC NEW DEPOSITARY SHS REPSTG A 1/40TH INT IN SH FXD-RATE RESET NON-CUMULATIVE PERPETUAL PFD STK SER A,U
+CNBOL,CONNECTONE BANCORP INC NEW DEPOSITARY SHS REPSTG A 1/40TH INT IN SH FXD-RATE RESET NON-CUMULATIVE PERPETUAL PFD STK SER A,U
 CNBP,"Cornerstone Bancorp, Inc. Common Shares",U
 CNBQF,AYR WELLNESS INC Warrant,U
 CNBS,Amplify Seymour Cannabis ETF,ARCA
@@ -5595,3 +5595,4 @@ CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
 CPK,Chesapeake Utilities,NYSE
 CPKB,Chesapeake Bancorp Common Stock,U
 CPKF,Chesapeake Financial Shares Inc Common Stock,U
+CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U

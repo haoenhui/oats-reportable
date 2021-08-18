@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GXIIU,GX Acquisition Corp. II Unit,NASDAQ
 GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
 GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
 GXO,"GXO Logistics, Inc.",NYSE
@@ -1205,7 +1206,7 @@ ICNOF,Icon Energy LTd Ordinary Shares,U
 ICOA,Icoa Inc  Common Stock,U
 ICOIF,ICOM INC SHS (Japan),U
 ICOL,iShares MSCI Colombia ETF,ARCA
-ICOTF,"Ico Therapeutics, Inc. Common Shares (Canada)",U
+ICOTD,SATELLOS BIOSCIENCE INC Common Shares,U
 ICOW,Pacer Developed Markets International Cash Cows 100 ETF,BATS
 ICPBF,Inscape Corporation Ordinary Shares,U
 ICPT,"Intercept Pharmaceuticals, Inc. Common Stock",NASDAQ
@@ -1265,7 +1266,6 @@ IDND,International Dispensing Corporation Common Stock,U
 IDOG,ALPS International Sector Dividend Dogs ETF,ARCA
 IDOWF,IShares VII PLC Dow Jones Industrial Average ETF (Ireland),U
 IDPE,ID Perfumes Inc. Com,U
-IDPUF,IDP ED LTD Ordinary Fully Paid (Australia),U
 IDRA,"Idera Pharmaceuticals, Inc. Common Stock",NASDAQ
 IDRSF,Idorsia AG Registered Shares (Switzerland),U
 IDRV,iShares Self-Driving EV and Tech ETF,ARCA
@@ -1504,6 +1504,7 @@ IIVI,II-VI Incorporated Common Stock,NASDAQ
 IIVIP,II-VI Incorporated 6.00% Series A Mandatory Convertible Preferred Stock,NASDAQ
 IIVPF,ISHARES IV PLC Ishares Automation & Robotics UCITS (Ireland),U
 IIXFF,ISHARES III PLC Global Govt Bond UCITS Exchange Traded Fund USD ACC (Ireland),U
+IIXXF,ISHARES II PLC ISHARES CORP BOND ESG UCITS ETF USD ACC (Ireland),U
 IJAN,Innovator MSCI EAFE Power Buffer ETF-January,ARCA
 IJH,iShares Core S&P Mid-Cap ETF,ARCA
 IJJ,iShares S&P Mid-Cap 400 Value ETF,ARCA
@@ -3613,7 +3614,7 @@ LCUT,"Lifetime Brands, Inc. Common Stock",NASDAQ
 LCYFF,Legal & Gen Ucits ETF Plc L&G CYBER SECURITY UCITS ETF USD ACCUMULATING ETF Exchange Traded Fund,U
 LD,"iPath Bloomberg Lead Subindex Total Return ETN due June 24, 2038",ARCA
 LDBTY,Lebanese Co For Dev & Recon of Beirut Cent Dist SAL American Depositary Receipts - Unsponsored (Lebanon),U
-LDDAF,Lida Resources Inc. Common Stock (Canada),U
+LDDAD,LIDA RES INC Common Stock,U
 LDDFF,LIBERTY DEFENSE HOLDINGS LTD Common Shares,U
 LDEM,iShares Trust iShares ESG MSCI EM Leaders ETF,NASDAQ
 LDGYY,Landis Gyr Group AG - Unsponsored ADR (Switzerland),U
@@ -3807,6 +3808,8 @@ LICT,LICT Corporation Common Stock,U
 LICY,Li-Cycle Holdings Corp.,NYSE
 LICY WS,"Li-Cycle Holdings Corp. Redeemable Warrants, each whole warrant exercisable for one Common Share at",NYSE
 LIDM,Limco Del Mar Common Stock,U
+LIDR,"AEye, Inc. Class A Common Stock",NASDAQ
+LIDRW,"AEye, Inc. Warrant",NASDAQ
 LIFE,"aTyr Pharma, Inc. Common Stock",NASDAQ
 LIFNF,Lifenet Ins Co Ordinary Shares (Japan),U
 LIFS,Life Stem Genetics Inc. Com,U
@@ -4268,6 +4271,7 @@ LXEH,"Lixiang Education Holding Co., Ltd. American Depositary Shares",NASDAQ
 LXENF,Lithium Energi Exploration Inc. Ordinary Shares (Canada),U
 LXFR,Luxfer Holdings PLC Ordinary Shares,NYSE
 LXGTF,Lexington Biosciences Inc Ordinary Shares,U
+LXHDF,LX Holdings Corp 1P (South Korea),U
 LXILF,LXI REIT PLC ORD (United Kingdom),U
 LXLLF,Eureka 93 Inc Ordinary Shares,U
 LXP,Lexington Realty Trust,NYSE
@@ -5591,6 +5595,3 @@ MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
-MTCH,"Match Group, Inc. Common Stock",NASDAQ
-MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
-MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U

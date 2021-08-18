@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
 CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U
 CPKPY,C P Pokphand Co Ltd Sponsored ADR (Bermuda) USD,U
 CPLCF,IShares VII PLC Exchange Traded Fund,U
@@ -2012,7 +2011,7 @@ EFOI,"Energy Focus, Inc. Common Stock",NASDAQ
 EFOR,Efoora Health Mgmt Inc Common Stock,U
 EFOT,Efotoxpress Inc Common Stock,U
 EFR,Eaton Vance Senior Floating-Rate Fund,NYSE
-EFRGD,PASOFINO GOLD LTD Ordinary Shares,U
+EFRGF,PASOFINO GOLD LTD Ordinary Shares,U
 EFRMF,"East Africa Metals, Inc. Ordinary Shares (Canada)",U
 EFRTF,Nexus Real Estate Investment Trust  Unit,U
 EFSC,Enterprise Financial Services Corporation Common Stock,NASDAQ
@@ -2234,6 +2233,7 @@ EMCB,WisdomTree Trust WisdomTree Emerging Markets Corporate Bond Fund,NASDAQ
 EMCF,Emclaire Financial Corp Common Stock,NASDAQ
 EMCHF,EML Payments Ltd. Ordinary Shares,U
 EMCMF,EMERGE COMM LTD Common Shares,U
+EMCR,Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF,ARCA
 EMD,"Western Asset Emerging Markets Debt Fund, Inc",NYSE
 EMDF,"E Med Future, Inc. Common Stock",U
 EMDV,ProShares MSCI Emerging Markets Dividend Growers ETF,BATS
@@ -2840,7 +2840,7 @@ EVN,Eaton Vance Municipal Income Trust,NYSE
 EVNNF,Eviana Health Corp Ordinary Shares (Canada),U
 EVNVY,EVN AG Sponsored ADR (Austria),U
 EVOA,"EVO Transportation & Energy Services, Inc. Common Stock",U
-EVOGD,EVOLVING GOLD CORP Common Shares,U
+EVOGF,EVOLVING GOLD CORP Common Shares,U
 EVOJ,Evo Acquisition Corp. Class A Common Stock,NASDAQ
 EVOJU,Evo Acquisition Corp. Unit,NASDAQ
 EVOJW,Evo Acquisition Corp. Warrant,NASDAQ
@@ -4073,6 +4073,7 @@ FST U,"FAST Acquisition Corp. Units, each consisting of one share of Class A com
 FST WS,"FAST Acquisition Corp. Warrants, each whole warrant exercisable for one share of Class A Common Stoc",NYSE
 FSTA,Fidelity MSCI Consumer Staples Index ETF,ARCA
 FSTF,First State Financial Corporation Common Stock,U
+FSTGF,FIRST TR GLOBAL FDS PLC INDXX INNOVATIVE TRANSACTION & PROCESS UCITS - ETF CLASS A SHS  (Ireland),U
 FSTJ,First America Resources Corporation. Common,U
 FSTR,L.B. Foster Company Common Stock,NASDAQ
 FSTX,"F-star Therapeutics, Inc. Common Stock",NASDAQ
@@ -4506,7 +4507,7 @@ GCSSF,GECOSS CORP Ordinary Shares,U
 GCTAF,Siemens Gamesa Renewable Energy Ordinary Shares,U
 GCTAY,Siemens Gamesa Renewable Energy American Depositary Receipts - Unsponsored,U
 GCV,"The Gabelli Convertible and Income Securities Fund, Inc.",NYSE
-GCWOF,Grupo Cementos De Chihuahua Sa De Cv Ordinary Shares (Mexico),U
+GCWOF,Grupo Cementos de Chihuahua SAB de CV GCC Ordinary Shares,U
 GCXXF,Granite Creek Copper Ltd. Common Shares (Canada),U
 GCYO,Gold Canyon Bank (AZ) Common Stock,U
 GD,General Dynamics Corporation,NYSE
@@ -5245,6 +5246,7 @@ GRES,IQ ARB Global Resources,ARCA
 GREZF,"Gree Inc., Tokyo Ordinary Shares (Japan)",U
 GRF,"Eagle Capital Growth Fund, Inc.",AMEX
 GRFFF,GRUPO FINANCIERO BANAMEX SA DE CV CERTIFICADOS BURSATILES FIDUCIARIOS INMOBILIARIOS Ordinary Shar(Mexico),U
+GRFPF,GREENFIRST FST PRODS INC Rights   10/01/2021,U
 GRFS,"Grifols, S.A. American Depositary Shares",NASDAQ
 GRFXY,Graphex Group Ltd American Depositary Receipts - Sponsored,U
 GRGCF,GEORGIA CAPITAL PLC Ord GBP0.0001 (United Kingdom),U
@@ -5593,4 +5595,3 @@ GXC,SPDR S&P China ETF,ARCA
 GXF,Global X FTSE Nordic Region ETF,ARCA
 GXG,Global X MSCI Colombia ETF,ARCA
 GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
-GXIIU,GX Acquisition Corp. II Unit,NASDAQ
