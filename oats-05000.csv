@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U
 CPKPY,C P Pokphand Co Ltd Sponsored ADR (Bermuda) USD,U
 CPLCF,IShares VII PLC Exchange Traded Fund,U
 CPLG,CorePoint Lodging Inc. Common Stock,NYSE
@@ -124,7 +123,6 @@ CRFCF,CARD FACTORY PLC Ordinary Shares,U
 CRFQF,Zedcor Inc. Ordinary Shares,U
 CRFTF,BC CRAFT SUPPLY CO LTD Common Shares,U
 CRFU,"Carefree Group, Inc. Common Stock New",U
-CRGBF,"CAREPLUS GROUP BHD, SELANGOR DARUL EHSAN Ordinary Shares",U
 CRGE,"Charge Enterprises, Inc. Common Stock",U
 CRGGF,China Resources Gas Group Ltd Ordinary Shares (Bermuda),U
 CRGP,"Calissio Resources Group, Inc. Common Stock",U
@@ -379,6 +377,7 @@ CTAQW,Carney Technology Acquisition Corp. II Warrant,NASDAQ
 CTARF,CENTAURUS ENERGY INC Common Shares,U
 CTAS,Cintas Corporation Common Stock,NASDAQ
 CTAUF,CHINA TIANRUI AUTOMOTIVE INTERIORS CO LTD HKD SHS (Caymen Islands),U
+CTAZF,CHINA STAR ENTERTAINMENT LTD SHS NEW (Bermuda),U
 CTBB,Qwest Corporation 6.5% Notes due 2056,NYSE
 CTBG,"Coil Tubing Technology, Inc. Common Stock",U
 CTBI,"Community Trust Bancorp, Inc. Common Stock",NASDAQ
@@ -1201,7 +1200,6 @@ DLCA,Deep Lake Capital Acquisition Corp. Class A Ordinary Shares,NASDAQ
 DLCAU,Deep Lake Capital Acquisition Corp. Unit,NASDAQ
 DLCAW,Deep Lake Capital Acquisition Corp. Warrant,NASDAQ
 DLCR,Kibush Capital Corporation Common Stock,U
-DLDG,DLD Group Inc. Common Stock,U
 DLEGF,Delta Electronics Thailand Public Co Ltd Shares Foreign Registered (Thailand),U
 DLEUF,Delta Electronics Thailand Public Co Ltd Units Non Vtg Dep Recpt (Thailand),U
 DLEXY,"Datalex, plc American Depositary Shares",U
@@ -1433,7 +1431,9 @@ DQ,Daqo New Energy Corp. American Depositary Shares (each representing 5 Ordinar
 DQJCF,Pan Pac Intl Hldgs Corp Ordinary Shares,U
 DQJCY,Pan Pac Intl Hldgs Corp American Depositary Receipts - Unsponsored,U
 DQWS,Dswiss Inc Common Stock,U
+DRAY,Macondray Capital Acquisition Corp. I Class A Ordinary Shares,NASDAQ
 DRAYU,Macondray Capital Acquisition Corp. I Unit,NASDAQ
+DRAYW,Macondray Capital Acquisition Corp. I Warrant,NASDAQ
 DRCAF,D Rotshtein Construction & Assets Co Ltd Common Stock (Israel),U
 DRCMF,DORE COPPER MNG CORP Common Shares Canada(CA ),U
 DRCR,Dear Cashmere Holding Company Common Stock,U
@@ -1905,6 +1905,7 @@ EDF,STONE HARBOR EMERGING MARKETS INCOME FUND,NYSE
 EDGS,EDGE DATA SOLUTIONS INC Common Stock,U
 EDHD,Edd Helms Group Inc Common Stock,U
 EDI,STONE HARBOR EMERGING MARKETS TOTAL INCOME FUND,NYSE
+EDINF,EDION CORP TOKYO SHS (Japan),U
 EDIT,"Editas Medicine, Inc. Common Stock",NASDAQ
 EDIV,SPDR S&P Emerging Markets Dividend ETF,ARCA
 EDMCQ,Education Management Corporation Common Stock,U
@@ -2420,7 +2421,9 @@ ENZC,Enzolytics Inc. Common Stock,U
 ENZH,Enzymes American Holding Corp Common Stock,U
 ENZL,iShares Trust iShares MSCI New Zealand ETF,NASDAQ
 ENZN,"Enzon Pharmaceuticals, Inc. Common Stock",U
+EOCW,Elliott Opportunity II Corp.,NYSE
 EOCW U,"Elliott Opportunity II Corp. Units, each consisting of one Class A ordinary share and one-fourth of",NYSE
+EOCW WS,"Elliott Opportunity II Corp. Redeemable warrants, each whole warrant exercisable for one Class A ord",NYSE
 EOD,WELLS FARGO GLOBAL DIVIDEND OPPORTUNITY FUND,NYSE
 EOFBF,ECOFIBRE LTD Ordinary Shares  Australia(AU ),U
 EOFBY,ECOFIBRE LTD American Depositary Shares - Sponsored,U
@@ -4330,8 +4333,8 @@ GAHD,"Global Agricultural Holdings, Inc. Common Stock",U
 GAIA,"Gaia, Inc. Class A Common Stock",NASDAQ
 GAILF,Gail India Ltd Reg S GDR,U
 GAIN,Gladstone Investment Corporation Business Development Company,NASDAQ
-GAINL,Gladstone Investment Corporation 6.375% Series E Cumulative Term Preferred Stock due 2025,NASDAQ
 GAINN,Gladstone Investment Corporation 5.00% Notes Due 2026,NASDAQ
+GAINZ,Gladstone Investment Corporation 4.875% Notes due 2028,NASDAQ
 GAL,SPDR SSgA Global Allocation ETF of SSgA Active Trust,ARCA
 GALKF,Galantas Gold Corporation Ordinary Shares,U
 GALNF,Galenica AG Ordinary Shares (Switzerland),U
@@ -5592,6 +5595,3 @@ GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
 GWYNF,Genoway Ordinary Shares  France (FR),U
 GWYT,Greenway Technology Common Stock,U
 GXC,SPDR S&P China ETF,ARCA
-GXF,Global X FTSE Nordic Region ETF,ARCA
-GXG,Global X MSCI Colombia ETF,ARCA
-GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ

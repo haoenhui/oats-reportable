@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GXF,Global X FTSE Nordic Region ETF,ARCA
+GXG,Global X MSCI Colombia ETF,ARCA
+GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
 GXIIU,GX Acquisition Corp. II Unit,NASDAQ
 GXIIW,GX Acquisition Corp. II Warrant,NASDAQ
 GXMLF,Intercontinental Gold & Metals Ltd Ordinary Shares,U
@@ -787,7 +790,6 @@ HST,"Host Hotels & Resorts, Inc. Common Stock",NASDAQ
 HSTA,Hestia Insight Inc. Common Stock,U
 HSTC,"HST Global, Inc. Common Stock",U
 HSTG,Holographic Storage Ltd. Common Stock,U
-HSTH,"HS3 Technologies, Inc. Common Stock",U
 HSTI,"High Sierra Technologies, Inc. Common Stock",U
 HSTM,"HealthStream, Inc. Common Stock",NASDAQ
 HSTO,Histogen Inc. Common Stock,NASDAQ
@@ -977,7 +979,6 @@ HYHG,ProShares High Yield-Interest Rate Hedged ETF,BATS
 HYHHF,HYGEIA  HEALTHCARE HOLDINGS CO LTD USD ORD SHS (Cayman Islands),U
 HYHY,"Hydrogen  Hybrid Technologies, Inc. Common Stock",U
 HYI,Western Asset High Yield Defined Opportunity Fund Inc.,NYSE
-HYII,"All Grade Mining, Inc. Common Stock",U
 HYIN,WisdomTree Alternative Income Fund,BATS
 HYKUF,Hyakugo Bank Ltd Ordinary Shares (Japan),U
 HYLB,Xtrackers USD High Yield Corporate Bond ETF,ARCA
@@ -1265,7 +1266,6 @@ IDNA,iShares Genomics Immunology and Healthcare ETF,ARCA
 IDND,International Dispensing Corporation Common Stock,U
 IDOG,ALPS International Sector Dividend Dogs ETF,ARCA
 IDOWF,IShares VII PLC Dow Jones Industrial Average ETF (Ireland),U
-IDPE,ID Perfumes Inc. Com,U
 IDRA,"Idera Pharmaceuticals, Inc. Common Stock",NASDAQ
 IDRSF,Idorsia AG Registered Shares (Switzerland),U
 IDRV,iShares Self-Driving EV and Tech ETF,ARCA
@@ -2347,7 +2347,6 @@ IWGFF,IWG PLC Ordinary Shares (Jersey),U
 IWKS,AFP Imaging Corporation  Common Stock,U
 IWL,iShares Russell Top 200 ETF,ARCA
 IWM,iShares Russell 2000 ETF,ARCA
-IWMG,"I-Wellness Marketing Group, Inc. Common Stock",U
 IWML,ETRACS 2x Leveraged US Size Factor TR ETN,ARCA
 IWN,iShares Russell 2000 Value ETF,ARCA
 IWO,iShares Russell 2000 Growth ETF,ARCA
@@ -2550,6 +2549,7 @@ JHG,Janus Henderson Group plc Ordinary Shares,NYSE
 JHI,John Hancock Investors Trust Capital Stock,NYSE
 JHIUF,James Hardie Industries PLC Chess Depository Interests 1:1 (Ireland),U
 JHMA,John Hancock Multifactor Materials ETF,ARCA
+JHMB,John Hancock Mortgage-Backed Securities ETF,ARCA
 JHMC,John Hancock Multifactor Consumer Discretionary ETF,ARCA
 JHMD,John Hancock Multifactor Developed International ETF,ARCA
 JHME,John Hancock Multifactor Energy ETF,ARCA
@@ -3100,7 +3100,6 @@ KKR PRB,KKR & Co. Inc. 6.50% Series B Preferred Unit,NYSE
 KKR PRC,KKR & Co. Inc. 6.00% Series C Mandatory Convertible Preferred Stock,NYSE
 KKRAF,Katakura Industries Co Ltd Ordinary Shares (Japan),U
 KKRS,KKR Group Finance Co. IX LLC 4.625% Subordinated Notes due 2061,NYSE
-KKUOF,Kyokuto Securities Co Ltd SHS (Japan),U
 KKUR,"Chromocure, Inc. Common Stock",U
 KKWFF,Koninklijke Boskalis Westminster N V Ordinary Shares  (Netherlands),U
 KL,Kirkland Lake Gold Ltd Ordinary,NYSE
@@ -3165,7 +3164,6 @@ KMNNF,KMN Capital Ltd. Ordinary Shares (Israel),U
 KMPH,"KemPharm, Inc. Common Stock",NASDAQ
 KMPR,Kemper Corporation,NYSE
 KMRCF,Komori Corp Ordinary Shares,U
-KMRIF,KOMERI CO LTD Ordinary Shares,U
 KMRPF,Kenmare Resources Ltd Plc Ord Ordinary Shares,U
 KMRSF,Kemira Oyj Sponsored Reg S GDR (Finland),U
 KMSHF,Kamakura Shinsho Ltd Ordinary Shares  (Japan),U
@@ -5433,7 +5431,7 @@ MREO,Mereo BioPharma Group plc American Depositary Shares,NASDAQ
 MREOF,Demire Deutsche Mittelstand Real Estate AG Shs (Germany Federal Republic),U
 MRES,Institute of Biomedical Research Corp. NEW Common Stock,U
 MRETF,"Martinrea International, Inc. Ordinary Shares (Canada)",U
-MREYD,Monterey Minerals Inc Common Stock,U
+MREYF,Monterey Minerals Inc Common Stock,U
 MRFGF,Marfin Financial Group Holdings Sa Reg. Shares (Greece),U
 MRFGY,Marfin Financial Group Holdings Sa Unsponsored ADR (Greece),U
 MRGE,Mirage Energy Corporation Common Stock,U
@@ -5595,3 +5593,5 @@ MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
+MTCH,"Match Group, Inc. Common Stock",NASDAQ
+MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE

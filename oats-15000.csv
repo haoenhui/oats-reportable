@@ -1,11 +1,9 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTCH,"Match Group, Inc. Common Stock",NASDAQ
-MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
 MTDR,MATADOR RESOURCES COMPANY,NYSE
-MTEHF,Maxtech Ventures Inc Ordinary Shares (Canada),U
+MTEHF,St. Anthony Gold Corp.  Ordinary Shares,U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
@@ -692,6 +690,7 @@ NKZFF,NAIKAI ZOSEN CORP SHS (Japan),U
 NL,"NL Industries, Inc.",NYSE
 NLAB,Nuoncology Labs Inc Common Stock,U
 NLBS,"NutraLife Biosciences, Inc.  Common Stock",U
+NLCP,NEWLAKE CAP PARTNERS INC COM,U
 NLFKF,Nilfisk Holdings A/S Ordinary Shares (Denmark),U
 NLGCF,Northern Lion Gold Corporation Common Shares,U
 NLIT,Northern Lights Acquisition Corp. Class A Common Stock,NASDAQ
@@ -2085,7 +2084,6 @@ PARXF,Parex Resources Inc Ordinary Shares (Canada),U
 PASG,"Passage Bio, Inc. Common Stock",NASDAQ
 PASMF,Premier Asset Management Group Ordinary Shares (United Kingdom),U
 PASO,Patient Access Solutions Inc. Common Stock,U
-PASQL,PUBLIC STORAGE DEPOSITARY SH REPSTG PFD SH BEN INT SER Q,U
 PASTF,Plastic Omnium Ordinary Shares (France),U
 PASTY,PLASTIC OMNIUM Unsponsored American Depositary Receipts (France),U
 PATH,"UiPath, Inc.",NYSE
@@ -3214,6 +3212,7 @@ PSA PRM,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.125% 
 PSA PRN,"Public Storage Depositary Shares Each Representing 1/1,000 of a 3.875% Cumulative Preferred Share of",NYSE
 PSA PRO,"Public Storage Depositary Shares Each Representing 1/1,000 of a 3.900% Cumulative Preferred Share of",NYSE
 PSA PRP,"Public Storage Depositary Shares Each Representing 1/1,000 of a 4.000% Cumulative Preferred Share of",NYSE
+PSA PRQ,"Public Storage Depositary Shares Each Representing 1/1,000 of a 3.950% Cumulative Preferred Share o",NYSE
 PSAG,Property Solutions Acquisition Corporation II Class A Common Stock,NASDAQ
 PSAGU,Property Solutions Acquisition Corporation II Units,NASDAQ
 PSAGW,Property Solutions Acquisition Corporation II Warrant,NASDAQ
@@ -5536,7 +5535,6 @@ SGSOF,SGS Ltd Ordinary Shares (Switzerland),U
 SGSOY,SGS SA ADR (Switzerland),U
 SGSPF,SSGA SPDR ETFS EUROPE I PLC SHS EXCHANGE TRADED FUND USD (Ireland),U
 SGSSF,SSGA SPDR ETFS EUROPE I PLC BARCLAYS 0-5 YR US HIGH YLD BD UCITS USD  Exchange Traded Fund  Ireland(IE),U
-SGSUF,SANGETSU CORP Ordinary Shares,U
 SGSVF,Sabina Gold & Silver Corporation Ordinary Shares (Canada),U
 SGTB,Suggestion Box Inc Common Stock,U
 SGTI,"Shengtai Pharmaceutical, Inc.  Common Stock",U
@@ -5595,3 +5593,5 @@ SHGY,SearchGuy.com Inc. Common Stock,U
 SHHFF,SCHIEHALLION FD LTD Ordinary Shares,U
 SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHHPF,Ship Healthcare Holdings Inc Ordinary Shares (Japan),U
+SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
+SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U

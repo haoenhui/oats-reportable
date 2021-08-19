@@ -1,6 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
-SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
 SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
@@ -1860,6 +1858,7 @@ TBGRF,The Bank of Greenland A/S Nuuk Ordinary shares (Greenland),U
 TBI,"Trueblue, Inc.",NYSE
 TBIIF,Tobii Technology AB Ordinary Shares (Sweden),U
 TBIO,"Translate Bio, Inc. Common Stock",NASDAQ
+TBIXF,TRUSTBIX INC COM (Canada),U
 TBJL,Innovator 20+ Year Treasury Bond 9 Buffer ETF - July,BATS
 TBK,"Triumph Bancorp, Inc. Common Stock",NASDAQ
 TBKCP,"Triumph Bancorp, Inc. Depositary Shares, Each Representing a 1/40th Interest in a Share of 7.125% Series C Fixed-Rate Non-Cumulative Perpetual Preferred Stock",NASDAQ
@@ -1988,13 +1987,13 @@ TDRCF,Todd Riv Res Ltd Ordinary Fully Paid (Australia),U
 TDRRF,Tudor Gold Corp Ordinary Shares (Canada),U
 TDS,Telephone and Data Systems Inc.,NYSE
 TDS PRU,"Telephone and Data Systems, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.62",NYSE
+TDS PRV,"Telephone and Data Systems, Inc. Depositary Shares, Each Representing a 1/1,000th Interest in a 6.00",NYSE
 TDSA,Cabana Target Drawdown 5 ETF,ARCA
 TDSB,Cabana Target Drawdown 7 ETF,ARCA
 TDSC,Cabana Target Drawdown 10 ETF,ARCA
 TDSD,Cabana Target Drawdown 13 ETF,ARCA
 TDSE,Cabana Target Drawdown 16 ETF,ARCA
 TDSGF,Telo Genomics Corp Ordinary Shares,U
-TDSLL,TELEPHONE & DATA SYS INC DEP SHS REPSTG 1/1000TH PERP PFD SER VV Depositary Shares,U
 TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund,ARCA
 TDTRF,Trident Royalties PLC Ordinary Shares (United Kingdom),U
 TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund,ARCA
@@ -2125,7 +2124,7 @@ TGGRF,Taruga Gold Ltd Ordinary Shares (Australia),U
 TGH,Textainer Group Holdings limited,NYSE
 TGH PRA,"Textainer Group Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share",NYSE
 TGHI,"Touchpoint Group Holdings, Inc. Common Stock",U
-TGHPV,TEXTAINER GROUP HLDGS LTD DEP SHS REPSTG 1/1000TH RED PERP PREF SHS SER B,U
+TGHPL,TEXTAINER GROUP HLDGS LTD DEP SHS REPSTG 1/1000TH RED PERP PREF SHS SER B,U
 TGI,"Triumph Group, Inc.",NYSE
 TGIC,Triad Guaranty Inc. Common Stock,U
 TGIF,SoFi Weekly Income ETF,ARCA
@@ -4452,6 +4451,7 @@ WARR WS,"Warrior Technologies Acquisition Company Warrants, each whole warrant e
 WASH,"Washington Trust Bancorp, Inc. Common Stock",NASDAQ
 WAT,Waters Corp,NYSE
 WATT,Energous Corporation Common Stock,NASDAQ
+WAVC U,"Waverley Capital Acquisition Corp. 1 Units, each consisting of one Class A Ordinary Share and one-th",NYSE
 WAVE,Eco Wave Power Global AB (publ) American Depositary Shares,NASDAQ
 WAXS,"World Access, Inc. Common Stock",U
 WAYN,Wayne Savings Bancshares Inc. - Common Stock,U
