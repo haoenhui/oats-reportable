@@ -1,9 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
-SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
-SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
-SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
@@ -51,7 +46,9 @@ SHPNF,Shoal Point Energy Ltd. Common Shares,U
 SHPOF,Shin Poong Pharmaceutical Co Ltd. Ordinary Shares (South Korea),U
 SHPPF,SHOP APOTHEKE EUROPE NV Ordinary Shares,U
 SHPPY,Sophos Group PLC American Depositary Receipts - Unsponsored (United Kingdom),U
+SHQA,Shelter Acquisition Corporation I Class A Common Stock,NASDAQ
 SHQAU,Shelter Acquisition Corporation I Units,NASDAQ
+SHQAW,Shelter Acquisition Corporation I Warrants,NASDAQ
 SHRG,Sharing Services Global Corp. Common Stock,U
 SHRRF,S HOTELS & RESORTS PUB CO LTD LOCAL SHARES (Thailand),U
 SHRSF,iShares II PLC Govt Bond 7-10yr UCITS Exchange Traded Fund EUR Dist (Ireland),U
@@ -1745,7 +1742,6 @@ SZSAY,SUEZ American Depositary Receipts - Sponsored,U
 SZSMF,Santacruz Silver Mining Ltd. Com (Canadian),U
 SZSN,"Shandong Zhouyuan Seed and Nursery Co., Ltd. Common Stock",U
 SZUKF,Suzuken Co Ltd Ordinary Shares,U
-SZYCF,Saizeriya Co Ltd Yoshikawa Ordinary Shares (Japan),U
 T,AT&T Inc.,NYSE
 T PRA,"AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 5.000% Perpetual P",NYSE
 T PRC,"AT&T Inc. Depositary Shares, each representing a 1/1,000th interest in a share of 4.750% Perpetual P",NYSE
@@ -2183,7 +2179,9 @@ THCAU,Tuscan Holdings Corp. II Unit,NASDAQ
 THCAW,Tuscan Holdings Corp. II Warrant,NASDAQ
 THCBF,THC BIOMED INTL LTD Ordinary Shares (Canada),U
 THCC,The Healing Company Inc. Common Stock,U
+THCP,"Thunder Bridge Capital Partners IV, Inc. Class A Common Stock",NASDAQ
 THCPU,"Thunder Bridge Capital Partners IV, Inc. Unit",NASDAQ
+THCPW,"Thunder Bridge Capital Partners IV, Inc. Warrant",NASDAQ
 THCT,"THC Therapeutics, Inc. Common Stock",U
 THCX,The Cannabis ETF,ARCA
 THD,iShares MSCI Thailand ETF,ARCA
@@ -5144,6 +5142,8 @@ XOMAO,XOMA Corporation Depositary Shares Rep Series B 8.375% Cumulative Preferre
 XOMAP,XOMA Corporation 8.625% Series A Cumulative Perpetual Preferred Stock,NASDAQ
 XONE,The ExOne Company Common Stock,NASDAQ
 XOP,SPDR S&P Oil & Gas Exploration & Production ETF,ARCA
+XOS,"Xos, Inc. Common Stock",NASDAQ
+XOSWW,"Xos, Inc. Warrants",NASDAQ
 XOUT,GraniteShares XOUT U.S. Large Cap ETF,ARCA
 XP,XP Inc. Class A Common Stock,NASDAQ
 XPAXU,XPAC Acquisition Corp. Unit,NASDAQ
@@ -5532,7 +5532,7 @@ ZNTL,"Zentalis Pharmaceuticals, Inc. Common Stock",NASDAQ
 ZNXT,ZNext Mining Corporation Inc Common Stock,U
 ZNZNF,Zinzino Holding AB Ordinary Shares B (Sweden),U
 ZOEFF,Zeotech Ltd Ordinary Shares (Australia),U
-ZOEIF,Zoetic International PLC Ordinary Shares,U
+ZOEIF,CHILL BRANDS GROUP PLC Ordinary Shares,U
 ZOJIF,Zojirushi Corp Ordinary Shares (Japan),U
 ZOM,Zomedica Corp.,AMEX
 ZONNF,Nos SGPS SA Ordinary Shares (Portugal),U
@@ -5542,7 +5542,7 @@ ZPAS,"Zoompass Holdings, Inc. Common Stock",U
 ZPHRF,ZEPHYR ENERGY PLC Ordinary Shares,U
 ZPHYF,Zephyr Minerals Ltd Ordinary Shares (Canada),U
 ZPRVF,SSGA SPDR ETFS Europe II PLC Accum PTG Exchange Traded Fund USD (Ireland),U
-ZPTAF,"Surge Energy, Inc (Canada)",U
+ZPTAD,"Surge Energy, Inc Common Shares",U
 ZRDZF,ZARDOYA OTIS SA MADRID Ordinary Shares,U
 ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,ARCA
 ZRSEF,Zur Rose Group AG (Switzerland) Common Stock,U

@@ -525,9 +525,6 @@ NG,NovaGold Resources Inc.,AMEX
 NGAB,Northern Genesis Acquisition Corp. II,NYSE
 NGAB U,"Northern Genesis Acquisition Corp. II Units, each consisting of one share of common stock and one-th",NYSE
 NGAB WS,"Northern Genesis Acquisition Corp. II Redeemable Warrants, each whole warrant exercisable for shares",NYSE
-NGAC,NextGen Acquisition Corporation Class A Ordinary Shares,NASDAQ
-NGACU,NextGen Acquisition Corporation Units,NASDAQ
-NGACW,NextGen Acquisition Corporation Warrants,NASDAQ
 NGC,Northern Genesis Acquisition Corp. III,NYSE
 NGC U,"Northern Genesis Acquisition Corp. III Units, each consisting of one share of common stock and one-q",NYSE
 NGC WS,"Northern Genesis Acquisition Corp. III Redeemable Warrants, each whole warrant exercisable for share",NYSE
@@ -2833,7 +2830,7 @@ PMSO,Primal Solutions Inc New Common Stock,U
 PMT,PennyMac Mortgage Investment Trust,NYSE
 PMT PRA,PennyMac Mortgage Investment Trust 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Pref,NYSE
 PMT PRB,PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Prefe,NYSE
-PMTCV,PENNYMAC MTG INVT TR PFD SHS BEN INT SER C Preferred Stock,U
+PMTCP,PENNYMAC MTG INVT TR PFD SHS BEN INT SER C Preferred Stock,U
 PMTRF,Precious Metals Bullion Trust Units (Canada),U
 PMTS,CPI Card Group Inc. Common Stock,NASDAQ
 PMTYF,Playmates Toys Ltd Ordinary shares (Bermuda),U
@@ -3879,7 +3876,6 @@ R,"Ryder System, Inc.",NYSE
 RA,Brookfield Real Assets Income Fund Inc.,NYSE
 RAAS,"Cloopen Group Holding Limited American Depositary Shares, each representing two Class A Ordinary Sha",NYSE
 RAAX,VanEck Inflation Allocation ETF,ARCA
-RABSF,RREF II AL BRECK SOCIMI S A U Ordinary Shares,U
 RACB,Research Alliance Corp. II Class A Common Stock,NASDAQ
 RACE,Ferrari N.V.,NYSE
 RAD,Rite Aid Corporation,NYSE
@@ -5376,7 +5372,6 @@ SEYE,"Signature Eyewear, Inc. Common Stock",U
 SEYMF,"Solaria Energia Y Medio Ambiente, SA Shs (Spain)",U
 SEZNL,Sezzle Inc CHESS Depositary Interest representing 1 CDI to 1 Share,U
 SF,Stifel Financial Corp.,NYSE
-SF PRA,Stifel Financial Corp.,NYSE
 SF PRB,"Stifel Financial Corp. Depositary Shares, Each Representing 1/1,000th Interest in a Share of 6.25% N",NYSE
 SF PRC,"Stifel Financial Corp. Depositary Shares, Each Representing 1/1, 000th Interest in a Share of 6.125%",NYSE
 SF PRD,"Stifel Financial Corp. Depositary Shares, Each Representing 1/1,000th Interest in a Share of 4.50% N",NYSE
@@ -5595,3 +5590,8 @@ SHHLF,SANG HING HLDGS (INTERNATIONAL) LTD Ordinary Shares,U
 SHHPF,Ship Healthcare Holdings Inc Ordinary Shares (Japan),U
 SHI,"Sinopec Shanghai Petrochemical Co., Ltd.",NYSE
 SHIEF,Shield Therapeutics PLC Ordinary Shares (United Kingdom),U
+SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
+SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
+SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
+SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
