@@ -1090,7 +1090,7 @@ DHHCW,DiamondHead Holdings Corp. Warrant,NASDAQ
 DHHXF,Desarrolladora Homex SA de CV Ordinary Shares (Mexico),U
 DHI,D.R. Horton Inc.,NYSE
 DHIL,"Diamond Hill Investment Group, Inc. Class A Common Stock",NASDAQ
-DHKCF,Global Strategic Group Ltd Ordinary Shares,U
+DHKCF,GLOBAL STRATEGY GROUP LTD SHS NEW HK$0.01 Ordinary Shares,U
 DHR,Danaher Corporation,NYSE
 DHR PRA,"Danaher Corporation 4.75% Mandatory Convertible Preferred Stock, Series A",NYSE
 DHR PRB,"Danaher Corporation 5.00% Mandatory Convertible Preferred Stock, Series B",NYSE
@@ -1271,7 +1271,6 @@ DMLP,"Dorchester Minerals, L.P. Common Units Representing Limited Partnership In
 DMLRY,Daimler AG American Depositary Receipts - Unsponsored (Germany),U
 DMNB,Diamond Bancshares Inc Common Stock,U
 DMNKF,DNI Metals Inc. Ordinary Shares,U
-DMNXF,Sayona Mining Ltd. Ordinary Shares (Australia),U
 DMO,Western Asset Mortgage Opportunity Fund Inc.,NYSE
 DMPBF,Diamond Bldg Pods Pub Co Ltd Units Non -Voting Depository Receipt (Thailand),U
 DMPLF,Del Monte Pacific Limited Ordinary Shares (British Virgin Islands),U
@@ -2035,7 +2034,7 @@ EGDW,Edgewater Bancorp Inc. Common Stock,U
 EGF,"Blackrock Enhanced Government Fund, Inc.",NYSE
 EGFEF,EUROBANK ERGASIAS SVCS AND HOLDINGS SA Ordinary Shares,U
 EGFEY,EUROBANK ERGASIAS SVCS & HLDGS SA American Depositary Receipts - Unsponsored,U
-EGFHF,EFH Holdings Inc Common Shares,U
+EGFHF,ICPEI HLDGS INC Common Shares,U
 EGGF,EG Acquisition Corp.,NYSE
 EGGF U,"EG Acquisition Corp. Units, each consisting of one share of Class A common stock and one-third of on",NYSE
 EGGF WS,"EG Acquisition Corp. Redeemable warrants, each whole warrant exercisable for one Class A common stoc",NYSE
@@ -2136,7 +2135,7 @@ ELALY,EL AL Israel Airlines Ltd Unsponsored ADR (Israel),U
 ELAMF,Elamex S.A. de C.V. Ordinary Shares,U
 ELAN,Elanco Animal Health Incorporated Common Stock,NYSE
 ELAT,Elanco Animal Health Incorporated 5.00% Tangible Equity Units,NYSE
-ELBSD,Engagement Labs Inc Ordinary Shares,U
+ELBSF,Engagement Labs Inc Ordinary Shares,U
 ELC,"Entergy Louisiana, LLC Collateral Trust Mortgage Bonds, 4.875 % Series due September 1, 2066",NYSE
 ELCGF,ELECTRA STONE LTD  Ordinary Shares,U
 ELCI,"Eastern Light Capital, Incorporated Common Stock",U
@@ -2781,7 +2780,7 @@ EUO,ProShares UltraShort Euro,ARCA
 EUOT,Eurotech Ltd Common Stock,U
 EURI,AgriEuro Corp. Common Stock,U
 EURL,Direxion Daily FTSE Europe Bull 3x Shares,ARCA
-EURMF,EUROPCAR GROUPE S.A. ACT (France),U
+EURMF,EUROPCAR MOBILITY GROUPE (France),U
 EURN,EURONAV NV,NYSE
 EURZ,Xtrackers Eurozone Equity ETF,BATS
 EUSA,iShares MSCI USA Equal Weighted ETF,ARCA
@@ -2885,7 +2884,6 @@ EVVTY,Evolution AB American Depositary Receipts - Unsponsored,U
 EVVVY,Enav S P A American Depositary Receipts - Unsponsored,U
 EVX,VanEck Vectors Environmental Services ETF,ARCA
 EVXXF,European Electric Metals Inc Common Shares,U
-EVY,Eaton Vance New York Municipal Income Trust,AMEX
 EW,Edwards Lifesciences Corp,NYSE
 EWA,iShares MSCI Australia ETF,ARCA
 EWBC,"East West Bancorp, Inc. Common Stock",NASDAQ
@@ -3061,6 +3059,7 @@ FAS,Direxion Daily Financial Bull 3x Shares,ARCA
 FASDF,FANTASY ACES DAILY FANTASY SPORTS CORP Ordinary Shares,U
 FAST,Fastenal Company Common Stock,NASDAQ
 FAT,FAT Brands Inc. Class A Common Stock,NASDAQ
+FATBB,FAT Brands Inc. Class B Common Stock,NASDAQ
 FATBP,FAT Brands Inc. 8.25% Series B Cumulative Preferred Stock,NASDAQ
 FATBW,FAT Brands Inc. Warrant,NASDAQ
 FATE,"Fate Therapeutics, Inc. Common Stock",NASDAQ
@@ -3404,7 +3403,9 @@ FIBK,"First Interstate BancSystem, Inc. Class A Common Stock",NASDAQ
 FIBR,iShares U.S. Fixed Income Balanced Risk Factor ETF,BATS
 FICO,Fair Isaac Corporation,NYSE
 FICS,First Trust Exchange-Traded Fund VI First Trust International Developed Capital Strength ETF,NASDAQ
+FICV,Frontier Investment Corp Class A Ordinary Shares,NASDAQ
 FICVU,Frontier Investment Corp Units,NASDAQ
+FICVW,Frontier Investment Corp Warrants,NASDAQ
 FID,First Trust Exchange-Traded Fund VI First Trust S&P International Dividend Aristocrats ETF,NASDAQ
 FIDI,Fidelity International High Dividend ETF,ARCA
 FIDS,"FNB, Inc. (Dennison, OH) Common Stock",U
@@ -4068,7 +4069,7 @@ FSS,Federal Signal Corp.,NYSE
 FSSI,Fortistar Sustainable Solutions Corp. Class A Common Stock,NASDAQ
 FSSIU,Fortistar Sustainable Solutions Corp. Unit,NASDAQ
 FSSIW,Fortistar Sustainable Solutions Corp. Warrant,NASDAQ
-FSSLY,Fossal SAA American Depositary Receipts - Sponsored (Peru),U
+FSSLD,Fossal SAA American Depositary Receipts - Sponsored,U
 FSSN,Fision Corp Common Stock,U
 FSST,Fidelity Sustainability U.S. Equity ETF,ARCA
 FSSTF,CI MORNINGSTAR CANADA MOMENTUM INDEX ETF Unit,U
@@ -4464,7 +4465,7 @@ GBUX,GIVBUX INC Common Stock,U
 GBX,"The Greenbrier Companies, Inc.",NYSE
 GBXI,"GBX International Group, Inc. Common Stock",U
 GBXPF,VIA SA Ordinary Shares,U
-GBXPY,Via Varejo S.A.  American Depositary Shares,U
+GBXPY,VIA S.A. American Depositary Receipts - Sponsored,U
 GBXXY,Grand Baoxin Auto Group Ltd American Depositary Receipts - Unsponsored (Cayman Islands),U
 GCAAF,Guardian Cap Grp Ltd Cl-A Ordinary Shares,U
 GCAC,Growth Capital Acquisition Corp. Class A Common Stock,NASDAQ
@@ -5570,7 +5571,8 @@ GWBK,GATEWAY BK F S B OAKLAND CALIF Common Stock,U
 GWEFF,Glow Energy Public Co Ltd Shares Foreign Registered (Thailand),U
 GWGH,"GWG Holdings, Inc Common Stock",NASDAQ
 GWHP,Global Wholehealth Partners Corporation Common Stock,U
-GWIIU,Good Works II Acquisition Corp. Unit,NASDAQ
+GWII,Good Works II Acquisition Corp. Common Stock,NASDAQ
+GWIIW,Good Works II Acquisition Corp. Warrant,NASDAQ
 GWIN,"Glorywin Entertainment Group, Inc. Common Stock",U
 GWIO,"Great Western Iron Ore Properties, Inc. Common Stock",U
 GWLIF,Great West Lifeco Inc Ordinary Shares (Canada),U
@@ -5594,5 +5596,3 @@ GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
 GWX,SPDR S&P International Small Cap ETF,ARCA
 GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
 GWYNF,Genoway Ordinary Shares  France (FR),U
-GWYT,Greenway Technology Common Stock,U
-GXC,SPDR S&P China ETF,ARCA

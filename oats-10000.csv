@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWYT,Greenway Technology Common Stock,U
+GXC,SPDR S&P China ETF,ARCA
 GXF,Global X FTSE Nordic Region ETF,ARCA
 GXG,Global X MSCI Colombia ETF,ARCA
 GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
@@ -1225,7 +1227,7 @@ ICVT,iShares Convertible Bond ETF,BATS
 ICVX,"Icosavax, Inc. Common Stock",NASDAQ
 ID,"PARTS iD, Inc.",AMEX
 IDA,"IDACORP, Inc.",NYSE
-IDAI,T STAMP INC COM CL A Common Stock,U
+IDAID,T STAMP INC Common Stock,U
 IDAM,Idarado Mining Co Common Stock,U
 IDAT,iShares Cloud 5G and Tech ETF,ARCA
 IDBA,IDEX Biometrics ASA American Depositary Shares,NASDAQ
@@ -2863,7 +2865,7 @@ KALA,"Kala Pharmaceuticals, Inc. Common Stock",NASDAQ
 KALG,"KAL Energy, Inc. Common Stock",U
 KALL,KraneShares MSCI All China Index ETF,ARCA
 KALO,Kallo Inc. Common Stock,U
-KALTD,CLARITAS PHARMACEUTICALS INC Common Shares,U
+KALTF,CLARITAS PHARMACEUTICALS INC Common Shares,U
 KALU,Kaiser Aluminum Corporation Common Stock,NASDAQ
 KALV,"KalVista Pharmaceuticals, Inc. Common Stock",NASDAQ
 KALY,"Kali, Inc. Common Stock",U
@@ -4142,6 +4144,7 @@ LTCP,"Life's Time Capsule Services, Inc. Common Stock",U
 LTDH,"Living 3D Holdings, Inc. Common Stock",U
 LTEC,LOUD Technologies Inc. Common Stock,U
 LTELF,LS Telcom AG Lichtenau Ordinary Shares (DE),U
+LTES,Leet Technology Inc. Common Stock,U
 LTFD,Littlefield Corporation Common Stock,U
 LTGHF,Life Healthcare Group Holdings Ltd Ordinary Shares (South Africa),U
 LTGHY,Life Healthcare Group Holdings Ltd Unsponsored ADR (South Africa),U
@@ -5593,5 +5596,3 @@ MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
-MTCH,"Match Group, Inc. Common Stock",NASDAQ
-MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE

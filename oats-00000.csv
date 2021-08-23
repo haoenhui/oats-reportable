@@ -1250,7 +1250,6 @@ AMRR,American Metals Recovery and Recycling Inc. Common Stock,U
 AMRS,"Amyris, Inc. Common Stock",NASDAQ
 AMRT,American Mart Corp Common Stock,U
 AMRU,"Amaru, Inc. Common Stock",U
-AMRWF,AMERIWEST LITHIUM INC Common Shares,U
 AMRX,"Amneal Pharmaceuticals, Inc. Class A Common Stock",NYSE
 AMRZF,"Arena Minerals, Inc. Ordinary Shares",U
 AMS,American Shared Hospital Services,AMEX
@@ -2225,6 +2224,7 @@ AVUV,Avantis U.S. Small Cap Value ETF,ARCA
 AVVFF,Art Vivant Co Ltd Ordinary Shares Japan(JP ),U
 AVVH,"AVVAA World Health Care Products, Inc. Common Stock New",U
 AVVIY,Aviva PLC ADRs - Unsponsored (United Kingdom),U
+AVVOF,AVIO SPA SHS (Italy),U
 AVVYY,Aveva Group Plc American Depositary Receipts - Unsponsored (United Kingdom),U
 AVXL,Anavex Life Sciences Corp. Common Stock,NASDAQ
 AVXT,"AVAX Technologies, Inc. Common Stock",U
@@ -2247,6 +2247,7 @@ AWK,"American Water Works Company, Inc",NYSE
 AWKNF,Awakn Life Sciences Corp Common Stock (Canada),U
 AWKS,"AmeriWorks, Inc. Common Stock",U
 AWLCF,Awilco Drilling Ltd. Ordinary Shares,U
+AWLIF,AMERIWEST LITHIUM INC Common Shares,U
 AWLNF,AWILCO LNG AS SHS (Norway),U
 AWNHF,AWN  HLDGS LTD SHS (Australia),U
 AWON,"A-1 Group, Inc Common Stock",U
@@ -2436,7 +2437,7 @@ BANX,StoneCastle Financial Corp Common Stock,NASDAQ
 BAOB,"Baraboo Bancorp, Inc. (Wisconsin) Common Stock",U
 BAOS,Baosheng Media Group Holdings Limited Ordinary shares,NASDAQ
 BAP,Credicorp LTD,NYSE
-BAPR,Innovator S&P 500 Buffer ETF - April,BATS
+BAPR,Innovator U.S. Equity Buffer ETF - April,BATS
 BAR,GraniteShares Gold Shares,ARCA
 BARK,The Original BARK Company,NYSE
 BARK WS,"The Original BARK Company Redeemable Warrants, each whole warrant exercisable for shares of Common S",NYSE
@@ -2452,7 +2453,7 @@ BATRB,Liberty Media Corp Del Com Ser B Braves Group,U
 BATRK,Liberty Media Corporation Series C Liberty Braves Common Stock,NASDAQ
 BATT,Amplify Lithium & Battery Technology ETF,ARCA
 BAUFF,Blue Star Gold Corp Ordinary Shares,U
-BAUG,Innovator S&P 500 Buffer ETF - August,BATS
+BAUG,Innovator U.S. Equity Buffer ETF - August,BATS
 BAX,Baxter International Inc.,NYSE
 BAYP,"Bayport International Holdings, Inc. Common Stock",U
 BAYRY,Bayer Aktiengesellschaft American Depositary Shares (Each repstg one Bayer AG ordinary share of no par value),U
@@ -2631,7 +2632,6 @@ BDGR,"Black Dragon Resource Companies, Inc. Common Stock",U
 BDGSF,Bank of Ga Group Plc Ordinary Shares,U
 BDGXF,Bertrandt AG (Germany),U
 BDGY,Bridgeway National Corp. Common Stock,U
-BDIC,Blow & Drive Interlock Corp. Common Stock,U
 BDIMF,Black Diamond Group Ltd Ordinary Shares (Canada),U
 BDIXF,Biolidics Limited Ordinary Shares Japan_,U
 BDJ,BlackRock Enhanced Equity Dividend Trust,NYSE
@@ -2705,7 +2705,6 @@ BELLF,Belle International Holdings Limited Limited Ordinary shares (Cayman Islan
 BELMF,Belmont Resources Inc Common Shares (Canada),U
 BELP,BELPOINTE REIT INC Common Stock,U
 BELR,Bell Rose Capital Inc. Common Stock,U
-BEMGQ,Beta Music Group Inc. Common Stock,U
 BEN,"Franklin Resources, Inc.",NYSE
 BENE,Benessere Capital Acquisition Corp. Class A Common Stock,NASDAQ
 BENER,Benessere Capital Acquisition Corp. Right,NASDAQ
@@ -2741,7 +2740,7 @@ BFC,Bank First Corporation Common Stock,NASDAQ
 BFCC,BankFirst Capital Corp Common Stock,U
 BFCH,"BitFrontier Capital Holdings, Inc. Common Stock",U
 BFDE,"Bedford Energy, Inc. Common Stock",U
-BFEB,Innovator S&P 500 Buffer ETF - February,BATS
+BFEB,Innovator U.S. Equity Buffer ETF - February,BATS
 BFEHF,"Bachem Holding, Ltd. Namen AKT B (Switzerland)",U
 BFFAF,BASF SE Ordinary Shares (Germany),U
 BFFBF,Biffa PLC Ordinary Shares (United Kingdom),U
@@ -2953,7 +2952,7 @@ BIZD,VanEck Vectors BDC Income ETF,ARCA
 BIZLF,Bizlink Holding Inc Ordinary Shares (Cayman Islands),U
 BIZM,"Biozoom, Inc. Common Stock",U
 BJ,"BJs Wholesale Club Holdings, Inc. Common Stock",NYSE
-BJAN,Innovator S&P 500 Buffer ETF - January,BATS
+BJAN,Innovator U.S. Equity Buffer ETF - January,BATS
 BJCHF,Beijing Capital International Airport Co Ltd H Shs (China),U
 BJCHY,Beijing Capital International Airport Co Unsponsored ADR (China),U
 BJCLF,Beijing Capital Land Ltd Shs -H-,U
@@ -2965,8 +2964,8 @@ BJPUF,Berli Jucker Public Co Ltd BJC Ordinary Shares  (Thailand),U
 BJRI,"BJ's Restaurants, Inc. Common Stock",NASDAQ
 BJSAF,Berjaya Sports Toto Loan Stk Ordinary Shares,U
 BJTRF,"Beijing Tong Ren Tang Chinese Medicine Co Ltd, Hong Kong Ordinary Shares (Hong Kong)",U
-BJUL,Innovator S&P 500 Buffer ETF - July,BATS
-BJUN,Innovator S&P 500 Buffer ETF - June,BATS
+BJUL,Innovator U.S. Equity Buffer ETF - July,BATS
+BJUN,Innovator U.S. Equity Buffer ETF - June,BATS
 BJURF,Bonjour Holdings Limited Ordinary Shares (Cayman Islands),U
 BJWTF,"Beijing Enterprises Water Group, Ltd Ordinary Shares (Bermuda)",U
 BJWTY,"Beijing Enterprises Water Group, Ltd ADR (Unsponsored) (Bermuda)",U
@@ -3175,8 +3174,8 @@ BLYQ,Bally Corp.  Common Stock,U
 BLYYF,"Boart Longyear Ltd, Sydney NSW Warrant Exp 09/13/2024 (Australia)",U
 BLZSF,BSD Crown Ltd. Ordinary Shares (Israel),U
 BMA,Banco Macro S.A.,NYSE
-BMAR,Innovator S&P 500 Buffer ETF - March,BATS
-BMAY,Innovator S&P 500 Buffer ETF - May,BATS
+BMAR,Innovator U.S. Equity Buffer ETF - March,BATS
+BMAY,Innovator U.S. Equity Buffer ETF - May,BATS
 BMBIF,BRIGHT MINDS BIOSCIENCES INC COM (Canada),U
 BMBL,Bumble Inc. Class A Common Stock,NASDAQ
 BMBLF,Brambles Ltd Ordinary Shares (Australia),U
@@ -3344,7 +3343,6 @@ BOIL,ProShares Ultra Bloomberg Natural Gas,ARCA
 BOIRF,Boiron SA ACT (France),U
 BOIVF,Bollore Investissement Ordinary Shares,U
 BOKF,BOK Financial Corporation Common Stock,NASDAQ
-BOKFL,BOK Financial Corporation 5.375% Subordinated Notes due 2056,NASDAQ
 BOLB,Bol Bancshares Inc Common Stock,U
 BOLBP,Bol Bancshares Inc Preferred Stock,U
 BOLIF,BOLIDEN AB NEW Ordinary Shares,U
@@ -4297,6 +4295,7 @@ CCS,"CENTURY COMMUNITIES, INC.",NYSE
 CCSB,Community Svgs Bancorp Inc Common Stock,U
 CCTC,"Clean Coal Technologies, Inc. Common Stock (NV)",U
 CCTL,Coin Citadel Common Stock,U
+CCTM,CARE2COM INC COM,U
 CCTR,"China Crescent Enterprises, Inc. Common Stock",U
 CCTTF,CITIC TELECOM INTERNATIONAL HOLDINGS LTD SHS (Hong Kong),U
 CCU,Compania Cervecerias Unidas S.A.,NYSE
@@ -5234,7 +5233,6 @@ CMWAY,Commonwealth Bank Of Australia Sponsored ADR (Australia),U
 CMWCF,Cromwell Corporation Ltd. Stapled Security (Australia),U
 CMXC,Cell MedX Corp. Common Stock,U
 CMXHF,Csl Ltd Ordinary Shares,U
-CMYYY,China Machy Engr Corp Unsponsored ADR (China),U
 CMZOF,Corporacion Moctezuma Sa de CV Cmoctez Ordinary Shares (Mexico),U
 CMZZF,Cairo Mezz PLC Ord (Cyprus),U
 CN,Xtrackers MSCI All China Equity ETF,ARCA
@@ -5485,6 +5483,7 @@ COLIU,Colicity Inc. Units,NASDAQ
 COLIW,Colicity Inc. Warrant,NASDAQ
 COLL,"Collegium Pharmaceutical, Inc. Common Stock",NASDAQ
 COLM,Columbia Sportswear Company Common Stock,NASDAQ
+COLRF,CHINA MED & HEALTHCARE GROUP LTD SHS (Bermuda),U
 COLTF,Colt Resources Inc Ordinary Shares (Canada),U
 COLUF,Colossus Minerals Inc Common Shares (Canada),U
 COLZF,COCA COLA ICECEK A.S Ordinary Shares (Turkey),U
@@ -5527,7 +5526,9 @@ CORN,Teucrium Corn Fund,ARCA
 CORP,PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund,ARCA
 CORR,"CorEnergy Infrastructure Trust, Inc. (NEW",NYSE
 CORR PRA,"CorEnergy Infrastructure Trust, Inc Depositary Shares representing a 1/100th fractional interest of",NYSE
+CORS,Corsair Partnering Corporation,NYSE
 CORS U,"Corsair Partnering Corporation Units, each consisting of one Class A ordinary share and one-third of",NYSE
+CORS WS,"Corsair Partnering Corporation Redeemable warrants, each whole warrant exercisable for one Class A o",NYSE
 CORT,Corcept Therapeutics Incorporated Common Stock,NASDAQ
 COSDF,Cosol Ltd. Ordinary Shares (Australia),U
 COSG,Cosmos Group Holdings Inc. Common Stock,U

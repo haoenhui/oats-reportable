@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
@@ -1665,6 +1664,7 @@ SXYAY,SIKA AG American Depositary Share (Switzerland),U
 SY,So-Young International Inc. American Depository Shares,NASDAQ
 SYAAF,Syrah Resources Limited Ordinary Shares (Australia),U
 SYANY,Sydbank A/S Unsponsored ADR (Denmark),U
+SYAXF,Sayona Mining Ltd. Ordinary Shares (Australia),U
 SYBF,Syntec Biofuel Inc. Common Stock,U
 SYBJF,Security Bank Corp Ordinary Shares,U
 SYBRQ,Synergy Brands Inc. Common Stock,U
@@ -2218,6 +2218,7 @@ THNPY,TECHNIP ENERGIES NV American Depositary Receipts - Sponsored,U
 THNQ,ROBO Global Artificial Intelligence ETF,ARCA
 THNUY,Thanachart Capital Public Co Ltd Unsponsored ADR (Thailand),U
 THNVF,THANACHART CAPITAL PUBLIC CO  LTD Ordinary Shares  (Thailand),U
+THNWF,THAI NVDR CO LTD NVDR WARRANTS EXP 07/31/2023 (Thailand),U
 THO,"Thor Industries, Inc.",NYSE
 THOGF,Toho Gas Co Ltd Ordinary Shares,U
 THOOF,TOHO CO LTD OSAKA Ordinary Shares,U
@@ -2249,6 +2250,7 @@ THUPY,Thule Group AB American Depositary Receipts - Unsponsored (Sweden),U
 THURF,Thunderstruck Resources Ltd Ordinary Shares (Canada),U
 THVB,Thomasville Bancshares Inc Ga Common Stock,U
 THVUF,Thai Vegetable oil Public Co Ltd Units Non Voting Depository Receipt (Thailand),U
+THVWF,THAI NVDR CO LTD NVDR WARRANTS EXP 02/05/2024 (Thailand),U
 THW,Tekla World Healthcare Fund,NYSE
 THWWW,Target Hospitality Corp. Warrant expiring 3/15/2024,NASDAQ
 THXPF,THOR EXPLORATION LTD  Common Shares,U
@@ -2828,6 +2830,7 @@ TRTN PRA,Triton International Limited 8.50% Series A Cumulative Redeemable Perpe
 TRTN PRB,Triton International Limited 8.00% Series B Cumulative Redeemable Perpetual Preference Shares,NYSE
 TRTN PRC,Triton International Limited 7.375% Series C Cumulative Redeemable Perpetual Preference Shares,NYSE
 TRTN PRD,Triton International Limited 6.875% Series D Cumulative Redeemable Perpetual Preference Shares,NYSE
+TRTN PRE,Triton International Limited 5.75% Series E Cumulative Redeemable Perpetual Preference Shares,NYSE
 TRTPF,Trustpilot Group PLC Ordinary Shares (United Kingdom),U
 TRTX,"TPG RE Finance Trust, Inc. Common Stock",NYSE
 TRTX PRC,"TPG RE Finance Trust, Inc. 6.25% Series C Cumulative Redeemable Preferred Stock",NYSE
@@ -3011,7 +3014,6 @@ TTP,"TORTOISE PIPELINE & ENERGY FUND, INC.",NYSE
 TTRAF,Telstra Corporation Limited Ordinary Shares,U
 TTRHF,Terra Energy Corp Ordinary Shares (Canada),U
 TTRKF,Turk Traktor Ve Ziraat Makineleri AS Ordinary Shares (Turkey),U
-TTRNF,TRITON INTL LTD PERP PREF SER E (Bermuda),U
 TTSH,"Tile Shop Holdings, Inc. Common Stock",NASDAQ
 TTSI,"Tactical Services, Inc. Common Stock",U
 TTSRF,Tartisan Nickel Corp Ordinary Shares,U
@@ -3181,7 +3183,6 @@ TYME,"Tyme Technologies, Inc. Common Stock",NASDAQ
 TYNPF,Nippon Sanso Holdings Corp Ordinary Shares,U
 TYO,Direxion Daily 7-10 Year Treasury Bear 3X Shares (based on the NYSE 7-10 Year Treasury Bond Index; s,ARCA
 TYOBY,Toyobo Co Ltd American Depositary Shares,U
-TYOOF,Tae Young Engineering & Construction Preferred Shares Non-Voting,U
 TYOYF,Taiyo Yuden Co Ltd SHS (Japan),U
 TYOYY,Taiyo Yuden Ltd American Depositary Shares,U
 TYPFF,Typhoon Exploration Inc Class A Shares (Canada),U
@@ -3211,9 +3212,9 @@ UAMY,United States Antimony Corporation,AMEX
 UAN,"CVR Partners, LP",NYSE
 UAPC,United American Petroleum Corp. Common Stock,U
 UAPNF,Union Auction Pub Co Ltd Non Voting Depository Receipts (Thailand),U
-UAPR,Innovator S&P 500 Ultra Buffer ETF - April,BATS
+UAPR,Innovator U.S. Equity Ultra Buffer ETF - April,BATS
 UATG,"Umbra Applied Technologies Group, Inc. Common Stock",U
-UAUG,Innovator S&P 500 Ultra Buffer ETF - August,BATS
+UAUG,Innovator U.S. Equity Ultra Buffer ETF - August,BATS
 UAVS,"AgEagle Aerial Systems, Inc.",AMEX
 UBA,Urstadt Biddle Properties Inc. Class A,NYSE
 UBAAF,Urbana Corp Common Stock Class A Non-Voting,U
@@ -3321,7 +3322,7 @@ UEXCF,UEX Corp Ordinary Shares,U
 UFAB,"Unique Fabricating, Inc.",AMEX
 UFCP,Union Financial Corporation Michigan Common Stock,U
 UFCS,"United Fire Group, Inc. Common Stock",NASDAQ
-UFEB,Innovator S&P 500 Ultra Buffer ETF - February,BATS
+UFEB,Innovator U.S. Equity Ultra Buffer ETF - February,BATS
 UFFRF,UNIFIN FINANCIERA SAB DE CV Ordinary Shares Series A (Mexico),U
 UFGSY,Unipol Gruppo S.p.A American Depositary Receipts - Unsponsored,U
 UFHGF,ULTRAFABRICS HLDGS CO LTD Ordinary Shares (Japan),U
@@ -3361,10 +3362,10 @@ UIS,Unisys Corporation,NYSE
 UITA,"Utilicraft Aerospace Industries, Inc. Common Stock",U
 UITB,VictoryShares USAA Core Intermediate-Term Bond ETF,ARCA
 UIVM,VictoryShares USAA MSCI International Value Momentum ETF,ARCA
-UJAN,Innovator S&P 500 Ultra Buffer ETF - January,BATS
+UJAN,Innovator U.S. Equity Ultra Buffer ETF - January,BATS
 UJB,ProShares Ultra High Yield,ARCA
-UJUL,Innovator S&P 500 Ultra Buffer ETF - July,BATS
-UJUN,Innovator S&P 500 Ultra Buffer ETF - June,BATS
+UJUL,Innovator U.S. Equity Ultra Buffer ETF - July,BATS
+UJUN,Innovator U.S. Equity Ultra Buffer ETF - June,BATS
 UK,Ucommune International Ltd Ordinary Shares,NASDAQ
 UKLLF,UK Oil & Gas Invts Plc Ordinary Shares (United Kingdom),U
 UKOMW,Ucommune International Ltd Warrant expiring 11/17/2025,NASDAQ
@@ -3394,10 +3395,10 @@ ULUR,Uluru Inc. Common Stock,U
 ULVAF,Ulvac Inc SHS (Japan),U
 ULVM,VictoryShares USAA MSCI USA Value Momentum ETF,ARCA
 UMAM,Umami Sustainable Seafood Inc. Common Stock,U
-UMAR,Innovator S&P 500 Ultra Buffer ETF - March,BATS
+UMAR,Innovator U.S. Equity Ultra Buffer ETF - March,BATS
 UMAV,UAV CORP Common Stock,U
 UMAX,Umax Group Corporation Common Stock,U
-UMAY,Innovator S&P 500 Ultra Buffer ETF - May,BATS
+UMAY,Innovator U.S. Equity Ultra Buffer ETF - May,BATS
 UMBF,UMB Financial Corporation Common Stock,NASDAQ
 UMC,United Microelectronic Corp.,NYSE
 UMCN,"UMC, Inc. Common Stock",U
@@ -5352,7 +5353,7 @@ YRBAF,"Yorbeau Resources, Inc. Class A Ordinary Shares (Canada)",U
 YRCCF,Yurtec Corp SHS (Japan),U
 YRD,Yiren Digital Ltd.,NYSE
 YRIV,Yangtze River Port & Logistics Ltd Common Stock,U
-YRLLF,Global UAV Technologies Ltd. Ordinary Shares,U
+YRLLD,Global UAV Technologies Ltd. Ordinary Shares,U
 YSAC,Yellowstone Acquisition Company Class A Common Stock,NASDAQ
 YSACU,Yellowstone Acquisition Company Units,NASDAQ
 YSACW,Yellowstone Acquisition Company Warrants to purchase Class A common stock,NASDAQ

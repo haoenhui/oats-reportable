@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTCH,"Match Group, Inc. Common Stock",NASDAQ
+MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
 MTD,Mettler-Toledo International,NYSE
@@ -468,6 +470,7 @@ NETL,NETLease Corporate Real Estate ETF,ARCA
 NETLF,NETLINK NBN TR Ordinary Shares Singapore(SG ),U
 NETO,"NetObjects, Inc. Common Stock",U
 NETTF,Netease Inc Ordinary Shares (Cayman Islands),U
+NETWF,Network Media Group Inc Common Shares (Canada),U
 NEU,NewMarket Corporation,NYSE
 NEUN,"NeuroGenesis, Inc. Common Stock",U
 NEV,NUVEEN ENHANCED MUNICIPAL VALUE FUND,NYSE
@@ -727,7 +730,6 @@ NMEX,Northern Minerals & Exploration Ltd.  Common Stock,U
 NMFC,New Mountain Finance Corporation Common Stock,NASDAQ
 NMG,Nouveau Monde Graphite Inc.,NYSE
 NMGC,NeoMagic Corporation Common Stock,U
-NMGGF,Network Media Group Inc Common Shares (Canada),U
 NMGX,NANO MAGIC INC Common Stock,U
 NMHLY,NMC HEALTH PLC  American Depositary Receipts - Unsponsored (United Kingdom),U
 NMI,Nuveen Municipal Income,NYSE
@@ -1364,6 +1366,7 @@ NYCB,"New York Community Bancorp, Inc.",NYSE
 NYCB PRA,"New York Community Bancorp, Inc.",NYSE
 NYCB PRU,New York Community Capital Trust V (BONUSES),NYSE
 NYF,iShares New York Muni Bond ETF,ARCA
+NYKHF,NAYUKI HLDGS LTD HKD SHS (Cayman Islands),U
 NYLE,Nyle Intl Corp Common Stock,U
 NYLXF,Nylex Malaysia Bhd Ordinary Shares (Malaysia),U
 NYMT,"New York Mortgage Trust, Inc. Common Stock",NASDAQ
@@ -2064,7 +2067,7 @@ PAOG,"PAO Group, Inc. Common Stock",U
 PAOS,Amerinac Holding Corp. Common Stock,U
 PAOTF,Parrot Sa Ordinary Shares (France),U
 PAPA,"WO Group, Inc. Common Stock",U
-PAPR,Innovator S&P 500 Power Buffer ETF - April,BATS
+PAPR,Innovator U.S. Equity Power Buffer ETF - April,BATS
 PAQC,Provident Acquisition Corp. Class A Ordinary Shares,NASDAQ
 PAQCU,Provident Acquisition Corp. Units,NASDAQ
 PAQCW,Provident Acquisition Corp. Warrant,NASDAQ
@@ -2088,7 +2091,7 @@ PATI,"Patriot Transportation Holding, Inc. Common Stock",NASDAQ
 PATK,"Patrick Industries, Inc. Common Stock",NASDAQ
 PATLF,"Patrys Limited, Melbourne Ordinary Shares",U
 PAUFF,Shine Minerals Corp Common Shares,U
-PAUG,Innovator S&P 500 Power Buffer ETF - August,BATS
+PAUG,Innovator U.S. Equity Power Buffer ETF - August,BATS
 PAVE,Global X U.S. Infrastructure Development ETF,BATS
 PAVM,PAVmed Inc. Common Stock,NASDAQ
 PAVMW,PAVmed Inc. Warrant,NASDAQ
@@ -2321,7 +2324,6 @@ PDYPY,Flutter Entmt Plc American Depositary Receipts - Unsponsored,U
 PEAK,"Healthpeak Properties, Inc.",NYSE
 PEB,Pebblebrook Hotel Trust,NYSE
 PEB PRC,Pebblebrook Hotel Trust 6.50% Series C,NYSE
-PEB PRD,Pebblebrook Hotel Trust 6.375% Series D Cumulative Redeemable Preferred Shares of Beneficial Interes,NYSE
 PEB PRE,Pebblebrook Hotel Trust 6.375% Series E Cumulative Redeemable Preferred Shares of Beneficial Interes,NYSE
 PEB PRF,Pebblebrook Hotel Trust 6.3% Series F Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE
 PEB PRG,Pebblebrook Hotel Trust 6.375% Series G Cumulative Redeemable Preferred Shares of Beneficial Interes,NYSE
@@ -2396,7 +2398,7 @@ PFDR,Pathfinder Acquisition Corporation Class A Ordinary Shares,NASDAQ
 PFDRU,Pathfinder Acquisition Corporation Unit,NASDAQ
 PFDRW,Pathfinder Acquisition Corporation Warrant,NASDAQ
 PFE,Pfizer Inc.,NYSE
-PFEB,Innovator S&P 500 Power Buffer ETF - February,BATS
+PFEB,Innovator U.S. Equity Power Buffer ETF - February,BATS
 PFF,iShares Trust iShares Preferred and Income Securities ETF,NASDAQ
 PFFA,Virtus InfraCap U.S. Preferred Stock ETF,ARCA
 PFFD,Global X U.S. Preferred ETF,ARCA
@@ -2639,12 +2641,12 @@ PITPY,Pt Indocement Tunggal Prakasa Unsponsored ADR (Indonesia),U
 PIUTQ,Paiute Oil & Mining Corporation Common Stock,U
 PIXY,"ShiftPixy, Inc. Common Stock",NASDAQ
 PIZ,Invesco Exchange-Traded Fund Trust II Invesco DWA Developed Markets Momentum ETF,NASDAQ
-PJAN,Innovator S&P 500 Power Buffer ETF - January,BATS
+PJAN,Innovator U.S. Equity Power Buffer ETF - January,BATS
 PJET,"Priority Aviation, Inc. Common Stock",U
 PJP,Invesco Dynamic Pharmaceuticals ETF,ARCA
 PJT,PJT Partners Inc.,NYSE
-PJUL,Innovator S&P 500 Power Buffer ETF - July,BATS
-PJUN,Innovator S&P 500 Power Buffer ETF - June,BATS
+PJUL,Innovator U.S. Equity Power Buffer ETF - July,BATS
+PJUN,Innovator U.S. Equity Power Buffer ETF - June,BATS
 PJXRF,PJX Res Inc Common Shares (Canada),U
 PK,Park Hotels & Resorts Inc. Common Stock,NYSE
 PKANF,SIMPLY BETTER BRANDS CORP Common Shares,U
@@ -2778,9 +2780,9 @@ PLYR,Polymeric Resources Corp Common Stock,U
 PLYZ,Plyzer Technologies Inc. Common Stock,U
 PM,Philip Morris International Inc.,NYSE
 PMAH,"PlasmaTech, Inc. Common Stock",U
-PMAR,Innovator S&P 500 Power Buffer ETF - March,BATS
+PMAR,Innovator U.S. Equity Power Buffer ETF - March,BATS
 PMAUF,Premier Investments Ltd Ordinary Shares,U
-PMAY,Innovator S&P 500 Power Buffer ETF - May,BATS
+PMAY,Innovator U.S. Equity Power Buffer ETF - May,BATS
 PMBC,Pacific Mercantile Bancorp Common Stock,NASDAQ
 PMBPF,Pembina Pipeline Corporation Reduced Rate Reset Preferred Class A Series 7 (Canada),U
 PMBY,POSTD Merchant Banque Common Stock,U
@@ -2896,7 +2898,6 @@ PNRLY,PARINGA RES LTD American Depositary Receipts - Sponsored,U
 PNRXF,Porto Energy Corp. Ordinary Shares (Canada),U
 PNT,POINT Biopharma Global Inc. Common Stock,NASDAQ
 PNTG,"The Pennant Group, Inc. Common Stock",NASDAQ
-PNTHF,POINTSBET HLDGS LTD Rights   08/20/2021,U
 PNTLF,PENTANET LTD ORDINARY FULLY PAID (Australia),U
 PNTM,Pontem Corporation,NYSE
 PNTM U,"Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeem",NYSE
@@ -3410,7 +3411,6 @@ PTK U,"PTK Acquisition Corp. Units, each consisting of one share of Common Stock
 PTK WS,"PTK Acquisition Corp. Warrants, each whole warrant exercisable for one half (1/2) of a share of Comm",AMEX
 PTKFF,PT Kalbe Farma TBK Ordinary Shares,U
 PTKFY,PT Kalbe Farma Unsponsored ADR (Indonesia),U
-PTKHF,Petkim Petrokimya Hldgs AS Ordinary Shares (Turkey),U
 PTLC,Pacer Trendpilot US Large Cap ETF,BATS
 PTLF,"Petlife Pharmaceuticals, Inc Common Stock",U
 PTLKF,PT Lippo Karawaci TBK Ordinary Shares (Indonesia),U
@@ -5595,3 +5595,4 @@ SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
