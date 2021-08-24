@@ -655,6 +655,8 @@ AGGY,WisdomTree Yield Enhanced U.S. Aggregate Bond Fund,ARCA
 AGGZF,AG Growth International Inc. Common Shares (Canada),U
 AGHC,Aeon Global Health Corp. Common Stock,U
 AGI,Alamos Gold Inc. Class A Common Shares,NYSE
+AGIL,"AgileThought, Inc. Class A Common Stock",NASDAQ
+AGILW,"AgileThought, Inc. Warrant",NASDAQ
 AGIN,American Graphite Technologies Inc. Common Stock,U
 AGIO,"Agios Pharmaceuticals, Inc. Common Stock",NASDAQ
 AGL,"agilon health, inc.",NYSE
@@ -1135,7 +1137,6 @@ AMBP WS,"Ardagh Metal Packaging S.A. Warrants, each exercisable for one Share at
 AMBS,"Amarantus Bioscience Holdings, Inc. Common Stock",U
 AMBZ,American Business Bank Common Stock,U
 AMC,"AMC ENTERTAINMENT HOLDINGS, INC.",NYSE
-AMCA,iShares Trust iShares Russell 1000 Pure U.S. Revenue ETF,NASDAQ
 AMCCF,Amcor PLC CDI 1:1,U
 AMCF,Andatee China Marine Fuel Services Corporation Common Stock,U
 AMCIU,AMCI Acquisition Corp. II Units,NASDAQ
@@ -2068,7 +2069,7 @@ AUGX,AUGMEDIX INC COM,U
 AUGZ,TrueShares Structured Outcome (August) ETF,BATS
 AUHEF,Anhui Expressway Co Ltd Shares -H- (China),U
 AUIAF,"Aurania Resources, Ltd. Ordinary Shares (Bermuda)",U
-AUID,Ipsidy Inc. Common Stock,U
+AUID,Ipsidy Inc. Common Stock,NASDAQ
 AUKNY,Auckland International Airport Limited American Depositary Receipts - Sponsored,U
 AUKUF,AMS AG Ordinary Shares (Austria),U
 AULDF,ANGLOGOLD ASHANTI LIMITED CHESS UNITS FOR FOREIGN SECURITIES REPRESENTING 0.2 (ORD SHS)(South Africa),U
@@ -4206,6 +4207,7 @@ CC,The Chemours Company,NYSE
 CCAC,CITIC Capital Acquisition Corp. Class A Ordinary Shares,NYSE
 CCAC U,"CITIC Capital Acquisition Corp. Units, each consisting of one Class A ordinary share, $0.0001 par va",NYSE
 CCAC WS,"CITIC Capital Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary sh",NYSE
+CCAIU,Cascadia Acquisition Corp. Unit,NASDAQ
 CCAJ,Coastal Capital Acquisition Corp (GA) Common Stock,U
 CCAP,"Crescent Capital BDC, Inc. Common stock",NASDAQ
 CCAQ,Committed Capital Acquisition Corporation II Common Stock,U
@@ -4395,7 +4397,7 @@ CEBCF,China Everbright Bank Co Ltd Ordinary Shares (China),U
 CEBTF,Citychamp Watch & Jewellery Group Ltd. Ordinary Shares (Cayman Islands),U
 CEBUF,Cebu Air Inc Shs (Phillippines),U
 CEBUY,Cebu Air Inc Unsponsored ADR (Phillipines),U
-CECBF,Cellcube Energy Storage Sys Inc Ordinary Shares,U
+CECBF,SALTBAE CAP CORP Ordinary Shares,U
 CECBW,CEC BRANDS LLC WT,U
 CECE,CECO Environmental Corp. Common Stock,NASDAQ
 CECL,"Cecil Bancorp, Inc. Common Stock",U
@@ -4709,7 +4711,6 @@ CHKEL,Chesapeake Energy Corporation Class C Warrants,NASDAQ
 CHKEW,Chesapeake Energy Corporation Class A Warrants,NASDAQ
 CHKEZ,Chesapeake Energy Corporation Class B Warrants,NASDAQ
 CHKGF,CK Asset Hldgs Ltd Ordinary Shares,U
-CHKHF,CHINA-HONGKONG PHOTO PRODUCTS HOLDINGS LTD Ordinary Shares,U
 CHKIF,China Southern Airlines Co Ltd Shares H (China),U
 CHKKF,Chakana Copper Corp Ordinary Shares (Canada),U
 CHKP,Check Point Software Technologies Ltd. Ordinary Shares,NASDAQ
@@ -5042,7 +5043,6 @@ CLOK,Cipherloc Corp. Common Stock,U
 CLOQ,"Cyberloq Technologies, Inc.  Common Stock",U
 CLOU,Global X Funds Global X Cloud Computing ETF,NASDAQ
 CLOV,"Clover Health Investments, Corp. Class A Common Stock",NASDAQ
-CLOVW,"Clover Health Investments, Corp. Warrants",NASDAQ
 CLOW,"Cloudweb, Inc. Common Stock",U
 CLPBF,Coloplast AS Ordinary Shares B (Denmark),U
 CLPBY,Coloplast AS American Depositary Receipts - Sponsored,U
@@ -5386,7 +5386,9 @@ CNTHO,Connecticut Light & Power Company 5.28% Series 1967 Preferred Stock,U
 CNTHP,Connecticut Light & Power Company 6.56% Series 1968 Preferred Stock,U
 CNTMF,Cansortium Inc Common Stock (Canada),U
 CNTO,"Centor Energy, Inc. Common Stock",U
+CNTQ,Chardan NexTech Acquisition 2 Corp. Class A Common Stock,NASDAQ
 CNTQU,Chardan NexTech Acquisition 2 Corp. Unit,NASDAQ
+CNTQW,Chardan NexTech Acquisition 2 Corp. Warrant,NASDAQ
 CNTRF,Centr Brands Corp Common Stock (Canada),U
 CNTTQ,CANNTRUST HLDGS INC COM (Canada),U
 CNTWW,Contura Energy Inc Wt Exp Ser A Expiring 07/26/2023,U
@@ -5594,6 +5596,3 @@ CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
 CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
 CPK,Chesapeake Utilities,NYSE
-CPKB,Chesapeake Bancorp Common Stock,U
-CPKF,Chesapeake Financial Shares Inc Common Stock,U
-CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U

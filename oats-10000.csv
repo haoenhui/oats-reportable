@@ -1,4 +1,10 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWTR,"Global Water Technologies, Inc. Common Stock",U
+GWW,"W.W. Grainger, Inc.",NYSE
+GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
+GWX,SPDR S&P International Small Cap ETF,ARCA
+GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
+GWYNF,Genoway Ordinary Shares  France (FR),U
 GWYT,Greenway Technology Common Stock,U
 GXC,SPDR S&P China ETF,ARCA
 GXF,Global X FTSE Nordic Region ETF,ARCA
@@ -300,9 +306,8 @@ HEWC,iShares Currency Hedged MSCI Canada ETF,ARCA
 HEWG,iShares Currency Hedged MSCI Germany ETF,NASDAQ
 HEWJ,iShares Currency Hedged MSCI Japan ETF,ARCA
 HEWU,iShares Currency Hedged MSCI United Kingdom ETF,ARCA
-HEWW,iShares Currency Hedged MSCI Mexico ETF,ARCA
 HEXEY,Hellenic Exchanges SA Holding Clearing Settlement and Registry Unsponsored ADR (Greece),U
-HEXO,HEXO Corp.,NYSE
+HEXO,HEXO Corp. Common Shares,NASDAQ
 HEXPF,Huntington Exploration Inc Ordinary Shares,U
 HEZU,iShares Currency Hedged MSCI Eurozone ETF of ISHARES TRUST,ARCA
 HFAHF,Navigator Global Invts Ltd Ordinary Shares,U
@@ -1851,7 +1856,6 @@ IPCIF,INTELLIPHARMACEUTICS INTL INC Common Shares,U
 IPDN,"Professional Diversity Network, Inc. Common Stock",NASDAQ
 IPDQF,Impedimed Ltd Ordinary Shares (Australia),U
 IPEU,IPE Universal Inc Common Stock,U
-IPFF,iShares International Preferred Stock ETF,BATS
 IPFPF,"International Personal Finance Plc, Leeds Ordinary shares (United Kingdom)",U
 IPG,"The Interpublic Group of Companies, Inc.",NYSE
 IPGDF,IGO Ltd Ordinary Shares,U
@@ -2061,7 +2065,6 @@ ISHYF,ISHARES II PLC HIGH YIELD CORP BOND UCITS ETF USD ACC Exchange Traded Fund
 ISHZF,iShares III PLC Ordinary Shares (Ireland),U
 ISIDF,ISHARES VI PLC ISHARES INCLUSION AND DIVERSITY UCITS ETF USD ACC Exchange Traded Fund,U
 ISIG,"Insignia Systems, Inc. Common Stock",NASDAQ
-ISIVF,ISHARES IV PLC ISHARES EDGE MSCI EUROPE QUALITY FACTOR UCITS ETFEUR (ACC) Exchange Traded Fund,U
 ISJMF,ISHARES V PLC J P MORGAN EM CORP BOND UCITS ETF USD ACC (Ireland),U
 ISJPF,Ishares II PLC JP Morgan EM Bond UCITS ETF,U
 ISJSF,ISHARES JANTZI SOCIAL INDEX Unit,U
@@ -2563,7 +2566,7 @@ JHMM,John Hancock Multifactor Mid Cap ETF,ARCA
 JHMS,John Hancock Multifactor Consumer Staples ETF,ARCA
 JHMT,John Hancock Multifactor Technology ETF,ARCA
 JHMU,John Hancock Multifactor Utilities ETF,ARCA
-JHRTF,JOHORE TIN BHD Ordinary Shares,U
+JHRTF,ABLE GLOBAL BERHAD Ordinary Shares,U
 JHS,John Hancock Income Securities Trust Capital Stock,NYSE
 JHSC,John Hancock Multifactor Small Cap ETF,ARCA
 JHX,JAMES HARDIE INDUSTRIES plc.,NYSE
@@ -3153,7 +3156,6 @@ KMFI,"Keller Manufacturing Company, Inc. (The) New Common Stock",U
 KMGH,Kemiao Garment Holding Group Common Stock,U
 KMGIF,Kamigumi Co Ltd Ordinary Shares,U
 KMGLF,ASIAMET RES LTD  Ordinary Shares,U
-KMHLF,"KANGJI MED HOLDINGS LTD, USD ORD SHS (Cayman Islands)",U
 KMI,"Kinder Morgan, Inc.",NYSE
 KMLM,KFA Mount Lucas Index Strategy ETF,ARCA
 KMLXF,RESPIRI LTD Ordinary Shares,U
@@ -3407,6 +3409,7 @@ KTOS,"Kratos Defense & Security Solutions, Inc. Common Stock",NASDAQ
 KTPPF,Katipult Technology Corp Ordinary Shares (Canada),U
 KTRA,"Kintara Therapeutics, Inc. Common Stock",NASDAQ
 KTRPF,Kito Corp Ordinary shares (Japan),U
+KTSUF,KOATSU GAS KOGYO CO LTD SHS (Japan),U
 KTTA,Pasithea Therapeutics Corp. Common Stock,NASDAQ
 KTTAW,Pasithea Therapeutics Corp. Warrant,NASDAQ
 KTWIF,Kurita Water Inds Ltd Ordinary Shares,U
@@ -3850,9 +3853,6 @@ LITTW,Logistics Innovation Technologies Corp. Warrant,NASDAQ
 LIV,Emles @Home ETF,BATS
 LIVC,Live Current Media Inc. Common Stock,U
 LIVE,Live Ventures Incorporated Common Stock,NASDAQ
-LIVK,LIV Capital Acquisition Corp. Class A Ordinary Shares,NASDAQ
-LIVKU,LIV Capital Acquisition Corp. Unit,NASDAQ
-LIVKW,LIV Capital Acquisition Corp. Warrant,NASDAQ
 LIVN,LivaNova PLC Ordinary Shares,NASDAQ
 LIVX,"LiveXLive Media, Inc. Common Stock",NASDAQ
 LIXT,"Lixte Biotechnology Holdings, Inc. Common Stock",NASDAQ
@@ -5540,6 +5540,7 @@ MSGS,Madison Square Garden Sports Corp.,NYSE
 MSHE,Msh Entertainment Corp Common Stock,U
 MSHXF,Mitsubishi Shokuhin Co Ltd Ordinary Shares (Japan),U
 MSI,"Motorola Solutions, Inc. New",NYSE
+MSIF,MSC INCOME FD INC Common Stock,U
 MSITF,MEDICAL SERVICES INTERNATIONAL INC Ordinary Shares,U
 MSIU,"Medical Supply International USA, Inc. Common Stock",U
 MSIXF,LIFEWORKS INC Common Shares,U
@@ -5595,4 +5596,3 @@ MTB,M&T Bank Corp.,NYSE
 MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
-MTC,"MMTec, Inc. Common Shares",NASDAQ

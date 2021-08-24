@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPKB,Chesapeake Bancorp Common Stock,U
+CPKF,Chesapeake Financial Shares Inc Common Stock,U
+CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
 CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U
 CPKPY,C P Pokphand Co Ltd Sponsored ADR (Bermuda) USD,U
 CPLCF,IShares VII PLC Exchange Traded Fund,U
@@ -941,7 +944,6 @@ DEENF,DEUTSCHE BK AG LONDON BRH ETN,U
 DEEP,Roundhill Acquirers Deep Value ETF,ARCA
 DEER,"Deer Consumer Products, Inc. Common Stock",U
 DEF,Invesco Defensive Equity ETF,ARCA
-DEFA,iShares Adaptive Currency Hedged MSCI EAFE ETF,BATS
 DEFN,Emles Protective Allocation ETF,BATS
 DEFTF,DEFI TECHNOLOGIES INC Ordinary Shares,U
 DEH,D8 Holdings Corp. Class A Ordinary Shares,NYSE
@@ -999,6 +1001,7 @@ DFE,WisdomTree Europe SmallCap Dividend Fund,ARCA
 DFEB,FT Cboe Vest U.S. Equity Deep Buffer ETF - February,BATS
 DFEL,"China TMK Battery Systems, Inc. Common Stock",U
 DFEN,Direxion Daily Aerospace & Defense Bull 3X Shares,ARCA
+DFFGF,DIFFER GROUP HLDG CO LTD SHS (Cayman ISlands),U
 DFFN,Diffusion Pharmaceuticals Inc. Common Stock,NASDAQ
 DFH,"Dream Finders Homes, Inc. Class A Common Stock",NASDAQ
 DFHL,Dong Fang Hui Le Inc. Common Stock,U
@@ -1913,6 +1916,7 @@ EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor),NYSE
 EDNEF,EDEN EMPIRE INC COM (Canada),U
 EDNMF,"Edenred, Malakoff Ordinary Shares (France)",U
 EDNMY,Edenred S A Unsponsored ADR (France),U
+EDNSF,Eden Research plc Ordinary Shares (United Kingdom),U
 EDOC,Global X Funds Global X Telemedicine & Digital Health ETF,NASDAQ
 EDOG,ALPS Emerging Sector Dividend Dogs ETF,ARCA
 EDONF,ENDOMINES AB Share AK (Sweden),U
@@ -2178,6 +2182,7 @@ ELMTY,Elementis Plc Unsponsored ADR Level 1,U
 ELMUF,Elisa Corporation Ordinary Shares A (Finland),U
 ELMUY,Elisa OYJ Unsponsored ADR representing A shares (Finland),U
 ELNOF,El Nino Ventures Inc. New Ordinary Shares (Canada),U
+ELNSF,ELEMENT NUTRITIONAL SCIENCES INC Common Shares,U
 ELNX,Elinx Corp. Common Stock,U
 ELOAF,EMERGENCE GLOBAL ENTERPRISES INC Ordinary Shares,U
 ELOKY,Enel Russia PJSC Global Depositary Receipts - Sponsored,U
@@ -2214,7 +2219,6 @@ ELXMF,NOVA EYE MED LTD Ordinary Shares,U
 ELXMY,Nova Eye Medical Limited  American Depositary Receipts - Sponsored,U
 ELXPF,Elixir Energy Limited Ordinary Shares,U
 ELY,Callaway Golf Company,NYSE
-ELYGF,Ely Gold Royalties Inc Ordinary Shares,U
 ELYM,"Eliem Therapeutics, Inc Common Stock",NASDAQ
 ELYS,"Elys Game Technology, Corp. Common Stock",NASDAQ
 EM,Smart Share Global Limited American Depositary Shares,NASDAQ
@@ -2613,7 +2617,7 @@ ESBK,Elmira Savings Bank Elmira NY Common Stock,NASDAQ
 ESBS,"ES Bancshares, Inc. (MD) Common Stock",U
 ESCA,"Escalade, Incorporated Common Stock",NASDAQ
 ESCNF,ESCON JAPAN REIT INVT CORP REIT,U
-ESCR,Xtrackers Bloomberg Barclays US Investment Grade Corporate ESG ETF,BATS
+ESCR,Xtrackers Bloomberg US Investment Grade Corporate ESG ETF,BATS
 ESCSQ,Escalera Resources Co. Series A Cumulative Preferred Stock,U
 ESDF,East Side Financial Common Stock,U
 ESE,"ESCO Technologies, Inc.",NYSE
@@ -3321,6 +3325,7 @@ FFLWF,Fire & Flower Holdings Corporation (Canada),U
 FFMGF,First Mining Gold Corp. Ordinary Shares,U
 FFMH,First Fmrs & Merchants Corp Common Stock,U
 FFMR,First Farmers Finl Corp Unclassified,U
+FFND,The Future Fund Active ETF,ARCA
 FFNTF,4Front Ventures Corp Ordinary Shares,U
 FFNW,"First Financial Northwest, Inc. Common Stock",NASDAQ
 FFOXF,Firefox Gold Corp Ordinary Shares (Canada),U
@@ -4543,6 +4548,7 @@ GDNSF,GOODNESS GROWTH HLDGS INC Common Shares,U
 GDO,Western Asset Global Corporate Defined Opportunity Fund Inc.,NYSE
 GDOT,Green Dot Corporation,NYSE
 GDP,Goodrich Petroleum Corporation Common Stock,AMEX
+GDPCW,GOODRICH PETE CORP UCC REPLACEMENT WT EXP Warrant  10/12/2026,U
 GDPEF,Resource Cap Gold Corp Ordinary Shares,U
 GDPHF,GODOLPHIN RES LTD ORDINARY FULLY PAID (Australia),U
 GDQMF,Goldquest Mining Corp Common Shares (Canada),U
@@ -5590,9 +5596,3 @@ GWSAF,Gowest Gold Ltd Ordinary Shares,U
 GWSN,"Gulf West Security Network, Inc. Common Stock",U
 GWSO,"Global Warming Solutions, Inc. Common Stock",U
 GWTI,"Greenway Technologies, Inc. Common Stock",U
-GWTR,"Global Water Technologies, Inc. Common Stock",U
-GWW,"W.W. Grainger, Inc.",NYSE
-GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
-GWX,SPDR S&P International Small Cap ETF,ARCA
-GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
-GWYNF,Genoway Ordinary Shares  France (FR),U

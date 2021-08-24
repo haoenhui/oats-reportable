@@ -347,6 +347,7 @@ SLMXF,Slam Exploration Ltd. Common Shares,U
 SLMZF,Damara Gold Corp. Ordinary Shares (Canada),U
 SLN,Silence Therapeutics Plc American Depository Share,NASDAQ
 SLNCF,Silence Therapeutics Plc Ordinary shares (United Kingdom),U
+SLNFF,SOLUTION FINL INC Common Shares,U
 SLNG,"Stabilis Solutions, Inc. Common Stock",NASDAQ
 SLNLF,Stella International Holdings Limited Ordinary shares (Cayman Islands),U
 SLNLY,Stella International Holdings Limited Unsponsored ADR (Cayman Islands),U
@@ -886,7 +887,7 @@ SPLK,Splunk Inc. Common Stock,NASDAQ
 SPLM,Sentry Petroleum Ltd. Common Stock,U
 SPLP,STEEL PARTNERS HOLDINGS L.P.,NYSE
 SPLP PRA,"Steel Partners Holdings L.P. 6.0% Series A Preferred Units, no par value",NYSE
-SPLTF,SPOTLITE360 TECHNOLOGIES INC COM (Canada),U
+SPLTF,"SpotLite360 IOT Solutions, Inc. Common Shares",U
 SPLV,Invesco S&P 500 Low Volatility ETF,ARCA
 SPLY,"SocialPlay USA, Inc. Common Stock",U
 SPMB,SPDR Portfolio Mortgage Backed Bond ETF,ARCA
@@ -1321,7 +1322,6 @@ STL,Sterling Bancorp,NYSE
 STL PRA,Sterling Bancorp Depositary Shares each representing ownership of a 1/40th interest in a share of 6.,NYSE
 STLA,Stellantis N.V.,NYSE
 STLB,STERLING BUSINESS SOLUTIONS INC Common Stock,U
-STLC,iShares Factors US Blend Style ETF,BATS
 STLD,"Steel Dynamics, Inc.",NASDAQ
 STLFF,STILLFRONT GROUP AB Ordinary Shares,U
 STLG,iShares Factors US Growth Style ETF,BATS
@@ -1332,7 +1332,6 @@ STLXF,Stellar AfricaGold Inc. Ordinary Shares,U
 STLY,"HG Holdings, Inc. Common Stock",U
 STM,STMicroelectronics N.V.,NYSE
 STMAF,Star Mica Holdings Co Ltd. Common Stock (Japan),U
-STMB,iShares Factors US Mid Blend Style ETF,BATS
 STMDF,StartMonday Technology Corp. Ordinary Shares (Canada),U
 STMEF,Stmicroelectronics Nv Ordinary Shares,U
 STMGF,Stamper Oil & Gas Corp Ordinary Shares,U
@@ -1390,7 +1389,6 @@ STRXF,Pure Hydrogen Corp Ltd. Common Shares,U
 STRYF,Storytel AB Ordinary Shares (Sweden),U
 STRZ,"Star Buffet, Inc. Common Stock",U
 STSA,"Satsuma Pharmaceuticals, Inc. Common Stock",NASDAQ
-STSB,iShares Factors US Small Blend Style ETF,BATS
 STSBF,South Star Battery Metals Corp. Ordinary Shares,U
 STSC,"Start Scientific, Inc. Common Stock",U
 STSEY,Stratec SE Unsponsored ADR (Germany),U
@@ -2239,6 +2237,7 @@ THRO,Theron Resource Group Common Stock,U
 THRR,Thresher Industries Inc Common Stock,U
 THRSF,"Thunderbird Resorts, Inc. Ordinary Shares (British Virgin Islands)",U
 THRTF,THREAT PROTECT AUSTRAILIA LTD Ordinary Shares,U
+THRWF,THAI NVDR CO LTD NVDR WARRANTS EXP 09/30/2021 (Thailand),U
 THRY,"Thryv Holdings, Inc. Common Stock",NASDAQ
 THRYW,"Thryv Holdings, Inc. Warrant",U
 THS,"Treehouse Foods, Inc.",NYSE
@@ -3747,7 +3746,6 @@ VBK,Vanguard Small-Cap Growth ETF,ARCA
 VBLT,Vascular Biogenics Ltd. Ordinary Shares,NASDAQ
 VBND,Vident Core US Bond Strategy ETF,ARCA
 VBR,Vanguard Small-Cap Value ETF,ARCA
-VBSCF,Vibe Growth Corporation Common Shares,U
 VBTC,"Vubotics, Inc. Common Stock",U
 VBTX,"Veritex Holdings, Inc. Common Stock",NASDAQ
 VBVBF,Verbio Vereinigte Bioenergie Ag Hamburg Ordinary Shares (Germany),U
@@ -3934,6 +3932,7 @@ VIAO,"VIA optronics AG American Depositary Shares, each representing one-fifth o
 VIAP,"VIA Pharmaceuticals, Inc. Common Stock",U
 VIASP,"Via Renewables, Inc. 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 VIAV,Viavi Solutions Inc. Common Stock,NASDAQ
+VIBEF,Vibe Growth Corporation Common Shares,U
 VIBI,Vilacto Bio Inc. Common Stock,U
 VIBVY,Vib Vermoegen AG American Depositary Shares (Unsponsored)(Federal Republic of Germany),U
 VICA,Rafina Innovations Inc. Common Stock,U
@@ -4605,7 +4604,6 @@ WFRSF,West African Resources Limited,U
 WFSTF,Western Forest Products Inc Common Shares (Canada),U
 WFTSF,"Wavefront Technology Solutions, Inc.  Ordinary Shares (Canada)",U
 WFTUF,Weatherford International PLC Warrants Expiring 12/13/2023,U
-WFVLF,Wellington Drive Technologies Ltd. Ordinary Shares (New Zealand),U
 WFWRF,WI FI Wireless Ltd Common Stock,U
 WGEE,WGE Holdings Corp. Common Stock,U
 WGEI,WindGen Energy Inc. Common Stock,U
@@ -4706,7 +4704,6 @@ WKPYF,PT Waskita Karya Persero Tbk Pt Shs Series B (Indonesia),U
 WKRCF,Wacker Neuson SE Namen-Akt (Germany),U
 WKSP,"Worksport, Ltd. Common Stock",NASDAQ
 WKSPW,"Worksport, Ltd. Warrant",NASDAQ
-WKSVF,WORK SVC S A Ordinary Shares,U
 WKYN,"WebSky, Inc. New Common Stock",U
 WLAB,"White Label Liquid, Inc. Common Stock",U
 WLAN,"Wialan Technologies, Inc. Common Stock",U
@@ -5179,6 +5176,7 @@ XRTXF,Xortx Therapeutics Inc Ordinary Shares (Canada),U
 XRX,Xerox Holdings Corporation Common Stock,NYSE
 XRXH,XRX International Entertainment Holding Group Common Stock,U
 XSD,SPDR S&P Semiconductor ETF,ARCA
+XSFDF,XTRACKERS SHS XTRACKERS S&P SEL FRON SWAP UCITS ETF 1C (Luxembourg),U
 XSGIF,XTRACKERS S&P GLO INFR SWAP UCITS ETF 1C (Luxembourg),U
 XSHD,Invesco S&P SmallCap High Dividend Low Volatility ETF,BATS
 XSHLF,XS Financial Inc Other Voting,U
@@ -5424,6 +5422,7 @@ ZDGE,"Zedge, Inc.",AMEX
 ZDGGF,Zoo Digital Group Plc Ordinary Shares (United Kingdom),U
 ZDPY,"Zoned Properties, Inc. Common Stock",U
 ZEAL,Zealand Pharma A/S American Depositary Shares,NASDAQ
+ZECP,Zacks Earnings Consistent Portfolio ETF,BATS
 ZEN,ZENDESK INC,NYSE
 ZENG,Zenergy International Inc. Common Stock,U
 ZENO,"Zenosense, Inc. (NV) Common Stock",U
