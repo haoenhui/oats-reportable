@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
@@ -508,6 +510,7 @@ SMRGF,SMAREGI INC Common Stock,U
 SMRH,Superior Marktng Research Crp Common Stock,U
 SMRL,"Simtrol, Inc. New Common Stock",U
 SMRN,"Smartag International, Inc. Common Stock",U
+SMRT,"SmartRent, Inc.",NYSE
 SMRVF,Smooth Rock Ventures Corp Common Shares,U
 SMRZF,NZ Mid Cap FD Unit,U
 SMSEY,Samsonite International S.A Unsponsord ADR (Luxembourg),U
@@ -1634,6 +1637,7 @@ SWRL,"U-Swirl, Inc. Common Stock",U
 SWRM,"AppSwarm, Inc. Common Stock",U
 SWSDF,SWISS LIFE HOLDING AG Ordinary Shares (Switzerland),U
 SWSSF,Swiss Wtr Decaffinated Coffee Inc Ordinary Shares,U
+SWSSU,Springwater Special Situations Corp. Unit,NASDAQ
 SWT,"Stanley Black & Decker, Inc.",NYSE
 SWTX,"SpringWorks Therapeutics, Inc. Common Stock",NASDAQ
 SWWI,Simon Worldwide Inc. Common Stock,U
@@ -2117,8 +2121,8 @@ TGGLF,Tegel Group Holdings Ltd Ordinary Shares (New Zealand),U
 TGGRF,Taruga Gold Ltd Ordinary Shares (Australia),U
 TGH,Textainer Group Holdings limited,NYSE
 TGH PRA,"Textainer Group Holdings Limited Depositary Shares, each representing a 1/1000th interest in a share",NYSE
+TGH PRB,"Textainer Group Holdings Limited Depositary Shares, each representing a 1/1, 000th interest in a sha",NYSE
 TGHI,"Touchpoint Group Holdings, Inc. Common Stock",U
-TGHPL,TEXTAINER GROUP HLDGS LTD DEP SHS REPSTG 1/1000TH RED PERP PREF SHS SER B,U
 TGI,"Triumph Group, Inc.",NYSE
 TGIC,Triad Guaranty Inc. Common Stock,U
 TGIF,SoFi Weekly Income ETF,ARCA
@@ -2570,6 +2574,7 @@ TNTMF,Transition Metals Corp. New Ordinary Shares (Canada),U
 TNTRQ,TINTRI INC Common Stock,U
 TNTTF,Toronto Dominion Bk Ont Non Cum 5 Yr Rate Reset Pfd Ser 3 (Canada),U
 TNVDF,THAI NVDR CO LTD Warrants Exp 5/26/2023 (Thailand),U
+TNVWF,THAI NVDR CO LTD Warrant   06/14/2024,U
 TNXP,Tonix Pharmaceuticals Holding Corp. Common Stock,NASDAQ
 TNXXF,TALANX AG Ordinary Shares (Germany),U
 TNYA,"Tenaya Therapeutics, Inc. Common Stock",NASDAQ
@@ -2672,7 +2677,6 @@ TPLC,Timothy Plan US Large/Mid Cap Core ETF,ARCA
 TPLE,TIMOTHY PLAN US LARGE/MID CAP CORE ENHANCED ETF,ARCA
 TPLKF,Tepla AG Kirchheim Ordinary Shares (Germany),U
 TPLWF,Temple & Webster Group Ltd. Ordinary Shares (Australia),U
-TPMT,Temple Mtns Ind New Unclassified,U
 TPNEF,"Cub Energy, Inc. Ordinary Shares (Canada)",U
 TPNI,"The Pulse Network, Inc. Common Stock",U
 TPNTF,Third Point Offshore Investors Ld Shs Class -USD- (Guernsey),U
@@ -3220,7 +3224,6 @@ UBAAF,Urbana Corp Common Stock Class A Non-Voting,U
 UBAB,"United Bancorporation of Alabama, Inc. Class A Common Stock",U
 UBANF,UBS ETF CH ANTEILE USD A DIS Exchange Traded Fund,U
 UBAZF,Uzabase Inc Common Shares   Japan (JP),U
-UBBSF,UBS IRL FD SOLUTIONS PLC Exchange Traded Fund,U
 UBCHF,UBS ETF CH Shares Holdings (Switzerland),U
 UBCP,"United Bancorp, Inc. Common Stock",NASDAQ
 UBEOF,Ube Inds Ltd Ord Ordinary Shares,U
@@ -3287,7 +3290,7 @@ UCSO,United Consortium Ltd Common Stock New,U
 UCTN,CTN Media Group Inc Common Stock,U
 UCTT,"Ultra Clean Holdings, Inc. Common Stock",NASDAQ
 UCYB,ProShares Trust ProShares Ultra Nasdaq Cybersecurity ETF,NASDAQ
-UDEC,Innovator S&P 500 Ultra Buffer ETF - December,BATS
+UDEC,Innovator U.S. Equity Ultra Buffer ETF - December,BATS
 UDHCF,UDG Healthcare PLC Ordinary Shares (Ireland),U
 UDIRF,United Internet Ag & Co Ordinary Shares,U
 UDIRY,United Internet Ag & Co Unsponsored ADR (Germany),U
@@ -3457,7 +3460,7 @@ UNLYF,Unilever Plc Ordinary Shares,U
 UNM,Unum Group,NYSE
 UNMA,Unum Group 6.250% Junior Subordinated Notes due 2058,NYSE
 UNMK,"Tritent Int'l Agriculture, Inc. Common Stock New",U
-UNOV,Innovator S&P 500 Ultra Buffer ETF - November,BATS
+UNOV,Innovator U.S. Equity Ultra Buffer ETF - November,BATS
 UNP,Union Pacific Corp.,NYSE
 UNPA,Unb Corp Pa Common Stock,U
 UNPLF,UNIPOLSAI S P A Ordinary Shares (Italy),U
@@ -3479,7 +3482,7 @@ UNVR,Univar Solutions Inc.,NYSE
 UNXLQ,UNI-PIXEL INC Common Stock,U
 UNXP,UNITED EXPRESS INC Common Stock,U
 UOADF,UOA DEVELOPMENT BHD SHS (Malaysia),U
-UOCT,Innovator S&P 500 Ultra Buffer ETF - October,BATS
+UOCT,Innovator U.S. Equity Ultra Buffer ETF - October,BATS
 UOLGF,UOL Group Limited Ordinary Shares (Singapore),U
 UOLGY,UOL Group Limited Sponsored ADR (Singapore),U
 UOLI,Uonlive Corporation Common Stock,U
@@ -3587,7 +3590,7 @@ USDR,UAS Drone Corp. Common Stock,U
 USDU,WisdomTree Bloomberg U.S. Dollar Bullish Fund,ARCA
 USEG,U.S. Energy Corp. Common Stock,NASDAQ
 USEI,"US Energy Initiatives Corporation, Inc. Common Stock",U
-USEP,Innovator S&P 500 Ultra Buffer ETF - September,BATS
+USEP,Innovator U.S. Equity Ultra Buffer ETF - September,BATS
 USEQ,Invesco Russell 1000 Enhanced Equal Weight ETF,BATS
 USFD,US Foods Holding Corp.,NYSE
 USFR,WisdomTree Floating Rate Treasury Fund,ARCA
@@ -3708,9 +3711,6 @@ VABS,Virtus Newfleet ABS/MBS ETF,ARCA
 VAC,MARRIOTT VACATIONS WORLDWIDE CORPORATION,NYSE
 VACC,Vaccitech plc American Depositary Shares,NASDAQ
 VACNY,VAT Group AG American Depositary Receipts - Unsponsored (Switzerland),U
-VACQ,Vector Acquisition Corporation Class A Common Stock,NASDAQ
-VACQU,Vector Acquisition Corporation Unit,NASDAQ
-VACQW,Vector Acquisition Corporation Warrant,NASDAQ
 VAIAF,Vaisala Oy Ordinary Shares -A- (Finland),U
 VAL,Valaris Limited,NYSE
 VAL WS,Valaris Limited Warrants to purchase Common Shares,NYSE
@@ -4085,7 +4085,6 @@ VMTG,Victor Mining Industry Group Inc. Common Stock,U
 VMTHF,VENUS MEDTECH HANGZHOU INC B REGISTERED 02500 (China),U
 VMW,"VMware, Inc",NYSE
 VNAPF,"Verona Pharam plc, Adderbury Common Shares",U
-VNBFF,VANGUARD AUS GOVT BD ETF UNITS EXCHANGE TRADED FUND Australia(AU ),U
 VNCE,VINCE HOLDING CORP.,NYSE
 VNCKF,Victory Nickel Inc Common shares (Canada),U
 VNDA,Vanda Pharmaceuticals Inc. Common Stock,NASDAQ
@@ -4643,6 +4642,7 @@ WHNWF,WESTHAVEN GOLD CORP WT EXP 03/03/2023 (Canada),U
 WHR,Whirlpool Corp.,NYSE
 WHSI,"Wearable Health Solutions, Inc Common Stock",U
 WHSPF,WHISPIR LTD ORDINARY FULLY PAID (Australia),U
+WHTAF,WASHTEC AG AUGSBURG Ordinary Shares,U
 WHTGF,Mangazeya Mining Ltd. Ordinary Shares (British Virgin Islands),U
 WHTHF,WHITEHAWK LTD Ordinary Shares,U
 WHTPF,WH Smith Plc Ordinary shares (United Kingdom),U

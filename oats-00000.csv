@@ -876,9 +876,9 @@ AIXN,"AiXin Life International, Inc. Common Stock",U
 AIXXF,AIXTRON SE  Namen - AKT,U
 AIZ,"Assurant, Inc.",NYSE
 AIZN,"Assurant, Inc. 5.25% Subordinated Notes due 2061",NYSE
-AJAX,Ajax I,NYSE
-AJAX U,"Ajax I Units, each consisting of one Class A ordinary share and one-fourth of one redeemable warrant",NYSE
-AJAX WS,"Ajax I Redeemable warrants, each whole warrant exercisable for one Class A ordinary share at an exer",NYSE
+AJAX,Capri Listco,NYSE
+AJAX U,"Capri Listco Units, each consisting of one Class A ordinary share and one-fourth of one redeemable w",NYSE
+AJAX WS,"Capri Listco Redeemable Warrants, each warrant exercisable for one Class A ordinary share at an exer",NYSE
 AJG,Arthur J. Gallagher & Co.,NYSE
 AJIA,Ajia Innogroup Holdings Limited Common Stock,U
 AJINF,"Ajinomoto Company, Inc. Ordinary Shares (Japan)",U
@@ -2075,6 +2075,7 @@ AUKUF,AMS AG Ordinary Shares (Austria),U
 AULDF,ANGLOGOLD ASHANTI LIMITED CHESS UNITS FOR FOREIGN SECURITIES REPRESENTING 0.2 (ORD SHS)(South Africa),U
 AULGF,Anglogold Ashanti Ltd Reg Shares (South Africa),U
 AULRF,Aurelius Equity Opportunities SE & Co Ordinary Shares,U
+AULSF,AUSTAR LIFESCIENCES LTD Ordinary Shares,U
 AUMBF,1911 Gold Corp Ordinary Shares,U
 AUMC,AURYN Mining Corporation Common Stock,U
 AUMN,Golden Minerals Company,AMEX
@@ -2627,7 +2628,7 @@ BDCYY,Bodycote PLC Unsponsored ADR (Sweden),U
 BDCZ,"ETRACS MVIS Business Development Companies Index ETN due April 26, 2041",ARCA
 BDDDY,BID Corp Ltd Sponsored ADR (S. Africa),U
 BDDXF,"DB Base Metals Double Long Exchange Traded Notes due June 1, 2038 (Germany)",U
-BDEC,Innovator S&P 500 Buffer ETF - December,BATS
+BDEC,Innovator U.S. Equity Buffer ETF - December,BATS
 BDGCF,Black Dragon Gold Corp Chess Depositary Interests (Canada),U
 BDGR,"Black Dragon Resource Companies, Inc. Common Stock",U
 BDGSF,Bank of Ga Group Plc Ordinary Shares,U
@@ -3065,6 +3066,7 @@ BL,"BlackLine, Inc. Common Stock",NASDAQ
 BLAB,"Bio Lab Naturals, Inc. Common Stock",U
 BLAGF,Blue Lagoon Resources Inc Common Shares (Canada),U
 BLBD,Blue Bird Corporation Common Stock,NASDAQ
+BLBLF,BILIBILI INC Ordinary Shares,U
 BLBRF,Bloomberry Resorts Corp Ordinary Shares (Philippines),U
 BLBX,Blackboxstocks Inc. Common Stock,U
 BLCM,"Bellicum Pharmaceuticals, Inc. Common Stock",NASDAQ
@@ -3288,7 +3290,7 @@ BNNLF,BANNERMAN ENERGY LTD Ordinary Shares,U
 BNNNF,BEENOS INC Ordinary Shares (Japan),U
 BNO,"United States Brent Oil Fund, LP",ARCA
 BNOEF,Bionomics Limited Ordinary Shares (Austrailia),U
-BNOV,Innovator S&P 500 Buffer ETF - November,BATS
+BNOV,Innovator U.S. Equity Buffer ETF - November,BATS
 BNOW,"Boon Industries, Inc. Common Stock",U
 BNPJF,Banpu Public Co Ltd NVDR Shares (Thailand),U
 BNPJY,Banpu Public Co Ltd (Fgn) Unsponsored  American Depository Receipt (Thailand),U
@@ -3329,7 +3331,7 @@ BOAT,SonicShares Global Shipping ETF,ARCA
 BOB,Merlyn.AI Best-of-Breed Core Momentum ETF,BATS
 BOCH,Bank of Commerce Holdings (CA) Common Stock,NASDAQ
 BOCOF,Bougainville Copper Ltd Ord Ordinary Shares,U
-BOCT,Innovator S&P 500 Buffer ETF - October,BATS
+BOCT,Innovator U.S. Equity Buffer ETF - October,BATS
 BODY,"The Beachbody Company, Inc.",NYSE
 BODY WS,"The Beachbody Company, Inc. Redeemable Warrants, each whole warrant exercisable for one share of Cla",NYSE
 BOE,BlackRock Enhanced Global Dividend Trust,NYSE
@@ -3601,7 +3603,7 @@ BSEFY,"Benesse Holdings, Inc. Unsponsored ADR (Japan)",U
 BSEG,"Big Screen Entertainment Group, Inc. Common Stock",U
 BSEM,"BioStem Technologies, Inc. Common Stock",U
 BSENF,BASELODE ENERGY CORP Common Shares,U
-BSEP,Innovator S&P 500 Buffer ETF - September,BATS
+BSEP,Innovator U.S. Equity Buffer ETF - September,BATS
 BSET,"Bassett Furniture Industries, Incorporated Common Stock",NASDAQ
 BSFC,BLUE STAR FOODS CORP COM,U
 BSFFF,Basic-Fit N.V. Ordinary Shares (Netherlands),U
@@ -3726,6 +3728,7 @@ BTOOY,AMERICANAS S A American Depositary Receipts - Sponsored,U
 BTOW,GTFN HLDGS INC Common Stock,U
 BTPNF,BANK BTPN TBK PT Ordinary Shares  Indonesia(ID ),U
 BTQNF,"BQE Water, Inc. Common Shares",U
+BTRCF,BETTER COLLECTIVE A S  Ordinary Shares,U
 BTRS,BTRS Holdings Inc. Class 1 Common Stock,NASDAQ
 BTRSW,BTRS Holdings Inc. Warrants,NASDAQ
 BTRYF,BATTERY MINERALS LTD SHS (Australia),U
@@ -3758,7 +3761,7 @@ BUDFF,Anheuser Busch Inbev SA NV Ordinary Shares,U
 BUDZ,"WEED, Inc. Common Stock",U
 BUENF,BLUE ENERGY LTD Ordinary Shares Australia(AU ),U
 BUFD,FT Cboe Vest Fund of Deep Buffer ETFs,BATS
-BUFF,Innovator Laddered Fund of S&P 500 Power Buffer ETFs,BATS
+BUFF,Innovator Laddered Fund of U.S. Equity Power Buffer ETFs,BATS
 BUFR,FT Cboe Vest Fund of Buffer ETFs,BATS
 BUG,Global X Funds Global X Cybersecurity ETF,NASDAQ
 BUGDF,Bumrungrad Hospital Public Co Ltd BH Units Non-Voting Depository Receipt (Thailand),U
@@ -5593,6 +5596,3 @@ CPHI,"China Pharma Holdings, Inc.",AMEX
 CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
-CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
-CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
-CPK,Chesapeake Utilities,NYSE

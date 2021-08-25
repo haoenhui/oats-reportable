@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTC,"MMTec, Inc. Common Shares",NASDAQ
 MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
@@ -150,7 +149,6 @@ MVXM,Moveix Inc Common Stock,U
 MWA,"Mueller Water Products, Inc.",NYSE
 MWCAF,Matachewan Consolidated Mines Ltd Ordinary Shares,U
 MWFO,MWF Global Inc Common Stock,U
-MWIS,"m-Wise, Inc. Common Stock",U
 MWSNF,Mawson Gold Ltd Common Shares,U
 MWTCF,Manila Water Company Inc Ordinary Shares (Phillippines),U
 MWTCY,Manila Water Company Inc Unsponsored ADR (Phillippines),U
@@ -276,7 +274,7 @@ NANR,SPDR S&P North American Natural Resources ETF,ARCA
 NANX,Nanophase Technologies Corporation Common Stock,U
 NAOV,"NanoVibronix, Inc. Common Stock",NASDAQ
 NAPA,"The Duckhorn Portfolio, Inc.",NYSE
-NAPR,Innovator Nasdaq-100 Power Buffer ETF - April,BATS
+NAPR,Innovator Growth-100 Power Buffer ETF - April,BATS
 NAPRF,Naspers Limited N Shs Ordinary Shares,U
 NARI,"Inari Medical, Inc. Common Stock",NASDAQ
 NARRF,Nagoya Railroad Co Ltd Ord Ordinary Shares Japan(JP ),U
@@ -660,13 +658,13 @@ NISUY,Nippon Suisan Kaisha Ltd American Depositary Shares,U
 NITMF,HANNA CAP CORP Ordinary Shares,U
 NIU,Niu Technologies American Depositary Shares,NASDAQ
 NIUWF,NSI NV  Ordinary Shares,U
-NJAN,Innovator Nasdaq-100 Power Buffer ETF - January,BATS
+NJAN,Innovator Growth-100 Power Buffer ETF - January,BATS
 NJDCY,Nidec Corporation American Depositary Receipts - Sponsored,U
 NJMC,New Jersey Mining Company Common Stock,U
 NJMLF,Nojima Co Ltd Ordinary Shares,U
 NJMVF,NICHOLS PLC SHS (United Kingdom),U
 NJR,New Jersey Resources Corp,NYSE
-NJUL,Innovator Nasdaq-100 Power Buffer ETF - July,BATS
+NJUL,Innovator Growth-100 Power Buffer ETF - July,BATS
 NKE,"Nike, Inc.",NYSE
 NKG,Nuveen Georgia Quality Municipal Income Fund,NYSE
 NKLA,Nikola Corporation Common Stock,NASDAQ
@@ -821,7 +819,7 @@ NOBL,ProShares S&P 500 Dividend Aristocrats ETF,BATS
 NOC,Northrop Grumman Corp.,NYSE
 NOCRF,Norden Crown Metals Corp Common Shares,U
 NOCSF,NORSEMAN SILVER INC Common Stock (Canada),U
-NOCT,Innovator Nasdaq-100 Power Buffer ETF- October,BATS
+NOCT,Innovator Growth-100 Power Buffer ETF- October,BATS
 NODB,North Dallas Bank & Trust Co Tex Common Stock,U
 NODC,"Nodechain, Inc. Common Stock",U
 NODK,"NI Holdings, Inc. Common Stock",NASDAQ
@@ -1991,6 +1989,7 @@ OXSQ,Oxford Square Capital Corp. Common Stock,NASDAQ
 OXSQG,Oxford Square Capital Corp. 5.50% Notes due 2028,NASDAQ
 OXSQL,Oxford Square Capital Corp. 6.50% Notes due 2024,NASDAQ
 OXSQZ,Oxford Square Capital Corp. 6.25% Notes due 2026,NASDAQ
+OXUSU,Oxus Acquisition Corp. Unit,NASDAQ
 OXXTF,OCTANEX LTD SHS (Australia),U
 OXY,Occidental Petroleum Corporation,NYSE
 OXY WS,Occidental Petroleum Corporation Warrants to Purchase Common Stock,NYSE
@@ -2281,7 +2280,7 @@ PDBC,Invesco Actively Managed Exch-Traded Commodity Fd Tr Invesco Optimum Yield 
 PDCE,"PDC Energy, Inc. Common Stock (Delaware)",NASDAQ
 PDCO,"Patterson Companies, Inc. Common Stock",NASDAQ
 PDD,Pinduoduo Inc. American Depositary Shares,NASDAQ
-PDEC,Innovator S&P 500 Power Buffer ETF - December,BATS
+PDEC,Innovator U.S. Equity Power Buffer ETF - December,BATS
 PDER,Pardee Resources Co Inc Common Stock,U
 PDEV,Principal Exchange-Traded Funds Principal International Multi-Factor ETF,NASDAQ
 PDEX,"Pro-Dex, Inc. Common Stock",NASDAQ
@@ -2887,7 +2886,7 @@ PNNT,PennantPark Investment Corporation Common Stock,NASDAQ
 PNNTG,PennantPark Investment Corporation 5.50% Notes Due 2024,NASDAQ
 PNNX,"Pennexx Foods, Inc. Common Stock",U
 PNOCF,Penta Ocean Construction Co Ordinary Shares (Japan),U
-PNOV,Innovator S&P 500 Power Buffer ETF - November,BATS
+PNOV,Innovator U.S. Equity Power Buffer ETF - November,BATS
 PNPFF,Pinetree Capital Ltd Ordinary Shares,U
 PNPL,"Pineapple Express, Inc. Common Stock",U
 PNQI,Invesco Exchange-Traded Fund Trust Invesco Nasdaq Internet ETF,NASDAQ
@@ -2903,7 +2902,6 @@ PNTM,Pontem Corporation,NYSE
 PNTM U,"Pontem Corporation Units, each consisting of one Class A ordinary share, and one-third of one redeem",NYSE
 PNTM WS,"Pontem Corporation Warrants, each whole warrant exercisable for one Class A ordinary share at an exe",NYSE
 PNTOF,Pantoro Ltd. Ordinary Shares (Australia),U
-PNTRF,PANTERA SILVER CORP COM (Canada),U
 PNTZF,Trigon Metals Inc. Ordinary Shares,U
 PNW,Pinnacle West Capital Corporation,NYSE
 PNWDF,PNE AG Ordinary Shares,U
@@ -2916,7 +2914,7 @@ PNYTF,Poynt Corp. Ordinary Shares (Canada),U
 POAHF,Porsche Automobil Holding SE Stuttgart Pref No VTG RTS,U
 POAHY,Porsche Automobile Holding SE Unsponsored ADR (Germany),U
 POAI,Predictive Oncology Inc. Common Stock,NASDAQ
-POCT,Innovator S&P 500 Power Buffer ETF - October,BATS
+POCT,Innovator U.S. Equity Power Buffer ETF - October,BATS
 PODAF,PODA Lifestyle and Wellness Ltd. Subordinate Voting Shs (Canada),U
 PODD,Insulet Corporation Common Stock,NASDAQ
 POEFF,Pan Orient Energy Corp Ordinary Shares (Canada),U
@@ -3245,7 +3243,7 @@ PSDMF,Gaming Realms PLC Ordinary Shares (United Kingdom),U
 PSDNF,Poseidon Nickel Ltd Ordinary Shares (Australia),U
 PSEC,Prospect Capital Corporation Common Stock,NASDAQ
 PSEC PRA,Prospect Capital Corporation 5.35% Series A Fixed Rate Cumulative Perpetual Preferred Stock,NYSE
-PSEP,Innovator S&P 500 Power Buffer ETF - September,BATS
+PSEP,Innovator U.S. Equity Power Buffer ETF - September,BATS
 PSET,Principal Exchange-Traded Funds Principal Quality ETF,NASDAQ
 PSF,COHEN & STEERS SELECT PREFERRED AND INCOME FUND,NYSE
 PSFD,Pacer Swan SOS Flex (December) ETF,BATS
@@ -4354,6 +4352,8 @@ RKGXF,Road King Infrastructure Ltd Ordinary Shares,U
 RKGXY,Road King Infrastructure Ltd Unsponsored ADR (Bermuda),U
 RKHNF,"Rockhaven Resources, Ltd. Ordinary Shares (Canada)",U
 RKIGF,Reko Intl Grp Inc Ordinary Shares,U
+RKLB,"Rocket Lab USA, Inc. Common Stock",NASDAQ
+RKLBW,"Rocket Lab USA, Inc. Warrant",NASDAQ
 RKLC,Rockelle Corp. Common  Stock,U
 RKLIF,Rentokil Initial 2005 Plc Ordinary Shares,U
 RKLY,Rockley Photonics Holdings Limited,NYSE
@@ -5085,6 +5085,7 @@ SCCC,Sachem Capital Corp. 7.75% Notes due 2025,AMEX
 SCCCF,Sunac China Holdings Limited Ordinary Shares (Cayman Islands),U
 SCCFF,Strategic Resources Inc Common Shares,U
 SCCO,Southern Copper Corporation,NYSE
+SCCPF,SCICLONE PHARMACEUTICAL (HOLDINGS) LTD Ordinary Shares,U
 SCCRF,ALSET CAP INC Ordinary Shares,U
 SCCTY,Scout24 American Depositary Receipts - Unsponsored (Germany),U
 SCD,"LMP Capital and Income Fund, Inc.",NYSE
@@ -5594,5 +5595,3 @@ SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U

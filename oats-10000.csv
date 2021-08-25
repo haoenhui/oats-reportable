@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWTI,"Greenway Technologies, Inc. Common Stock",U
 GWTR,"Global Water Technologies, Inc. Common Stock",U
 GWW,"W.W. Grainger, Inc.",NYSE
 GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
@@ -335,7 +336,6 @@ HGGOF,HIGHGOLD MINING INC Common Shares (Canada),U
 HGH,"THE HARTFORD FINANCIAL SERVICES GROUP, INC.  7.875% FIXED-TO-FLOATING RATE JR SUB DEBENTURE DUE 2042",NYSE
 HGHAF,High Arctic Energy Svcs Inc Common (Canada),U
 HGHH,High Desert Hldg Corp Common Stock,U
-HGII,"Lansdowne Security, Inc.  Common Stock",U
 HGKGF,Power Assets Holdings Ltd. Ordinary Shares (Hong Kong),U
 HGKGY,Power Assets Holdings Ltd American Depositary Shares,U
 HGLB,Highland Global Allocation Fund,NYSE
@@ -2880,7 +2880,7 @@ KANP,Kaanapali Land LLC Common Stock,U
 KANVF,Kaonavi Inc Common Stock (Japan),U
 KAOCF,Kao Corp -New Ordinary Shares,U
 KAOOY,Kao Corporation ADR Repstg 1/5 Com - Unsponsored (Japan),U
-KAPR,Innovator Russell 2000 Power Buffer ETF -April,BATS
+KAPR,Innovator U.S. Small Cap Power Buffer ETF - April,BATS
 KAR,"KAR AUCTION SERVICES, INC.",NYSE
 KARBF,Karo Pharma Aktiebolag Ordinary Shares,U
 KARE,Koala Corporation Common Stock,U
@@ -3086,9 +3086,9 @@ KITVF,PURPLE BIOTECH LTD Ordinary Shares,U
 KITZF,Kitz Corp Ordinary Shares,U
 KIWB,Kiwibox.com Inc.  Common Stock,U
 KIYOF,Kiyo Bank Ltd Ordinary Shares (Japan),U
-KJAN,Innovator Russell 2000 Power Buffer ETF - January,BATS
+KJAN,Innovator U.S. Small Cap Power Buffer ETF - January,BATS
 KJFI,Comjoyful International Company Common Stock,U
-KJUL,Innovator Russell 2000 Power Buffer ETF - July,BATS
+KJUL,Innovator U.S. Small Cap Power Buffer ETF - July,BATS
 KKKUF,Kakaku.com Inc Tokyo Ordinary Shs (Japan),U
 KKMMY,Kakaku Com Inc American Depositary Receipts - Unsponsored (Japan),U
 KKMSF,Klimasan Klima Sanayi Ve Ticaret Ordinary Shares,U
@@ -3227,7 +3227,7 @@ KNYJY,Kone Oyj Unsponsored ADR representing B shares (Finland),U
 KO,Coca-Cola Company,NYSE
 KOAN,RESONATE BLENDS INC Common Stock,U
 KOCG,FIS Knights of Columbus Global Belief ETF,ARCA
-KOCT,Innovator Russell 2000 Power Buffer ETF - October,BATS
+KOCT,Innovator U.S. Small Cap Power Buffer ETF - October,BATS
 KOD,Kodiak Sciences Inc Common Stock,NASDAQ
 KODK,EASTMAN KODAK COMPANY,NYSE
 KOF,"Coca-Cola FEMSA, S.A.B DE C.V",NYSE
@@ -3354,7 +3354,6 @@ KSCNF,K & S Corporation Limited SHS (Australia),U
 KSFTF,Kingsoft Corporation Limited Ordinary Shares (Cayman Islands),U
 KSHB,"KushCo Holdings, Inc. Common Stock",U
 KSHDF,"Koshidaka Co Ltd, Maebashi Ordinary Shares (Japan)",U
-KSHOF,K S Holdings Corporation Ordinary Shares (Japan),U
 KSHTF,KUSHIKATSU TANAKA CO Common Stock,U
 KSHTY,Kuaishou Technology  American Depositary Receipts - Unsponsored (Cayman Islands),U
 KSI,Kadem Sustainable Impact Corporation Class A common stock,NASDAQ
@@ -4750,6 +4749,7 @@ MENEF,Mene Inc Ordinary Shares,U
 MENI,Mobilized Entertainment Inc Common Stock,U
 MENXF,"Memex, Inc. Ordinary Shares (Canada)",U
 MEOAF,Melbana Energy Ltd Ordinary Shares,U
+MEOAU,Minority Equality Opportunities Acquisition Inc. Units,NASDAQ
 MEOBF,Mesoblast Ltd Ordinary Shares (Australia),U
 MEOH,Methanex Corporation Common Stock,NASDAQ
 MEPDF,Medipal Holdings Corp. Ordinary Shares (Japan),U
@@ -5540,7 +5540,6 @@ MSGS,Madison Square Garden Sports Corp.,NYSE
 MSHE,Msh Entertainment Corp Common Stock,U
 MSHXF,Mitsubishi Shokuhin Co Ltd Ordinary Shares (Japan),U
 MSI,"Motorola Solutions, Inc. New",NYSE
-MSIF,MSC INCOME FD INC Common Stock,U
 MSITF,MEDICAL SERVICES INTERNATIONAL INC Ordinary Shares,U
 MSIU,"Medical Supply International USA, Inc. Common Stock",U
 MSIXF,LIFEWORKS INC Common Shares,U
@@ -5596,3 +5595,4 @@ MTB,M&T Bank Corp.,NYSE
 MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
+MTC,"MMTec, Inc. Common Shares",NASDAQ
