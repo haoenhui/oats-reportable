@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWTI,"Greenway Technologies, Inc. Common Stock",U
-GWTR,"Global Water Technologies, Inc. Common Stock",U
-GWW,"W.W. Grainger, Inc.",NYSE
 GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
 GWX,SPDR S&P International Small Cap ETF,ARCA
 GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
@@ -1177,6 +1174,7 @@ ICBU,"IMD Companies, Inc.  Common Stock",U
 ICCC,ImmuCell Corporation Common Stock,NASDAQ
 ICCGF,ICA Gruppen AB Ordinary Shares (Sweden),U
 ICCH,"ICC Holdings, Inc. Common Stock",NASDAQ
+ICCM,IceCure Medical Ltd. Ordinary Shares,NASDAQ
 ICCO,"Intercare DX, Inc. Common Stock",U
 ICCT,"iCoreConnect, Inc. Common Stock (United States)",U
 ICD,"Independence Contract Drilling, Inc.",NYSE
@@ -1227,7 +1225,6 @@ ICTEY,INTERNATIONAL CONTAINER TERMINAL SVCS INC American Depositary Receipts - U
 ICTSF,ICTS International N.V. Common Shares,U
 ICTY,"EyeCity.com, Inc. Common Stock",U
 ICUI,"ICU Medical, Inc. Common Stock",NASDAQ
-ICUSF,"Icecure Medical Ltd, Caesarea Ordinary Shares",U
 ICVT,iShares Convertible Bond ETF,BATS
 ICVX,"Icosavax, Inc. Common Stock",NASDAQ
 ID,"PARTS iD, Inc.",AMEX
@@ -2953,7 +2950,7 @@ KDEVF,Karolinska Development AB B SHS Ordinary Shares (Sweden),U
 KDFI,KFA Dynamic Fixed Income ETF,ARCA
 KDIXF,Kenedix Residential Investment Corporation Ordinary Shares (Japan),U
 KDKCF,KODIAK COPPER CORP Ordinary Shares,U
-KDKGF,Klondike Gold Cp Ordinary Shares,U
+KDKGF,Klondike Gold Corp Ordinary Shares,U
 KDKN,"Kodiak Energy, Inc. Common Stock",U
 KDKWF,KADOKAWA CORP Ordinary Shares,U
 KDMN,"Kadmon Holdings, Inc. Common Stock",NASDAQ
@@ -4250,9 +4247,6 @@ LVXFF,Leviathan Gold Ltd. Ordinary Shares (Canada),U
 LVYN,Lvyuan Green Building Material Technology Corp. Common Stock,U
 LVZPF,Livzon Pharmaceutical Group Inc Ordinary Shares (China),U
 LW,"Lamb Weston Holdings, Inc.",NYSE
-LWAC,Locust Walk Acquisition Corp. Class A Common Stock,NASDAQ
-LWACU,Locust Walk Acquisition Corp. Unit,NASDAQ
-LWACW,Locust Walk Acquisition Corp. Warrant,NASDAQ
 LWAY,"Lifeway Foods, Inc. Common Stock",NASDAQ
 LWCL,LEWIS & CLARK BANCORP Common Stock,U
 LWCTF,"LCTI Low Carbon Technologies, Inc. Shs (Canada)",U
@@ -4668,7 +4662,6 @@ MDNDF,McDonalds Hldgs Co Japan Ltd Ordinary Shares,U
 MDNGF,Midnight Sun Mining Corp COM (Canada),U
 MDNL,"Maiden Lane Jewelry, Ltd. Common Stock",U
 MDNWF,Mednow Inc. Common Shares Cl A (Canada),U
-MDOMF,Mandom Corp Ordinary Shares (Japan),U
 MDOUF,Maisons Du Monde SA Common Stock (France),U
 MDP,Meredith Corporation,NYSE
 MDPCF,Madison Pac Ppts- B Ordinary Shares,U
@@ -4704,7 +4697,7 @@ MDYV,SPDR S&P 400 Mid Cap Value ETF (based on S&P MidCap 400 Value Index--symbol
 ME,23andMe Holding Co. Class A Common Stock,NASDAQ
 MEACU,Mercury Ecommerce Acquisition Corp Unit,NASDAQ
 MEAR,BlackRock Short Maturity Municipal Bond ETF,BATS
-MEAUF,Moneta Porcupine Mines Inc Ordinary Shares,U
+MEAUD,MONETA GOLD INC Ordinary Shares,U
 MEBUF,Mebuki Financial Group Inc Ordinary Shares (Japan),U
 MEC,"Mayville Engineering Company, Inc.",NYSE
 MECGF,MEC CO LTD AMAGASAKI SHS (Japan),U
@@ -5596,3 +5589,10 @@ MTBC,"CareCloud, Inc. Common Stock",NASDAQ
 MTBCP,"CareCloud, Inc. 11% Series A Cumulative Redeemable Perpetual Preferred Stock",NASDAQ
 MTBMF,Mount Burgess Mining NL Ordinary Shares (Australia),U
 MTC,"MMTec, Inc. Common Shares",NASDAQ
+MTCH,"Match Group, Inc. Common Stock",NASDAQ
+MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
+MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
+MTCR,"Metacrine, Inc. Common Stock",NASDAQ
+MTD,Mettler-Toledo International,NYSE
+MTDR,MATADOR RESOURCES COMPANY,NYSE
+MTEHF,St. Anthony Gold Corp.  Ordinary Shares,U

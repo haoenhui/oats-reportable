@@ -1,5 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
 CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
 CPK,Chesapeake Utilities,NYSE
 CPKB,Chesapeake Bancorp Common Stock,U
@@ -424,7 +423,6 @@ CTLPP,CANTALOUPE INC Preferred Stock,U
 CTLT,"CATALENT, INC.",NYSE
 CTMCF,Canterra Minerals Corp. Ordinary Shares,U
 CTMLF,Corporate Travel Management Ltd Ordinary Shares (Australia),U
-CTMUF,Centurion Minerals Ltd. CDA Ordinary Shares,U
 CTMWF,CATENA MEDIA PLC WARRANTS 2020 2024 (Malta),U
 CTMX,"CytomX Therapeutics, Inc. Common Stock",NASDAQ
 CTNGY,Costain Group PLC American Depositary Receipts - Unsponsored (United Kingdom),U
@@ -518,7 +516,6 @@ CUK,Carnival PLC,NYSE
 CUKPF,Carnival plc Ordinary Shares (UK),U
 CULL,"Cullman Bancorp, Inc. Common Stock",NASDAQ
 CULP,"Culp, Inc.",NYSE
-CUOTF,Cie Automotive Sa Shs (Spain),U
 CUPUF,Caribbean Utilities Ltd Cl A Ordinary Shares,U
 CURE,Direxion Daily Healthcare Bull 3X Shares,ARCA
 CURHF,CURVES HLDGS CO LTD Common Stock,U
@@ -2028,6 +2025,8 @@ EFSH,"1847 Holdings, LLC Common Stock",U
 EFSI,"Eagle Financial Services, Inc. (VA) Common Stock",U
 EFT,Eaton Vance Floating-Rate Income Trust,NYSE
 EFTI,"EarthFirst Technologies, Inc. Common Stock",U
+EFTR,"eFFECTOR Therapeutics, Inc. Common Stock",NASDAQ
+EFTRW,"eFFECTOR Therapeutics, Inc. Warrant",NASDAQ
 EFU,ProShares Trust UltraShort MSCI EAFE,ARCA
 EFV,iShares MSCI EAFE Value ETF,BATS
 EFX,"Equifax, Incorporated",NYSE
@@ -3001,7 +3000,6 @@ EYEG,"Eyegate Pharmaceuticals, Inc. Common Stock",NASDAQ
 EYEN,"Eyenovia, Inc. Common Stock",NASDAQ
 EYES,"Second Sight Medical Products, Inc. Common Stock",NASDAQ
 EYESW,"Second Sight Medical Products, Inc. Warrants expiring 03/14/2024",NASDAQ
-EYGNF,EYEGENE INC Ordinary Shares,U
 EYGPF,Electricity Generating Public Co Ltd Foreign Shares (Thailand),U
 EYLD,Cambria Emerging Shareholder Yield ETF,BATS
 EYPT,"EyePoint Pharmaceuticals, Inc. Common Stock",NASDAQ
@@ -4878,7 +4876,6 @@ GLHD,PSH GROUP HLDG INC Common Stock,U
 GLHRF,Golden Harp Res Inc. Ordinary Shares (Canada),U
 GLIF,AGFiQ Global Infrastructure ETF,ARCA
 GLIIF,Glacier Lake Resources Ordinary Shares,U
-GLILF,Go Life International Ltd Ordinary Shares (Mauritius),U
 GLIN,VanEck Vectors India Growth Leaders ETF,ARCA
 GLIOF,Gold Lion Resources Inc Common Shares (Canada),U
 GLKFF,"Raise Production, Inc Ordinary Shares (Canada)",U
@@ -5596,3 +5593,6 @@ GWRS,"Global Water Resources, Inc. Common Stock",NASDAQ
 GWSAF,Gowest Gold Ltd Ordinary Shares,U
 GWSN,"Gulf West Security Network, Inc. Common Stock",U
 GWSO,"Global Warming Solutions, Inc. Common Stock",U
+GWTI,"Greenway Technologies, Inc. Common Stock",U
+GWTR,"Global Water Technologies, Inc. Common Stock",U
+GWW,"W.W. Grainger, Inc.",NYSE

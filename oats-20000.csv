@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
-SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
-SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
@@ -462,6 +459,7 @@ SMHGF,SIMCERE PHARMACEUTICAL GROUP LTD Ordinary Shares Public Company Limited by
 SMHI,SEACOR Marine Holdings Inc. Common Stock,NYSE
 SMHRY,Smoore Intl Hldgs Ltd. American Depositary Receipts - Unsponsored (Cayman Islands),U
 SMID,Smith-Midland Corporation Common Stock,NASDAQ
+SMIG,AAM Bahl & Gaynor Small/Mid Cap Income Growth ETF,ARCA
 SMIH,Summit Healthcare Acquisition Corp. Class A Ordinary Share,NASDAQ
 SMIHU,Summit Healthcare Acquisition Corp. Units,NASDAQ
 SMIHW,Summit Healthcare Acquisition Corp. Warrant,NASDAQ
@@ -937,7 +935,6 @@ SPQS,"SportsQuest, Inc. Common Stock",U
 SPR,"Spirit Aerosystems Holdings, Inc.",NYSE
 SPRB,"Spruce Biosciences, Inc. Common Stock",NASDAQ
 SPRBF,Sparebank 1 Ostlandet Ordinary Shares,U
-SPRCY,SciSparc Ltd.  American Depositary Receipts - Sponsored,U
 SPRE,SP Funds S&P Global REIT Sharia ETF,ARCA
 SPRL,"Strat Petroleum, Ltd. New Common Stock",U
 SPRN,SUPERNOVA ENERGY INC Common Stock,U
@@ -4071,7 +4068,6 @@ VMD,"Viemed Healthcare, Inc. Common Shares",NASDAQ
 VMEO,"Vimeo, Inc. Common Stock",NASDAQ
 VMHG,Victory Marine Holdings Corp. Common Stock,U
 VMI,"Valmont Industries, Inc.",NYSE
-VMII,"Voice Mobility International, Inc. Common Stock",U
 VMM,Delaware Investments Minnesota Municipal Income Fund II,AMEX
 VMNGF,Vanstar Mining Resources (Canada),U
 VMNT,Vemanti Group Inc Common Stock,U
@@ -5028,6 +5024,7 @@ XBUY,Amplify International Online Retail ETF,ARCA
 XCAN,Yutudao Marine Biotechnology Inc. Common Stock,U
 XCEM,Columbia EM Core ex-China ETF,ARCA
 XCLL,XcelMobility Inc.  Common Stock,U
+XCLR,Global X S&P 500 Collar 95-110 ETF,ARCA
 XCOMQ,"Xtera Communications, Inc. Common Stock",U
 XCPL,XCPCNL Business Services Corporation Common Stock,U
 XCPT,"XCana Petroleum, Corp. Common Stock",U
@@ -5168,6 +5165,7 @@ XREG,XR Energy Inc Common Stock,U
 XRESF,Xtierra Inc. Ordinary Shares (Canada),U
 XRFSF,XRF Scientific Ltd. Shs (Australia),U
 XRLV,Invesco S&P 500 ex-Rate Sensitive Low Volatility ETF,ARCA
+XRMI,Global X S&P 500 Risk Managed Income ETF,ARCA
 XROLF,Xero Ltd. Ordinary Shares (New Zealand),U
 XRSMF,XTRACKERS IE PLC RUSSELL MIDCAP UCITS ETF 1C (Ireland),U
 XRT,SPDR S&P Retail ETF,ARCA
@@ -5209,6 +5207,7 @@ XTNT,"Xtant Medical Holdings, Inc.",AMEX
 XTNTW,"Xtant Medical Holdings, Inc. Warrant Exp 11/17/2021",U
 XTPEF,"Xtep International Holdings, Ltd. Ordinary Shares (Cayman Islands)",U
 XTPT,Xtra Energy Corp. Common Stock,U
+XTR,Global X S&P 500 Tail Risk ETF,ARCA
 XTRIF,XTRACKERS IE PLC MSCI USA UCITS ETF1C (Ireland),U
 XTRKF,XTRACKERS IE PLC DB X TR RUSSELL 2000 UCITS ETFDR1C US (Ireland),U
 XTRM,"Extreme Biodiesel, Inc. Common Stock",U
@@ -5591,6 +5590,7 @@ ZYNE,"Zynerba Pharmaceuticals, Inc. Common Stock",NASDAQ
 ZYQG,ZYQC Group Holding Limited Common Stock,U
 ZYRX,"Zyrox Mining International, Inc. Common Stock",U
 ZYXI,"Zynex, Inc. Common Stock",NASDAQ
+ZZCMF,"ZHENGZHOU COAL MNG MACHY GROUP CO LTD, CHINA Ordinary Shares H (China)",U
 ZZHGF,Zhongan Online PC Ins Co Ltd. Ordinary Shares (China),U
 ZZHGY,"ZhongAn Online P & C Insurance Co., Ltd American Depositary Receipts - Unsponsored (China)",U
 ZZLL,"ZZLL Information Technology, Inc. Common Stock",U

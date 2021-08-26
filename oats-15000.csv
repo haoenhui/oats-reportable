@@ -1,11 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-MTCH,"Match Group, Inc. Common Stock",NASDAQ
-MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
-MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
-MTCR,"Metacrine, Inc. Common Stock",NASDAQ
-MTD,Mettler-Toledo International,NYSE
-MTDR,MATADOR RESOURCES COMPANY,NYSE
-MTEHF,St. Anthony Gold Corp.  Ordinary Shares,U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
@@ -2288,6 +2281,7 @@ PDFS,"PDF Solutions, Inc. Common Stock",NASDAQ
 PDGNF,Pendragon PLC Ordinary Shares (United Kingdom),U
 PDGO,"Paradigm Oil and Gas, Inc. Common Stock",U
 PDGRY,"PDG Realty SA, Sao Paulo American Depositary Receipts - Sponsored",U
+PDGUF,PADAENG INDUSTRY PUBLIC CO LTD NVDR SHARES,U
 PDI,PIMCO Dynamic Income Fund,NYSE
 PDIV,"Premier Development & Investment, Inc. Class A Common Stock",U
 PDIYF,Predictive Discovery Ltd Melbourne Ordinary Shares (Australia),U
@@ -2831,7 +2825,7 @@ PMSO,Primal Solutions Inc New Common Stock,U
 PMT,PennyMac Mortgage Investment Trust,NYSE
 PMT PRA,PennyMac Mortgage Investment Trust 8.125% Series A Fixed-to-Floating Rate Cumulative Redeemable Pref,NYSE
 PMT PRB,PennyMac Mortgage Investment Trust 8.00% Series B Fixed-to-Floating Rate Cumulative Redeemable Prefe,NYSE
-PMTCP,PENNYMAC MTG INVT TR PFD SHS BEN INT SER C Preferred Stock,U
+PMT PRC,PennyMac Mortgage Investment Trust 6.75% Series C Cumulative Redeemable Preferred Shares of Benefici,NYSE
 PMTRF,Precious Metals Bullion Trust Units (Canada),U
 PMTS,CPI Card Group Inc. Common Stock,NASDAQ
 PMTYF,Playmates Toys Ltd Ordinary shares (Bermuda),U
@@ -3671,6 +3665,7 @@ QCCP,Quad County Corn Processors Cooperative Membership Unit,U
 QCCUF,QC COPPER & GOLD INC Common Stock (Canada),U
 QCKSF,Quickstep Holdings Limited Ordinary Shares (Australia),U
 QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,NASDAQ
+QCLR,Global X Funds Global X NASDAQ 100 Collar 95-110 ETF,NASDAQ
 QCLSF,Global PVQ SE Ordinary Shares (Germany Federal Republic),U
 QCLSY,"Global PVQ SE, Thalheim Unsponsored ADR (Germany)",U
 QCOM,QUALCOMM Incorporated Common Stock,NASDAQ
@@ -3790,6 +3785,7 @@ QQQX,Nuveen NASDAQ 100 Dynamic Overwrite Fund Shares of Beneficial Interest,NASD
 QQXT,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,NASDAQ
 QRFT,Qraft AI-Enhanced US Large Cap ETF,ARCA
 QRHC,Quest Resource Holding Corporation Common Stock,NASDAQ
+QRMI,Global X Funds Global X NASDAQ 100 Risk Managed Income ETF,NASDAQ
 QRMLF,Quest Rare Minerals Ltd Common Shares,U
 QRNNF,Aurizon Holdings Ltd. Ordinary Shares (Australia),U
 QRON,Qrons Inc. Common Stock,U
@@ -3819,6 +3815,7 @@ QTGI,Quark Technology Global Inc. Common Stock,U
 QTGPF,QT Group OYJ Ordinary Shares  (Finland),U
 QTJL,Innovator Growth Accelerated Plus ETF - July,BATS
 QTNT,Quotient Limited Ordinary Shares,NASDAQ
+QTR,Global X Funds Global X NASDAQ 100 Tail Risk ETF,NASDAQ
 QTRHF,Quarterhill Inc. Common Shares,U
 QTRRF,Quaterra Resources Inc Ordinary Shares,U
 QTRX,Quanterix Corporation Common Stock,NASDAQ
@@ -5595,3 +5592,6 @@ SHIOF,SHINOKEN GROUP CO LTD Ordinary Shares,U
 SHIP,Seanergy Maritime Holdings Corp Common Stock,NASDAQ
 SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
+SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
+SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
