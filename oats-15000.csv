@@ -162,7 +162,6 @@ MXF,MEXICO FUND,NYSE
 MXGBF,Molson Coors CDA Inc Ordinary Exchangeable Shares Class B (Canada),U
 MXGFF,Maxim Power Corp Ordinary Shares (Canada),U
 MXI,iShares Global Materials ETF,ARCA
-MXIM,"Maxim Integrated Products, Inc. Common Stock",NASDAQ
 MXL,"MAXLINEAR, INC.",NYSE
 MXLGF,MX Gold Corp Ordinary Shares,U
 MXLLF,Maxell Holdings LTD SHS (Japan),U
@@ -1681,7 +1680,6 @@ ONTF,"ON24, Inc.",NYSE
 ONTO,Onto Innovation Inc.,NYSE
 ONTRF,Blackrock Oil Corporation Common Stock,U
 ONTX,"Onconova Therapeutics, Inc. Common Stock",NASDAQ
-ONTZF,O-Net Technologies Group Ltd Ordinary Shares,U
 ONVC,Online Vacation Center Holdings Corp. Common Stock,U
 ONVO,"Organovo Holdings, Inc. Common Stock",NASDAQ
 ONVRF,Oronova Energy Inc Ordinary Shares,U
@@ -1749,7 +1747,6 @@ OPVLF,Optimum Ventures Limited Common Shares (Canada),U
 OPVS,NanoFlex Power Corporation. NEW Common Stock,U
 OPWEF,Opawica Expls Inc Ordinary Shares,U
 OPXS,"Optex Systems Holdings, Inc. Common Stock",U
-OPXXW,Optex Sys Hldgs Warrants Expiring 08/26/2021,U
 OPY,"Oppenheimer Holdings, Inc.",NYSE
 OPYGY,PJSC Polyus American Depositary Receipts - Sponsored,U
 OQLGF,"Olympique Lyonnais Groupe, Lyon Shs Nom (France)",U
@@ -2316,7 +2313,6 @@ PDYPF,Flutter Entertainment PLC Ordinary Shares,U
 PDYPY,Flutter Entmt Plc American Depositary Receipts - Unsponsored,U
 PEAK,"Healthpeak Properties, Inc.",NYSE
 PEB,Pebblebrook Hotel Trust,NYSE
-PEB PRC,Pebblebrook Hotel Trust 6.50% Series C,NYSE
 PEB PRE,Pebblebrook Hotel Trust 6.375% Series E Cumulative Redeemable Preferred Shares of Beneficial Interes,NYSE
 PEB PRF,Pebblebrook Hotel Trust 6.3% Series F Cumulative Redeemable Preferred Shares of Beneficial Interest,NYSE
 PEB PRG,Pebblebrook Hotel Trust 6.375% Series G Cumulative Redeemable Preferred Shares of Beneficial Interes,NYSE
@@ -5554,7 +5550,6 @@ SHANF,Shandong Molomg Petroleum Machinery Co Ltd -H- Shares (China),U
 SHANY,Shandong Molomg Petroleum Machinery Co Ltd Unsponsored ADR (China),U
 SHAOF,Shimamura Corp Ordinary Shares (Japan),U
 SHASF,Shamaran Petroleum Corporation Ordinary Shares (Canada),U
-SHAUF,Saha-Union Public Co Ltd. NVDR Shares (Thailand),U
 SHAVF,Scottish American Investment Co Plc Ordinary Shares (United Kingdom),U
 SHBI,Shore Bancshares Inc Common Stock,NASDAQ
 SHBTF,Shanghai Haohai Biological Technology Co Ltd Ordinary Shares  (China),U
@@ -5595,3 +5590,6 @@ SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
+SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
+SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
+SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U

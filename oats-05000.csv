@@ -1,10 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
-CPK,Chesapeake Utilities,NYSE
-CPKB,Chesapeake Bancorp Common Stock,U
-CPKF,Chesapeake Financial Shares Inc Common Stock,U
-CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
-CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U
 CPKPY,C P Pokphand Co Ltd Sponsored ADR (Bermuda) USD,U
 CPLCF,IShares VII PLC Exchange Traded Fund,U
 CPLG,CorePoint Lodging Inc. Common Stock,NYSE
@@ -84,7 +78,6 @@ CRAK,VanEck Vectors Oil Refiners ETF,ARCA
 CRARF,Credit Agricole SA ACT (France),U
 CRARY,Credit Agricole SA Unsponsored ADR (France),U
 CRAWA,Crawford United Corporation Common Stock,U
-CRAXF,Corticeira Amorim Sociedad Gestora Participacoes Sociais SA Ordinary Shares (Portugal),U
 CRAYF,Crayon Group HLDG AS Common Shares  Norway (NO),U
 CRBBF,Corby Spirit and Wine Ltd Vtg Sh Cl B Ordinary Shares,U
 CRBJF,"China Resources Land, Ltd. Ordinary Shares (Cayman Islands) HKD",U
@@ -245,6 +238,7 @@ CRY,"CryoLife, Inc.",NYSE
 CRYBF,Extreme Vehicle Battery Technologies Corp Ordinary Shares,U
 CRYCY,China Railroad Signal & Communication Corp Ltd American Depositary Receipts - Unsponsored,U
 CRYIF,Crystal International Group Ltd Ordinary Shares (Cayman Islands),U
+CRYM,Cryomass Technologies Inc Common Stock,U
 CRYO,American Cryostem Corporation. Common,U
 CRYYF,China Railway Signal & Communications Corp Ltd Ordinary Shares Reg H (China),U
 CRZBF,Commerzbank Junge Shs Ordinary Shares,U
@@ -506,7 +500,6 @@ CUCSY,China Communications Service Unsponsored ADR representing H Shares  (China
 CUE,"Cue Biopharma, Inc. Common Stock",NASDAQ
 CUEN,"Cuentas, Inc. Common Stock",NASDAQ
 CUENW,"Cuentas, Inc. Warrant",NASDAQ
-CUEYF,Cue Energy Resources Ltd Ordinary Shares (Australia),U
 CUFHF,Crunchfish Ab Share Ak  Ordinary Shares (Sweden),U
 CUGCF,China Oriental Group Co Ltd Ordinary Shares (Bermuda),U
 CUGCY,China Oriental Group Co Ltd Unsponsored ADR (Hong Kong),U
@@ -542,6 +535,7 @@ CVALF,Covalon Technologies Ltd Common shares (Canada),U
 CVAS,"Creative Vistas, Inc. Common Stock",U
 CVAT,"Cavitation Technologies, Inc. Common Stock",U
 CVBF,CVB Financial Corporation Common Stock,NASDAQ
+CVCBY,CVC BRASIL OPERADORA E AGENCIA DE VIAGENS S A  American Depositary Receipts - Unsponsored,U
 CVCO,"Cavco Industries, Inc. Common Stock When Issued",NASDAQ
 CVCY,Central Valley Community Bancorp Common Stock,NASDAQ
 CVE,Cenovus Energy Inc.,NYSE
@@ -747,6 +741,8 @@ CZNB,Citizens Bancorp (CA) Common Stock,U
 CZNC,Citizens & Northern Corp Common Stock,NASDAQ
 CZNI,Cruzani Inc. Common Stock,U
 CZNL,Citizens National Corporation (KY) Common Stock,U
+CZOO,Cazoo Group Ltd,NYSE
+CZOO WS,"Cazoo Group Ltd Redeemable Warrants, each warrant exercisable for one Class A ordinary share at an",NYSE
 CZR,"Caesars Entertainment, Inc. Common Stock",NASDAQ
 CZWI,"Citizens Community Bancorp, Inc. Common Stock",NASDAQ
 CZYRF,CAZALY RESOURCES LIMITED Ordinary Shares,U
@@ -1017,9 +1013,6 @@ DFND,Siren DIVCON Dividend Defender ETF,BATS
 DFNFF,Dividend 15 Split Corp II-A Preferred Stock (Canada),U
 DFNL,Davis Select Financial ETF,BATS
 DFNNF,DFNN Inc Ordinary Shares (Philippines),U
-DFNS,LGL Systems Acquisition Corp.,NYSE
-DFNS U,LGL Systems Acquisition Corp. Units,NYSE
-DFNS WS,"LGL Systems Acquisition Corp. Redeemable Warrants, each whole warrant exercisable for shares of Clas",NYSE
 DFNV,TrimTabs Donoghue Forlines Risk Managed Innovation ETF,BATS
 DFORF,D4T4 Solutions PLC Ordinary Shares (United Kingdom),U
 DFP,FLAHERTY & CRUMRINE DYNAMIC PREFERRED AND INCOME FUND INCORPORATED,NYSE
@@ -1166,7 +1159,7 @@ DJAN,FT Cboe Vest U.S. Equity Deep Buffer ETF - January,BATS
 DJCB,"ETRACS Bloomberg Commodity Index Total Return ETN Series B due October 31, 2039",ARCA
 DJCO,Daily Journal Corp. (S.C.) Common Stock,NASDAQ
 DJD,Invesco Dow Jones Industrial Average Dividend ETF,ARCA
-DJIFF,Dajin Lithium Corp Ordinary Shares,U
+DJIFD,Dajin Lithium Corp Ordinary Shares,U
 DJP,"iPath Bloomberg Commodity Index Total Return ETN due June 12, 2036",ARCA
 DJSCF,ISHARES PLC SHS EUR ETF (Ireland),U
 DJSP,"DJSP Enterprises, Inc",U
@@ -1765,7 +1758,7 @@ EAOK,iShares ESG Aware Conservative Allocation ETF,BATS
 EAOM,iShares ESG Aware Moderate Allocation ETF,BATS
 EAOR,iShares ESG Aware Growth Allocation ETF,BATS
 EAPH,"Easton Pharmaceuticals, Inc. Common Stock",U
-EAPR,Innovator MSCI Emerging Markets Power Buffer ETF-April,ARCA
+EAPR,Innovator Emerging Markets Power Buffer ETF - April,ARCA
 EAR,"Eargo, Inc. Common Stock",NASDAQ
 EARI,Entertainment Arts Research Inc Common Stock,U
 EARN,ELLINGTON RESIDENTIAL MORTGAGE REIT,NYSE
@@ -2107,7 +2100,7 @@ EIRL,iShares MSCI Ireland ETF,ARCA
 EIS,iShares MSCI Israel ETF,ARCA
 EITWY,EI Tower Spa Unsponsored ADR (Italy),U
 EIX,Edison International,NYSE
-EJAN,Innovator MSCI Emerging Markets Power Buffer ETF-January,ARCA
+EJAN,Innovator Emerging Markets Power Buffer ETF - January,ARCA
 EJFA,EJF Acquisition Corp. Class A Ordinary Share,NASDAQ
 EJFAU,EJF Acquisition Corp. Unit,NASDAQ
 EJFAW,EJF Acquisition Corp. Warrant,NASDAQ
@@ -2115,7 +2108,7 @@ EJH,E-Home Household Service Holdings Limited Ordinary Shares,NASDAQ
 EJPRF,East Japan Railway Co Ordinary Shares,U
 EJPRY,East Japan Railway Co Unsponsored ADR (Japan),U
 EJTTF,Easyjet Plc Ordinary Shares GBP 0.27285714 (United Kingdom),U
-EJUL,Innovator MSCI Emerging Markets Power Buffer ETF - July,ARCA
+EJUL,Innovator Emerging Markets Power Buffer ETF - July,ARCA
 EJVDF,EJF Investments Ltd Ordinary Shares (Jersey),U
 EKAR,Capital Link NextGen Vehicles & Technology ETF,ARCA
 EKCS,Electronic Control Security Inc Common Stock,U
@@ -4347,7 +4340,6 @@ GALKF,Galantas Gold Corporation Ordinary Shares,U
 GALNF,Galenica AG Ordinary Shares (Switzerland),U
 GALOF,Galore Res Inc Common shares (Canada),U
 GALT,Galectin Therapeutics Inc. Common Stock,NASDAQ
-GALXF,Galaxy Resources Ltd Common Shares,U
 GALYF,GALA INC TOKYO ORD (Japan),U
 GAM,"General American Investors Company, Inc.",NYSE
 GAM PRB,"General American Investors Company, Inc  5.95% Cumul Pfd Stock, Ser B",NYSE
@@ -4529,6 +4521,8 @@ GDDPF,Goodpatch Inc Common Stock (Japan),U
 GDDY,GoDaddy Inc,NYSE
 GDEN,"Golden Entertainment, Inc. Common Stock",NASDAQ
 GDET,"GD Entertainment & Technology, Inc. Common Stock",U
+GDEV,Nexters Inc. Ordinary Shares,NASDAQ
+GDEVW,Nexters Inc. Warrant,NASDAQ
 GDIFF,"GDI Integrated Facility Services, Inc. Subordinate Voting Ordinary Shares (Canada)",U
 GDISF,IGB BERHAD Ordinary Shares,U
 GDL,The GDL Fund,NYSE
@@ -5596,3 +5590,7 @@ GWSO,"Global Warming Solutions, Inc. Common Stock",U
 GWTI,"Greenway Technologies, Inc. Common Stock",U
 GWTR,"Global Water Technologies, Inc. Common Stock",U
 GWW,"W.W. Grainger, Inc.",NYSE
+GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
+GWX,SPDR S&P International Small Cap ETF,ARCA
+GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
+GWYNF,Genoway Ordinary Shares  France (FR),U

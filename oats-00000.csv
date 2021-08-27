@@ -18,6 +18,7 @@ AACIU,Armada Acquisition Corp. I Unit,NASDAQ
 AACOU,Advancit Acquisition Corp. I Units,NASDAQ
 AACS,"American Commerce Solutions, Inc. Common Stock",U
 AACTF,AURORA SOLAR TECHNOLOGIES INC  Common Shares,U
+AADI,"Aadi Biosciences, Inc. Common Stock",NASDAQ
 AADR,AdvisorShares Dorsey Wright ADR ETF,NASDAQ
 AAEEF,Altair Res Inc Common Shares,U
 AAGC,All American Gold Corp. Common Stock,U
@@ -634,7 +635,7 @@ AGE,"AgeX Therapeutics, Inc.",AMEX
 AGEN,Agenus Inc. Common Stock,NASDAQ
 AGESF,Ageas NV Ordinary Shares (Belgium),U
 AGESY,Ageas Sponsored ADR (Belgium),U
-AGFAF,AGRA VENTURES LTD Ordinary Shares,U
+AGFAD,AGRA VENTURES LTD Ordinary Shares,U
 AGFMF,A G F Mgmt Ltd Cl B Non Vtg Ordinary Shares,U
 AGFS,"AgroFresh Solutions, Inc. Common Stock",NASDAQ
 AGFXF,"DB Agriculture Long ETN due April 1, 2038 (Germany)",U
@@ -688,7 +689,6 @@ AGO,"Assured Guaranty, LTD",NYSE
 AGO PRE,Assured Guaranty Municipal Holdings Inc. 6.25% Notes due 2102,NYSE
 AGO PRF,Assured Guaranty Municipal Holdings Inc. 5.60% Notes due 2103,NYSE
 AGOAF,Abengoa Sa ABG/AC B 0.01 (Spain),U
-AGOL,Andina Gold Corp. Common Stock,U
 AGOV,Gavekal Asia Pacific Government Bond ETF,ARCA
 AGOWF,Abengoa SA Warrant Expiring 03/31/2025 (Spain),U
 AGOX,Adaptvie Growth Opportunities ETF,ARCA
@@ -741,9 +741,6 @@ AGYYF,Armour Energy Ltd Ordinary Shares (Australia),U
 AGZ,iShares Agency Bond ETF,ARCA
 AGZD,WisdomTree Trust WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund,NASDAQ
 AGZNF,AEGEAN AIRLINES Ordinary Shares (Greece),U
-AHAC,Alpha Healthcare Acquisition Corp. Class A Common Stock,NASDAQ
-AHACU,Alpha Healthcare Acquisition Corp. Unit,NASDAQ
-AHACW,Alpha Healthcare Acquisition Corp. Warrant,NASDAQ
 AHAD,"Alphacom Holdings, Inc. Common Stock",U
 AHAG,"Alpha Technologies Group, Inc. Common Stock",U
 AHAHF,DESIGN MILK CO LTD Ordinary Shares,U
@@ -876,9 +873,6 @@ AIXN,"AiXin Life International, Inc. Common Stock",U
 AIXXF,AIXTRON SE  Namen - AKT,U
 AIZ,"Assurant, Inc.",NYSE
 AIZN,"Assurant, Inc. 5.25% Subordinated Notes due 2061",NYSE
-AJAX,Capri Listco,NYSE
-AJAX U,"Capri Listco Units, each consisting of one Class A ordinary share and one-fourth of one redeemable w",NYSE
-AJAX WS,"Capri Listco Redeemable Warrants, each warrant exercisable for one Class A ordinary share at an exer",NYSE
 AJG,Arthur J. Gallagher & Co.,NYSE
 AJIA,Ajia Innogroup Holdings Limited Common Stock,U
 AJINF,"Ajinomoto Company, Inc. Ordinary Shares (Japan)",U
@@ -1017,7 +1011,6 @@ ALL PRH,The Allstate Corporation,NYSE
 ALL PRI,The Allstate Corporation,NYSE
 ALLE,Allegion Public Limited Company,NYSE
 ALLK,Allakos Inc. Common Stock,NASDAQ
-ALLM,"Alliance Bioenergy Plus, Inc. Common Stock",U
 ALLN,Allin Corporation. Common Stock,U
 ALLO,"Allogene Therapeutics, Inc. Common Stock",NASDAQ
 ALLPF,Arocell AB Uppsala Ordinary Shares (Sweden),U
@@ -1667,7 +1660,6 @@ AROC,Archrock Inc,NYSE
 AROW,Arrow Financial Corporation Common Stock,NASDAQ
 AROZF,Aldoro Res Ltd Ordinary Shares (Australia),U
 ARPC,Arem Pacific Corporation. Common Stock,U
-ARPO,"Aerpio Pharmaceuticals, Inc. Common Stock",NASDAQ
 ARPPF,Agripure Holdings Public Co Ltd Units Non -Voting Depository Receipt (Thailand),U
 ARPTF,Airport City Ltd Ordinary Shares (Israel),U
 ARQT,"Arcutis Biotherapeutics, Inc. Common Stock",NASDAQ
@@ -2100,7 +2092,6 @@ AUS WS,"Austerlitz Acquisition Corporation I Warrants, each whole Warrant exerci
 AUSAF,Australis Capital Inc Common Shares (Canada),U
 AUSDF,Perenti Global Ltd.  Ordinary Shares,U
 AUSF,Global X Adaptive U.S. Factor ETF,ARCA
-AUSGF,AUSTAR GOLD LTD Ordinary Shares,U
 AUSI,"Aura Systems, Inc. Common Stock",U
 AUSTF,Austin Engineering Ltd Ordinary Shares (Ltd),U
 AUSVF,GOLD79 MINES LTD Common Shares,U
@@ -2910,6 +2901,7 @@ BIO,"Bio-Rad Laboratories, Inc.Class A",NYSE
 BIO B,"Bio-Rad Laboratories, Inc. Class B",NYSE
 BIOAF,"Bioasis Technologies, Inc. Ordinary Shares (Canada)",U
 BIOC,"Biocept, Inc. Common Stock",NASDAQ
+BIOF,"Blue Biofuels, Inc. Common Stock",U
 BIOGF,BIOCARTIS GROUP NV Ordinary Shares,U
 BIOGY,Biogaia AB Unsponsored ADR,U
 BIOIF,"Biome Grow, Inc.  Ordinary Shares",U
@@ -3448,6 +3440,7 @@ BQMGY,Bank of Africa Global Depositary Receipts - Sponsored,U
 BQSSF,Boss Energy Ltd Ordinary Shares,U
 BQST,BioQuest Corp. Common Stock,U
 BR,Broadridge Financial Solutions Inc,NYSE
+BRAG,Bragg Gaming Group Inc. Common Shares,NASDAQ
 BRAGF,Bauer Ag Ordinary Shares (Germany),U
 BRANF,"Baran Group, Ltd. Ordinary Shares",U
 BRAV,"Bravada International, Ltd. Common Stock",U
@@ -3487,7 +3480,6 @@ BRG PRC,Bluerock Residential Growth REIT Inc.,AMEX
 BRG PRD,"Bluerock Residential Growth REIT Inc. 7.125% Series D, Cumulative Preferred Stock ($0.01 par value p",AMEX
 BRGAY,Borregaard AS American Depositary Receipts (Unsponsored)(Norway),U
 BRGC,BrightRock Gold Corporation Common Stock NEW,U
-BRGGF,Bragg Gaming Group Inc. Ordinary Shares,U
 BRGO,"Bergio International, Inc. Common Stock",U
 BRGSF,BERGS TIMBER AB Ordinary Shares,U
 BRID,Bridgford Foods Corporation Common Stock,NASDAQ
@@ -5596,3 +5588,9 @@ CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
 CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
+CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
+CPK,Chesapeake Utilities,NYSE
+CPKB,Chesapeake Bancorp Common Stock,U
+CPKF,Chesapeake Financial Shares Inc Common Stock,U
+CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
+CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U

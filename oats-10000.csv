@@ -1,10 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
-GWX,SPDR S&P International Small Cap ETF,ARCA
-GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
-GWYNF,Genoway Ordinary Shares  France (FR),U
 GWYT,Greenway Technology Common Stock,U
 GXC,SPDR S&P China ETF,ARCA
+GXCCF,GLOBAL X FDS CHINA CLEAN ENERGY ETF (Hong Kong),U
 GXF,Global X FTSE Nordic Region ETF,ARCA
 GXG,Global X MSCI Colombia ETF,ARCA
 GXII,GX Acquisition Corp. II Class A Common Stock,NASDAQ
@@ -880,6 +877,8 @@ HUKEF,Hokuriku Electrical Construction Ltd Ordinary Shares (Japan),U
 HULCF,"Hulic Co Ltd, Tokyo Ordinary Shares",U
 HULK,"Stan Lee Media, Inc. Common Stock",U
 HUM,Humana Inc.,NYSE
+HUMA,"Humacyte, Inc. Common Stock",NASDAQ
+HUMAW,"Humacyte, Inc. Warrant",NASDAQ
 HUMBF,Humble & Fume Inc Common Shares (Canada),U
 HUMDF,Hua Medicine Ordinary Shares (Cayman Islands),U
 HUML,Humble Energy Inc (NV)  Common Stock,U
@@ -1070,7 +1069,7 @@ IAHL,IAHL Corporation Common Stock,U
 IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,ARCA
 IAIC,Information Analysis Incorporated Common Stock,U
 IAK,iShares U.S. Insurance ETF,ARCA
-IAPR,Innovator MSCI EAFE Power Buffer ETF-April,ARCA
+IAPR,Innovator International Developed Power Buffer ETF - April,ARCA
 IARED,INVENTRUST PPTYS CORP Common Stock,U
 IARGF,I A R Systems Group AB Ordinary Shares,U
 IART,Integra LifeSciences Holdings Corporation Common Stock,NASDAQ
@@ -1509,7 +1508,7 @@ IIVIP,II-VI Incorporated 6.00% Series A Mandatory Convertible Preferred Stock,NA
 IIVPF,ISHARES IV PLC Ishares Automation & Robotics UCITS (Ireland),U
 IIXFF,ISHARES III PLC Global Govt Bond UCITS Exchange Traded Fund USD ACC (Ireland),U
 IIXXF,ISHARES II PLC ISHARES CORP BOND ESG UCITS ETF USD ACC (Ireland),U
-IJAN,Innovator MSCI EAFE Power Buffer ETF-January,ARCA
+IJAN,Innovator International Developed Power Buffer ETF - January,ARCA
 IJH,iShares Core S&P Mid-Cap ETF,ARCA
 IJJ,iShares S&P Mid-Cap 400 Value ETF,ARCA
 IJJP,IJJ Corporation Common Stock,U
@@ -1519,7 +1518,7 @@ IJR,iShares Core S&P Small-Cap ETF,ARCA
 IJS,iShares S&P Small-Cap 600 Value ETF,ARCA
 IJSHF,IShares PLC Ordinary Shares EUR (Ireland),U
 IJT,iShares S&P SmallCap 600 Growth ETF,NASDAQ
-IJUL,Innovator MSCI EAFE Power Buffer ETF - July,ARCA
+IJUL,Innovator International Developed Power Buffer ETF - July,ARCA
 IKGPF,IKEGPS GROUP LTD Ordinary Shares,U
 IKMA,"IntelaKare Marketing, Inc. Common Stock",U
 IKNA,"Ikena Oncology, Inc. Common Stock",NASDAQ
@@ -1973,6 +1972,8 @@ IRMTF,Information Svcs Corp Ordinary Shares (Canada),U
 IRNG,International Ranger Corp. Common Stock,U
 IRNRF,"Iron Road Ltd., West Perth WA Ordinary Shares (Australia)",U
 IRNS,Ironstone Group Inc Common Stock,U
+IRNT,"IronNet, Inc.",NYSE
+IRNT WS,"IronNet, Inc. Redeemable Warrants, each whole warrant exercisable for shares of Common Stock at an e",NYSE
 IROMF,I ROM CO LTD TOKYO SHS (Japan),U
 IROQ,"IF Bancorp, Inc. Common Stock",NASDAQ
 IRPSY,IRPC Public Company Limited Unsponsored ADR (Thailand),U
@@ -3362,9 +3363,6 @@ KSKGF,Kingsgate Consolidated Nl Ordinary Shares,U
 KSLLF,KALERA AS Other Norway(NO ),U
 KSM,DWS Strategic Municipal Income Trust,NYSE
 KSMRF,"Contagious Gaming, Inc. Ordinary Shares",U
-KSMT,Kismet Acquisition One Corp Ordinary Shares,NASDAQ
-KSMTU,Kismet Acquisition One Corp Unit,NASDAQ
-KSMTW,Kismet Acquisition One Corp Warrant,NASDAQ
 KSNIF,Kasen International Holdings Limited Ordinary Shares (Cayman Islands),U
 KSOJF,Kisoji Co Ltd SHS (Japan),U
 KSPHF,Kissei Pharmaceuticals Co Ltd Ordinary Shares (Japan),U

@@ -1,7 +1,4 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
-SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
-SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
-SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
 SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
 SHLDQ,Sears Holdings Corporation Common Stock,U
@@ -641,9 +638,6 @@ SNPHY,Santen Pharmaceutical Co Unsponsored American Depository Shares (Japan),U
 SNPKF,SINOPEC KANTONS HOLDINGS LTD Ordinary Shares (Bermuda),U
 SNPMF,China Petroleum & Chemical Corp Ordinary Shares,U
 SNPO,Snap One Holdings Corp. Common Stock,NASDAQ
-SNPR,Tortoise Acquisition Corp. II,NYSE
-SNPR U,"Tortoise Acquisition Corp. II Units, each consisting of one Class A ordinary share and one-fourth of",NYSE
-SNPR WS,"Tortoise Acquisition Corp. II Warrants, each whole warrant exercisable for one Class A ordinary shar",NYSE
 SNPRY,Sinopec Engr Group Co Ltd ADR Repstg H Shs (China),U
 SNPS,"Synopsys, Inc. Common Stock",NASDAQ
 SNPTF,Sunny Optical Technology (Group) Co Ltd Shs (Cayman Islands),U
@@ -782,7 +776,7 @@ SOST,Southern States Sign Company Common,U
 SOTDF,Stroeer SE Ordinary Shares (Germany Federal Republic),U
 SOTDY,Stroeer SE and Co KGaA Unsponsored ADR (Germany),U
 SOTGY,Sunny Optical Technology Group Co Ltd American Depositary Receipt (Unsponsored)(Cayman Islands),U
-SOTK,Sono-Tek Corp Common Stock,U
+SOTK,Sono-Tek Corporation Common Stock,NASDAQ
 SOUB,"Southpoint Bancshares, Inc. Common Stock",U
 SOUG,"Sou 300 Group Hldg., Co. Common Stock",U
 SOUHY,South32 Ltd American Depositary Receipts - Sponsored (Australia),U
@@ -935,6 +929,7 @@ SPQS,"SportsQuest, Inc. Common Stock",U
 SPR,"Spirit Aerosystems Holdings, Inc.",NYSE
 SPRB,"Spruce Biosciences, Inc. Common Stock",NASDAQ
 SPRBF,Sparebank 1 Ostlandet Ordinary Shares,U
+SPRCF,SCISPARC LTD Ordinary Shares,U
 SPRE,SP Funds S&P Global REIT Sharia ETF,ARCA
 SPRL,"Strat Petroleum, Ltd. New Common Stock",U
 SPRN,SUPERNOVA ENERGY INC Common Stock,U
@@ -1010,6 +1005,8 @@ SQFL,SQL Technologies Corp. Common Stock,U
 SQFT,"Presidio Property Trust, Inc. Class A Common Stock",NASDAQ
 SQFTP,"Presidio Property Trust, Inc. 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock, $0.01 par value per share",NASDAQ
 SQIDF,SQI Diagnostics Inc Ordinary Shares (Canada),U
+SQL,SeqLL Inc. Common stock,NASDAQ
+SQLLW,SeqLL Inc. Warrant,NASDAQ
 SQLV,Legg Mason ETF Investment Trust Legg Mason Small-Cap Quality Value ETF,NASDAQ
 SQM,Sociedad Quimica y Minera de Chile SA,NYSE
 SQNNY,Square Enix Hldgs Co Ltd American Depositary Receipts - Unsponsored Repstg Com Stk (Japan),U
@@ -3574,7 +3571,6 @@ USBK,USA Bank (NY) Common Stock,U
 USBL,"United States Basketball League, Inc. Common Stock",U
 USCB,U.S. Century Bank Class A Common Stock,NASDAQ
 USCI,US Commodity Index,ARCA
-USCR,"U.S. Concrete, Inc. Common Stock",NASDAQ
 USCS,USCorp Common Stock,U
 USCUF,US Copper Corp. Ordinary Shares,U
 USCZF,United Silver Corp. Ordinary Shares (Canada),U
@@ -4046,6 +4042,8 @@ VLPNY,Voestalpine AG Unsponsored ADR (Austria),U
 VLRS,"CONTROLADORA VUELA COMPAniA DE AVIACIoN, S.A.B. DE C.V.",NYSE
 VLRZF,VALOR HLDGS CO LTD Ordinary Shares,U
 VLT,Invesco  High Income Trust II,NYSE
+VLTA,Volta Inc.,NYSE
+VLTA WS,"Volta Inc. Warrants, each whole warrant exercisable for one Class A Common Stock at an exercise pric",NYSE
 VLTAF,VOLTALIA SA ORDINARY SHARE (France),U
 VLTFF,Volta Finance Ltd. Shs (Guernsey),U
 VLTRF,VOLT RES LTD Ordinary Shares,U
