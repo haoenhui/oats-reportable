@@ -1,4 +1,5 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
 SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
 SHLDQ,Sears Holdings Corporation Common Stock,U
@@ -1680,7 +1681,6 @@ SYHO,"Synergie Wellness Products, Inc. Common Stock",U
 SYIEF,Symrise Ag Ordinary Shares (Germany),U
 SYIEY,Symrise Ag Unsponsored ADR (Germany),U
 SYK,Stryker Corporation,NYSE
-SYKE,"Sykes Enterprises, Incorporated Common Stock",NASDAQ
 SYKKF,"Soliton Systems KK, Tokyo Ordinary Shares (Japan)",U
 SYKWF,Sky Network Television Ltd. Ordinary Shares (New Zealand),U
 SYLD,Cambria Shareholder Yield ETF,BATS
@@ -2071,7 +2071,6 @@ TEXC,Texcom Inc. Common Stock,U
 TEXG,"Terax Energy, Inc. Common Stock",U
 TEZNY,Terna Rete Elettrica Nazionale SPA Unsponsored American Depository Receipt (Italy),U
 TFACF,"Treasure Factory Co Ltd, Tokyo Ordinary Shares  (Japan)",U
-TFAN,"TradeFan, Inc. Common Stock",U
 TFAOF,Telefonica Czech Republic AS Ordinary Shares (Czech Republic),U
 TFARF,TOPPAN FORMS CO LTD TOKYO SHS (Japan),U
 TFBN,TFN Football Network (The) Common Stock,U
@@ -2317,6 +2316,7 @@ TIZAF,Tiziana Life Sciences PLC Shares New (United Kingdom),U
 TJBH,Tengjun Biotechnology Corp. Common Stock,U
 TJIPF,Tianjin Port Development Holdings Limited Ordinary Shares (Cayman Islands),U
 TJIPY,Tianjin Port Development Holdings Limited Unsponsored ADR (Cayman Islands),U
+TJSCF,TIANJIN DEVELOPMENT HOLDINGS LTD SHS (Hong Kong),U
 TJSS,"Taj Systems, Inc. Common Stock",U
 TJX,"TJX Companies, Inc. (The)",NYSE
 TK,Teekay Corporation,NYSE
@@ -2648,7 +2648,6 @@ TPCS,Techprecision Corporation Common Stock,U
 TPDDF,TALON ENERGY LTD Ordinary Shares,U
 TPDKY,Topdanmark AS Unsponsored ADR (Denmark),U
 TPDNF,Topdanmark AS Common Shares (Denmark),U
-TPFDF,THAI PRESIDENT FOODS PUB CO LTD NVDR SHARES Depositary Receipts,U
 TPFPF,Thai President Foods Pcl Common Shares (Thailand),U
 TPGS,TPG Pace Solutions Corp.,NYSE
 TPGTF,TPG Telecom Ltd Ordinary Shares (Australia),U
@@ -2699,7 +2698,7 @@ TPX,"TEMPUR SEALY INTERNATIONAL, INC.",NYSE
 TPYP,Tortoise North American Pipeline ETF,ARCA
 TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc.",NYSE
 TPZEF,TOPAZ ENERGY CORP COM (Canada),U
-TQLBD,"Torque Lifestyle Brands, Inc. Common Stock",U
+TQLB,"Torque Lifestyle Brands, Inc. Common Stock",U
 TQQQ,ProShares UltraPro QQQ,NASDAQ
 TR,"Tootsie Roll Industries, Inc.",NYSE
 TRAA,Traack Technologies Inc. Common Stock,U
@@ -3704,6 +3703,7 @@ VABS,Virtus Newfleet ABS/MBS ETF,ARCA
 VAC,MARRIOTT VACATIONS WORLDWIDE CORPORATION,NYSE
 VACC,Vaccitech plc American Depositary Shares,NASDAQ
 VACNY,VAT Group AG American Depositary Receipts - Unsponsored (Switzerland),U
+VADP,Vado Corp. Common Stock,U
 VAIAF,Vaisala Oy Ordinary Shares -A- (Finland),U
 VAL,Valaris Limited,NYSE
 VAL WS,Valaris Limited Warrants to purchase Common Shares,NYSE
@@ -4259,6 +4259,7 @@ VSCFF,Viscofan Industria Navarra de Envolturas Celulosicas Sa Ordinary Shares (S
 VSCO,Victoria's Secret & Co.,NYSE
 VSDA,Victory Portfolios II VictoryShares Dividend Accelerator ETF,NASDAQ
 VSEC,VSE Corporation Common Stock,NASDAQ
+VSFFF,VISION FAME INTERNATIONAL HOLDING LIMITED SHS NEW (Cayman Islands),U
 VSGX,Vanguard ESG International Stock ETF,BATS
 VSH,"Vishay Intertechnology, Inc.",NYSE
 VSIOF,VISION INC Common Stock,U

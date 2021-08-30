@@ -1694,6 +1694,7 @@ OODH,Orion Diversified Holding Co Inc. COMM,U
 OOGI,"C2E Energy, Inc. Common Stock",U
 OOMA,"Ooma, Inc. Common Stock",NYSE
 OONEF,01 Communique Lab Inc Common Shares (Canada),U
+OOOOF,OOOOO ENTMT COMM LTD COM (Canada),U
 OOTO,Direxion Daily Travel & Vacation Bull 2X Shares,ARCA
 OPA,Magnum Opus Acquisition Limited,NYSE
 OPA U,"Magnum Opus Acquisition Limited Units, each consisting of one Class A ordinary share and one-half re",NYSE
@@ -4155,6 +4156,7 @@ RETDF,REIT 1 LTD SHS REIT (Israel),U
 RETL,Direxion Daily Retail Bull 3X Shares,ARCA
 RETO,"ReTo Eco-Solutions, Inc. Common Shares",NASDAQ
 REV,"Revlon, Inc.",NYSE
+REVEU,Alpine Acquisition Corporation Unit,NASDAQ
 REVG,"REV Group, Inc.",NYSE
 REVH,Revolution Healthcare Acquisition Corp. SAIL Class A Common Stock,NASDAQ
 REVHU,Revolution Healthcare Acquisition Corp. SAIL Units,NASDAQ
@@ -4178,7 +4180,6 @@ RF,Regions Financial Corp.,NYSE
 RF PRB,REGIONS FINANCIAL CORPORATION,NYSE
 RF PRC,"Regions Financial Corporation Depositary Shares, each Representing a 1/40th Interest in a Share of 5",NYSE
 RF PRE,"Regions Financial Corporation Depositary Shares, Each Representing a 1/40th Interest in a Share of 4",NYSE
-RFAP,First Trust Exchange-Traded Fund III First Trust RiverFront Dynamic Asia Pacific ETF,NASDAQ
 RFBC,Romana Food Brands Corp. Common Stock,U
 RFCI,RiverFront Dynamic Core Income,ARCA
 RFCS,"Refocus Group, Inc. Common Stock",U
@@ -4283,8 +4284,10 @@ RICE,Rice Acquisition Corp.,NYSE
 RICE U,"Rice Acquisition Corp. Units, each consisting of one share of our Class A common stock and one-half",NYSE
 RICE WS,"Rice Acquisition Corp. Warrants, exercisable for one share of Class A common stock at an exercise pr",NYSE
 RICK,"RCI Hospitality Holdings, Inc. Common Stock",NASDAQ
+RICO,Agrico Acquisition Corp. Class A Ordinary Shares,NASDAQ
 RICOF,Ricoh Co Ltd Ordinary Shares,U
 RICOU,Agrico Acquisition Corp. Unit,NASDAQ
+RICOW,Agrico Acquisition Corp. Warrant,NASDAQ
 RICOY,"Ricoh Company, Ltd. Sponsored American Depositary Receipt",U
 RIDE,Lordstown Motors Corp. Class A Common Stock,NASDAQ
 RIDYF,Ridley Corp Ordinary Shares,U
@@ -4356,7 +4359,6 @@ RKNCF,RIKEN CORP SHS (Japan),U
 RKNEF,Optiva Inc. Ordinary Shares,U
 RKOS,Arkose Energy Corp. Common Stock,U
 RKSCF,Rocksheild Capital Corp. Ordinary Shares (Canada),U
-RKSLF,RAKSUL INC Ordinary Shares,U
 RKT,"Rocket Companies, Inc.",NYSE
 RKTA,Rocket Internet Growth Opportunities Corp.,NYSE
 RKTA U,"Rocket Internet Growth Opportunities Corp. Units, each consisting of one Class A ordinary share and",NYSE
@@ -5592,4 +5594,3 @@ SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
 SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
 SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
 SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
-SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U

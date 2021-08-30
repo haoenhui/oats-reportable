@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPKB,Chesapeake Bancorp Common Stock,U
+CPKF,Chesapeake Financial Shares Inc Common Stock,U
+CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
+CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U
 CPKPY,C P Pokphand Co Ltd Sponsored ADR (Bermuda) USD,U
 CPLCF,IShares VII PLC Exchange Traded Fund,U
 CPLG,CorePoint Lodging Inc. Common Stock,NYSE
@@ -908,6 +912,7 @@ DDF,"Delaware Investments Dividend & Income Fund, Inc.",NYSE
 DDG,Proshares Short Oil & Gas,ARCA
 DDHLF,DDH1 LTD ORDINARY FULLY PAID (Australia),U
 DDHRF,Dream Impact Trust Unit,U
+DDI,"DoubleDown Interactive Co., Ltd. American Depository Shares",NASDAQ
 DDIAF,Margaret Lake Diamond Inc Ordinary Shares (Canada),U
 DDIV,First Trust Exchange-Traded Fund VI First Trust Dorsey Wright Momentum & Dividend ETF,NASDAQ
 DDL,Dingdong (Cayman) Limited American Depositary Shares (each two representing three Ordinary Shares),NYSE
@@ -2945,7 +2950,6 @@ EXEL,"Exelixis, Inc. Common Stock",NASDAQ
 EXEO,Exeo Entmt Inc Common Stock,U
 EXER,Exact Energy Resources Inc Common Stock,U
 EXETF,"Extendicare, Inc. Common Shares (Canada)",U
-EXFO,EXFO Inc,NASDAQ
 EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,NYSE
 EXHI,Exlites Holdings International Inc Common Stock,U
 EXI,iShares Global Industrials ETF,ARCA
@@ -2960,7 +2964,6 @@ EXMXF,Dropsuite Ltd. Ordinary Shares,U
 EXN,Excellon Resources Inc.,AMEX
 EXNN,Exent Corporation Common Stock,U
 EXNPF,Energy Absolute Pub Ltd Foreign Shares (Thailand),U
-EXNRF,Excellon Resources Inc. Warrant Exp 08/27/2021 (Canada),U
 EXNT,"EnXnet, Inc. Common Stock",U
 EXOPF,Exopharm Ltd  Ordinary Shares (Australia),U
 EXP,"Eagle Materials, Inc.",NYSE
@@ -3062,6 +3065,7 @@ FATBP,FAT Brands Inc. 8.25% Series B Cumulative Preferred Stock,NASDAQ
 FATBW,FAT Brands Inc. Warrant,NASDAQ
 FATE,"Fate Therapeutics, Inc. Common Stock",NASDAQ
 FATLF,FATTAL HLDGS 1998 LTD Common Shares Israel(IL ),U
+FATPU,Fat Projects Acquisition Corp Unit,NASDAQ
 FATT,Fat Tail Risk ETF,ARCA
 FAUG,FT Cboe Vest U.S. Equity Buffer ETF - August,BATS
 FAURY,FAURECIA SE American Depositary Receipts - Unsponsored,U
@@ -4473,6 +4477,7 @@ GCBC,"Greene County Bancorp, Inc. Common Stock",NASDAQ
 GCC,WisdomTree Enhanced Commodity Strategy Fund,ARCA
 GCCFF,Golden Cariboo Resources Ltd Ordinary Shares,U
 GCCO,Garden City Co (Co) Common Stock,U
+GCCVF,GCA CORP SHS (Japan),U
 GCEA,GRIFFIN CAP ESSENTIAL ASSET REIT INC COM CL E Common Stock,U
 GCEC,GS FIN CORP Other,U
 GCEH,"Global Clean Energy Holdings, Inc. Common Stock",U
@@ -5527,7 +5532,6 @@ GUNR,FlexShares Global Upstream Natural Resources Index Fund,ARCA
 GUNYF,GUNOSY INC Common Shares,U
 GUOCY,Guocoland Ltd Unsponsored ADR (Singapore),U
 GUOHF,Grupo Radio Centro SA de CV A Shares (Mexico),U
-GUOLF,GUOCOLAND LTD Ordinary Shares,U
 GUONF,GUOLIAN SECS CO LTD REGISTERED SHARES H (China),U
 GUORF,GL LTD Ordinary Shares,U
 GUOSF,GUOTAI JUNAN SECURITIES CO LTD Ordinary Shares BEARER\SHARES H\02611 China(CN),U
@@ -5560,8 +5564,6 @@ GVP,"GSE Systems, Inc. Common Stock",NASDAQ
 GVSI,Good Vibrations Shoes Inc. Common Stock,U
 GVXXF,Goviex Uranium Inc Ordinary Shares Cl A (Canada),U
 GVYB,GOLDEN VY BANCSHARES INC Common Stock,U
-GWAC,Good Works Acquisition Corp. Common Stock,NASDAQ
-GWACW,Good Works Acquisition Corp. Warrant,NASDAQ
 GWAXF,GWA GROUP LTD Ordinary Shares Australia(AU ),U
 GWAXY,GWA Group Limited American Depositary Receipts - Unsponsored,U
 GWB,"Great Western Bancorp, Inc.",NYSE
@@ -5593,4 +5595,3 @@ GWW,"W.W. Grainger, Inc.",NYSE
 GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
 GWX,SPDR S&P International Small Cap ETF,ARCA
 GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
-GWYNF,Genoway Ordinary Shares  France (FR),U

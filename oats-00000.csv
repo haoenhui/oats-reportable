@@ -18,7 +18,7 @@ AACIU,Armada Acquisition Corp. I Unit,NASDAQ
 AACOU,Advancit Acquisition Corp. I Units,NASDAQ
 AACS,"American Commerce Solutions, Inc. Common Stock",U
 AACTF,AURORA SOLAR TECHNOLOGIES INC  Common Shares,U
-AADI,"Aadi Biosciences, Inc. Common Stock",NASDAQ
+AADI,"Aadi Bioscience, Inc. Common Stock",NASDAQ
 AADR,AdvisorShares Dorsey Wright ADR ETF,NASDAQ
 AAEEF,Altair Res Inc Common Shares,U
 AAGC,All American Gold Corp. Common Stock,U
@@ -294,7 +294,9 @@ ACRE,Ares Commercial Real Estate Corporation,NYSE
 ACRFF,Accor S A (F) Ordinary Shares,U
 ACRHF,"Acreage Holdings, Inc. Class E Sub Vtg Ord Shs (Canada)",U
 ACRL,"Atacama Resources International, Inc. Common Stock",U
+ACRO,Acropolis Infrastructure Acquisition Corp.,NYSE
 ACRO U,"Acropolis Infrastructure Acquisition Corp. Units, each consisting of one share of Class A Common Sto",NYSE
+ACRO WS,"Acropolis Infrastructure Acquisition Corp. Warrants, each exercisable for one share of Class A Commo",NYSE
 ACRS,"Aclaris Therapeutics, Inc. Common Stock",NASDAQ
 ACRX,"AcelRx Pharmaceuticals, Inc. Common Stock",NASDAQ
 ACSAF,Acs Actividades de Construccion y Servicios SA Ordinary Shares (Spain),U
@@ -4789,6 +4791,7 @@ CHVEF,Charisma Energy Services Ltd. Ordinary Shares (Singapore),U
 CHVKF,China Vanke Co Ltd. Ordinary Shares (China),U
 CHVKY,China Vanke Co Ltd American Depositary Receipts - Unsponsored (China),U
 CHW,Calamos Global Dynamic Income Fund Common Stock,NASDAQ
+CHWAU,CHW Acquisition Corporation Unit,NASDAQ
 CHWE,Chinawe.com Inc. Common Stock,U
 CHWRF,China Tower Corp Registered Shares H 00788 (China),U
 CHWTF,Coolpad Group Ltd Ordinary Shares (Cayman Islands),U
@@ -4834,6 +4837,8 @@ CIDM,"Cinedigm Corp., Class A Common Stock",NASDAQ
 CIEN,Ciena Corporation,NYSE
 CIEZF,Corporacion Interame Ent L Ser Ordinary Shares,U
 CIF,MFS Intermediate High Income Fund,NYSE
+CIFR,Cipher Mining Inc. Common Stock,NASDAQ
+CIFRW,Cipher Mining Inc. Warrant,NASDAQ
 CIG,Companhia Energetica De Minas Gerais-CEMIG,NYSE
 CIG C,Companhia Energetica De Minas Gerais-CEMIG,NYSE
 CIGHF,Camsing Intl Hldg Ltd Ordinary Shares  (Cayman Islands),U
@@ -5242,7 +5247,6 @@ CNBKA,"Century Bancorp, Inc. Class A Common Stock",NASDAQ
 CNBKB,"Century BanCorp, Inc. Common Stock Class B",U
 CNBL,Citizens National Bancshares Of Bossier Inc Common Stock,U
 CNBN,CNB Bk Shs Inc Common Stock,U
-CNBOL,CONNECTONE BANCORP INC NEW DEPOSITARY SHS REPSTG A 1/40TH INT IN SH FXD-RATE RESET NON-CUMULATIVE PERPETUAL PFD STK SER A,U
 CNBP,"Cornerstone Bancorp, Inc. Common Shares",U
 CNBQF,AYR WELLNESS INC Warrant,U
 CNBS,Amplify Seymour Cannabis ETF,ARCA
@@ -5337,6 +5341,7 @@ CNO,"CNO Financial Group, Inc.",NYSE
 CNO PRA,"CNO Financial Group, Inc. 5.125% Subordinated Debentures due 2060",NYSE
 CNOB,"ConnectOne Bancorp, Inc. Common Stock",NASDAQ
 CNOBF,HEMLO EXPLORERS INC Common Shares,U
+CNOBP,"ConnectOne Bancorp, Inc. Depositary Shares, each representing a 1/40th interest in a share of 5.25% Fixed-Rate Reset Non-Cumulative Perpetual Preferred Stock, Series A",NASDAQ
 CNONF,LYNX GLOBAL DIGITAL FIN CORP Common Stock,U
 CNP,"CenterPoint Energy, Inc.",NYSE
 CNP PRB,"CenterPoint Energy, Inc. Depositary Shares Each Representing a 1/20th Interest in a Share of 7.00% S",NYSE
@@ -5590,7 +5595,3 @@ CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
 CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
 CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
 CPK,Chesapeake Utilities,NYSE
-CPKB,Chesapeake Bancorp Common Stock,U
-CPKF,Chesapeake Financial Shares Inc Common Stock,U
-CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
-CPKPF,CP Pokphand Co Ltd  Ordinary Shares (Bermuda) USD $.01 Par,U
