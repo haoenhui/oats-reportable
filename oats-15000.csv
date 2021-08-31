@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+MTD,Mettler-Toledo International,NYSE
+MTDR,MATADOR RESOURCES COMPANY,NYSE
+MTEHF,St. Anthony Gold Corp.  Ordinary Shares,U
 MTEI,Mountain Energy Inc Common Stock,U
 MTELF,MOTA-ENGIL SGPS SA LINDA-A-VELHA SHS (Portugal),U
 MTEM,"Molecular Templates, Inc. Common Stock",NASDAQ
@@ -1024,13 +1027,13 @@ NSPR,InspireMD Inc. Common Stock,NASDAQ
 NSPRZ,"InspireMD, Inc. Series B Warrants",NASDAQ
 NSPT,Newron Sport  Common Stock,U
 NSPX,"Inspyr Therapeutics, Inc.  Common Stock",U
+NSR,Nomad Royalty Company Ltd.,NYSE
 NSRCF,"Nextsource Materials, Inc. (CAN) Common Stock",U
 NSRGF,Nestle Sa Cham Et Vevey Ordinary Shares,U
 NSRGY,Nestle SA Sponsored ADR representing Registered Shares Series B (Switzerland),U
 NSRPF,Novo Res Corp Common shares (Canada),U
 NSRS,North Springs Resources Corp. Common Stock,U
 NSRWF,NOMAD RTY CO LTD Warrant   11/19/2022,U
-NSRXF,NOMAD RTY CO LTD Common Shares,U
 NSS,"NUSTAR LOGISTICS, L.P. 7.625% Fixed-to-Floating Rate Subordinated Notes due 2043",NYSE
 NSSC,"NAPCO Security Technologies, Inc. Common Stock",NASDAQ
 NSSXF,NS Solutions Corp Tokyo Ordinary Shares (Japan),U
@@ -1392,6 +1395,7 @@ OACB WS,"Oaktree Acquisition Corp. II Warrants, each whole warrant exercisable f
 OAK PRA,"Oaktree Capital Group, LLC 6.625% Series A Preferred units",NYSE
 OAK PRB,"Oaktree Capital Group, LLC 6.550% Series B Preferred Units",NYSE
 OAKV,Oak View National Bank Warrenton VA Common,U
+OAMCF,OverActive Media Corp. Common Stock (Canada),U
 OAOFY,PJSC Tatneft American Depositary Receipts - Sponsored,U
 OARFF,Fort St. James Nickel Corp. Ordinary Shares,U
 OARRF,OAR RES LTD Ordinary Shares,U
@@ -3013,7 +3017,6 @@ PPRW,"Premier Power Renewable Energy, Inc. Common Stock",U
 PPSF,Peoples-Sidney Financial Corporation Common Stock,U
 PPSHY,Pushpay Holdings Limited American Depositary Receipts - Unsponsored (New Zealand),U
 PPSI,"Pioneer Power Solutions, Inc. Common Stock",NASDAQ
-PPSSF,Praemium Ltd. Ordinary Shares (Australia),U
 PPSTF,PEPSI-COLA PRODUCTS PHILIPPINES INC Ordinary Shares (Phillippines),U
 PPT,Putnam Premier Income Trust,NYSE
 PPTA,Perpetua Resources Corp. Common Shares,NASDAQ
@@ -3356,7 +3359,7 @@ PTC,PTC Inc. Common Stock,NASDAQ
 PTCAY,PT Chandra Asri Petrochemical Unsponsored ADR (Indonesia),U
 PTCDF,PT Ciputra Development TBK Ordinary Shares Indonesia(ID ),U
 PTCHF,PureTech Health PLC Ordinary Shares (United Kingdom),U
-PTCO,PetroGas Company Common Stock,U
+PTCOD,PetroGas Company Common Stock,U
 PTCP,Petrocorp Inc. Common Stock,U
 PTCT,"PTC Therapeutics, Inc. Common Stock",NASDAQ
 PTCXF,PT Wilmar Cahaya Indonesia TBK Ordinary Shares (Indonesia),U
@@ -3464,6 +3467,7 @@ PTTN,"Patten Energy Solutions Group, Inc. Common Stock",U
 PTTPF,PTT Public Company Limited Common Stock (Thailand),U
 PTTTS,Palmetto Real Estate Trust SBI,U
 PTTWF,Orange Polska SA SHS (Poland),U
+PTUUF,Purepoint Uranium Group Inc Common Shares (Canada),U
 PTVE,Pactiv Evergreen Inc. Common stock,NASDAQ
 PTVRF,Petro Victory Energy Corp. Ordinary Shares,U
 PTWCF,PT ARWANA CITRAMULIA TBK Ordinary Shares,U
@@ -3494,7 +3498,6 @@ PUKPF,Prudential Plc Ord Ordinary Shares,U
 PULM,"Pulmatrix, Inc. Common Stock",NASDAQ
 PULS,PGIM Ultra Short Bond ETF,ARCA
 PUMD,"ProUroCare Medical, Inc. Common Stock",U
-PUMGF,Purepoint Uranium Group Inc Common Shares (Canada),U
 PUMP,ProPetro Holding Corp.,NYSE
 PUMSY,Puma SE American Depositary Shares - Unsponsored,U
 PUNB,Putnam Cnty Natl Bk Carmel N Y Common Stock,U
@@ -3677,7 +3680,7 @@ QDEL,Quidel Corporation Common Stock,NASDAQ
 QDF,FlexShares Quality Dividend Index Fund,ARCA
 QDIV,Global X S&P 500 Quality Dividend ETF,ARCA
 QDLC,Quadlogic Controls Corp Common Stock,U
-QDMI,QDM INTL INC Common Stock,U
+QDMID,QDM INTL INC Common Stock,U
 QDPL,Pacer Metaurus US Large Cap Dividend Multiplier 400 ETF,ARCA
 QDROF,Quadro Resources Ltd. Ordinary Shares (Canada),U
 QDRSF,"Quadrise Fuels International PLC, London Ordinary Shares (United Kingdom)",U
@@ -4519,7 +4522,9 @@ ROBOF,"Robo Group TEK, Ltd. Ordinary Shares",U
 ROBT,First Trust Exchange-Traded Fund VI First Trust Nasdaq Artificial Intelligence and Robotics ETF,NASDAQ
 ROBXF,"Robix Environmental Technologies, Inc. Ordinary Shares (Canada)",U
 ROCAF,Roca Mines Inc Ordinary Shares (Canada),U
+ROCG,Roth CH Acquisition IV Co. Common Stock,NASDAQ
 ROCGU,Roth CH Acquisition IV Co. Unit,NASDAQ
+ROCGW,Roth CH Acquisition IV Co. Warrant,NASDAQ
 ROCK,"Gibraltar Industries, Inc. Common Stock",NASDAQ
 ROCLF,"Royal Olympic Cruise Lines, Inc. Ordinary Shares (Liberia)",U
 ROCR,Roth CH Acquisition III Co. Common stock,NASDAQ
@@ -4890,7 +4895,6 @@ SAENF,Solar Alliance Energy Inc New Common Shares,U
 SAEOF,Sanden Hldgs Corp Ordinary Shares (Japan),U
 SAEUF,Saturn Oil & Gas Inc. Common Shares,U
 SAEYY,Shop Apotheke Europe NV  American Depositary Receipts - Unsponsored,U
-SAF,Saratoga Investment Corp. 6.25% Notes due 2025,NYSE
 SAFE,Safehold Inc.,NYSE
 SAFLF,Safilo Group Spa Vicenza Ordinary Shares (Italy),U
 SAFLY,Safilo Group Spa Vicenza American Depositary Shares (Italy),U
@@ -5409,7 +5413,6 @@ SFNC,Simmons First National Corporation Class A Common Stock,NASDAQ
 SFNXF,Sa Sofina Ordinary Shares,U
 SFOR,"Strikeforce Technologies, Inc. Common Stock",U
 SFOSF,Shanghai Fosun Pharmaceutical Group Co Ltd Registered Shares (China),U
-SFPCF,SNC FORMER PUBLIC CO LTD SHARES (Thailand),U
 SFPI,"Santa Fe Petroleum, Inc. Common Stock",U
 SFRFF,Silver Fields Resources Inc. Ordinary Shares (Canada),U
 SFRGF,"Salvatore Ferragamo S.P.A., Firenze Ordinary Shares (Italy)",U
@@ -5591,6 +5594,3 @@ SHIPW,Seanergy Maritime Holdings Corp Class A Warrants,NASDAQ
 SHIPZ,Seanergy Maritime Holdings Corp Class B Warrant,NASDAQ
 SHJBF,SHANGHAI JUNSHI BIOSCIENCES CO LTD SHARES H 01877 (China),U
 SHKBF,SHIBUYA KOGYO CO LTD SHS (Japan),U
-SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
-SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
-SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U

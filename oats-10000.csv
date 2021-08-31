@@ -1,4 +1,6 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+GWX,SPDR S&P International Small Cap ETF,ARCA
+GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U
 GWYNF,Genoway Ordinary Shares  France (FR),U
 GWYT,Greenway Technology Common Stock,U
 GXC,SPDR S&P China ETF,ARCA
@@ -3130,7 +3132,7 @@ KLMR,KLM Royal Dutch Airlines Common Stock New York Registry,U
 KLNE,Direxion Daily Global Clean Energy Bull 2X Shares,ARCA
 KLOC,Kushner-Locke Company (The) Common Stock,U
 KLPEF,Klepierre Sa Ord Ordinary Shares,U
-KLR,"Kaleyra, Inc.",AMEX
+KLR,"Kaleyra, Inc.",NYSE
 KLR WS,"Kaleyra, Inc. Warrants, each whole Warrant exercisable for one share of Common Stock at an exercise",AMEX
 KLRGF,Keller Group Plc Ord 10 Par Ordinary Shares,U
 KLSVF,Klondike Silver Corp Common Shares (Canada),U
@@ -3363,7 +3365,6 @@ KSKGF,Kingsgate Consolidated Nl Ordinary Shares,U
 KSLLF,KALERA AS Other Norway(NO ),U
 KSM,DWS Strategic Municipal Income Trust,NYSE
 KSMRF,"Contagious Gaming, Inc. Ordinary Shares",U
-KSNIF,Kasen International Holdings Limited Ordinary Shares (Cayman Islands),U
 KSOJF,Kisoji Co Ltd SHS (Japan),U
 KSPHF,Kissei Pharmaceuticals Co Ltd Ordinary Shares (Japan),U
 KSPN,Kaspien Holdings Inc. Common Stock,NASDAQ
@@ -4350,6 +4351,7 @@ MAGOF,Man SE Ordinary Shares (Germany),U
 MAGOY,Man SE Unsponsored ADR (Germany),U
 MAGP,"Magplane Technology, Inc. Common Stock",U
 MAGS,Magal Security Systems Ltd. Ordinary Shares,NASDAQ
+MAGTF,Magnet Forensics Inc Sub Voting Shs (Canada),U
 MAHI,"Monarch Services, Inc. Common Stock",U
 MAHLY,Medipal Holdings Corp Unsponsored ADR (Japan),U
 MAHMF,Mahindra & Mahindra Ltd Reg S GDR (India),U
@@ -5466,6 +5468,7 @@ MRPZF,MR. PRICE GRP LTD Ordinary Shares,U
 MRRCF,Wayland Group Corp Ordinary Shares,U
 MRRDF,Meridian Mining UK Societas Ordinary Shares,U
 MRRHF,Marret High Yield Strategies Fund Class A Unit (Canada),U
+MRRLF,MAREL FOOD SYSTEMS HF Ordinary Shares (Iceland),U
 MRRTY,Marfrig Global Foods SA Sponsored ADR (Brazil),U
 MRRYF,Mary Agrotechnologies Inc Common Stock (Canada),U
 MRSK,Toews Agility Shares Managed Risk ETF,BATS
@@ -5591,6 +5594,3 @@ MTCH,"Match Group, Inc. Common Stock",NASDAQ
 MTCN,ArcelorMittal 5.50% Mandatorily Convertible Subordinated Notes due 2023,NYSE
 MTCPY,MTR Corporation Ltd ADR - Unsponsored (Hong Kong),U
 MTCR,"Metacrine, Inc. Common Stock",NASDAQ
-MTD,Mettler-Toledo International,NYSE
-MTDR,MATADOR RESOURCES COMPANY,NYSE
-MTEHF,St. Anthony Gold Corp.  Ordinary Shares,U

@@ -1,4 +1,8 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
+CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
+CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
+CPK,Chesapeake Utilities,NYSE
 CPKB,Chesapeake Bancorp Common Stock,U
 CPKF,Chesapeake Financial Shares Inc Common Stock,U
 CPKOF,Castle Peak Mining Ltd Common Shares (Canada),U
@@ -303,6 +307,7 @@ CSLLY,Csl Ltd SPONSORED ADR (Australia),U
 CSLT,"CASTLIGHT HEALTH, INC.",NYSE
 CSM,ProShares Large Cap Core Plus,BATS
 CSML,IndexIQ ETF Trust IQ Chaikin U.S. Small Cap ETF,NASDAQ
+CSMSF,COSMOSTEEL HOLDINGS INC Ordinary Shares (Singapore),U
 CSMYF,"COSMOS PHARMACEUTICAL CORP, MIYAZAKI SHS (Japan)",U
 CSNVF,Corbion NV Ordinary Shares,U
 CSNVY,Corbion NV Unsponsored ADR (Netherlands),U
@@ -1056,7 +1061,6 @@ DGNOF,"Diagnos, Inc. Common Shares",U
 DGNS,Dragoneer Growth Opportunities Corp. II Class A Ordinary Shares,NASDAQ
 DGNU,Dragoneer Growth Opportunities Corp. III Class A Ordinary Shares,NASDAQ
 DGNYF,Dignity Plc Sutton Coldfield Ordinary Shares (United Kingdom),U
-DGONF,Dragon Mining NL Ordinary Shares,U
 DGP,"DB Gold Double Long ETN due February 15, 2038",ARCA
 DGPIF,Data Communications Management Corp. Common Shares,U
 DGRE,WisdomTree Trust WisdomTree Emerging Markets Quality Dividend Growth Fund,NASDAQ
@@ -1476,7 +1480,6 @@ DRSK,Aptus Defined Risk ETF,BATS
 DRTGF,JET2 PLC Ordinary Shares,U
 DRTMF,DART MINING NL Common Shares,U
 DRTT,DIRTT Environmental Solutions Ltd. Common Shares,NASDAQ
-DRUA,"Dominion Energy, Inc 2016 Series A 5.25% Enhanced Junior Subordinated Notes due 2076",NYSE
 DRUNF,Dream Unlimited Corp Common Shares,U
 DRV,Direxion Daily Real Estate Bear 3X Shares,ARCA
 DRVN,Driven Brands Holdings Inc. Common Stock,NASDAQ
@@ -1595,6 +1598,7 @@ DTREF,DATELINE RESOURCES LTD Shs (Australia),U
 DTRK,"DataTrak International, Inc. Common Stock",U
 DTRL,Detroit Legal News Co Common Stock,U
 DTRO,"Deltron, Inc.Common Stock",U
+DTRTU,DTRT Health Acquisition Corp. Unit,NASDAQ
 DTSL,"Delivery Technology Solutions, Inc. Common Stock",U
 DTSOF,DTS Corp Ordinary Shares (Japan),U
 DTSRF,Ether Cap Corp Common Shares,U
@@ -3188,7 +3192,7 @@ FCT,First Trust Senior Floating Rate Income Fund II,NYSE
 FCTI,"Fact, Inc. Common Stock",U
 FCTR,First Trust Lunt U.S. Factor Rotation ETF,BATS
 FCUUF,Fission Uranium Corporation Common Shares (Canada),U
-FCUV,"Focus Universal, Inc. Common",U
+FCUV,Focus Universal Inc. Common Stock,NASDAQ
 FCVFF,"FCC Co., Ltd. Ordinary Shares (Japan)",U
 FCVT,First Trust Exchange-Traded Fund IV First Trust SSI Strategic Convertible Securities ETF,NASDAQ
 FCX,Freeport-McMoran Inc.,NYSE
@@ -3697,7 +3701,6 @@ FMOCY,Fomento de Construcciones y Contratas Sa FCC Barcelona Unsponsored ADR (Sp
 FMOO,F & M Bancorp  (Ohio) Common Stock,U
 FMPR,Fame Productions Inc. Common Stock,U
 FMS,Fresenius Medical Care AG & Co. KGaA,NYSE
-FMSVF,Forth Smart Svc Co Ltd Units Non-Voting Dep Rcpt (Thailand),U
 FMTX,"Forma Therapeutics Holdings, Inc. Common Stock",NASDAQ
 FMX,"FOMENTO ECONOMICO MEXICANO, S.A.B. DE C.V.",NYSE
 FMXUF,Fomento Economico Mexicano SAB DE Units Cons of 1 Shs-B & 4 Shs-D,U
@@ -3915,6 +3918,7 @@ FRD,"Friedman Industries, Inc",AMEX
 FRDM,Freedom 100 Emerging Markets ETF,BATS
 FRDSF,4DS Memory Ltd Ordinary Shares (Australia),U
 FRDZF,Freedom Foods Group Ltd Ordinary Shares,U
+FREDF,FREDONIA MNG INC Common Shares (Canada),U
 FREE,"Whole Earth Brands, Inc. Class A Common Stock",NASDAQ
 FREEF,FREESEAS INC Ordinary Shares,U
 FREEW,"Whole Earth Brands, Inc. Warrant",NASDAQ
@@ -4020,7 +4024,7 @@ FRZCF,Frasers Centrepoint Trust UNITS REAL ESTATE INVESTMENT TRUST (Singapore),U
 FRZT,"Freeze Tag, Inc. Common Stock",U
 FSBB,Fsb Bancorporation Common Stock,U
 FSBC,Five Star Bancorp Common Stock,NASDAQ
-FSBH,FIRST SOUTHN BK PATTERSON GA Common Stock,U
+FSBH,FIRST SOUTHERN BANK WAYCROSS GA Common Stock,U
 FSBW,"FS Bancorp, Inc. Common Stock",NASDAQ
 FSCR,Federal Screw Works Common Stock,U
 FSD,FIRST TRUST HIGH INCOME LONG/SHORT FUND,NYSE
@@ -4257,7 +4261,6 @@ FVVSF,Aranjin Resources Ltd.  Ordinary Shares,U
 FWAC,Fifth Wall Acquisition Corp. III Class A Ordinary Shares,NASDAQ
 FWAV,FOURTH WAVE ENERGY INC Common Stock,U
 FWDB,AdvisorShares FolioBeyond Smart Core Bond ETF,ARCA
-FWDEQ,"Fieldwood Energy, Inc Common Stock  Delaware",U
 FWDG,FutureWorld Corp. Common Stock,U
 FWEDF,Fireweed Zinc Ltd. Ordinary Shares (Canada),U
 FWLAF,Flatworld Acquisition Corporation Ordinary Shares (Virgin Islands British),U
@@ -4569,7 +4572,6 @@ GDXRF,Goldex Resources Corporation Ordinary Shares,U
 GDXU,MicroSectors Gold Miners 3x Leveraged ETN,ARCA
 GDYMF,Renu Energy Ltd. Ordinary Shares,U
 GDYN,"Grid Dynamics Holdings, Inc. Class A Common Stock",NASDAQ
-GDYNW,"Grid Dynamics Holdings, Inc. Warrant",NASDAQ
 GDYRF,GOODYEAR THAILAND PUBLIC CO LTD SHS FOREIGN REGISTERED (Thailand),U
 GE,General Electric Company,NYSE
 GEAGF,GEA Group Ag Ordinary Shares (Germany),U
@@ -4668,7 +4670,6 @@ GFOO,Genufood Energy Enzymes Corporation Common Stock,U
 GFOR,Graf Acquisition Corp. IV,NYSE
 GFOR U,"Graf Acquisition Corp. IV Units, each consisting of one share of common stock, and one-fifth of one",NYSE
 GFOR WS,"Graf Acquisition Corp. IV Redeemable Warrants, each whole warrant exercisable for one share of commo",NYSE
-GFPTF,Gfpt Public Co Ltd (F) Units Non-Voting Depository Receipt (Thailand),U
 GFTRF,Gold'n Futures Mineral Corp. Common Shares,U
 GFTX,"Global Fiber Technologies, Inc. Common Stock",U
 GFX,Golden Falcon Acquisition Corp.,NYSE
@@ -5593,5 +5594,3 @@ GWTI,"Greenway Technologies, Inc. Common Stock",U
 GWTR,"Global Water Technologies, Inc. Common Stock",U
 GWW,"W.W. Grainger, Inc.",NYSE
 GWWTF,GROWTHPOINT PROPERTIES LTD Ordinary Shares (South Africa),U
-GWX,SPDR S&P International Small Cap ETF,ARCA
-GWYGU,GATEWAY GARAGE PARTNERS LLC LTD LIABILITY CO INTS,U

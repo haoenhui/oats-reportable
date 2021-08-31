@@ -856,7 +856,6 @@ AIRR,First Trust Exchange-Traded Fund VI First Trust RBA American Industrial Ren
 AIRRF,"Aurion Resources, Ltd. Ordinary Shares (Canada)",U
 AIRT,"Air T, Inc. Common Stock",NASDAQ
 AIRTP,"Air T, Inc. Air T Funding Alpha Income Trust Preferred Securities",NASDAQ
-AIRTW,"Air T, Inc. Air T Funding Warrants to Purchase Alpha Income Trust Preferred Expiring 08/30/2021",NASDAQ
 AIRYY,Air China Limited Sponsored ADR (China),U
 AISFF,Amundi IDX Solutions SICAV Floating Rate USD Corp UCITS ETF USD C (Luxembourg),U
 AISSF,A I S RES LTD CDA Ordinary Shares,U
@@ -2366,7 +2365,6 @@ AZURF,Azincourt Energy Corp. Common Shares,U
 AZWSF,Aizawa Securities Co Ltd Tokyo SHS (Japan),U
 AZYO,"Aziyo Biologics, Inc. Class A Common Stock",NASDAQ
 AZZ,AZZ Inc.,NYSE
-AZZEF,Blue Star Helium Ltd Ordinary Shares,U
 AZZRY,Azrieli Group Ltd American Depositary Receipts - Unsponsored (Israel),U
 AZZTF,Aztec Minerals Corp Ordinary Shares (Canada),U
 AZZUF,Azarga Uranium Corp. Common Shares,U
@@ -2860,6 +2858,7 @@ BHSEU,Bull Horn Holdings Corp. Unit,NASDAQ
 BHSEW,Bull Horn Holdings Corp. Warrants,NASDAQ
 BHSIF,"Bayhorse Silver, Inc. Ordinary Shares (Canada)",U
 BHTG,"BioHiTech Global, Inc. Common Stock",NASDAQ
+BHTLF,Bechtle Ag Gaildorf Ordinary Shares (Germany Federal Republic),U
 BHV,BlackRock Virginia Muni Bond Trust,NYSE
 BHVN,Biohaven Pharmaceutical Holding Company Ltd.,NYSE
 BHWB,"Blackhawk Bancorp, Inc. (Wisconsin) Common Stock",U
@@ -3642,6 +3641,7 @@ BSN,Broadstone Acquisition Corp.,NYSE
 BSN U,"Broadstone Acquisition Corp. Units, each consisting of one Class A ordinary share and one-half of on",NYSE
 BSN WS,"Broadstone Acquisition Corp. Warrants, each whole warrant exercisable for one Class A ordinary share",NYSE
 BSND,Boston Sand & Gravel Co Common Stock,U
+BSNLF,Blue Star Helium Ltd Ordinary Shares,U
 BSPA,"Ballston Spa Bancorp, Inc. (NY) Common Stock",U
 BSPB,BOSP Bancshares Inc Common Stock,U
 BSPDF,PT Bumi Serpong Damai Ordinary Shares (Indonesia),U
@@ -4225,7 +4225,7 @@ CCD,Calamos Dynamic Convertible & Income Fund Common Stock,NASDAQ
 CCDBF,Ccl Inds Inc Cl B Cda Ordinary Shares,U
 CCEDF,Cascadero Copper Corp Common Shares (Canada),U
 CCEGF,Carclo Engr Grp Plc Ord Ordinary Shares,U
-CCEL,"Cryo-Cell International, Inc. Common Stock",U
+CCEL,"Cryo-Cell International, Inc. Common Stock",NASDAQ
 CCEP,Coca-Cola Europacific Partners plc,NYSE
 CCF,Chase Corporation,AMEX
 CCFC,CCSB Financial Corporation Common Stock,U
@@ -4323,6 +4323,7 @@ CDAY,Ceridian HCM Holding,NYSE
 CDBMF,Cordoba Minerals Corp. Common Shares,U
 CDBT,China Dasheng Biotechnology Company  Common Stock,U
 CDC,VictoryShares US EQ Income Enhanced Volatility Wtd ETF,NASDAQ
+CDCLF,AYURCANN HLDGS CORP Ordinary Shares,U
 CDCTF,Goldcrest Co Ltd (Tokyo) Ordinary Shares,U
 CDDRF,HEADWATER EXPL INC Ordinary Shares,U
 CDE,"Coeur Mining, Inc.",NYSE
@@ -4447,7 +4448,6 @@ CEQP,Crestwood Equity Partners LP,NYSE
 CEQP PR,Crestwood Equity Partners LP Preferred Units representing limited partner interests,NYSE
 CERAF,Ceres Acquisition Corp Com Class A Shares (Canada),U
 CERE,"Cerevel Therapeutics Holdings, Inc. Common Stock",NASDAQ
-CEREW,"Cerevel Therapeutics Holdings, Inc. Warrant",NASDAQ
 CERGF,Ceres Global Ag Corp Ordinary Shares (Canada),U
 CERN,Cerner Corporation Common Stock,NASDAQ
 CERS,Cerus Corporation Common Stock,NASDAQ
@@ -4759,6 +4759,7 @@ CHPT,"ChargePoint Holdings, Inc.",NYSE
 CHPXF,China Pacific Insurance Group Co Ltd Shares -H- (Hong Kong),U
 CHPXY,China Pacific Insurance Group Co Ltd Unsponsored American Depository Receipt (China),U
 CHRA,"Charah Solutions, Inc Common Stock",NYSE
+CHRB,"Charah Solutions, Inc. 8.50% Senior Notes due 2026",NYSE
 CHRLF,CHARLE CO LTD NEW SHS (Japan),U
 CHRNY,China Reins Group Corp American Depositary Receipts - Unsponsored Cl H (China),U
 CHRRF,"Chorus Aviation, Inc. Ordinary Shares Vtg & Variable Vtg (Canada)",U
@@ -4961,6 +4962,8 @@ CLBR,Colombier Acquisition Corp.,NYSE
 CLBR U,"Colombier Acquisition Corp. Units, each consisting of one share of Class A common stock, and one-thi",NYSE
 CLBR WS,"Colombier Acquisition Corp. Warrants, each exercisable for one share of Class A common stock at an e",NYSE
 CLBS,"Caladrius Biosciences, Inc. Common Stock",NASDAQ
+CLBT,Cellebrite DI Ltd. Ordinary Shares,NASDAQ
+CLBTW,Cellebrite DI Ltd. Warrants,NASDAQ
 CLCFF,Christina Lake Cannabis Corp Common Shares (Canada),U
 CLCGY,Clicks Group Ltd SPONSORED ADR,U
 CLCI,"CLIC Technology, Inc. Common Stock",U
@@ -5591,7 +5594,3 @@ CPHGF,CONSUN PHARMACEUTICAL GROUP LTD HKD SHS (Cayman Islands),U
 CPHI,"China Pharma Holdings, Inc.",AMEX
 CPHRF,Cipher Pharmaceuticals Inc Ordinary Shares (Canada),U
 CPI,CPI Inflation Hedged ETF,ARCA
-CPIHF,"Champion Technology Holdings, Ltd. Ordinary Shares",U
-CPIVF,CAPTIVA VERDE WELLNESS CORP Common Shares,U
-CPIX,Cumberland Pharmaceuticals Inc. Common Stock,NASDAQ
-CPK,Chesapeake Utilities,NYSE

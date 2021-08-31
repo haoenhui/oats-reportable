@@ -1,4 +1,7 @@
 Symbol,Issue_Name,Primary_Listing_Mkt
+SHKEF,SAHAKOL EQUIP PUB CO LTD SHARES (Thailand),U
+SHKLF,SINOTRUK HONG KONG LTD SHS (Hong Kong),U
+SHKLY,Sinotruk Hong Kong Ltd Unsponsored ADR (Hong Kong),U
 SHKRF,BRIGHTSTAR RES LTD Ordinary Shares,U
 SHLAF,Schindler Holding Ag Hergiswil Partn Ctfs (Switzerland),U
 SHLD,Victory Portfolios II VictoryShares Protect America ETF,NASDAQ
@@ -97,6 +100,7 @@ SIEGY,Siemens AG American Depositary Shares,U
 SIELY,Shanghai Electric Group Co Ltd Unsponsored ADR (China),U
 SIEN,"Sientra, Inc. Common Stock",NASDAQ
 SIERF,Sierra Grande Minerals Inc.  Ordinary Shares,U
+SIERU,Sierra Lake Acquisition Corp. Unit,NASDAQ
 SIETY,D IETEREN GROUP American Depositary Receipts - Unsponsored,U
 SIEVF,D IETEREN GROUP NV Ordinary Shares,U
 SIF,"SIFCO Industries, Inc.",AMEX
@@ -410,7 +414,6 @@ SMBC,"Southern Missouri Bancorp, Inc. Common Stock",NASDAQ
 SMBK,"SmartFinancial, Inc. Common Stock",NASDAQ
 SMBMF,Sembcorp Marine Ltd Shs,U
 SMBMY,Sembcorp Marine Ltd Unsponsored ADR (SMBMY),U
-SMBVF,Somboon Advance Technology Public Co Ltd Units Non -Voting Depository Receipts (Thailand),U
 SMBZF,"Simba Essel Energy, Inc. Ordinary Shares",U
 SMCAY,SMC Corp Japan SPONSORED ADR (Japan),U
 SMCBF,Siam Commercial Bk Ordinary Shares,U
@@ -1287,7 +1290,7 @@ STEV,Stevia Corp. Common Stock,U
 STFC,State Auto Financial Corporation Common Stock,NASDAQ
 STFR,STEADFAST APT REIT INC Common Stock,U
 STFYF,Standard Foods Taiwan Ltd Reg S GDR,U
-STG,"Sunlands Technology Group, American Depositary Shares,  each 25 representing one Class A Ordinary Sh",NYSE
+STG,"Sunlands Technology Group, American Depositary Shares, American Depositary Shares, every two (2) AD",NYSE
 STGAF,AFENTRA PLC Ordinary Shares,U
 STGC,STARTENGINE CROWDFUNDING INC Common Stock,U
 STGGQ,"STG Group, Inc. Common Stock",U
@@ -2165,7 +2168,6 @@ TGVSY,Tryg A/S. Unsponsored ADR (Denmark),U
 TGWWF,1933 Inds Inc Wt Exp Warrant (Canada),U
 TH,Target Hospitality Corp. Common Stock,NASDAQ
 THAFF,Thoresen Thai Agencies Public Co Ltd Shares Foreign Registered (Thailand),U
-THAMZ,THAI MITSUWA PUBLIC CO LTD UNITS NON -VOTING Depositary Receipts Thailand(TH ),U
 THBIY,Turkiye Halk Bankasi A.S. Halkbank Unsponsored ADR (Turkey),U
 THBRF,Thunderbird Entertainment Group Inc. Common Stock  (Canada),U
 THC,Tenet Healthcare Corporation New,NYSE
@@ -2556,7 +2558,6 @@ TNRG,Thunder Energies Corp. Common Stock,U
 TNRI,Titan Resources International Corporation Common Stock,U
 TNRK,"TNR Technical, Inc. Common Stock",U
 TNRSF,Tenaris SA Luxembourg Ordinary Shares,U
-TNSAY,Tecnisa S A American Depositary Receipts - Sponsored,U
 TNSGF,Findev Inc Common Shares,U
 TNSMF,Titanium Sands Ltd Common Stock (Australia),U
 TNSSF,Transalta Corp Cumulative Redeemable 1st Pfd Shs Ser A (Canada),U
@@ -2755,7 +2756,6 @@ TRITF,Tri-Tech Holding Inc. Ordinary Shares,U
 TRITW,"Triterras, Inc. Warrant",NASDAQ
 TRKA,"Troika Media Group, Inc. Common Stock",NASDAQ
 TRKAW,"Troika Media Group, Inc. Warrant",NASDAQ
-TRKCY,Trakya Cam Sanayii AS Unsponsored ADR (Turkey),U
 TRKLF,Tricklestar Ltd Ordinary Shares (Singapore),U
 TRKNF,Turk Telekomunikasyon AS Ordinary Shares (Turkey),U
 TRKNY,Turk Telekomunikasyon Unsponsored American Depository Receipt (Turkey),U
@@ -3011,7 +3011,7 @@ TTRAF,Telstra Corporation Limited Ordinary Shares,U
 TTRHF,Terra Energy Corp Ordinary Shares (Canada),U
 TTRKF,Turk Traktor Ve Ziraat Makineleri AS Ordinary Shares (Turkey),U
 TTSH,"Tile Shop Holdings, Inc. Common Stock",NASDAQ
-TTSI,"Tactical Services, Inc. Common Stock",U
+TTSID,CGS INTL INC Common Stock,U
 TTSRF,Tartisan Nickel Corp Ordinary Shares,U
 TTT,ProShares UltraPro Short 20+ Year Treasury,ARCA
 TTTGF,Titanium Transportation Group Ordinary Shares (Canada),U
@@ -3091,9 +3091,6 @@ TWCBU,Bilander Acquisition Corp. Unit,NASDAQ
 TWCF,Town and Country Financial Corporation (IL) Common Stock,U
 TWCGU,Galliot Acquisition Corp. Unit,NASDAQ
 TWCI,"T.W. Christian, Inc. Common Stock",U
-TWCT,TWC Tech Holdings II Corp. Class A Common Stock,NASDAQ
-TWCTU,TWC Tech Holdings II Corp. Unit,NASDAQ
-TWCTW,TWC Tech Holdings II Corp. Warrant,NASDAQ
 TWDLF,TRACKWISE DESIGNS LTD ORD GBP0.04 (United Kingdom),U
 TWER,TOWERSTREAM CORP Common Stock,U
 TWI,"Titan International, Inc.(Delaware)",NYSE
@@ -3250,7 +3247,7 @@ UBSFY,Ubi Soft Entertainment Sa Unsponsored ADR (France),U
 UBSI,"United Bankshares, Inc. Common Stock",NASDAQ
 UBSMF,UBS ETF SICAV MSCI Pac Ex Jap UCITS ETF A Distr (Luxembourg),U
 UBSSF,UBS SIMA SHS HLDGS Ordinary Shares,U
-UBSVF,UBS ETF SICAV BARCLAYS EURO AREA LIQ CORP 1-5Y UCITS ETF (Cl A Accum USD) (Luxembourg),U
+UBSVF,UBS ETF SICAV BARCLAYS EURO AREA LIQUID CORPORATES 1-5YR UCITS ETF (Cl A Accum USD) (Luxembourg),U
 UBSWF,UBS AG LONDON BRANCH Euro Cash Settled Call Warrants Lnk to MSCI Emerging Mkts Index 02/04/2022,U
 UBSZF,UBS AG LONDON BRANCH Call Warrants Linked to Euro Stoxx 50 Index 01/31/2025,U
 UBT,ProShares Ultra 20+ Year Treasury,ARCA
@@ -4518,6 +4515,7 @@ WDMSF,Wisdom Ed Intl Hldgs Co Ltd Common Shares (Cayman Islands),U
 WDNA,WisdomTree BioRevolution Fund,BATS
 WDOFF,Wesdome Gold Mines Ltd Ordinary Shares (Canada),U
 WDPSF,WAREHOUSES DE PAUW NV Ordinary Shares,U
+WDRGF,WONDR GAMING CORP Common Stock (Canada),U
 WDRP,Wanderport Corporation Common Stock,U
 WDSL,Wireless Data Solutions Inc Common Stock (NV),U
 WDSSF,Wisdomtree Issuer PLC US Quality Divid Grow Ucits Usd Acc Exchange Traded Fund (Ireland),U
@@ -4789,6 +4787,7 @@ WOLTF,Wolters Kluwer NV Ordinary shares (Netherlands),U
 WOLV,Wolverine Technologies Corp. Common Stock,U
 WOLWF,Woolworths Ltd Ord Ordinary Shares,U
 WOMN,Impact Shares YWCA Women's Empowerment ETF,ARCA
+WONDF,WONDERFI TECHNOLOGIES INC Ordinary Shares (Canada),U
 WONEF,WEQ Hldgs Inc Common Shares,U
 WOOD,iShares Global Timber & Forestry ETF,NASDAQ
 WOOF,"Petco Health and Wellness Company, Inc. Class A Common Stock",NASDAQ
